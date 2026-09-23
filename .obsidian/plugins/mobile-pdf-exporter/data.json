@@ -1,6 +1,6 @@
 {
   "language": "auto",
-  "outputLocation": "folder",
+  "outputLocation": "current",
   "outputFolder": "PDF Exports",
   "marginMm": 7,
   "includeTitle": true,
@@ -9,14 +9,14 @@
   "rememberLastExportOptions": true,
   "openAfterExport": true,
   "noteExportMode": "selectable",
-  "pagePreset": "a4",
+  "pagePreset": "current",
   "pageOrientation": "portrait",
   "colorMode": "color",
   "contentScalePercent": 100,
   "imageRasterScale": 3,
-  "currentPageWidthPx": 411.4285888671875,
-  "currentPageHeightPx": 857,
+  "currentPageWidthPx": 1080,
+  "currentPageHeightPx": 662,
   "zipEmbedDepth": 0,
   "previewEnabled": true,
-  "previewCollapsed": true
+  "previewCollapsed": false
 }

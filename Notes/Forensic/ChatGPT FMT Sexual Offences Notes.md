@@ -1,4 +1,8 @@
+# ChatGPT Forensic Medicine & Toxicology — Sexual Offences & Medico-Legal Examination of Sexual Assault Survivors
 
+> **Exam focus:** Consent, rape definition, age, medico-legal examination, two-finger test, hymen, injuries, semen examination, DNA evidence, time window for evidence collection, STI/HIV prophylaxis, emergency contraception, POCSO, documentation and medico-legal opinion.
+
+---
 
 # 1. Core Concept
 

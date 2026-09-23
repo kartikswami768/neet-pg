@@ -11,9 +11,5 @@
   "pdf-printer",
   "obsidian-tasks-plugin",
   "ical",
-  "obsidian-git",
-  "obsidian-minimal-settings",
-  "obsidian-importer",
-  "tasknotes",
-  "notebook-navigator"
+  "obsidian-git"
 ]
