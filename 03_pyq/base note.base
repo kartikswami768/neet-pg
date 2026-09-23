@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("00_pyq")
+    order:
+      - file.name
+      - file.backlinks
+      - file.folder
+      - file.links
+  - type: list
+    name: View
+    indentProperties: true
