@@ -2,6 +2,8 @@
 title: Pediatrics TND
 tags:
   - TND
+  - pediatrics
+Subject: Pediatrics
 ---
 
 
