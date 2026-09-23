@@ -1,104 +1,39 @@
 {
   "main": {
-    "id": "1b935bfd1ca2d189",
+    "id": "fb4e059fd5a6ce7a",
     "type": "split",
     "children": [
       {
-        "id": "da18f70411a9d671",
+        "id": "91f4020da26651bc",
         "type": "tabs",
         "children": [
           {
-            "id": "abc1f6b3cafc8f27",
+            "id": "a37d4da23513ec82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Pharmacology/03_Autonomic_Nervous_System.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "03_Autonomic_Nervous_System"
-            }
-          },
-          {
-            "id": "b1d3a125e6f9f4f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensics PYQ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Forensics PYQ"
-            }
-          },
-          {
-            "id": "3570fb7903b5115e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Strategy/DASHBOARD.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "DASHBOARD"
-            }
-          },
-          {
-            "id": "237b750878cc1dc9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Strategy/Tasks.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Tasks"
-            }
-          },
-          {
-            "id": "1216fa213dde4172",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensics PYQ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Forensics PYQ"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5f1459951271d979",
+    "id": "b82403dbbd592e85",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "ce3207ea08e95b52",
+        "id": "60d98a37cc48215d",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": true,
+            "autoReveal": false,
             "showSearch": false,
             "searchQuery": ""
           },
@@ -107,7 +42,7 @@
         }
       },
       {
-        "id": "35bd6e63ed4e1938",
+        "id": "1b75bcc87c9be75c",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -124,7 +59,7 @@
         }
       },
       {
-        "id": "c8a36bc90b7850d1",
+        "id": "874ecece227bcd44",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -139,7 +74,7 @@
         }
       },
       {
-        "id": "9df627d2beab98fb",
+        "id": "2eda70e69bc1dbcf",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -153,11 +88,14 @@
         }
       },
       {
-        "id": "a067c53e7dcf573e",
+        "id": "ec1b891bb82e20e8",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {},
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
@@ -166,35 +104,34 @@
     "currentTab": 0
   },
   "right": {
-    "id": "4518089bba2f41f2",
+    "id": "58ab7191e6102833",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "1ac1bfc53246698e",
+        "id": "a100d95dea456082",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/Pediatrics/Markdown_Package/Pediatrics TND.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": false
+            "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
           "title": "Backlinks"
         }
       },
       {
-        "id": "1eebb2bdbde887ec",
+        "id": "608a73d01b43cd96",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "PDFs/Pediatrics_Full_Notes_v28.pdf",
+            "file": "Untitled/Test file 2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -203,13 +140,13 @@
         }
       },
       {
-        "id": "a68e9f130fbe561e",
+        "id": "20929f7a6b03d077",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Forensics PYQ.md",
-            "followCursor": true,
+            "file": "Untitled/Test file 2.md",
+            "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
           },
@@ -218,39 +155,7 @@
         }
       },
       {
-        "id": "bec7b418a96268ef",
-        "type": "leaf",
-        "state": {
-          "type": "advanced-tables-toolbar",
-          "state": {},
-          "icon": "spreadsheet",
-          "title": "Advanced Tables"
-        }
-      },
-      {
-        "id": "455576fe780d7b8c",
-        "type": "leaf",
-        "state": {
-          "type": "footnotes",
-          "state": {
-            "file": "Notes/Forensic/Forensic_Medicine_Toxicology_Comprehensive_Reconstruction.md"
-          },
-          "icon": "lucide-file-signature",
-          "title": "Footnotes"
-        }
-      },
-      {
-        "id": "cad44c1f2223609f",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw-sidepanel",
-          "state": {},
-          "icon": "excalidraw-icon",
-          "title": "Excalidraw Sidepanel"
-        }
-      },
-      {
-        "id": "574a9692391d1978",
+        "id": "12e44563ac12461e",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -260,11 +165,15 @@
         }
       }
     ],
-    "currentTab": 6,
-    "pinnedSize": 342.4617694579873
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "pencil:New whiteboard": false,
+      "mobile-pdf-exporter:Export preview PDF": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -272,64 +181,55 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "pencil:New whiteboard": false,
-      "mobile-pdf-exporter:Export preview PDF": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1216fa213dde4172",
+  "active": "12e44563ac12461e",
   "lastOpenFiles": [
-    "Notes/Forensic/03 Forensic Pathology.md",
-    "Notes/Forensic/04_Forensic_Medicine_Sexual_Jurisprudence_Reconstruction.md",
-    "Forensics PYQ.md",
-    "Notes/Forensic/ChatGPT FMT Sexual Offences Notes.md",
-    "Notes/Pharmacology/03_Autonomic_Nervous_System.md",
-    "Notes/Forensic/05_Forensic_Medicine_Toxicology_Comprehensive_Reconstruction.md",
-    "01_inbox/Medicine NEET 2018.md",
-    "01_inbox/Untitled",
-    "00_Strategy/DASHBOARD.md",
-    "Source Corrections and Current Legal Crosswalk.md",
-    "Notes/Pediatrics/Test & Discussion/Pediatrics TND.md",
-    "Notes/Forensic/01_Forensic_Medicine_Indian_Legal_System_Comprehensive.md",
-    "Notes/Forensic/02_Forensic_Traumatology_Reconstructed.md",
-    "Notes/Forensic/06_Forensic_Psychiatry_Trace_Evidence_and_Legal_Sections_RECONSTRUCTED.md",
-    "Notes/Pharmacology/02_General_Pharmacology.md",
-    "Notes/Pharmacology/Attachments/IMG_1139.png",
-    "Notes/Pharmacology/Attachments/IMG_1138.png",
-    "Notes/Pharmacology/Attachments",
-    "00_Strategy/Tasks.md",
-    "Corrosive Poisons.md",
-    "Notes/Forensic/Forensic_Medicine_Toxicology_Corrected.md",
-    "Notes/Pharmacology/All Notes.md",
-    "Notes/Pharmacology/07_Respiratory_System.md",
-    "Notes/Pharmacology/10. Blood_Disorders_Pharmacology.md",
-    "Notes/Pharmacology/11_Antimicrobials_Part_1.md",
-    "Notes/Pharmacology/13_Anticancer_and_Immunomodulators.md",
-    "Notes/Pharmacology/06_Cardiovascular and Renal.md",
-    "Notes/Pharmacology/04_Central_Nervous_System.md",
-    "Notes/Pharmacology/12_Antimicrobials_Part_2.md",
-    "Notes/Pharmacology/09_Endocrine_System.md",
-    "Notes/Pharmacology",
-    "PDFs/Pharma /03_Autonomic_Nervous_System.pdf",
-    "PDFs/Pharma /08_GIT.pdf",
-    "PDFs/Pharma /11_Antimicrobials_Part_1.pdf",
-    "PDFs/Pharma /README.txt",
-    "PDFs/Pharma /09_Endocrine_System.pdf",
-    "PDFs/Pharma /06_Cardiovascular_System.pdf",
-    "PDFs/Pharma /05_Autacoids.pdf",
-    "Notes/Pediatrics/Test & Discussion/assets/Attachments/IMG_1137.jpeg",
-    "Notes/Pediatrics/Test & Discussion/assets/Attachments/IMG_1136.webp",
-    "01_inbox/Untitled.canvas",
+    "Notes/Pharmacology/Qbank Pharmacology_ed8.pdf",
+    "Notes/Pharmacology/Pharmacology Revision E6.5.pdf",
+    "Notes/Pharmacology/Elite-Pharmacology-1.pdf",
+    "README.md",
+    "Untitled/Test file 2.md",
+    "Concepts/Nephrology/Pharmacology/Loop Diuretics vs Thiazides.md",
     "Concepts/Nephrology/Pharmacology/Attachments/IMG_1039.png",
-    "Attachments/IMG_0926.png",
-    "Attachments/IMG_0906.jpeg",
-    "Attachments/IMG_0907.png",
-    "Attachments/IMG_0905.jpeg",
+    "Concepts/Fluids and Electrolytes/Mini Harrison/Hyponatremia.md",
+    "Concepts/Nephrology/Pharmacology/Diuretics.md",
+    "Concepts/Fluids and Electrolytes/Mini Harrison/Hypernatremia.md",
+    "03_pyq/Endocine/Thyroid Storm.md",
+    "03_pyq/Neurology/Ascending Tracts.md",
+    "02_index/Neurology/Neurology PYQ.md",
+    "03_pyq/Endocine/Circadian rhythm.md",
+    "03_pyq/Nutrition/Menke’s Disease.md",
+    "02_index/GIT/GI surgery virtual list.md",
+    "03_pyq/Cardiology/SA Node Action Potential.md",
+    "02_index/CVS/PHARMA CVS.md",
+    "03_pyq/Rheumatology/Rheumatoid arthritis.md",
+    "03_pyq/Hematology/Classification and diagnosis of Leukemias.md",
+    "02_index/Nutrition/Minerals.md",
+    "03_pyq/Neurology/Lateral Medullary Syndrome (PICA Syndrome).md",
+    "02_index/CVS/Physiology CVS.md",
+    "03_pyq/Endocine/Thyroid Hormone Synthesis.md",
+    "03_pyq/Metabolism/Hypercalcemia.md",
+    "02_index/GIT/Malabsorpion Syndromes.md",
+    "03_pyq/Metabolism/Glycogen Storage Disease.md",
+    "03_pyq/Endocine/Insulin Physiology.md",
+    "03_pyq/GIT/Whipple’s Disease.md",
+    "03_pyq/Metabolism/Whiteboard.pencil",
+    "03_pyq/Nephrology/Polyuria.canvas",
+    "01_inbox/Untitled.canvas",
+    "03_pyq/base note.base",
     "Attachments/Pasted image 20260115054302.png",
-    "Untitled.canvas",
-    "03_pyq/Nephrology/Polyuria.canvas"
+    "Attachments/IMG_0906.jpeg",
+    "Attachments/IMG_0899.jpeg",
+    "Attachments/IMG_0907.png",
+    "Attachments/IMG_0926.png",
+    "Attachments/IMG_0905.jpeg",
+    "01_inbox",
+    "Attachments",
+    "02_index/Nephrology",
+    "02_index/Neurology",
+    "02_index/Hematology",
+    "02_index/Endocrinology"
   ]
 }
