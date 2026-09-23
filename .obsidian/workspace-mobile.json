@@ -11,17 +11,32 @@
             "id": "a37d4da23513ec82",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "TaskNotes/Views/agenda-default.base",
-                "bFile": "TaskNotes/Views/agenda-default.base",
-                "aRef": ""
+                "file": "Notes/Pediatrics/Test & Discussion/Pediatrics TND.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff: agenda-default.base"
+              "icon": "lucide-file",
+              "title": "Pediatrics TND"
+            }
+          },
+          {
+            "id": "879782930462acaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Forensic/ChatGPT FMT Sexual Offences Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ChatGPT FMT Sexual Offences Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +164,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled/Test file 2.md",
+            "file": "Notes/Forensic/ChatGPT FMT Sexual Offences Notes.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -169,8 +184,7 @@
         }
       }
     ],
-    "currentTab": 3,
-    "pinned": true
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,14 +200,33 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Import notes": false,
+      "tasknotes:Open mini calendar view": false,
+      "tasknotes:Open calendar view": false,
+      "tasknotes:Open tasks view": false,
+      "tasknotes:Open agenda view": false,
+      "tasknotes:Open Kanban board": false,
+      "tasknotes:Open Pomodoro timer": false,
+      "tasknotes:Open Pomodoro statistics": false,
+      "tasknotes:Create new task": false
     }
   },
-  "active": "a37d4da23513ec82",
+  "active": "879782930462acaa",
   "lastOpenFiles": [
-    "Notes/Pharmacology/Qbank Pharmacology_ed8.pdf",
-    "Notes/Pharmacology/Pharmacology Revision E6.5.pdf",
-    "Notes/Pharmacology/Elite-Pharmacology-1.pdf",
+    "Notes/Forensic/ChatGPT FMT Sexual Offences Notes.md",
+    "TaskNotes/Start Here.md",
+    "Notes/Pediatrics/Test & Discussion/Pediatrics TND.md",
+    "TaskNotes/Views/relationships.base",
+    "TaskNotes/Views/pomodoro-stats.base",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views",
+    "TaskNotes",
+    "PDF Exports/ChatGPT FMT Sexual Offences Notes.docx",
     "README.md",
     "Untitled/Test file 2.md",
     "Concepts/Nephrology/Pharmacology/Loop Diuretics vs Thiazides.md",
@@ -218,23 +251,13 @@
     "03_pyq/Metabolism/Hypercalcemia.md",
     "02_index/GIT/Malabsorpion Syndromes.md",
     "03_pyq/Metabolism/Glycogen Storage Disease.md",
-    "03_pyq/Endocine/Insulin Physiology.md",
-    "03_pyq/GIT/Whipple’s Disease.md",
-    "03_pyq/Metabolism/Whiteboard.pencil",
     "03_pyq/Nephrology/Polyuria.canvas",
     "01_inbox/Untitled.canvas",
-    "03_pyq/base note.base",
     "Attachments/Pasted image 20260115054302.png",
     "Attachments/IMG_0906.jpeg",
     "Attachments/IMG_0899.jpeg",
     "Attachments/IMG_0907.png",
     "Attachments/IMG_0926.png",
-    "Attachments/IMG_0905.jpeg",
-    "01_inbox",
-    "Attachments",
-    "02_index/Nephrology",
-    "02_index/Neurology",
-    "02_index/Hematology",
-    "02_index/Endocrinology"
+    "Attachments/IMG_0905.jpeg"
   ]
 }
