@@ -1,3 +1,7 @@
+---
+Subject: Pediatrics
+type: TND
+---
 ## Clinical Featrues
 1. Recurrent non bilious vomiting (2/3rd week)
 2. visible/palpable Olive Shaped mass

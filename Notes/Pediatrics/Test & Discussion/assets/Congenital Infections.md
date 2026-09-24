@@ -1,3 +1,7 @@
+---
+Subject: Pediatrics
+type: TND
+---
 # TORCHeS
 > [!note] Common Features of TORCHeS
 > - Hepatosplenomegaly

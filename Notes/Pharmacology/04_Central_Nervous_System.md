@@ -1,3 +1,7 @@
+---
+Subject: Pharmacology
+type: Marrow
+---
 # Central Nervous System — Pharmacology
 
 > **Primary source:** attached `04_Central_Nervous_System.pdf` (22 PDF pages; printed pages 47–68).

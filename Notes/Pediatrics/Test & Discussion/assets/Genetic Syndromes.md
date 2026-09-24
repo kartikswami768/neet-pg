@@ -1,3 +1,7 @@
+---
+Subject: Pediatrics
+type: TND
+---
 # Genetic Syndromes
 ## Edward vs Patau
 > प से patau

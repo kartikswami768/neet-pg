@@ -1,12 +1,14 @@
 ---
-title: "Forensic Medicine & Toxicology — Forensic Psychiatry, Trace Evidence & Acts/Legal Sections"
-source_pdf: "06_Forensic_Psychiatry_and_Miscellaneous.pdf"
-source_edition: "Marrow Forensic Medicine v4.5 • Marrow 6.5 • 2023"
-reconstructed_on: "2026-09-20"
-scope: "Forensic Psychiatry; Trace Evidence; Acts and Legal Sections of Importance"
-format: "Obsidian-friendly comprehensive reconstruction"
+title: Forensic Medicine & Toxicology — Forensic Psychiatry, Trace Evidence & Acts/Legal Sections
+source_pdf: 06_Forensic_Psychiatry_and_Miscellaneous.pdf
+source_edition: Marrow Forensic Medicine v4.5 • Marrow 6.5 • 2023
+reconstructed_on: 2026-09-20
+scope: Forensic Psychiatry; Trace Evidence; Acts and Legal Sections of Importance
+format: Obsidian-friendly comprehensive reconstruction
+Subject: Forensics
+type: Marrow
 ---
-
+ 
 # Forensic Medicine & Toxicology — Forensic Psychiatry, Trace Evidence & Legal Sections
 
 > **Source scope:** This note reconstructs the content contained in the uploaded 26-page PDF section, covering **Forensic Psychiatry**, **Trace Evidence**, and **Acts and Legal Sections of Importance**. It does **not** add unrelated FMT chapters that are absent from this PDF.
@@ -15,12 +17,12 @@ format: "Obsidian-friendly comprehensive reconstruction"
 
 ## Contents
 
-1. [Forensic Psychiatry](#1-forensic-psychiatry)
-2. [Trace Evidence](#2-trace-evidence)
-3. [Acts and Legal Sections of Importance](#3-acts-and-legal-sections-of-importance)
-4. [Current Indian Legal Framework: High-Yield Update](#4-current-indian-legal-framework-high-yield-update)
-5. [Rapid Revision Tables](#5-rapid-revision-tables)
-6. [Source/Verification Notes](#6-sourceverification-notes)
+1. [ ] [Forensic Psychiatry](#1-forensic-psychiatry)
+2. [ ] [Trace Evidence](#2-trace-evidence)
+3. [ ] [Acts and Legal Sections of Importance](#3-acts-and-legal-sections-of-importance)
+4. [ ] [Current Indian Legal Framework: High-Yield Update](#4-current-indian-legal-framework-high-yield-update)
+5. [ ] [Rapid Revision Tables](#5-rapid-revision-tables)
+6. [ ] [Source/Verification Notes](#6-sourceverification-notes)
 
 ---
 
@@ -1317,253 +1319,502 @@ Current statutory concept under **section 64A**:
 
 ---
 
-# 4. Current Indian Legal Framework: High-Yield Update
 
-## 4.1 The three new criminal codes
 
-The PDF's legal-section chapter is built around the pre-2024 framework.
+# 4. Current framework
 
-| Older framework in PDF | Current principal code |
+**Current laws:** Bharatiya Nyaya Sanhita, 2023 (BNS); Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS); Bharatiya Sakshya Adhiniyam, 2023 (BSA).
+
+**Commencement:** 1 July 2024.
+
+> **Important exception:** BNS §106(2) was specifically excluded from the 1 July 2024 commencement notification and remains uncommenced as of September 2026.
+
+| Legacy law | Current law | Primary relevance |
+|---|---|---|
+| Indian Penal Code, 1860 (IPC) | **BNS** | Substantive criminal offences |
+| Code of Criminal Procedure, 1973 (CrPC) | **BNSS** | Criminal procedure |
+| Indian Evidence Act, 1872 (IEA) | **BSA** | Evidence and witnesses |
+
+---
+
+## TABLE 1 — BNS: Criminal Responsibility, Sexual Offences, Women & Children
+
+| Legacy law            | Current BNS | Subject / exam fact                                                                                                         |
+| --------------------- | ----------: | --------------------------------------------------------------------------------------------------------------------------- |
+| IPC §82               |     **§20** | <mark style="background:#fff88f">Child below 7 years</mark>                                                                 |
+| IPC §83               |     **§21** | <mark style="background:#fff88f">Child above 7 and below 12 years with immature understanding</mark>                        |
+| IPC §84               |     **§22** | <mark style="background: #FFB86CA6;">Act of person of unsound mind</mark>                                                   |
+| IPC §85               |     **§23** | Involuntary intoxication                                                                                                    |
+| IPC §86               |     **§24** | Intoxication and criminal intent/knowledge                                                                                  |
+| IPC §87               |     **§25** | Consent to act not intended/known to cause death or grievous hurt                                                           |
+| IPC §88               |     **§26** | <mark style="background: #BBFABBA6;">Act done in good faith for a person's benefit</mark>                                   |
+| IPC §89               |     **§27** | Act done in good faith for benefit of child/person of unsound mind                                                          |
+| IPC §90               |     **§28** | Consent under fear or misconception                                                                                         |
+| IPC §375              |     **§63** | <mark style="background: #BBFABBA6;">**Rape — definition**</mark>                                                           |
+| IPC §376              |     **§64** | <mark style="background: #BBFABBA6;">**Punishment for rape**</mark>                                                         |
+| IPC §376(3), §376AB   |     **§65** | Punishment for rape in specified cases involving girls below specified age thresholds                                       |
+| IPC §376A             |     **§66** | Rape causing death or persistent vegetative state                                                                           |
+| IPC §376B             |     **§67** | <mark style="background: #BBFABBA6;">Sexual intercourse by husband upon wife during separation</mark>                       |
+| IPC §376C             |     **§68** | Sexual intercourse by person in authority                                                                                   |
+| —                     |     **§69** | Sexual intercourse by deceitful means, etc.                                                                                 |
+| IPC §376D             |  **§70(1)** | **Gang rape**                                                                                                               |
+| IPC §376DA / §376DB   |  **§70(2)** | Gang rape of woman under 18 years                                                                                           |
+| IPC §376E             |     **§71** | Repeat offenders                                                                                                            |
+| IPC §228A             |     **§72** | Disclosure of identity of victim of specified sexual offences                                                               |
+| IPC §228A(3)          |     **§73** | Publishing matter relating to court proceedings without permission                                                          |
+| IPC §354              |     **§74** | Assault/criminal force to woman with intent to outrage modesty                                                              |
+| IPC §354A             |     **§75** | Sexual harassment                                                                                                           |
+| IPC §354B             |     **§76** | Assault/criminal force to woman with intent to disrobe                                                                      |
+| IPC §354C             |     **§77** | Voyeurism                                                                                                                   |
+| IPC §354D             |     **§78** | Stalking                                                                                                                    |
+| IPC §509              |     **§79** | Word/gesture/act intended to insult modesty of woman                                                                        |
+| IPC §304B             |     **§80** | <mark style="background: #BBFABBA6;">**Dowry death**</mark>                                                                 |
+| IPC §498A             |     **§85** | Cruelty by husband/relative                                                                                                 |
+| IPC §498A Explanation |     **§86** | Definition of cruelty                                                                                                       |
+| IPC §366              |     **§87** | Kidnapping/abducting/inducing woman to compel marriage                                                                      |
+| IPC §312              |     **§88** | <mark style="background: #BBFABBA6;">Causing miscarriage</mark>                                                             |
+| IPC §313              |     **§89** | <mark style="background: #BBFABBA6;">Causing miscarriage without woman's consent</mark>                                     |
+| IPC §314              |     **§90** | <mark style="background: #BBFABBA6;">Death caused by act done with intent to cause miscarriage</mark>                       |
+| IPC §315              |     **§91** | <mark style="background:#affad1">Preventing child being born alive / causing death after birth</mark>                       |
+| IPC §316              |     **§92** | <mark style="background:rgba(205, 244, 105, 0.55)">Death of quick unborn child by act amounting to culpable homicide</mark> |
+| IPC §317              |     **§93** | <mark style="background: #BBFABBA6;">Exposure/abandonment of child under 12</mark>                                          |
+| IPC §318              |     **§94** | Concealment of birth                                                                                                        |
+| —                     |     **§95** | Hiring/employing/engaging a child to commit an offence                                                                      |
+| IPC §366A             |     **§96** | Procuration of child                                                                                                        |
+| IPC §369              |     **§97** | Kidnapping/abducting child under 10 years with intent to steal property                                                     |
+| IPC §372              |     **§98** | Selling child for prostitution, illicit intercourse, etc.                                                                   |
+| IPC §373              |     **§99** | Buying child for prostitution, illicit intercourse, etc.                                                                    |
+
+### <mark style="background: #FF5582A6;">Criminal responsibility — BNS §22
+</mark>
+The **McNaghten-type cognitive approach** remains central.
+
+The relevant question is whether, because of unsoundness of mind, the person was incapable of knowing:
+
+- the nature of the act; or
+- that the act was wrong or contrary to law.
+
+---
+
+## TABLE 2 — BNS: Kidnapping, Homicide, Negligence, Hurt & Grievous Hurt
+
+### A. Kidnapping / abduction
+
+| Legacy IPC | Current BNS | Subject |
+|---|---:|---|
+| §359 | **§137(1)** | Kidnapping — definition |
+| §360 | **§137(1)(a)** | Kidnapping from India |
+| §361 | **§137(1)(b)** | Kidnapping from lawful guardianship |
+| §363 | **§137(2)** | Punishment for kidnapping |
+| §362 | **§138** | Abduction |
+| §363A | **§139** | Kidnapping/maiming child for begging |
+| §364 | **§140(1)** | Kidnapping/abducting in order to murder |
+| §364A | **§140(2)** | Kidnapping for ransom, etc. |
+| §365 | **§140(3)** | Kidnapping/abducting with intent secretly and wrongfully to confine |
+| §367 | **§140(4)** | Kidnapping/abducting to subject person to grievous hurt, slavery, etc. |
+| §366B | **§141** | Importation of girl/boy from foreign country |
+| §368 | **§142** | Wrongfully concealing/keeping kidnapped or abducted person |
+| §370 | **§143** | Trafficking of person |
+| §370A | **§144** | Exploitation of trafficked person |
+| §374 | **§146** | Unlawful compulsory labour |
+
+> **Exam correction:** Do not memorise IPC §§359–369 as a current section range. BNS reorganises these offences primarily into §§137–142, with related trafficking provisions extending through §§143–146.
+
+### B. Homicide, death and negligence
+
+| Legacy IPC | Current BNS | Subject / high-yield fact                                                                     |
+| ---------- | ----------: | --------------------------------------------------------------------------------------------- |
+| §299       |    **§100** | <mark style="background:rgba(205, 244, 105, 0.55)">**Culpable homicide — definition**</mark>  |
+| §300       |    **§101** | <mark style="background:#d3f8b6">**Murder — definition**</mark>                               |
+| §301       |    **§102** | Culpable homicide by causing death of person other than intended victim                       |
+| §302       | **§103(1)** | <mark style="background:rgba(205, 244, 105, 0.55)">**Punishment for murder**</mark>           |
+| —          | **§103(2)** | Murder by group of five or more persons in specified circumstances                            |
+| §303       |    **§104** | Punishment for murder by life-convict                                                         |
+| §304       |    **§105** | Culpable homicide not amounting to murder                                                     |
+| §304A      | **§106(1)** | <mark style="background:rgba(205, 244, 105, 0.55)">Causing death by rash/negligent act</mark> |
+| —          | **§106(2)** | Fatal hit-and-run provision — **enacted but not in force as of Sept 2026**                    |
+| §305       |    **§107** | Abetment of suicide of child/person of unsound mind                                           |
+| §306       |    **§108** | Abetment of suicide                                                                           |
+| §307       |    **§109** | Attempt to murder                                                                             |
+| 	§308      |    **§110** | Attempt to commit culpable homicide                                                           |
+
+### <mark style="background: #FF5582A6;">Medical negligence — BNS §106(1)</mark>
+
+| Point                           | Current law                                                                                                                                                 |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| General negligent death         | Imprisonment up to **5 years + fine**                                                                                                                       |
+| Registered medical practitioner | I<mark style="background: #BBFABBA6;">f act is done by an RMP while performing a medical procedure → imprisonment up to **2 years + fine**</mark>           |
+| RMP                             | Practitioner with qualification recognised under the National Medical Commission Act, 2019, whose name is entered in the National or State Medical Register |
+| §106(2)                         | Fatal hit-and-run provision; **not currently operative**                                                                                                    |
+
+### C. Hurt and grievous hurt
+
+| Legacy IPC | Current BNS | Subject                                                                                                                |
+| ---------- | ----------: | ---------------------------------------------------------------------------------------------------------------------- |
+| §319       |    **§114** | <mark style="background: #BBFABBA6;">**Hurt — definition**</mark>                                                      |
+| §321       | **§115(1)** | Voluntarily causing hurt — definition                                                                                  |
+| §323       | **§115(2)** | Punishment for voluntarily causing hurt                                                                                |
+| §320       |    **§116** | <mark style="background: #BBFABBA6;">**Grievous hurt — definition**</mark>                                             |
+| §322       | **§117(1)** | Voluntarily causing grievous hurt — definition                                                                         |
+| §325       | **§117(2)** | Punishment for voluntarily causing grievous hurt                                                                       |
+| §324       | **§118(1)** | <mark style="background:rgba(205, 244, 105, 0.55)">Voluntarily causing hurt by dangerous weapons/means</mark>          |
+| §326       | **§118(2)** | <mark style="background:rgba(205, 244, 105, 0.55)">Voluntarily causing grievous hurt by dangerous weapons/means</mark> |
+| §328       |    **§123** | Causing hurt by poison/stupefying/intoxicating/unwholesome substance with specified intent                             |
+| §326A      | **§124(1)** | <mark style="background:rgba(205, 244, 105, 0.55)">Voluntarily causing grievous hurt by acid, etc.</mark>              |
+| §326B      | **§124(2)** | <mark style="background:rgba(205, 244, 105, 0.55)">Throwing/attempting to throw acid</mark>                            |
+| §336       |    **§125** | Act endangering human life/personal safety                                                                             |
+| §337       | **§125(a)** | Hurt caused by act endangering life/personal safety                                                                    |
+| §338       | **§125(b)** | Grievous hurt caused by act endangering life/personal safety                                                           |
+
+### D. <mark style="background: #FF5582A6;">Grievous hurt — BNS §116</mark>
+
+There are **8 categories**:
+
+| # | Grievous hurt |
+|---:|---|
+| 1 | Emasculation |
+| 2 | Permanent privation of sight of either eye |
+| 3 | Permanent privation of hearing of either ear |
+| 4 | Privation of any member or joint |
+| 5 | Destruction or permanent impairment of power of any member or joint |
+| 6 | Permanent disfiguration of head or face |
+| 7 | Fracture or dislocation of a bone or tooth |
+| 8 | Hurt endangering life, or causing severe bodily pain / inability to follow ordinary pursuits for **15 days** |
+
+### Major numerical trap
+
+```text
+IPC §320  → 20 days
+BNS §116  → 15 days
+```
+
+### E. Acid attack — BNS §124
+
+| Provision | Current rule |
 |---|---|
-| **Indian Penal Code, 1860 (IPC)** | **Bharatiya Nyaya Sanhita, 2023 (BNS)** |
-| **Code of Criminal Procedure, 1973 (CrPC)** | **Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS)** |
-| **Indian Evidence Act, 1872 (IEA)** | **Bharatiya Sakshya Adhiniyam, 2023 (BSA)** |
-
-**Effective date:** 1 July 2024.
-
-The older Acts remain important in questions involving acts/proceedings governed by the pre-commencement law because the new enactments contain repeal-and-savings provisions.
+| **§124(1)** | Acid-related permanent/partial damage, deformity, burns, maiming, disfigurement, disability, grievous hurt or permanent vegetative state |
+| Punishment | **10 years to life imprisonment + fine** |
+| **§124(2)** | Throwing/attempting to throw or administer acid with specified intent |
+| Punishment | **5–7 years + fine** |
 
 ---
 
-## 4.2 Criminal responsibility and consent — important IPC → BNS changes
+## TABLE 3 — BNSS + BSA: Forensic Procedure, Rape Examination & Evidence
 
-### Mental-state exceptions
+### A. Inquest / death investigation
 
-| Legacy IPC section in PDF | Current BNS provision | Core subject |
-|---:|---:|---|
-| 82 | **20** | Child below 7 years |
-| 83 | **21** | Child above 7 and below 12 years with insufficient maturity |
-| 84 | **22** | Act of person of unsound mind |
-| 85 | **23** | Intoxication against person's will |
-| 86 | **24** | Intoxication and criminal intent/knowledge |
-| 87 | **25** | Consent to act not intended/known to cause death or grievous hurt |
-| 88 | **26** | Act done in good faith for a person's benefit |
-| 89 | **27** | Act done in good faith for benefit of child/person with unsound mind by/with guardian consent |
+| Legacy CrPC | Current BNSS | Subject |
+|---|---:|---|
+| §174 | **§194** | **Police to enquire and report on suicide, etc.** |
+| §176 | **§196** | **Inquiry by Magistrate into cause of death** |
+| §164A | **§184** | **Medical examination of victim of rape** |
 
-### Exam point
+### BNSS §194 — Police inquest
 
-The **McNaghten-type cognitive rule remains central in BNS section 22**. Do not replace it with the American “irresistible impulse” test when answering an Indian criminal-responsibility MCQ.
+Police receive information that a person:
 
----
+- committed suicide;
+- was killed by another person;
+- was killed by an animal;
+- was killed by machinery;
+- died in an accident; or
+- died in circumstances raising reasonable suspicion that another person committed an offence.
 
-## 4.3 Current sexual-offence section anchors
+The police officer investigates the body and prepares a report describing:
 
-| PDF / legacy IPC | Current BNS |
-|---:|---:|
-| IPC 375 | **BNS 63 — Rape** |
-| IPC 376 | **BNS 64 — Punishment for rape** |
-| IPC 376D | **BNS 70 — Gang rape** |
-| IPC 376E | **BNS 71 — Repeat offenders** |
-| IPC 228A | **BNS 72 — Disclosure of identity of victim of certain offences** |
-| IPC 354 | **BNS 74** |
-| IPC 354A | **BNS 75** |
-| IPC 354B | **BNS 76** |
-| IPC 354C | **BNS 77** |
-| IPC 354D | **BNS 78** |
-| IPC 509 | **BNS 79** |
-| IPC 304B | **BNS 80 — Dowry death** |
-| IPC 498A | **BNS 85 — Cruelty by husband/relative** |
-
-> **Important:** The substantive definitions should be read from the current BNS when answering current-law questions; some formulations changed and should not be assumed to be word-for-word identical to the IPC.
-
----
-
-## 4.4 Miscarriage, abortion-related offences and child-protection sections
-
-| Legacy IPC | Current BNS |
-|---:|---:|
-| 312 | **88 — Causing miscarriage** |
-| 313 | **89 — Causing miscarriage without woman's consent** |
-| 314 | **90 — Death caused by act done with intent to cause miscarriage** |
-| 315 | **91 — Act intended to prevent child being born alive / cause death after birth** |
-| 316 | **92 — Causing death of quick unborn child by act amounting to culpable homicide** |
-| 317 | **93 — Exposure/abandonment of child under 12** |
-| 318 | **94 — Concealment of birth by secret disposal of dead body** |
-
-These are the current BNS section anchors corresponding to the legacy provisions reproduced in the PDF.
-
----
-
-## 4.5 Homicide and negligence — current BNS anchors
-
-| Legacy IPC | Current BNS | Subject |
-|---:|---:|---|
-| 299 | **100** | Culpable homicide |
-| 300 | **101** | Murder |
-| 302 | **103** | Punishment for murder |
-| 304 | **105** | Culpable homicide not amounting to murder |
-| 304A | **106** | Causing death by negligence |
-| 305 | **107** | Abetment of suicide of child/person of unsound mind |
-| 306 | **108** | Abetment of suicide |
-| 307 | **109** | Attempt to murder |
-| 308 | **110** | Attempt to commit culpable homicide |
-
-### Medical negligence — high-yield current point
-
-Under **BNS section 106**, causing death by rash/negligent act carries the general punishment under subsection (1), while where the act is done by a **registered medical practitioner while performing a medical procedure**, the statute provides a maximum imprisonment term of **2 years plus fine** under the specific proviso/formulation.
-
-> This section should be distinguished from the broader standards governing professional negligence, medical consent, standard of care, consumer proceedings and civil/criminal liability.
-
----
-
-## 4.6 Hurt and grievous hurt — major current correction
-
-### Legacy IPC framework in the PDF
-
-The PDF lists IPC section 319 for hurt and section 320 for grievous hurt, followed by the punishment sections.
-
-### Current BNS
-
-| Legacy IPC | Current BNS | Subject |
-|---:|---:|---|
-| 319 | **114** | Hurt |
-| 323 | **115** | Voluntarily causing hurt |
-| 320 | **116** | Grievous hurt |
-| 325 | **117** | Voluntarily causing grievous hurt |
-| 326-type dangerous-weapon grievous hurt provision | Current BNS dangerous-weapon/grievous-hurt provisions | See current BNS text |
-| 326A/B | **124** | Acid attack provisions |
-
-### Grievous hurt: current eight categories
-
-1. Emasculation
-2. Permanent privation of sight of either eye
-3. Permanent privation of hearing of either ear
-4. Privation of any member or joint
-5. Destruction or permanent impairment of power of any member or joint
-6. Permanent disfiguration of head or face
-7. Fracture or dislocation of a bone or tooth
-8. Hurt endangering life, or causing severe bodily pain / inability to follow ordinary pursuits for **15 days**
-
-> **Major correction to PDF:** The PDF states **20 days**. Under current **BNS section 116**, the period is **15 days**.
-
-### Common exam trap
-
-> **IPC 320 → 20 days**
->
-> **BNS 116 → 15 days**
-
----
-
-## 4.7 Acid attack
-
-The PDF lists:
-
-- IPC 326A — acid attack
-- IPC 326B — attempt/throwing acid
-
-Current BNS places the acid-attack offence under **section 124**, with the statutory punishment framework reproduced in the current Act.
-
----
-
-## 4.8 Kidnapping and related offences
-
-The PDF groups **IPC sections 359–369** under kidnapping/related offences.
-
-> **Current law:** The BNS contains the corresponding offences in its chapter on offences against women and children. Because the new code reorganises and renumbers these provisions, answer current-law questions using the BNS rather than memorising the old range as a current section range.
-
----
-
-## 4.9 Cruelty by husband/relative
-
-- Legacy: **IPC 498A**
-- Current: **BNS 85**
-- Current BNS **86** provides the statutory definition of cruelty.
-
----
-
-## 4.10 Police and Magistrate inquest — current BNSS
-
-### PDF / legacy
-
-- **CrPC 174** — police inquest / enquiry into suicide and suspicious deaths
-- **CrPC 176** — Magistrate inquiry into cause of death
-
-### Current
-
-- **BNSS 194** — Police to enquire and report on suicide, etc.
-- **BNSS 196** — Inquiry by Magistrate into cause of death
+- apparent cause of death;
+- wounds;
+- fractures;
+- bruises;
+- other marks of injury;
+- apparent manner/instrument by which injuries were inflicted.
 
 ### High-yield forensic sequence
 
 ```text
-Death under suspicious circumstances / suicide / accident / possible offence
-        ↓
-Police information and statutory inquest/enquiry
-        ↓
-Report of apparent cause of death and injuries
-        ↓
-Magisterial inquiry where statutorily required/permitted
-        ↓
-Postmortem examination + ancillary investigations when indicated
+Suspicious death / suicide / accident / possible offence
+                         ↓
+               Police information
+                         ↓
+                 BNSS §194 inquest
+                         ↓
+      Report of apparent cause + injuries
+                         ↓
+       Magistrate inquiry where applicable
+                 (BNSS §196)
+                         ↓
+       Postmortem + ancillary investigations
+                  when indicated
+```
+
+### BNSS §196 — Magistrate inquiry
+
+Particularly important in specified circumstances including:
+
+- suicide by a woman within **7 years of marriage**;
+- death of a woman within **7 years of marriage** in specified suspicious circumstances;
+- doubt regarding cause of death;
+- death/disappearance or alleged rape occurring while the person/woman is in custody.
+
+---
+
+### B. BNSS §184 — Medical examination of victim of rape
+
+| Point | Current statutory requirement |
+|---|---|
+| Old provision | **CrPC §164A** |
+| Current provision | **BNSS §184** |
+| Examiner | Specified **registered medical practitioner** |
+| Consent | Examination requires **consent of the woman or a person competent to give consent on her behalf** |
+| Timing | Woman should be sent to the RMP **within 24 hours** of receiving information regarding the offence |
+| Identity/age | Must be recorded |
+| DNA material | Description of material collected for **DNA profiling** |
+| Injuries | Marks of injury must be recorded |
+| Mental state | **General mental condition** must be recorded |
+| Conclusions | Report must state precisely the reasons for each conclusion |
+| Consent | Report must record required consent |
+| Timing of examination | Exact commencement and completion time |
+| Forwarding | RMP forwards report to investigating officer **within 7 days** |
+
+### Clinical-legal principle
+
+```text
+Medical examination ≠ "proof of rape"
+
+Doctor:
+→ treats injuries
+→ documents history/findings
+→ collects appropriate forensic material
+→ documents consent
+→ records findings objectively
+→ gives medical opinions within professional competence
+
+Investigation + appreciation of all evidence + judicial process
+→ determine criminal liability
 ```
 
 ---
 
-## 4.11 Medical examination of alleged rape victim — current BNSS
+### C. BSA — Evidence and witnesses
 
-### Legacy PDF
+| Legacy IEA | Current BSA | Subject / high-yield fact |
+|---:|---:|---|
+| §32 | **§26** | Statements by persons who cannot be called as witnesses; includes dying-declaration framework |
+| §45 | **§39** | **Opinions of experts** |
+| §138 | **§143** | Order of examination of witnesses |
+| §§141–143 | **§146** | Leading questions |
+| §154 | **§157** | Party questioning own witness / hostile-witness framework |
+| §155 | **§158** | Impeaching credit of witness |
+| §157 | **§160** | Former statement for corroboration |
+| §165 | **§168** | Judge's power to put questions/order production |
 
-The PDF cites **CrPC section 164A** for medical examination of the victim of rape.
+### BSA §26 — Dying declaration
 
-### Current
+BSA §26 covers statements by a person who:
 
-**BNSS section 184 — Medical examination of the victim of rape.**
+- is dead;
+- cannot be found;
+- has become incapable of giving evidence;
+- or whose attendance cannot be procured without unreasonable delay or expense.
 
-The statutory framework includes:
+The classic **dying-declaration rule is contained in BSA §26(a)**.
 
-- Consent of the woman or a person competent to consent on her behalf;
-- Examination by the specified registered medical practitioner;
-- Documentation of identity/age;
-- Description of material collected for DNA profiling;
-- Injuries;
-- General mental condition;
-- Reasons for conclusions;
-- Precise recording of consent;
-- Time of commencement and completion;
-- Forwarding of the report to the investigating officer within the statutory period.
+> **Exam trap:** BSA §26 is broader than merely “dying declaration”; it contains the wider statutory category of relevant statements by persons who cannot be called as witnesses.
 
-> **Clinical-legal principle:** The medical examination must not be turned into a “proof of rape” examination. The clinician documents findings and collects evidence; the legal conclusion is for the investigating/court process.
+### BSA §39 — Expert opinion
+
+```text
+BSA §39
+    ↓
+Opinions of experts
+    ↓
+Relevant when Court has to form an opinion on matters
+requiring special knowledge / skill
+    ↓
+Medical expert
+Forensic expert
+Scientific / technical expert
+```
+
+### BSA §143 — Order of examination
+
+```text
+1. Examination-in-chief
+        ↓
+2. Cross-examination
+        ↓
+3. Re-examination
+```
+
+### BSA §146 — Leading questions
+
+> A leading question is a question suggesting the answer which the person asking it wishes or expects to receive.
+
+| Stage | Rule |
+|---|---|
+| Examination-in-chief | If objected to, generally not permitted except with court permission |
+| Re-examination | If objected to, generally not permitted except with court permission |
+| Introductory/undisputed matters | Court may permit leading questions |
+| Cross-examination | **Leading questions may be asked** |
 
 ---
 
-## 4.12 Current evidence law — BSA
+## REPEAL AND SAVINGS — MUST KNOW
 
-The PDF lists classic Indian Evidence Act provisions:
+| Old Act repealed | Current Act | Repeal & savings |
+|---|---|---:|
+| Indian Penal Code, 1860 | **BNS** | **§358** |
+| Code of Criminal Procedure, 1973 | **BNSS** | **§532** |
+| Indian Evidence Act, 1872 | **BSA** | **§170** |
 
-- **IEA 45** — expert witness
-- **IEA 32** — dying declaration
-- **IEA 138** — order of examination of witness
-- **IEA 141–143** — leading questions
-- **IEA 154** — hostile witness / permission for own counsel to put cross-examination-type questions
-- **IEA 165** — judge's power to question
-
-### Current BSA anchors
-
-- **BSA 39** — opinions of experts
-- **BSA 26** — statements in situations where the maker cannot be called as a witness (includes the legacy dying-declaration framework)
-- **BSA 143** — order of examinations
-- **BSA 146** — leading questions
-
-> For the remaining witness-questioning provisions, use the current BSA text rather than mechanically carrying forward IPC/IEA section numbers.
-
-### Leading questions — current BSA section 146
-
-A leading question is a question suggesting the answer that the person asking wishes or expects to receive.
-
-- If objected to, leading questions are generally not asked in examination-in-chief or re-examination except with court permission.
-- They may be asked in cross-examination.
+> The old Acts are repealed, but the respective savings provisions preserve specified pending proceedings, investigations, trials, appeals, rights, liabilities and actions under the earlier laws.
 
 ---
+
+## ULTRA-HIGH-YIELD LEGACY → CURRENT ANCHORS
+
+| Old section | Current section | Memorise as |
+|---:|---:|---|
+| IPC §82 | **BNS §20** | Child <7 |
+| IPC §83 | **BNS §21** | 7–<12, immature understanding |
+| IPC §84 | **BNS §22** | Unsound mind |
+| IPC §85 | **BNS §23** | Involuntary intoxication |
+| IPC §86 | **BNS §24** | Intoxication + intent/knowledge |
+| IPC §87 | **BNS §25** | Consent to non-fatal/non-GH act |
+| IPC §88 | **BNS §26** | Good-faith act for benefit |
+| IPC §89 | **BNS §27** | Benefit of child/unsound person |
+| IPC §375 | **BNS §63** | Rape |
+| IPC §376 | **BNS §64** | Punishment for rape |
+| IPC §376D | **BNS §70** | Gang rape |
+| IPC §376E | **BNS §71** | Repeat offenders |
+| IPC §228A | **BNS §72** | Victim identity |
+| IPC §354 | **BNS §74** | Outraging modesty |
+| IPC §354A | **BNS §75** | Sexual harassment |
+| IPC §354B | **BNS §76** | Disrobing |
+| IPC §354C | **BNS §77** | Voyeurism |
+| IPC §354D | **BNS §78** | Stalking |
+| IPC §509 | **BNS §79** | Insulting modesty |
+| IPC §304B | **BNS §80** | Dowry death |
+| IPC §498A | **BNS §85** | Cruelty |
+| IPC §366 | **BNS §87** | Kidnapping/abducting woman to compel marriage |
+| IPC §312 | **BNS §88** | Causing miscarriage |
+| IPC §313 | **BNS §89** | Miscarriage without consent |
+| IPC §314 | **BNS §90** | Death during attempted miscarriage |
+| IPC §315 | **BNS §91** | Preventing live birth / causing death after birth |
+| IPC §316 | **BNS §92** | Death of quick unborn child |
+| IPC §317 | **BNS §93** | Exposure/abandonment child <12 |
+| IPC §318 | **BNS §94** | Concealment of birth |
+| IPC §359 | **BNS §137(1)** | Kidnapping |
+| IPC §362 | **BNS §138** | Abduction |
+| IPC §363 | **BNS §137(2)** | Punishment for kidnapping |
+| IPC §364 | **BNS §140(1)** | Kidnapping to murder |
+| IPC §364A | **BNS §140(2)** | Kidnapping for ransom |
+| IPC §365 | **BNS §140(3)** | Kidnapping to secretly confine |
+| IPC §367 | **BNS §140(4)** | Kidnapping for grievous hurt/slavery etc. |
+| IPC §368 | **BNS §142** | Concealing kidnapped person |
+| IPC §370 | **BNS §143** | Trafficking |
+| IPC §370A | **BNS §144** | Exploitation of trafficked person |
+| IPC §299 | **BNS §100** | Culpable homicide |
+| IPC §300 | **BNS §101** | Murder |
+| IPC §301 | **BNS §102** | Death of unintended victim |
+| IPC §302 | **BNS §103(1)** | Punishment for murder |
+| IPC §304 | **BNS §105** | Culpable homicide not amounting to murder |
+| IPC §304A | **BNS §106(1)** | Death by negligence |
+| IPC §305 | **BNS §107** | Abetment suicide — child/unsound mind |
+| IPC §306 | **BNS §108** | Abetment suicide |
+| IPC §307 | **BNS §109** | Attempt to murder |
+| IPC §308 | **BNS §110** | Attempt culpable homicide |
+| IPC §319 | **BNS §114** | Hurt |
+| IPC §321 | **BNS §115(1)** | Voluntarily causing hurt — definition |
+| IPC §323 | **BNS §115(2)** | Punishment for voluntarily causing hurt |
+| IPC §320 | **BNS §116** | Grievous hurt |
+| IPC §322 | **BNS §117(1)** | Voluntarily causing grievous hurt — definition |
+| IPC §325 | **BNS §117(2)** | Punishment for voluntarily causing grievous hurt |
+| IPC §324 | **BNS §118(1)** | Hurt by dangerous weapons |
+| IPC §326 | **BNS §118(2)** | Grievous hurt by dangerous weapons |
+| IPC §326A | **BNS §124(1)** | Acid attack with injury |
+| IPC §326B | **BNS §124(2)** | Attempted acid attack |
+| CrPC §164A | **BNSS §184** | Rape-victim medical examination |
+| CrPC §174 | **BNSS §194** | Police inquest |
+| CrPC §176 | **BNSS §196** | Magistrate inquiry |
+| IEA §32 | **BSA §26** | Dying-declaration framework |
+| IEA §45 | **BSA §39** | Expert opinion |
+| IEA §138 | **BSA §143** | Order of examination |
+| IEA §§141–143 | **BSA §146** | Leading questions |
+| IEA §154 | **BSA §157** | Party questioning own witness |
+| IEA §155 | **BSA §158** | Impeaching credit |
+| IEA §157 | **BSA §160** | Former statement for corroboration |
+| IEA §165 | **BSA §168** | Judge's power to question |
+
+---
+
+## MUST-NOT-MISS EXAM TRAPS
+
+```text
+IPC §320  → grievous hurt → 20 DAYS
+BNS §116  → grievous hurt → 15 DAYS
+
+IPC §375  → rape
+BNS §63   → rape
+
+IPC §376  → punishment for rape
+BNS §64   → punishment for rape
+
+IPC §376D → gang rape
+BNS §70   → gang rape
+
+IPC §304B → dowry death
+BNS §80   → dowry death
+
+IPC §498A → cruelty
+BNS §85   → cruelty
+BNS §86   → definition of cruelty
+
+IPC §299  → culpable homicide
+BNS §100  → culpable homicide
+
+IPC §300  → murder
+BNS §101  → murder
+
+IPC §302  → punishment for murder
+BNS §103  → punishment for murder
+
+IPC §304A → death by negligence
+BNS §106(1) → death by negligence
+
+BNS §106(1), RMP → maximum 2 years + fine
+BNS §106(2), fatal hit-and-run → ENACTED BUT NOT IN FORCE as of Sept 2026
+
+IPC §319 → hurt
+BNS §114 → hurt
+
+IPC §320 → grievous hurt
+BNS §116 → grievous hurt
+
+IPC §326A/B → acid attack
+BNS §124 → acid attack
+
+CrPC §164A → BNSS §184 → rape-victim medical examination
+CrPC §174  → BNSS §194 → police inquest
+CrPC §176  → BNSS §196 → Magistrate inquiry
+
+IEA §32 → BSA §26 → dying-declaration framework
+IEA §45 → BSA §39 → expert opinion
+IEA §138 → BSA §143 → order of examination
+IEA §§141–143 → BSA §146 → leading questions
+IEA §154 → BSA §157 → party questioning own witness
+IEA §165 → BSA §168 → judge's power to question
+```
+
+---
+
+## Verification sources
+
+- Bharatiya Nyaya Sanhita, 2023 — India Code / NCRB official section correspondence and enacted text.
+- Bharatiya Nagarik Suraksha Sanhita, 2023 — India Code / NCRB official section correspondence and enacted text.
+- Bharatiya Sakshya Adhiniyam, 2023 — India Code / NCRB official section correspondence and enacted text.
+- Commencement notifications for the new criminal laws, including the specific exclusion of BNS §106(2).
+- Repeal-and-savings provisions: **BNS §358; BNSS §532; BSA §170**.
 
 # 5. Rapid Revision Tables
 
@@ -1691,80 +1942,6 @@ A leading question is a question suggesting the answer that the person asking wi
 
 ---
 
-# 6. Source/Verification Notes
-
-## 6.1 PDF-derived content
-
-This reconstruction preserves the uploaded PDF's:
-
-- Headings and chapter sequence
-- Definitions and examination language
-- Classical forensic test names
-- Tables and comparison structures
-- Medicolegal mnemonic frameworks
-- Legal section lists
-- Numerical values where they were clearly readable
-- Traditional high-yield distinctions
-
-### Source-page map
-
-| PDF pages | Printed pages | Main content |
-|---|---|---|
-| 1–8 | 261–268 | Forensic Psychiatry; insanity; MHCA 2017 |
-| 9–14 | 269–274 | Trace Evidence: blood, semen, hair |
-| 15–26 | 275–286 | THOTA, POCSO, CPA, NDPS, IPC/CrPC/IEA sections |
-
-## 6.2 Important externally verified/current corrections
-
-The following changes were intentionally **not** silently merged into the 2023 PDF wording:
-
-1. **IPC/CrPC/IEA → BNS/BNSS/BSA** from 1 July 2024 for current criminal-law questions.
-2. **Mental Healthcare Act section 94:** emergency treatment is normally limited to 72 hours, with a statutory disaster/emergency extension to 7 days; emergency ECT is not permitted.
-3. **MHCA section 95:** ECT for minors is not an absolute prohibition; the Act permits it when statutory conditions, including guardian consent and prior Board permission, are satisfied.
-4. **POCSO trial:** one-year completion is an “as far as possible” statutory objective, not an absolute guarantee.
-5. **POCSO medical forensic practice:** the “two-finger test” is deprecated and should not be used to assess sexual history/habituation or infer consent.
-6. **Consumer Commission pecuniary jurisdiction:** current 2021 rules use ₹50 lakh and ₹2 crore thresholds rather than the PDF's ₹1 crore and ₹10 crore thresholds.
-7. **THOTA near-relative definition:** the PDF list is incomplete; current statutory wording includes spouse, brother and sister as well.
-8. **THOTA commercial organ dealing:** current punishment is substantially higher than the old figure shown in the PDF.
-9. **BNS grievous hurt:** the duration threshold is **15 days**, not the PDF's 20 days.
-10. **Modern forensic biology:** UV fluorescence, classical crystal tests and some historical enzyme thresholds should not be treated as stand-alone definitive modern methods.
-11. **Modern hair evidence:** Barr-body assessment and hair-growth-based postmortem dating are historical/limited methods; molecular and validated laboratory methods are preferred where appropriate.
-
-## 6.3 Uncertain / not reliably extractable source items
-
-The following are explicitly not “filled in” from memory:
-
-- MHCA emergency-treatment maximum duration was visually incomplete in the source slide; the current statutory duration is supplied separately from the Act.
-- The exact identity of the semen-test antigen abbreviated in the PDF as **“mab4eb”** was not confidently recoverable.
-- The “single photon fluorimetry” semen statement is marked as historical/unclear because the exact intended assay could not be established from the slide.
-- Historical semen-enzyme thresholds are preserved but labelled method-dependent/legacy rather than converted into universal current cut-offs.
-
----
-
-## 6.4 Authoritative/current reference set
-
-For current-law verification and updates, use the primary statutes whenever possible:
-
-- **India Code — Bharatiya Nyaya Sanhita, 2023 (BNS), Act 45 of 2023**
-- **India Code — Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS), Act 46 of 2023**
-- **India Code — Bharatiya Sakshya Adhiniyam, 2023 (BSA), Act 47 of 2023**
-- **India Code — Mental Healthcare Act, 2017**
-- **India Code — Protection of Children from Sexual Offences Act, 2012**
-- **Department of Consumer Affairs, Government of India — Consumer Protection Act, 2019 and Rules**
-- **Transplantation of Human Organs and Tissues Act, 1994 and amended provisions/rules**
-- **Narcotic Drugs and Psychotropic Substances Act, 1985**
-- **Supreme Court of India — decisions concerning forensic sexual-assault examination and the two-finger test**
-- **Bureau of Police Research & Development (BPR&D) — current explanatory/reference material on the BNS and BNSS**
-
-### Useful official links
-
-- [India Code](https://www.indiacode.nic.in/)
-- [Department of Consumer Affairs — Consumer Protection](https://consumeraffairs.nic.in/acts-and-rules/consumer-protection/consumer-protection)
-- [BPR&D](https://bprd.nic.in/)
-- [Supreme Court of India](https://www.sci.gov.in/)
-
----
-
 # 7. Ultra-High-Yield Viva Checklist
 
 Before an MBBS practical/NEET-PG/INI-CET revision session, be able to answer these without looking up the page:
@@ -1813,33 +1990,3 @@ Before an MBBS practical/NEET-PG/INI-CET revision session, be able to answer the
 - **THOTA** near relative definition and authorisation rules.
 - **NDPS section 64A** = conditional immunity for qualifying de-addiction treatment.
 
----
-
-# 8. End-of-Document Audit
-
-### Coverage audit
-
-- [x] Entire 26-page PDF inspected.
-- [x] Forensic Psychiatry reconstructed.
-- [x] Delusions, hallucinations, illusions, impulses, phobias and lucid interval retained.
-- [x] True vs feigned insanity table reconstructed.
-- [x] Civil and criminal responsibility concepts retained.
-- [x] McNaghten, Durham, Currens, irresistible impulse and ALI tests retained.
-- [x] Mental Healthcare Act material retained and current corrections separated.
-- [x] Blood-stain testing reconstructed, including screening and classical confirmatory/microchemical tests.
-- [x] Seminal-stain examination reconstructed.
-- [x] Hair examination reconstructed.
-- [x] THOTA, POCSO, CPA and NDPS material reconstructed.
-- [x] Legacy IPC/CrPC/IEA legal-section list consolidated into a current framework.
-- [x] Tables/flowcharts were represented textually where appropriate.
-- [x] Page ranges and source provenance retained.
-
-### Accuracy/integrity audit
-
-- [x] Obvious OCR errors corrected.
-- [x] Significant legal updates are labelled.
-- [x] Significant medical/forensic updates are labelled.
-- [x] Uncertain values/terminology are marked rather than fabricated.
-- [x] Historical teaching points are identified where they could otherwise be misleading if read as current law or current laboratory practice.
-
----

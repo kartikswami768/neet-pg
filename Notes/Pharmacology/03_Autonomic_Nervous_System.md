@@ -1,3 +1,7 @@
+---
+Subject: Pharmacology
+type: Marrow
+---
 # Autonomic Nervous System — Topic-Organized Pharmacology Notes
 
 > **Primary source:** `03_Autonomic_Nervous_System.pdf` (21 pages; YourWish pharmacology revision notes).

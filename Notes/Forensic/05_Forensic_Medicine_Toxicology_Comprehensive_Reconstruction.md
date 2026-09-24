@@ -3,6 +3,7 @@ Subject: Forensics
 Subject Section: Toxicology
 title: Toxicology
 source_pdf: Marrow 6.5
+type: Marrow
 ---
  
 # Forensic Medicine & Toxicology — Comprehensive Toxicology Reconstruction
@@ -19,19 +20,19 @@ source_pdf: Marrow 6.5
 
 ## Contents
 
-1. [[General Toxicology]]
-2. [[Duties of a Doctor in a Case of Poisoning]]
-3. [[Corrosive Poisons]]
-4. [[Metallic and Non-Metallic Irritants]]
-5. [[Animal and Plant Irritants]]
-6. [[Neurotoxic Poisons - Deliriants]]
-7. [[Neurotoxic Poisons - Inebriants]]
-8. [[Neurotoxic Poisons - Somniferous and Spinal Poisons]]
-9. [[Asphyxiants and Cardiac Poisons]]
-10. [[Agricultural Poisons]]
-11. [[High-Yield Cross-Comparison Tables]]
-12. [[Source Corrections and Current Legal Crosswalk]]
-13. [[Reference Set Used for Current Verification]]
+1. [x] [[General Toxicology]] ✅ 2026-09-24
+2. [x] [[Duties of a Doctor in a Case of Poisoning]] ✅ 2026-09-24
+3. [ ] [[Corrosive Poisons]]
+4. [ ] [[Metallic and Non-Metallic Irritants]]
+5. [ ] [[Animal and Plant Irritants]]
+6. [x] [[Neurotoxic Poisons - Deliriants]] ✅ 2026-09-24
+7. [x] [[Neurotoxic Poisons - Inebriants]] ✅ 2026-09-24
+8. [ ] [[Neurotoxic Poisons - Somniferous and Spinal Poisons]]
+9. [ ] [[Asphyxiants and Cardiac Poisons]]
+10. [ ] [[Agricultural Poisons]]
+11. [ ] [[High-Yield Cross-Comparison Tables]]
+12. [ ] [[Source Corrections and Current Legal Crosswalk]]
+13. [ ] [[Reference Set Used for Current Verification]]
 
  
 

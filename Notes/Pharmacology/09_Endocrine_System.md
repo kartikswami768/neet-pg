@@ -1,3 +1,7 @@
+---
+Subject: Pharmacology
+type: Marrow
+---
 # Endocrine System — Comprehensive Pharmacology Notes
 
 > **Primary source:** `09_Endocrine_System.pdf` (19 pages; PDF pages 1–19 correspond to the source pages labeled 132–150).

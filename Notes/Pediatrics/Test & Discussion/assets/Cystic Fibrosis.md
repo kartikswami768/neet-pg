@@ -1,3 +1,7 @@
+---
+Subject: Pediatrics
+type: TND
+---
 
 Mutation: CFTR
 	Mc ∆F508 $\rightarrow$ Deletion of phenylalanine

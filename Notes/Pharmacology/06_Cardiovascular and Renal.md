@@ -1,3 +1,7 @@
+---
+Subject: Pharmacology
+type: Marrow
+---
 # Cardiovascular Pharmacology - Reconstructed and Verified Study Notes
 
 > **Primary source:** uploaded 20-page PDF, *5. Cardiovascular Pharmacology* (printed pages 94-113).  

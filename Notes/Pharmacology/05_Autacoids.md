@@ -1,3 +1,7 @@
+---
+Subject: Pharmacology
+type: Marrow
+---
 # Autacoids — Comprehensive Topic-Organized Study Notes
 
 **Primary source:** `05_Autacoids.pdf` (25 PDF pages; printed pages 69–93)

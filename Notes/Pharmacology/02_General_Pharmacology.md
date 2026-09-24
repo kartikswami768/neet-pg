@@ -1,7 +1,7 @@
 ---
 title: General Pharmacology
 Subject: Pharmacology
-type: notes
+type: Marrow
 tags:
   - "#pharmacology"
 ---

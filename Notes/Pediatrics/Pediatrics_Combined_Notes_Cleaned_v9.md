@@ -1,3 +1,6 @@
+---
+Subject: Pediatrics
+---
 # Pediatrics Notes — Combined
 
 > **Integrated update:** This version incorporates the later OCR-reconstructed additions and current guideline overlays used in the v39 build. Where those newer blocks conflict with legacy source-derived wording, the newer block is the exam-facing version.

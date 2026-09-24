@@ -1,3 +1,7 @@
+---
+Subject: Pharmacology
+type: Marrow
+---
 # 07. Respiratory System — Pharmacology Study Guide
 
 > **Source:** `07_Respiratory_System.pdf` (6 pages; PDF pages 114–119 in the source document)

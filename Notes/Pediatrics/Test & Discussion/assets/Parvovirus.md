@@ -1,3 +1,7 @@
+---
+Subject: Pediatrics
+type: TND
+---
 ssDNA
 1. Purpuric Glove & stocking Syndrome
 2. Non erosive arthropathy

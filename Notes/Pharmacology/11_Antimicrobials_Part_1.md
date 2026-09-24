@@ -1,3 +1,7 @@
+---
+Subject: Pharmacology
+type: Marrow
+---
 # Antimicrobials – Part 1
 
 > **Primary source:** `11_Antimicrobials_Part_1.pdf` (15 pages).

@@ -11,6 +11,7 @@ tags:
   - medico-legal
 Subject: Forensics
 Subject Section: Indian Legal System
+type: Marrow
 ---
 
 # Forensic Medicine & Toxicology - Indian Legal System, Medical Ethics, Negligence & Consent
@@ -25,16 +26,16 @@ Subject Section: Indian Legal System
 
 # Contents
 
-- [[#1. Foundations of Forensic Medicine and Indian Legal System]]
-- [[#2. Evidence, Witnesses and Court Procedure]]
-- [[#3. Medical Laws and Ethics]]
-- [[#4. Medical Negligence and Medicolegal Proceedings]]
-- [[#5. Consent in Medical Practice]]
-- [[#6. Maintenance and Production of Medical Records]]
-- [[#7. High-Yield Comparison Tables]]
-- [[#8. Current Legal Updates - Quick Reference]]
-- [[#9. Source-Critical Audit]]
-- [[#10. External Verification Sources]]
+- [ ] [[#1. Foundations of Forensic Medicine and Indian Legal System]]
+- [ ] [[#2. Evidence, Witnesses and Court Procedure]]
+- [ ] [[#3. Medical Laws and Ethics]]
+- [ ] [[#4. Medical Negligence and Medicolegal Proceedings]]
+- [ ] [[#5. Consent in Medical Practice]]
+- [ ] [[#6. Maintenance and Production of Medical Records]]
+- [ ] [[#7. High-Yield Comparison Tables]]
+- [ ] [[#8. Current Legal Updates - Quick Reference]]
+- [ ] [[#9. Source-Critical Audit]]
+- [ ] [[#10. External Verification Sources]]
 
 ---
 

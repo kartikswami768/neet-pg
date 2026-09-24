@@ -1,3 +1,7 @@
+---
+Subject: Pediatrics
+type: TND
+---
 > [!note] Definition
 > RBS < 40
 

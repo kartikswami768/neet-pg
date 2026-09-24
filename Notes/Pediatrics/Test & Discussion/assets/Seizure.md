@@ -1,3 +1,7 @@
+---
+Subject: Pediatrics
+type: TND
+---
 # absence Seizure
 Age Group 5 - 8 years
 ## clinical features

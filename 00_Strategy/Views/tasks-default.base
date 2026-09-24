@@ -46,7 +46,7 @@ views:
   - type: tasknotesTaskList
     name: Manual Order
     groupBy:
-      property: status
+      property: file.folder
       direction: ASC
     order:
       - status
@@ -245,3 +245,8 @@ views:
     sort:
       - property: status
         direction: ASC
+  - type: tasknotesTaskList
+    name: View
+    defaultCollapsedState: Collapsed
+    enableSearch: true
+    hideTopLevelSubtasks: true

@@ -1,3 +1,7 @@
+---
+Subject: Pharmacology
+type: Marrow
+---
 # GIT Pharmacology - Topic-Organized Study Notes
 
 **Primary source:** `08_GIT.pdf` (12-page GIT Pharmacology handout; printed pages 120-131)

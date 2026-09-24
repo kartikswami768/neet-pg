@@ -1,3 +1,7 @@
+---
+Subject: Pediatrics
+type: TND
+---
 all three must be there:
 1. RBS > 200
 2. Ph < 7.3

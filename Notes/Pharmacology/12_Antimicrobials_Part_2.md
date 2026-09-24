@@ -1,3 +1,7 @@
+---
+Subject: Pharmacology
+type: Marrow
+---
 # Antimicrobials Part 2 — Comprehensive, Topic-Organized Study Notes
 
 **Source PDF:** `12_Antimicrobials_Part_2.pdf` (27 pages)

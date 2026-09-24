@@ -1,3 +1,7 @@
+---
+Subject: Pediatrics
+type: TND
+---
 Nephritic Syndrome: Glomerulonephritis
 **Clinical Features:**
 - ==Hallmark: Hematuria==

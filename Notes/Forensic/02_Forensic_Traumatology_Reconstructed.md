@@ -1,3 +1,7 @@
+---
+Subject: Forensics
+type: Marrow
+---
 # Forensic Medicine & Toxicology — Forensic Traumatology
 
 > **Source:** `02_Forensic_Traumatology.pdf` (65 PDF pages; source notes are based on Marrow Forensic Medicine v4.5 / Marrow 6.5, 2023 material embedded in the PDF).
@@ -20,7 +24,14 @@
 | 42–51     | [[#5. Ballistics — Intermediate and Terminal Ballistics\|Gunshot wounds, firing range, entry/exit wounds, GSR, atypical ballistics]]      |
 | 52–58     | [[#6. Electrical, Lightning, Explosion and Torture Injuries\|Electrocution, lightning, blast injuries and torture methods]]               |
 | 59–65     | [[#7. Transportation Injuries\|Pedestrian, occupant, dashboard/seatbelt, whiplash, deceleration and related injuries]]                    |
-
+## Contents
+1. [ ] Mechanical Injuries
+2. [ ] Regional Injuries
+3. [ ] Thermal Injuries
+4. [ ] Proximal Ballistics
+5. [ ] Intermediate and Distant Ballistics
+6. [ ] Electrical injuries, Explosion injuries and Torture methods
+7. [ ] Transportation Injuries
 ---
 
 # 1. Mechanical Injuries — Part 1

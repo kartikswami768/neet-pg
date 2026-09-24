@@ -1,3 +1,7 @@
+---
+Subject: Forensics
+type: Marrow
+---
 # Forensic Medicine & Toxicology — Sexual Jurisprudence, Infant Death & Child Abuse
 
 > **Source reconstruction:** `04_Sexual_Jurisprudence.pdf` (Marrow Forensic Medicine v4.5 / Marrow 6.5, 2023), 27 pages.
@@ -7,8 +11,11 @@
 > **Method:** Material has been reorganized by conceptual topic rather than page order. Important OCR ambiguities, historically framed forensic tests, outdated terminology, and significant legal changes are explicitly flagged rather than silently rewritten.
 
 ---
-
 ## Contents
+- [ ] Impotence, Virginity, Delivery and Abortion
+- [ ] Infant deaths and Child abuse
+- [ ] Sexual offences
+## Contents in this note
 
 1. [[#1. Impotence Sterility and Medicolegal Concepts]]
 2. [[#2 Marriage Nullity Divorce and Consummation]]
