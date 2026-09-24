@@ -1267,12 +1267,12 @@ Typical source description:
 - Often **oblique**.
 - Usually **above the thyroid cartilage**.
 ##### Factors affecting ligature mark
-| Factor | Effect in source |
-|---|---|
-| Thin/narrow ligature | Narrower/deeper mark; may act as a “cheese cutter” |
-| Broad/soft ligature | Faint, superficial mark |
-| Fixed knot / fixed noose | Incomplete, oblique mark |
-| Slip/running knot | May produce more complete/transverse mark |
+| Factor                   | Effect in source                                   |
+| ------------------------ | -------------------------------------------------- |
+| Thin/narrow ligature     | Narrower/deeper mark; may act as a “cheese cutter” |
+| Broad/soft ligature      | Faint, superficial mark                            |
+| Fixed knot / fixed noose | Incomplete, oblique mark                           |
+| Slip/running knot        | May produce more complete/transverse mark          |
 > These are **classical patterns**, not absolute diagnostic rules.
 #### Glove-and-stocking hypostasis
 Not evidence of hanging by itself; indicates prolonged **vertical positioning**.
