@@ -1193,12 +1193,12 @@ The PDF gives the classical etymological explanation and defines the forensic pr
 1. **Cyanosis**
 2. **Petechial hemorrhages**
 3. **Visceral congestion**
-The PDF explicitly labels these classical signs as **obsolete/nonspecific signs of asphyxia**.
+>**obsolete/nonspecific signs of asphyxia**.
 ### Asphyxial quintet — source
 The classical triad plus:
 4. **Postmortem fluidity of blood**
 5. **Right-ventricular enlargement**
-> **Verified/current framing:** The triad is nonspecific and cannot by itself establish the mechanism of asphyxia. Current forensic teaching likewise treats cyanosis, congestion and petechiae as supportive rather than diagnostic.
+
 ## 4.2 Major categories in the PDF
 ```text
 Asphyxial deaths
@@ -1216,7 +1216,7 @@ Asphyxial deaths
     ├── Traumatic asphyxia
     └── Positional / environmental asphyxia
 ```
----
+
 ## 4.3 Artefactual neck hemorrhage — Prinsloo's/Gordon artefact
 Dissection-related hemorrhage/congestion can mimic antemortem neck injury.
 ### Prevention in source
@@ -1224,41 +1224,41 @@ Dissection-related hemorrhage/congestion can mimic antemortem neck injury.
 2. Keep neck dissection until later.
 3. Use **bloodless dissection**.
 4. Decompress venous blood by incising the jugular vein before detailed examination.
----
-# 4.4 Hanging
+
+## 4.4 Hanging
 **Definition in source:** Constriction of the neck by a ligature associated with suspension of the body by body weight.
-## Classification by knot position
-| Type | Knot position |
-|---|---|
-| **Typical hanging** | Knot in the occipital region |
+### Classification by knot position
+| Type                 | Knot position                             |
+| -------------------- | ----------------------------------------- |
+| **Typical hanging**  | Knot in the occipital region              |
 | **Atypical hanging** | Knot anywhere other than occipital region |
-## Classification by suspension
+### Classification by suspension
 | Type | Source definition | Main constricting force |
 |---|---|---|
 | **Complete hanging** | Whole body suspended; no body part touches ground | Whole body weight |
 | **Partial hanging** | Some body part touches ground; only part of body suspended | Part of body weight |
 The source calls complete hanging faster and partial hanging slower, but actual time to death depends on the anatomy and mechanism rather than suspension category alone.
-## 4.5 Ligature
+### 4.5 Ligature
 Any available material may act as a ligature, e.g.:
 - Rope
 - Cloth
 - Saree/dupatta and similar material
-## 4.6 Mechanisms of death in hanging
+### 4.6 Mechanisms of death in hanging
 The source identifies:
 - **Asphyxia**.
 - Cerebral venous congestion.
 - Possible vagal inhibition from neck pressure.
 - In judicial hanging, severe cervical injury can be the dominant mechanism.
-### Classical sequence of airway/vascular effects
+#### Classical sequence of airway/vascular effects
 The source emphasizes that veins, arteries, airway and nerves are compressed to different degrees depending on knot position, ligature and force.
 > The OCR of the PDF's numerical force thresholds for individual neck structures is unreliable. **Do not memorize numerical kilogram values from this reconstruction.**
-## 4.7 External examination in hanging
+### 4.7 External examination in hanging
 ### Face
 Source associations:
 - Cerebral venous congestion.
 - Cerebral anemia.
 - Asphyxial changes.
-### Ligature mark
+#### Ligature mark
 Typical source description:
 - Usually **pale**.
 - **Parchment-like**.
@@ -1266,7 +1266,7 @@ Typical source description:
 - Often **incomplete**.
 - Often **oblique**.
 - Usually **above the thyroid cartilage**.
-### Factors affecting ligature mark
+##### Factors affecting ligature mark
 | Factor | Effect in source |
 |---|---|
 | Thin/narrow ligature | Narrower/deeper mark; may act as a “cheese cutter” |
@@ -1274,29 +1274,29 @@ Typical source description:
 | Fixed knot / fixed noose | Incomplete, oblique mark |
 | Slip/running knot | May produce more complete/transverse mark |
 > These are **classical patterns**, not absolute diagnostic rules.
-### Glove-and-stocking hypostasis
+#### Glove-and-stocking hypostasis
 Not evidence of hanging by itself; indicates prolonged **vertical positioning**.
-### Dribbling of saliva
+#### Dribbling of saliva
 The source emphasizes saliva dribbling from the mouth as a strong sign supporting **antemortem hanging**, attributed to salivary stimulation during neck compression.
 > **Current forensic interpretation:** Saliva dribbling may be supportive in context but should not be treated as pathognomonic or as a standalone proof of vitality.
-### Tongue protrusion
+#### Tongue protrusion
 The source attributes it to lifting of the pharyngeal skeleton.
-### La facie sympathique
+#### La facie sympathique
 Source description:
 - Ipsilateral opening of eyelids.
 - Ipsilateral pupillary dilatation.
 - Attributed to pressure on the cervical sympathetic chain.
 - Traditionally described as a sign supporting antemortem hanging.
 Again, it is a **classical supportive sign**, not an absolute criterion.
-## 4.8 Suspension peak
+#### 4.8 Suspension peak
 Classical source diagram:
 - Ligature mark rises toward the point of suspension.
 - Described as an **inverted V-shaped** peak.
 The source uses this to distinguish hanging from strangulation, but modern interpretation should use the entire injury pattern and circumstance rather than one visual sign.
-## 4.9 Special low-point suspension
+#### 4.9 Special low-point suspension
 The PDF notes that when the point of suspension is low, e.g. a door/window level, a **transverse appearance** may occur despite hanging.
 This is an important exception to the simplistic rule that “hanging always gives an oblique mark.”
-## 4.10 Internal findings in hanging
+### 4.10 Internal findings in hanging
 ### Hyoid and laryngeal skeleton
 The source lists:
 - Thyroid cartilage fracture.

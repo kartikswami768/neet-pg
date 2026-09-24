@@ -14,30 +14,30 @@
 
 ## 0. Topic map of the PDF
 
-| Topic | PDF pages | Main content |
-|---|---:|---|
-| ANS organization and physiology | 1 | Sympathetic vs parasympathetic; anatomy; neurotransmitters; end-organ effects |
-| Acetylcholine metabolism and toxins | 2–3 | ACh synthesis, uptake, vesicular storage, release, degradation; botulinum and tetanus toxins |
-| Cholinergic receptors | 3–4 | Nicotinic and muscarinic receptors; subtype physiology; clinical correlations |
-| Direct cholinergic agonists | 4 | Acetylcholine, bethanechol, methacholine, pilocarpine, cevimeline, nicotine, muscarine |
-| Smoking cessation | 4–5 | Nicotine, varenicline, bupropion; adverse effects and exam mnemonics |
-| Mushroom poisoning | 5 | Muscarinic, amatoxin, and muscimol syndromes |
-| Indirect cholinergic drugs / anticholinesterases | 5–9 | Reversible carbamates, irreversible organophosphates; poison treatment |
-| Alzheimer disease pharmacology | 6–7 | Tacrine, donepezil, galantamine, rivastigmine, memantine, amyloid antibodies |
-| Neostigmine and myasthenia gravis | 7–8 | NMJ reversal; MG treatment; crisis; drugs that may worsen MG |
-| Snake neurotoxicity | 8 | Cobra vs krait exam comparison |
-| Antimuscarinic drugs and atropine poisoning | 9–12 | Effects, poisoning, clinical uses, contraindications, GI/bladder/eye indications |
-| Ganglionic blockers | 12 | Nn blockers; adverse effects; old clinical uses |
-| Catecholamine synthesis | 12–13 | Tyrosine → dopamine → norepinephrine → epinephrine; metyrosine; VMAT2 |
-| Adrenergic agonists | 13–16 | Norepinephrine, epinephrine, dopamine, dobutamine, fenoldopam, phenylephrine, ephedrine, midodrine, decongestants, β3 agonists |
-| Adrenergic effects on BP/HR | 16–17 | Epinephrine vs norepinephrine; reflexes; transplanted heart; Dale reversal |
-| Central sympatholytics | 17–18 | α2 agonists; clonidine, methyldopa, guanfacine, dexmedetomidine, tizanidine |
-| α-blockers | 18–19 | Phenoxybenzamine, phentolamine, prazosin-class drugs; tyramine/MAOI interaction |
-| BPH pharmacology | 19 | α1 blockers; 5α-reductase inhibitors |
-| Scorpion envenomation | 19 | α1 blockade with prazosin; cardiopulmonary complications |
-| β-blockers | 19–20 | Classification, kinetics, ISA, selected clinical uses, adverse effects |
-| β-blocker toxicity / diabetes | 20 | Hypoglycemia masking; toxicity treatment |
-| Glaucoma drugs | 20–21 | Aqueous humor production/drainage; prostaglandins, β-blockers, α2 agonists, CAIs, pilocarpine; acute angle closure |
+| Topic                                            | PDF pages | Main content                                                                                                                   |
+| ------------------------------------------------ | --------: | ------------------------------------------------------------------------------------------------------------------------------ |
+| ANS organization and physiology                  |         1 | Sympathetic vs parasympathetic; anatomy; neurotransmitters; end-organ effects                                                  |
+| Acetylcholine metabolism and toxins              |       2–3 | ACh synthesis, uptake, vesicular storage, release, degradation; botulinum and tetanus toxins                                   |
+| Cholinergic receptors                            |       3–4 | Nicotinic and muscarinic receptors; subtype physiology; clinical correlations                                                  |
+| Direct cholinergic agonists                      |         4 | Acetylcholine, bethanechol, methacholine, pilocarpine, cevimeline, nicotine, muscarine                                         |
+| Smoking cessation                                |       4–5 | Nicotine, varenicline, bupropion; adverse effects and exam mnemonics                                                           |
+| Mushroom poisoning                               |         5 | Muscarinic, amatoxin, and muscimol syndromes                                                                                   |
+| Indirect cholinergic drugs / anticholinesterases |       5–9 | Reversible carbamates, irreversible organophosphates; poison treatment                                                         |
+| Alzheimer disease pharmacology                   |       6–7 | Tacrine, donepezil, galantamine, rivastigmine, memantine, amyloid antibodies                                                   |
+| Neostigmine and myasthenia gravis                |       7–8 | NMJ reversal; MG treatment; crisis; drugs that may worsen MG                                                                   |
+| Snake neurotoxicity                              |         8 | Cobra vs krait exam comparison                                                                                                 |
+| Antimuscarinic drugs and atropine poisoning      |      9–12 | Effects, poisoning, clinical uses, contraindications, GI/bladder/eye indications                                               |
+| Ganglionic blockers                              |        12 | Nn blockers; adverse effects; old clinical uses                                                                                |
+| Catecholamine synthesis                          |     12–13 | Tyrosine → dopamine → norepinephrine → epinephrine; metyrosine; VMAT2                                                          |
+| Adrenergic agonists                              |     13–16 | Norepinephrine, epinephrine, dopamine, dobutamine, fenoldopam, phenylephrine, ephedrine, midodrine, decongestants, β3 agonists |
+| Adrenergic effects on BP/HR                      |     16–17 | Epinephrine vs norepinephrine; reflexes; transplanted heart; Dale reversal                                                     |
+| Central sympatholytics                           |     17–18 | α2 agonists; clonidine, methyldopa, guanfacine, dexmedetomidine, tizanidine                                                    |
+| α-blockers                                       |     18–19 | Phenoxybenzamine, phentolamine, prazosin-class drugs; tyramine/MAOI interaction                                                |
+| BPH pharmacology                                 |        19 | α1 blockers; 5α-reductase inhibitors                                                                                           |
+| Scorpion envenomation                            |        19 | α1 blockade with prazosin; cardiopulmonary complications                                                                       |
+| β-blockers                                       |     19–20 | Classification, kinetics, ISA, selected clinical uses, adverse effects                                                         |
+| β-blocker toxicity / diabetes                    |        20 | Hypoglycemia masking; toxicity treatment                                                                                       |
+| Glaucoma drugs                                   |     20–21 | Aqueous humor production/drainage; prostaglandins, β-blockers, α2 agonists, CAIs, pilocarpine; acute angle closure             |
 
 ---
 
