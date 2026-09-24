@@ -20,7 +20,7 @@ type: Marrow
 1. [ ] [Forensic Psychiatry](#1-forensic-psychiatry)
 2. [ ] [Trace Evidence](#2-trace-evidence)
 3. [ ] [Acts and Legal Sections of Importance](#3-acts-and-legal-sections-of-importance)
-4. [ ] [Current Indian Legal Framework: High-Yield Update](#4-current-indian-legal-framework-high-yield-update)
+4. [x] [Current Indian Legal Framework: High-Yield Update](#4-current-indian-legal-framework-high-yield-update) ✅ 2026-09-24
 5. [ ] [Rapid Revision Tables](#5-rapid-revision-tables)
 6. [ ] [Source/Verification Notes](#6-sourceverification-notes)
 

@@ -25,7 +25,12 @@ type: Marrow
 ---
 
 # Contents
+1. Indian Legal System
+2. Medical Law and Ethics
+3. Medical Negligence
+4. Consent in Medical Practice
 
+# Contents of this note
 - [ ] [[#1. Foundations of Forensic Medicine and Indian Legal System]]
 - [ ] [[#2. Evidence, Witnesses and Court Procedure]]
 - [ ] [[#3. Medical Laws and Ethics]]

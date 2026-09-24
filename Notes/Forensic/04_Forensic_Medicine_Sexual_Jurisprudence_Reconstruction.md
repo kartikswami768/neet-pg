@@ -1,6 +1,8 @@
 ---
 Subject: Forensics
 type: Marrow
+Subject Section: Sexual Jurisprudence
+tags:
 ---
 # Forensic Medicine & Toxicology — Sexual Jurisprudence, Infant Death & Child Abuse
 
@@ -43,93 +45,73 @@ type: Marrow
 
 ---
 
-# 1. Impotence, Sterility and Medicolegal Concepts
+# 1. Impotence, Virginity, Delivery and Abortion
+## 1.1 Impotence, Sterility and Medicolegal Concepts
+### 1.1.1 Impotence
 
-## 1.1 Impotence
-
-**Source PDF definition:**
-
+>[!note] Definition:
 > Inability to achieve and maintain penile erection.
 
-The PDF treats impotence as a male sexual-function issue and lists both psychological and organic causes.
-
-### Causes of impotence listed in the PDF
-
+#### Causes of impotence listed in the PDF
 - **Psychological:** anxiety, depression, stress, fear — presented in the source as the most common cause.
 - **Vasculogenic:** presented as the most common organic cause.
 - Neurological.
 - Congenital.
 - Acquired disease.
 
-### Medicolegal concept: Impotence *quod hanc*
-
+#### Medicolegal concept: Impotence *quod hanc*
 **Impotence *quod hanc*** = a man may be sexually impotent with one particular woman but not with another, usually described in the source as a psychological situation.
+- In such a situation the marriage may be declared null and void. 
 
-The PDF states that in such a situation the marriage may be declared null and void. This is a **source-note formulation** and should not be treated as a complete statement of present matrimonial law; legal remedies depend on the applicable personal law and facts.
 
-## 1.2 Female terminology in the source
-
-### Frigidity
+### 1.1.2 Frigidity
 
 The PDF defines **frigidity** as sexual coldness or loss of sexual arousal in a female.
 
 > **Current terminology note:** “Frigidity” is an older, nonspecific term and is not a preferred modern diagnostic term. Modern clinical assessment uses specific sexual-dysfunction diagnoses and focuses on the actual symptom domain.
 
-## 1.3 Sterility
+### 1.1.3 Sterility
 
 **Sterility:** inability to beget children.
 
 > **Clinical distinction:** Sterility is a historical forensic term. Modern medicine generally uses **infertility** and specifies female, male, combined, or unexplained infertility where appropriate.
 
-## 1.4 Excessive sexual desire — historical terminology
+### 1.1.4 Excessive sexual desire — historical terminology
 
 The PDF states:
-
 - **Satyriasis:** excessive sexual desire in males.
 - **Nymphomania:** excessive sexual desire in females.
 
 These are **historical terms** and should not be used as current diagnostic categories.
 
----
 
-# 2. Marriage, Nullity, Divorce and Consummation
 
-## 2.1 Hindu Marriage Act framework in the source
+## 1.2 Marriage, Nullity, Divorce and Consummation
 
-The source organizes marriage-related remedies as:
+### 1.2.1 Hindu Marriage Act framework in the source
 
-| Concept | Source description | Source section cited |
-|---|---|---|
-| Valid marriage | Conditions for a valid Hindu marriage | HMA §5 |
-| Void marriage | Void *ab initio*; treated as never valid | HMA §11 |
-| Voidable marriage | Court declaration required | HMA §12 |
-| Divorce | Dissolution of marriage | HMA §13 |
+| Concept           | Source description                       | Source section cited |
+| ----------------- | ---------------------------------------- | -------------------- |
+| Valid marriage    | Conditions for a valid Hindu marriage    | HMA §5               |
+| Void marriage     | Void *ab initio*; treated as never valid | HMA §11              |
+| Voidable marriage | Court declaration required               | HMA §12              |
+| Divorce           | Dissolution of marriage                  | HMA §13              |
 
-The section references above remain recognizable under the Hindu Marriage Act, 1955; the source's examples should still be read in the context of the actual statutory wording and current case law.
-
-## 2.2 Grounds listed in the PDF
-
-### Void / null marriage
-
-The PDF lists:
-
+### 1.2.2 Grounds listed in the PDF
+#### Void / null marriage
 - Bigamy.
 - Prohibited relationship, for example:
   - father–daughter;
   - brother–sister.
 
-### Voidable marriage
-
-The PDF lists:
-
+#### Voidable marriage
 - Incurable impotence causing non-consummation.
 - Incurable insanity.
 - Invalid consent, including fraud, force, or intoxication in the source's shorthand.
 - Impregnated wife.
 - Impersonation.
 
-### Divorce grounds listed in the source
-
+#### Divorce grounds listed in the source
 - Desertion — source notes **2 years**.
 - Incurable insanity.
 - Venereal disease — historical textbook terminology.
@@ -140,32 +122,25 @@ The PDF lists:
 
 > **Current-law note:** The PDF combines legal concepts from older teaching material. In an actual legal problem, use the current statutory text and applicable case law rather than memorizing the source list as an exhaustive statement of present matrimonial law.
 
-### Frigidity and divorce
-
+##### Frigidity and divorce
 The source notes that frigidity may amount to **mental cruelty** and therefore may be relevant to divorce.
-
 This should be understood as a **context-dependent matrimonial-law issue**, not as an automatic rule.
 
-## 2.3 Consummation of marriage
-
-The PDF emphasizes:
-
+### 1.2.3 Consummation of marriage
 - Consummation requires **penetration**, rather than mere intention.
 - **Even one penetration** is described as sufficient for consummation.
 - Inability to satisfy a partner is **not** equated with non-consummation.
 - For impotence as a matrimonial ground, the source associates the concept with **non-consummation — not even once**.
 
-### Fecundation *ab extra*
-
+#### Fecundation *ab extra*
 The source describes **fecundation *ab extra*** as conception occurring when semen is deposited in the vulva, or sometimes on the upper thighs, and states that nullity may be granted in the described situation.
 
 > **Forensic caution:** This is a medico-legal teaching concept from the source. The actual legal outcome depends on the governing matrimonial statute and case facts.
 
 ---
 
-# 3. Assisted Reproduction and Surrogacy
-
-## 3.1 Assisted reproductive techniques in the PDF
+## 1.3 Assisted Reproduction and Surrogacy
+### Assisted reproductive techniques in the PDF
 
 The source gives a broad framework:
 
@@ -181,60 +156,44 @@ Assisted reproductive techniques
     └── ICSI
 ```
 
-### IVF techniques listed
+### 1.3.1 IVF techniques listed
 
 - **Embryo transfer**
 - **GIFT** — gamete intrafallopian transfer
 - **ZIFT** — zygote intrafallopian transfer
 - **ICSI** — intracytoplasmic sperm injection
 
-## 3.2 Artificial insemination
-
+### 1.3.2 Artificial insemination
 **Definition in the PDF:** Artificial introduction of semen into the female genital tract to produce pregnancy.
-
-### Indications listed
+#### Indications listed
 
 | Male factors | Female factors |
 |---|---|
 | Erectile dysfunction | Vaginitis / cervicitis |
 | Congenital defects | Cervical stenosis |
 | Reduced sperm count | Conditions preventing effective deposition of sperm |
-
-The common principle in the source is that the person is unable to deposit spermatozoa adequately in the female genital tract.
-
-## 3.3 AIH and AID
-
-### AIH — Artificial insemination by husband
-
+#### AIH and AID
+##### **AIH — Artificial insemination by husband:**
 Uses the **husband's semen**.
-
 The source states that consent of **both husband and wife** is mandatory.
 
-### AID — Artificial insemination by donor
-
+##### **AID — Artificial insemination by donor**
 Uses **donor semen**.
-
 The source lists consent of:
-
 - donor;
 - donor's wife;
 - recipient couple.
 
-### Donor selection criteria listed in the PDF
+- **Donor selection criteria listed in the PDF**
+	- Married.
+	- At least one healthy child.
+	- No Rh incompatibility.
+	- Unrelated to the recipient couple.
+	- Age <40 years.
+	- Same race.
 
-- Married.
-- At least one healthy child.
-- No Rh incompatibility.
-- Unrelated to the recipient couple.
-- Age <40 years.
-- Same race.
-
-> **Current-practice note:** These are source-note criteria and should not be treated as an exhaustive or current ART donor-selection standard. Current ART practice is governed by statutory/regulatory requirements and contemporary fertility practice.
-
-## 3.4 Medicolegal implications of artificial insemination
-
+#### Medicolegal implications of artificial insemination
 The source mentions:
-
 - **Nullity:** AI in a situation where the husband is impotent.
 - **Divorce:** AI carried out without husband's consent.
 - **Adultery:** source says AI is not adultery because there is no physical union.
@@ -243,40 +202,28 @@ The source mentions:
 
 > **Current-law note:** Adultery is no longer a criminal offence in India. See [[#16 Adultery and Incest]] and [[#19 Current Indian Legal Crosswalk]].
 
-## 3.5 Surrogacy
-
-### Definition
-
+### 1.3.3 Surrogacy
+#### Definition
 **Surrogate mother:** A woman who, by agreement/contract, bears a child for another person or couple.
 
-## 3.6 Types of surrogacy listed in the source
-
-### Commercial surrogacy
-
-- Done for money.
-- The source states it is **not permitted in India**.
-
-### Altruistic surrogacy
-
-- Done out of love and affection.
-- Permitted under the **Surrogacy (Regulation) Act, 2021**, subject to statutory conditions.
-- The intending couple bears hospital and insurance expenses in the source description.
-
+#### Types of surrogacy listed in the source
+1. **Commercial surrogacy**
+	- Done for money.
+	- The source states it is **not permitted in India**.
+2. **Altruistic surrogacy**
+	- Done out of love and affection.
+	- Permitted under the **Surrogacy (Regulation) Act, 2021**, subject to statutory conditions.
+	- The intending couple bears hospital and insurance expenses in the source description.
+	
 The Surrogacy (Regulation) Act, 2021 came into force in January 2022.
 
-## 3.7 Intending couple — source criteria
-
-The PDF describes:
-
+#### Intending couple
 - Married couple with at least **5 years** of marriage and proven infertility.
 - Indian widows / divorcees are also mentioned.
 
 > **Current-law note:** Eligibility is controlled by the current statutory and regulatory framework; the source's teaching shorthand should not be substituted for the present eligibility forms and rules.
 
-## 3.8 Surrogate mother — source criteria
-
-The PDF lists:
-
+#### Eligibility of Surrogate Mother
 - Close relative.
 - Married, with at least one healthy child.
 - Age **25–35 years**.
@@ -284,59 +231,42 @@ The PDF lists:
 
 The current statutory framework retains important eligibility concepts such as being an ever-married woman with a child of her own, age requirements, medical/psychological fitness, and limits on repeat surrogacy.
 
-## 3.9 Gamete source — important correction
+#### Gamete source — important correction
 
 The source page states that, depending on the scenario, the following may be used:
 
 - husband's sperm;
 - wife's egg;
 - donor sperm;
-- **surrogate mother's egg**.
+- ~~surrogate mother's egg~~
 
-### Current verification
+>[!info] Current verification
+>The statement that the **surrogate mother's own egg** can be used is **not an accurate description of present regulated gestational surrogacy in India**.
+>
+>A 2024 amendment to the Surrogacy Rules permits a donor gamete in defined medical circumstances certified by the District Medical Board, but **at least one gamete must come from the intending couple**. The surrogate does not contribute her own oocyte under the regulated framework.
 
-The statement that the **surrogate mother's own egg** can be used is **not an accurate description of present regulated gestational surrogacy in India**.
+> **Exam note:** do **not** memorize “surrogate's own egg” as an allowed route.
 
-A 2024 amendment to the Surrogacy Rules permits a donor gamete in defined medical circumstances certified by the District Medical Board, but **at least one gamete must come from the intending couple**. The surrogate does not contribute her own oocyte under the regulated framework.
-
-> **Exam note:** Keep the source's historical line in mind only to recognize old teaching material; for current Indian law, do **not** memorize “surrogate's own egg” as an allowed route.
-
-## 3.10 Sex selection
-
-The PDF states:
-
-- **No sex selection.**
-
-This is consistent with the prohibition on sex selection under Indian law.
-
-## 3.11 Abandonment
-
-The source states:
-
-- Abandonment of a child is legally punishable.
-
+#### Surrogate Child
+1. Legitimate Child
+2. Sex selection: **No sex selection.**
+3. Abandonment: Abandonment of a child is legally punishable.
 See [[#19 Current Indian Legal Crosswalk]].
 
 ---
 
-# 4. Virginity and Hymen
-
-## 4.1 Historical terminology
-
-The source contains the following terms:
-
-- **Apta virgo** (OCR: “Apta viro”): female regarded as fit for marriage / husband / procreation.
+## 1.4 Virginity and Hymen
+### 1.4.1 Historical terminology
+- **Apta virgo**: female regarded as fit for marriage / husband / procreation.
 - **Virgin:** female described in the source as not having experienced sexual intercourse.
 - **Defloration:** loss of virginity.
 
 > **Current forensic correction:** “Virginity” is not a scientifically determinable biological state. Hymenal appearance cannot establish whether vaginal intercourse has occurred, and modern clinical/forensic practice does not support “virginity testing.” WHO states that there is no examination that can prove a history of vaginal intercourse and that virginity testing has no scientific or clinical validity.
 
-## 4.2 Hymen
+### 1.4.2 Hymen
+**Definition:** A fold of mucous membrane at the vaginal opening.
 
-**Definition in the PDF:** A fold of mucous membrane at the vaginal opening.
-
-### Types of hymen shown/listed in the PDF
-
+#### Types of hymen
 - Annular.
 - Semilunar.
 - Septate.
@@ -344,12 +274,18 @@ The source contains the following terms:
 - Imperforate.
 - Fimbriate.
 
-## 4.3 Fimbriate hymen
+>[!note] **Fimbriate hymen:** 
+>It has **normal notches** that may be mistaken for tears during examination.
+>
+>|Feature|Fimbriate hymen|Hymenal tear — source description|
+>|---|---|----------------|
+>| Shape | Symmetrical notches | Usually asymmetrical |
+>| Extent | Notches do not extend to the margin | Tear may extend to the margin |
+>| Mucosa | Intact | Torn; bleeding may be present |
 
-The source emphasizes that the **fimbriate hymen has normal notches** that may be mistaken for tears during examination.
+This is a **historical examination distinction** and should not be converted into a “virginity test.”
 
-## 4.4 Causes of hymenal rupture listed in the source
-
+#### Causes of hymenal rupture listed in the source
 - Sexual intercourse.
 - Masturbation.
 - Accident.
@@ -357,7 +293,7 @@ The source emphasizes that the **fimbriate hymen has normal notches** that may b
 - Foreign-body insertion.
 - Digital insertion.
 
-## 4.5 Site of hymenal tear — source table
+#### Site of hymenal tear
 
 | Site | Source-associated cause |
 |---|---|
@@ -366,10 +302,7 @@ The source emphasizes that the **fimbriate hymen has normal notches** that may b
 
 > **Current forensic correction:** Exact clock-position patterns are not diagnostic of a particular mechanism in an individual case. The appearance of the hymen is variable, and injuries must be documented objectively.
 
-## 4.6 Intact hymen despite sexual intercourse — source concepts
-
-The PDF lists situations in which an apparently intact hymen may be seen despite alleged intercourse:
-
+#### Intact hymen despite sexual intercourse 
 - Child with deep-seated hymen.
 - Thick hymen.
 - Highly elastic hymen.
@@ -378,55 +311,36 @@ The PDF lists situations in which an apparently intact hymen may be seen despite
 
 The broader forensic point is important: **absence of a hymenal injury does not exclude sexual activity or sexual assault.**
 
-## 4.7 Fimbriate hymen versus hymenal tear
 
-| Feature | Fimbriate hymen | Hymenal tear — source description |
-|---|---|---|
-| Shape | Symmetrical notches | Usually asymmetrical |
-| Extent | Notches do not extend to the margin | Tear may extend to the margin |
-| Mucosa | Intact | Torn; bleeding may be present |
 
-This is a **historical examination distinction** and should not be converted into a “virginity test.”
-
-## 4.8 Glaister-Keen rod
-
-The PDF describes a **Glaister-Keen rod** as a device used for close examination of the hymen / degree of rupture, with an illuminating bulb on one side.
+#### Glaister-Keen rod
+Device used for close examination of the hymen / degree of rupture, with an illuminating bulb on one side.
 
 > **Current practice:** This historical instrument is not a basis for determining virginity.
 
-## 4.9 Carunculae myrtiformes
-
+#### Carunculae myrtiformes
 **Carunculae myrtiformes** = remnants of the hymen, classically described after childbirth.
 
-## 4.10 “Signs of virginity” — historical source list
-
-The source lists:
-
+#### “Signs of virginity” — historical source list
 - Intact hymen.
 - Intact fossa navicularis / fourchette.
 - Narrow vagina with mucosal rugosity.
 - The source states rugosity is lost only after repeated sexual activity.
 
-### Current forensic correction
-
-These are **not reliable signs of virginity**. Normal anatomic variation is substantial, and hymenal/vaginal findings cannot establish previous sexual intercourse. Modern sexual-assault guidance specifically discourages conclusions about prior sexual activity based on hymen appearance, vaginal introitus, or “laxity.”
+>**Current forensic correction**
+>These are **not reliable signs of virginity**. Normal anatomic variation is substantial, and hymenal/vaginal findings cannot establish previous sexual intercourse. Modern sexual-assault guidance specifically discourages conclusions about prior sexual activity based on hymen appearance, vaginal introitus, or “laxity.”
 
 ---
 
-# 5. Pregnancy, Pseudocyesis and Twin Pregnancy
+## 1.5 Pregnancy, Pseudocyesis and Twin Pregnancy
 
-## 5.1 Signs of pregnancy — source classification
-
-The PDF divides findings into:
-
+### 5.1 Signs of pregnancy — source classification
 1. Presumptive signs.
 2. Probable signs.
 3. Positive signs.
 
-## 5.2 Presumptive signs
-
-The source lists:
-
+#### 5.2 Presumptive signs
+These are **subjective or nonspecific** findings and do not establish pregnancy.
 - Amenorrhoea.
 - Morning sickness.
 - Abdominal enlargement.
@@ -435,14 +349,10 @@ The source lists:
 - Pigmentation.
 - Quickening.
 
-These are **subjective or nonspecific** findings and do not establish pregnancy.
 
-## 5.3 Probable signs
 
-The PDF lists:
-
+#### 5.3 Probable signs
 - Goodell's sign.
-- Morning sickness.
 - Hegar's sign.
 - Braxton-Hicks contractions.
 - Ballottement.
@@ -450,37 +360,29 @@ The PDF lists:
 
 > **Note:** hCG is a biochemical evidence of pregnancy and is highly useful clinically, but the textbook's three-category scheme is an examination framework rather than a strict modern diagnostic hierarchy.
 
-## 5.4 Positive signs
-
-The PDF lists:
-
+#### 5.4 Positive signs
 - Fetal movements.
 - Fetal parts on palpation.
 - Fetal heart sounds.
 - Radiographic fetal findings.
 - Ultrasonography.
 
-### Modern interpretation
+##### Modern interpretation
 
 The most useful present-day objective confirmation is **visualization of an intrauterine pregnancy/fetus by ultrasound and/or demonstration of fetal cardiac activity**, according to gestational age and clinical context.
 
 Radiographic visualization of fetal bones is a historical forensic teaching point and is not a routine method for confirming pregnancy in living patients.
 
-## 5.5 Historical radiographic appearances listed in the source
-
-The PDF illustrates fetal skeletal appearances on X-ray, including:
-
+### 5.5 Historical radiographic appearances listed in the source
 - series of small linear dots for the fetal skeleton;
 - crescentic skull shadow;
 - curved parallel rib shadows;
 - linear limb shadows.
 
-## 5.6 Pseudocyesis / spurious / phantom pregnancy
+### 5.6 Pseudocyesis / spurious / phantom pregnancy
+A woman believes that she is pregnant despite absence of a viable pregnancy; the source notes that it is often seen in childless women, including those nearing menopause.
 
-**Definition in the PDF:** A woman believes that she is pregnant despite absence of a viable pregnancy; the source notes that it is often seen in childless women, including those nearing menopause.
-
-### Features listed
-
+#### Features 
 - Abdominal enlargement, attributed in the source to fat deposition.
 - Amenorrhoea.
 - Breast changes.
@@ -488,181 +390,121 @@ The PDF illustrates fetal skeletal appearances on X-ray, including:
 - Morning sickness.
 - Hormonal disturbance.
 
-### Examination
-
+#### Examination
 If the woman presents for medical attention:
-
 - subjective symptoms may be present;
 - **positive signs of pregnancy are absent**;
 - ultrasound shows an **empty uterus**.
 
 If medical attention is not obtained, the source describes progression to symptoms resembling labour pain / false labour.
 
-## 5.7 Twin pregnancy: superfecundation versus superfetation
+### 5.7 Twin pregnancy: superfecundation versus superfetation
 
-| Feature | Superfecundation | Superfetation |
-|---|---|---|
-| Ovulatory cycle | Same ovulatory cycle | Different ovulatory cycle |
-| Mechanism in source | Different acts of coitus | Subsequent fertilization in another cycle |
-| Paternity | Can be monopaternal or heteropaternal | Different developmental age is expected in the source concept |
-| Human occurrence | Can occur in humans | Very rare in humans; commoner in animals according to source |
-| Fetal age/development | Same/similar | Different |
+| Feature               | Superfecundation                      | Superfetation                                                 |
+| --------------------- | ------------------------------------- | ------------------------------------------------------------- |
+| Ovulatory cycle       | Same ovulatory cycle                  | Different ovulatory cycle                                     |
+| Mechanism in source   | Different acts of coitus              | Subsequent fertilization in another cycle                     |
+| Paternity             | Can be monopaternal or heteropaternal | Different developmental age is expected in the source concept |
+| Human occurrence      | Can occur in humans                   | Very rare in humans; commoner in animals according to source  |
+| Fetal age/development | Same/similar                          | Different                                                     |
 
-### Heteropaternal superfecundation
 
-The source specifically states that superfecundation may be:
-
-- **Monopaternal:** same male.
-- **Heteropaternal:** different males.
-
-### Fetus papyraceus / fetus compressus
-
-The source states that in a twin pregnancy one fetus may compress another, resulting in **fetus papyraceus** or **fetus compressus**.
-
-## 5.8 Legitimate child — historical source concepts
-
-The source notes legitimacy in relation to:
-
+### 5.8 Legitimate child
+A child who is born
 - birth during continuation of lawful marriage;
-- birth within the source's stated interval after separation/death/divorce;
+- birth within 280 days of separation/death/divorce;
+- with wife remains unmarried
 - conception with husband's frozen semen in artificial insemination, for which the source states legitimacy can be established even beyond the stated interval.
 
-> **Legal note:** Presumptions of legitimacy and paternity are governed by current Indian law and evidence rules. The above is retained as source teaching material rather than a complete statement of current paternity law.
+### 5.9 Affiliation case
+A case in which a woman alleges that a particular man is the father of her child and seeks determination of paternity.
 
-## 5.9 Affiliation case
+### 5.10 Suppositious child
 
-The PDF describes an **affiliation case** as a case in which a woman alleges that a particular man is the father of her child and seeks determination of paternity.
-
-## 5.10 Suppositious child
-
-Also called in the source:
-
+Also called as:
 - fictitious child;
 - substituted child;
 - forged child.
 
-The source describes a woman who pretends to have been pregnant and later presents another child as her own.
+A woman pretends to have been pregnant and later presents another child as her own.
 
----
 
-# 6. Delivery and Related Medicolegal Concepts
 
-## 6.1 Posthumous child
+## 1.6 Delivery and Related Medicolegal Concepts
 
+### 6.1 Posthumous child
 **Posthumous child:** Child born after the death of the alleged father.
 
-## 6.2 Atavism
-
+### 6.2 Atavism
 **Atavism:** Reappearance of an ancestral characteristic.
+Example: a child who does not resemble the parents but resembles grandparents.
 
-The PDF gives the example of a child who does not resemble the parents but resembles grandparents.
-
-## 6.3 Lochia
-
+### 6.3 Lochia
 The source treats **lochia** as a sign of recent delivery.
 
-### Types listed
+#### Types listed
 
-| Type | Source duration |
-|---|---|
-| **Lochia rubra** | 4–5 days |
-| **Lochia serosa** | Next 4–5 days |
-| **Lochia alba** | 7–9 days in the source OCR/image |
+| Type              | Source duration                  | Colour    |
+| ----------------- | -------------------------------- | --------- |
+| **Lochia rubra**  | 4–5 days                         | Red       |
+| **Lochia serosa** | Next 4–5 days                    | Yellowish |
+| **Lochia alba**   | 7–9 days in the source OCR/image | Whitish   |
 
 > **Current clinical correction:** The duration of lochia is variable and generally extends for several weeks, with rubra followed by serosa and then alba. The precise day ranges in the PDF are exam-note shorthand and should not be treated as rigid clinical cut-offs.
 
-## 6.4 Pregnant woman sentenced to death — source note
-
-The PDF cites **CrPC §416** and states that where a woman sentenced to death is found to be pregnant, the High Court postpones execution or commutes the sentence to life imprisonment.
-
-### Current verification
-
-The Criminal Procedure Code has been replaced by the **Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS)**, in force from 1 July 2024. Historical CrPC section numbers should therefore be recognized as old references.
+### 6.4 Pregnant woman sentenced to death 
+The PDF cites **BNSS §456** and states that where a woman sentenced to death is found to be pregnant, the High Court commutes the sentence to life imprisonment.
 
 ---
 
-# 7. Abortion and Medical Termination of Pregnancy
-
-## 7.1 Definitions in the source
-
-The PDF gives two frameworks:
-
-### Legal definition in source
-
+## 1.7 Abortion and Medical Termination of Pregnancy
+### 7.1 Definitions in the source
+#### Legal definition in source
 **Abortion:** expulsion of products of conception at any time before delivery.
 
-### Medical definition in source
-
+#### Medical definition in source
 **Medical abortion:** expulsion of products of conception before the period of viability.
-
 The source uses **28 weeks** as its teaching convention for viability.
 
 > **Current clinical correction:** Viability is not a fixed universal biological threshold and varies with gestational age, neonatal care, and clinical setting. The 28-week value is best remembered as a **traditional forensic examination convention**, not as a universal contemporary medical boundary.
 
-## 7.2 Types of abortion
-
-### Spontaneous abortion
-
+### 7.2 Types of abortion
+#### Spontaneous abortion
 Natural loss of pregnancy.
 
-### Induced abortion
-
-The source divides induced abortion into:
-
+#### Induced abortion
+The source divides induced abortion into
 - **Legal abortion:** performed under the MTP framework.
 - **Criminal / illegal abortion:** contrary to statutory requirements.
 
-## 7.3 Medical Termination of Pregnancy Act
-
+### 7.3 Medical Termination of Pregnancy Act
 The source refers to:
-
 - **MTP Act, 1971.**
 - **MTP Amendment Act, 2021.**
-
-## 7.4 Indications for MTP — source framework
-
-The PDF lists:
-
+#### Indications for MTP 
 1. **Therapeutic:** grave risk to the life of the mother.
-2. **Eugenic:** risk of severe physical / mental deformity in the fetus.
-3. **Social:** failure of contraception.
-4. **Humanitarian:** pregnancy due to rape.
+2. Pregnancy causes grave injury to physical or mental health of mother.
+3. **Eugenic:** risk of severe physical / mental deformity in the fetus.
+4. **Social:** failure of contraception.
+5. **Humanitarian:** pregnancy due to rape.
 
-> **Current-law note:** The MTP Act provides statutory grounds and uses updated language for contraceptive failure. It should be read directly with its current Rules and amendments.
-
-## 7.5 MTP according to gestational age — source versus current framework
-
-### Source PDF teaching algorithm
-
-```text
-Pregnancy
-   ↓
-Assess gestational age
-   ├── ≤20 weeks → opinion of 1 doctor in source framework
-   ├── 20–24 weeks → opinion of 2 doctors for specified categories
-   └── >24 weeks → Medical Board for specified substantial fetal abnormalities
-
-Emergency to save the pregnant woman's life
-→ statutory emergency provision may apply irrespective of the ordinary gestational limits
-```
-
-### Current statutory framework
-
+#### MTP according to gestational age 
 Under the current MTP framework:
 
-| Gestational context | Current framework |
-|---|---|
-| **Up to 20 weeks** | Opinion of **one Registered Medical Practitioner**, where statutory conditions are satisfied |
-| **20–24 weeks** | Opinion of **two Registered Medical Practitioners** for specified categories under the Rules |
-| **Beyond 24 weeks** | Permitted in specified cases of **substantial fetal abnormalities** following Medical Board assessment, subject to the Act/Rules |
-| **Emergency to save pregnant woman's life** | The special emergency provision can operate without the ordinary gestational limitations in the Act |
-
-The 2021 Rules include categories such as survivors of sexual assault/rape/incest, minors, change in marital status, certain women with mental illness/disability, fetal malformation, and other notified categories.
-
-## 7.6 “miDwIFR” mnemonic in the source
-
-The source gives a mnemonic for categories relevant to the 20–24-week framework:
-
+| Gestational context                         | Current framework                                                                                                                |
+| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Up to 20 weeks**                          | Opinion of **one Registered Medical Practitioner**, where statutory conditions are satisfied                                     |
+| **20–24 weeks**                             | Opinion of **two Registered Medical Practitioners** for *specified categories under the Rules*                                   |
+| **Beyond 24 weeks**                         | Permitted in specified cases of **substantial fetal abnormalities** following Medical Board assessment, subject to the Act/Rules |
+| **Emergency to save pregnant woman's life** | The special emergency provision can operate without the ordinary gestational limitations in the Act                              |
+- The 2021 Rules include categories such as 
+	- survivors of sexual assault/rape/incest, 
+	- minors, 
+	- change in marital status,
+	- certain women with mental illness/disability, 
+	- fetal malformation, 
+	- and other notified categories.
+##### MIDWIFR (Some kind of mneomonic )
 - **mi** → minor
 - **D** → divorce / mass disaster
 - **W** → widow
@@ -671,53 +513,38 @@ The source gives a mnemonic for categories relevant to the 20–24-week framewor
 - **R** → rape
 - **Incest** is also listed in the associated flow.
 
-This is an **exam mnemonic for the source's rules**, not a substitute for the current statutory language.
-
-## 7.7 Where can MTP be performed?
+#### Where can MTP be performed?
 
 The source states:
 
 - only in **authorized institutions**;
 - by an appropriately qualified **Registered Medical Practitioner**.
 
-The source gives old teaching details involving:
+- The source gives old teaching details involving:
+	- diploma/degree in obstetrics and gynaecology;
+	- with 6 months internship in OBG;
+	- with 1 year experience in obstetrics;
+	- assisted 25 MTP cases, with 5 independent procedures: can do MTP only upto <12 weeks of pregnancy.
 
-- diploma/degree in obstetrics and gynaecology;
-- internship/training routes;
-- experience in obstetrics;
-- assisted MTP cases, with independent procedures required for certain qualifications.
-
-> **Important:** The PDF's OCR of the qualification pathway is internally garbled in places. Because qualifications depend on the Act/Rules and notifications in force, these old numbers are retained only as a source reference and should be checked against the current MTP Rules before use in practice.
-
-## 7.8 Consent
-
-The PDF states:
-
+#### Consent
 - Minimum age for independent consent: **18 years**.
 - Minor: guardian consent.
 - Husband's consent: **not required**.
-
-This is consistent with the statutory principle that the **pregnant woman herself** provides consent when she is legally capable of doing so; the MTP Act requires guardian consent where the woman is under 18 or falls within the statutory mental-illness provision.
-
-## 7.9 Confidentiality and records
-
+#### Confidentiality and records
 The source states:
-
 - Violation of confidentiality is punishable.
 - Records are maintained for **5 years** in the source notes.
 - Monthly reporting is submitted to the district CMO.
 
 Current MTP law contains a specific confidentiality provision prohibiting disclosure of the woman's name and other particulars except as authorized by law.
 
-## 7.10 Criminal / illegal abortion — historical forensic classification
+### 7.10 Criminal / illegal abortion — historical forensic classification
 
 The source divides methods into:
-
 1. Abortifacient drugs.
 2. General violence.
 3. Local violence.
-
-### Abortifacient drugs — historical source examples
+#### Abortifacient drugs — historical source examples
 
 The PDF gives:
 
@@ -725,14 +552,23 @@ The PDF gives:
 - **Genitourinary irritants:** ergot.
 - **Ecbolics.**
 - **Emmenagogues.**
-
-### General violence
-
+##### 7.11 Ecbolics
+Drugs that increase uterine contractions.
+Source examples:
+- Quinine.
+- Oestrogen.
+- Ergot.
+##### 7.12 Emmenagogues
+Drugs believed to increase menstrual blood flow.
+- Borax.
+- Oestrogen.
+- “Sarin” — OCR/source term retained but medically/contextually uncertain.
+- Sanguinarine.
+#### General violence
 - Violent exercise.
 - Cupping.
 
-### Local violence
-
+#### Local violence
 - Syringing.
 - “Abortion stick” involving a plant irritant in the historical source.
 - Rupture of membranes.
@@ -740,44 +576,15 @@ The PDF gives:
 
 > **Safety/forensic note:** These are historical forensic-recognition categories explaining how criminal abortion was discussed in older texts. They are **not recommended abortion methods** and should never be used as practical instructions.
 
-## 7.11 Ecbolics
 
-**Ecbolics:** drugs that increase uterine contractions.
-
-Source examples:
-
-- Quinine.
-- Oestrogen.
-- Ergot.
-
-These are retained as **historical examples from the PDF** and should not be interpreted as a contemporary medication guide for abortion.
-
-## 7.12 Emmenagogues
-
-**Emmenagogues:** drugs believed in historical teaching to increase menstrual blood flow.
-
-Source examples:
-
-- Borax.
-- Oestrogen.
-- “Sarin” — OCR/source term retained but medically/contextually uncertain.
-- Sanguinarine.
-
-> **Current clinical note:** These are historical toxicology/forensic categories, not evidence-based contemporary methods for termination of pregnancy.
-
-## 7.13 Criminal abortion — historical IPC sections in the PDF
-
-The source lists:
-
+#### Criminal abortion — Legal Crosswalk
+##### Historical IPC sections
 - **IPC §312:** voluntary miscarriage with consent.
 - Greater punishment where quickening is present — source teaching point.
 - **IPC §313:** miscarriage without consent.
 - **IPC §314:** miscarriage resulting in death of the pregnant woman.
 
-### Current legal crosswalk
-
-The IPC provisions have been replaced by the BNS framework. The current BNS provisions corresponding in subject matter include:
-
+##### Current legal crosswalk
 - **BNS §88:** causing miscarriage.
 - **BNS §89:** causing miscarriage without woman's consent.
 - **BNS §90:** death caused by an act done with intent to cause miscarriage.
@@ -788,9 +595,9 @@ The IPC provisions have been replaced by the BNS framework. The current BNS prov
 
 ---
 
-# 8. Infant Death and Definitions Around Birth
+# 2. Infant Death and Child Abuse
 
-## 8.1 Chapter scope
+## Chapter scope
 
 The source chapter is **Infant Death and Child Abuse**.
 
@@ -815,29 +622,21 @@ The source also gives:
 The PDF lists:
 
 - **IPC §302:** punishment for murder; source says it also covers infanticide.
-- **IPC §315:** act done with intent to prevent a child being born alive or cause it to die after birth.
-- **IPC §316:** causing death of a quick unborn child amounts to culpable homicide.
+- **BNS §91:** act done with intent to prevent a child being born alive or cause it to die after birth.
+- **BNS §92:** causing death of a quick unborn child amounts to culpable homicide.
 
 See [[#19 Current Indian Legal Crosswalk]] for the present BNS provisions.
+![[06_Forensic_Psychiatry_Trace_Evidence_and_Legal_Sections_RECONSTRUCTED#TABLE 1 — BNS Criminal Responsibility, Sexual Offences, Women & Children]]
 
+![[06_Forensic_Psychiatry_Trace_Evidence_and_Legal_Sections_RECONSTRUCTED#B. Homicide, death and negligence]]
 ## 8.3 Definitions from the Registration of Births and Deaths framework
 
 ### Dead born
-
-Source wording:
-
 > A child that died within the uterus itself.
 
 ### Stillborn
-
-The source states:
-
 > A child born after 28 weeks but not breathing or showing any signs of life after complete birth.
-
 ### Live born
-
-The source states:
-
 > Complete expulsion of the products of conception, followed by breathing or any other sign of life.
 
 ### Current legal/registration distinction
@@ -846,9 +645,9 @@ The legal registration framework distinguishes **live birth**, **fetal death**, 
 
 ---
 
-# 9. Intrauterine Death and Maceration
+## 9. Intrauterine Death and Maceration
 
-## 9.1 Intrauterine death — source mechanisms
+### 9.1 Intrauterine death — source mechanisms
 
 The source uses the following framework:
 
@@ -878,7 +677,7 @@ The source associates deficient fluid with:
 
 Allows bacterial entry from outside and promotes **putrefaction**.
 
-## 9.2 Period of viability
+### 9.2 Period of viability
 
 **Source definition:** Ability of a fetus to lead a separate existence outside its mother by virtue of its development.
 
@@ -886,13 +685,13 @@ The PDF says Indian law does not define a viability period and gives **28 weeks*
 
 > **Current clinical correction:** The capacity of survival outside the uterus is a continuum and has shifted earlier with neonatal intensive care. The 28-week figure should be treated as a traditional forensic exam convention rather than a universal contemporary clinical viability boundary.
 
-## 9.3 Maceration
+### 9.3 Maceration
 
 **Source formula:**
 
 > Intact sac + no air + excess liquor → aseptic autolysis.
 
-### Features listed in the source
+#### Features listed in the source
 
 - Skin slippage and reddening.
 - Earliest sign may appear at approximately **12 hours** in the source.
@@ -904,104 +703,74 @@ The PDF says Indian law does not define a viability period and gives **28 weeks*
 
 > **Timing caution:** Maceration is progressive and timing estimates are approximate; individual circumstances may produce substantial variation.
 
-## 9.4 Radiological signs of intrauterine death / maceration
+### 9.4 Radiological signs of intrauterine death / maceration
 
-### Robert's sign
-
+#### Robert's sign
 Source description:
-
 - Gas within major vessels, such as:
   - heart;
   - aorta;
   - umbilical vessels.
 - Source states it can be seen as early as approximately **12 hours** after intrauterine death.
 
-### Overcrowding of ribs
-
+#### Overcrowding of ribs
 The source associates this with lung collapse / altered thoracic appearance.
-
-### Hyperflexion of spine / “ball sign”
-
+#### Hyperflexion of spine / “ball sign”
 The source illustrates:
-
 - normal spine → flexed spine;
 - curved/ball-like appearance.
 
-### Spalding sign
-
+#### Spalding sign
 **Overriding / disalignment of cranial vault bones** due to shrinkage of the fetal brain.
 
-### Dual-halo sign
-
+#### Dual-halo sign
 **Separation of the scalp from the skull vault.**
 
 ---
 
-# 10. Evidence of Live Birth and Historical Live-Birth Tests
+## 10. Evidence of Live Birth and Historical Live-Birth Tests
 
-## 10.1 Possible evidence of live birth
-
-The source lists:
-
+### 10.1 Possible evidence of live birth
 - Cry of the baby.
 - Vagitus uterinus.
 - Vagitus vaginalis.
 - Movement of muscles.
 - **Respiration — emphasized by the PDF as the most important evidence.**
-
-### Cry of the baby
-
+#### Cry of the baby
 The source specifically notes that a cry is **not a specific sign**.
 
-### Vagitus uterinus
-
+#### Vagitus uterinus
 Cry occurring while the fetus is still within the uterus.
 
-### Vagitus vaginalis
-
+#### Vagitus vaginalis
 Cry occurring after passage into the vagina.
 
-## 10.2 Respiration — historical findings
+### 10.2 Respiration 
 
-The PDF provides a side-by-side table of “baby not respired” versus “baby respired.”
-
-| Finding | Not respired — source | Respired — source |
-|---|---|---|
-| Chest | Flat | Expanded |
-| Overlap of skull bones | Present in source table | Less characteristic in the source table |
-| Diaphragm level | Approx. 3rd/4th rib | Approx. 6th rib |
-| Lung margin | Sharp | Rounded |
-| Lung surface | Homogeneous / liver-like | Crepitant / mottled |
-| Histology | Alveoli not expanded; cuboidal epithelial description | Alveoli expanded; squamous-cell-lined appearance in source table |
-| Fodere's test | Lower lung weight | Higher lung weight |
-| Plocquet's test | Source gives ratio ≈1:70 | Source gives ratio ≈1:35 |
-| Breslau's test | No air bubbles | Air bubbles present |
-| Wredin's test | Gelatinous middle-ear tissue present | Absent in source comparison |
-| Hydrostatic test | Sinks | Floats |
+| Finding                | Not respired                                          | Respired                                                         |
+| ---------------------- | ----------------------------------------------------- | ---------------------------------------------------------------- |
+| Chest                  | Flat                                                  | Expanded                                                         |
+| Overlap of skull bones | Present in source table                               | Less characteristic in the source table                          |
+| Diaphragm level        | ==Approx. 3rd/4th rib==                               | ==Approx. 6th rib==                                              |
+| Lung margin            | Sharp                                                 | Rounded                                                          |
+| Lung surface           | Homogeneous / liver-like                              | Crepitant / mottled                                              |
+| Histology              | Alveoli not expanded; cuboidal epithelial description | Alveoli expanded; squamous-cell-lined appearance in source table |
+| Fodere's test          | ==Lower lung weight (30 g)==                          | ==Higher lung weight (60 g)==                                    |
+| Plocquet's test        | ≈1:70                                                 | ≈1:35                                                            |
+| Breslau's test         | No air bubbles                                        | Air bubbles present                                              |
+| Wredin's test          | Gelatinous middle-ear tissue present                  | Absent in source comparison                                      |
+| Hydrostatic test       | Sinks                                                 | Floats                                                           |
 
 > **Important:** Most of these are **historical forensic tests**. None should be interpreted in isolation as absolute proof of live birth.
 
-## 10.3 Fodere's test
-
+#### 10.3 Fodere's test
 The source describes this as being based on the **weight of the lungs**.
-
-The source table gives approximate lung-weight values; the OCR of one value is unclear. The comparative principle is retained rather than treating the historical numerical threshold as a definitive modern test.
-
-## 10.4 Plocquet's test
-
+#### 10.4 Plocquet's test
 **Principle:** Ratio of lung weight to body weight.
-
-Source values:
-
 - unrespired: approximately **1:70**;
 - respired: approximately **1:35**.
-
-These are **historical textbook ratios**.
-
-## 10.5 Breslau's stomach–bowel test
-
+#### 10.5 Breslau's stomach–bowel test
 The source calls this the **Greslou's second life test / stomach-bowel test** and describes:
-
 ```text
 Ligate/prepare stomach
        ↓
@@ -1012,22 +781,17 @@ Observe for air bubbles
 
 Positive bubbles are treated by the source as evidence suggestive of respiration and swallowed air.
 
-## 10.6 Wredin's middle-ear test
-
-The PDF states:
-
+#### 10.6 Wredin's middle-ear test
 - presence of **gelatinous tissue in the middle ear** is used as a finding in the test.
 
-## 10.7 Hydrostatic / flotation test
-
-### Principle in source
-
+#### 10.7 Hydrostatic / flotation test
+##### Principle in source
 - Specific gravity ≈1: material with greater density sinks; lower density floats.
 - Source gives:
   - **unrespired lung SG >1.040 → sinks**;
   - **respired lung SG ≈0.940 with residual air → floats**.
 
-### Procedure shown in the PDF
+##### Procedure shown in the PDF
 
 ```text
 Step 1: Heart–lung block → flotation test
@@ -1041,41 +805,28 @@ Step 4: Squeeze lung pieces → repeat flotation
 Interpret residual air separately from true aeration
 ```
 
-### Control for putrefaction
-
+##### Control for putrefaction
 The source says a piece of **liver** is used as a control:
-
 - if the liver also floats, decomposition gas may account for flotation;
 - therefore the test should not be interpreted as evidence of respiration.
 
-## 10.8 Fallacies of hydrostatic test
+##### 10.8 Fallacies of hydrostatic test
 
-### False positive
-
-Source list:
-
+###### False positive
 - Putrefaction / decomposition.
 - Artificial respiration.
-
-### False negative
-
-Source list:
-
+###### False negative
 - Atelectasis.
 - Congenital pneumonia.
 - Feeble respiration.
 
-### Situations in which the source advises not relying on the test
-
-The source mentions:
-
+###### Situations in which the source advises not relying on the test
 - Mummification.
 - Maceration.
 - Extremely immature / nonviable fetus.
 - Monstrous or malformed baby.
 
 It also lists alternative signs such as:
-
 - milk in stomach;
 - umbilical cord healing;
 - absence of meconium in the large intestine.
@@ -1084,64 +835,46 @@ These are preserved as **source examination points**; none is independently path
 
 ---
 
-# 11. Child Abuse
+## 11. Child Abuse
 
-## 11.1 Battered baby syndrome
-
-The PDF lists the historical names:
-
+### 11.1 Battered baby syndrome
 - **Caffey syndrome**.
 - **Caffey–Kempe syndrome**.
 - **Parent-infant traumatic stress syndrome**.
 
 It describes a baby receiving **repetitive physical injuries due to non-accidental violence by a parent or guardian**.
 
-### Current terminology
-
-Modern pediatric forensic practice generally uses:
-
+#### Current terminology
 - **Child physical abuse**.
 - **Abusive head trauma (AHT)** for inflicted head injury.
 
 The American Academy of Pediatrics recommends using **abusive head trauma** as the clinical diagnostic term rather than making “shaken baby syndrome” the diagnosis because inflicted head injury can involve multiple mechanisms.
 
-## 11.2 Salient features suggesting child abuse — source list
-
+### 11.2 Salient features suggesting child abuse 
 - Discrepancy between injuries and the history given by the parent.
 - Delay between injury and seeking medical attention.
 - Multiple injuries of different ages.
 
-## 11.3 Child-related associations listed in source
-
+### 11.3 Child-related associations 
 - Source says more common in male children.
 - Usually eldest or youngest child.
 - Unwanted or illegitimate child.
+### 11.4 Characteristic injuries 
 
-> **Modern forensic caution:** Demographic associations should never be used to diagnose abuse in an individual child. Objective history, examination, imaging and multidisciplinary assessment are more important.
-
-## 11.4 Characteristic injuries listed in the PDF
-
-### Oral injuries
-
+#### Oral injuries
 The source emphasizes laceration of oral mucosa around the labial/frenular area as a highly characteristic injury.
 
-### Bruising / patterned injuries
-
+#### Bruising / patterned injuries
 - Slap marks.
 - Lash marks.
 - Pinch marks.
 - “Butterfly bruises.”
 - “Six-penny bruises” in the historical nomenclature.
 
-### Thermal injuries
-
+#### Thermal injuries
 - Cigarette burns.
 - Scalds with a **demarcation line**.
-
-### Head / retinal findings
-
-The source lists:
-
+#### Head / retinal findings
 - Retinal detachment attributed to violent shaking or slap force.
 - Infantile whiplash / shaken-baby syndrome.
 - CNS injury due to violent shaking.
@@ -1150,57 +883,46 @@ The source lists:
   - retinal injury/detachment;
   - encephalopathy.
 
-> **Current clinical correction:** AHT is a complex diagnosis. **No single injury or fixed three-part “triad” is, by itself, a pathognomonic diagnosis of abuse.** Current pediatric guidance emphasizes the full clinical, radiological, ophthalmological and forensic context.
+> **Current clinical correction:** Abusive Head Trauma is a complex diagnosis. **No single injury or fixed three-part “triad” is, by itself, a pathognomonic diagnosis of abuse.** Current pediatric guidance emphasizes the full clinical, radiological, ophthalmological and forensic context.
 
-## 11.5 Skeletal injuries
-
-### Skull
-
+### 11.5 Skeletal injuries
+#### Skull
 The source uses the term **“egg-shell”** injury.
 
-### Ribs
-
-The source describes:
-
+#### Ribs
 - posterior rib fractures from lateral compression;
 - fractures near the mid-axillary line from anteroposterior compression;
 - “beaded” appearance attributed to healing/callus from repeated injury.
 
-### Long bones
-
+#### Long bones
 The source emphasizes fractures around the **metaphysis**:
-
 - **Corner fracture**.
 - **Bucket-handle fracture**.
 
 These are classically associated with shearing/torsional forces in young infants.
 
-## 11.6 Current interpretation of skeletal findings
+#### 11.6 Current interpretation of skeletal findings
 
 Metaphyseal lesions, posterior rib fractures and multiple injuries of different ages can be important in child-abuse evaluation, but interpretation depends on age, mechanism, imaging quality and differential diagnoses.
 
 ---
 
-# 12. Munchausen Syndrome by Proxy / Fabricated or Induced Illness
+## 12. Munchausen Syndrome by Proxy / Fabricated or Induced Illness
 
-## 12.1 Definition in source
-
-The PDF describes **Munchausen syndrome by proxy** as child abuse in which a parent:
-
+### 12.1 Definition in source
+**Munchausen syndrome by proxy** as child abuse in which a parent:
 - fabricates illness in a child;
 - induces illness in a child;
 - seeks attention through the child's illness.
 
-## 12.2 Common symptoms in source
-
+### 12.2 Common symptoms in source
 - Vomiting.
 - Diarrhoea.
 - Seizures.
 - Fever.
 - Repeated hospital visits with vague symptoms.
 
-## 12.3 Diagnostic clues listed
-
+### 12.3 Diagnostic clues listed
 1. Illness does not conform to expected presentation.
 2. Signs/symptoms do not match investigations.
 3. Child becomes worse in the presence of the parent.
@@ -1211,27 +933,20 @@ The PDF describes **Munchausen syndrome by proxy** as child abuse in which a par
 
 ---
 
-# 13. Sudden Infant Death Syndrome
+## 13. Sudden Infant Death Syndrome
 
-## 13.1 Definition
+### 13.1 Definition
 
 The PDF defines **SIDS** as:
 
 > Sudden unexpected death of a seemingly healthy infant that remains unexplained even after thorough investigation.
 
-### Current definition
-
+#### Current definition
 Modern classification distinguishes:
-
 - **SUID/SUDI:** sudden unexpected death in infancy, whether explained or unexplained.
 - **SIDS:** a subset in which the death remains unexplained after a thorough investigation including **scene investigation, autopsy, and review of the clinical history**.
 
-The current SIDS concept applies to **infancy**, not to children extending to 2 years of age as stated in the source.
-
-## 13.2 Epidemiologic features in the source
-
-The PDF states:
-
+### 13.2 Epidemiologic features in the source
 - Age range: approximately **2 weeks to 2 years** in source wording.
 - Common age: **2–4 months**.
 - More common in females in the source.
@@ -1242,16 +957,14 @@ The PDF states:
 
 > **Current correction:** The defining age boundary for SIDS is infancy; the source's extension to 2 years should not be used for current diagnostic definition.
 
-## 13.3 Autopsy findings in the PDF
-
+### 13.3 Autopsy findings in the PDF
 - Usually negative / nonspecific findings.
 - Milk- or blood-stained froth at mouth/nostrils.
 - Petechial haemorrhages in lung, heart and thymus are highlighted by the source.
 
 > **Important correction:** Petechiae are **nonspecific**. They are not pathognomonic for SIDS and should never be treated as the “only consistent finding” proving SIDS.
 
-## 13.4 Historical theories listed in the source
-
+### 13.4 Historical theories listed in the source
 - Prolonged sleep apnoea.
 - Respiratory infection / viraemia causing depression of the respiratory centre.
 - Hypersensitivity to cow's milk.
@@ -1259,10 +972,7 @@ The PDF states:
 
 These are historical theories and do not constitute a single established mechanism of SIDS.
 
-## 13.5 Medicolegal importance
-
-The PDF emphasizes two opposite risks:
-
+### 13.5 Medicolegal importance
 - Parents may be **falsely accused of infanticide** when a natural unexplained infant death occurs.
 - A true case of infanticide may be **misclassified as SIDS** if the death investigation is inadequate.
 
@@ -1270,131 +980,97 @@ This is why scene examination, complete autopsy, history review and careful deat
 
 ---
 
-# 14. Sexual Offences
-
-## 14.1 Definition in the source
-
-The PDF defines sexual offences broadly as sexual activity, intercourse or interference with a person or animal contrary to Indian law.
-
-## 14.2 Older classification in the source
-
-The source explicitly labels this as **older and less relevant** classification.
-
-### “Natural”
-
-- Peno-vaginal intercourse.
-- Rape.
-- Adultery.
-- Incest.
-
-### “Unnatural” — historical terminology
-
-- Sodomy.
-- Buccal coitus.
-- Lesbianism.
-- Bestiality.
-
-### Paraphilias / “sexual perversions” — historical terminology
-
-Sexual gratification achieved by methods other than ordinary sexual intercourse.
-
-### Sex-linked offences
-
-- Indecent assault.
-
-> **Current terminology note:** “Natural/unnatural sexual offences,” “sexual perversion,” “lesbianism as an offence,” and several older paraphilia labels are historical forensic terminology. Modern forensic medicine should use the current statutory offence and contemporary clinical terminology.
-
-## 14.3 Criminal Law Amendment Act, 2013
-
-The source notes that the legal framework concerning sexual offences against women underwent major modification in 2013.
+# 3. Sexual Offences
 
 > **Current-law note:** Since 1 July 2024, substantive criminal offences are primarily governed by the **Bharatiya Nyaya Sanhita, 2023 (BNS)**, with procedure under the **BNSS, 2023** and evidentiary provisions under the **Bharatiya Sakshya Adhiniyam, 2023 (BSA)**.
 
 ---
 
-# 15. Rape — Source Framework and Current Legal Position
+## Rape — Source Framework and Current Legal Position
 
-## 15.1 Source definition under old IPC §375
+### Definition
+**BNS §63** defines rape.
+Penetration, **to any extent**, is sufficient.
 
-The PDF describes rape as involving acts such as:
+It includes:
+#### 1. Penetration by penis into:
+- vagina (including labia majora)
+- mouth
+- urethra
+- anus
+#### 2.Other penetration:
+- insertion of an object or body part other than penis into 
+	- vagina
+	- urethra/
+	- anus
+- application of mouth to vagina, anus or urethra
+- manipulation of a woman’s body causing penetration
 
-- penetration of the vagina, including the labia majora;
-- penetration of the anus;
-- penetration of the urethra;
-- penetration of the mouth;
-- insertion of a body part or foreign object into the vagina, anus or urethra;
-- manipulation causing such penetration;
-- application of the mouth to the vagina, anus or urethra.
+The section also states that **vagina includes labia majora** for this purpose.
 
-The source emphasizes that penetration **to any extent** is sufficient within the old statutory definition.
 
-## 15.2 Circumstances of rape listed in the source
+### Circumstances Making the Act Rape
 
-The PDF lists:
+Any of the above acts becomes rape when performed:
+1. Against her will
 
-1. Against the will of the woman.
-2. Without consent.
-3. Consent obtained through fear of hurt/death.
-4. Consent given under mistaken belief that the man is her husband.
-5. Woman is below 18 years.
-6. Invalid consent due to insanity/intoxication/influence in source terminology.
-7. Woman unable to communicate consent.
+2. Without her consent
 
-## 15.3 Current legal framework
+3. Consent obtained through fear
+	Consent obtained by putting the woman or someone in whom she is interested in fear of:
+	- death
+	- hurt
+
+4. Mistaken identity of husband
+	The man knows he is not her husband, but she believes that he is the man to whom she is lawfully married.
+
+5. Incapacity due to mental state/intoxication/drugs
+	Consent given when, because of:
+	- unsoundness of mind
+	- intoxication
+	- administration of a stupefying/unwholesome substance
+	she cannot understand the nature and consequences of the act.
+
+6. ==Age <18 years
+	With or without consent.==
+
+7. Unable to communicate consent
+
+These seven descriptions are specified in **BNS §63.**
+
+---
+
+### Current legal framework
 
 The present substantive rape provision is **BNS §63**, with punishment primarily under **BNS §64** and aggravated age/situation provisions in subsequent sections.
 
 The basic age threshold for a child in the rape definition remains **below 18 years**, with statutory exceptions specified in the BNS.
 
-### Important marital provision
+However, **BNS §67** separately **criminalizes** sexual intercourse by a husband with his **wife who is living separately, without her consent**.
+#### Important marital provision
 
 The source correctly highlights the historical significance of the marital-age issue. Under the current BNS, the statutory exception concerning marital intercourse is limited by the age of the wife; sexual intercourse with a wife **under 18 years** is not protected by the marital exception.
 
 > **Do not retain the PDF statement about a one-year complaint deadline as a general rule.** That is not a safe current statement of Indian rape law.
 
-## 15.4 Accused and victim — source framework
-
-The source says:
-
+### Accused and victim 
 - accused: man;
 - victim: female;
 - no specific upper age limit for the accused.
 
 The old statement that “a woman can never be charged for rape” is a shorthand describing the **gender-specific wording of the old IPC rape offence**. It should not be expanded into the broader proposition that women cannot be prosecuted for any sexual offence.
 
-## 15.5 Age of criminal responsibility — historical source point
+### Age of criminal responsibility 
 
-The PDF refers to **IPC §82** and states that a child below 7 years cannot be punished for an offence including rape.
+**BNS §20 (older IPC §82)** states that a child below 7 years cannot be punished for an offence including rape.
 
 This is a rule concerning the **general criminal responsibility of children under the historical IPC**, not a definition of rape.
 
-## 15.6 Medical procedure exception
-
-The source notes:
-
+### Medical procedure exception
 - A medical procedure / intervention does not constitute rape when it is undertaken within the lawful medical framework.
-
 The current BNS also contains a corresponding medical-procedure exception.
 
-## 15.7 Historical punishment sections in the PDF
-
-The source lists old IPC provisions including:
-
-- §376 — rape.
-- §376A — special aggravated situations.
-- §376AB — rape of a girl below 12 years.
-- §376B — sexual intercourse by husband with wife during separation.
-- §376C — person in authority.
-- §376D — gang rape.
-- §376DA — gang rape of a girl below 16 years.
-- §376DB — gang rape of a girl below 12 years.
-- §376E — repeat offender.
-
-These are retained **as historical source references**.
-
-### Current BNS cross-reference
-
-The broad current equivalents include:
+### Important BNS Sexual Offence Sections
 
 - **BNS §64:** punishment for rape / aggravated rape circumstances.
 - **BNS §65:** rape in certain aggravated age situations.
@@ -1404,27 +1080,11 @@ The broad current equivalents include:
 - **BNS §70:** gang rape.
 - **BNS §71:** repeat offenders.
 
-Always read the current statutory text for the precise age and circumstance-specific punishment.
 
 ---
 
-# 16. Medicolegal Examination in Sexual Assault
-
-## 16.1 Sections in the source — historical references
-
-The PDF cites:
-
-- **CrPC §357C** — duties of hospitals/doctors to provide immediate care to victims of rape/acid-violence-related emergencies and to inform police in the circumstances specified by law.
-- **IPC §228A** — protection of the identity of sexual-offence victims.
-- **CrPC §327(2)** — in-camera proceedings.
-- **Evidence Act §114A** — statutory presumption relating to absence of consent in specified rape prosecutions.
-- **CrPC §53A** — medical examination of an accused of rape.
-- **CrPC §54A** — identification/examination provisions for an accused at their request.
-- **CrPC §164A** — medical examination of the victim of rape.
-
-These section numbers are **historical**, because IPC/CrPC/Evidence Act have been replaced by the BNS/BNSS/BSA framework.
-
-## 16.2 Current procedural framework
+## 16. Medicolegal Examination in Sexual Assault
+### 16.2 Current procedural framework
 
 The current BNSS contains provisions corresponding to the source's major examination rules, including:
 
@@ -1434,7 +1094,7 @@ The current BNSS contains provisions corresponding to the source's major examina
 
 The BSA contains the current evidentiary presumption corresponding to the older **Evidence Act §114A** framework.
 
-## 16.3 Medical examination of the accused — source table
+### 16.3 Medical examination of the accused
 
 The PDF says:
 
@@ -1447,19 +1107,14 @@ The PDF says:
 
 The exact current procedure is governed by **BNSS §52** and related provisions.
 
-## 16.4 Examination of the victim/survivor
-
-The PDF states:
-
+### 16.4 Examination of the victim/survivor
 - Consent is **mandatory**.
 - No examination without consent.
 - Medical treatment should be given.
 - A Sexual Assault Forensic / SAF Kit may be used for evidence collection.
 
-### Current practice principles
-
+#### Current practice principles
 Current Indian medico-legal guidance also emphasizes:
-
 - informed consent before examination and evidence collection;
 - the survivor may refuse some or all components of examination/evidence collection;
 - refusal of examination does not justify denial of treatment;
@@ -1467,13 +1122,13 @@ Current Indian medico-legal guidance also emphasizes:
 - evidence collection depends on the nature and timing of the assault and bathing/washing/other activities;
 - all collected evidence requires correct labeling, packaging, sealing and chain of custody.
 
-## 16.5 Locard's exchange principle
+### 16.5 Locard's exchange principle
 
 **Locard's principle of exchange:** when two surfaces come into contact, material can be exchanged between them.
 
 This principle underlies the forensic search for transferred biological or trace material.
 
-## 16.6 Historical accused examination test: Lugol's iodine test
+### 16.6 Accused examination test: Lugol's iodine test
 
 The PDF describes:
 
@@ -1485,13 +1140,12 @@ The PDF describes:
 
 > **Current forensic correction:** This is a **historical/obsolete forensic test** and should not be treated as a contemporary definitive test for intercourse. Modern forensic evaluation relies on validated evidence collection, microscopy/serology/DNA methods where appropriate, and contextual interpretation.
 
-## 16.7 Historical victim tests
+### 16.7 Victim tests
 
-### Toluidine blue test
-
+#### Toluidine blue test
 The source describes toluidine blue as a method to detect **recent micro-injuries**.
 
-### Historical semen/sperm evidence timing in source
+#### Semen/sperm evidence timing in source
 
 The PDF lists:
 
@@ -1499,9 +1153,18 @@ The PDF lists:
 - semen → up to approximately 4 days;
 - motile spermatozoa → approximately 10–14 hours.
 
-> **Current correction:** These are not rigid forensic cut-offs. Detection varies with collection site, time, washing, ejaculation, sampling quality, menstruation and laboratory method. Current Indian medico-legal guidance emphasizes that the probability of detecting semen/sperm decreases with time and that sampling is evidence- and case-dependent.
+| Test             | Detects                    | Exam significance             |
+| ---------------- | -------------------------- | ----------------------------- |
+| Microscopy       | Spermatozoa                | Direct evidence               |
+| Acid phosphatase | Seminal phosphatase        | Screening/presumptive         |
+| PSA / p30        | Prostate-specific antigen  | Seminal plasma marker         |
+| Semenogelin      | Seminal vesicle protein    | Modern semen marker           |
+| Florence         | ==Choline==                | ==Brown rhomboid crystals==   |
+| ==Barberio==     | ==Spermine==               | ==Yellow needle crystals==    |
+| DNA profiling    | Individual genetic profile | Strong individual association |
 
-## 16.8 Critical modern sexual-assault examination principles
+
+### 16.8 Critical modern sexual-assault examination principles
 
 > **Do not use the examination to “prove virginity.”**
 
@@ -1517,102 +1180,61 @@ See also [[#4 Virginity and Hymen]].
 
 ---
 
-# 17. Adultery and Incest
+## 17. Adultery and Incest
 
-## 17.1 Adultery
-
-The PDF states that historically adultery referred to a man having sexual intercourse with another man's wife and was previously punishable under **IPC §497**.
+### 17.1 Adultery
+Historically adultery referred to a man having sexual intercourse with another man's wife and *was previously punishable* under **IPC §497**.
 
 It also states:
-
 - §497 was later struck down.
 - adultery is no longer a criminal offence.
 - it can remain relevant to divorce/civil matrimonial proceedings.
 
-### Current legal position
-
+#### Current legal position
 In **Joseph Shine v. Union of India (2018)**, the Supreme Court of India declared IPC §497 unconstitutional and held that adultery should not be treated as a criminal offence. Adultery remains capable of having **civil/matrimonial consequences**, depending on the applicable law.
 
 > **Source correction:** Do not memorize §497 IPC as a current criminal offence.
 
-## 17.2 Alleged suicide following adultery
-
+### 17.2 Alleged suicide following adultery
 The source states that where an aggrieved spouse commits suicide because of adultery, the evidence may in some circumstances be considered in an allegation of **abetment of suicide**.
 
 This is **not automatic**. Liability for abetment requires proof of the elements of the relevant offence and cannot be inferred merely from the existence of adultery.
 
-## 17.3 Incest
-
+### 17.3 Incest
 **Incest:** sexual relationship between blood relatives.
-
 Historical complexes listed in the source:
-
 - **Electra complex:** father–daughter relationship (source terminology).
 - **Oedipus complex:** mother–son relationship.
 - **Pharaonic complex:** sibling relationship.
-
-### Legal position
-
+#### Legal position
 The source says adult consensual incest is not punishable as a standalone incest offence, while non-consensual acts can fall under rape law.
 
-> **Current correction:** There is no single general standalone “incest” offence equivalent to a dedicated IPC §375/§377 incest section. The legal consequences depend on the age, consent, relationship and exact conduct. Sexual acts involving a child are governed importantly by the **POCSO Act, 2012**, while non-consensual sexual conduct involving adults can attract offences under the BNS.
-
-### Minor child
-
-The source gives the example:
-
-> A mother involved with a minor son cannot be booked under old rape provisions in the same way; the child-protection framework applies.
-
+#### Minor child
 The key current principle is that **POCSO applies to sexual offences against persons below 18 years**, regardless of purported child “consent.”
 
 ---
 
-# 18. Unnatural Sexual Offences — Historical Terminology
-
+## 18. Unnatural Sexual Offences 
 > **Terminology warning:** The categories in this section reproduce older forensic teaching language. Current law does not use a general offence category called “unnatural sexual offence” in the same manner as the old IPC framework.
 
-## 18.1 Sodomy
-
+### 18.1 Sodomy
 **Source definition:** Penile–anal intercourse.
-
 Other historical names in the source:
-
 - Greek love.
 - Buggery.
 
 The source states that it may occur between:
-
 - male and female;
 - male and male.
 
-## 18.2 Passive participant terminology in source
-
-The source labels:
-
-- **Active** partner.
-- **Passive** partner.
-- **Catamite / pederast** in historical terminology.
-- **Gerontophilia** in association with an elderly passive partner.
-- **Pederasty** in association with a young male in the source table.
-
-> **Current terminology note:** Several of these labels are historical, potentially stigmatizing, or have meanings different from current clinical usage. They are retained only because they occur in the source.
-
-## 18.3 Non-habitual passive anal intercourse — source findings
-
-The PDF lists:
-
+#### Non-habitual passive anal intercourse 
 - Pain and tenderness.
 - Semen may be present.
 - Abrasions, bruises or lacerations around the anus.
 - Anal fissures, particularly in the posterior quadrant.
 - **Tyre sign:** obliteration of normal anal/perianal skin folds due to perianal haematoma.
 
-These findings are **not individually diagnostic** of a particular sexual history and must be interpreted in context.
-
-## 18.4 “Habitual passive victim” — historical source findings
-
-The PDF lists:
-
+#### 18.4 “Habitual passive victim” — historical source findings
 - Pain/tenderness may be absent.
 - Perianal skin thickening / keratinization attributed to repeated friction.
 - Anal sphincter described as loose/lax/patulous.
@@ -1620,40 +1242,15 @@ The PDF lists:
 - Lateral traction test: source says a normal sphincter constricts with mild lateral traction whereas the described chronic finding relaxes.
 - Funnel-shaped appearance.
 
-> **Major forensic correction:** These findings do **not** provide a scientifically reliable method for diagnosing repeated anal intercourse or a person's sexual history. Modern forensic examination should document injuries and findings without assigning a “habitual” sexual label.
-
-## 18.5 Lesbianism — historical terminology
-
-The PDF describes sexual activity between females and gives:
-
-- **Tribadism.**
-- **Sapphism.**
-- Active partner → “dyke” in source.
-- Passive partner → “femme” in source.
-
-These labels are retained as historical source terminology only and should not be used as diagnostic or legal categories.
-
-## 18.6 Oral sex / buccal coitus
-
-Historical source terms:
+### 18.6 Oral sex / buccal coitus
 
 - **Fellatio / penilingus:** oral stimulation of penis.
 - **Cunnilingus:** oral stimulation of vagina/vulva.
 - **Anilingus:** oral stimulation of anus.
 
-## 18.7 Bestiality
+## 19. Paraphilias and Historical Forensic Terminology
 
-**Source definition:** Sexual intercourse with lower animals.
-
-The source discusses this under historical IPC §377 terminology.
-
-> **Current legal note:** IPC §377 is no longer the current general criminal provision. Consensual sexual activity between adults is not criminalized simply because it is same-sex following *Navtej Singh Johar*. Conduct involving animals, children or non-consensual acts must be evaluated under the current applicable statutes; there is no one-to-one modern “§377 replacement” for every historical category.
-
----
-
-# 19. Paraphilias and Historical Forensic Terminology
-
-## 19.1 General definition in the PDF
+### 19.1 General definition in the PDF
 
 The source defines sexual “paraphilias/perversions” as:
 
@@ -1661,11 +1258,11 @@ The source defines sexual “paraphilias/perversions” as:
 
 > **Current terminology:** Modern psychiatry distinguishes between atypical sexual interests and **paraphilic disorders**; an atypical interest is not automatically a mental disorder. The old umbrella term “sexual perversions” is obsolete and should be recognized as historical terminology.
 
-## 19.2 Sadism
+### 19.2 Sadism
 
 **Source definition:** Sexual gratification obtained by inflicting pain on a partner.
 
-## 19.3 Masochism
+### 19.3 Masochism
 
 **Source definition:** Sexual gratification obtained by suffering pain.
 
@@ -1673,90 +1270,60 @@ Historical synonym in the source:
 
 - **Passive algolagnia.**
 
-## 19.4 Lust murder
+### 19.4 Lust murder
 
 The source describes **lust murder** as killing a victim as part of sexual gratification and calls it an extreme form of sadism / algolagnia.
 
 > **Forensic note:** A homicide motivated by sexual behaviour must be investigated from the scene, injury pattern, biological evidence, history and all relevant circumstances; the label itself is descriptive rather than diagnostic.
 
-## 19.5 Bondage
+### 19.5 Bondage
 
 The source describes bondage as a combination of sadism and masochism in a couple.
 
 > **Current terminology note:** Bondage itself is not synonymous with a psychiatric disorder. Clinical diagnosis requires clinically significant distress/impairment or involvement of non-consenting persons, depending on the condition being assessed.
 
-## 19.6 Exhibitionism
+### 19.6 Exhibitionism
 
 **Source definition:** Sexual gratification by displaying private parts to a non-consenting person / stranger.
 
-The source cites old **IPC §294** public nuisance terminology.
-
-### Current legal context
-
+#### Current legal context
 Publicly obscene acts can fall under **BNS §296 (obscene acts and songs)**, while sexual harassment or other offences may apply depending on the conduct and victim.
 
-## 19.7 Voyeurism
-
+### 19.7 Voyeurism
 **Source definition:** Sexual gratification through watching another person's private acts.
 
 Historical term:
-
 - **Scoptophilia.**
 - “Peeping Tom” for the perpetrator.
 
-The source cites old **IPC §354C**.
-
-### Current legal provision
-
 The current BNS contains **§77, Voyeurism**, covering watching/capturing/disseminating images of a woman engaging in a private act in the circumstances defined by the statute.
 
-## 19.8 Troilism
+### 19.8 Troilism
 
 **Source definition:** Extreme form of voyeurism in which a person obtains sexual gratification by watching their own wife engage in sexual activity with someone else.
 
 This is retained as a **historical forensic term**, not as a current criminal classification by itself.
 
-## 19.9 Forms of exhibitionism listed
+### 19.9 Forms of exhibitionism listed
 
-### Streaking
-
+#### Streaking
 Running naked in public.
 
-### Mooning
-
+#### Mooning
 Exposing the buttocks/gluteal region.
 
-### Flashing
-
+#### Flashing
 Briefly exposing private parts suddenly for a moment.
-
 The source places these in a public-behaviour/exhibitionism framework.
 
-## 19.10 Transvestism / eonism
 
-The source defines this as sexual gratification from wearing clothing associated with the opposite sex/gender and states it is usually described in males.
-
-The source says private practice was not punishable, while public nuisance or theft may attract legal consequences.
-
-> **Current clinical/legal correction:** Cross-dressing itself is not a crime and is not a psychiatric disorder simply because of clothing choice. The historical term is retained only because it appears in the source.
-
-## 19.11 Fetishism
+### 19.11 Fetishism
 
 **Source definition:** Sexual gratification associated with inanimate objects or particular body parts.
 
 Current terminology may include **fetishistic disorder** only when formal diagnostic criteria are met; a fetishistic interest alone is not automatically a disorder.
 
-## 19.12 “Transsexualism” in the source
-
-The PDF describes a person who wears clothing associated with another sex because they feel they belong to that sex/gender, rather than for sexual gratification.
-
-> **Important modern correction:** The terminology in the source is outdated. **Gender identity / being transgender is not a paraphilia or a sexual disorder.** The historical term should not be used as a current diagnosis.
-
-## 19.13 Partialism
-
-**Source definition:** Obsession/fixation with a single body part.
-
-## 19.14 Frotteurism
+### 19.14 Frotteurism
 
 **Source definition:** Rubbing the genitals against a non-consenting person in a public place to derive sexual pleasure.
 
@@ -1764,17 +1331,12 @@ The source associates this with old IPC provisions relating to public nuisance/s
 
 > **Current legal context:** Depending on the exact conduct and victim, present offences may include provisions relating to sexual harassment, assault, or public obscenity under the BNS and other applicable laws.
 
-## 19.15 Uranism
 
-The source gives **uranism** as a historical term related to male homosexual behaviour and describes acts such as fingering/handling/licking.
-
-> **Current correction:** “Uranism” is obsolete. **Consensual same-sex sexual activity between adults is not, by itself, a criminal offence in India**, following the Supreme Court's decision in *Navtej Singh Johar v. Union of India* and the limited decriminalization of IPC §377.
-
-## 19.16 Necrophilia
+### 19.16 Necrophilia
 
 **Source definition:** Sexual intercourse with a dead body.
 
-## 19.17 Necrophagia
+### 19.17 Necrophagia
 
 **Source definition:** Eating a dead body.
 
@@ -1782,42 +1344,18 @@ The PDF attributes both to old **IPC §297**.
 
 ### Current legal context
 
-The current BNS contains a provision concerning **indignity to human corpses / human dead bodies** (BNS §301). The historical labels “necrophilia” and “necrophagia” should not be mapped mechanically to a single modern offence; the exact conduct determines the applicable law.
+The current BNS contains a provision concerning **indignity to human corpses / human dead bodies** **(BNS §301)**. The historical labels “necrophilia” and “necrophagia” should not be mapped mechanically to a single modern offence; the exact conduct determines the applicable law.
 
-## 19.18 Scatologia
 
-Sexual pleasure associated with talking obscenely, according to the source.
 
-## 19.19 Telephone scatologia
+### 19.23 Bobbit syndrome
 
-Talking obscenely on the phone; source calls it a form of exhibitionism.
-
-## 19.20 Erotographomania
-
-Writing obscene material for sexual pleasure.
-
-## 19.21 Urophilia / undinism
-
-Sexual gratification obtained from the sight or smell of urine.
-
-## 19.22 Coprophilia
-
-Sexual gratification associated with the sight or smell of faeces.
-
-## 19.23 “Gobbit syndrome” — unresolved source text
-
-The final line of the PDF is OCR-degraded and reads approximately as a reference to:
-
-> “Gobbit syndrome … in case of infidelity … by female partner … usually seen …”
-
-The exact intended term and definition **cannot be established confidently from the available source image/text**.
-
-**Status:** `[unclear]`
-
-No definition has been fabricated.
+> Male Genitalia amputation by female partner
+> usually seen in case of infidelity 
 
 ---
 
+# # <mark style="background: #FF5582A6;">Important Summary</mark>
 # 20. Current Indian Legal Crosswalk
 
 > **Why this table exists:** The uploaded PDF is a 2023 teaching document and therefore uses **IPC, CrPC and the old Evidence Act** terminology. India transitioned to the new criminal-law framework from **1 July 2024**. The old section numbers remain useful for historical NEET-PG questions, but current legal questions require the BNS/BNSS/BSA framework.
@@ -2194,39 +1732,8 @@ Interpret with complete autopsy + scene + history
 
 ---
 
-# 25. Source Map
 
-| PDF pages | Reconstructed section |
-|---|---|
-| 1–4 | Impotence, sterility, marriage, consummation, artificial insemination, IVF, surrogacy |
-| 5–6 | Virginity, hymen, hymenal tears, historical virginity signs |
-| 7–8 | Pregnancy signs, pseudocyesis, superfecundation, superfetation, legitimacy concepts |
-| 9 | Posthumous child, atavism, lochia, abortion definitions |
-| 10–12 | MTP indications, gestational framework, consent, records, criminal abortion, old IPC sections |
-| 13 | Infant death definitions, feticide/filicide/infanticide, stillbirth/live birth, intrauterine death |
-| 14 | Maceration, viability, radiological signs |
-| 15–16 | Live-birth evidence, Fodere, Plocquet, Breslau, Wredin, hydrostatic test, false positives/negatives |
-| 17–18 | Child abuse, battered baby syndrome, skeletal injuries, Munchausen by proxy |
-| 18–19 | SIDS, autopsy findings, historical theories, medicolegal importance |
-| 20–23 | Sexual offences, rape, historical legal provisions, medicolegal examination, Locard principle, adultery, incest |
-| 24–27 | Sodomy, lesbianism, oral sex, bestiality, paraphilias, voyeurism, exhibitionism, transvestism, necrophilia, obscure terminology |
 
----
-
-# 26. Unclear / OCR-Damaged Source Items
-
-The following source items could not be recovered with sufficient confidence and therefore have **not** been silently normalized:
-
-| Location | Item | Status |
-|---|---|---|
-| p11–12 | Some historical abortifacient names and OCR wording | `[unclear / historical terminology]` where necessary |
-| p15–16 | Exact numeric values for some lung-weight tests | `[historical values; OCR partly uncertain]` |
-| p24 | Some historical labels for active/passive participants | `[historical terminology]` |
-| p27 | “Gobbit syndrome” line and definition | **`[unclear]`** |
-
-Where a value could not be established confidently, the reconstruction avoids inventing a replacement.
-
----
 
 # 27. External Verification Sources Used for Significant Updates
 
@@ -2251,16 +1758,3 @@ Where a value could not be established confidently, the reconstruction avoids in
 
 ---
 
-# 28. Reconstruction Integrity Statement
-
-This document intentionally preserves the distinction between:
-
-1. **What the uploaded PDF teaches**, including historical examination conventions;
-2. **Current verified medical/legal information**, where the source is outdated or inaccurate;
-3. **Uncertain OCR**, which is marked rather than fabricated.
-
-The source's educational content has been reorganized across page boundaries so that concepts such as **hymen/virginity, MTP law, infant death, live-birth tests, child abuse, rape examination, adultery, and paraphilias** are presented as complete conceptual units rather than disconnected page fragments.
-
----
-
-## End of reconstruction
