@@ -1186,32 +1186,20 @@ Source methods:
 ---
 
 # 4. Asphyxial Deaths — Part 1
-
 **Source pages:** 25–32
-
 ## 4.1 Asphyxia
-
 The PDF gives the classical etymological explanation and defines the forensic problem as impaired oxygenation/respiratory function.
-
 ### Asphyxial triad — classical
-
 1. **Cyanosis**
 2. **Petechial hemorrhages**
 3. **Visceral congestion**
-
 The PDF explicitly labels these classical signs as **obsolete/nonspecific signs of asphyxia**.
-
 ### Asphyxial quintet — source
-
 The classical triad plus:
-
 4. **Postmortem fluidity of blood**
 5. **Right-ventricular enlargement**
-
 > **Verified/current framing:** The triad is nonspecific and cannot by itself establish the mechanism of asphyxia. Current forensic teaching likewise treats cyanosis, congestion and petechiae as supportive rather than diagnostic.
-
 ## 4.2 Major categories in the PDF
-
 ```text
 Asphyxial deaths
 ├── Hanging
@@ -1228,218 +1216,132 @@ Asphyxial deaths
     ├── Traumatic asphyxia
     └── Positional / environmental asphyxia
 ```
-
 ---
-
 ## 4.3 Artefactual neck hemorrhage — Prinsloo's/Gordon artefact
-
 Dissection-related hemorrhage/congestion can mimic antemortem neck injury.
-
 ### Prevention in source
-
 1. Open cranial cavity first in suspected neck-compression cases.
 2. Keep neck dissection until later.
 3. Use **bloodless dissection**.
 4. Decompress venous blood by incising the jugular vein before detailed examination.
-
 ---
-
 # 4.4 Hanging
-
 **Definition in source:** Constriction of the neck by a ligature associated with suspension of the body by body weight.
-
 ## Classification by knot position
-
 | Type | Knot position |
 |---|---|
 | **Typical hanging** | Knot in the occipital region |
 | **Atypical hanging** | Knot anywhere other than occipital region |
-
 ## Classification by suspension
-
 | Type | Source definition | Main constricting force |
 |---|---|---|
 | **Complete hanging** | Whole body suspended; no body part touches ground | Whole body weight |
 | **Partial hanging** | Some body part touches ground; only part of body suspended | Part of body weight |
-
 The source calls complete hanging faster and partial hanging slower, but actual time to death depends on the anatomy and mechanism rather than suspension category alone.
-
 ## 4.5 Ligature
-
 Any available material may act as a ligature, e.g.:
-
 - Rope
 - Cloth
 - Saree/dupatta and similar material
-
 ## 4.6 Mechanisms of death in hanging
-
 The source identifies:
-
 - **Asphyxia**.
 - Cerebral venous congestion.
 - Possible vagal inhibition from neck pressure.
 - In judicial hanging, severe cervical injury can be the dominant mechanism.
-
 ### Classical sequence of airway/vascular effects
-
 The source emphasizes that veins, arteries, airway and nerves are compressed to different degrees depending on knot position, ligature and force.
-
 > The OCR of the PDF's numerical force thresholds for individual neck structures is unreliable. **Do not memorize numerical kilogram values from this reconstruction.**
-
 ## 4.7 External examination in hanging
-
 ### Face
-
 Source associations:
-
 - Cerebral venous congestion.
 - Cerebral anemia.
 - Asphyxial changes.
-
 ### Ligature mark
-
 Typical source description:
-
 - Usually **pale**.
 - **Parchment-like**.
 - May become dark brown later.
 - Often **incomplete**.
 - Often **oblique**.
 - Usually **above the thyroid cartilage**.
-
 ### Factors affecting ligature mark
-
 | Factor | Effect in source |
 |---|---|
 | Thin/narrow ligature | Narrower/deeper mark; may act as a “cheese cutter” |
 | Broad/soft ligature | Faint, superficial mark |
 | Fixed knot / fixed noose | Incomplete, oblique mark |
 | Slip/running knot | May produce more complete/transverse mark |
-
 > These are **classical patterns**, not absolute diagnostic rules.
-
 ### Glove-and-stocking hypostasis
-
 Not evidence of hanging by itself; indicates prolonged **vertical positioning**.
-
 ### Dribbling of saliva
-
 The source emphasizes saliva dribbling from the mouth as a strong sign supporting **antemortem hanging**, attributed to salivary stimulation during neck compression.
-
 > **Current forensic interpretation:** Saliva dribbling may be supportive in context but should not be treated as pathognomonic or as a standalone proof of vitality.
-
 ### Tongue protrusion
-
 The source attributes it to lifting of the pharyngeal skeleton.
-
 ### La facie sympathique
-
 Source description:
-
 - Ipsilateral opening of eyelids.
 - Ipsilateral pupillary dilatation.
 - Attributed to pressure on the cervical sympathetic chain.
 - Traditionally described as a sign supporting antemortem hanging.
-
 Again, it is a **classical supportive sign**, not an absolute criterion.
-
 ## 4.8 Suspension peak
-
 Classical source diagram:
-
 - Ligature mark rises toward the point of suspension.
 - Described as an **inverted V-shaped** peak.
-
 The source uses this to distinguish hanging from strangulation, but modern interpretation should use the entire injury pattern and circumstance rather than one visual sign.
-
 ## 4.9 Special low-point suspension
-
 The PDF notes that when the point of suspension is low, e.g. a door/window level, a **transverse appearance** may occur despite hanging.
-
 This is an important exception to the simplistic rule that “hanging always gives an oblique mark.”
-
 ## 4.10 Internal findings in hanging
-
 ### Hyoid and laryngeal skeleton
-
 The source lists:
-
 - Thyroid cartilage fracture.
 - Hyoid bone fracture.
 - Cricoid fracture rarely, in very strong compression.
-
 The PDF associates hyoid fractures particularly with older individuals, approximately **>40 years**, because ossification makes fracture more likely.
-
 ### Hyoid fracture patterns in source
-
 - **Abduction fracture:** both ends displaced outward.
 - **Side-to-side fracture:** one end displaced outward and one inward.
 - **Inward compression**: associated with throttling.
-
 ### Hangman's fracture
-
 **Hangman's fracture** = fracture through the posterior elements/pars interarticularis of **C2 (axis)**, classically with hyperextension and axial loading.
-
 The source associates it particularly with a **long-drop judicial hanging**.
-
 > **Important correction:** The essential vertebral level is **C2**, not atlas (C1). The source's OCR around the vertebral levels is garbled.
-
 ### Amussat sign
-
 - **Transverse intimal tears of the carotid arteries**.
 - Classical association with hanging.
-
 ### Simon's hemorrhages
-
 - Linear/stripe-like hemorrhages in the intervertebral discs, classically described in the lumbar region.
 - The source attributes them to stretching of the spine during suspension.
-
 ## 4.11 Manner of death in hanging
-
 The source lists:
-
 1. **Suicidal** — the usual association.
 2. **Homicidal** — uncommon but possible.
 3. **Accidental** — possible.
-
 Manner must be determined from the complete scene, history, body position, injuries and ancillary evidence.
-
 ## 4.12 Fatal period
-
 The PDF gives approximately **3–5 minutes**.
-
 > This is a classical exam value; actual survival time varies significantly with mechanism, degree of vascular/airway compression, rescue, and associated injuries.
-
 ## 4.13 Judicial hanging
-
 The PDF states that judicial hanging is practiced in India and may cause severe cervical injury in addition to asphyxial/vascular mechanisms.
-
 ### Hangman's knot
-
 Source notes:
-
 - Classical ideal location: **submental**.
 - The PDF states an Indian placement **below the ear / angle of mandible**.
-
 ## 4.14 Homicidal hanging / lynching
-
 The PDF uses **extrajudicial hanging / lynching** for homicidal hanging by a group of persons in a public place.
-
 ---
-
 # 4.15 Autoerotic / sexual asphyxia
-
 The source describes accidental death in individuals who intentionally create partial neck compression to produce altered sexual sensation.
-
 Terms appearing in the source include:
-
 - Hypoxiphilia
 - Asphyxiophilia
 - Historical terminology such as “hanging”
-
 ### Mechanism as shown in the PDF
-
 ```text
 Partial neck occlusion
   ↓
@@ -1453,36 +1355,23 @@ Release of pressure intended
   ↓
 Normal state
 ```
-
 Death occurs when the individual cannot release the constricting mechanism.
-
 > **Terminology note:** Older forensic texts contain stigmatizing language for this phenomenon. Use neutral modern clinical language such as **autoerotic asphyxia** or **sexual asphyxia**, and describe the circumstances without moral judgment.
-
 ---
-
 # 4.16 Strangulation
-
 **Definition:** Neck compression without suspension of the body.
-
 ## Ligature strangulation
-
 ### Ligature mark
-
 Source pattern:
-
 - Usually **transverse**.
 - Usually **complete**.
 - Usually **below thyroid cartilage**.
 - May become oblique if the body is dragged.
-
 ### Other findings
-
 - Congested face.
 - Subconjunctival hemorrhages.
 - Bruises/abrasions around ligature mark due to struggle and relative movement of ligature.
-
 ## Hanging vs ligature strangulation
-
 | Feature | Hanging | Ligature strangulation |
 |---|---|---|
 | Suspension | Present | Absent |
@@ -1493,86 +1382,54 @@ Source pattern:
 | Neck bruising | May be limited | Often more prominent |
 | Typical manner | Often suicidal | Often homicidal |
 | Important caveat | Patterns overlap | Dragging/position can alter appearance |
-
 ---
-
 # 4.17 Pseudoligature mark
-
 Skin folds in the neck, especially in **obesity or elderly persons**, can resemble a ligature mark.
-
 The mark must therefore be interpreted in the context of:
-
 - Entire neck examination.
 - Internal neck injuries.
 - Scene findings.
 - Ligature material.
 - Histopathology where appropriate.
-
 ---
-
 # 4.18 Throttling / manual strangulation
-
 **Definition:** Neck compression by the **hands**.
-
 The PDF states that it is **almost always homicidal**.
-
 ### External findings
-
 - Crescentic / vertical fingernail abrasions.
 - Bruises from fingertips.
 - “Six-penny bruises” — round/discoid fingertip bruises in the source.
-
 ### Internal findings
-
 - Extensive soft-tissue contusion in neck muscles.
 - Thyroid cartilage fracture.
 - Hyoid fracture.
 - Rare cricoid fracture with very severe force.
-
 ### Hyoid mechanism in source
-
 - **Inward compression** → adduction-type fracture.
 - Source calls throttling the **most common cause of hyoid fracture** in this context.
-
 ---
-
 # 4.19 Palmar strangulation / mugging
-
 Source description:
-
 - One hand covers the mouth/nostrils.
 - The other hand produces pressure over the neck.
-
 It therefore combines an element of airway obstruction with neck compression.
-
 ## Carotid sleeper hold
-
 - Elbow/forearm compresses **carotid arteries**.
 - Trachea is relatively spared.
 - Unconsciousness results from reduced cerebral perfusion.
-
 ## Choke hold
-
 - Forearm compresses the **trachea/airway**.
 - Asphyxial mechanism is emphasized.
-
 ## 4.20 Garrotting
-
 - Thin cord or iron cuff used from behind to compress the neck.
 - The PDF describes it as a form of ligature constriction.
-
 ## 4.21 Spanish windlass technique
-
 - Variant of garrotting.
 - The source describes historical use as a method of judicial execution in Spain/Turkey.
-
 ## 4.22 Bansdola
-
 - Bamboo sticks used to constrict the neck.
 - Presented in the source as a specific form of mechanical neck compression.
-
 ---
-
 # 5. Asphyxial Deaths — Part 2
 
 **Source pages:** 33–42
