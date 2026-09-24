@@ -14,9 +14,9 @@ tags:
 
 ---
 ## Contents
-- [ ] Impotence, Virginity, Delivery and Abortion
-- [ ] Infant deaths and Child abuse
-- [ ] Sexual offences
+- [x] Impotence, Virginity, Delivery and Abortion ✅ 2026-09-24
+- [x] Infant deaths and Child abuse ✅ 2026-09-24
+- [x] Sexual offences ✅ 2026-09-24
 ## Contents in this note
 
 1. [[#1. Impotence Sterility and Medicolegal Concepts]]
