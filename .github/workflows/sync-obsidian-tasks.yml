@@ -1,0 +1,44 @@
+name: Sync Obsidian Tasks to Notion
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "00_Strategy/Tasks/**/*.md"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Parse tasks without contacting Notion"
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: read
+
+concurrency:
+  group: notion-task-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python -m pip install --disable-pip-version-check --no-input pyyaml requests
+
+      - name: Sync tasks
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_TASKS_DATA_SOURCE_ID: "3e527b64-a3ff-80a1-95b2-000be491cc02"
+          DRY_RUN: ${{ inputs.dry_run || false }}
+        run: python scripts/notion_task_sync.py
