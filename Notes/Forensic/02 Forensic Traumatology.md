@@ -1,9 +1,19 @@
 ---
 Subject: Forensics
 type: Marrow
+subtopics:
+  - Mechanical Injuries
+  - Regional Injuries
+  - Thermal Injuries
+  - Ballistics
+  - Electrical Injuries
+  - Explosion Injuries
+  - Torture Methods
+Topic: Traumatology
+Source: Marrow 6.5
 ---
 # Forensic Medicine & Toxicology — Forensic Traumatology
-
+## Disclaimer
 > **Source:** `02_Forensic_Traumatology.pdf` (65 PDF pages; source notes are based on Marrow Forensic Medicine v4.5 / Marrow 6.5, 2023 material embedded in the PDF).
 >
 > **Scope of this file:** The uploaded PDF covers **Mechanical Injuries, Regional Injuries (head/brain), Thermal Injuries, Ballistics, Electrical/Lightning/Explosion Injuries, Torture Methods, and Transportation Injuries**. It does **not** contain the broader toxicology, sexual-offence, identification, obstetric, or general jurisprudence chapters listed in the reconstruction prompt; those topics are therefore not invented here.
@@ -11,33 +21,28 @@ type: Marrow
 > **Organization:** PDF material has been reorganized by concept rather than page order. Repeated material has been merged. Obvious OCR errors have been corrected where the page image and context make the intended term clear. Important corrections/updates are explicitly labelled.
 
 ---
-
 ## PDF coverage map
-
 | PDF pages | Major topic                                                                                                                               |
 | --------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1–8       | [[#1. Mechanical Injuries — Part 1\|Mechanical injuries: abrasion and contusion]]                                                         |
-| 9–16      | [[#1. Mechanical Injuries — Part 2\|Mechanical injuries: laceration, incised wound, stab wound, chop wound, defence/fabricated injuries]] |
-| 17–24     | [[#2. Regional Injuries — Head and Intracranial Hemorrhage\|Head injuries, skull fractures, coup/contrecoup, EDH, SDH, SAH]]              |
+| 1–8       | [[#1. Mechanical Injuries\|Mechanical injuries: abrasion and contusion]]                                                         |
+| 9–16      | [[#1. Mechanical Injuries\|Mechanical injuries: laceration, incised wound, stab wound, chop wound, defence/fabricated injuries]] |
+| 17–24     | [[#2. Regional Injuries\|Head injuries, skull fractures, coup/contrecoup, EDH, SDH, SAH]]              |
 | 25–32     | [[#3. Thermal Injuries\|Cold injury, heat syndromes, burns, scalds, burn-age/antemortem assessment]]                                      |
-| 33–41     | [[#4. Ballistics — Proximal Ballistics\|Firearms, rifling, ammunition, propellants and projectiles]]                                      |
-| 42–51     | [[#5. Ballistics — Intermediate and Terminal Ballistics\|Gunshot wounds, firing range, entry/exit wounds, GSR, atypical ballistics]]      |
-| 52–58     | [[#6. Electrical, Lightning, Explosion and Torture Injuries\|Electrocution, lightning, blast injuries and torture methods]]               |
+| 33–41     | [[#4. Proximal Ballistics\|Firearms, rifling, ammunition, propellants and projectiles]]                                      |
+| 42–51     | [[#5. Intermediate and Terminal Ballistics\|Gunshot wounds, firing range, entry/exit wounds, GSR, atypical ballistics]]      |
+| 52–58     | [[#6. Electrical Injuries, Explosion Injuries and Torture Methods\|Electrocution, lightning, blast injuries and torture methods]]               |
 | 59–65     | [[#7. Transportation Injuries\|Pedestrian, occupant, dashboard/seatbelt, whiplash, deceleration and related injuries]]                    |
 ## Contents
-1. [ ] Mechanical Injuries
-2. [ ] Regional Injuries
-3. [ ] Thermal Injuries
+1. [x] Mechanical Injuries ✅ 2026-09-25
+2. [x] Regional Injuries ✅ 2026-09-25
+3. [x] Thermal Injuries ✅ 2026-09-25
 4. [ ] Proximal Ballistics
-5. [ ] Intermediate and Distant Ballistics
+5. [x] Intermediate and Distant Ballistics ✅ 2026-09-25
 6. [ ] Electrical injuries, Explosion injuries and Torture methods
-7. [ ] Transportation Injuries
+7. [x] Transportation Injuries ✅ 2026-09-25
 ---
-
-# 1. Mechanical Injuries — Part 1
-
+# 1. Mechanical Injuries
 ## 1.1 Classification
-
 The PDF classifies mechanical injuries according to the type of force:
 
 | Force/instrument | Typical injuries in the PDF |
@@ -47,9 +52,7 @@ The PDF classifies mechanical injuries according to the type of force:
 | **Pointed instrument** | Stab/punctured wound |
 | **Tangential force** | Scraping injuries such as scratch/graze |
 | **Perpendicular force** | Crushing injuries such as pressure/imprint abrasions |
-
 ### General principles from the source
-
 - **Abrade** means to **scrape**.
 - Tangential force produces **scraping injury**.
 - Perpendicular force produces **crushing injury**.
@@ -60,24 +63,15 @@ The PDF classifies mechanical injuries according to the type of force:
 > **Current legal note:** “Simple hurt” and “grievous hurt” remain useful concepts for examination, but legal section numbering should not be carried over from old IPC-based notes without checking the current criminal law framework.
 
 ---
-
-## 1.2 Abrasion
-
+## 1. Abrasion
 ### Definition
-
 An **abrasion** is a superficial injury produced mainly by friction, pressure, or impact in which the epidermis is damaged, usually without a deep tissue defect.
-
 ### Mechanism
-
 The source emphasizes two broad force patterns:
-
 - **Tangential force** → scraping injury.
 - **Perpendicular force** → crushing of the epithelium.
-
 ### Types of abrasions
-
 #### 1. Scratch / scrape abrasion
-
 Produced by contact with a pointed or sharp object.
 
 **Examples:**
@@ -86,11 +80,7 @@ Produced by contact with a pointed or sharp object.
 - Nail
 
 These may produce a linear or narrow superficial abrasion.
-
 #### 2. Graze abrasion
-
-Also called:
-
 - **Gravel rash**
 - **Brush burn**
 - **Sliding abrasion**
@@ -99,32 +89,20 @@ Also called:
 **Mechanism:** friction between the skin and a rough surface.
 
 **Common example:** road traffic accidents.
-
 #### 3. Pressure abrasion
-
 Produced by **perpendicular force** acting on skin, causing **crushing of the epithelium**.
-
 The source emphasizes:
-
 - Relatively less force
 - Applied for a longer time
-
 **Examples:**
-- Ligature mark
-- Shoe bite
-
+- ==Ligature mark==
+- ==Shoe bite==
 #### 4. Imprint abrasion
-
 Also called **impact abrasion**.
-
-The PDF describes:
-
 - Larger force
 - Shorter duration
 - Crushing of the epithelium
-
 #### 5. Patterned abrasion
-
 A pressure/imprint abrasion that reproduces or reflects the pattern of the object/weapon.
 
 **Examples from the source:**
@@ -132,15 +110,11 @@ A pressure/imprint abrasion that reproduces or reflects the pattern of the objec
 - Recoil abrasion
 - Radiator-grill mark
 - Seat-belt pattern
-
-### Important concept
-
+##### Important concept
 > **Patterned abrasion → think “object leaves its pattern on skin.”**
 
----
 
-## 1.3 Medicolegal importance of abrasions
-
+### 1.3 Medicolegal importance of abrasions
 Abrasions may help establish:
 
 - Presence of mechanical trauma
@@ -149,9 +123,7 @@ Abrasions may help establish:
 - Contact with a particular surface or object
 - Manner of injury in context
 - Possible foreign material transfer
-
-### Direction of force
-
+#### Direction of force
 The source highlights **epithelial heaping / epithelial tag** at the end of the abrasion as a clue to the direction of movement.
 
 ```text
@@ -165,15 +137,11 @@ skin is scraped
 ```
 
 Thus, the **tail end** may show epithelial heaping and can help infer the direction of the applied force.
-
-### Scene-of-crime significance
-
+#### Scene-of-crime significance
 Inspection of an abrasion may reveal **foreign bodies/material** transferred from the contacting surface.
 
 ---
-
-## 1.4 Antemortem vs postmortem abrasion
-
+### 1.4 Antemortem vs postmortem abrasion
 Abrasions are usually antemortem, but postmortem abrasions can occur, particularly from **handling or movement of the body**.
 
 | Feature | Antemortem abrasion | Postmortem abrasion |
@@ -186,13 +154,9 @@ Abrasions are usually antemortem, but postmortem abrasions can occur, particular
 > **Source note:** The PDF uses a “vital reaction / 20-zone” concept. This should be understood as a historical forensic teaching framework rather than an absolute standalone test of vitality.
 
 ---
-
-## 1.5 Ageing of abrasion
-
+### 1.5 Ageing of abrasion
 The PDF teaches that an abrasion forms a **scab** consisting largely of dried exudate/lymph and that the scab changes colour during healing.
-
-### Classic PDF mnemonic: “RRROBe”
-
+#### Classic PDF mnemonic: “RRROBe”
 | Stage in source notes | Approximate timing given in PDF |
 |---|---:|
 | **Raw** | < 12 hours |
@@ -201,23 +165,16 @@ The PDF teaches that an abrasion forms a **scab** consisting largely of dried ex
 | **Brown scab** | 4–5 days |
 | **Black scab** | 6–7 days |
 | Healing | ~1 week |
-
-### Important current correction
-
+#### Important current correction
 **Do not treat this colour timeline as a scientifically precise method for dating an abrasion or bruise.** Wound appearance varies with site, depth, skin characteristics, mechanism and individual healing. Modern forensic literature emphasizes that visual colour alone cannot reliably assign an exact injury age.
 
-See also: [[#2. Regional Injuries — Head and Intracranial Hemorrhage\|Head injuries]].
+See also: [[#2. Regional Injuries\|Head injuries]].
 
 ---
-
-# 1.6 Contusion (Bruise)
-
-## Definition
-
+## 2. Contusion (Bruise)
+### Definition
 A **contusion/bruise** is a collection of blood in tissues caused by blunt trauma with rupture of blood vessels while the overlying epidermis remains intact.
-
 ### Mechanism
-
 ```text
 Blunt trauma
    ↓
@@ -229,9 +186,7 @@ Blood diffuses into surrounding tissue
    ↓
 Contusion / bruise
 ```
-
 ### Key structural features
-
 - **Epidermis remains intact**
 - **Dermis/subcutaneous tissue is involved**
 - Ruptured vessels may be:
@@ -239,9 +194,7 @@ Contusion / bruise
   - Venules
   - Arteries
 - External appearance: **swelling + discoloration**
-
 ### Site
-
 Contusions can occur anywhere, but the source emphasizes certain areas:
 
 - **Bony prominences:** easier to bruise because skin is close to bone.
@@ -253,23 +206,14 @@ Contusions can occur anywhere, but the source emphasizes certain areas:
 - **Fair skin:** bruising is easier to appreciate visually.
 
 ---
-
-## 1.7 Types of contusions
-
-### 1. Intradermal bruise
-
+### 1.7 Types of contusions
+#### 1. Intradermal bruise
 Blood extravasation predominantly within the dermal tissues.
-
-### 2. Subcutaneous bruise
-
+#### 2. Subcutaneous bruise
 Blood collects predominantly in the subcutaneous tissues.
-
-### 3. Ectopic / migratory / percolated bruise
-
+#### 3. Ectopic / migratory / percolated bruise
 A bruise appearing **away from the site of impact**, due to movement of blood through tissue planes, especially under the influence of gravity.
-
-#### Examples
-
+##### Examples
 **Black eye / raccoon eye / spectacle hematoma**
 - Periorbital bruising.
 - Can occur through blood tracking from a distant injury.
@@ -285,33 +229,23 @@ A bruise appearing **away from the site of impact**, due to movement of blood th
 
 **Deep/delayed bruise**
 - A deep bruise may become clinically visible only later.
-
-### 4. Patterned bruise
-
+#### 4. Patterned bruise
 The bruise reproduces the pattern of the striking surface.
 
 **Tramline / railway-line bruise**
 - Classically associated with a rod-like object such as a **lathi/stick/iron rod/pipe**.
 - The central or adjacent skin pattern results from compression and stretching around the impact.
-
-### 5. Doughnut bruise
-
+#### 5. Doughnut bruise
 - Produced by a **spherical object**.
 - Characteristically the central appearance may be relatively spared compared with the surrounding injured ring.
-
-### 6. Butterfly bruise
-
+#### 6. Butterfly bruise
 - Produced by **pinching of skin**.
 - The source highlights this pattern as potentially significant in **child abuse**.
-
-### 7. Six-penny bruise
-
+#### 7. Six-penny bruise
 - Round/circular bruise resembling the shape of a six-penny coin.
 - Attributed in the source to **finger-tip pressure**.
 - Mentioned in association with **manual strangulation** and **child abuse**.
-
-### 8. Artificial / pseudo-bruising
-
+#### 8. Artificial / pseudo-bruising
 Faked or induced inflammatory skin changes may mimic trauma.
 
 The source gives examples of plant substances such as:
@@ -321,17 +255,13 @@ The source gives examples of plant substances such as:
 The proposed mechanism is an **irritant/inflammatory reaction with blister formation**, which may be deliberately misrepresented as trauma.
 
 ---
-
-## 1.8 Incision test for contusion
-
+### 1.8 Incision test for contusion
 The source describes an **incision test**:
 
 1. Incise the swollen/discolored area.
 2. Wash/pour water over the area.
 3. A true contusion persists because blood is **extravasated within tissues**.
-
-### Principle
-
+#### Principle
 ```text
 Surface discoloration only → may wash away
 Extravasated blood in tissue → persists
@@ -340,43 +270,29 @@ Extravasated blood in tissue → persists
 > **Caution:** In modern practice, the forensic interpretation of an injury should not depend on a single bedside/autopsy maneuver in isolation; documentation, microscopy and the overall examination remain important.
 
 ---
-
-## 1.9 Factors influencing the appearance of a bruise
-
-### Tissue factors
-
+### 1.9 Factors influencing the appearance of a bruise
+#### Tissue factors
 - Loose areolar tissue → marked bruising.
 - Eyelid/scrotum → marked bruising with relatively little force.
 - Bony prominence → bruising may be apparent.
 - Scalp → may be more palpable than visible.
 - Thick fibrous tissue (e.g. palms/soles) → bruising may be less obvious.
-
-### Sex
-
+#### Sex
 The source states that females may bruise more readily than males, attributed to differences in subcutaneous tissue.
-
-### Age
-
+#### Age
 - Children and elderly persons are described as being more prone to bruising.
-
-### Skin complexion
-
+#### Skin complexion
 - Bruising is easier to appreciate in fair skin.
 
 ---
-
-## 1.10 Ageing of contusion
-
-### Methods listed in the PDF
-
+### 1.10 Ageing of contusion
+#### Methods listed in the PDF
 - Colour assessment
 - Spectrometry
 - Histology
 - Pearl/Prussian-type stain reactions as referred to in the notes
 - Assessment of vascularity/healing changes
-
-### Classic colour sequence in the PDF
-
+#### Classic colour sequence in the PDF
 The PDF presents the following teaching sequence:
 
 | Approximate stage | Colour / pigment |
@@ -396,31 +312,23 @@ The annotated figure in the PDF gives approximately:
 - Green → ~5–6 days
 - Yellow → ~7–12 days
 - Return toward normal → ~2 weeks
-
-### **Current correction — important**
-
+#### **Current correction — important**
 The **specific day-by-day colour schedule should be treated as a traditional examination mnemonic, not a reliable forensic clock**. Scientific reviews show wide variation in bruise colour and poor accuracy when clinicians attempt to date bruises visually or from photographs. Colour alone should not be used to assign an exact age.
 
 ---
-
-## 1.11 Special situations in bruise ageing
-
+### 1.11 Special situations in bruise ageing
 The PDF notes **little/no typical colour change** in some haemorrhages:
 
 - **Subconjunctival haemorrhage:** oxygen can diffuse directly from atmospheric air.
 - **Meningeal haemorrhage:** oxygen diffusion from CSF may influence colour.
 - **Subgaleal haematoma:** may not follow the classic superficial bruise colour sequence.
-
-### Multiple bruises of different colours
-
+#### Multiple bruises of different colours
 Historically, bruises of different apparent colours have been taught as evidence of **repeated episodes of trauma**, especially in children.
 
 **Important contemporary interpretation:** multiple injuries of different appearance may raise concern and should prompt careful investigation, but **colour alone cannot establish that injuries occurred at specific different times**.
 
 ---
-
-## 1.12 Livor mortis vs contusion
-
+### 1.12 Livor mortis vs contusion
 | Feature | Livor mortis | Contusion |
 |---|---|---|
 | Typical site | Dependent parts of body | Anywhere |
@@ -430,19 +338,14 @@ Historically, bruises of different apparent colours have been taught as evidence
 | Colour change with time | Yes, postmortem evolution | Yes, healing/haemoglobin breakdown |
 | On incision and washing | Blood may wash away from vessels/tissue surface | Extravasated blood remains in tissue |
 
-**Exam principle:**  
+**Exam principle:**
 > **Extravasation = contusion.**
 
 ---
-
-# 1.13 Laceration
-
-## Definition
-
+## 3. Laceration
+### Definition
 A **laceration** is a tear of skin, mucous membrane, muscle or other tissue produced by **blunt force**.
-
-## Mechanism
-
+### Mechanism
 ```text
 Blunt force
    ↓
@@ -452,30 +355,21 @@ Tearing of tissue
    ↓
 Laceration
 ```
-
-## Important features
-
+### Important features
 - **Irregular margins**
 - **Contusion/abrasion at wound edges**
 - **Crushing of tissues**
 - **Tissue bridges** across the wound
 - Hair/vessels/nerves may remain stretched or bridged across the wound
 - Bleeding is present but classically **less profuse than a clean incised wound**
-
-### Scalp laceration exception
-
+#### Scalp laceration exception
 Scalp lacerations may bleed heavily because fibrous strands can tether vessels and interfere with normal vasoconstriction.
-
-### “Swallow-tail” appearance
-
+#### “Swallow-tail” appearance
 Small wounds may diverge from the main wound, producing the **swallow-tail appearance** described in the source.
 
 ---
-
-## 1.14 Types of laceration
-
-### 1. Split laceration
-
+### Types of laceration
+#### 1. Split laceration
 Produced when skin is **crushed between a blunt object and underlying bone**.
 
 Common over **bony prominences**, e.g.:
@@ -490,9 +384,7 @@ A split laceration may look like an incised wound to the naked eye.
 - Fine irregular margins
 - Tissue crushing
 - Other features of blunt trauma
-
-### 2. Stretch laceration
-
+#### 2. Stretch laceration
 Mechanism:
 
 ```text
@@ -508,9 +400,7 @@ Laceration
 Features:
 - **Flap formation**
 - May be seen with **compound fractures**
-
-### 3. Avulsion laceration
-
+#### 3. Avulsion laceration
 Produced by:
 
 - Grinding compression
@@ -523,29 +413,20 @@ Features:
 - Examples include:
   - **Degloving injury**
   - **Scalping injury**
-
-### Degloving injury
-
+##### Degloving injury
 Shearing separates **subcutaneous fat from the deep fascia**.
-
-### 4. Tear laceration
-
+#### 4. Tear laceration
 Produced by injury from a **heavy protruding object**.
-
-### 5. Cut laceration
-
+#### 5. Cut laceration
 Produced by a **heavy weapon with a sharp edge**, e.g. an axe.
 
 Also termed **chop injury** in the source.
 
-See also: [[#1.19 Chop wound\|Chop wound]].
+See also: [[#1.27 Chop wound]] & [[#8.3 Laceration vs chop wound]].
 
 ---
-
-# 1.15 Incised wound
-
-## Definition
-
+## 4. Incised wound
+### Definition
 A wound produced by a **sharp-edged weapon**.
 
 **Examples:**
@@ -554,17 +435,13 @@ A wound produced by a **sharp-edged weapon**.
 - Other cutting instruments
 
 Also referred to in the source as **slash/cut injury**.
-
-## Core features
-
+### Core features
 - **Clean-cut, regular margins**
 - **No tissue bridges**
 - Neurovascular structures are cleanly divided
 - Floor of wound shows **cut structures**
 - **Profuse haemorrhage** may occur
-
 ### Comparison: laceration vs incised wound
-
 | Feature | Laceration | Incised wound |
 |---|---|---|
 | Mechanism | Blunt force | Sharp force |
@@ -576,9 +453,7 @@ Also referred to in the source as **slash/cut injury**.
 | Underlying structures | Crushed/bridged | Cleanly divided |
 
 ---
-
-## 1.16 Bevelling of a cut wound
-
+### Bevelling of a cut wound
 When the weapon enters at an **oblique angle**, the wound may show **undermined/undercut edges**, described as **bevelling**.
 
 The source considers a bevelled cut **suggestive of homicide rather than suicide**, but this should not be treated as an absolute rule: wound interpretation must consider the entire scene, body site, history, weapon and other injuries.
@@ -586,18 +461,14 @@ The source considers a bevelled cut **suggestive of homicide rather than suicide
 The figure on the relevant PDF page illustrates a sloping wound edge produced by oblique entry.
 
 ---
-
-## 1.17 Dimensions of an incised wound
-
+### Dimensions of an incised wound
 The source emphasizes:
 
 - **Length** → the largest dimension on the skin.
 - **Breadth** → may be slightly more than the blade thickness because of **gaping**.
 - **Depth** → assessed according to the structures divided.
 - Both epidermis and dermis are involved.
-
-### Tailing
-
+#### Tailing
 One end of the wound may become progressively shallower, producing **tailing**.
 
 - **Head end:** deeper.
@@ -606,18 +477,13 @@ One end of the wound may become progressively shallower, producing **tailing**.
 Tailing can help determine the **direction of movement of the weapon**.
 
 ---
-
-## 1.18 Medicolegal aspects of incised wounds
-
-### Hesitation / tentative cuts
-
+### Medicolegal aspects of incised wounds
+#### Hesitation / tentative cuts
 Also called:
-
 - Tentative cuts
 - Trial cuts
 
 Typical features in the source:
-
 - Multiple
 - Superficial
 - Relatively parallel
@@ -626,17 +492,12 @@ Typical features in the source:
 These may suggest **suicidal behaviour**, but they are interpretive findings rather than definitive proof of manner of death.
 
 The source also notes that cuts may be **radial to ulnar** in certain self-inflicted patterns.
-
-### Homicidal cuts
-
+#### Homicidal cuts
 The source highlights wounds involving unusual or vulnerable areas such as:
-
 - Ear
 - Nose
 - Genitalia
-
-### “Lacerated-looking incision”
-
+#### “Lacerated-looking incision”
 A sharp cut may look irregular when located in a **skin crease**.
 
 Examples:
@@ -646,32 +507,22 @@ Examples:
 **Examination tip:** stretch the skin to straighten the crease. A true sharp wound becomes easier to recognize.
 
 ---
-
-# 1.19 Stab / punctured wound
-
-## Definition
-
+## 5. Stab / punctured wound
+### Definition
 A wound caused by an instrument having a **pointed end**, in which **depth is greater than the surface dimensions**.
-
-### Principle
-
+#### Principle
 The skin offers considerable resistance to penetration; elasticity can change the shape of the visible wound.
 
 ---
-
-## 1.20 Penetrating vs perforating injury
-
+### 1.20 Penetrating vs perforating injury
 | Term | Definition |
 |---|---|
 | **Penetrating injury** | Enters a body cavity; **entry only** |
 | **Perforating injury** | Has both **entry and exit wounds** |
 
 ---
-
-## 1.21 Stab-wound features
-
-### Wound dimensions
-
+### 1.21 Stab-wound features
+#### Wound dimensions
 - Surface length reflects the interaction between blade and skin.
 - Skin elasticity may make wound length **smaller than the actual blade width**.
 - **Breadth of wound may be greater than weapon thickness** because of gaping.
@@ -679,18 +530,14 @@ The skin offers considerable resistance to penetration; elasticity can change th
 - In yielding body parts such as the **abdomen**, the wound track may be **deeper than the blade length**, because tissues deform.
 
 > **Critical practical point:** The exact length of the wound track must not be equated blindly with blade length.
-
-### Margins
-
+#### Margins
 The PDF diagram contrasts:
 
 | Wound | Entry | Exit |
 |---|---|---|
 | Margin | Inverted | Everted |
 | Relative size (single stab) | Larger | Smaller |
-
-### Shape
-
+#### Shape
 A typical stab wound may be:
 
 - Oval
@@ -705,9 +552,7 @@ The source also illustrates characteristic wound shapes from:
 - Ice pick
 
 ---
-
-## 1.22 Hilt mark
-
+### 1.22 Hilt mark
 A blade with a **hilt/guard** may produce a patterned abrasion around the wound.
 
 Significance:
@@ -716,9 +561,7 @@ Significance:
 - Produces an **imprint/patterned abrasion**
 
 ---
-
-## 1.23 Lines of Langer / cleavage lines
-
+### 1.23 Lines of Langer / cleavage lines
 The PDF describes **imaginary skin cleavage lines**.
 
 The source principle:
@@ -729,9 +572,7 @@ The source principle:
 This is useful when interpreting the apparent size of a wound.
 
 ---
-
-## 1.24 Concealed punctured wounds
-
+### 1.24 Concealed punctured wounds
 Puncture/stab wounds may be hidden in anatomical sites such as:
 
 - Axilla
@@ -740,15 +581,11 @@ Puncture/stab wounds may be hidden in anatomical sites such as:
 - Nape of neck
 
 Such wounds may be **missed on routine inspection**.
-
-### Examination pearl
-
+#### Examination pearl
 > **Always inspect concealed and skin-fold regions in a suspected penetrating injury.**
 
 ---
-
-## 1.25 Determining depth of a stab wound
-
+### 1.25 Determining depth of a stab wound
 The source emphasizes:
 
 > **Do not blindly probe a stab wound.**
@@ -761,23 +598,15 @@ Reason:
 The source recommends assessment of wound depth/trajectory in the **operating room or by appropriate controlled examination**, rather than blind bedside probing.
 
 ---
-
-# 1.26 Manner of stab wounds
-
-### Homicidal
-
+### 1.26 Manner of stab wounds
+#### Homicidal
 - The source describes **single stab wounds** as common.
 - **Overkill** = multiple wounds, traditionally associated with excessive force/rage in the notes.
-
-### Accidental
-
+#### Accidental
 Example:
 - Falling onto a protruding object.
-
-### Suicidal
-
-#### Harakiri / Seppuku
-
+#### Suicidal
+##### Harakiri / Seppuku
 - Historical form of ritual self-stabbing of the abdomen, traditionally associated with Japan.
 - The source describes an **L-shaped abdominal incision** extending from the left iliac fossa toward the right iliac fossa/right hypochondrial region.
 - Evisceration may occur.
@@ -794,32 +623,23 @@ Circulatory collapse
    ↓
 Death
 ```
-
-#### Jigai
-
+##### Jigai
 The source describes a historical suicidal practice in Japanese women involving cutting the **jugular veins of the neck with a short knife**.
 
 > **Historical note:** These terms are retained because they appear in the PDF and are examinable as historical forensic terminology.
 
 ---
-
-# 1.27 Chop wound
-
-## Definition
-
+## 6. Chop wound
+### Definition
 Produced by a **heavy sharp-edged weapon** such as an axe — essentially a **blunt + sharp** type of injury.
-
-## Features
-
+### Features
 - Deep wound
 - Gaping
 - Relatively regular margins
 - Adjacent **bruising**
 - Crushing of structures in the floor
 - May produce **fracture of underlying bone**
-
-### Heel and toe
-
+#### Heel and toe
 The source illustrates variable depth:
 
 - **Heel** → deeper
@@ -828,9 +648,7 @@ The source illustrates variable depth:
 This can help infer:
 - Direction of force
 - Relative position of assailant and victim
-
 ### Manner
-
 The PDF teaches that chop wounds are:
 - **Usually homicidal**
 - May be accidental
@@ -839,31 +657,21 @@ The PDF teaches that chop wounds are:
 > Interpret manner from the complete case rather than wound morphology alone.
 
 ---
-
-# 1.28 Defence injuries
-
-## Definition
-
+## 7. Defence injuries
+### Definition
 Injuries sustained during an attempt by the victim to defend themselves.
-
-### Active defence injuries
-
+#### Active defence injuries
 Occur while **grasping or attempting to hold the weapon**.
-
 Common sites:
 - Palms
 - Fingers
 - Web spaces
-
-### Passive defence injuries
-
+#### Passive defence injuries
 Occur while trying to **protect vital areas**, especially the face.
 
 The source highlights:
 - **Ulnar margin of forearm**
-
-### Important caveat
-
+#### Important caveat
 Absence of defence injuries **does not exclude homicide**.
 
 They may be absent when:
@@ -872,9 +680,7 @@ They may be absent when:
 - Victim cannot react
 
 ---
-
-# 1.29 Fabricated / fictitious injuries
-
+## 8. Fabricated / fictitious injuries
 Also called in the source:
 - Fabricated injury
 - Fictitious wound
@@ -890,9 +696,7 @@ The source notes:
 - May have superficial burns
 - Clothing may remain intact
 - The stated history may not correlate with the physical findings
-
 ### Site
-
 | Type | Typical site |
 |---|---|
 | Self-inflicted | Usually accessible parts |
@@ -900,32 +704,19 @@ The source notes:
 
 ---
 
-# 2. Regional Injuries — Head and Intracranial Hemorrhage
-
-## 2.1 Head injury
-
+# 2. Regional Injuries
+## Head injury
 ### Closed vs open head injury
-
 | Type | Source definition |
 |---|---|
 | **Closed head injury** | Dura remains intact |
 | **Open head injury** | Dura is torn |
-
 ### Skull fractures
-
-May be:
-
 - **Direct** — trauma directly to the head.
 - **Indirect** — force transmitted through another body part, e.g. through the vertebral column.
-
----
-
-# 2.2 Skull vault fractures
-
-## 1. Fissure (linear) fracture
-
+### Skull vault fractures
+#### 1. Fissure (linear) fracture
 The PDF describes this as a common skull fracture.
-
 Typical mechanism:
 - Heavy weapon
 - Broad striking surface
@@ -938,9 +729,7 @@ Appearance:
 - **Thin linear fracture line**
 
 ---
-
-## 2. Depressed fracture
-
+#### 2. Depressed fracture
 The source describes this as a common skull fracture.
 
 Typical mechanism:
@@ -953,38 +742,25 @@ Example:
 Features:
 - Skull fragment(s) are displaced **inwards**
 - Fracture may reflect the striking surface
-
-### “Signature fracture” / “fracture à la signature”
-
+#### “Signature fracture” / “fracture à la signature”
 The source states that the depressed fracture may reproduce the shape of the striking surface and therefore is called a **signature fracture**.
-
-### Complications
-
+#### Complications
 - Brain injury
 - Associated intracranial damage
-
-### Management given in source
-
+#### Management given in source
 - Brain injury present → **surgical elevation of the depressed segment**
 - Brain injury absent → **conservative management**
 
 > Clinical management of an actual depressed skull fracture is case-dependent and follows neurosurgical assessment and imaging.
 
 ---
-
-## 3. Comminuted fracture
-
-Features:
-
+#### 3. Comminuted fracture
 - Multiple fracture lines
 - Multiple fracture fragments/segments
 - Can result from repeated blows
 - May occur as a complication of fissure or depressed fractures
 
----
-
-## 4. Sutural / diastatic fracture
-
+#### 4. Sutural / diastatic fracture
 Features:
 - **Separation of sutures**
 - May have a mosaic/spider-web appearance when multiple fracture lines are present
@@ -993,18 +769,12 @@ The source notes:
 - More relevant in younger people
 - Sutures become fused/less mobile with age
 
----
-
-## 5. Pond / indented / “ping-pong ball” fracture
-
-### Pond fracture
-
+#### 5. Pond / indented / “ping-pong ball” fracture
+#### Pond fracture
 Indented/depressed appearance without the classic fracture configuration.
 
 The source specifically distinguishes:
-
-### Ping-pong ball fracture
-
+#### Ping-pong ball fracture
 - Usually in **infants/young children**, described up to around **4 years** in the PDF.
 - Skull is soft, elastic and pliable.
 - A **dent** may be present without a complete fracture line.
@@ -1012,18 +782,14 @@ The source specifically distinguishes:
 - The source mentions association with **obstetric forceps**.
 
 ---
-
-## 6. Gutter fracture
-
+#### 6. Gutter fracture
 Produced by an **oblique/glancing bullet**.
 
 Mechanism:
 - Bullet impacts tangentially/obliquely
 - Grooves the skull
 - Produces a **gutter-like defect**
-
-### Types in the PDF
-
+#### Types in the PDF
 | Type | Involvement |
 |---|---|
 | **Type I** | Outer table only |
@@ -1031,33 +797,23 @@ Mechanism:
 | **Type III** | Bullet briefly enters cranial cavity and exits; a “keyhole” defect may occur |
 
 ---
-
-# 2.3 Skull-base fractures
-
-## 1. Ring fracture
-
+### Skull-base fractures
+#### 1. Ring fracture
 Mechanism described in the PDF:
-
 - Fall from height landing on **feet or buttocks**
 - Heavy object falling on the head
 - Force transmitted along the **vertebral column**
 
 Site:
 - Around the **foramen magnum**
-
----
-
-## 2. Hinge fracture
-
+#### 2. Hinge fracture
 A fracture of the skull base, traditionally associated with impact-related bending of the skull base.
 
 The source describes:
 - Fracture lines across the cranial base
 - Often involving the **middle cranial fossa**
 - A line may pass from one petrous temporal bone to the other through the region of the **sella turcica**
-
-### Types given in the PDF
-
+##### Types given in the PDF
 **Type I — “Motor cyclist's fracture”**
 - Line extends from one temporal region to the other.
 - “Nodding face sign” is described — abnormal mobility of the skull base.
@@ -1069,17 +825,12 @@ The source describes:
 - Involves mainly the anterior cranial fossa in the PDF scheme.
 
 ---
-
-# 2.4 Puppe's rule
-
+### 2.4 Puppe's rule
 ### Principle
-
 When repeated blows produce multiple skull fractures:
 
 > A **newer fracture line tends to terminate at an older fracture line rather than crossing it.**
-
 ### Forensic significance
-
 Useful in assessing the **sequence of repeated blows** to the skull.
 
 ```text
@@ -1092,17 +843,13 @@ New fracture ───────┘
 > **Interpretation:** This is a forensic sequencing principle and must be applied with the full fracture pattern and scene context.
 
 ---
-
-# 2.5 Clinical clues to cranial-fossa fractures
-
-| Cranial fossa | Features emphasized in PDF |
-|---|---|
-| **Anterior cranial fossa** | CSF rhinorrhoea, epistaxis, paraesthesia at nasal tip, black eye |
-| **Middle cranial fossa** | CSF otorrhoea, bleeding from ear, Battle sign, facial nerve palsy, occasional CSF rhinorrhoea |
-| **Posterior cranial fossa** | Boggy swelling over nape of neck |
-
-### CSF leak
-
+### 2.5 Clinical clues to cranial-fossa fractures
+| Cranial fossa               | Features emphasized in PDF                                                                    | Region involved          |
+| --------------------------- | --------------------------------------------------------------------------------------------- | ------------------------ |
+| **Anterior cranial fossa**  | CSF rhinorrhoea, epistaxis, paraesthesia at nasal tip, black eye                              | Mostly face (nose + eye) |
+| **Middle cranial fossa**    | CSF otorrhoea, bleeding from ear, Battle sign, facial nerve palsy, occasional CSF rhinorrhoea | Mostly Ear               |
+| **Posterior cranial fossa** | Boggy swelling over nape of neck                                                              | neck                     |
+#### CSF leak
 The source lists:
 - **Halo sign**
 - Glucose
@@ -1112,19 +859,12 @@ The source lists:
 > **Current practical note:** β2-transferrin is a highly specific laboratory marker used for confirmation of CSF in appropriate clinical settings. A “halo sign” alone is not definitive.
 
 ---
-
-# 2.6 Coup and contrecoup injury
-
-## Coup injury
-
+## Coup and contrecoup injury
+### Coup injury
 **Injury at the site of impact.**
-
-## Contrecoup injury
-
+### Contrecoup injury
 **Injury opposite to the site of impact.**
-
-### Classic example in the PDF
-
+#### Classic example in the PDF
 ```text
 Occipital impact
       ↓
@@ -1139,8 +879,9 @@ The source emphasizes:
 - Contrecoup injuries are common where the brain moves within the skull.
 - Frontal and temporal lobes are especially vulnerable because the skull-base surfaces beneath them are relatively rough/irregular.
 
-### Struck-hoop / vacuum theory
-
+>[!warning] Exam Trap
+>If injury occurs on temporal side, the contrecoup injury will not occur on opposite temporal side. Injury will occur in the same hemisphere on opposite side, i.e., near falx cerebri.
+#### Struck-hoop / vacuum theory
 The PDF refers to the **struck-hoop (vacuum) theory** as an explanation for contrecoup injury:
 
 - Impact on one side of the skull
@@ -1150,12 +891,8 @@ The PDF refers to the **struck-hoop (vacuum) theory** as an explanation for cont
 > This is a historical explanatory model retained because it appears in the source.
 
 ---
-
-# 2.7 Intracranial haemorrhage (ICH)
-
-## Anatomical arrangement
-
-The PDF presents the meningeal spaces from the brain outward:
+## Intracranial haemorrhage (ICH)
+### Anatomical arrangement
 
 ```text
 Brain
@@ -1172,23 +909,15 @@ Epidural (extradural) space
   ↓
 Skull
 ```
-
 ### Main types
-
 | Haemorrhage | Location | Main source of bleeding in PDF |
 |---|---|---|
 | **Epidural / extradural haemorrhage (EDH)** | Skull ↔ dura | Middle meningeal artery |
 | **Subdural haemorrhage (SDH)** | Dura ↔ arachnoid | Bridging veins |
 | **Subarachnoid haemorrhage (SAH)** | Arachnoid ↔ pia/subarachnoid space | Circle of Willis arterial circulation |
 
----
-
-# 2.8 Epidural haemorrhage (EDH)
-
-## Pathophysiology
-
-The classic sequence in the PDF is:
-
+### 2.8 Epidural haemorrhage (EDH)
+#### Pathophysiology
 ```text
 Blow to temporoparietal region (pterion)
         ↓
@@ -1204,18 +933,19 @@ Raised intracranial pressure/herniation
         ↓
 Unconsciousness → death
 ```
-
-### Source associations
-
+#### Source associations
 - Often linked to **young adults**
 - Common site: **pterion/temporoparietal region**
 - Classically associated with **middle meningeal artery**
 - Usually a relatively **localized** collection
 
-### Lucid interval
-
-A classical EDH presentation:
-
+#### Clinical features
+- Lucid interval
+- Dilated/fixed pupil with **ipsilateral third-nerve compression**
+- Contralateral hemiparesis
+- Progressive brain compression
+- Possible uncal herniation
+##### Lucid interval
 ```text
 Initial unconsciousness
       ↓
@@ -1228,90 +958,54 @@ Progressive deterioration
 Unconsciousness
 ```
 
-The PDF defines the lucid interval as a period of consciousness between episodes of unconsciousness.
+>[!info] Lucid Interval:
+>  Period of **consciousness** between episodes of unconsciousness.
+##### Kernohan's notch phenomenon
 
-### Clinical features
-
-- Lucid interval
-- Dilated/fixed pupil with **ipsilateral third-nerve compression**
-- Contralateral hemiparesis
-- Progressive brain compression
-- Possible uncal herniation
-
-### Kernohan's notch phenomenon
-
-The PDF describes:
-
-```text
-Expanding intracranial haematoma
-        ↓
-Uncal herniation
-        ↓
-Compression of cerebral peduncle
-        ↓
-Kernohan's notch phenomenon
-```
+>[!info]- What is Kernohan's notch phenomenon?
+>Normally, a large mass on one side of the brain pushes the medial temporal lobe downward. This can compress the ipsilateral cerebral peduncle against the tentorial edge, producing weakness on the opposite side of the body.
+>In Kernohan’s notch phenomenon, however, the brainstem is displaced so far that the contralateral cerebral peduncle gets pressed against the tentorial edge. Because corticospinal fibers in the cerebral peduncle have not yet crossed, injury to this contralateral peduncle causes weakness on the same side as the original brain lesion.
 
 Classically this can cause:
 - **Ipsilateral hemiparesis**
 - With ipsilateral dilated pupil in the setting of uncal herniation
-
-### CT appearance
-
+#### CT appearance
 - **Biconvex / lentiform** hyperdense collection
 - Classically **does not cross sutures**
-
-### Management in source
-
+#### Management in source
 - **Surgical evacuation** of clot
 - Craniotomy / burr hole in appropriate cases
-
-### “35 mL” figure
-
+#### “35 mL” figure
 The source notes that about **35 mL of blood** can be enough to produce clinical features.
 
 > **Current correction:** Do not treat a single volume threshold as universal; clinical impact depends on location, rate of bleeding, intracranial compliance and associated injury.
 
 ---
-
-# 2.9 Subdural haemorrhage (SDH)
-
-## Source of bleeding
-
+### 2.9 Subdural haemorrhage (SDH)
+#### Source of bleeding
 - **Bridging veins**
-
-## Mechanism
-
+#### Mechanism
 Typically associated with:
 - **Acceleration–deceleration trauma**
 - Violent shaking of the head
-
-### Special populations
-
-#### Children
-
+#### Special populations
+##### Children
 The source links violent shaking with:
 - **Shaken baby syndrome / abusive head trauma**
-
-#### Elderly
-
+##### Elderly
 More vulnerable because:
 - Age-related **cerebral/cortical atrophy**
 - Increased subdural space
 - Stretching and reduced support of bridging veins
 
 ---
-
-## Classification by symptom onset in the PDF
-
+#### Classification by symptom onset in the PDF
 | Type | Time from injury in source |
 |---|---|
 | **Acute SDH** | Symptoms within 3 days |
 | **Subacute SDH** | ~3 days to 3 weeks |
 | **Chronic SDH** | >3 weeks |
-
-### Clinical features
-
+#### Clinical features
 - Headache
 - Altered sensorium
 - Hemiparesis
@@ -1319,19 +1013,13 @@ More vulnerable because:
 - Personality/behavioural changes
 
 The source notes that a **lucid interval can occur in acute SDH**, though less characteristically than in classic EDH.
-
-### CT appearance
-
+#### CT appearance
 - **Crescentic / concavo-convex** extra-axial collection
 - **Crosses sutures**
-
-### Management in source
-
+#### Management in source
 - Conservative treatment in selected cases
 - Surgical evacuation when indicated
-
-### Exam mnemonic in the PDF
-
+#### Exam mnemonic in the PDF
 **A–B–C**
 
 - **A**ged/alcoholic
@@ -1341,15 +1029,10 @@ The source notes that a **lucid interval can occur in acute SDH**, though less c
 The source also mentions boxers and “punch-drunk”/dementia pugilistica in the association list.
 
 ---
-
-# 2.10 Subarachnoid haemorrhage (SAH)
-
-## Source of bleeding
-
+### 2.10 Subarachnoid haemorrhage (SAH)
+#### Source of bleeding
 The source notes the **Circle of Willis**.
-
-## Causes — mnemonic “BATS”
-
+#### Causes — mnemonic “BATS”
 - **B**erry aneurysm
 - **A**V malformation
 - **T**rauma
@@ -1358,9 +1041,7 @@ The source notes the **Circle of Willis**.
 SAH may therefore be:
 - Traumatic
 - Spontaneous
-
-### Clinical features
-
+#### Clinical features
 - Sudden severe headache
 - “Thunderclap” headache
 - Nausea/vomiting
@@ -1368,9 +1049,7 @@ SAH may therefore be:
 - Drowsiness
 - Loss of consciousness
 - Focal neurological deficits
-
-### Investigation
-
+#### Investigation
 **CT:**
 - Hyperdense blood
 - Often especially evident around the **base of the brain**
@@ -1378,15 +1057,11 @@ SAH may therefore be:
 **Lumbar puncture:**
 - **Xanthochromia**
 - The source notes it may become more prominent after approximately **4–6 hours**
-
-### Treatment in source
-
+#### Treatment in source
 For aneurysmal SAH:
 - **Clipping**
 - **Endovascular coiling**
-
-### Autopsy distinction in source
-
+#### Autopsy distinction in source
 The PDF gives a water-washing teaching maneuver:
 
 - If blood **washes away** → interpreted as SDH in the source.
@@ -1395,9 +1070,7 @@ The PDF gives a water-washing teaching maneuver:
 > **Caution:** Modern forensic examination should not rely on a single gross washing test in isolation; proper anatomical inspection and documentation are required.
 
 ---
-
-# 2.11 EDH vs SDH vs SAH — high-yield table
-
+### 2.11 EDH vs SDH vs SAH — high-yield table
 | Feature | EDH | SDH | SAH |
 |---|---|---|---|
 | Space | Skull–dura | Dura–arachnoid | Arachnoid/subarachnoid |
@@ -1408,40 +1081,67 @@ The PDF gives a water-washing teaching maneuver:
 | Classic association | Lucid interval | Elderly, child abuse | Thunderclap headache |
 | Key exam clue | Pterion/MMA | Bridging veins | Circle of Willis |
 
----
+## Other regional Injuries
+### 7.25 Injury to heart — stab wound
+The PDF highlights:
 
+- In penetrating cardiac injury, the **right ventricle** is described as the most commonly injured chamber in stab injury.
+
+The source also states:
+
+> A chamber with a thinner wall may bleed more, because a thicker wall may partially seal the defect.
+
+The teaching note therefore says:
+- Right ventricular stab injury may be more fatal than left ventricular stab injury in some situations.
+
+> **Clinical caveat:** Actual survival depends on wound location, size, pericardial tamponade, coronary/valvular injury, associated injuries and speed of treatment.
+
+---
+### 7.26 Cardiac tamponade
+The source gives **Beck's triad**:
+
+- **Elevated JVP**
+- **Muffled heart sounds**
+- **Hypotension**
+
+This is classic for cardiac tamponade, although the complete triad may not always be present.
+
+---
+### 7.27 Abdominal blunt trauma — spleen
+The source states:
+- **Spleen** is a common organ injured in blunt abdominal trauma.
+- The PDF/OCR contains the phrase **“alphabetical lacerations”**, but this terminology is not reliably reconstructable from the source image.
+
+> **[unclear]** The exact intended term/description for the splenic laceration pattern could not be established confidently; no replacement term is fabricated.
+
+---
+### 7.28 Spinal cord / cervical spine
+The source identifies:
+- **Cervical spine** as a commonly injured spinal region.
+- Severe cervical spinal injury can be highly fatal due to cord and respiratory compromise.
+
+---
 # 3. Thermal Injuries
-
-# 3.1 Cold injury vs heat injury
-
-| Type | Local effects | General effects |
-|---|---|---|
-| **Cold injury** | Dry cold → frostbite; moist cold → trench/immersion foot | Hypothermia |
-| **Heat injury** | Dry heat → burns; moist heat → scalds | Heat cramps, heat syncope, heat stroke |
+## 3.1 Cold injury vs heat injury
+| Type            | Local effects                                                | General effects                        |
+| --------------- | ------------------------------------------------------------ | -------------------------------------- |
+| **Cold injury** | Dry cold → frostbite; <br>moist cold → trench/immersion foot | Hypothermia                            |
+| **Heat injury** | Dry heat → burns; <br>moist heat → scalds                    | Heat cramps, heat syncope, heat stroke |
 
 ---
-
-# 3.2 Hypothermia
-
-## Definition in the PDF
-
+## 3.2 Hypothermia
+### Definition in the PDF
 Core body temperature **<35°C**.
-
-### Temperature measurement sites mentioned
-
+#### Temperature measurement sites mentioned
 - **Rectum** — about 5 cm internally
 - **Oesophagus** — about 24 cm internally
-
-### Predisposed groups
-
+#### Predisposed groups
 - Elderly
 - Neonates
 - Alcohol-dependent persons
 
 ---
-
-## 3.3 Classification of hypothermia in the PDF
-
+### 3.3 Classification of hypothermia in the PDF
 | Severity | Core temperature | Features in source |
 |---|---:|---|
 | Mild | 35–32°C | Shivering |
@@ -1449,15 +1149,11 @@ Core body temperature **<35°C**.
 | Severe | <28°C | Coma, suspended animation, paradoxical undressing, terminal burrowing |
 
 The source states that **shivering stops** in severe hypothermia when thermoregulatory mechanisms fail.
-
-### ECG
-
+#### ECG
 The source mentions **J waves (Osborn waves)** in significant hypothermia.
 
 ---
-
-# 3.4 Paradoxical undressing
-
+### 3.4 Paradoxical undressing
 Severe hypothermia can lead to:
 
 ```text
@@ -1471,9 +1167,7 @@ Victim feels unexpectedly warm
    ↓
 Undressing
 ```
-
-### Medicolegal importance
-
+#### Medicolegal importance
 A person may be found:
 - Naked
 - In an apparently strange state
@@ -1481,17 +1175,13 @@ A person may be found:
 This may **mimic sexual assault or homicide** if the phenomenon is not recognized.
 
 ---
-
-# 3.5 Terminal burrowing / hide-and-die syndrome
-
+### 3.5 Terminal burrowing / hide-and-die syndrome
 The PDF describes a terminal behaviour in which an extremely cold victim may:
 
 - Experience altered behaviour/hallucination
 - Hide/burrow
 - Die in the concealed location
-
-### Medicolegal significance
-
+#### Medicolegal significance
 A hidden body may initially suggest:
 - Homicidal concealment
 - Suspicious circumstances
@@ -1499,9 +1189,7 @@ A hidden body may initially suggest:
 but can occur as part of severe hypothermia.
 
 ---
-
-# 3.6 Suspended animation / apparent death
-
+### 3.6 Suspended animation / apparent death
 The source warns that severe hypothermia can mimic death.
 
 Therefore:
@@ -1509,9 +1197,7 @@ Therefore:
 > **Do not certify death prematurely in a profoundly hypothermic patient without appropriate assessment.**
 
 ---
-
-# 3.7 Management of severe hypothermia
-
+### 3.7 Management of severe hypothermia
 The source lists:
 
 - Active/passive rewarming
@@ -1522,40 +1208,29 @@ The source lists:
 > **Clinical note:** Modern resuscitation and rewarming should be guided by established emergency/critical-care protocols rather than a memorized single endpoint alone.
 
 ---
-
-# 3.8 Autopsy findings in hypothermia
-
+### 3.8 Autopsy findings in hypothermia
 The PDF lists:
 
 - **“White death”** — deaths due to hypothermia
 - **Pink hypostasis** — attributed in the notes to increased oxygen content
 - **Fat necrosis in pancreas**
 - **Wischnewsky spots** — hemorrhagic erosions/spots in gastric mucosa
-
-### Examination pearl
-
+#### Examination pearl
 > **Wischnewsky spots → classical association with hypothermia.**
 
 These findings are not individually pathognomonic and must be interpreted with circumstances and other findings.
 
 ---
-
-# 3.9 Frostbite
-
-## Definition
-
+## 3.9 Frostbite
+### Definition
 Freezing injury to tissue due to formation of **ice crystals** at temperatures below freezing.
-
 ### Stages in source
-
 #### Stage 1 — Frost nip
 - Reversible
 - **Pallor**
-
 #### Stage 2 — Superficial frostbite
 - Anaesthesia
 - Erythema
-
 #### Stage 3 — Deep frostbite
 - Oedema
 - Painless blisters due to tissue/nerve injury
@@ -1565,9 +1240,7 @@ Freezing injury to tissue due to formation of **ice crystals** at temperatures b
   - Nose
 
 ---
-
-# 3.10 Trench foot / immersion foot
-
+## 3.10 Trench foot / immersion foot
 Produced by:
 - Prolonged immersion of the foot in water
 - The PDF gives approximately **5–8°C** as the relevant cold-water range.
@@ -1575,17 +1248,12 @@ Produced by:
 This is a **moist-cold injury**.
 
 ---
-
-# 3.11 Heat-related syndromes
-
-## Heat cramps
-
+## 3.11 Heat-related syndromes
+### Heat cramps
 Also called in the source:
 - Miner's cramps
 - Fireman's cramps
-
-### Mechanism
-
+#### Mechanism
 ```text
 Heat exposure
    ↓
@@ -1595,16 +1263,12 @@ Electrolyte (especially Na+) loss
    ↓
 Muscle cramps
 ```
-
-### Treatment in source
-
+#### Treatment in source
 - Replenish fluid/electrolyte stores
 - ORS
 
 ---
-
-## 3.12 Heat syncope
-
+### 3.12 Heat syncope
 Mechanism in the PDF:
 
 ```text
@@ -1622,23 +1286,15 @@ Syncope
 The source notes that hypothalamic function remains normal in heat cramps/syncope.
 
 ---
-
-# 3.13 Heat stroke
-
+### 3.13 Heat stroke
 The source divides heat stroke into:
-
-### Classical heat stroke
-
+#### Classical heat stroke
 - More typical of **elderly persons**
 - Associated with environmental heat exposure
-
-### Exertional heat stroke
-
+#### Exertional heat stroke
 - Seen particularly in **young adults**
 - Associated with strenuous activity
-
-### Features emphasized in the PDF
-
+#### Features emphasized in the PDF
 - Core body temperature **>40.5°C** in the teaching notes
 - **CNS dysfunction**
 - Skin may be hot
@@ -1651,58 +1307,42 @@ The source mentions:
 - Hyponatraemia
 - Hyperkalaemia
 - Rhabdomyolysis
-
-### Treatment
-
+#### Treatment
 **Rapid cooling**, including:
 - Evaporative cooling
 - Immersion cooling
-
-### Autopsy finding
-
+#### Autopsy finding
 - **Postmortem caloricity**
 
 > **Current clinical note:** Heat stroke is a medical emergency. The presence or absence of sweating is not sufficient to exclude exertional heat stroke.
 
 ---
-
-# 3.14 Burns
-
-## Broad classification by source
-
+## 3.14 Burns
+### Broad classification by source
 - **Dry heat (fire)** → burns
 - **Moist heat (hot liquids/steam)** → scalds
-
-The PDF mentions:
+### Classification of burns by depth
 - Dupuytren classification
 - Wilson classification
 - Modern classification
+#### Modern Classification
 
-The detailed depth framework shown in the source is effectively a **four-degree/depth system**.
-
----
-
-# 3.15 Classification of burns by depth
-
-| Degree/depth in PDF | Structures involved | Appearance/features |
-|---|---|---|
-| **1st degree / superficial thickness** | Epidermis | Erythema; painful |
-| **2nd degree / superficial partial thickness** | Epidermis + superficial dermis (to papillary dermis) | Blisters; pain; blanching |
-| **3rd degree / deep/full thickness** | Epidermis + complete dermis | Eschar/charred appearance; reduced pain |
-| **4th degree / deep** | Through skin into deeper tissues: fascia, fat, muscle, sometimes bone | Charred/black appearance; often severe/fatal |
-
-### Pain
-
+| Degree/depth in PDF                            | Structures involved                                                   | Appearance/features                          | Scaring | Spontaneous Healing |
+| ---------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------- | ------- | ------------------- |
+| **1st degree / superficial thickness**         | Epidermis                                                             | Erythema; very painful;Blanching             | never   | 1 week              |
+| **2nd degree / superficial partial thickness** | Epidermis + superficial dermis (to papillary dermis)                  | Erythema + Blisters; pain; blanching         | Rare    | 1 to 3 weeks        |
+| **2nd degree / deep partial thickness**        | Epidermis + complete dermis                                           | Blisters; Pin Prick pain                     | +       | 3 weeks             |
+| **3rd Degree/Full Thickness**                  | Epidermis + Dermis + Dermal appendages                                | Black/Charred appearance; No pain            | Eschar  | Never               |
+| **4th degree / deep**                          | Through skin into deeper tissues: fascia, fat, muscle, sometimes bone | Charred/black appearance; often severe/fatal | Eschar  | Never               |
+|                                                |                                                                       |                                              |         |                     |
+#### Pain
 The source's diagram indicates:
 - Superficial burns → painful
 - Deep burns → progressively less pain because nerve endings are destroyed
 
 ---
-
-# 3.16 Estimation of total burn surface area (TBSA)
-
-## Wallace rule of nines
-
+### 3.16 Estimation of total burn surface area (TBSA)
+#### Wallace rule of nines
 For an adult, the PDF gives the classic distribution:
 
 | Body region | % |
@@ -1713,9 +1353,7 @@ For an adult, the PDF gives the classic distribution:
 | Each lower limb | 18% |
 | Genitalia/perineum | 1% |
 | Total | 100% |
-
-### Local values listed in the source
-
+#### Local values listed in the source
 - Face (front) → 3.5%
 - Front of neck → 1%
 - Forearm, front + back → 3%
@@ -1729,9 +1367,7 @@ For an adult, the PDF gives the classic distribution:
 > **Clinical note:** Adult rule-of-nines approximations are not the preferred precise method in small children; age-adjusted charts such as the Lund–Browder chart are commonly used clinically.
 
 ---
-
-# 3.17 Factors determining severity of a burn
-
+### 3.17 Factors determining severity of a burn
 The source emphasizes that:
 - Increasing temperature increases tissue damage.
 - Longer contact allows greater heat transfer.
@@ -1742,76 +1378,51 @@ The PDF includes a historical teaching statement that a fire exposure around **4
 > **Correction:** Do not use that single figure as a universal clinical threshold. Burn injury depends on temperature, contact duration, tissue characteristics, pressure, moisture and other factors.
 
 ---
-
-# 3.18 Causes of death in burns
-
+### 3.18 Causes of death in burns
 The source organizes deaths by timing.
-
-### Immediate / instantaneous or very early
-
+#### Immediate / instantaneous or very early
 - Laryngeal stridor due to smoke inhalation/airway injury
 - Carbon monoxide poisoning
 - Neurogenic shock
-
-### Early
-
+#### Early
 - **Hypovolaemic shock**
-
-### Later
-
+#### Later
 - Acute renal failure
 - **Sepsis/septicaemia**
-
-### High-yield
-
-> **Early major cause of death → hypovolaemic shock**  
+#### High-yield
+> **Early major cause of death → hypovolaemic shock**
 > **Late major cause of death → septic/sepsis-related shock**
 
 ---
-
-# 3.19 Antemortem vs postmortem burns
-
-## Medicolegal purpose
-
+### 3.19 Antemortem vs postmortem burns
+#### Medicolegal purpose
 To determine whether the victim:
 - Was **alive when the fire started**
 - Or was already dead before exposure to fire
-
-### Important point
-
+#### Important point
 Heat may produce **artefacts that mimic injuries**. Therefore, an apparent heat-induced wound is not automatically an antemortem traumatic wound.
 
 ---
-
-# 3.20 Heat artefacts
-
+### 3.20 Heat artefacts
 The PDF emphasizes that some findings are **nonspecific** and may occur whether the victim was alive or dead.
-
-## 1. Heat stiffening
-
+#### 1. Heat stiffening
 - Occurs when muscle is exposed to significant heat
 - The source gives **>65°C**
 - Related to protein coagulation
 
 Produces a rigid posture.
-
-## 2. Heat rupture
-
+#### 2. Heat rupture
 Also called in the source:
 - Pugilistic attitude/position
 - Defence position
 - Boxer’s position
 - Fencer’s position
-
-### Mechanism
-
+##### Mechanism
 - Heat induces muscle contraction
 - Flexor muscles bulkier than extensors
 - Generalized flexion develops
 - Drying can split skin, especially over extensor surfaces
-
-### Medicolegal pitfall
-
+##### Medicolegal pitfall
 Heat rupture may mimic:
 - Laceration
 - Incised wound
@@ -1823,10 +1434,8 @@ The PDF describes:
 - No true vital reaction
 
 ---
-
-## 3. Heat haematoma
-
-The PDF describes a heat-induced extradural collection that may mimic traumatic EDH.
+#### 3. Heat haematoma
+A heat-induced extradural collection that may mimic traumatic EDH.
 
 Proposed mechanism:
 - Head exposed to intense heat
@@ -1842,9 +1451,7 @@ Features in the source:
 > **Important distinction:** traumatic EDH has a different pathogenesis and should be interpreted in anatomical context.
 
 ---
-
-## 4. Heat fracture
-
+#### 4. Heat fracture
 Prolonged/intense heat can fracture bone.
 
 The source describes:
@@ -1853,11 +1460,9 @@ The source describes:
 
 These heat fractures can mimic traumatic fractures.
 
----
-
-# 3.21 Antemortem burn signs
-
-The PDF mnemonic is **FIRE**:
+### Antemortem burn Findings
+#### 1. Burn Wound Characteristics
+mnemonic is **FIRE**:
 
 - **F** — Fluid in blisters
 - **I** — Inflammatory reaction
@@ -1867,9 +1472,7 @@ The PDF mnemonic is **FIRE**:
 The source also mentions:
 - Granulation tissue as evidence of healing
 - Redness/erythema around burns
-
-### “Crow's feet” sign
-
+#### 2. “Crow's feet” sign
 The source describes relative sparing of the **skin creases near the outer canthus/around the eye** when the eyelids were forcibly closed.
 
 The figure emphasizes:
@@ -1877,11 +1480,8 @@ The figure emphasizes:
 - Skin-crease sparing may become apparent
 
 ---
-
-# 3.22 Burn blisters
-
-### Antemortem blister
-
+#### 3. Burn blisters
+##### Antemortem blister
 Source:
 - Reddish/erythematous base
 - Inflammatory response
@@ -1889,77 +1489,50 @@ Source:
 - Protein + chloride content
 
 This supports vitality but should be interpreted with the full examination.
-
-### Postmortem blister
-
+##### Postmortem blister
 Source:
 - Pale/completely pale base
 - Gas/air bubble
 - No true inflammatory reaction
 
 ---
-
-# 3.23 Smoke inhalation and soot
-
-The PDF notes:
+### Internal Findings in antemortem burn
+#### 1. Smoke inhalation and soot
 - **Soot/carbon particles** may be found in the airways.
 - The source describes deposition extending toward **terminal bronchioles**.
-
-### Important exceptions/limitations
-
+##### Important exceptions/limitationxs
 The source notes airway soot may be absent when:
 - The victim was **hospitalized for several days** before death.
 - The person died before substantial inhalation.
 - Fire occurred in an open environment and soot dispersed.
 
 ---
-
-# 3.24 Carbon monoxide in burn deaths
-
+#### 2. Carbon monoxide in burn deaths
 The source mentions **carboxyhaemoglobin (COHb)**.
 
 The PDF OCR showed `10g%`, but the figure/context strongly indicate **10%**.
-
-### Source teaching point
-
+##### Source teaching point
 - COHb **>10%** is mentioned as supportive in the source, with the note to consider smoking as a confounder.
 
 > **Current correction:** COHb concentration should be interpreted with the timing of sampling, supplemental oxygen and clinical circumstances. A single value is not by itself a complete test of whether a person was alive during the fire.
 
 ---
+#### 3. Cyanide in fire victims
+#### 4. Curling Ulcer 
+Type of Stress Ulcer
+Develops if the patient was alive for 3-10 days after burn.
 
-# 3.25 Cyanide in fire victims
-
-The PDF mentions cyanide in blood and a relationship to survival after a burn.
-
-The exact wording/number in the source is not sufficiently reliable from the OCR to reconstruct as a precise quantitative forensic rule.
-
-> **Status:** `[not reliably extractable as a quantitative rule]`
-
-Do not memorize a numerical threshold from this note without consulting a current toxicology reference.
-
----
-
-# 3.26 Other burn-related forensic terms
-
-### Rope burn
-
+### Other burn-related forensic terms
+#### Rope burn
 - Abrasion around the neck due to **friction from a rope**.
-
-### Necklacing burn
-
+#### Necklacing burn
 The source describes a form of homicidal burning in which a tyre is placed around the victim's neck and ignited.
-
-### “Puppet organs”
-
+#### “Puppet organs”
 The source uses this term for **black/charred internal organs**.
 
 ---
-
-# 3.27 Scalds
-
-## Types
-
+## 3.27 Scalds
+### Types
 1. **Immersion scald**
    - Produced by hot liquid immersion
    - The source specifically associates it with **child abuse**.
@@ -1971,25 +1544,20 @@ The source uses this term for **black/charred internal organs**.
    - Moist heat from steam.
 
 ---
-
-## 3.28 Burns vs scalds
-
-| Feature | Burns | Scalds |
-|---|---|---|
-| Cause | Dry heat/flame | Moist heat: hot liquid/steam |
-| Charring | Common in intense flame injury | Usually absent |
-| Singeing | May occur | Absent |
-| Soddening/wet clothing | Not characteristic | May be present |
-| Blister pattern | Present according to depth | Present according to depth |
-| Splashing | Not typical | May be prominent |
-| Level of contact | Flames tend to travel upward | Liquid tends to flow downward |
+### 3.28 Burns vs scalds
+| Feature                    | Burns                          | Scalds                        |
+| -------------------------- | ------------------------------ | ----------------------------- |
+| Cause                      | Dry heat/flame                 | Moist heat: hot liquid/steam  |
+| ==Charring==               | Common in intense flame injury | Usually absent                |
+| Singeing                   | May occur                      | Absent                        |
+| ==Soddening==/wet clothing | Not characteristic             | May be present                |
+| ==Blister== pattern        | Present according to depth     | Present according to depth    |
+| Splashing                  | Not typical                    | May be prominent              |
+| Level of contact           | Flames tend to travel upward   | Liquid tends to flow downward |
 
 ---
-
-# 4. Ballistics — Proximal Ballistics
-
+# 4. Proximal Ballistics
 ## 4.1 Definition
-
 **Ballistics** = science dealing with the motion of a projectile/bullet.
 
 **Forensic ballistics** = examination/investigation of firearms, ammunition and firearm injuries/evidence.
@@ -1997,24 +1565,18 @@ The source uses this term for **black/charred internal organs**.
 The PDF credits **Calvin Goddard** as the “Father of forensic ballistics.”
 
 ---
-
-# 4.2 Types of ballistics
-
+## 4.2 Types of ballistics
 | Type | Also called | Main subject |
 |---|---|---|
 | **Proximal ballistics** | Internal ballistics | Events/structure within the firearm |
 | **Intermediate ballistics** | External ballistics | Projectile movement after leaving the firearm and before impact |
 | **Terminal ballistics** | Wound ballistics | Effects of the projectile on the target |
-
 ### Velocity terminology
-
 - **Muzzle velocity** → velocity at which the projectile leaves the firearm.
 - **Impact velocity** → velocity when the projectile strikes the target.
 
 ---
-
-# 4.3 Main firearm parts
-
+## 4.3 Main firearm parts
 The source diagram labels:
 
 - Stock/handle
@@ -2027,19 +1589,13 @@ The source diagram labels:
 - Chamber
 - Barrel
 - Muzzle
-
 ### Bore
-
 The PDF defines the **bore** as the internal diameter of the barrel near the muzzle.
-
 ### Taper
-
 A **constricted/transitional portion** where the chamber connects to the barrel.
 
 ---
-
-# 4.4 Basic firing sequence
-
+## 4.4 Basic firing sequence
 The source diagram illustrates:
 
 ```text
@@ -2059,51 +1615,34 @@ Projectile exits muzzle
 ```
 
 ---
-
-# 4.5 Firearm classification
-
-## A. By number of barrels
-
+## 4.5 Firearm classification
+### A. By number of barrels
 - Single barrel
 - Double barrel
 - Multi-barrel
-
-## B. By loading mechanism
-
-### Muzzle-loading
+### B. By loading mechanism
+#### Muzzle-loading
 - Loaded from the front/muzzle.
-
-### Breech-loading
+#### Breech-loading
 - Loaded through the breech.
 - The source notes this is the **common modern arrangement**.
-
-## C. By action / firing cycle
-
-### Single-shot
+### C. By action / firing cycle
+#### Single-shot
 - Fresh cartridge must be loaded after firing.
-
-### Repeating
+#### Repeating
 - Successive cartridges can be fired without manually reloading each time.
-
-### Pistol
+#### Pistol
 - Usually uses a magazine with multiple cartridges.
-
-### Revolver
+#### Revolver
 - Has a **rotating cylinder with multiple chambers**.
-
-### Semiautomatic firearm
-
+#### Semiautomatic firearm
 - Each trigger pull fires one round.
 - Ejection of the spent case and loading of a fresh cartridge occurs automatically.
-
-### Automatic firearm
-
+#### Automatic firearm
 - One continuous trigger pull can result in repeated automatic firing/loading while the firing cycle is maintained.
 
 ---
-
-# 4.6 Action types
-
+## 4.6 Action types
 The source lists:
 - Lever action
 - Bolt action
@@ -2112,9 +1651,7 @@ The source lists:
 These describe the mechanism used to **cycle/eject/load** cartridges.
 
 ---
-
-# 4.7 Rifled vs smooth-bore firearms
-
+### 4.7 Rifled vs smooth-bore firearms
 | Feature | Rifled firearm | Smooth-bore firearm |
 |---|---|---|
 | Barrel interior | Lands + grooves | Smooth |
@@ -2125,9 +1662,7 @@ These describe the mechanism used to **cycle/eject/load** cartridges.
 | Example | Rifle | Shotgun |
 
 ---
-
-# 4.8 Rifling
-
+## 4.8 Rifling
 **Rifling** = spiral grooves cut into the inner surface of the barrel.
 
 Purpose:
@@ -2138,59 +1673,38 @@ Purpose:
 The source mentions creation by:
 - Broach cutter
 - Hook cutter
-
 ### Forensic importance
-
 Rifling produces characteristic microscopic markings on bullets that can later be compared.
 
 ---
-
-# 4.9 Choking of a shotgun
-
+## Choking of a shotgun
 The distal **5–7 cm** of the smooth-bore barrel may be constricted to reduce pellet dispersion.
-
 ### Grades
-
 From greatest dispersion to least:
-
 1. Unchoked
 2. Quarter choke
 3. Half choke
 4. Full choke
-
 ### Paradox gun
-
 The source defines a paradox gun as:
-- Smooth-bore component
-- Rifled component
+- Smooth-bore component + Rifled component
 
----
-
-# 4.10 Calibre and gauge
-
+## 4.10 Calibre and gauge
 ### Calibre
-
 For a rifled firearm:
 - Related to the diameter across the bore/lands.
-
 ### Gauge
-
 For a smooth-bore shotgun:
 - Based historically on the number of spherical lead balls of bore diameter that can be made from one pound of lead.
-
 ### Important relation
-
 > **Lower shotgun gauge number → larger bore.**
 
 Example from the source:
 - 12 gauge is larger than 24 gauge.
 
 ---
-
-# 4.11 Ammunition
-
-## Shotgun cartridge
-
+## 4.11 Ammunition
+### Shotgun cartridge
 Main components:
 
 ```text
@@ -2206,14 +1720,10 @@ Shot/pellets
 The source describes the cartridge as typically:
 - Cardboard body
 - Metal base
-
-### Primer cup
-
+#### Primer cup
 - Shock/impact sensitive
 - Initiates ignition of propellant
-
-### Wad
-
+#### Wad
 Functions:
 - Separates propellant from shot
 - Acts as a piston
@@ -2228,9 +1738,7 @@ Types/materials mentioned:
 - Plastic
 
 ---
-
-# 4.12 Rifle cartridge
-
+## 4.12 Rifle cartridge
 The source describes a rifle cartridge as containing:
 - Single bullet
 - Primer
@@ -2240,11 +1748,8 @@ The source describes a rifle cartridge as containing:
 A **cannelure** is a groove/constriction on a bullet used for retention/crimping.
 
 ---
-
-# 4.13 Propellants
-
-## Black gunpowder
-
+## 4.13 Propellants
+### Black gunpowder
 The source lists:
 
 - Potassium nitrate — **75%**
@@ -2257,27 +1762,18 @@ Mnemonic in the source:
 Characteristics in source:
 - Less energy
 - More smoke
-
-## Smokeless powder
-
+### Smokeless powder
 More energetic and produces less smoke in the source.
-
-### Single-base
+#### Single-base
 - Nitrocellulose
-
-### Double-base
+#### Double-base
 - Nitrocellulose + nitroglycerin
-
-### Triple-base
+#### Triple-base
 - Nitrocellulose + nitroglycerin + nitroguanidine
-
-## Semi-smokeless powder
-
+### Semi-smokeless powder
 The PDF describes:
 - **Black gunpowder + smokeless powder**
-
-### Fineness
-
+#### Fineness
 The source gives:
 - FG
 - FFG
@@ -2288,9 +1784,7 @@ Increasing number → **finer powder**.
 > **Note:** The exact energy figures printed in the source are retained only as source values and should not be treated as universal performance specifications.
 
 ---
-
-# 4.14 Primer composition in the source
-
+## 4.14 Primer composition in the source
 The PDF lists:
 
 - Barium nitrate
@@ -2302,9 +1796,7 @@ The PDF lists:
 These are presented as primer-related chemical components in the teaching notes.
 
 ---
-
-# 4.15 Shot types
-
+## 4.15 Shot types
 | Type | Composition/description in PDF |
 |---|---|
 | Soft shot | Lead only |
@@ -2316,161 +1808,101 @@ These are presented as primer-related chemical components in the teaching notes.
 | Rifle slug | Single projectile |
 
 ---
-
-# 4.16 Bullet types
-
-## Non-jacketed bullet
-
+## 4.16 Bullet types
+### Non-jacketed bullet
 - Lead bullet without a jacket.
-
-## Jacketed bullet
-
+### Jacketed bullet
 - Metal jacket (e.g. copper/nickel) around lead core.
-
-## Fully jacketed bullet
-
+### Fully jacketed bullet
 The source states high penetration.
-
-## Semi-jacketed / dum-dum type
-
+### Semi-jacketed / dum-dum type
 - Deforms/mushrooms on impact.
-
-## Hollow-point bullet
-
+### Hollow-point bullet
 - Deforms on impact.
-
-## Powdered-iron / frangible bullet
-
+### Powdered-iron / frangible bullet
 - Designed to fragment.
 - Source states limited penetration.
-
-## Tracer bullet
-
+### Tracer bullet
 - Source notes a glowing/base component used to help trace trajectory.
-
-## Incendiary bullet
-
+### Incendiary bullet
 - Source attributes ignition on impact to phosphorus at the tip.
-
-## Explosive bullet
-
+### Explosive bullet
 - Source describes it as exploding on impact.
-
-## Plastic bullet
-
+### Plastic bullet
 - Source states PVC/plastic construction.
-
-## Poisoned bullet
-
+### Poisoned bullet
 - Source describes a toxic agent being slowly delivered from the bullet.
-
-## Tandem/duplex cartridge
-
+### Tandem/duplex cartridge
 - Two bullets arranged back-to-back in one cartridge.
 
 ---
-
-# 5. Ballistics — Intermediate and Terminal Ballistics
-
-# 5.1 Discharges from a rifle
-
+# 5. Intermediate and Terminal Ballistics
+## Rifle
+### 5.1 Discharges from a rifle
 On firing, the source describes four major outputs:
-
 1. **Flame**
-   - Burning/charring of skin
-   - Singeing of hair
-
+	- Burning/charring of skin
+	- Singeing of hair
 2. **Smoke**
-   - Blackening/smudging
-
+	- Blackening/smudging
 3. **Partially burnt/unburnt powder**
-   - Produces tattooing/stippling
-
+	- Produces tattooing/stippling
 4. **Bullet**
-   - Produces the primary wound
+	- Produces the primary wound
 
 ---
-
-# 5.2 Components around a rifle entry wound
-
-## Grease collar / bullet wipe
-
+### 5.2 Components around a rifle entry wound
+#### Grease collar / bullet wipe
 - Deposition of **grease/lubricant and material** around the wound margin.
 - The source calls this:
-  - Grease collar
-  - Dirt collar
-  - Bullet wipe
-
-## Abrasion collar
-
+	- Grease collar
+	- Dirt collar
+	- Bullet wipe
+#### Abrasion collar
 - Ring around the bullet entry wound due to the bullet scraping/stretching the skin.
 
 The source notes it may be absent in some sites such as:
 - Buttock
 - Abdomen
-
-## Blackening/smudging
-
+#### Blackening/smudging
 - Smoke deposition
 - Can be wiped off relatively easily from the skin.
-
-## Tattooing / stippling / peppering
-
+#### Tattooing / stippling / peppering
 - Unburnt or partially burnt powder particles strike/implant in the skin.
 - **Cannot be wiped away** when embedded in the skin.
 
 ---
-
-# 5.3 Forensic importance of range determination
-
-The pattern of:
-- Flame
-- Smoke
-- Powder
-- Abrasion collar
-- Grease collar
-
+### 5.3 Forensic importance of range determination
+- The pattern of:
+	- Flame
+	- Smoke
+	- Powder
+	- Abrasion collar
+	- Grease collar
 can help estimate the **range of fire**.
-
-### Rifle range classification in the source
-
+#### Rifle range classification in the source
 1. Contact shot
 2. Close shot
 3. Near shot
 4. Intermediate shot
 5. Distant shot
 
-The PDF figure gives approximate ranges and effects, but these distances are **weapon/ammunition-specific rather than universal constants**.
-
----
-
-# 5.4 Rifle entry-wound range table from the PDF
-
-The source table records:
-
-| Finding | Close | Near | Intermediate | Distant |
-|---|:---:|:---:|:---:|:---:|
-| Entry wound | + | + | + | + |
-| Grease collar | + | + | + | + |
-| Abrasion collar | + | + | + | + |
-| Burning | + | − | − | − |
-| Blackening | + | + | − | − |
-| Tattooing | + | + | + | + |
-
-### Interpretation
-
+| Finding                                            |                   Close                   |                   Near                    |               Intermediate                | Distant |
+| -------------------------------------------------- | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: | :-----: |
+| Entry wound                                        |                     +                     |                     +                     |                     +                     |    +    |
+| Grease collar                                      |                     +                     |                     +                     |                     +                     |    +    |
+| Abrasion collar                                    |                     +                     |                     +                     |                     +                     |    +    |
+| <mark style="background:#d3f8b6">Burning</mark>    | <mark style="background:#d3f8b6">+</mark> |                     −                     |                     −                     |    −    |
+| <mark style="background:#d3f8b6">Blackening</mark> | <mark style="background:#d3f8b6">+</mark> | <mark style="background:#d3f8b6">+</mark> |                     −                     |    −    |
+| <mark style="background:#d3f8b6">Tattooing</mark>  | <mark style="background:#d3f8b6">+</mark> | <mark style="background:#d3f8b6">+</mark> | <mark style="background:#d3f8b6">+</mark> |    –    |
+#### Interpretation
 - **Burning** is most closely associated with close/contact-range fire.
 - **Blackening** reflects smoke deposition and is lost with increasing distance.
 - **Tattooing** reflects powder particle deposition and may persist farther than visible smoke/flame effects.
 - A wound itself does **not** prove range; the complete residue pattern must be interpreted.
 
 ---
-
-# 5.5 Tight contact shot on scalp
-
-The source diagram explains:
-
-```text
+#### 5.5 Tight contact shot on scalp
 Muzzle in tight contact with scalp
         ↓
 Hot gases enter between skin and skull
@@ -2479,46 +1911,54 @@ Gas expands
         ↓
 Skin ruptures
         ↓
-Stellate / cruciate entry wound
-```
+<mark style="background:#fdbfff">Stellate / cruciate entry wound</mark>
 
 This is especially relevant over a **bony surface such as the scalp**.
 
 ---
-
-# 5.6 Blackening, burning and tattooing
-
-### Burning
-Due to the thermal component of the discharge.
-
-### Blackening
-Due to smoke/soot.
-
+#### 5.6 Blackening, burning and tattooing
+**Burning**: Due to the thermal component of the discharge.
+**Blackening**: Due to smoke/soot.
 - Can be partially removed by wiping.
-
-### Tattooing / stippling
-Due to particulate powder embedding in skin.
-
+**Tattooing / stippling**: Due to particulate powder embedding in skin.
 - Persists despite wiping.
 
----
 
-# 5.7 Shotgun ballistics
+### Entry vs exit wound
 
-## Projectile
+| Feature                 | Entry                         | Exit               |
+| ----------------------- | ----------------------------- | ------------------ |
+| ==Margins==             | ==Inverted==                  | ==Everted==        |
+| Burning                 | May be present in close shots | Usually absent     |
+| Blackening              | May be present                | Absent             |
+| Tattooing               | May be present                | Absent             |
+| Abrasion collar         | Usually present               | ==Usually== absent |
+| Grease collar           | May be present                | ==Usually== absent |
+| Size                    | Usually smaller               | Often larger       |
+| ==Bleeding/spattering== | ==Often less==                | ==May be more==    |
 
+> **Important exception:** A supported or “shored” exit wound may mimic an entry wound.
+
+#### Shored/supported exit wound
+The source describes:
+- The skin is supported by another object.
+- The bullet encounters resistance while exiting.
+- Skin can be crushed between the bullet and the supporting surface.
+- An **abrasion ring** may form.
+
+This can make the exit wound resemble an entry wound.
+
+## Shotgun ballistics
+### Projectile
 - **Multiple lead pellets/shots**
-
-## Wad
-
+#### Wad
 The source states:
 - Wad may travel approximately **2–5 m**
 - At some distances it may cause a minor contusion
 - Usually does not itself account for the fatal penetrating pellet pattern
 
 ---
-
-## Shotgun range table from the PDF
+### Shotgun range table
 
 | Range | Approximate distance in source |
 |---|---:|
@@ -2527,115 +1967,60 @@ The source states:
 | Near | 1–2 m |
 | Intermediate | 2–4 m |
 | Distant | >4 m |
-
-### Pellet dispersion in the source
-
+#### Pellet dispersion in the source
 - Begins at about **2 m**
 - Complete by about **4 m**
 
 > **Critical correction:** Pellet dispersion is strongly dependent on firearm, choke, ammunition and environment. The numbers above are **source-specific teaching values**, not universal forensic constants.
 
 ---
-
-# 5.8 Shotgun entry-wound patterns
-
-### Contact shot
-
+### Shotgun entry-wound patterns
+#### Contact shot
 - Pellets enter as one mass.
 - On bony prominence, the wound may become **stellate or cruciate**.
 - All pellets may enter together.
-
-### Close shot
-
+#### Close shot
 - Pellets still enter predominantly as one mass.
 - Burning, blackening and tattooing may be present.
-
-### Near shot
-
+#### Near shot
 - Central single hole may still be present.
 - Pellets enter as a single mass.
 - No marked peripheral pellet dispersion.
-
-### Intermediate shot
-
+#### Intermediate shot
 - Pellet dispersion begins.
 - **Satellite pellet holes** appear around the central wound.
-
-### Distant shot
-
+#### Distant shot
 - Each pellet may make an **independent hole**.
 - Complete dispersion.
 
 ---
-
-# 5.9 Exit wound
-
+### Exit wound
 The source notes that an exit wound is **usually absent in shotgun injuries**, but may occur with:
-
 - Contact shot
 - Thin body parts
 - Tangential/oblique shots
 
-### Entry vs exit wound — generic rifle teaching pattern
-
-| Feature | Entry | Exit |
-|---|---|---|
-| Margins | Inverted | Everted |
-| Burning | May be present in close shots | Usually absent |
-| Blackening | May be present | Absent |
-| Tattooing | May be present | Absent |
-| Abrasion collar | Usually present | Usually absent |
-| Grease collar | May be present | Usually absent |
-| Size | Usually smaller | Often larger |
-| Bleeding/spattering | Often less | May be more |
-
-> **Important exception:** A supported or “shored” exit wound may mimic an entry wound.
-
 ---
-
-# 5.10 Shored/supported exit wound
-
-The source describes:
-
-- The skin is supported by another object.
-- The bullet encounters resistance while exiting.
-- Skin can be crushed between the bullet and the supporting surface.
-- An **abrasion ring** may form.
-
-This can make the exit wound resemble an entry wound.
-
----
-
-# 5.11 Back spatter
-
+## Back spatter
 The source notes **back spatter** as blood/tissue sucked or driven toward the firearm/barrel in appropriate contact-shooting circumstances.
 
 > Interpretive findings such as blood spatter must be integrated with the overall scene, weapon and wound examination.
 
 ---
-
-# 5.12 Skull bevelling in firearm wounds
-
+## Skull bevelling in firearm wounds
 When examining a gunshot defect in the skull:
-
-### Entry
-
+**Entry**
 - **Internal beveling** of the skull table
-
-### Exit
-
+**Exit**
 - **External beveling** of the skull table
-
+![[IMG_1142.webp|400]]
 This can help distinguish:
 - Entry from exit
 - Direction of the bullet
 
 ---
-
-# 5.13 Firearm investigation
-
-## Crime bullet vs test bullet
-
+## Firearm investigation
+### Crime bullet vs test bullet
 The source describes:
 
 ```text
@@ -2651,11 +2036,8 @@ Assess whether markings are consistent
 ```
 
 ---
-
-# 5.14 Rifling marks on bullets
-
-### Primary markings
-
+### 5.14 Rifling marks on bullets
+#### Primary markings
 The source calls these:
 - **Class characteristics**
 
@@ -2664,9 +2046,7 @@ They are related to the rifling pattern shared by firearms of the same model/mak
 Can indicate:
 - General firearm type
 - Make/model
-
-### Secondary markings
-
+#### Secondary markings
 Produced by individual characteristics such as:
 - Wear and tear
 - Barrel irregularities
@@ -2674,25 +2054,18 @@ Produced by individual characteristics such as:
 - Metallic fouling
 
 These can vary from firearm to firearm and may be highly discriminative.
-
-### Comparison microscopy
-
+#### Comparison microscopy
 - Test bullet is compared with the crime bullet.
 - Microscopic striations/marks are assessed.
-
-### Handling recovered bullets
-
+#### Handling recovered bullets
 The source instructs:
 - Avoid introducing new marks.
 - Use **rubber-tipped forceps or gloves** where appropriate.
 - Preserve existing markings.
 
 ---
-
-# 5.15 Current forensic practice — gunshot residue (GSR)
-
-## Source-PDF teaching
-
+### 5.15 Current forensic practice — gunshot residue (GSR)
+#### Source-PDF teaching
 The PDF lists:
 - Gunshot residue test
 - Harrison–Gilroy test
@@ -2703,9 +2076,7 @@ The PDF lists:
 - SEM-EDXA
 
 The PDF says sampling should ideally occur **within 3 hours**.
-
-### Current verification
-
+#### Current verification
 Modern forensic standards emphasize validated **SEM/EDS (SEM-EDX)** approaches for primer gunshot residue and standardized evidence collection/interpretation. Older chemical tests listed in the notes are primarily of historical/examination importance.
 
 Also, **pGSR on a person does not by itself prove that the person fired the weapon**. It may reflect:
@@ -2720,9 +2091,7 @@ See current standards:
 - NIST/OSAC **ANSI/ASTM E3345-26** — interpretation of primer GSR analysis.
 
 ---
-
-# 5.16 Collection of GSR from hands
-
+### 5.16 Collection of GSR from hands
 The source figure highlights:
 - Dorsal hand
 - Palmar hand
@@ -2730,17 +2099,12 @@ The source figure highlights:
 - Areas around the thumb/index region
 
 Current practice commonly uses **adhesive lifts/stubs** rather than older “wet swab only” approaches.
-
-### Clothing
-
+#### Clothing
 The PDF mentions **infrared photography** for demonstrating residue on clothing.
 
 ---
-
-# 5.17 Atypical ballistics
-
-## 1. Tandem bullet / duplex / piggy-back bullet
-
+## Atypical ballistics
+### 1. Tandem bullet / duplex / piggy-back bullet
 Two bullets travel together.
 
 The source describes:
@@ -2749,27 +2113,19 @@ The source describes:
 - Subsequent firing → two bullets may emerge together
 
 ---
-
-## 2. Yawning bullet
-
+### 2. Yawning bullet
 - Bullet travels with an **irregular trajectory/orientation** rather than a stable linear presentation.
 - May create an atypical wound.
 
 ---
-
-## 3. Tumbling bullet
-
+### 3. Tumbling bullet
 - Bullet rotates end-over-end or becomes unstable.
 - May create an unusually shaped entry wound.
 
 ---
-
-## 4. Ricochet bullet
-
+### 4. Ricochet bullet
 Bullet is deflected after striking an intermediate object.
-
-### Source value
-
+#### Source value
 - Ricocheting/deflection angle: approximately **10–30°** in the notes.
 
 After ricochet, the source describes:
@@ -2782,56 +2138,39 @@ After ricochet, the source describes:
 > Treat these as **traditional teaching features**, not guaranteed effects of every ricochet.
 
 ---
-
-## 5. Souvenir / sleeping bullet
-
+### 5. Souvenir / sleeping bullet
 - Retained bullet within the body
 - Fibrosis may form around it
 
 The source notes possible **plumbism (lead toxicity)** due to retained lead.
 
 ---
-
-# 5.18 Atypical phenomena
-
+## Atypical phenomena
 ### Kennedy phenomenon
-
 The source describes this as:
 - **Iatrogenic alteration of a wound**, making wound interpretation difficult.
 
 The remainder of the line in the scanned page is incomplete/unclear.
 
 **Status:** `[unclear beyond the definition above]`
-
 ### Rayalaseema phenomenon
-
 The source describes:
 - **Insertion of a bullet into a stab wound**, producing a misleading forensic appearance.
-
 ### Balling/welding of shotgun pellets
-
 The source describes a situation in which pellets become **welded/ballled together**, causing a distant-range-appearing pattern despite a different actual range.
-
 ### Billiard-ball ricochet effect
-
 An intermediate object may alter:
 - Pellet direction
 - Dispersion pattern
 
 The source illustrates a **billiard-ball ricochet** mechanism.
-
 ### Krönlein shot
-
 The PDF associates this with a **contact gunshot to the skull**, where expanding gases cause sudden expulsion of brain tissue.
 
 ---
-
-# 6. Electrical, Lightning, Explosion and Torture Injuries
-
-# 6.1 Electrocution
-
-## Basic principle
-
+# 6. Electrical Injuries, Explosion Injuries and Torture Methods
+## 6.1 Electrocution
+### Basic principle
 Electrical injury depends heavily on:
 
 - Current (amperage)
@@ -2844,27 +2183,21 @@ Electrical injury depends heavily on:
 - Skin condition
 
 The source emphasizes **amperage** as an important determinant of lethality.
-
-### AC vs DC
-
+#### AC vs DC
 The PDF states:
 - **Alternating current (AC) is much more dangerous than DC**, giving a teaching approximation of about 5-fold.
 
 > **Current correction:** There is no single universally valid “5×” danger ratio. The physiological effects of AC vs DC depend on waveform, frequency, current, path and duration. AC is particularly important because repetitive stimulation can cause sustained muscle contraction and impaired release.
 
 ---
-
-# 6.2 Approximate current effects in the PDF
-
+### 6.2 Approximate current effects in the PDF
 | Current | Effect listed in source |
 |---|---|
 | ~5 mA | Tingling/numbness |
 | ~10 mA | “Let-go” ability in average person |
 | ~20 mA | Tetanic spasm / “hold-on” spasm |
 | ~25–80 mA | Arrhythmias and death |
-
-### Current correction
-
+#### Current correction
 These values are **approximate teaching thresholds**, not universal cut-offs. Published human data show substantial inter-individual variation.
 
 A review cited for contemporary context gives approximate values such as:
@@ -2877,9 +2210,7 @@ Therefore:
 > **Current + duration + pathway + resistance + frequency matter together.**
 
 ---
-
-# 6.3 Resistance and conductivity
-
+### 6.3 Resistance and conductivity
 The skin is the **major initial barrier** to current entry.
 
 The source gives the following qualitative relationship:
@@ -2890,15 +2221,11 @@ Bone      > resistance
 Moist skin < resistance
 Body fluids/blood → relatively good conductors
 ```
-
-### Key principle
-
+#### Key principle
 Lower resistance → greater current for a given voltage → potentially greater tissue injury.
 
 ---
-
-# 6.4 Completion of circuit
-
+### 6.4 Completion of circuit
 Electrocution generally requires:
 - Entry of current
 - Passage through the body
@@ -2909,35 +2236,26 @@ The source states:
 > **Current must exit for the circuit to be complete.**
 
 ---
-
-# 6.5 Electrical entry and exit marks
-
-### Entry mark
-
+### 6.5 Electrical entry and exit marks
+#### Entry mark
 - Site where current enters.
 
 May be absent or inconspicuous when:
 - Contact area is broad
 - Resistance is low
 - Current density is low
-
-### Exit mark
-
+#### Exit mark
 - Site where current exits.
 - May be associated with tissue disruption/burn.
 
 ---
-
-# 6.6 Route of current and cardiac risk
-
+### 6.6 Route of current and cardiac risk
 The source highlights routes such as:
 
 - Right hand → right foot
 - Right hand → left foot
 - Hand-to-hand pathways
-
-### Most dangerous pathway
-
+#### Most dangerous pathway
 A current path **through the chest/heart** is especially dangerous because of the risk of:
 - Ventricular fibrillation
 - Cardiac arrest
@@ -2945,54 +2263,40 @@ A current path **through the chest/heart** is especially dangerous because of th
 The source identifies **ventricular fibrillation** as the most important cause of death in many electrocution cases.
 
 ---
-
-# 6.7 Causes of death in electrocution
-
+### 6.7 Causes of death in electrocution
 The source lists:
-
-### Cardiac
+#### Cardiac
 - Ventricular fibrillation
 - Other fatal arrhythmias
-
-### Respiratory
+#### Respiratory
 - Respiratory muscle paralysis
 - Brainstem effects
 - Respiratory depression
-
-### Other complications
+#### Other complications
 - Thermal tissue injury
 - Rhabdomyolysis
 - Secondary renal injury
 
 ---
-
-# 6.8 Low-voltage vs high-voltage burns
-
-## Low-voltage current
-
+### 6.8 Low-voltage vs high-voltage burns
+#### Low-voltage current
 The source shows:
 - **Joule burn**
 - Central depressed burn
 - Pale areola
 - Blistering may occur
-
-### Joule burn
-
+##### Joule burn
 Heat generated as electrical current passes through tissue.
 
 ---
-
-## High-voltage current
-
+#### High-voltage current
 The source emphasizes:
 - Flash burns
 - Spark burns
 - More extensive thermal tissue injury
 
 ---
-
-# 6.9 Metallization
-
+### 6.9 Metallization
 The source describes deposition of metallic ions from the conductor into the skin.
 
 Examples:
@@ -3006,42 +2310,30 @@ Examples:
 The source refers to a **micro-reaction** for identification.
 
 ---
-
-# 6.10 Keratin / conductor-contact phenomena
-
+### 6.10 Keratin / conductor-contact phenomena
 The PDF describes:
 - Keratin melting
 - Brownish keratin nodule
 - Pale surrounding areola
 
 ---
-
-# 6.11 “Crocodile burn” and “current pearl”
-
-### Crocodile burn
+### 6.11 “Crocodile burn” and “current pearl”
+#### Crocodile burn
 The source describes a characteristic pattern associated with severe electrical injury.
-
-### Current pearl
-
+#### Current pearl
 The source describes:
 - Molten metal deposited in deeper tissues.
-
-### Bone changes
-
+#### Bone changes
 The source refers to:
 - **Bone pearl / wax-dripping appearance**
 - Attributed to melting of calcium phosphate.
-
-### Muscle
-
+#### Muscle
 - **Zenker-like degeneration**
 - Rhabdomyolysis
 - Renal failure
 
 ---
-
-# 6.12 Medicolegal importance of electrocution
-
+### 6.12 Medicolegal importance of electrocution
 The source lists:
 
 - Accidental — **most common**
@@ -3049,11 +2341,8 @@ The source lists:
 - Suicidal
 
 ---
-
-# 6.13 Lightning injuries
-
-## Definition
-
+## 6.13 Lightning injuries
+#### Definition
 Lightning injury results from high-voltage atmospheric electrical discharge.
 
 The source refers to the study of lightning injury as:
@@ -3064,9 +2353,7 @@ The source refers to the study of lightning injury as:
 “Kerauno” = lightning.
 
 ---
-
-# 6.14 Mechanisms/types of lightning strike
-
+### 6.14 Mechanisms/types of lightning strike
 The PDF lists:
 
 - **Direct strike**
@@ -3079,19 +2366,13 @@ It also describes a **blast-like pressure effect**:
 - “Sledgehammer effect”
 
 ---
-
-# 6.15 Lightning burns
-
-## Endogenous patterns
-
-### Linear burns
+### 6.15 Lightning burns
+#### Endogenous patterns
+##### Linear burns
 - May follow **skin creases**.
-
-### Pitted burns
+##### Pitted burns
 - Depressed/pitted electrical-type injury.
-
-### Filigree / arborescent / Lichtenberg figures
-
+##### Filigree / arborescent / Lichtenberg figures
 Also called:
 - Fern pattern
 - Feathering
@@ -3103,15 +2384,11 @@ Features in source:
 - Not necessarily along blood vessels
 - May appear up to **48 hours**
 - Source says observed in around **20–30%** of patients
-
-### Current interpretation
-
+#### Current interpretation
 Lichtenberg figures are classically associated with lightning exposure but are generally **transient** and are not themselves proof of the exact mechanism of injury.
 
 ---
-
-# 6.16 Lightning — cause of death
-
+### 6.16 Lightning — cause of death
 The source emphasizes:
 - **Cardiac arrhythmias**
 
@@ -3121,22 +2398,15 @@ Other severe consequences may result from:
 - Secondary trauma from blast/displacement
 
 ---
-
-# 6.17 Explosion injuries
-
-## Bomb
-
+## 6.17 Explosion injuries
+#### Bomb
 The source defines a bomb as:
 - Container containing explosive material/projectiles
 - Initiated by detonator/fuse
-
-### Incendiary bomb
-
+##### Incendiary bomb
 - Contains material designed to produce fire.
 - The source gives **phosphorus** as an example.
-
-### Molotov cocktail / petrol bomb
-
+##### Molotov cocktail / petrol bomb
 The source describes:
 - Bottle filled with petrol
 - Rag as wick
@@ -3145,46 +2415,30 @@ The source describes:
 > This is retained as a historical forensic description from the source rather than a construction guide.
 
 ---
-
-# 6.18 Types of blasts
-
+### 6.18 Types of blasts
 The PDF describes:
-
-### Solid blast
-
+#### Solid blast
 Part of the body contacts a **solid vibrating surface**.
-
-### Immersion blast / underwater blast
-
+#### Immersion blast / underwater blast
 The source distinguishes injuries based on the relative position of the head and water level.
-
-### Air blast
-
+#### Air blast
 - Blast wave spreads through air.
 
 ---
-
-# 6.19 Blast injury classification
-
-## Primary blast injury
-
+### 6.19 Blast injury classification
+#### Primary blast injury
 Caused directly by the **blast wave**.
-
-### Ear
+##### Ear
 - **Tympanic membrane rupture** — classically one of the most common primary blast injuries.
-
-### Lung
+##### Lung
 - **Pulmonary blast injury**
 - ARDS-type respiratory injury
 - The source describes lung injury as one of the most serious/fatal primary blast injuries.
-
-### Gastrointestinal tract
+##### Gastrointestinal tract
 - Perforation/injury may occur.
 
 ---
-
-## Secondary blast injury
-
+#### Secondary blast injury
 Caused by:
 - Flying fragments
 - Missiles
@@ -3202,9 +2456,7 @@ The notes also mention a **“Marshall's triad”** association with abrasion + 
 > Terminology surrounding blast-injury “triads” varies across teaching resources; retain the PDF association for exam purposes but use standard clinical descriptions in practice.
 
 ---
-
-## Tertiary blast injury
-
+#### Tertiary blast injury
 Due to:
 - Blast wind
 - Displacement/throwing of victim
@@ -3214,9 +2466,7 @@ Can cause:
 - Blunt trauma
 
 ---
-
-## Quaternary blast injury
-
+#### Quaternary blast injury
 The source attributes this to:
 - Building collapse
 - Fire
@@ -3229,9 +2479,7 @@ May include:
 - Traumatic asphyxia
 
 ---
-
-# 6.20 Torture methods
-
+## 6.20 Torture methods
 The source lists the following historical/forensic terminology:
 
 | Method | Description in source |
@@ -3247,9 +2495,7 @@ The source lists the following historical/forensic terminology:
 | **Planton** | Prolonged standing |
 | **Black slave** | Insertion of a hot metal rod into the anus |
 | **Parrot's perch** | Limbs tied along a horizontal pole |
-
 ### Medicolegal importance
-
 Recognition of these terms can help:
 - Interpret patterned or unusual injuries
 - Correlate history with physical findings
@@ -3260,9 +2506,7 @@ Documentation should be objective and descriptive.
 ---
 
 # 7. Transportation Injuries
-
-# 7.1 Definition
-
+## Definition
 **Transportation injuries** = injuries resulting from accidents involving:
 
 - Road transport
@@ -3272,20 +2516,15 @@ Documentation should be objective and descriptive.
 The PDF section primarily focuses on **road traffic injuries**.
 
 ---
-
-# 7.2 Road traffic injuries
-
+## Road traffic injuries
 The source divides cases into:
 
 1. **Pedestrian injuries**
 2. **Vehicle-occupant injuries**
 
 ---
-
-# 7.3 Pedestrian injury — determinants
-
+## Pedestrian injury — determinants
 Severity/pattern depends on:
-
 - Site of impact
 - Type of vehicle
 - Vehicle speed
@@ -3295,81 +2534,52 @@ Severity/pattern depends on:
 The source references the **level of the sacrum** as related to the centre of gravity in an adult.
 
 ---
-
-# 7.4 Three impacts in a pedestrian struck by a vehicle
-
-### Primary impact
-
-First contact:
-```text
-Vehicle → pedestrian
-```
-
-Produces:
-- Primary impact injuries
-
-### Secondary impact
-
-Victim strikes:
-- Vehicle bonnet
-- Windshield
-- Other vehicle components
-
-### Tertiary impact
-
-Victim strikes:
-- Ground/road
-
-Can produce:
-- Head injury
-- Abrasions
-- Lacerations
-- Fractures
+### 7.4 Three impacts in a pedestrian struck by a vehicle
+1. **Primary impact**
+	First contact: Vehicle → pedestrian
+	Produces:
+	- Primary impact injuries
+2. **Secondary impact**
+	Victim strikes:
+		- Vehicle bonnet
+		- Windshield
+		- Other vehicle components
+3. **Tertiary impact**
+	Victim strikes:
+	- Ground/road
+	Can produce:
+	- Head injury
+	- Abrasions
+	- Lacerations
+	- Fractures
 
 ---
-
-# 7.5 Primary impact — bumper injuries
-
+#### 7.5 Primary impact — bumper injuries
 Typical injuries:
 - Abrasion
 - Contusion
 - Laceration
 - Internal haemorrhage
 - Fracture
-
 The lower limbs are commonly involved.
-
-The source gives:
 - **Tibial fracture** in adults
 - **Femoral fracture** in children
-
 The pattern depends on:
 - Pedestrian height
 - Vehicle height
-
----
-
-# 7.6 Bumper fracture
-
-### Forensic interpretation
-
+##### Bumper fracture
+###### Forensic interpretation
 Examine:
-
 1. **Side of impact**
-   - Helps infer direction of impact.
-
+	   - Helps infer direction of impact.
 2. **Height of injury**
-   - Gives an estimate of bumper height.
-
+	   - Gives an estimate of bumper height.
 3. **Shape of fracture**
-   - Often wedge/triangular.
-
-### Wedge fracture
-
+	   - Often wedge/triangular.
+###### Wedge fracture
 The source illustrates:
-
 - **Base of triangle** → side of impact
-- **Tip** → direction of the vehicle
+- **Tip** → direction of movement of the vehicle
 
 ```text
       Tip
@@ -3387,29 +2597,21 @@ Tip  → direction
 > This is a traditional forensic reconstruction principle and should be correlated with scene measurements and vehicle examination.
 
 ---
-
-# 7.7 Secondary impact injuries
-
+#### 7.7 Secondary impact injuries
 The source describes:
 - Victim thrown onto bonnet/windshield
 - Head injuries are common
-
-### Windshield injury
-
+##### Windshield injury
 Broken glass may produce:
 - Facial lacerations
 - Multiple cuts
-
-### Sparrow-foot injuries
-
+##### Sparrow-foot injuries
 The source associates a distinctive **multiple branching/cut-laceration pattern** with broken windshield glass.
 
 The pattern is described as resembling a **sparrow's foot**.
 
 ---
-
-# 7.8 Tertiary impact — ground
-
+#### 7.8 Tertiary impact — ground
 After being thrown from the vehicle, the victim hits the road.
 
 Typical injuries:
@@ -3419,9 +2621,7 @@ Typical injuries:
 - Fractures
 
 ---
-
-# 7.9 Run-over vs rolling injuries
-
+#### 7.9 Run-over vs rolling injuries
 | Feature | Run-over injury | Rolling-over injury |
 |---|---|---|
 | Vehicle | High-chassis vehicle in source | Low-chassis vehicle in source |
@@ -3430,9 +2630,7 @@ Typical injuries:
 | Typical findings | Tyre marks, crushing, avulsion/laceration, amputation | Circumferential injury patterns |
 
 ---
-
-# 7.10 Occupant injuries in a car
-
+## Occupant injuries in a car
 The source identifies several major mechanisms:
 
 - Sudden deceleration
@@ -3443,9 +2641,7 @@ The source identifies several major mechanisms:
 - Dashboard impact
 
 ---
-
-# 7.11 Sudden deceleration
-
+### Sudden deceleration
 High-speed travel followed by sudden stop creates severe **deceleration forces**.
 
 Potential injuries:
@@ -3456,9 +2652,7 @@ Potential injuries:
 - Head/neck injury
 
 ---
-
-# 7.12 Seat-belt injuries
-
+### Seat-belt injuries
 Possible findings:
 - **Seat-belt bruise**
 - Patterned bruising
@@ -3466,13 +2660,9 @@ Possible findings:
 - Flexion-distraction spinal injury
 
 ---
-
-# 7.13 Flexion-distraction injury / Chance fracture
-
+### Flexion-distraction injury / Chance fracture
 The source associates this with **lap-belt injury**.
-
-### Mechanism
-
+#### Mechanism
 ```text
 Sudden deceleration
        ↓
@@ -3482,27 +2672,19 @@ Flexion-distraction force
        ↓
 Transverse spinal fracture
 ```
-
-### Chance fracture
-
+#### Chance fracture
 - Transverse fracture pattern
 - Often involves thoracic/lumbar spine
 - Classically associated with flexion-distraction forces
 
 ---
-
-# 7.14 Dashboard injuries
-
+### Dashboard injuries
 The source describes sudden deceleration causing the knee to strike the dashboard.
-
-### Typical injuries
-
+#### Typical injuries
 - **Patellar fracture**
 - Posterior cruciate ligament injury/tear
 - **Posterior dislocation of the hip**
-
-### Mechanism
-
+#### Mechanism
 ```text
 Knee strikes dashboard
        ↓
@@ -3514,9 +2696,7 @@ Posterior hip dislocation
 ```
 
 ---
-
-# 7.15 Windshield injuries
-
+### Windshield injuries
 The source highlights:
 
 - Multiple facial cuts
@@ -3526,9 +2706,7 @@ The source highlights:
 Grease/other transfer may also be present depending on the vehicle surface.
 
 ---
-
-# 7.16 Steering-wheel injuries
-
+### Steering-wheel injuries
 The chest can strike the steering wheel.
 
 Possible injuries:
@@ -3539,13 +2717,9 @@ Possible injuries:
 - **Aortic injury**
 
 ---
-
-# 7.17 Aortic injury
-
+### Aortic injury
 The source emphasizes injury at the **aortic isthmus**.
-
-### Mechanism
-
+#### Mechanism
 ```text
 Rapid acceleration/deceleration
           ↓
@@ -3567,48 +2741,32 @@ The source also mentions:
 - “Ladder-rung” tears
 
 ---
-
-# 7.18 Neck injuries — whiplash
-
-## Mechanism
-
+### Neck injuries — whiplash
+#### Mechanism
 Acceleration–deceleration forces produce:
 - Neck hyperextension
 - Hyperflexion
 - Soft-tissue injury
 - Cervical spinal cord injury
 - C-spine fractures
-
-### Sudden acceleration
-
+#### Sudden acceleration
 Source:
 - **Hyperextension followed by hyperflexion**
-
-### Sudden deceleration
-
+#### Sudden deceleration
 Source:
 - **Hyperflexion followed by hyperextension**
 
 ---
-
-## 7.19 Ligament injuries in whiplash
-
-### Hyperextension
-
+#### 7.19 Ligament injuries in whiplash
+##### Hyperextension
 - Injury to **anterior longitudinal ligament**
-
-### Hyperflexion
-
+##### Hyperflexion
 - Injury to **nuchal ligament**
 
 ---
-
-# 7.20 Abdominal deceleration injury
-
+### 7.20 Abdominal deceleration injury
 The source identifies the **small intestine** as a common organ injured through mesenteric tearing.
-
-### Mechanism
-
+#### Mechanism
 ```text
 Sudden deceleration
        ↓
@@ -3628,9 +2786,7 @@ The source contrasts:
 > These dimensions are approximate educational values, not forensic diagnostic requirements.
 
 ---
-
-# 7.21 Driver vs front-seat passenger injury pattern
-
+### 7.21 Driver vs front-seat passenger injury pattern
 The PDF gives a schematic comparison involving:
 
 - Windshield
@@ -3645,9 +2801,7 @@ The PDF gives a schematic comparison involving:
 The exact symbols in the source table are not reliably machine-readable, so the **relationship rather than the icon-based scoring** is preserved.
 
 ---
-
-# 7.22 Waddell's triad
-
+### 7.22 Waddell's triad
 The source uses **Waddell's triad** in the context of a paediatric pedestrian hit by a car.
 
 The classic source association is:
@@ -3663,9 +2817,7 @@ The PDF describes these as:
 > **Important:** “Waddell’s triad” is a traditional forensic examination concept; real-world injury patterns depend on vehicle geometry and impact dynamics.
 
 ---
-
-# 7.23 Tailgating / underrunning
-
+### 7.23 Tailgating / underrunning
 The source describes **tailgating/under-running**:
 
 A following vehicle impacts the rear of a larger vehicle such that the front vehicle passes/over-runs the following vehicle.
@@ -3675,39 +2827,27 @@ The PDF associates this with:
 - **Decapitation** in extreme impacts
 
 ---
-
-# 7.24 Concussion injuries
-
+## Concussion injuries
 The source broadens “concussion” as a **transient, reversible functional disturbance**.
-
-## 1. Brain concussion
-
+#### 1. Brain concussion
 - Sudden blow to the head
 - Transient loss of consciousness
 - Amnesia
 - Also called **cerebral stunning**
-
-## 2. Concussion of the heart — commotio cordis
-
+#### 2. Concussion of the heart — commotio cordis
 - Blunt chest trauma
 - Sudden cardiac death
 - Classically associated with sports
-
-### Mechanism in simplified terms
-
+#### Mechanism in simplified terms
 A precisely timed chest impact during a vulnerable phase of cardiac repolarization can precipitate ventricular fibrillation.
-
-## 3. Concussion of the spinal cord
-
+#### 3. Concussion of the spinal cord
 Also referred to in the PDF as **railway spine**.
 
 - Violent spinal impact
 - Functional neurological disturbance
 - Weakness of limbs
 - Temporary bowel/bladder dysfunction may occur in the source description
-
-## 4. Concussion of retina
-
+#### 4. Concussion of retina
 Also called:
 - **Berlin's oedema** / Berlin's retinal whitening
 
@@ -3717,55 +2857,7 @@ Also called:
 
 ---
 
-# 7.25 Injury to heart — stab wound
-
-The PDF highlights:
-
-- In penetrating cardiac injury, the **right ventricle** is described as the most commonly injured chamber in stab injury.
-
-The source also states:
-
-> A chamber with a thinner wall may bleed more, because a thicker wall may partially seal the defect.
-
-The teaching note therefore says:
-- Right ventricular stab injury may be more fatal than left ventricular stab injury in some situations.
-
-> **Clinical caveat:** Actual survival depends on wound location, size, pericardial tamponade, coronary/valvular injury, associated injuries and speed of treatment.
-
----
-
-# 7.26 Cardiac tamponade
-
-The source gives **Beck's triad**:
-
-- **Elevated JVP**
-- **Muffled heart sounds**
-- **Hypotension**
-
-This is classic for cardiac tamponade, although the complete triad may not always be present.
-
----
-
-# 7.27 Abdominal blunt trauma — spleen
-
-The source states:
-- **Spleen** is a common organ injured in blunt abdominal trauma.
-- The PDF/OCR contains the phrase **“alphabetical lacerations”**, but this terminology is not reliably reconstructable from the source image.
-
-> **[unclear]** The exact intended term/description for the splenic laceration pattern could not be established confidently; no replacement term is fabricated.
-
----
-
-# 7.28 Spinal cord / cervical spine
-
-The source identifies:
-- **Cervical spine** as a commonly injured spinal region.
-- Severe cervical spinal injury can be highly fatal due to cord and respiratory compromise.
-
----
-
-# 7.29 Ewing's postulates
-
+## Ewing's postulates
 The final PDF page includes **Ewing's postulates**, describing a proposed relationship between trauma and subsequent tumour development.
 
 The source lists:
@@ -3779,11 +2871,9 @@ The source lists:
 > **Modern perspective:** These historical forensic postulates do not establish causation between trauma and cancer. They are retained here solely because they appear in the source notes.
 
 ---
-
-# 8. High-Yield Examination Tables
-
-## 8.1 Abrasion vs contusion vs laceration vs incised wound
-
+# Summary
+## 8. High-Yield Examination Tables
+### 8.1 Abrasion vs contusion vs laceration vs incised wound
 | Feature | Abrasion | Contusion | Laceration | Incised wound |
 |---|---|---|---|---|
 | Main force | Friction/pressure | Blunt | Blunt | Sharp |
@@ -3796,9 +2886,7 @@ The source lists:
 | Bleeding | Minimal | Tissue extravasation | Present | Often profuse |
 
 ---
-
-## 8.2 Incised vs stab wound
-
+### 8.2 Incised vs stab wound
 | Feature | Incised wound | Stab wound |
 |---|---|---|
 | Weapon | Sharp-edged | Pointed |
@@ -3809,22 +2897,30 @@ The source lists:
 | Key use | Direction from tailing | Weapon/trajectory interpretation |
 
 ---
-
-## 8.3 Laceration vs chop wound
-
-| Feature | Laceration | Chop wound |
-|---|---|---|
-| Instrument | Blunt | Heavy sharp-edged |
-| Margins | Irregular | Relatively regular |
-| Crushing | Marked | Can occur |
-| Tissue bridges | Present | Usually absent if truly sharp-dominant |
-| Bone fracture | Possible | Common |
-| Typical example | Split scalp wound | Axe wound |
+### 8.3 Laceration vs chop wound
+| Feature            | Laceration                                           | Chop wound                                 |
+| ------------------ | ---------------------------------------------------- | ------------------------------------------ |
+| Instrument         | Blunt (Blunt end of sharp object in chop laceration) | Heavy sharp-edged                          |
+| ==Margins==        | ==Irregular==                                        | ==Relatively regular==                     |
+| Crushing           | Marked                                               | Can occur                                  |
+| ==Tissue bridges== | ==Present==                                          | ==Usually absent if truly sharp-dominant== |
+| Bone fracture      | Possible                                             | Common                                     |
+| Typical example    | Split scalp wound                                    | Axe wound                                  |
 
 ---
+### Types of:
+| Abrasion  | Contusion    | Laceration |
+| --------- | ------------ | ---------- |
+| Scratch   | Intradermal  | Split      |
+| Graze     | Subcutaneous | Stretch    |
+| Pressure  | Ectopic      | Avulsion   |
+| Imprint   | Patterned    | Tear       |
+| Patterned | Doughnut     | Cut        |
+|           | Butterfly    |            |
+|           | Six Penny    |            |
+|           | Artificial   |            |
 
-# 8.4 EDH vs SDH — classic NEET-PG/INI-CET table
-
+### 8.4 EDH vs SDH — classic NEET-PG/INI-CET table
 | Feature | EDH | SDH |
 |---|---|---|
 | Vessel | Middle meningeal artery | Bridging veins |
@@ -3836,9 +2932,7 @@ The source lists:
 | Association | Temporal bone fracture | Shaken baby/chronic alcohol/brain atrophy |
 
 ---
-
-# 8.5 Gunshot wound — entry vs exit
-
+### 8.5 Gunshot wound — entry vs exit
 | Feature | Entry wound | Exit wound |
 |---|---|---|
 | Margin | Inverted | Everted |
@@ -3853,9 +2947,7 @@ The source lists:
 **Exception:** supported/shored exit wounds may show an abrasion rim and mimic an entry wound.
 
 ---
-
-# 8.6 Rifle range — conceptual progression
-
+### 8.6 Rifle range — conceptual progression
 ```text
 Contact
    ↓
@@ -3875,9 +2967,7 @@ Powder residue/tattooing persists farther
 The exact distance at which each effect disappears is **firearm/ammunition-specific**.
 
 ---
-
-# 8.7 Shotgun range — PDF teaching progression
-
+### 8.7 Shotgun range — PDF teaching progression
 ```text
 Contact
   ↓
@@ -3899,9 +2989,7 @@ Independent pellet holes
 ```
 
 ---
-
-# 9. High-Yield Medicolegal Pearls
-
+## 9. High-Yield Medicolegal Pearls
 - **Patterned abrasion** → think of the contacting object/surface.
 - **Pressure abrasion** → crushing of epithelium.
 - **Graze abrasion** → friction against rough surface.
@@ -3943,11 +3031,8 @@ Independent pellet holes
 - **Whiplash** → acceleration–deceleration neck injury.
 
 ---
-
-# 10. Important Source Corrections and Current Verification
-
-## 10.1 Bruise/abrasion dating
-
+## 10. Important Source Corrections and Current Verification
+### 10.1 Bruise/abrasion dating
 **Source PDF:** Gives specific colour-to-day timelines.
 
 **Verified/current interpretation:** Exact injury dating from bruise colour is **not reliable enough to assign a precise time**. Contemporary forensic literature emphasizes biological and methodological variability.
@@ -3957,9 +3042,7 @@ Reference:
 - Review literature on wound-age estimation in forensic pathology.
 
 ---
-
-## 10.2 Gunshot residue
-
+### 10.2 Gunshot residue
 **Source PDF:** Lists Harrison–Gilroy, atomic absorption, neutron activation, dermal nitrate and SEM-EDXA; states the best period is within 3 hours.
 
 **Verified/current information:**
@@ -3974,9 +3057,7 @@ Current standards:
 - ANSI/ASTM E3345-26 — interpretation of primer GSR analysis.
 
 ---
-
-## 10.3 Electrocution thresholds
-
+### 10.3 Electrocution thresholds
 **Source PDF:** Provides fixed current values and states AC is approximately five times more dangerous than DC.
 
 **Verified/current interpretation:**
@@ -3987,15 +3068,11 @@ Current standards:
 Therefore, the numeric thresholds in this file should be treated as **exam-oriented approximations from the PDF**, not absolute clinical cut-offs.
 
 ---
-
-## 10.4 Current Indian criminal-law framework
-
+### 10.4 Current Indian criminal-law framework
 The source PDF contains an old **Section 304A IPC** reference in its discussion of medical negligence after an alleged lucid interval.
 
 **Current position:** The **Bharatiya Nyaya Sanhita, 2023 (BNS)** came into force on **1 July 2024** (with a stated exception concerning BNS section 106(2) in the commencement notification). BNS **section 106(1)** now contains the offence of causing death by negligence and specifically includes a provision for a registered medical practitioner performing a medical procedure.
-
-### Source vs current law
-
+#### Source vs current law
 > **PDF/source text:** Uses Section **304A IPC**.
 >
 > **Current verified law:** **BNS section 106(1)** now governs causing death by negligence under the current statutory framework.
@@ -4004,53 +3081,7 @@ The PDF's old section number should therefore be retained only for historical/ex
 
 ---
 
-# 11. Source Page Index for Rapid Revision
-
-| Topic | PDF pages |
-|---|---|
-| Classification of mechanical injuries | 1 |
-| Abrasion | 1–3 |
-| Antemortem vs postmortem abrasion | 3–4 |
-| Contusion | 4–8 |
-| Types/patterns of bruises | 5–6 |
-| Bruise ageing | 7–8 |
-| Livor mortis vs contusion | 8 |
-| Laceration | 9–10 |
-| Incised wound | 11–12 |
-| Stab wound | 13–15 |
-| Chop wound | 15–16 |
-| Defence/fabricated injuries | 16 |
-| Head injury/skull fractures | 17–18 |
-| Skull-base fractures | 19 |
-| Cranial-fossa signs/coup-contrecoup | 20–21 |
-| EDH | 22–23 |
-| SDH | 23 |
-| SAH | 24 |
-| Hypothermia | 25–26 |
-| Frostbite/trench foot | 26 |
-| Heat cramps/syncope/stroke | 27 |
-| Burns/depth/TBSA | 27–28 |
-| Causes of death in burns | 29 |
-| Antemortem/postmortem burns and heat artefacts | 29–31 |
-| Scalds | 32 |
-| Ballistics — fundamentals | 33 |
-| Firearm parts/classification | 34–37 |
-| Ammunition/propellants/projectiles | 38–41 |
-| Rifle wound ballistics/range | 42–44 |
-| Entry vs exit / skull bevelling | 45–46 |
-| Firearm identification and GSR | 46–48 |
-| Shotgun ballistics | 48–49 |
-| Atypical ballistics | 50–51 |
-| Electrocution | 52–54 |
-| Lightning | 54–55 |
-| Explosion injuries | 55–56 |
-| Torture methods | 57–58 |
-| Transportation injuries | 59–65 |
-
----
-
-# 12. External References Used for Verification
-
+## 12. External References Used for Verification
 1. **India Code — Bharatiya Nyaya Sanhita, 2023**
    - https://www.indiacode.nic.in/indiacode/handle/123456789/20062
    - Sections 1 and 106 were used to verify the current criminal-law framework.
@@ -4085,11 +3116,8 @@ The PDF's old section number should therefore be retained only for historical/ex
     - https://vmmc-sjh.mohfw.gov.in/sites/default/files/Hospital%20Manual%2C%20April%202025%2C%20DGHS%2C%20MoHFW%20-%2001.04.2025.pdf
 
 ---
-
-# 13. Final Exam-Oriented Summary
-
-## One-line associations
-
+## 13. Final Exam-Oriented Summary
+### One-line associations
 ```text
 Abrasion                  → Superficial scraping
 Graze                     → Road rash / friction
@@ -4129,9 +3157,7 @@ Whiplash                  → Acceleration/deceleration
 ```
 
 ---
-
-## Core principle for forensic injury interpretation
-
+### Core principle for forensic injury interpretation
 > **Do not interpret a wound from one feature alone.**
 
 Always integrate:

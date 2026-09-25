@@ -1,8 +1,9 @@
 ---
 Subject: Forensics
 type: Marrow
-Subject Section: Sexual Jurisprudence
+Topic: Sexual Jurisprudence
 tags:
+Source: Marrow 6.5
 ---
 # Forensic Medicine & Toxicology — Sexual Jurisprudence, Infant Death & Child Abuse
 
