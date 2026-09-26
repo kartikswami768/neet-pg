@@ -1,16 +1,16 @@
 
-/PDFs/
+/Study Material/PDFs/
 /.git/
 
-/Notes/Pharmacology/Elite-Pharmacology-1.pdf
-/Notes/Pharmacology/Qbank Pharmacology_ed8.pdf
-/Notes/Pharmacology/Pharmacology-High-Yield notespedia.pdf
-/Notes/Pharmacology/Pharmacology Revision E6.5.pdf
-/Notes/Pharmacology/Elite-Pharmacology-1.pdf
-/Notes/Pharmacology/Elite-Pharmacology-1.pdf
-/Notes/Pharmacology/Pharmacology Revision E6.5.pdf
-/Notes/Pharmacology/Pharmacology-High-Yield notespedia.pdf
-/Notes/Pharmacology/Pharmacology_Prep_XI_RR_13_chunks/
+/Study Material/Notes/Pharmacology/Elite-Pharmacology-1.pdf
+/Study Material/Notes/Pharmacology/Qbank Pharmacology_ed8.pdf
+/Study Material/Notes/Pharmacology/Pharmacology-High-Yield notespedia.pdf
+/Study Material/Notes/Pharmacology/Pharmacology Revision E6.5.pdf
+/Study Material/Notes/Pharmacology/Elite-Pharmacology-1.pdf
+/Study Material/Notes/Pharmacology/Elite-Pharmacology-1.pdf
+/Study Material/Notes/Pharmacology/Pharmacology Revision E6.5.pdf
+/Study Material/Notes/Pharmacology/Pharmacology-High-Yield notespedia.pdf
+/Study Material/Notes/Pharmacology/Pharmacology_Prep_XI_RR_13_chunks/
 /.trash/
 
 # =========================================================
@@ -30,8 +30,6 @@
 # Device-specific keyboard shortcuts
 .obsidian/hotkeys.json
 
-# Obsidian plugin bundle/cache
-.obsidian/plugins.zip
 
 
 # =========================================================
@@ -68,3 +66,12 @@
 
 # Templater
 !.obsidian/plugins/templater-obsidian/data.json
+
+# Calendar
+!.obsidian/plugins/calendar/data.json
+
+# Dataview
+!.obsidian/plugins/dataview/data.json
+
+# Homepage
+!.obsidian/plugins/homepage/data.json
