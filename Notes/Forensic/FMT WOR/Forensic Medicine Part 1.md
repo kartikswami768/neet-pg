@@ -66,7 +66,7 @@ No part of this publication shall be reproduced, copied, transmitted, adapted, m
   - Stature
   - Dactylography and other methods
 
-#### Part 2
+#### [Part 2](<Forensic Medicine Part 2.md>)
 - **Asphyxial Deaths**
   - Hanging
   - Strangulation
@@ -239,9 +239,9 @@ flowchart LR
     - **Butterfly bruise:** Seen in child abuse d/t pinching.
     - **Tramline/railway line bruise:** D/t blow with a rod/lathi/stick.
 
-![Black eye sign](assets/p007_black_eye_sign.jpeg)
+![Black eye sign](p007_black_eye_sign.jpeg)
 
-![Battle sign](assets/p007_battle_sign.jpeg)
+![Battle sign](p007_battle_sign.jpeg)
 
 ### True Bruise vs Artificial Bruise
 
@@ -296,9 +296,9 @@ flowchart LR
 | Tissue bridges | + | − |
 | Floor (Hair bulb, vessels & nerves) | Crushed | Cut |
 
-![Swallow tailing](assets/p008_swallow_tailing.jpeg)
+![Swallow tailing](p008_swallow_tailing.jpeg)
 
-![Tailing](assets/p008_tailing.jpeg)
+![Tailing](p008_tailing.jpeg)
 
 ## Types of Lacerations
 
@@ -322,14 +322,14 @@ flowchart TD
 - AKA incised looking laceration.
 - Mechanism : Skin crushed b/w two hard objects i.e. bony prominences.
 
-![Split laceration](assets/p009_split_laceration.jpeg)
+![Split laceration](p009_split_laceration.jpeg)
 
 ### Avulsion laceration
 
 - Shearing force (Tangential) : Separation of skin from deeper tissues → Flaying.
 - E.g. : Degloving injury, scalping injury.
 
-![Scalping injury](assets/p009_degloving_injury.jpeg)
+![Scalping injury](p009_degloving_injury.jpeg)
 
 ### Tear laceration
 
@@ -353,7 +353,7 @@ flowchart TD
 - Site : Accessible parts of the body.
 - Indicates suicidal attempt.
 
-![Hesitation cuts](assets/p009_hesitation_cuts.jpeg)
+![Hesitation cuts](p009_hesitation_cuts.jpeg)
 
 ### Bevelling
 
@@ -375,7 +375,7 @@ flowchart TD
 | Wedge/triangle/pear shape; fish tailing | Single edge knife |
 | Elliptical shape | Double edge knife |
 
-![Type of weapon](assets/p010_single_edge_knife.jpeg)
+![Type of weapon](p010_single_edge_knife.jpeg)
 
 ### Hilt mark
 
@@ -385,7 +385,7 @@ flowchart TD
   - Direction of force.
   - Type of weapon.
 
-![Hilt mark](assets/p010_hilt_mark.jpeg)
+![Hilt mark](p010_hilt_mark.jpeg)
 
 ### Lines of Langer / cleavage lines
 
@@ -400,7 +400,7 @@ flowchart LR
     C --> E[↑ Gaping]
 ```
 
-![Langer lines](assets/p010_langer_lines.jpeg)
+![Langer lines](p010_langer_lines.jpeg)
 
 ### Hara-kiri / seppuku
 
@@ -434,9 +434,9 @@ after considering **thickness of heart chamber**.
 - Floor : Crushing + fracture of bone.
 - Usually suggestive of homicide.
 
-![Heavy sharp weapon](assets/p011_heavy_sharp_weapon.jpeg)
+![Heavy sharp weapon](p011_heavy_sharp_weapon.jpeg)
 
-![Chop wound](assets/p011_chop_wound.jpeg)
+![Chop wound](p011_chop_wound.jpeg)
 
 ### Defence cuts
 
@@ -458,7 +458,7 @@ flowchart TD
 |---|---|
 | Fissure fracture | M/c type of skull fracture; caused d/t weapon with broad striking surface |
 
-![Skull vault fracture](assets/p011_fissure_fracture.jpeg)
+![Skull vault fracture](p011_fissure_fracture.jpeg)
 
 ### Skull base fractures
 
@@ -477,15 +477,15 @@ Other skull fractures:
 | Comminuted fracture | AKA spiderweb/mosaic fracture; multiple fractured segments without displacement |
 | Diastatic fracture | AKA sutural fractures as the fracture line is along the sutures of the skull |
 
-![Depressed fracture](assets/p012_skull_base_fractures.jpeg)
+![Depressed fracture](p012_skull_base_fractures.jpeg)
 
-![Pond fracture](assets/p012_pond_fracture.jpeg)
+![Pond fracture](p012_pond_fracture.jpeg)
 
-![Gutter fracture](assets/p012_type_i_hinge_fracture.jpeg)
+![Gutter fracture](p012_type_i_hinge_fracture.jpeg)
 
-![Comminuted fracture](assets/p012_diastatic_fracture.jpeg)
+![Comminuted fracture](p012_diastatic_fracture.jpeg)
 
-![Diastatic fracture](assets/p012_diastatic_fracture.jpeg)
+![Diastatic fracture](p012_diastatic_fracture.jpeg)
 
 ## Puppe’s Rule
 
@@ -540,11 +540,11 @@ flowchart TD
 
 > Punishable under 106(1) BNS.
 
-![EDH](assets/p014_biconvex_opacity.jpeg)
+![EDH](p014_biconvex_opacity.jpeg)
 
-![SDH](assets/p014_crescentic_concavo.jpeg)
+![SDH](p014_crescentic_concavo.jpeg)
 
-![SAH](assets/p014_hemorrhage_2.jpeg)
+![SAH](p014_hemorrhage_2.jpeg)
 
 ## Transportation Injuries
 
@@ -585,13 +585,13 @@ Injuries sustained by:
 - Front seat passenger only
 - Both
 
-![Sparrow foot mark injury](assets/p015_chance_fracture.jpeg)
+![Sparrow foot mark injury](p015_chance_fracture.jpeg)
 
-![Whiplash injury](assets/p015_seat_belt_bruise.jpeg)
+![Whiplash injury](p015_seat_belt_bruise.jpeg)
 
-![Seat belt bruise](assets/p015_seat_belt_bruise.jpeg)
+![Seat belt bruise](p015_seat_belt_bruise.jpeg)
 
-![Chance fracture](assets/p015_chance_fracture.jpeg)
+![Chance fracture](p015_chance_fracture.jpeg)
 
 ## Thermal Injuries
 
@@ -648,9 +648,9 @@ Other terms:
 - Site : Periphery (Finger, feet, tip of nose/ear lobes).
 - Rx : Rewarming 37° - 40°C.
 
-![Trench foot](assets/p016_trench_foot.jpeg)
+![Trench foot](p016_trench_foot.jpeg)
 
-![Frost bite](assets/p016_frost_bite.jpeg)
+![Frost bite](p016_frost_bite.jpeg)
 
 ## Heat Related Syndromes
 
@@ -724,7 +724,7 @@ Other terms:
 | Heat hematoma | Blood clot in the extradural space | Chocolate brown; honey comb appearance |
 | Heat fracture | Fracture of long bone/skull bones | Long bone fracture; Street & avenue fracture; skull bone fracture; Spiderweb fracture (Sides of skull) |
 
-![Pugilistic attitude](assets/p018_aka_boxers_attitude_pugilistic.jpeg)
+![Pugilistic attitude](p018_aka_boxers_attitude_pugilistic.jpeg)
 
 ## Specific signs: Features of antemortem burns
 
@@ -744,7 +744,7 @@ Mnemonic : **FIRE**
 - ↑Cyanide & ↑CarboxyHb (> 10 g%) in blood.
 - Curling ulcer.
 
-![Crow feet sign](assets/p019_crowfeet_sign.jpeg)
+![Crow feet sign](p019_crowfeet_sign.jpeg)
 
 ## Electrical & Lightning Injuries
 
@@ -805,9 +805,9 @@ Cause of death:
 - **Strappado/la bandera/palestinian hanging:** Suspension of victim by wrist.
 - **Parrot’s perch:** Tying upper & lower limb with suspension of body.
 
-![Strappado / la bandera / Palestinian hanging](assets/p021_strappado_la_bandera_palestinian_hanging.jpeg)
+![Strappado / la bandera / Palestinian hanging](p021_strappado_la_bandera_palestinian_hanging.jpeg)
 
-![Parrot’s perch](assets/p021_parrots_perch.jpeg)
+![Parrot’s perch](p021_parrots_perch.jpeg)
 
 ## Explosion Injuries
 
@@ -870,9 +870,9 @@ Based on the inner surface of the barrel → visualized by **helixometer**.
 |---|---|---|
 | Inner surface of barrel | Rifling + (Spiral grooves in the inner surface) | Smooth |
 
-![Rifling](assets/p022_rifling.jpeg)
+![Rifling](p022_rifling.jpeg)
 
-![Smooth barrel](assets/p022_smooth_bored_gun_shotgun.jpeg)
+![Smooth barrel](p022_smooth_bored_gun_shotgun.jpeg)
 
 ## Rifled gun vs Smooth-bored gun / Shotgun
 
@@ -984,7 +984,7 @@ In order of emission from the gun:
 - **Blackening**
 - **Tattooing**
 
-![Bullet entry wound](assets/p025_bullet_wound.png)
+![Bullet entry wound](p025_bullet_wound.png)
 
 ## Gun Ranges
 
@@ -1112,7 +1112,7 @@ Compare **test bullet** (New bullet fired from suspected gun) & **crime bullet**
 | Kennedy phenomenon | Iatrogenic alteration of gunshot wound; difficulty in range determination |
 | Poisoned | Carries curare/ricin/aflatoxin |
 
-![Comparison of bullets](assets/p028_primary_marking.jpeg)
+![Comparison of bullets](p028_primary_marking.jpeg)
 
 ## Gunshot Wound on the Skull
 
@@ -1123,7 +1123,7 @@ Compare **test bullet** (New bullet fired from suspected gun) & **crime bullet**
 - Bevelling in inner table → Entry wound.
 - Bevelling in outer table → Exit wound.
 
-![Gunshot wound on skull](assets/p030_exit_wound.jpeg)
+![Gunshot wound on skull](p030_exit_wound.jpeg)
 
 ---
 
@@ -2004,9 +2004,9 @@ Mnemonic : **BCCI**
 |---|---|---|---|
 | Dental features | ↑ Tooth size; ↑ Cusps | Carabelli’s cusp | Mnemonic **PASTE**: Pointed canines; Absence of 3rd molar; Shovel incisors; Taurodontism; Enamel pearl (Premolars) |
 
-![Carabelli’s cusp](assets/p049_carabellis_cusp.png)
+![Carabelli’s cusp](p049_carabellis_cusp.png)
 
-![Wider plump](assets/p049_wider_plump.png)
+![Wider plump](p049_wider_plump.png)
 
 ## Sex
 
@@ -2458,4 +2458,4 @@ Faint tattoo visualized by:
 
 - Helps with exclusion.
 
-![Superimposition](assets/p059_img01.jpeg)
+![Superimposition](p059_img01.jpeg)

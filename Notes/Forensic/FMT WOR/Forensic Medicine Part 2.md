@@ -1,3 +1,43 @@
+#### **[Part 1](<Forensic Medicine Part 1.md>)**
+
+#### This is Part 2
+- **[[#Asphyxial Deaths]]**
+  - Hanging
+  - Strangulation
+  - Suffocation
+  - Drowning
+- **[[#Sexual Jurisprudence and Trace Evidence]]**
+  - Hymen & terminologies related to pregnancy
+  - Surrogacy regulation act
+  - Medical termination of pregnancy (Amendment) act 2021
+  - Infant death
+  - Child abuse
+  - Sudden infant death syndrome (SIDS)/cot death/crib death
+  - Sexual offences
+  - Evidence collection
+- **[[#Toxicology]]**
+  - Identification of poisons
+  - Duties of a doctor in poisoning cases
+  - Antidotes
+  - Corrosives
+  - Metallic irritants
+  - Non-metallic irritants
+  - Plant toxins
+  - Inebriants
+  - Spinal and cardiac poisons
+  - Asphyxiants
+  - Adulterated toxins
+  - Snake venom
+  - Scorpion & spanish fly
+  - Organophosphorous (OP) poisoning
+- **[[#Forensic Psychiatry and Legal Sections]]**
+  - Symptoms of psychiatric disorders
+  - Civil & criminal responsibilities of insane
+  - BNS (Bharatiya nyaya sanhita)
+  - Transplantation of human organs act 1994 (2014)
+  - Protection of children from sexual offences (POCSO) act 2012
+
+
 # Asphyxial Deaths
 
 ## Asphyxial Triad
@@ -50,7 +90,7 @@ flowchart TD
 - **Typical hanging:** Knot in occiput.
 - **Atypical hanging:** Knot anywhere other than occiput (judicial hanging).
 
-![Hanging](assets_named/p060_hanging.jpeg)
+![Hanging](p060_hanging.jpeg)
 
 ### Types Based on Suspension
 
@@ -84,7 +124,7 @@ flowchart TD
 - Dribbling of saliva.
 - La facie sympathique.
 
-![Hanging victim](assets_named/p061_hanging_victim.jpeg)
+![Hanging victim](p061_hanging_victim.jpeg)
 
 #### Dribbling of Saliva
 
@@ -97,7 +137,7 @@ flowchart TD
 - Sign of antemortem hanging.
 - I/L opening of eyelids + I/L pupillary dilatation.
 
-![La facie sympathique](assets_named/p061_la_facie_sympathique.jpeg)
+![La facie sympathique](p061_la_facie_sympathique.jpeg)
 
 #### Ligature Mark
 
@@ -120,11 +160,11 @@ flowchart TD
    - C2 fracture (Hangman’s fracture) — cause of death in judicial hanging.
    - Simon’s hemorrhage (intervertebral disc hemorrhage).
 
-![Ligature mark](assets_named/p062_ligature_mark.jpeg)
+![Ligature mark](p062_ligature_mark.jpeg)
 
-![Ligature mark](assets_named/p062_ligature_mark_2.jpeg)
+![Ligature mark](p062_ligature_mark_2.jpeg)
 
-![Ligature mark](assets_named/p062_ligature_mark_3.jpeg)
+![Ligature mark](p062_ligature_mark_3.jpeg)
 
 ### Manner of Hanging
 
@@ -141,9 +181,9 @@ flowchart TD
     D1 --> D3[Asphyxia for sexual gratification]
 ```
 
-![Sexual asphyxia](assets_named/p062_sexual_asphyxia.jpeg)
+![Sexual asphyxia](p062_sexual_asphyxia.jpeg)
 
-![Sexual asphyxia](assets_named/p062_sexual_asphyxia_2.jpeg)
+![Sexual asphyxia](p062_sexual_asphyxia_2.jpeg)
 
 ## Strangulation
 
@@ -173,11 +213,11 @@ flowchart TD
 - Adduction fracture of hyoid.
 - Cricoid cartilage fracture.
 
-![Strangulation ligature mark](assets_named/p063_strangulation_ligature_mark.jpeg)
+![Strangulation ligature mark](p063_strangulation_ligature_mark.jpeg)
 
-![Six penny bruises](assets_named/p063_six_penny_bruises.jpeg)
+![Six penny bruises](p063_six_penny_bruises.jpeg)
 
-![Tissue contusion in throttling](assets_named/p063_tissue_contusion_in_throttling.jpeg)
+![Tissue contusion in throttling](p063_tissue_contusion_in_throttling.jpeg)
 
 ### Other Forms of Strangulation
 
@@ -185,9 +225,9 @@ flowchart TD
 - **Spanish windlass:** Garroting variant.
 - **Mugging.**
 
-![Bamboo sticks used](assets_named/p063_bamboo_sticks_used.jpeg)
+![Bamboo sticks used](p063_bamboo_sticks_used.jpeg)
 
-![Spanish windlass](assets_named/p063_spanish_windlass.png)
+![Spanish windlass](p063_spanish_windlass.png)
 
 ## Suffocation
 
@@ -202,13 +242,13 @@ Closure of mouth and nostrils together:
      - Perioral injuries (abrasion/bruises).
      - Lip injuries.
 
-![Closure of mouth and nostrils together](assets_named/p063_closure_of_mouth_and_nostrils_together.jpeg)
+![Closure of mouth and nostrils together](p063_closure_of_mouth_and_nostrils_together.jpeg)
 
 ## Gagging
 
 Thrusting cloth/pad into mouth → obstruction of pharynx → asphyxia.
 
-![Obstruction of pharynx](assets_named/p064_obstruction_of_pharynx.jpeg)
+![Obstruction of pharynx](p064_obstruction_of_pharynx.jpeg)
 
 ## Choking
 
@@ -220,7 +260,7 @@ Entry of foreign body into airway → respiratory distress (air hunger, gasping)
 
 **Heimlich maneuver.**
 
-![Heimlich maneuver](assets_named/p064_sudden_collapse_and_death.jpeg)
+![Heimlich maneuver](p064_sudden_collapse_and_death.jpeg)
 
 ## Cafe Coronary Syndrome
 
@@ -238,11 +278,11 @@ Entry of foreign body into airway → respiratory distress (air hunger, gasping)
 - **Burking (homicidal):** Smothering + traumatic asphyxia.
 - **Overlaying (accidental).**
 
-![Masque ecchymotique](assets_named/p064_masque_ecchymotique.jpeg)
+![Masque ecchymotique](p064_masque_ecchymotique.jpeg)
 
-![Masque ecchymotique](assets_named/p064_masque_ecchymotique_2.jpeg)
+![Masque ecchymotique](p064_masque_ecchymotique_2.jpeg)
 
-![Masque ecchymotique](assets_named/p064_masque_ecchymotique_3.jpeg)
+![Masque ecchymotique](p064_masque_ecchymotique_3.jpeg)
 
 ### Positional Asphyxia
 
@@ -251,9 +291,9 @@ Entry of foreign body into airway → respiratory distress (air hunger, gasping)
   - Jack-knife position.
   - Inverted crucifixion.
 
-![Jack knife position](assets_named/p064_jack_knife_position.png)
+![Jack knife position](p064_jack_knife_position.png)
 
-![Inverted crucifixion](assets_named/p064_inverted_crucifixon.jpeg)
+![Inverted crucifixion](p064_inverted_crucifixon.jpeg)
 
 ## Drowning
 
@@ -328,9 +368,9 @@ A person rescued from drowning may subsequently die due to:
 - Hydrocution.
 - Unconscious person.
 
-![Cadaveric spasm](assets_named/p066_cadaveric_spasm.jpeg)
+![Cadaveric spasm](p066_cadaveric_spasm.jpeg)
 
-![Frothing](assets_named/p066_img03.jpeg)
+![Frothing](p066_img03.jpeg)
 
 #### Non-Specific Findings
 
@@ -343,9 +383,9 @@ A person rescued from drowning may subsequently die due to:
    - Indicates only time since immersion.
    - Starts in fingers (3–4 h); by 24 h, whole hand.
 
-![Washerwoman’s foot](assets_named/p066_washerwomans_foot.jpeg)
+![Washerwoman’s foot](p066_washerwomans_foot.jpeg)
 
-![Cutis anserina](assets_named/p066_cutis_anserina.jpeg)
+![Cutis anserina](p066_cutis_anserina.jpeg)
 
 #### Lung Changes
 
@@ -363,7 +403,7 @@ A person rescued from drowning may subsequently die due to:
 - Lung edema +++.
 - ↓ Frothing.
 
-![Paltauf hemorrhage](assets_named/p066_paltauf_hemorrhage.jpeg)
+![Paltauf hemorrhage](p066_paltauf_hemorrhage.jpeg)
 
 #### Other Findings
 
@@ -401,7 +441,7 @@ Features of diatom:
 - Presence of diatoms in spleen, bone marrow (best site), brain & liver.
 - Suggestive of antemortem drowning because diatoms entered due to intact circulation.
 
-![Diatoms: microscopy](assets_named/p067_best_site_brain_and_liver.png)
+![Diatoms: microscopy](p067_best_site_brain_and_liver.png)
 
 #### Paltauf Hemorrhages vs Petechial Hemorrhages
 
@@ -438,18 +478,18 @@ Types:
 - Septate.
 - Fimbriate — mistaken for tear.
 
-![Intact hymen](assets_named/p068_intact_hymen.jpeg)
+![Intact hymen](p068_intact_hymen.jpeg)
 
-![Intact hymen](assets_named/p068_intact_hymen_2.jpeg)
+![Intact hymen](p068_intact_hymen_2.jpeg)
 
-![Hymen types](assets_named/p068_semilunar_m_c_cribriform_imperforate.jpeg)
+![Hymen types](p068_semilunar_m_c_cribriform_imperforate.jpeg)
 
 ### Hymen Tear
 
 - Posterolateral: penile penetration.
 - Anterior: digital/foreign body.
 
-![Hymen tear](assets_named/p068_mistaken_for_tear.jpeg)
+![Hymen tear](p068_mistaken_for_tear.jpeg)
 
 ### Intact Hymen After Intercourse
 
@@ -624,7 +664,7 @@ flowchart TD
 - Bucket-handle fracture (long bones).
 - Knob fracture / string of beads appearance (CXR).
 
-![String of beads appearance](assets_named/p072_string_of_beads_appearance.jpeg)
+![String of beads appearance](p072_string_of_beads_appearance.jpeg)
 
 ### Munchausen’s Syndrome by Proxy
 
@@ -972,9 +1012,9 @@ flowchart TD
 - Oxaluria (casts in urine).
 - Dumbbell/postal-envelope shaped casts.
 
-![Shaped casts](assets_named/p079_shaped_casts.jpeg)
+![Shaped casts](p079_shaped_casts.jpeg)
 
-![Oxalic acid](assets_named/p079_oxalic_acid.jpeg)
+![Oxalic acid](p079_oxalic_acid.jpeg)
 
 ## Metallic Irritants
 
@@ -1018,9 +1058,9 @@ flowchart TD
 - Carcinogenic.
 - Pancytopenia: bone marrow suppression.
 
-![Raindrop pigmentation](assets_named/p080_raindrop_pigmentation.jpeg)
+![Raindrop pigmentation](p080_raindrop_pigmentation.jpeg)
 
-![Aldrich-Mees line](assets_named/p080_aldrich_mees_line.jpeg)
+![Aldrich-Mees line](p080_aldrich_mees_line.jpeg)
 
 ### Samples for Arsenic
 
@@ -1066,7 +1106,7 @@ Acrodynia features:
 - Pruritic.
 - Usually paediatric.
 
-![Acrodynia](assets_named/p081_img01.jpeg)
+![Acrodynia](p081_img01.jpeg)
 
 ### Lead
 
@@ -1101,11 +1141,11 @@ Mnemonic **ABCDEFG**:
 - **F**acial pallor: most consistent finding.
 - **G**out: saturnine gout.
 
-![Basophilic inclusions](assets_named/p082_basophilic_inclusions.jpeg)
+![Basophilic inclusions](p082_basophilic_inclusions.jpeg)
 
-![Burtonian lines](assets_named/p082_burtonian_lines.jpeg)
+![Burtonian lines](p082_burtonian_lines.jpeg)
 
-![Bone line](assets_named/p082_bone_line.jpeg)
+![Bone line](p082_bone_line.jpeg)
 
 ### Investigations
 
@@ -1161,9 +1201,9 @@ Mnemonic **All Nerves Burn**:
 
 **Red phosphorus:** non-toxic.
 
-![White phosphorus](assets_named/p083_white_phosphorous.jpeg)
+![White phosphorus](p083_white_phosphorous.jpeg)
 
-![Red phosphorus](assets_named/p083_red_phosphorous.jpeg)
+![Red phosphorus](p083_red_phosphorous.jpeg)
 
 ### Acute Poisoning
 
@@ -1184,7 +1224,7 @@ Mnemonic **All Nerves Burn**:
   - Garlicky odor.
 - Source note: patient discharged & dies later → medical negligence.
 
-![Phossy jaw](assets_named/p083_phossy_jaw.png)
+![Phossy jaw](p083_phossy_jaw.png)
 
 ### Aluminium Phosphide
 
@@ -1211,15 +1251,15 @@ Mnemonic **All Nerves Burn**:
 | *Calotropis* (Madar / Akdo) | Calotropin, calotoxin, calactin | All parts toxic |
 | *Capsicum annuum* | Capsicin, capsaicin | Hunan’s hand syndrome: contact dermatitis (occupational) |
 
-![Ricinus communis](assets_named/p084_ricinus_communis.jpeg)
+![Ricinus communis](p084_ricinus_communis.jpeg)
 
-![Abrus precatorius](assets_named/p084_abrus_precatorius.jpeg)
+![Abrus precatorius](p084_abrus_precatorius.jpeg)
 
-![Croton tiglium](assets_named/p084_croton_tiglium.jpeg)
+![Croton tiglium](p084_croton_tiglium.jpeg)
 
-![Semecarpus anacardium](assets_named/p084_semecarpus_anacardium.jpeg)
+![Semecarpus anacardium](p084_semecarpus_anacardium.jpeg)
 
-![Capsicum annuum](assets_named/p084_capsicum_annum.jpeg)
+![Capsicum annuum](p084_capsicum_annum.jpeg)
 
 ## Somniferous Poisons
 
@@ -1230,7 +1270,7 @@ Mnemonic **All Nerves Burn**:
 - Capsule → crude opium → opioids (morphine, codeine).
 - Seeds are non-toxic.
 
-![Papaver somniferum](assets_named/p085_papaver_somniferum.jpeg)
+![Papaver somniferum](p085_papaver_somniferum.jpeg)
 
 ### Heroin
 
@@ -1290,15 +1330,15 @@ Mnemonic **AIR**:
 | Dried resin | Charas/hashish | 25–40% |
 | Resin | Hash oil | 60–70% |
 
-![Castor fruit](assets_named/p086_castor_fruit.jpeg)
+![Castor fruit](p086_castor_fruit.jpeg)
 
-![Datura fruit](assets_named/p086_datura_fruit.jpeg)
+![Datura fruit](p086_datura_fruit.jpeg)
 
-![Datura seeds](assets_named/p086_datura_seeds.jpeg)
+![Datura seeds](p086_datura_seeds.jpeg)
 
-![Chilli seeds](assets_named/p086_chilli_seeds.jpeg)
+![Chilli seeds](p086_chilli_seeds.jpeg)
 
-![Cannabis leaves](assets_named/p086_15_25.jpeg)
+![Cannabis leaves](p086_15_25.jpeg)
 
 **Note:** Not criminally liable: 22 BNS.
 
@@ -1316,7 +1356,7 @@ Mnemonic **AIR**:
 - Packs ruptured → acute poisoning (antidote: amyl nitrite).
 - Intestinal obstruction → surgical management.
 
-![Erythroxylum coca leaves](assets_named/p086_erythroxylum_coca_leaves.jpeg)
+![Erythroxylum coca leaves](p086_erythroxylum_coca_leaves.jpeg)
 
 ### Chronic Cocaine Abuse
 
@@ -1337,7 +1377,7 @@ Mnemonic **AIR**:
 - Septal perforation if snorting.
 - Tactile hallucinations: cocaine bugs / Magnan syndrome / formication.
 
-![X ray: Cocaine packets](assets_named/p087_x_ray.jpeg)
+![X ray: Cocaine packets](p087_x_ray.jpeg)
 
 **Note:** 123 BNS: causing hurt using poison with the intent to commit crime.
 
@@ -1485,9 +1525,9 @@ flowchart LR
 - **Emprosthotonus:** forward hyperflexed spine (B).
 - **Pleurosthotonus:** lateral flexion of spine (C).
 
-![Abnormal posture](assets_named/p090_abnormal_posture.jpeg)
+![Abnormal posture](p090_abnormal_posture.jpeg)
 
-![Risus sardonicus](assets_named/p090_risus_sardonicus.jpeg)
+![Risus sardonicus](p090_risus_sardonicus.jpeg)
 
 ### Cardiac Poisons
 
@@ -1507,9 +1547,9 @@ Mnemonic **Car DONA**:
 - Cardiac arrhythmias.
 - Hippus: alternating constriction & dilatation of pupil.
 
-![Aconite plant](assets_named/p090_aconite_plant.jpeg)
+![Aconite plant](p090_aconite_plant.jpeg)
 
-![Roots of aconite](assets_named/p090_roots_of_aconite.jpeg)
+![Roots of aconite](p090_roots_of_aconite.jpeg)
 
 ### Nerium odorum / Pink Oleander
 
@@ -1548,7 +1588,7 @@ Active principles:
   - Odollin.
   - Odollotoxin.
 
-![Accidental poisoning](assets_named/p091_accidental_poisoning.jpeg)
+![Accidental poisoning](p091_accidental_poisoning.jpeg)
 
 ### Digitalis / Foxglove
 
@@ -1612,7 +1652,7 @@ Carbon monoxide has **210 times more affinity for hemoglobin than O₂**.
 - Cutaneous blisters.
 - Bilateral symmetrical necrosis of lenticular nucleus.
 
-![Cherry red skin discolouration](assets_named/p092_cherry_red_skin_discolouration.jpeg)
+![Cherry red skin discolouration](p092_cherry_red_skin_discolouration.jpeg)
 
 ### Treatment
 
@@ -1650,7 +1690,7 @@ Carbon monoxide has **210 times more affinity for hemoglobin than O₂**.
 | Bite | 2 fang marks | Small teeth marks in a row |
 | Lives | Nocturnal | Diurnal |
 
-![Argemone mexicana](assets_named/p093_argemone_mexicana.jpeg)
+![Argemone mexicana](p093_argemone_mexicana.jpeg)
 
 ## Large-Scaled Venomous Snakes
 
@@ -1686,15 +1726,15 @@ flowchart LR
 - *Echis carinatus*: saw-scaled viper.
 - *Bungarus caeruleus* (bungarotoxin): common krait.
 
-![Venomous snake belly scale](assets_named/p094_venomous_snake_belly_scale.jpeg)
+![Venomous snake belly scale](p094_venomous_snake_belly_scale.jpeg)
 
-![Non-venomous snake belly scale](assets_named/p094_non_venomous_snake_belly_scale.jpeg)
+![Non-venomous snake belly scale](p094_non_venomous_snake_belly_scale.jpeg)
 
-![Saw-scaled viper](assets_named/p094_saw_scaled_viper.jpeg)
+![Saw-scaled viper](p094_saw_scaled_viper.jpeg)
 
-![Echis carinatus](assets_named/p094_echis_carinatus.jpeg)
+![Echis carinatus](p094_echis_carinatus.jpeg)
 
-![Bungarus caeruleus](assets_named/p094_bungarus_caeruleus_bungarotoxin.jpeg)
+![Bungarus caeruleus](p094_bungarus_caeruleus_bungarotoxin.jpeg)
 
 ## Snake Bite
 
@@ -1719,9 +1759,9 @@ flowchart LR
 | Hemotoxic signs (viper) | DIC, spontaneous bleeding, shock, renal failure |
 | Local signs (viper > elapid) | Pain, swelling, bleeding, necrosis, compartment syndrome, gangrene |
 
-![Ptosis in elapidae bite](assets_named/p095_ptosis_in_elapidae_bite.jpeg)
+![Ptosis in elapidae bite](p095_ptosis_in_elapidae_bite.jpeg)
 
-![Spontaneous bleeding in viper bite](assets_named/p095_spontaneous_bleeding_in_viper_bite.jpeg)
+![Spontaneous bleeding in viper bite](p095_spontaneous_bleeding_in_viper_bite.jpeg)
 
 ### Management of Snake Bite
 
@@ -1785,9 +1825,9 @@ flowchart TD
 - Prazosin.
 - Anti-scorpion venom.
 
-![Black scorpion](assets_named/p096_black_scorpion.jpeg)
+![Black scorpion](p096_black_scorpion.jpeg)
 
-![Red scorpion](assets_named/p096_red_scorpion.jpeg)
+![Red scorpion](p096_red_scorpion.jpeg)
 
 ### Spanish Fly (Cantharides)
 
@@ -1799,7 +1839,7 @@ flowchart TD
   - Blisters.
 - Nephrotoxicity.
 
-![Spanish fly](assets_named/p096_spanish_fly.jpeg)
+![Spanish fly](p096_spanish_fly.jpeg)
 
 ### On Oral Consumption
 
