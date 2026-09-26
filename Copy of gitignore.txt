@@ -1,0 +1,70 @@
+
+/PDFs/
+/.git/
+
+/Notes/Pharmacology/Elite-Pharmacology-1.pdf
+/Notes/Pharmacology/Qbank Pharmacology_ed8.pdf
+/Notes/Pharmacology/Pharmacology-High-Yield notespedia.pdf
+/Notes/Pharmacology/Pharmacology Revision E6.5.pdf
+/Notes/Pharmacology/Elite-Pharmacology-1.pdf
+/Notes/Pharmacology/Elite-Pharmacology-1.pdf
+/Notes/Pharmacology/Pharmacology Revision E6.5.pdf
+/Notes/Pharmacology/Pharmacology-High-Yield notespedia.pdf
+/Notes/Pharmacology/Pharmacology_Prep_XI_RR_13_chunks/
+/.trash/
+
+# =========================================================
+# OBSIDIAN — DEVICE-SPECIFIC / DO NOT SYNC
+# =========================================================
+
+# Device-specific appearance
+.obsidian/appearance.json
+
+# Device-specific community plugin installation/enabled list
+.obsidian/community-plugins.json
+
+# Device-specific workspace state
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+
+# Device-specific keyboard shortcuts
+.obsidian/hotkeys.json
+
+# Obsidian plugin bundle/cache
+.obsidian/plugins.zip
+
+
+# =========================================================
+# COMMUNITY PLUGIN FILES — DO NOT SYNC
+# =========================================================
+
+# Ignore plugin code, manifests and styles
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/manifest.json
+.obsidian/plugins/*/styles.css
+
+# Ignore all plugin settings by default
+.obsidian/plugins/*/data.json
+
+
+# =========================================================
+# EXCEPTIONS — SYNC SETTINGS FOR THESE PLUGINS
+# =========================================================
+
+# Editing Toolbar
+!.obsidian/plugins/editing-toolbar/data.json
+
+# Annotation Marker
+!.obsidian/plugins/annotation-marker/data.json
+
+# Excalidraw
+!.obsidian/plugins/obsidian-excalidraw-plugin/data.json
+
+# Tasks
+!.obsidian/plugins/obsidian-tasks-plugin/data.json
+
+# TaskNotes
+!.obsidian/plugins/tasknotes/data.json
+
+# Templater
+!.obsidian/plugins/templater-obsidian/data.json
