@@ -23,8 +23,8 @@ No part of this publication shall be reproduced, copied, transmitted, adapted, m
 ## Contents
 
 ### Forensic Medicine
-
-- **Traumatology**
+#### Part 1
+- [[#Traumatology]]
   - Abrasion
   - Contusion/bruise
   - Laceration, incision & stab wound
@@ -37,13 +37,13 @@ No part of this publication shall be reproduced, copied, transmitted, adapted, m
   - Electrical & lightning injuries
   - Torture methods
   - Explosion injuries
-- **Forensic Ballistics**
+- [[#Forensic Ballistics]]]
   - Basics of firearm
   - Ammunition
   - Gun ranges
   - Bullet fingerprinting & atypical bullets
   - Gunshot wound on the skull
-- **Medical Jurisprudence**
+- [[#Medical Jurisprudence]]
   - Inquest
   - Indian legal system
   - Evidence & witness
@@ -52,19 +52,21 @@ No part of this publication shall be reproduced, copied, transmitted, adapted, m
   - Medical ethics
   - Medical negligence/professional malpractices
   - Consent
-- **Autopsy Techniques & Thanatology**
+- [[#Autopsy Techniques & Thanatology]]
   - Autopsy : Types
   - Autopsy : Sequence, incision, techniques
   - Thanatology
   - Early changes
   - Late changes (Putrefaction)
   - Viscera preservation for chemical analysis
-- **Human Identification**
+- [[#Human Identification]]
   - Identification of race, sex and age
   - Ossification centres
   - Dentition
   - Stature
   - Dactylography and other methods
+
+#### Part 2
 - **Asphyxial Deaths**
   - Hanging
   - Strangulation
