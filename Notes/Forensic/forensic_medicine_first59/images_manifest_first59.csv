@@ -1,0 +1,170 @@
+pdf_page,image_index,xref,caption_tag,filename,format,width_px,height_px,score
+1,1,22,,p001_img01.jpeg,jpeg,402,114,
+5,1,123,Scratch abrasion,p005_scratch_abrasion.jpeg,jpeg,247,436,44.8
+5,2,125,over a wide area,p005_over_a_wide_area.jpeg,jpeg,232,112,25.8
+5,3,127,abrasion displays the pattern,p005_abrasion_displays_the_pattern.jpeg,jpeg,200,230,9.5
+5,4,129,Pressure abrasion,p005_pressure_abrasion.jpeg,jpeg,611,378,34.9
+6,1,174,Contusion,p006_contusion.jpeg,jpeg,342,241,-41.0
+6,2,160,Wound,p006_wound.jpeg,jpeg,438,230,-31.9
+7,1,179,Black eye sign,p007_black_eye_sign.jpeg,jpeg,206,180,-40.9
+7,2,181,Battle sign,p007_battle_sign.jpeg,jpeg,302,329,-41.0
+8,1,198,Crushed,p008_crushed.jpeg,jpeg,156,176,-24.5
+8,2,200,Crushed,p008_crushed_2.jpeg,jpeg,172,172,17.8
+8,3,192,Swallow tailing,p008_swallow_tailing.jpeg,jpeg,497,547,-41.0
+8,4,196,Tailing,p008_tailing.jpeg,jpeg,243,254,-41.0
+9,1,219,Split laceration,p009_split_laceration.jpeg,jpeg,309,407,-28.6
+9,2,221,Split laceration,p009_split_laceration_2.jpeg,jpeg,353,306,-23.0
+9,3,223,Degloving injury,p009_degloving_injury.jpeg,jpeg,302,296,-47.0
+9,4,213,Hesitation cuts,p009_hesitation_cuts.jpeg,jpeg,529,307,-41.0
+9,5,217,Bevelling,p009_bevelling.jpeg,jpeg,394,223,-41.0
+10,1,244,Hilt mark,p010_hilt_mark.jpeg,jpeg,372,303,-33.8
+10,2,248,Single edge knife,p010_single_edge_knife.jpeg,jpeg,233,375,-8.7
+10,3,238,Langer lines,p010_langer_lines.jpeg,jpeg,297,329,-30.0
+10,4,242,Hara-kiri,p010_hara_kiri.jpeg,jpeg,261,311,-35.0
+11,1,283,Chop wound,p011_chop_wound.jpeg,jpeg,250,330,-50.0
+11,2,261,Heavy sharp weapon,p011_heavy_sharp_weapon.jpeg,jpeg,198,392,-30.0
+11,3,270,web space,p011_web_space.jpeg,jpeg,234,309,-15.9
+11,4,277,Passive,p011_passive.jpeg,jpeg,297,223,-0.1
+11,5,281,Fissure fracture,p011_fissure_fracture.jpeg,jpeg,311,332,37.8
+12,1,312,Skull Base Fractures,p012_skull_base_fractures.jpeg,jpeg,230,246,3.4
+12,2,314,Soft skull,p012_soft_skull.jpeg,jpeg,475,325,17.9
+12,3,316,Soft skull,p012_soft_skull_2.jpeg,jpeg,306,323,30.7
+12,4,318,Pond fracture,p012_pond_fracture.jpeg,jpeg,377,274,30.1
+12,5,296,Diastatic fracture,p012_diastatic_fracture.jpeg,jpeg,363,258,33.0
+12,6,306,Ring fracture,p012_ring_fracture.jpeg,jpeg,411,376,-47.0
+12,7,310,Type I hinge fracture,p012_type_i_hinge_fracture.jpeg,jpeg,378,453,-47.0
+13,1,331,fracture line,p013_fracture_line.jpeg,jpeg,242,245,4.0
+13,2,338,Puppe’s rule,p013_puppes_rule.jpeg,jpeg,160,120,-41.0
+14,1,342,Biconvex opacity,p014_biconvex_opacity.jpeg,jpeg,216,262,-30.0
+14,2,344,Crescentic (Concavo-,p014_crescentic_concavo.jpeg,jpeg,212,268,-30.0
+14,3,346,convex opacity),p014_convex_opacity.png,png,266,267,15.9
+14,4,350,Lucid Interval,p014_lucid_interval.jpeg,jpeg,280,302,9.2
+14,5,352,Hemorrhage,p014_hemorrhage.jpeg,jpeg,264,286,-26.7
+14,6,354,Hemorrhage,p014_hemorrhage_2.jpeg,jpeg,279,301,-37.7
+15,1,361,Seat belt bruise,p015_seat_belt_bruise.jpeg,jpeg,216,208,11.6
+15,2,371,Seat belt bruise,p015_seat_belt_bruise_2.jpeg,jpeg,335,170,-11.6
+15,3,375,Seat belt bruise,p015_seat_belt_bruise_3.jpeg,jpeg,260,263,-47.0
+15,4,379,Chance fracture,p015_chance_fracture.jpeg,jpeg,308,406,-47.0
+16,1,386,Trench foot,p016_trench_foot.jpeg,jpeg,341,390,-30.0
+16,2,396,Frost bite,p016_frost_bite.jpeg,jpeg,499,499,-47.0
+18,1,430,Front & back of,p018_front_and_back_of.jpeg,jpeg,112,243,14.2
+18,2,440,Autopsy Findings in Antemortem Burns,p018_autopsy_findings_in_antemortem_burns.jpeg,jpeg,147,344,-24.5
+18,3,444,AKA Boxer’s attitude/pugilistic,p018_aka_boxers_attitude_pugilistic.jpeg,jpeg,766,418,26.3
+18,4,454,Heat rupture,p018_heat_rupture.jpeg,jpeg,169,147,49.8
+18,5,458,Heat hematoma,p018_heat_hematoma.jpeg,jpeg,136,158,48.8
+19,1,477,fluid in blisters,p019_fluid_in_blisters.jpeg,jpeg,234,312,0.3
+19,2,487,fluid in blisters,p019_fluid_in_blisters_2.jpeg,jpeg,305,310,-30.0
+19,3,491,Crowfeet sign,p019_crowfeet_sign.jpeg,jpeg,352,329,-41.0
+19,4,501,Carbon (Soot) deposition in airway,p019_carbon_soot_deposition_in_airway.jpeg,jpeg,584,392,-30.0
+19,5,511,Burns of low voltage current,p019_burns_of_low_voltage_current.jpeg,jpeg,373,304,-19.0
+20,1,543,Cattle’s prod,p020_cattles_prod.jpeg,jpeg,559,324,-29.9
+20,2,547,Water boarding,p020_water_boarding.jpeg,jpeg,355,209,-2.6
+20,3,553,Saw horse,p020_saw_horse.jpeg,jpeg,464,503,-33.0
+20,4,557,Telefona,p020_telefona.jpeg,jpeg,464,503,-18.7
+20,5,561,Falanga/bastinado,p020_falanga_bastinado.jpeg,jpeg,464,503,-31.4
+20,6,565,Dunking,p020_dunking.jpeg,jpeg,348,277,-5.7
+20,7,569,Dry submarine,p020_dry_submarine.jpeg,jpeg,464,503,-28.3
+20,8,573,Wet submarine,p020_wet_submarine.jpeg,jpeg,511,435,14.1
+20,9,577,Hog tying,p020_hog_tying.jpeg,jpeg,548,323,-20.1
+20,10,581,El planton,p020_el_planton.jpeg,jpeg,288,467,-34.6
+21,1,592,Strappado/la bandera/palestinian hanging,p021_strappado_la_bandera_palestinian_hanging.jpeg,jpeg,267,400,-26.1
+21,2,594,Parrot’s perch,p021_parrots_perch.jpeg,jpeg,459,347,-11.0
+21,3,590,Wind/victim displacement,p021_wind_victim_displacement.jpeg,jpeg,552,329,58.0
+22,1,621,Types of Ballistics,p022_types_of_ballistics.jpeg,jpeg,477,307,-20.7
+22,2,633,2. Breech,p022_2_breech.jpeg,jpeg,768,189,-16.5
+22,3,645,Rifling +,p022_rifling.jpeg,jpeg,307,322,-8.0
+22,4,649,Smooth-bored gun/Shotgun,p022_smooth_bored_gun_shotgun.jpeg,jpeg,380,286,14.6
+23,1,665,Stability,p023_stability.jpeg,jpeg,480,258,-36.0
+23,2,678,Cylinder bore/Unchoked,p023_cylinder_bore_unchoked.png,png,570,226,-45.0
+23,3,691,Modified choke,p023_modified_choke.png,png,557,176,-41.0
+23,4,704,Improved cylinder,p023_improved_cylinder.png,png,539,182,-35.0
+23,5,717,Full choke,p023_full_choke.png,png,526,174,-45.0
+23,6,723,Rifled guns,p023_rifled_guns.jpeg,jpeg,392,411,-21.5
+24,1,736,Shotgun cartridge,p024_shotgun_cartridge.jpeg,jpeg,156,353,-53.0
+24,2,740,Bullet (Lead),p024_bullet_lead.jpeg,jpeg,127,293,-10.1
+24,3,750,Black gunpowder (80%),p024_black_gunpowder_80.jpeg,jpeg,403,307,40.4
+24,4,760,Black gunpowder (80%),p024_black_gunpowder_80_2.jpeg,jpeg,418,304,5.7
+24,5,770,Black gunpowder (80%),p024_black_gunpowder_80_3.jpeg,jpeg,380,307,40.9
+25,1,783,Fineness of gunpowder,p025_fineness_of_gunpowder.jpeg,jpeg,653,353,8.8
+25,2,795,Bullet wound,p025_bullet_wound.png,png,295,237,-47.0
+25,3,799,Abrasion collar,p025_abrasion_collar.jpeg,jpeg,584,401,-45.0
+26,1,850,(Cruciate) wound,p026_cruciate_wound.jpeg,jpeg,211,315,-19.8
+26,2,832,Contact shot,p026_contact_shot.jpeg,jpeg,220,144,-18.0
+26,3,836,Wound Characteristics in other Rifle Shots,p026_wound_characteristics_in_other_rifle_shots.jpeg,jpeg,417,159,33.7
+27,1,859,Wound,p027_wound.jpeg,jpeg,142,126,-36.6
+27,2,863,Wound,p027_wound_2.jpeg,jpeg,277,202,55.4
+27,3,871,,p027_img03.png,png,109,104,91.7
+27,4,879,around the wound,p027_around_the_wound.png,png,180,151,43.3
+27,5,885,around the wound,p027_around_the_wound_2.png,png,199,151,37.4
+27,6,889,Intermediate shot,p027_intermediate_shot.jpeg,jpeg,395,297,-41.0
+27,7,899,Distant shot,p027_distant_shot.jpeg,jpeg,494,371,-41.0
+28,1,962,Secondary marking,p028_secondary_marking.jpeg,jpeg,531,458,-41.0
+28,2,922,Distant shot,p028_distant_shot.jpeg,jpeg,308,382,-26.7
+28,3,932,Distant shot,p028_distant_shot_2.jpeg,jpeg,368,404,-24.2
+28,4,942,Intermediate shot,p028_intermediate_shot.jpeg,jpeg,539,327,-41.0
+28,5,946,Wound,p028_wound.png,png,276,229,-36.8
+28,6,950,Primary marking,p028_primary_marking.jpeg,jpeg,126,167,-41.0
+28,7,960,Secondary marking,p028_secondary_marking.png,png,545,557,-40.7
+29,1,1033,Fragments on impact,p029_fragments_on_impact.jpeg,jpeg,512,255,19.2
+29,2,969,Rubber tipped tweezers,p029_rubber_tipped_tweezers.jpeg,jpeg,454,104,-30.0
+29,3,973,Areas of maximum GSR deposition,p029_areas_of_maximum_gsr_deposition.jpeg,jpeg,634,466,-34.0
+29,4,986,Type of bullet,p029_type_of_bullet.jpeg,jpeg,684,198,19.2
+29,5,999,bullet path,p029_bullet_path.jpeg,jpeg,134,152,26.0
+29,6,1005,bullet path,p029_bullet_path_2.jpeg,jpeg,224,374,37.5
+29,7,1016,bullet path,p029_bullet_path.png,png,425,43,8.0
+29,8,1029,end to end,p029_end_to_end.jpeg,jpeg,486,69,18.4
+30,1,1067,Exit wound,p030_exit_wound.jpeg,jpeg,405,475,-7.9
+30,2,1050,path of the bullet,p030_path_of_the_bullet.png,png,333,181,-14.0
+30,3,1063,Exit wound,p030_exit_wound_2.jpeg,jpeg,387,499,-4.7
+40,1,1178,I shaped incision (M/c),p040_i_shaped_incision_m_c.jpeg,jpeg,266,425,-45.0
+40,2,1182,Y shaped incision,p040_y_shaped_incision.jpeg,jpeg,268,428,-45.0
+40,3,1186,Modified Y shaped incision,p040_modified_y_shaped_incision.jpeg,jpeg,271,433,-45.0
+40,4,1196,X incision,p040_x_incision.png,png,718,421,-45.0
+41,1,1205,Dissection methods,p041_dissection_methods.jpeg,jpeg,690,355,-26.0
+41,2,1211,Inflow outflow method,p041_inflow_outflow_method.png,png,304,370,-31.2
+42,1,1221,Kevorkian sign/cattle trucking sign,p042_kevorkian_sign_cattle_trucking_sign.jpeg,jpeg,399,401,-31.6
+42,2,1223,Tache noire sclerotica,p042_tache_noire_sclerotica.jpeg,jpeg,315,223,-9.0
+43,1,1265,Supine position,p043_supine_position.jpeg,jpeg,496,364,-34.0
+43,2,1267,"abdomen, legs",p043_abdomen_legs.jpeg,jpeg,520,343,71.9
+43,3,1239,Sigmoid/inverted S curve,p043_sigmoid_inverted_s_curve.jpeg,jpeg,249,212,-11.6
+43,4,1251,Prone position,p043_prone_position.png,png,377,275,-25.1
+43,5,1261,Vertical position,p043_vertical_position.png,png,188,310,-34.0
+44,1,1279,Contact pallor,p044_contact_pallor.jpeg,jpeg,614,352,-30.0
+45,1,1288,Cadaveric spasm,p045_cadaveric_spasm.jpeg,jpeg,415,388,-30.0
+45,2,1290,Time since death,p045_time_since_death.jpeg,jpeg,463,247,74.4
+45,3,1286,Gas Production,p045_gas_production.jpeg,jpeg,621,206,66.5
+46,1,1295,PM purge,p046_pm_purge.jpeg,jpeg,439,266,-30.0
+46,2,1297,PM blisters,p046_pm_blisters.jpeg,jpeg,545,292,-30.0
+47,1,1306,+ (> 7 months IUL),p047_7_months_iul.jpeg,jpeg,382,345,-24.9
+47,2,1308,+ (> 7 months IUL),p047_7_months_iul_2.jpeg,jpeg,460,332,17.8
+49,1,1369,Shovel shaped incisors,p049_shovel_shaped_incisors.jpeg,jpeg,491,250,-30.0
+49,2,1371,Carabelli’s cusp,p049_carabellis_cusp.png,png,439,416,-30.0
+49,3,1365,x 100,p049_x_100.png,png,147,281,15.9
+49,4,1367,Wider plump,p049_wider_plump.png,png,268,470,15.2
+50,1,1402,Pelvic inlet,p050_pelvic_inlet.jpeg,jpeg,595,231,-3.4
+50,2,1404,Greater sciatic notch,p050_greater_sciatic_notch.jpeg,jpeg,621,368,9.0
+50,3,1406,Greater sciatic notch,p050_greater_sciatic_notch_2.jpeg,jpeg,213,193,7.8
+50,4,1408,Greater sciatic notch,p050_greater_sciatic_notch_3.jpeg,jpeg,223,193,30.0
+51,1,1429,Pre-auricular sulcus,p051_pre_auricular_sulcus.jpeg,jpeg,485,347,-34.0
+51,2,1417,,p051_img02.jpeg,jpeg,674,278,75.2
+51,3,1427,,p051_img03.jpeg,jpeg,187,378,77.5
+52,1,1434,Medial end of clavicle,p052_medial_end_of_clavicle.jpeg,jpeg,598,371,-1.9
+52,2,1436,Medial end of clavicle,p052_medial_end_of_clavicle.png,png,489,245,-34.0
+52,3,1440,> 17 yrs,p052_17_yrs.png,png,245,276,-30.0
+52,4,1444,> 16 yrs,p052_16_yrs.jpeg,jpeg,228,309,-30.0
+52,5,1446,Lateral epicondyle,p052_lateral_epicondyle.png,png,674,350,2.4
+53,1,1459,L TP,p053_l_tp.png,png,269,366,-5.9
+53,2,1463,3 yrs - 4 yrs,p053_3_yrs_4_yrs.png,png,309,495,-30.0
+53,3,1457,Sagittal suture,p053_sagittal_suture.jpeg,jpeg,383,478,13.3
+55,1,1497,Palmer’s notation,p055_palmers_notation.jpeg,jpeg,735,342,71.4
+55,2,1501,Universal Method,p055_universal_method.png,png,738,347,73.9
+56,1,1514,Hepburn osteometric board,p056_hepburn_osteometric_board.jpeg,jpeg,560,329,-45.0
+56,2,1508,(Lower jaw),p056_lower_jaw.png,png,768,353,-22.9
+56,3,1512,(Lower jaw),p056_lower_jaw.jpeg,jpeg,670,317,74.8
+57,1,1519,"Starts, go to top",p057_starts_go_to_top.png,png,156,170,1.6
+57,2,1523,Start & end in,p057_start_and_end_in.png,png,132,137,-7.1
+57,3,1527,1 core,p057_1_core.png,png,137,162,17.2
+58,1,1534,Arrangement of,p058_arrangement_of.jpeg,jpeg,260,193,38.1
+58,2,1536,Rugoscopy (Study of rugae)/palatoscopy,p058_rugoscopy_study_of_rugae_palatoscopy.jpeg,jpeg,260,195,6.2
+58,3,1538,5 - 6 days,p058_5_6_days.jpeg,jpeg,304,217,10.9
+59,1,1543,,p059_img01.jpeg,jpeg,342,508,
