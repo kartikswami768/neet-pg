@@ -1,7 +1,7 @@
 {
-  "lastVersion": "4.1.1",
-  "aestheticStyle": "glass",
-  "positionStyle": "top",
+  "lastVersion": "4.1.4",
+  "aestheticStyle": "custom",
+  "positionStyle": "fixed",
   "menuCommands": [
     {
       "id": "editing-toolbar:editor-undo",
@@ -396,7 +396,7 @@
   "enableMultipleConfig": false,
   "enableTopToolbar": true,
   "enableFollowingToolbar": false,
-  "enableFixedToolbar": false,
+  "enableFixedToolbar": true,
   "appendMethod": "workspace",
   "shouldShowMenuOnSelect": false,
   "cMenuVisibility": true,
@@ -437,9 +437,9 @@
       "aestheticStyle": "default"
     },
     "fixed": {
-      "toolbarBackgroundColor": "rgba(var(--background-secondary-rgb), 0.7)",
-      "toolbarIconColor": "var(--text-normal)",
-      "toolbarIconSize": 12,
+      "toolbarBackgroundColor": "#F8F9FA",
+      "toolbarIconColor": "#6B7280",
+      "toolbarIconSize": 16,
       "aestheticStyle": "custom"
     },
     "mobile": {
@@ -449,9 +449,9 @@
       "aestheticStyle": "default"
     }
   },
-  "toolbarBackgroundColor": "#7E57C2",
-  "toolbarIconColor": "#FFFFFF",
-  "toolbarIconSize": 18,
+  "toolbarBackgroundColor": "#F8F9FA",
+  "toolbarIconColor": "#6B7280",
+  "toolbarIconSize": 16,
   "useCurrentLineForRegex": false,
   "ai": {
     "enabled": false,

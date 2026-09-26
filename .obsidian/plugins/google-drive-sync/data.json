@@ -1,0 +1,12 @@
+{
+  "refreshToken": "",
+  "clientId": "",
+  "clientSecret": "",
+  "accessTokenUrl": "",
+  "autoPush": false,
+  "operations": {},
+  "driveIdToPath": {},
+  "rootFolderId": "",
+  "lastSyncedAt": 0,
+  "changesToken": ""
+}
