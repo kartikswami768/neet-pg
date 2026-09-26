@@ -48,3 +48,12 @@ Output requirements:
 - If the input is extremely long, process it consistently in sections while maintaining the original hierarchy and continuity.
 
 Take a deep breath and work on this problem step-by-step.
+
+
+## Prompt #2 to extract for OCR
+Now generate a markdown document for first 59 pages of this pdf. Make sure everything stays the same, the tables, the flowcharts (as mermaid diagrams), and all the headings. You can keep the levels of headings as you wish and you can use upto 6 levels of headings as per need (and you are encouraged to do so). do not make any mistakes. most of the pdf has selectable text, use that with ocr to give out the most accurate version. also there can be some repeatable stuff (like header, footer, watermark). avoid that stuff in the markdown. also avoid mentioning page numbers in the markdown. 
+
+
+## Prompt to extract images out of a pdf
+Extract out all the images in this pdf into a zip folder. name each image with the tag/caption given to it in the pdf.
+
