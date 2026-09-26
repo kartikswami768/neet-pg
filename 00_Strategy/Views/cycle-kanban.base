@@ -1,0 +1,26 @@
+views:
+  - type: tasknotesKanban
+    name: Cycle Tasks
+    filters:
+      and:
+        - file.hasTag("task")
+        - file.inFolder("00_Strategy/Tasks")
+        - status != "done"
+        - file.hasLink(this.file)
+        - list(note.projects).map(file(value.replace(/^\[[^\]]+\]\((.*)\)$/, "$1").replace(/%20/g, " ")).asLink()).contains(this.file.asLink())
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - status
+      - priority
+      - due
+      - scheduled
+      - projects
+      - file.name
+    sort:
+      - property: tasknotes_manual_order
+        direction: DESC
+    config:
+      columnWidth: 280
+      hideEmptyColumns: false
