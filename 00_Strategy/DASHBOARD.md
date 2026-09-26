@@ -1,171 +1,134 @@
----
-type: dashboard
----
+### 
 
-# NEET-PG Command Center
+> [!info] Goal
+> Crack NEET PG with systematic coverage, revision, and testing.
+>
+> Status Scale:
+> **0** = Not Started
+> **1** = Started
+> **2** = PYQs Done
+> **3** = Notes Organized
+> **4** = Revised
+> **5** = Tested
+> **6** = Strong Area
 
-> **Purpose:** show what I should do now, how much of the syllabus I have covered, what needs revision, and where the canonical notes live.
-
----
-
-## Active Test Cycle
-
-![[Views/active-cycles.base]]
-
-[Open active cycle →](Cycles/ACTIVE%20CYCLE.md)
-
----
-
-## Today
-
-![[Views/today-tasks.base]]
 
 ---
 
-## Syllabus Progress
-
-> This is independent of the current test cycle. Overlap counts: studying a Medicine topic during a Pharmacology cycle can still move Medicine forward.
-
-~~~dataviewjs
-const pages = dv.pages().where(p => p.type === "curriculum");
-const subjectOrder = [
-  "Anatomy","Physiology","Biochemistry","Pathology","Pharmacology",
-  "Microbiology","Forensic Medicine","Forensics","Community Medicine","PSM",
-  "Medicine","Surgery","Pediatrics","OBG","Orthopedics","Dermatology",
-  "Psychiatry","Radiology","Anesthesia","ENT","Ophthalmology"
-];
-
-if (pages.length === 0) {
-  dv.paragraph("No curriculum units have been created yet. Start with: [[Templates/03 Curriculum Unit]].");
-} else {
-  const subjects = [...new Set(pages.map(p => p.subject).filter(Boolean))];
-  subjects.sort((a,b) => {
-    const ai = subjectOrder.indexOf(a), bi = subjectOrder.indexOf(b);
-    return (ai < 0 ? 999 : ai) - (bi < 0 ? 999 : bi);
-  });
-
-  const rows = subjects.map(subject => {
-    const units = pages.where(p => p.subject === subject);
-    const total = units.length;
-    const firstPass = units.where(p => p.coverage === "first-pass-complete").length;
-    const revised = units.where(p => Number(p.revision_count ?? 0) > 0).length;
-    const firstPct = total ? Math.round(firstPass / total * 100) : 0;
-    const revPct = total ? Math.round(revised / total * 100) : 0;
-    const bar = pct => "█".repeat(Math.round(pct / 10)) + "░".repeat(10 - Math.round(pct / 10));
-    return [subject, bar(firstPct) + " " + firstPct + "%", bar(revPct) + " " + revPct + "%", total];
-  });
-
-  dv.table(["Subject","First pass","Revision","Units"], rows);
-}
-~~~
+| Subject           | Status |
+| ----------------- | ------ |
+| Anatomy           | 0      |
+| Physiology        | 1      |
+| Biochemistry      | 0      |
+| Pathology         | 0      |
+| Pharmacology      | 0      |
+| Microbiology      | 0      |
+| Forensic Medicine | 0      |
+| PSM               | 0      |
+| ENT               | 0      |
+| Ophthalmology     | 0      |
+| Medicine          | 1      |
+| Surgery           | 0      |
+| Pediatrics        | 0      |
+| OBG               | 0      |
+| Orthopedics       | 0      |
+| Dermatology       | 0      |
+| Psychiatry        | 0      |
+| Radiology         | 0      |
+| Anesthesia        | 0      |
 
 ---
 
-## Medicine — System Progress
 
-~~~dataviewjs
-const med = dv.pages().where(p => p.type === "curriculum" && p.subject === "Medicine" && p.section);
-if (med.length === 0) {
-  dv.paragraph("No Medicine curriculum units yet. Create units with [[Templates/03 Curriculum Unit]].");
-} else {
-  const sections = [...new Set(med.map(p => p.section))].sort();
-  const rows = sections.map(section => {
-    const units = med.where(p => p.section === section);
-    const total = units.length;
-    const done = units.where(p => p.coverage === "first-pass-complete").length;
-    const pct = total ? Math.round(done / total * 100) : 0;
-    const bar = "█".repeat(Math.round(pct / 10)) + "░".repeat(10 - Math.round(pct / 10));
-    return [section, bar + " " + pct + "%", done + " / " + total];
-  });
-  dv.table(["System","First pass","Coverage"], rows);
-}
-~~~
-
-[Open full Medicine view →](Views/medicine-systems.base)
+| S. No. | Topics in Medicine | Status |
+| ------ | ------------------ | ------ |
+| 1      | Cardiology         | 1.92   |
+| 2      | Endocrine          | 2      |
+| 3      | GIT                | 0      |
+| 4      | Hematology         | 2      |
+| 5      | Infections         | 0      |
+| 6.     | Metabolism         |        |
+| 7      | Nephrology         | 0      |
+| 8      | Neurology          | 1.34   |
+| 9.     | Nutrition          | 0      |
+| 10     | Respiratory System | 2      |
+| 11     | Rheumatology       | 0      |
+|        |                    |        |
 
 ---
 
-## Surgery — System Progress
+> [!example] Focus This Week
+>
+> ### Systems
+> - [ ] Complete Cardiology PYQs
+> - [ ] Complete GIT PYQs
+> - [ ] Complete Neurology PYQs
+>
+> ### Tests
+> - [ ] 
+>
+> ### Organization
+> - [ ] Hematology PYQ
+> - [ ] Respi PYQ
+> - [ ] Cardiology
 
-~~~dataviewjs
-const surg = dv.pages().where(p => p.type === "curriculum" && p.subject === "Surgery" && p.section);
-if (surg.length === 0) {
-  dv.paragraph("No Surgery curriculum units yet. Create units with [[Templates/03 Curriculum Unit]].");
-} else {
-  const sections = [...new Set(surg.map(p => p.section))].sort();
-  const rows = sections.map(section => {
-    const units = surg.where(p => p.section === section);
-    const total = units.length;
-    const done = units.where(p => p.coverage === "first-pass-complete").length;
-    const pct = total ? Math.round(done / total * 100) : 0;
-    const bar = "█".repeat(Math.round(pct / 10)) + "░".repeat(10 - Math.round(pct / 10));
-    return [section, bar + " " + pct + "%", done + " / " + total];
-  });
-  dv.table(["System","First pass","Coverage"], rows);
-}
-~~~
+--- 
 
-[Open full Surgery view →](Views/surgery-systems.base)
-
----
-
-## Revision Queue
-
-![[Views/revision-queue.base]]
+> [!todo] Current Focus
+> - [ ] Neurology 
+> - [ ] GIT
 
 ---
 
-## Study Notes / Source Status
-
-~~~dataviewjs
-const sources = dv.pages().where(p => p.type === "study-source");
-if (sources.length === 0) {
-  dv.paragraph("No source registry entries yet. Start with [[Templates/04 Study Source]].");
-} else {
-  const statuses = ["draft","needs-review","final","deprecated"];
-  const rows = statuses.map(s => [s, sources.where(p => p.note_status === s).length]);
-  dv.table(["Note status","Count"], rows);
-}
-~~~
-
-[Open source registry →](Views/study-sources.base)
+> [!example] Next targets
+> - Finish pyq list 
 
 ---
 
-## Post-Test Review
-
-After every test, create:
-
-[[Templates/02 Test Review]]
-
-Use it to record:
-
-- what I planned vs what I actually completed
-- what I got wrong and why
-- weak areas
-- what should enter the revision queue
-- what should change in the next cycle
+> [!warning] Weak Topics
+>
+> ### Critical
+> - 
+>
+> ### Moderate
+> - 
+>
+> ### Minor
+> - 
 
 ---
 
-## Weekly / Cycle Check
-
-- [ ] Cycle plan is realistic
-- [ ] Daily tasks reflect the actual syllabus
-- [ ] First-pass coverage is being updated
-- [ ] Cross-subject coverage is being recorded
-- [ ] Test review is completed after the test
-- [ ] Revision dates are assigned
-- [ ] Canonical notes are marked correctly
+> [!success] Strong Areas
+>
+> - 
+> - 
+> - 
 
 ---
 
-## Quick Links
+## 📊 Subject Progress
+---
 
-- [[Templates/01 Study Cycle|New Study Cycle]]
-- [[Templates/02 Test Review|Test Review]]
-- [[Templates/03 Curriculum Unit|New Curriculum Unit]]
-- [[Templates/04 Study Source|New Study Source]]
-- [[Templates/05 Daily Study Plan|Daily Study Plan]]
-- [[Templates/06 Revision Session|Revision Session]]
-- [[STUDY OS — README|Study OS Guide]]
+
+> [!note] Question Statistics
+>
+> **Reflex PYQs Solved:** 0
+>
+> **Marrow Subject Tests:** 0
+>
+> **Grand Tests:** 0
+>
+
+
+---
+
+
+> [!tip] Weekly Review
+>
+> Every Sunday:
+>
+> - Update subject status
+> - Add new weak topics
+> - Remove mastered topics
+> - Review GT mistakes
+> - Plan next week's targets

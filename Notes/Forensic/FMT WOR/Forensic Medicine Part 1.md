@@ -1978,8 +1978,6 @@ flowchart TD
 
 ## Identification of Race, Sex and Age
 
-**00:00:56**
-
 ## Race
 
 ### Indices for race determination
@@ -1993,7 +1991,7 @@ Mnemonic : **BCCI**
 
 ### Cephalic index
 
-- Cephalic index = \(\dfrac{\text{max breadth of skull} \times 100}{\text{max length of skull}}\)
+- Cephalic index = $$\dfrac{\text{max breadth of skull} \times 100}{\text{max length of skull}}$$
 - 70 - 74.9 : **Dolicocephalic** — Aryans/Africans.
 - 75 - 79.9 : **Mesaticephalic** — Indian/Chinese/Europeans (Mnemonic : ICE).
 - 80 - 85 : **Brachycephalic** — Japanese.
@@ -2020,23 +2018,23 @@ Mnemonic : **BCCI**
 
 ### Sex determination
 
-| Feature | Male | Female |
-|---|---|---|
-| Muscle markings | More prominent | Less prominent. Exceptions: frontal and parietal eminence (Skull); pre-auricular sulcus (Pelvis) |
-| Skull (Orbits, chin) — Shape | Square | Rounded |
-| Obturator foramen | Large and oval | Small and triangular |
-| Forehead | Sloping | Vertical |
-| Pelvic inlet | Heart shaped | Circular |
-| Acetabulum and sacroiliac articulation | Larger | Smaller |
-| Mandibular angle | Less obtuse: < 125° | More obtuse: > 125° |
-| Subpubic angle | < 90° | > 90° |
-| Ischial tuberosity | Inverted | Everted |
-| Greater sciatic notch (Best) | Deep and narrow | Wide and shallow |
-| Higher index | Corporobasal index; Sciatic index (Best); Ischiopubic/Washburn index; Sternal index | — |
-| Sacrum — shape | Long and narrow | Short and wide |
-| Sacrum — promontory | More prominent | Less prominent |
-| Sternal length (Manubrium + body) — Ashley’s rule of 149 | > 149 mm | < 149 mm |
-| Hyrtl’s law | Body > 2× length of manubrium | Body < 2× length of manubrium |
+| Feature                                                  | Male                                                                                | Female                                                                                           |
+| -------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Muscle markings                                          | More prominent                                                                      | Less prominent. Exceptions: frontal and parietal eminence (Skull); pre-auricular sulcus (Pelvis) |
+| Skull (Orbits, chin) — Shape                             | Square                                                                              | Rounded                                                                                          |
+| Obturator foramen                                        | Large and oval                                                                      | Small and triangular                                                                             |
+| Forehead                                                 | Sloping                                                                             | Vertical                                                                                         |
+| Pelvic inlet                                             | Heart shaped                                                                        | Circular                                                                                         |
+| Acetabulum and sacroiliac articulation                   | Larger                                                                              | Smaller                                                                                          |
+| Mandibular angle                                         | Less obtuse: < 125°                                                                 | More obtuse: > 125°                                                                              |
+| Subpubic angle                                           | < 90°                                                                               | > 90°                                                                                            |
+| Ischial tuberosity                                       | Inverted                                                                            | Everted                                                                                          |
+| Greater sciatic notch ==(Best)==                         | Deep and narrow                                                                     | Wide and shallow                                                                                 |
+| Higher index                                             | Corporobasal index; Sciatic index (Best); Ischiopubic/Washburn index; Sternal index | —                                                                                                |
+| Sacrum — shape                                           | Long and narrow                                                                     | Short and wide                                                                                   |
+| Sacrum — promontory                                      | More prominent                                                                      | Less prominent                                                                                   |
+| Sternal length (Manubrium + body) — Ashley’s rule of 149 | > 149 mm                                                                            | < 149 mm                                                                                         |
+| Hyrtl’s law                                              | Body > 2× length of manubrium                                                       | Body < 2× length of manubrium                                                                    |
 
 ## Accuracy of sex determination from bones / Krogman’s accuracy
 
@@ -2061,18 +2059,21 @@ Mnemonic : **BCCI**
 
 ```mermaid
 flowchart TD
-    A[Age estimation] --> B[Fetus]
-    A --> C[Prepuberty]
-    A --> D[Adult]
-    B --> B1[Crown to heel length]
-    B --> B2[Ossification]
-    C --> C1[Teeth]
-    C --> C2[Ossification]
-    C1 --> C3[Eruption]
-    C1 --> C4[Mineralization<br/>(Most reliable)]
-    D --> D1[Teeth: Secondary changes]
-    D --> D2[Skull sutures: Closures]
-    D --> D3[Pubic symphyseal surface change<br/>(Reliable) — Todd's method]
+    A["Age estimation"] --> B["Fetus"]
+    A --> C["Prepuberty"]
+    A --> D["Adult"]
+
+    B --> B1["Crown-to-heel<br>length"]
+    B --> B2["Ossification"]
+
+    C --> C1["Teeth"]
+    C --> C2["Ossification"]
+    C1 --> C3["Eruption"]
+    C1 --> C4["Mineralization<br>(most reliable)"]
+
+    D --> D1["Teeth:<br>secondary changes"]
+    D --> D2["Skull sutures:<br>closure"]
+    D --> D3["Pubic symphyseal surface change<br>(reliable) - Todd's method"]
 ```
 
 ### Crown to heel length (CHL)
