@@ -1,7 +1,7 @@
 ---
 type: test-review
 subject: <% tp.system.prompt("Subject") %>
-test_date: <% tp.date.now("YYYY-MM-DD") %>
+test_date: <% tp.system.prompt("Test date (YYYY-MM-DD)") %>
 review_date: <% tp.date.now("YYYY-MM-DD") %>
 cycle:
 score:
