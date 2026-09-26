@@ -1,8 +1,8 @@
 ---
 type: study-cycle
 subject: <% tp.system.prompt("Subject") %>
-test_date: <% tp.date.now("YYYY-MM-DD") %>
-cycle_start: <% tp.date.now("YYYY-MM-DD") %>
+test_date: <% tp.system.prompt("Test date (YYYY-MM-DD)") %>
+cycle_start: <% tp.system.prompt("Cycle start date (YYYY-MM-DD)") %>
 status: active
 ---
 
@@ -29,7 +29,7 @@ status: active
 
 ## Daily plan
 
-### Day 1 — <% tp.date.now("ddd, DD MMM YYYY") %>
+### Day 1
 
 - [ ] 
 - [ ] 
@@ -65,8 +65,9 @@ status: active
 - [ ] 
 - [ ] 
 
-### Test day
+### Day 7 / Test day
 
+- [ ] Complete final planned first-pass work
 - [ ] Sit test
 - [ ] Save score/result
 - [ ] Create test-review note
@@ -87,4 +88,3 @@ status: active
 - [ ] First-pass coverage updated
 - [ ] Note/source status updated
 - [ ] Next revision dates assigned
-
