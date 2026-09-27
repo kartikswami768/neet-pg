@@ -1,1 +1,1 @@
-Created on android
+Created on ipad
