@@ -1,0 +1,20 @@
+filters:
+  and:
+    - type == "study-source"
+views:
+  - type: table
+    name: Study Sources
+    order:
+      - file.name
+      - subject
+      - section
+      - source_type
+      - note_status
+      - primary_note
+      - pyq_source
+      - last_verified
+    sort:
+      - property: subject
+        direction: ASC
+      - property: section
+        direction: ASC

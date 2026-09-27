@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"05ea72cd0fc732fd","type":"text","text":"Urine osmolality","x":46,"y":24,"width":250,"height":60},
+		{"id":"b5738bc8086bc25a","type":"text","text":"<300 mOsm/L","x":-309,"y":239,"width":250,"height":60},
+		{"id":"b8cbd7fb2fc775b8","type":"text","text":"Water Diuresis\n- Total daily solute excretion < 1000\n1. [[Central Diabetes Insipidus]]\n2. [[Nephrogenic Diabetes Insipidus]]\n3. Psychogenic Polydipsia","x":-307,"y":371,"width":248,"height":269},
+		{"id":"de867f7937774889","type":"text","text":"300 - 600 mOsm/L\nCalculate total daily solute excretion","x":42,"y":246,"width":254,"height":94},
+		{"id":"a8b64e7ffdc835b3","type":"text","text":">600 mOsm/L ","x":417,"y":219,"width":250,"height":60},
+		{"id":"f56ed07c4bf9cdf1","type":"text","text":"Solute driven Diuresis\n-  Total daily solute excretion > 1000\n1. Diabetes mellitus\n2. SGLT2 inhibitors\n3. Mannitol\n4. Steroids\n5. Post Obstruction","x":418,"y":385,"width":249,"height":255},
+		{"id":"806cb3ce48ede983","x":37,"y":646,"width":250,"height":60,"type":"text","text":"#medicine #nephrology "}
+	],
+	"edges":[
+		{"id":"2095f0a1408e76b6","fromNode":"05ea72cd0fc732fd","fromSide":"bottom","toNode":"b5738bc8086bc25a","toSide":"top"},
+		{"id":"3d59f4e7accd38ed","fromNode":"b5738bc8086bc25a","fromSide":"bottom","toNode":"b8cbd7fb2fc775b8","toSide":"top"},
+		{"id":"483cb2d0cbca4f81","fromNode":"05ea72cd0fc732fd","fromSide":"bottom","toNode":"de867f7937774889","toSide":"top"},
+		{"id":"918f91142d6362b0","fromNode":"de867f7937774889","fromSide":"left","toNode":"b8cbd7fb2fc775b8","toSide":"right"},
+		{"id":"ed6468679aa845ab","fromNode":"05ea72cd0fc732fd","fromSide":"bottom","toNode":"a8b64e7ffdc835b3","toSide":"top"},
+		{"id":"7b88ad40a3fa2f2a","fromNode":"a8b64e7ffdc835b3","fromSide":"bottom","toNode":"f56ed07c4bf9cdf1","toSide":"top"},
+		{"id":"e07e282e771a7e32","fromNode":"de867f7937774889","fromSide":"right","toNode":"f56ed07c4bf9cdf1","toSide":"left"}
+	]
+}

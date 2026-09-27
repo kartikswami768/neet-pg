@@ -1,0 +1,37 @@
+filters:
+  and:
+    - file.inFolder("Notes/")
+properties:
+  note.type:
+    displayName: Notes type
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Subject
+      - Subject Section
+      - type
+      - tags
+      - file.links
+      - file.backlinks
+      - file.folder
+    sort:
+      - property: file.folder
+        direction: ASC
+  - type: cards
+    name: Cards
+    order:
+      - file.name
+      - Subject
+      - Subject Section
+      - file.backlinks
+      - file.folder
+      - file.links
+      - file.tags
+      - related_content
+    cardSize: 180
+    imageAspectRatio: 0.25
+  - type: list
+    name: View
+    indentProperties: false
