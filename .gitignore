@@ -44,7 +44,7 @@
 .obsidian/plugins/*/styles.css
 
 # Sync Setting for all plugin settings by default
-!.obsidian/plugins/*/data.json
+.obsidian/plugins/*/data.json
 
 
 # =========================================================
