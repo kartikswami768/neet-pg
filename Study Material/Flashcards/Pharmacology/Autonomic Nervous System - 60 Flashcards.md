@@ -21,6 +21,8 @@ tags:
 
 These cards are derived from the ANS notes and focused on NEET-PG/INI-CET active recall.
 
+#flashcards/Pharmacology/Autonomic-Nervous-System
+
 <!-- card_id: ANS-001 | topic: ANS regulation | subtopic: Neurotransmitters | card_type: fact | receptor: none | difficulty: 1 | exam: NEET-PG, INI-CET | source_note: 02_Autonomic_Nervous_System(1).md -->
 What is the major neurotransmitter of the postganglionic sympathetic nervous system?::Norepinephrine (NE).
 
