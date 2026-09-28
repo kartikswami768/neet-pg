@@ -20,7 +20,7 @@ Complete the **Day 1 first pass** of the active five-day Pharmacology cycle and 
 
 ### Block A — General Pharmacology
 
-- [ ] [[02_General_Pharmacology]] — complete first-pass coverage
+- [x] [[02_General_Pharmacology]] — complete first-pass coverage
 - [ ] Reproduce major classifications and core mechanisms from memory
 - [ ] Review important pharmacokinetic/pharmacodynamic concepts, interactions, adverse effects, and antidotes
 
