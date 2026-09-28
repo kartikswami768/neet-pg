@@ -209,3 +209,40 @@ tags:
 - Prednisolone.
 
 **Low grade:** FCR regimen.
+
+## First Aid 2025 — Anticancer Drug Naming
+
+### Antineoplastic Name Suffixes
+
+| Ending | Category | Example |
+|---|---|---|
+| **-case** | Recombinant uricase | Rasburicase |
+| **-mustine** | Nitrosourea | Carmustine |
+| **-platin** | Platinum compound | Cisplatin |
+| **-poside** | Topoisomerase II inhibitor | Etoposide |
+| **-rubicin** | Anthracycline | Doxorubicin |
+| **-taxel** | Taxane | Paclitaxel |
+| **-tecan** | Topoisomerase I inhibitor | Irinotecan |
+
+### Biologic Agents
+
+| Ending | Category | Example |
+|---|---|---|
+| **-mab** | Monoclonal antibody | — |
+| **-ximab** | Chimeric human-mouse monoclonal antibody | Rituximab |
+| **-zumab** | Humanized monoclonal antibody | Bevacizumab |
+| **-umab** | Human monoclonal antibody | Denosumab |
+| **-ciclib** | Cyclin-dependent kinase inhibitor | Palbociclib |
+| **-coxib** | COX-2 inhibitor | Celecoxib |
+| **-parib** | PARP inhibitor | Olaparib |
+| **-rafenib** | BRAF inhibitor | Vemurafenib |
+| **-tinib** | Tyrosine kinase inhibitor | Imatinib |
+| **-zomib** | Proteasome inhibitor | Bortezomib |
+| **-leukin** | Interleukin-2 agonist/analog | Aldesleukin |
+| **-kinra** | Interleukin-receptor antagonist | Anakinra |
+
+### Additional Monoclonal Antibody Naming Cues
+
+- **-ximab:** chimeric monoclonal antibody.
+- **-zumab:** humanized monoclonal antibody.
+- **-umab:** fully human monoclonal antibody.
