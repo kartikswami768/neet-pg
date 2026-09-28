@@ -6,7 +6,7 @@ aliases:
   - "Chemotherapy"
 subject: "Pharmacology"
 section: "Immunomodulators and Anticancer Drugs"
-type: "study-notes"
+type: "Marrow"
 source: "Marrow — World of Revision — Pharmacology (2025)"
 tags:
   - pharmacology
