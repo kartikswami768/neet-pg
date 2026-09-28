@@ -43,6 +43,7 @@ What is the G-protein coupling and major high-yield role of the M1 receptor?::M1
 
 ### ANS-007 — Cholinergic receptors · Muscarinic · receptor · receptor: M2 · difficulty: 1
 What is the G-protein coupling and major effect of M2 receptors?::M2 is Gi-coupled; it decreases heart rate, AV-node conduction and atrial contractility.
+<!--SR:!2026-10-01,3,250-->
 
 ### ANS-008 — Cholinergic receptors · Muscarinic · receptor · receptor: M3 · difficulty: 2
 What are the major high-yield effects of M3 receptor activation?::Increased exocrine secretion, gut peristalsis and bladder contraction; bronchoconstriction; miosis and accommodation; and vasodilation via vascular endothelium.
@@ -109,6 +110,7 @@ What is the classic treatment combination for organophosphate poisoning?::Atropi
 
 ### ANS-029 — Antimuscarinics · Poisoning · toxicology · receptor: Muscarinic · difficulty: 1
 What is the DOC for severe anticholinergic poisoning such as atropine or Datura toxicity in the notes?::Physostigmine.
+<!--SR:!2026-09-29,1,230-->
 
 ### ANS-030 — Antimuscarinics · Clinical uses · drug-use · receptor: Muscarinic · difficulty: 1
 Which antimuscarinic is classically associated with prevention of motion sickness?::Scopolamine (hyoscine).
