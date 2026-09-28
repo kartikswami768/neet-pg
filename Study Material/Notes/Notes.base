@@ -7,6 +7,9 @@ properties:
 views:
   - type: table
     name: Table
+    filters:
+      or:
+        - file.inFolder("Study Material/Notes/Pharmacology")
     order:
       - file.name
       - Subject
