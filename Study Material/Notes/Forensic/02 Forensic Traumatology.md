@@ -34,7 +34,7 @@ Source: Marrow 6.5
 | 59–65     | [[#7. Transportation Injuries\|Pedestrian, occupant, dashboard/seatbelt, whiplash, deceleration and related injuries]]                    |
 ## Contents
 1. [x] Mechanical Injuries ✅ 2026-09-25
-2. [x] Regional Injuries ✅ 2026-09-25
+2. [[Regional Injuries]]
 3. [x] Thermal Injuries ✅ 2026-09-25
 4. [ ] Proximal Ballistics
 5. [x] Intermediate and Distant Ballistics ✅ 2026-09-25
