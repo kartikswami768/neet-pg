@@ -477,26 +477,26 @@ E.g. :
 
 ### Receptors
 
-| Type of receptor | Sub-types | Examples |
-|---|---|---|
-| Ligand gated ion channel | — | • GABAA<br>• Glutamate (NMDA, AMPA, Kainate)<br>• Nicotinic<br>• 5-HT3 |
-| Enzymatic | Tyrosine kinase receptors | • EGFR (Her-1)<br>• Insulin, IGF-1<br>• Toll-like receptors<br>• VEGFR<br>• Her-2 |
-| Enzymatic | Serine/threonine kinase receptors | TGFR |
-| Enzymatic | Janus kinase receptors (JAK) : Sub-type of tyrosine kinase receptor | • Cytokine receptors (Eg : Leptin)<br>• Prolactin<br>• Growth hormone |
-| Enzymatic | Guanylyl cyclase linked receptor | ANP & BNP (Vasodilatation) |
-| Nuclear | Located in nucleus (TREP) | • Thyroid<br>• Retinoic acid<br>• Retinoid X<br>• Estrogen<br>• Progesterone<br>• PPAR (Peroxisome Proliferator Activated Receptor) |
-| Nuclear | Located in cytoplasm | • Mineralocorticoid<br>• Glucocorticoid<br>• Androgen<br>• Vitamin D |
+| Type of receptor         | Sub-types                                                           | Examples                                                                                                                                            |                                                         |
+| ------------------------ | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| Ligand gated ion channel | —                                                                   | • GABAA<br>• Glutamate (NMDA, AMPA, Kainate)<br>• Nicotinic<br>• 5-HT3                                                                              |                                                         |
+| Enzymatic                | Tyrosine kinase receptors                                           | • EGFR (Her-1)<br>• ==Insulin, IGF-1==<br>• ==Toll-like receptors==<br>• VEGFR<br>• ==Her-2==                                                       |                                                         |
+| Enzymatic                | Serine/threonine kinase receptors                                   | TGFR                                                                                                                                                |                                                         |
+| Enzymatic                | Janus kinase receptors (JAK) : Sub-type of tyrosine kinase receptor | • Cytokine receptors (Eg : Leptin)<br>• ==Prolactin==<br>• ==Growth hormone==                                                                       |                                                         |
+| Enzymatic                | ==Guanylyl cyclase== linked receptor                                | ANP & BNP (Vasodilatation)                                                                                                                          |                                                         |
+| Nuclear                  | Located in ==nucleus== (TREP)                                       | • ==Thyroid==<br>• Retinoic acid<br>• Retinoid X<br>• ==Estrogen==<br>• ==Progesterone==<br>• ==PPAR== (Peroxisome Proliferator Activated Receptor) |                                                         |
+| Nuclear                  | Located in ==cytoplasm==                                            | • Mineralocorticoid<br>• Glucocorticoid<br>• Androgen<br>• Vitamin D                                                                                | Everything being released by/near kidney is Cytoplasmic |
 
 ### G-protein coupled receptors (GPCR)
-
+[[02_Autonomic_Nervous_System#G-Protein–Linked Second Messengers|GPCR Receptors of ANS, their Location and function]]
 **M/c subunit : α**
 
-| GPCR | MOA | Examples | Drugs |
-|---|---|---|---|
-| Gs | + Adenylate cyclase → ↑ cAMP → Cardiac & skeletal muscles → Contraction; Smooth muscles → Relaxation | β1, β2 | — |
-| Gq | + Phospholipase C → ↑ IP3 (2nd messenger) → ↑ Ca²⁺ production → Smooth muscle contraction | α1, M1, M3 | • Oxytocin<br>• Angiotensin |
-| Gi/o (Inhibitory) | ↓ cAMP (Gi); ↓ Ca²⁺ (Go); Open K⁺ channels (Gi and Go) → Relaxation | Presynaptic/autoreceptors : M2 (Heart), α2, H3, 5-HT1 | — |
-| G12/13 | + Rho kinase → Smooth muscle contraction | — | **Rho kinase − :**<br>• Fasudil → Angina (Vasodilator)<br>• Netarsudil → Glaucoma<br>• Belumosudil → Immunosuppression |
+| GPCR              | MOA                                                                                                      | Examples                                              | Drugs                                                                                                                  |                                                                                |
+| ----------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| Gs                | + Adenylate cyclase → ↑ cAMP → Cardiac & skeletal muscles → Contraction; ==Smooth muscles → Relaxation== | β1, β2                                                | —                                                                                                                      | β1, β2 cause ↑ CO and dilate vessels                                           |
+| Gq                | + Phospholipase C → ↑ IP3 (2nd messenger) → ↑ Ca²⁺ production → Smooth muscle contraction                | α1, M1, M3                                            | • Oxytocin<br>• Angiotensin                                                                                            | These are stimulatory receptors in a way. remember their function and location |
+| Gi/o (Inhibitory) | ↓ cAMP (Gi); ↓ Ca²⁺ (Go); Open K⁺ channels (Gi and Go) → Relaxation                                      | Presynaptic/autoreceptors : M2 (Heart), α2, H3, 5-HT1 | —                                                                                                                      | These are inhibitory as in name                                                |
+| G12/13            | + Rho kinase → Smooth muscle contraction                                                                 | —                                                     | **Rho kinase − :**<br>• Fasudil → Angina (Vasodilator)<br>• Netarsudil → Glaucoma<br>• Belumosudil → Immunosuppression |                                                                                |
 
 ### Drug Safety
 

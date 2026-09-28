@@ -78,6 +78,7 @@ tags:
 | **β3**   | Gs  | Adipose<br>Bladder Detrussor                                                                                                                                     | ↑ lipolysis<br>Relaxation of Detrussor                                                                     | increasing availability of fatty acids        |
 
 ### G-Protein–Linked Second Messengers
+[[01_General_Pharmacology#G-protein coupled receptors (GPCR)|GPCR receptors]]
 
 | Receptor | G-protein | Major functions                                                                                                      |
 | -------- | --------- | -------------------------------------------------------------------------------------------------------------------- |
