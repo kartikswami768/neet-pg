@@ -537,3 +537,9 @@ Phosphodiesterase (PDE) inhibitors inhibit hydrolysis of cAMP and/or cGMP, incre
 | Torsades de pointes | Methadone, class IA/III antiarrhythmics, macrolides, fluoroquinolones, ziprasidone, TCAs, ondansetron, fluconazole |
 
 **Vancomycin infusion reaction:** histamine-mediated widespread pruritic erythema; infusion-rate dependent. Manage by slowing the infusion and using diphenhydramine.
+
+### First Aid Source Mnemonics — Cardiovascular Toxicities
+
+- **Coronary vasospasm:** Cocaine, Amphetamines, Sumatriptan, Ergot alkaloids (**CASE**).
+- **Cutaneous flushing:** Vancomycin, Adenosine, Niacin, Ca²⁺ channel blockers, Echinocandins, Nitrates (**VANCEN**).
+- **Torsades de pointes:** memorize the major QT-prolonging groups as **ABCDEF**: antiarrhythmics, antibiotics, antipsychotics, antidepressants, antiemetics and antifungals; methadone is also a classic association.
