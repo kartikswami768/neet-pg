@@ -26,7 +26,7 @@ These cards are derived from the ANS notes and focused on NEET-PG/INI-CET active
 <!-- card_id: ANS-001 | topic: ANS regulation | subtopic: Neurotransmitters | card_type: fact | receptor: none | difficulty: 1 | exam: NEET-PG, INI-CET | source_note: 02_Autonomic_Nervous_System(1).md -->
 What is the major neurotransmitter of the postganglionic sympathetic nervous system?::Norepinephrine (NE).
 
-<!-- card_id: ANS-002 | topic: ANS regulation | subtopic: Exceptions | card_type: fact | receptor: none | difficulty: 1 | exam: NEET-PG, INI-CET | source_note: 02_Autonomic_Nervous_System(1).md -->
+<!-- card_id: ANS-002 | topic: ANS regulation | subtopic: Exceptions | card_type: fact | receptor: none | difficulty: 1 | exam: NEET-PG, INI-CET | source_note: <mark style="background: #ADCCFFA6;"></mark>02_Autonomic_Nervous_System(1).md -->
 Where does the sympathetic system use acetylcholine instead of the usual norepinephrine at its target?::At sweat glands; the adrenal medulla also receives acetylcholine from preganglionic sympathetic fibers.
 
 <!-- card_id: ANS-003 | topic: ANS regulation | subtopic: Dopamine | card_type: receptor | receptor: D1 | difficulty: 1 | exam: NEET-PG, INI-CET | source_note: 02_Autonomic_Nervous_System(1).md -->
