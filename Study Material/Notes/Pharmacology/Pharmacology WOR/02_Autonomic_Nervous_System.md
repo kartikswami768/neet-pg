@@ -408,20 +408,22 @@ Act on **Nn (neuronal nicotinic) receptors** in autonomic ganglia.
 
 ### CNS
 
-| Parasympathomimetic | Parasympatholytic | Sympathomimetic | Sympatholytic |
-|---|---|---|---|
-| ↑ Cognition | ↓ Cognition | — | Lipid-soluble β-blockers s/e: depression, insomnia, nightmares |
-| Donepezil (DOC) in Alzheimer’s disease/dementia | Scopolamine: AKA truth serum for narcoanalysis (DOC: thiopentone) | — | — |
+| Parasympathomimetic                                               | Parasympatholytic                                                 | Sympathomimetic | Sympatholytic                                                                                  |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------- | --------------- | ---------------------------------------------------------------------------------------------- |
+| ↑ Cognition                                                       | ↓ Cognition                                                       | —               | Lipid-soluble β-blockers s/e: depression, insomnia, nightmares                                 |
+| Donepezil (DOC) in Alzheimer’s disease/dementia                   | Scopolamine: AKA truth serum for narcoanalysis (DOC: thiopentone) | —               | Propanolol: if you are not able to sleep because of anxiety, propanolol is not the best option |
+| Physostigmine used in atropine toxicity as both of them cross BBB | Atropine                                                          |                 |                                                                                                |
 
 ### Pupil
+Ciliary muscles only have M3 receptors. So sympatholytic will not be able to cause their paralysis, that is, cycloplegia.
 
-| Parasympathomimetic | Parasympatholytic | Sympathomimetic | Sympatholytic |
-|---|---|---|---|
-| **Active miosis** | **Passive mydriasis** | **Active mydriasis** | **Passive miosis** |
-| Pilocarpine (DOC): closed-angle glaucoma | Tropicamide; atropine (1% ointment); homatropine; cyclopentolate | Phenylephrine; ephedrine | Phenoxybenzamine; prazosin |
-|  | Ocular fundus exam; uveitis/corneal ulcers → prevent synechiae |  |  |
-|  | C/i: closed-angle glaucoma → precipitates acute congestive glaucoma |  |  |
-|  | Cycloplegic function: ↓iridocyclitis pain; refractive error testing: children → 1% atropine, adult → tropicamide drops |  | No cycloplegic function |
+| Parasympathomimetic                      | Parasympatholytic                                                                                                      | Sympathomimetic          | Sympatholytic              |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------ | -------------------------- |
+| **Active miosis**                        | **Passive mydriasis**                                                                                                  | **Active mydriasis**     | **Passive miosis**         |
+| Pilocarpine (DOC): closed-angle glaucoma | Tropicamide; atropine (1% ointment); homatropine; cyclopentolate                                                       | Phenylephrine; ephedrine | Phenoxybenzamine; prazosin |
+|                                          | Ocular fundus exam; uveitis/corneal ulcers → prevent synechiae                                                         |                          |                            |
+|                                          | C/i: closed-angle glaucoma → precipitates acute congestive glaucoma                                                    |                          |                            |
+|                                          | Cycloplegic function: ↓iridocyclitis pain; refractive error testing: children → 1% atropine, adult → tropicamide drops |                          | No cycloplegic function    |
 
 ### Oro-pharyngeal secretions, bronchi, heart and bladder
 
@@ -481,7 +483,7 @@ The pontine micturition center coordinates sympathetic and parasympathetic contr
 | Neostigmine: Dx & Rx of MG; cobra bite; NDMR reversal | Pre-medication atropine before edrophonium/neostigmine: prevent muscarinic s/e |  |  |
 | Pyridostigmine (DOC): management of MG |  |  |  |
 
-## Drug action on blood vessels
+### Drug action on blood vessels
 
 |  | Sympathomimetic | Sympatholytic |
 |---|---|---|
@@ -496,7 +498,7 @@ The pontine micturition center coordinates sympathetic and parasympathetic contr
 | **HTN with BPH** | — | α₁−: terazosin, doxazosin, prazosin (DOC: scorpion bite); BPH DOC (α₁a−): tamsulosin, silodosin |
 | **Other** | β-blockers: HTN in young age (↓renin) | — |
 
-## Drug action on GIT
+### Drug action on GIT
 
 |  | Parasympathomimetic | Parasympatholytic |
 |---|---|---|
@@ -678,21 +680,21 @@ Important complications include acute angle-closure glaucoma, urinary retention 
 
 ### Sympathomimetics — High-Yield Table
 
-| Drug | Receptor profile | Main use / effect |
-|---|---|---|
-| **Albuterol, salmeterol, terbutaline** | β2 > β1 | Bronchodilation; terbutaline also for tocolysis |
-| **Dobutamine** | β1 > β2 | Inotrope; acute decompensated HF with cardiogenic shock; stress testing |
-| **Dopamine** | D1 = D2 > β > α | Dose-dependent inotropy/chronotropy/vasoconstriction |
-| **Epinephrine** | β > α | Anaphylaxis, asthma and shock |
-| **Fenoldopam** | D1 | Vasodilator; postoperative or hypertensive crisis; natriuresis |
-| **Isoproterenol** | β1 = β2 | Electrophysiologic evaluation of tachyarrhythmias |
-| **Midodrine** | α1 | Autonomic insufficiency and postural hypotension |
-| **Mirabegron** | β3 | Overactive bladder |
-| **Norepinephrine** | α1 > α2 > β1 | Hypotension and septic shock |
-| **Phenylephrine** | α1 > α2 | Vasoconstriction, mydriasis, decongestant, ischemic priapism |
-| **Amphetamine** | Indirect agonist / reuptake inhibitor | Narcolepsy, ADHD, obesity |
-| **Cocaine** | Reuptake inhibitor | Vasoconstriction and local anesthesia |
-| **Ephedrine** | Indirect agonist; releases stored catecholamines | Nasal decongestion, urinary incontinence, hypotension |
+| Drug                                   | Receptor profile                                 | Main use / effect                                                       |
+| -------------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------- |
+| **Albuterol, salmeterol, terbutaline** | β2 > β1                                          | Bronchodilation; terbutaline also for tocolysis                         |
+| **Dobutamine**                         | β1 > β2                                          | Inotrope; acute decompensated HF with cardiogenic shock; stress testing |
+| **Dopamine**                           | D1 = D2 > β > α                                  | Dose-dependent inotropy/chronotropy/vasoconstriction                    |
+| **Epinephrine**                        | β > α                                            | Anaphylaxis, asthma and shock                                           |
+| **Fenoldopam**                         | D1                                               | Vasodilator; postoperative or hypertensive crisis; natriuresis          |
+| **Isoproterenol**                      | β1 = β2                                          | Electrophysiologic evaluation of tachyarrhythmias                       |
+| **Midodrine**                          | α1                                               | Autonomic insufficiency and postural hypotension                        |
+| **Mirabegron**                         | β3                                               | Overactive bladder                                                      |
+| **Norepinephrine**                     | α1 > α2 > β1                                     | Hypotension and septic shock                                            |
+| **Phenylephrine**                      | α1 > α2                                          | Vasoconstriction, mydriasis, decongestant, ischemic priapism            |
+| **Amphetamine**                        | Indirect agonist / reuptake inhibitor            | Narcolepsy, ADHD, obesity                                               |
+| **Cocaine**                            | Reuptake inhibitor                               | Vasoconstriction and local anesthesia                                   |
+| **Ephedrine**                          | Indirect agonist; releases stored catecholamines | Nasal decongestion, urinary incontinence, hypotension                   |
 
 ### Physiologic Effects of Sympathomimetics
 
@@ -703,15 +705,15 @@ Important complications include acute angle-closure glaucoma, urinary retention 
 
 ### Sympatholytics and α-Blockers
 
-| Drug / class | Main applications | Important adverse effects |
-|---|---|---|
-| **Clonidine, guanfacine** | Selected hypertensive urgency; ADHD; Tourette syndrome; opioid withdrawal symptom control | CNS depression, bradycardia, hypotension, rebound hypertension |
-| **α-methyldopa** | Hypertension in pregnancy | Coombs-positive hemolysis, drug-induced lupus, hyperprolactinemia |
-| **Tizanidine** | Relief of spasticity | Hypotension, weakness, xerostomia |
-| **Phenoxybenzamine** | Preoperative pheochromocytoma | Orthostatic hypotension, reflex tachycardia |
-| **Phentolamine** | Selected catecholamine excess and norepinephrine extravasation | — |
-| **Prazosin / terazosin / doxazosin / tamsulosin** | BPH; prazosin for PTSD; selected hypertension | First-dose orthostatic hypotension, dizziness, headache |
-| **Mirtazapine** | Depression | Sedation, ↑ appetite, ↑ cholesterol |
+| Drug / class                                      | Main applications                                                                         | Important adverse effects                                         |
+| ------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| **Clonidine, guanfacine**                         | Selected hypertensive urgency; ADHD; Tourette syndrome; opioid withdrawal symptom control | CNS depression, bradycardia, hypotension, rebound hypertension    |
+| **α-methyldopa**                                  | Hypertension in pregnancy                                                                 | Coombs-positive hemolysis, drug-induced lupus, hyperprolactinemia |
+| **Tizanidine**                                    | Relief of spasticity                                                                      | Hypotension, weakness, xerostomia                                 |
+| **Phenoxybenzamine**                              | Preoperative pheochromocytoma                                                             | Orthostatic hypotension, reflex tachycardia                       |
+| **Phentolamine**                                  | Selected catecholamine excess and norepinephrine extravasation                            | —                                                                 |
+| **Prazosin / terazosin / doxazosin / tamsulosin** | BPH; prazosin for PTSD; selected hypertension                                             | First-dose orthostatic hypotension, dizziness, headache           |
+| **Mirtazapine**                                   | Depression                                                                                | Sedation, ↑ appetite, ↑ cholesterol                               |
 
 ### β-Blockers — Additional Review
 
