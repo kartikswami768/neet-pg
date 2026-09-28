@@ -274,3 +274,48 @@ Bile acid-binding resins:
 | **Thrombopoiesis** | IL-11 analog: Oprelevekin | Chemotherapy-induced thrombocytopenia | — |
 | | Thrombopoietin agonists: Eltrombopag, Romiplostim | Immune thrombocytopenic purpura (ITP) | — |
 | | Newer: Lusutrombopag, Avatrombopag | ↓ risk of bleeding in patients with liver cirrhosis prior to planned procedures | Given once |
+
+## First Aid 2025 — Gastrointestinal / Respiratory / Hematologic Drug Reactions
+
+### Gastrointestinal
+
+| Reaction | Important causative agents / notes |
+|---|---|
+| **Acute cholestatic hepatitis / jaundice** | Macrolides, especially erythromycin |
+| **Constipation** | Antimuscarinics, antipsychotics, opioids, non-DHP CCBs, ranolazine, amiodarone, aluminum hydroxide, loperamide, ondansetron, vincristine |
+| **Diarrhea** | Acarbose, metformin, pramlintide, colchicine, cholinesterase inhibitors, ezetimibe, orlistat, macrolides, SSRIs, irinotecan |
+| **Massive hepatic necrosis** | Amanita phalloides, valproate, acetaminophen |
+| **Hepatitis** | Rifampin, isoniazid, pyrazinamide, statins, fibrates |
+| **Pancreatitis** | Furosemide, HCTZ, glucocorticoids, alcohol, valproate, azathioprine |
+| **Drug-induced esophagitis** | Potassium chloride, NSAIDs, bisphosphonates, ferrous sulfate, tetracyclines; risk is higher at sites of esophageal narrowing |
+| **Pseudomembranous colitis** | Ampicillin, cephalosporins, clindamycin, fluoroquinolones and PPIs → increased C. difficile risk |
+
+### Respiratory
+
+| Reaction | Important causative agents |
+|---|---|
+| **Dry cough** | ACE inhibitors |
+| **Pulmonary fibrosis** | Methotrexate, nitrofurantoin, carmustine, bleomycin, busulfan, amiodarone |
+
+### Hematologic
+
+| Reaction | Important causative agents |
+|---|---|
+| **Agranulocytosis** | Dapsone, clozapine, carbamazepine, propylthiouracil, methimazole, ganciclovir, colchicine |
+| **Aplastic anemia** | Carbamazepine, methimazole, NSAIDs, benzene, chloramphenicol, propylthiouracil |
+| **Direct Coombs-positive hemolytic anemia** | Penicillin, cephalosporins, methyldopa |
+| **DRESS / DIHS** | Phenytoin, carbamazepine, minocycline, sulfa drugs, allopurinol, vancomycin |
+| **Megaloblastic anemia** | Hydroxyurea, phenytoin, methotrexate, sulfa drugs |
+| **Thrombocytopenia** | Heparin, quinidine, ganciclovir, vancomycin, linezolid |
+| **Thrombotic complications** | Combined OCPs, HRT, SERMs, testosterone supplements, epoetin alfa |
+
+### Selected Drug-name Suffixes
+
+| Ending | Category | Example |
+|---|---|---|
+| **-prazole** | Proton pump inhibitor | Omeprazole |
+| **-setron** | 5-HT3 blocker | Ondansetron |
+| **-pitant** | NK1 blocker | Aprepitant |
+| **-tidine** | H2 antagonist | Cimetidine |
+| **-caine** | Local anesthetic | Lidocaine |
+| **-terol** | β2 agonist | Albuterol |
