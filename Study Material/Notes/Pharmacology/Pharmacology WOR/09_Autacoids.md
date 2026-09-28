@@ -211,3 +211,28 @@ flowchart LR
 
 - Pegloticase: last line; monotherapy or add-on to allopurinol; effective in renal failure.
 - Rasburicase: used in tumor lysis syndrome.
+
+## First Aid 2025 — Musculoskeletal / Skin / Connective-Tissue Drug Reactions
+
+| Reaction | Important causative agents |
+|---|---|
+| **Drug-induced lupus** | Hydralazine, procainamide, quinidine |
+| **Fat redistribution** | Protease inhibitors, glucocorticoids |
+| **Gingival hyperplasia** | Cyclosporine, Ca²⁺ channel blockers, phenytoin |
+| **Hyperuricemia / gout** | Pyrazinamide, thiazides, furosemide, niacin, cyclosporine |
+| **Malignant hyperthermia** | Inhaled anesthetics; dantrolene is the antidote |
+| **Myopathy** | Statins, fibrates, niacin, colchicine, daptomycin, hydroxychloroquine, interferon-α, penicillamine, glucocorticoids |
+| **Osteoporosis** | Glucocorticoids, depot medroxyprogesterone acetate, GnRH agonists, aromatase inhibitors, anticonvulsants, heparin, PPIs |
+| **Photosensitivity** | Sulfonamides, amiodarone, tetracyclines, fluoroquinolones |
+| **Stevens-Johnson syndrome** | Antiepileptics (especially lamotrigine), allopurinol, sulfa drugs, penicillin |
+| **Teeth discoloration** | Tetracyclines |
+| **Tendon/cartilage damage** | Fluoroquinolones |
+
+### Selected Autacoid / Drug-name Suffixes
+
+| Ending | Category | Example |
+|---|---|---|
+| **-tadine** | H1 antagonist | Loratadine |
+| **-lukast** | CysLT1 receptor blocker | Montelukast |
+| **-prost** | Prostaglandin analog | Latanoprost |
+| **-caftor** | CFTR modulator | Lumacaftor |
