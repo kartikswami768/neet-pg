@@ -39,3 +39,16 @@ tags:
 | **Desmopressin** | DOC in: central DI; nocturnal enuresis; VW disease; hemophilia A | — |
 
 **Desmopressin:** oral.
+
+## First Aid 2025 — Renal / Genitourinary Drug Toxicities
+
+| Reaction | Important causative agents | Notes |
+|---|---|---|
+| **Fanconi syndrome** | Cisplatin, ifosfamide, expired tetracyclines, tenofovir | Proximal tubular dysfunction |
+| **Hemorrhagic cystitis** | Cyclophosphamide, ifosfamide | Prevent with mesna |
+| **Interstitial nephritis** | Diuretics, NSAIDs, penicillins/cephalosporins, PPIs, rifampin, sulfa drugs | Drug-induced AIN |
+| **Nephrotoxicity** | Cisplatin, aminoglycosides, amphotericin, vancomycin | Dose/renal-function dependent toxicity |
+
+### Vasopressin-related First Aid Point
+
+Vasopressin antagonists are used in selected SIADH settings; vaptans include conivaptan and tolvaptan.
