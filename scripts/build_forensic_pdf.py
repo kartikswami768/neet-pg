@@ -30,7 +30,7 @@ def wiki_link(match):
     inner = inner.split("#", 1)[-1] if "#" in inner else inner
     return inner.replace("_", " ")
 
-body = re.sub(r"!?\\[\\[([^\\]]+)\\]\\]", wiki_link, body)
+body = re.sub(r"!?[\\[]?[\\[]([^\\]]+)[\\]][\\]]", wiki_link, body)
 
 def img_path(match):
     alt = match.group(1)
