@@ -319,3 +319,11 @@ Bile acid-binding resins:
 | **-tidine** | H2 antagonist | Cimetidine |
 | **-caine** | Local anesthetic | Lidocaine |
 | **-terol** | β2 agonist | Albuterol |
+
+### First Aid Source Mnemonics — GI / Hematologic Toxicities
+
+- **Esophageal injury from pills:** “Pills not beneficial for food tube.”
+- **Agranulocytosis:** “Drugs can cause pretty major granulocytes collapse.”
+- **Aplastic anemia:** “Can’t make New blood cells properly.”
+- **Direct Coombs-positive hemolytic anemia:** “Pooh classically munches on honey Coombs.”
+- **Megaloblastic anemia:** “You’re having a mega blast with PMS.”
