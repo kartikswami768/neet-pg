@@ -1,16 +1,7 @@
 
-/PDFs/
+/Study Material/PDFs/
 /.git/
 
-/Notes/Pharmacology/Elite-Pharmacology-1.pdf
-/Notes/Pharmacology/Qbank Pharmacology_ed8.pdf
-/Notes/Pharmacology/Pharmacology-High-Yield notespedia.pdf
-/Notes/Pharmacology/Pharmacology Revision E6.5.pdf
-/Notes/Pharmacology/Elite-Pharmacology-1.pdf
-/Notes/Pharmacology/Elite-Pharmacology-1.pdf
-/Notes/Pharmacology/Pharmacology Revision E6.5.pdf
-/Notes/Pharmacology/Pharmacology-High-Yield notespedia.pdf
-/Notes/Pharmacology/Pharmacology_Prep_XI_RR_13_chunks/
 /.trash/
 
 # =========================================================
@@ -68,4 +59,5 @@
 
 # Templater
 !.obsidian/plugins/templater-obsidian/data.jsonStudy Material/PDFs/Tao Le and Vikas Bhushan – First Aid for the USMLE Step 1 (2025, McGraw Hill) – libgen.li-1.pdf
-Study Material/PDFs/*.pdf
+
+/Study Material/PDFs/*.pdf
