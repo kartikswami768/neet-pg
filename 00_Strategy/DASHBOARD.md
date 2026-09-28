@@ -12,8 +12,6 @@ type: dashboard
 
 ![[Views/active-cycles.base]]
 
-[Open active cycle →](Cycles/ACTIVE%20CYCLE.md)
-
 ---
 
 ## Today
