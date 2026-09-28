@@ -505,3 +505,35 @@ flowchart TD
 **Note:**
 - Worsening of biliary colic (Morphine).
 - Used in Rx of biliary colic (Pethidine).
+
+## First Aid 2025 — Pain Transmission
+
+### Nociceptive Pain
+
+Pain signals reach the CNS in response to mechanical, thermal or chemical stimuli. Transient receptor potential vanilloid ligand receptors contribute to Ca²⁺ influx and Na⁺-channel activation.
+
+- **Aδ fibers:** sharp, acute pain.
+- **C fibers:** dull, throbbing, chronic pain.
+
+| Process | Drugs/classes that block the process |
+|---|---|
+| **Transduction** | Local anesthetics, α₂ agonists, gabapentinoids, NSAIDs, acetaminophen, glucocorticoids |
+| **Transmission** | Local anesthetics, α₂ agonists, opioids |
+| **Modulation** | TCAs, SSRIs, SNRIs, gabapentinoids |
+| **Perception** | α₂ agonists, opioids, TCAs, SSRIs, SNRIs |
+
+### Neuropathic Pain
+
+Caused by neuronal dysfunction of the CNS or PNS with persistent activation/upregulation of voltage-gated Na⁺ channels. Example: diabetic peripheral neuropathy.
+
+## First Aid 2025 — Neurologic Drug Reactions
+
+| Reaction | Important causative agents |
+|---|---|
+| **Cinchonism** | Quinidine, quinine; tinnitus and hearing/vision effects may occur |
+| **Parkinson-like syndrome** | Antipsychotics, metoclopramide |
+| **Peripheral neuropathy** | Cisplatin, isoniazid, vincristine, paclitaxel, phenytoin |
+| **Idiopathic intracranial hypertension** | Corticosteroids, danazol, vitamin A, growth hormones, tetracyclines |
+| **Seizures** | Isoniazid, bupropion, imipenem/cilastatin, tramadol |
+| **Tardive dyskinesia** | Antipsychotics, metoclopramide |
+| **Visual disturbances** | Topiramate, hydroxychloroquine, digoxin, isoniazid, ivabradine, PDE-5 inhibitors, ethambutol |
