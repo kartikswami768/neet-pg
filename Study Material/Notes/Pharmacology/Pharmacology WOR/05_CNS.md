@@ -537,3 +537,10 @@ Caused by neuronal dysfunction of the CNS or PNS with persistent activation/upre
 | **Seizures** | Isoniazid, bupropion, imipenem/cilastatin, tramadol |
 | **Tardive dyskinesia** | Antipsychotics, metoclopramide |
 | **Visual disturbances** | Topiramate, hydroxychloroquine, digoxin, isoniazid, ivabradine, PDE-5 inhibitors, ethambutol |
+
+### First Aid Source Mnemonic — Neurologic Toxicities
+
+- **Peripheral neuropathy:** “Cis, it’s very painful peripherally.”
+- **Idiopathic intracranial hypertension:** “Crime and debt Always grow head tension.”
+- **Seizures:** “With seizures, I bit my tongue.”
+- **Visual disturbances:** “These horrible drugs iirritate Precious eyes.”
