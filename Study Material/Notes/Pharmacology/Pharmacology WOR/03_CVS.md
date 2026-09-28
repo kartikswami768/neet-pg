@@ -5,7 +5,7 @@ aliases:
   - "Cardiovascular Pharmacology"
 subject: "Pharmacology"
 section: "Drugs Acting on CVS"
-type: "study-notes"
+type: "Marrow"
 source: "Marrow — World of Revision — Pharmacology (2025)"
 tags:
   - pharmacology
