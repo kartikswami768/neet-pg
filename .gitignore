@@ -61,3 +61,5 @@
 !.obsidian/plugins/templater-obsidian/data.jsonStudy Material/PDFs/Tao Le and Vikas Bhushan – First Aid for the USMLE Step 1 (2025, McGraw Hill) – libgen.li-1.pdf
 
 /Study Material/PDFs/*.pdf
+/Study Material/PDFs/*/*.pdf
+/Study Material/PDFs/World of revision/
