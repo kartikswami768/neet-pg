@@ -5,7 +5,7 @@ aliases:
   - "Diuretics"
 subject: "Pharmacology"
 section: "Drugs Acting on Kidney"
-type: "study-notes"
+type: "Marrow"
 source: "Marrow — World of Revision — Pharmacology (2025)"
 tags:
   - pharmacology

@@ -5,7 +5,7 @@ aliases:
   - "Respiratory GIT Blood"
 subject: "Pharmacology"
 section: "Drugs Acting on RS, GIT and Blood"
-type: "study-notes"
+type: "Marrow"
 source: "Marrow — World of Revision — Pharmacology (2025)"
 tags:
   - pharmacology

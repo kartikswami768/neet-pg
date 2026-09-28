@@ -5,7 +5,7 @@ aliases:
   - "Antimicrobials Part 2"
 subject: "Pharmacology"
 section: "Antimicrobial Drugs : Part 2"
-type: "study-notes"
+type: "Marrow"
 source: "Marrow — World of Revision — Pharmacology (2025)"
 tags:
   - pharmacology
