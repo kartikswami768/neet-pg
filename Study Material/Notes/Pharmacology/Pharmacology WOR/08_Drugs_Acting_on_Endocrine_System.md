@@ -4,7 +4,7 @@ aliases:
   - "Endocrine Pharmacology"
 subject: "Pharmacology"
 section: "Drugs Acting on Endocrine System"
-type: "study-notes"
+type: "Marrow"
 source: "Marrow — World of Revision — Pharmacology (2025)"
 tags:
   - pharmacology
