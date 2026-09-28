@@ -322,3 +322,9 @@ GnRH agonists produce different effects when dosed intermittently vs continuousl
 
 - **-steride** → 5α-reductase inhibitor → finasteride.
 - **-vaptan** → ADH antagonist → tolvaptan.
+
+### First Aid Source Mnemonics — Endocrine Toxicities
+
+- **Hyperglycemia:** “The people need High glucose.”
+- **SIADH:** “Can’t Concentrate Serum Sodium.”
+- **Hypothyroidism:** “I am lethargic.”
