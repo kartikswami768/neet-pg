@@ -236,3 +236,11 @@ flowchart LR
 | **-lukast** | CysLT1 receptor blocker | Montelukast |
 | **-prost** | Prostaglandin analog | Latanoprost |
 | **-caftor** | CFTR modulator | Lumacaftor |
+
+### First Aid Source Mnemonics — Musculoskeletal / Skin Toxicities
+
+- **Fat redistribution:** “Fat protects glutes.”
+- **Gingival hyperplasia:** “Can Cause puffy gums.”
+- **Hyperuricemia:** “Painful tophi and feet need care.”
+- **Photosensitivity:** “Sat for photo.”
+- **Stevens-Johnson syndrome:** “Steven Johnson has epileptic allergy to sulfa drugs and penicillin.”
