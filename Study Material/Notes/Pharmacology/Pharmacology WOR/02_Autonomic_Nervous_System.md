@@ -404,3 +404,26 @@ Important complications include acute angle-closure glaucoma, urinary retention 
 | β3 / NO-related vascular effect | Nebivolol |
 
 Important applications include angina, glaucoma, chronic heart failure, hypertension, thyroid storm symptom control, HOCM, migraine prevention, post-MI therapy, SVT/AF rate control and prophylaxis against variceal bleeding.
+
+### Autonomic Pathway Notes from First Aid
+
+- Pelvic splanchnic nerves and cranial nerves III, VII, IX and X are parasympathetic components.
+- The adrenal medulla is directly innervated by preganglionic sympathetic fibers.
+- Sweat glands are part of the sympathetic pathway but are innervated by cholinergic fibers.
+
+### β-Blocker Applications — First Aid Consolidation
+
+| Clinical setting | Key β-blocker point / example |
+|---|---|
+| **Angina pectoris** | ↓ HR and contractility → ↓ O₂ consumption |
+| **Glaucoma** | ↓ aqueous-humor production; timolol |
+| **Heart failure** | Blockade of neurohormonal stress → prevents remodeling and ↓ mortality; bisoprolol, carvedilol, metoprolol |
+| **Hypertension** | ↓ cardiac output and ↓ renin secretion |
+| **Hyperthyroidism / thyroid storm** | Propranolol for symptom control |
+| **Hypertrophic cardiomyopathy** | ↓ HR → ↑ filling time and relieves obstruction |
+| **Migraine** | Prevention; ↓ nitric oxide signaling |
+| **Myocardial infarction** | ↓ O₂ demand short-term; ↓ mortality long-term |
+| **SVT / atrial fibrillation** | ↓ AV conduction velocity; class II antiarrhythmic effect |
+| **Variceal bleeding** | ↓ hepatic venous pressure gradient; nadolol, propranolol or carvedilol |
+
+Adverse effects include erectile dysfunction, bradycardia/AV block/HF, CNS effects, dyslipidemia, masked hypoglycemia and asthma/COPD exacerbation.
