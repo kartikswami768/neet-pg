@@ -508,3 +508,32 @@ flowchart TD
 | Absent | Moderate-severe (500–999) | Fibrates |
 | Present | Moderate (150–499) | Statins (↓TG, ↓LDL); if no response → add Icosapent (↓ses TG & LDL) |
 | Present | TG remains >500 | Fibrates |
+
+## First Aid 2025 — Integrated Supplement
+
+### Phosphodiesterase Inhibitors
+
+Phosphodiesterase (PDE) inhibitors inhibit hydrolysis of cAMP and/or cGMP, increasing cyclic nucleotide signaling.
+
+| Type | Drug(s) | Mechanism | Major uses | Important adverse effects |
+|---|---|---|---|---|
+| Nonspecific PDE inhibitor | **Theophylline** | ↓ cAMP hydrolysis → ↑ cAMP → bronchodilation | COPD/asthma; rarely used | Tachycardia/arrhythmias, seizures, headache, abdominal pain |
+| PDE-5 inhibitor | **Sildenafil, vardenafil, tadalafil, avanafil** | ↓ cGMP hydrolysis → ↑ cGMP → smooth-muscle relaxation and enhanced NO activity | Erectile dysfunction; pulmonary hypertension; tadalafil for BPH | Flushing, headache, dyspepsia, hypotension with nitrates; sildenafil → cyanopsia via PDE-6 inhibition |
+| PDE-4 inhibitor | **Roflumilast** | ↑ cAMP in inflammatory/bronchial cells | Severe COPD | Abdominal pain, weight loss, depression, anxiety, insomnia |
+| PDE-3 inhibitor | **Milrinone** | In cardiomyocytes: ↑ cAMP → ↑ Ca²⁺ influx; in vascular smooth muscle: ↑ cAMP → MLCK inhibition | Acute decompensated HF with cardiogenic shock | Tachycardia, ventricular arrhythmias, hypotension |
+| Platelet-related PDE inhibition | **Cilostazol, dipyridamole** | ↑ platelet cAMP → inhibits aggregation | Intermittent claudication; stroke/TIA prevention; dipyridamole for stress testing | Nausea, headache, flushing, hypotension, abdominal pain |
+
+- Cilostazol is a PDE-3 inhibitor but is often grouped with platelet inhibitors because of its clinical indications.
+- Dipyridamole also prevents adenosine reuptake → ↑ extracellular adenosine → vasodilation.
+
+### Drug Reactions — Cardiovascular
+
+| Reaction | Important causative agents / notes |
+|---|---|
+| Coronary vasospasm | Cocaine, amphetamines, sumatriptan, ergot alkaloids |
+| Cutaneous flushing | Vancomycin, adenosine, niacin, Ca²⁺ channel blockers, echinocandins, nitrates |
+| Dilated cardiomyopathy | Alcohol, anthracyclines; trastuzumab |
+| Peripheral edema | Dihydropyridine Ca²⁺ channel blockers such as amlodipine |
+| Torsades de pointes | Methadone, class IA/III antiarrhythmics, macrolides, fluoroquinolones, ziprasidone, TCAs, ondansetron, fluconazole |
+
+**Vancomycin infusion reaction:** histamine-mediated widespread pruritic erythema; infusion-rate dependent. Manage by slowing the infusion and using diphenhydramine.
