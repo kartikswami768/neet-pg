@@ -30,7 +30,7 @@ def wiki_link(match):
     inner = inner.split("#", 1)[-1] if "#" in inner else inner
     return inner.replace("_", " ")
 
-body = re.sub(r"!?\\[\\[([^\\]]+)\\]\\]", wiki_link, body)
+body = re.sub(r'!?\[\[([^\]]+)\]\]', wiki_link, body)
 
 def img_path(match):
     alt = match.group(1)
@@ -38,9 +38,9 @@ def img_path(match):
     name = Path(path).name
     return f"![{alt}](assets/{html.escape(name)})"
 
-body = re.sub(r"!\\[([^\\]]*)\\]\\((assets/[^)]+)\\)", img_path, body)
+body = re.sub(r'!\[([^\]]*)\]\((assets/[^)]+)\)', img_path, body)
 
-refs = sorted(set(re.findall(r"\\]\\((assets/[^)]+)\\)", body)))
+refs = sorted(set(re.findall(r'\]\((assets/[^)]+)\)', body)))
 source_asset_root = NOTE.parent / "assets"
 for ref in refs:
     src = source_asset_root / Path(ref).name
