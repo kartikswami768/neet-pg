@@ -1006,3 +1006,32 @@ Reported reactions include fever, urinary symptoms, Stevens-Johnson syndrome, he
 | **-tidine** | H2 antagonist | Cimetidine |
 | **-trozole** | Aromatase inhibitor | Anastrozole |
 | **-vaptan** | ADH antagonist | Tolvaptan |
+
+### Ingested Seafood Toxins
+
+| Toxin | Source | Key mechanism | Important features | Treatment |
+|---|---|---|---|---|
+| **Histamine / scombroid** | Spoiled dark-meat fish such as tuna, mahi-mahi, mackerel and bonito | Bacterial histidine decarboxylase converts histidine to histamine | Mimics anaphylaxis: oral burning, flushing, erythema, urticaria, itching; may progress to bronchospasm, angioedema, hypotension | Antihistamines; albuterol ± epinephrine |
+| **Tetrodotoxin** | Pufferfish | Blocks fast voltage-gated Na⁺ channels in nerve tissue | Nausea, diarrhea, paresthesias, weakness, dizziness, loss of reflexes | Supportive |
+| **Ciguatoxin** | Reef fish such as barracuda, snapper and moray eel | Opens Na⁺ channels → depolarization | Nausea/vomiting/diarrhea, perioral numbness, hot-cold reversal, bradycardia, heart block, hypotension | Supportive |
+
+### Multiorgan Drug Reactions
+
+| Reaction | Important causative agents | Mnemonic / note |
+|---|---|---|
+| **Antimuscarinic syndrome** | Atropine, TCAs, H1 blockers, antipsychotics | — |
+| **Disulfiram-like reaction** | 1st-generation sulfonylureas, procarbazine, certain cephalosporins, griseofulvin, metronidazole | “Sorry pals, can’t go mingle” |
+
+### Additional Source Mnemonics
+
+- **Cytochrome P-450 inducers:** “St. John’s funny funny (phen-phen) mom never refuses greasy carbs and chronic alcohol.”
+- **CYP substrates:** “The OCPs are anti-war.”
+- **CYP inhibitors:** “SICK FACES come when I am really drinking grapefruit juice.”
+- **Sulfa drugs:** “Scary Sulfa Pharm FACTS.”
+
+### Pupil-Size Details
+
+- **Mydriasis:** anticholinergics (eg, atropine, TCAs, tropicamide, scopolamine, antihistamines) and direct sympathomimetics.
+- **Miosis:** indirect sympathomimetics can be associated with mydriasis rather than miosis; the source specifically lists amphetamines, cocaine, LSD and meperidine with the mydriatic group. Sympatholytics such as α₂ agonists, opioids except meperidine, parasympathomimetics such as pilocarpine and organophosphates are in the miosis group.
+- **Radial muscle contraction:** α1 receptor mediated.
+- **Sphincter muscle contraction:** M3 receptor mediated.
