@@ -4,7 +4,7 @@ aliases:
   - "General Pharmacology"
 subject: "Pharmacology"
 section: "General Pharmacology"
-type: "study-notes"
+type: "Marrow"
 source: "Marrow — World of Revision — Pharmacology (2025)"
 tags:
   - pharmacology
