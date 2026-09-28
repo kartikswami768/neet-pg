@@ -290,3 +290,35 @@ GnRH agonists produce different effects when dosed intermittently vs continuousl
 |---|---|---|---|
 | **Levothyroxine** | T4 salt; long acting | Oral on empty stomach: DOC replacement; thyroid cancer (↓ TSH). IV: myxedema coma. | Osteoporosis; atrial fibrillation; thyrotoxicosis symptoms. ↓ dose if pre-existing arrhythmia. |
 | **Liothyronine** | T3 salt | Oral: T3 before radioactive iodine treatment in thyroid cancer. IV: myxedema coma (T4 + T3). | — |
+
+## First Aid 2025 — Endocrine / Reproductive Drug Reactions
+
+| Reaction | Important causative agents / notes |
+|---|---|
+| **Adrenocortical insufficiency** | Chronic exogenous glucocorticoids; abrupt withdrawal may precipitate adrenal crisis |
+| **Diabetes insipidus** | Lithium, demeclocycline |
+| **Gynecomastia** | Ketoconazole, cimetidine, spironolactone, GnRH analogs/antagonists, androgen-receptor inhibitors, 5α-reductase inhibitors |
+| **Hot flashes** | SERMs such as tamoxifen, clomiphene and raloxifene |
+| **Hyperglycemia** | Tacrolimus, protease inhibitors, niacin, HCTZ, glucocorticoids |
+| **Hyperprolactinemia** | Typical/selected atypical antipsychotics, metoclopramide, methyldopa, verapamil; may present with hypogonadism and galactorrhea |
+| **Hyperthyroidism** | Amiodarone, iodine, lithium |
+| **Hypothyroidism** | Amiodarone, lithium |
+| **SIADH** | Carbamazepine, cyclophosphamide, SSRIs |
+
+### Selected Endocrine Drug Name Suffixes
+
+| Ending | Category | Example |
+|---|---|---|
+| **-gliflozin** | SGLT-2 inhibitor | Dapagliflozin |
+| **-glinide** | Meglitinide | Repaglinide |
+| **-gliptin** | DPP-4 inhibitor | Sitagliptin |
+| **-glitazone** | PPAR-γ activator | Pioglitazone |
+| **-glutide** | GLP-1 analog | Liraglutide |
+| **-lutamide** | Androgen-receptor inhibitor | Flutamide |
+| **-trozole** | Aromatase inhibitor | Anastrozole |
+| **-dronate** | Bisphosphonate | Alendronate |
+
+### Biologic / Anticancer Naming — Endocrine-Relevant Examples
+
+- **-steride** → 5α-reductase inhibitor → finasteride.
+- **-vaptan** → ADH antagonist → tolvaptan.
