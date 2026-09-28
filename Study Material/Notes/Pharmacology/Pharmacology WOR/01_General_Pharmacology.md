@@ -659,3 +659,350 @@ Causing toxicity of Azathioprine, 6-Mercaptopurine & 6-Thioguanine.
 | **Schedule H** | • Needs prescription<br>• “Rx” in black color<br>• “NRx” in red color (Risk of dependence) |
 | **Schedule H1 (2013)** | “Rx” in red (Antibiotics) |
 | **Schedule X** | • “XRx” in red color<br>• Narcotic and psychotropic drugs : High potential for abuse.<br>• Prescription copy : Retained by retailer for 2 years.<br>• E.g. :<br>  - Amphetamine<br>  - Ketamine<br>  - Methylphenidate |
+
+## First Aid 2025 — Integrated Supplement
+
+### High-Yield Principles
+
+First Aid emphasizes mechanisms and important adverse effects of key drugs rather than obscure derivatives or routine drug selection. Major drug-drug interactions remain important. Associated biochemistry, physiology, and microbiology are useful when studying pharmacology. ANS, CNS, antimicrobial, cardiovascular, and NSAID pharmacology receive strong emphasis, and graph interpretation is testable.
+
+> “Cure sometimes, treat often, and comfort always.” —Hippocrates
+>
+> “One pill makes you larger, and one pill makes you small.” —Jefferson Airplane, *White Rabbit*
+>
+> “For the chemistry that works on one patient may not work for the next, because even medicine has its own conditions.” —Suzy Kassem
+>
+> “Love is the drug I’m thinking of.” —The Bryan Ferry Orchestra
+
+### Drug Effect Modifications
+
+| Term | Definition | Example |
+|---|---|---|
+| **Additive** | Effect of A + B equals the sum of their individual effects | Aspirin + acetaminophen; 2 + 2 = 4 |
+| **Permissive** | A is required for the full effect of B | Cortisol on catecholamine responsiveness |
+| **Synergistic** | Effect of A + B is greater than the sum of their individual effects | Clopidogrel + aspirin; 2 + 2 > 4 |
+| **Potentiation** | Drug B has no therapeutic action alone but enhances drug A | Carbidopa prevents peripheral levodopa conversion; 2 + 0 > 2 |
+| **Antagonistic** | Effect of A + B is less than the sum of their individual effects | Morphine + naloxone; 2 + 2 < 4 |
+| **Tachyphylactic** | Acute decrease in response after initial/repeated administration | Repeated oxymetazoline → ↓ response with rebound congestion |
+
+### Enzyme Kinetics
+
+#### Michaelis-Menten kinetics
+
+- **Km** is the substrate concentration needed for an enzyme to reach ½ Vmax and is inversely related to substrate affinity.
+- **Vmax** is directly proportional to enzyme concentration.
+- Most enzymatic reactions are hyperbolic; a sigmoidal curve usually indicates positive cooperativity in substrate binding (eg, aspartate transcarbamylase).
+- `[S]` = substrate concentration; `V` = velocity.
+
+#### Effects of enzyme inhibition
+
+|  | Competitive inhibitor, reversible | Competitive inhibitor, irreversible | Noncompetitive inhibitor |
+|---|---|---|---|
+| Resembles substrate | Yes | Yes | No |
+| Overcome by ↑ [S] | Yes | No | No |
+| Binds active site | Yes | Yes | No |
+| Effect on Vmax | Unchanged | ↓ | ↓ |
+| Effect on Km | ↑ | Unchanged | Unchanged |
+| Pharmacodynamic effect | ↓ potency | ↓ efficacy | ↓ efficacy |
+
+#### Lineweaver-Burk plot
+
+- Closer to 0 on the Y-axis → higher Vmax.
+- Closer to 0 on the X-axis → higher Km.
+- Higher Km → lower affinity.
+- Reversible competitive inhibitors and noncompetitive inhibitors have different intersection patterns.
+- Competitive inhibitors increase Km.
+
+### Additional Pharmacokinetic Relations
+
+#### Bioavailability
+
+- IV bioavailability = 100%.
+- Oral bioavailability is typically <100% because of incomplete absorption and first-pass metabolism.
+- AUC-based equation:
+
+$$
+F = \frac{AUC_{oral} \times Dose_{IV}}{Dose_{oral} \times AUC_{IV}} \times 100
+$$
+
+#### Volume of distribution — compartment model
+
+| Vd | Compartment | Typical drug types |
+|---|---|---|
+| Low | Intravascular | Large/charged molecules; plasma-protein-bound drugs |
+| Medium | Extracellular fluid | Small hydrophilic molecules |
+| High | All tissues including fat | Small lipophilic molecules, especially tissue-protein-bound drugs |
+
+Hemodialysis is most effective for drugs with a low Vd.
+
+#### Clearance
+
+$$
+CL = \frac{\text{rate of elimination}}{\text{plasma drug concentration}} = V_d \times K_e
+$$
+
+Clearance may be impaired with cardiac, hepatic, or renal dysfunction.
+
+#### Half-life and steady state
+
+$$
+t_{1/2} = \frac{0.7 \times V_d}{CL}
+$$
+
+- First-order elimination reaches steady state after about 4–5 half-lives.
+- About 90% of steady state is reached after 3.3 half-lives.
+- Time to steady state depends mainly on half-life and is independent of dose and dosing frequency.
+
+| Number of half-lives | 1 | 2 | 3 | 4 |
+|---:|---:|---:|---:|---:|
+| % remaining | 50% | 25% | 12.5% | 6.25% |
+
+#### Dosage calculations
+
+$$
+Loading\ dose = \frac{C_p \times V_d}{F}
+$$
+
+$$
+Maintenance\ dose = \frac{C_p \times CL \times \tau}{F}
+$$
+
+- **Cp** = target plasma concentration.
+- **τ** = dosage interval; does not apply to continuous infusions.
+- In renal or liver disease, maintenance dose is usually ↓ while loading dose is usually unchanged.
+
+### Drug Metabolism — Additional Points
+
+- Phase I and phase II reactions do not have to occur sequentially.
+- Geriatric patients lose **phase I** capacity first.
+- Slow acetylators can have ↑ adverse effects with drugs whose metabolism is reduced, classically isoniazid.
+- Phase I reactions include reduction, oxidation and hydrolysis.
+- Phase II reactions include methylation, glucuronidation, acetylation and sulfation.
+
+### Elimination Kinetics
+
+#### Zero-order elimination
+
+- Constant **amount** of drug eliminated per unit time.
+- Plasma concentration falls linearly with time.
+- Capacity-limited elimination.
+- Examples: phenytoin, ethanol, and aspirin at high/toxic concentrations.
+
+> **PEA** is round, like the “0” in zero-order.
+
+#### First-order elimination
+
+- Constant **fraction** eliminated per unit time.
+- Elimination rate is proportional to drug concentration.
+- Plasma concentration falls exponentially with time.
+- Applies to most drugs.
+- Flow-dependent elimination.
+
+### Urine pH and Drug Elimination
+
+- Ionized species are trapped in urine and cleared quickly; neutral forms can be reabsorbed.
+
+#### Weak acids
+
+Examples: phenobarbital, methotrexate and aspirin/salicylates.
+
+$$
+RCOOH \rightleftharpoons RCOO^- + H^+
+$$
+
+- Treat severe salicylate/weak-acid overdose with **sodium bicarbonate** to alkalinize urine.
+
+#### Weak bases
+
+Examples: tricyclic antidepressants and amphetamines.
+
+$$
+RNH_3^+ \rightleftharpoons RNH_2 + H^+
+$$
+
+- Weak bases are trapped in acidic environments.
+- In severe alkalosis, ammonium chloride may be used to acidify urine.
+- TCA toxicity is initially treated with sodium bicarbonate to overcome sodium-channel blockade. This treats cardiac toxicity but does not accelerate elimination.
+
+### pKa
+
+- pKa is the pH at which a weak acid or base is 50% ionized and 50% nonionized.
+- Lower pKa → relatively stronger acid.
+- Higher pKa → relatively stronger base.
+
+### Efficacy vs Potency
+
+#### Efficacy
+
+- Maximum effect a drug can produce (intrinsic activity).
+- Represented by **Emax/y-value**.
+- Partial agonists have less efficacy than full agonists.
+
+#### Potency
+
+- Amount of drug needed for a given effect.
+- Represented by **EC50/x-value**.
+- Left shift → ↓ EC50 → ↑ potency.
+- Potency and efficacy are independent.
+
+**EC** = effective concentration.
+
+### Receptor Binding — High-Yield Comparison
+
+| Agonist with | Potency | Efficacy | Key point | Example |
+|---|---|---|---|---|
+| **Competitive antagonist** | ↓ | Unchanged | Can be overcome by ↑ agonist concentration | Diazepam + flumazenil at GABA-A receptor |
+| **Noncompetitive antagonist** | Unchanged | ↓ | Cannot be overcome by ↑ agonist concentration | Norepinephrine + phenoxybenzamine at α-receptors |
+| **Partial agonist alone** | Independent | ↓ | Acts at the same site as a full agonist | Morphine vs buprenorphine at μ-opioid receptor |
+| **Inverse agonist alone** | Independent | Independent | Binds constitutively active receptor and reduces basal activity | H1 antihistamines such as diphenhydramine |
+
+### Therapeutic Index — Additional Points
+
+**TITE:** Therapeutic Index = TD50 / ED50.
+
+- Higher TI generally indicates a wider safety margin.
+- Drugs with lower TI commonly require closer monitoring: warfarin, theophylline, digoxin, antiepileptics and lithium.
+- LD50 often replaces TD50 in animal studies.
+- **Therapeutic window:** range of drug concentrations that can safely and effectively treat disease.
+
+### Age-Related Changes in Pharmacokinetics
+
+| Process | Age-related change | Consequence |
+|---|---|---|
+| Absorption | Mostly unaffected | Usually little change |
+| Distribution | ↓ total body water; ↑ total body fat | Hydrophilic drugs: ↓ Vd → ↑ concentration; lipophilic drugs: ↑ Vd → ↑ half-life |
+| Metabolism | ↓ hepatic mass and blood flow; phase I ↓, phase II relatively preserved | ↓ first-pass metabolism and ↓ hepatic clearance |
+| Excretion | ↓ renal mass, blood flow and GFR | ↓ renal clearance |
+
+### Selected Toxicity Treatments and Antidotes
+
+| Toxin / drug | Treatment |
+|---|---|
+| Acetaminophen | N-acetylcysteine |
+| AChE inhibitors / organophosphates | Atropine > pralidoxime |
+| Antimuscarinic toxicity | Physostigmine; control hyperthermia |
+| Arsenic | Dimercaprol, succimer |
+| Benzodiazepines | Flumazenil |
+| β-blockers | Atropine, glucagon, saline |
+| Carbon monoxide | 100% O₂; hyperbaric O₂ |
+| Copper | Penicillamine, trientine |
+| Cyanide | Hydroxocobalamin; nitrites + sodium thiosulfate |
+| Dabigatran | Idarucizumab |
+| Digoxin | Digoxin-specific antibody fragments |
+| Direct factor Xa inhibitors | Andexanet alfa |
+| Heparin | Protamine sulfate |
+| Iron | Deferoxamine, deferasirox, deferiprone |
+| Lead | Penicillamine, calcium disodium EDTA, dimercaprol, succimer |
+| Mercury | Dimercaprol, succimer |
+| Methanol / ethylene glycol | Fomepizole > ethanol; dialysis |
+| Methemoglobin | Methylene blue; vitamin C |
+| Methotrexate | Leucovorin |
+| Opioids | Naloxone |
+| Salicylates | Sodium bicarbonate; dialysis |
+| TCAs | Sodium bicarbonate |
+| Warfarin | Vitamin K; PCC/FFP for immediate reversal |
+
+### Drugs Affecting Pupil Size
+
+- **Mydriasis:** anticholinergics and direct sympathomimetics.
+- **Miosis:** sympatholytics/α₂ agonists, opioids except meperidine, parasympathomimetics such as pilocarpine, organophosphates; indirect sympathomimetics such as amphetamines and cocaine can also produce mydriasis.
+- Radial muscle contraction is **α1 mediated**.
+- Sphincter muscle contraction is **M3 mediated**.
+
+### Cytochrome P-450 Interactions — Selected
+
+| Inducers (+) | Substrates | Inhibitors (−) |
+|---|---|---|
+| St. John’s wort | Theophylline | Sodium valproate |
+| Phenytoin | OCPs | Isoniazid |
+| Phenobarbital | Antiepileptics | Cimetidine |
+| Modafinil | Warfarin | Ketoconazole |
+| Nevirapine | | Fluconazole |
+| Rifampin | | Acute alcohol overuse |
+| Griseofulvin | | Chloramphenicol |
+| Carbamazepine | | Erythromycin / clarithromycin |
+| Chronic alcohol overuse | | Sulfonamides |
+| | | Ciprofloxacin |
+| | | Omeprazole |
+| | | Amiodarone |
+| | | Ritonavir |
+| | | Grapefruit juice |
+
+> The OCPs are anti-war.
+>
+> SICK FACES come when I am really drinking grapefruit juice.
+
+### Sulfa Drugs — Selected Facts
+
+Sulfonamide-related drugs include sulfonamide antibiotics, sulfasalazine, probenecid, furosemide, acetazolamide, celecoxib, thiazides and sulfonylureas.
+
+Reported reactions include fever, urinary symptoms, Stevens-Johnson syndrome, hemolytic anemia, thrombocytopenia, agranulocytosis, acute interstitial nephritis, urticaria and photosensitivity.
+
+### Drug Names — Selected Suffixes
+
+| Ending | Category | Example |
+|---|---|---|
+| **-asvir** | NS5A inhibitor | Ledipasvir |
+| **-bendazole** | Antiparasitic / antihelminthic | Mebendazole |
+| **-buvir** | NS5B inhibitor | Sofosbuvir |
+| **-cillin** | Transpeptidase inhibitor | Ampicillin |
+| **-conazole** | Ergosterol synthesis inhibitor | Ketoconazole |
+| **-cycline** | Protein synthesis inhibitor | Tetracycline |
+| **-floxacin** | Fluoroquinolone | Ciprofloxacin |
+| **-mivir** | Neuraminidase inhibitor | Oseltamivir |
+| **-navir** | Protease inhibitor | Ritonavir |
+| **-ovir** | Viral DNA polymerase inhibitor | Acyclovir |
+| **-previr** | NS3/4A inhibitor | Grazoprevir |
+| **-tegravir** | Integrase inhibitor | Dolutegravir |
+| **-thromycin** | Macrolide | Azithromycin |
+| **-case** | Recombinant uricase | Rasburicase |
+| **-mustine** | Nitrosourea | Carmustine |
+| **-platin** | Platinum compound | Cisplatin |
+| **-poside** | Topoisomerase II inhibitor | Etoposide |
+| **-rubicin** | Anthracycline | Doxorubicin |
+| **-taxel** | Taxane | Paclitaxel |
+| **-tecan** | Topoisomerase I inhibitor | Irinotecan |
+| **-flurane** | Inhaled anesthetic | Sevoflurane |
+| **-apine / -idone** | Atypical antipsychotic | Quetiapine / risperidone |
+| **-azine** | Typical antipsychotic | Thioridazine |
+| **-barbital** | Barbiturate | Phenobarbital |
+| **-benazine** | VMAT inhibitor | Tetrabenazine |
+| **-caine** | Local anesthetic | Lidocaine |
+| **-capone** | COMT inhibitor | Entacapone |
+| **-curium / -curonium** | Nondepolarizing NM blocker | Atracurium / pancuronium |
+| **-giline** | MAO-B inhibitor | Selegiline |
+| **-ipramine / -triptyline** | TCA | Imipramine / amitriptyline |
+| **-triptan** | 5-HT1B/1D agonist | Sumatriptan |
+| **-zepam / -zolam** | Benzodiazepine | Diazepam / alprazolam |
+| **-chol** | Cholinergic agonist | Bethanechol |
+| **-olol** | β-blocker | Propranolol |
+| **-stigmine** | AChE inhibitor | Neostigmine |
+| **-terol** | β2 agonist | Albuterol |
+| **-zosin** | α1 blocker | Prazosin |
+| **-afil** | PDE-5 inhibitor | Sildenafil |
+| **-dipine** | Dihydropyridine Ca²⁺ channel blocker | Amlodipine |
+| **-parin** | Low-molecular-weight heparin | Enoxaparin |
+| **-plase** | Thrombolytic | Alteplase |
+| **-pril** | ACE inhibitor | Captopril |
+| **-sartan** | Angiotensin-II receptor blocker | Losartan |
+| **-xaban** | Direct factor Xa inhibitor | Apixaban |
+| **-gliflozin** | SGLT-2 inhibitor | Dapagliflozin |
+| **-glinide** | Meglitinide | Repaglinide |
+| **-gliptin** | DPP-4 inhibitor | Sitagliptin |
+| **-glitazone** | PPAR-γ activator | Pioglitazone |
+| **-glutide** | GLP-1 analog | Liraglutide |
+| **-statin** | HMG-CoA reductase inhibitor | Atorvastatin |
+| **-caftor** | CFTR modulator | Lumacaftor |
+| **-dronate** | Bisphosphonate | Alendronate |
+| **-lukast** | CysLT1 receptor blocker | Montelukast |
+| **-lutamide** | Androgen receptor inhibitor | Flutamide |
+| **-pitant** | NK1 blocker | Aprepitant |
+| **-prazole** | Proton pump inhibitor | Omeprazole |
+| **-prost** | Prostaglandin analog | Latanoprost |
+| **-sentan** | Endothelin receptor antagonist | Bosentan |
+| **-setron** | 5-HT3 blocker | Ondansetron |
+| **-steride** | 5α-reductase inhibitor | Finasteride |
+| **-tadine** | H1 antagonist | Loratadine |
+| **-tidine** | H2 antagonist | Cimetidine |
+| **-trozole** | Aromatase inhibitor | Anastrozole |
+| **-vaptan** | ADH antagonist | Tolvaptan |
