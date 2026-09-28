@@ -30,6 +30,9 @@ def wiki_link(match):
     inner = inner.split("#", 1)[-1] if "#" in inner else inner
     return inner.replace("_", " ")
 
+# The note already contains its own H1; the title card above supplies the document title.
+body = re.sub(r'^# Forensic Medicine Test - 27 September 2026\s*', '', body, count=1, flags=re.MULTILINE)
+
 body = re.sub(r'!?\[\[([^\]]+)\]\]', wiki_link, body)
 
 def img_path(match):
@@ -41,6 +44,25 @@ def img_path(match):
 body = re.sub(r'!\[([^\]]*)\]\((assets/[^)]+)\)', img_path, body)
 
 refs = sorted(set(re.findall(r'\]\((assets/[^)]+)\)', body)))
+
+# Obsidian notes sometimes omit the blank line needed to terminate a Markdown table.
+# Insert one so that following paragraphs/headings are not swallowed into the table.
+lines = body.splitlines()
+normalized = []
+in_table = False
+for line in lines:
+    stripped = line.strip()
+    is_table_row = stripped.startswith("|") and stripped.endswith("|")
+    if in_table and stripped and not is_table_row:
+        normalized.append("")
+        in_table = False
+    normalized.append(line)
+    if is_table_row:
+        in_table = True
+    elif not stripped:
+        in_table = False
+body = "\n".join(normalized)
+
 source_asset_root = NOTE.parent / "assets"
 for ref in refs:
     src = source_asset_root / Path(ref).name
