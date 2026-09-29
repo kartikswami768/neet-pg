@@ -27,11 +27,11 @@ tags:
 
 # Agents affecting neuromuscular transmission
 
-**Pearl ID:** `PMO687`
+**Pearl ID:** `PM0687`
 
 #flashcards/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
 
-What are the key facts in the Marrow Pearl **"Agents affecting neuromuscular transmission"** (PMO687)?
+What are the key facts in the Marrow Pearl **"Agents affecting neuromuscular transmission"** (PM0687)?
 ?
 
 | Example | Action | Effect on Neuromuscular Transmission |
@@ -41,4 +41,4 @@ What are the key facts in the Marrow Pearl **"Agents affecting neuromuscular tra
 | Neostigmine | Inhibits acetylcholinesterase | Prolongs and enhances action of ACh at muscle end plate |
 | Hemicholinium | Blocks reuptake of choline | Depletes ACh stores from presynaptic terminal |
 
-![Drugs affecting neuromuscular transmission](images/PMO687_neuromuscular-transmission-diagram.svg)
+![Drugs affecting neuromuscular transmission](images/PM0687_neuromuscular-transmission-diagram.svg)
