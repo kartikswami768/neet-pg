@@ -24,11 +24,11 @@ tags:
 
 # Antiglaucoma drugs: Mechanism of lowering intraocular pressure (IOP) at a glance
 
-**Pearl ID:** `PMO719`
+**Pearl ID:** `PM0719`
 
 #flashcards/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
 
-What are the key facts in the Marrow Pearl **"Antiglaucoma drugs: Mechanism of lowering intraocular pressure (IOP) at a glance"** (PMO719)?
+What are the key facts in the Marrow Pearl **"Antiglaucoma drugs: Mechanism of lowering intraocular pressure (IOP) at a glance"** (PM0719)?
 ?
 
 ### Drugs that increase trabecular outflow
