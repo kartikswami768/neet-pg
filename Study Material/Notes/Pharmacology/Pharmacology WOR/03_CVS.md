@@ -632,32 +632,29 @@ Other listed drugs:
 - BPH: 5 mg.
 
 ## Hypolipidemic Drugs
-
 ### Aim
-
 - **↓LDL:** Avoid atherosclerotic CVD (angina, MI, stroke).
-  - Statins (DOC).
-  - Bempedoic acid.
-  - Ezetimibe.
-  - Inclisiran.
-  - PCSK-9 −.
-  - Bile acid binding resins.
-  - Lomitapide.
-  - Niacin.
+	- ==Statins (DOC)==.
+	- ==Bempedoic acid.==
+	- ==Ezetimibe==.
+	- Inclisiran.
+	- PCSK-9 −.
+	- Bile acid binding resins.
+	- Lomitapide.
+	- Niacin.
 - **↓TG:** Avoid pancreatitis.
-  - Fibrates.
-  - Icosapent.
-  - Omega-3 fatty acid.
+	- ==Fibrates==.
+	- Icosapent.
+	- Omega-3 fatty acid.
 
 ### Statins
-
 - Most potent: **Pitavastatin > Rosuvastatin**.
 - Ceiling effect DOC (max. ↓LDL).
 - Longest acting: Rosuvastatin > Atorvastatin.
 - All metabolized by CYP450 except **Pravastatin**.
 - DOC in protease inhibitors causing dyslipidemia (enzyme − → statin toxicity).
 
-**MOA:**
+#### **MOA:**
 - Hypolipidemic effect (HMG-CoA reductase −):
 	- ↓LDL, VLDL, TG.
 	- ↑HDL, lipoprotein-A.
@@ -667,36 +664,36 @@ Other listed drugs:
 	- ↑NO.
 	- Plaque stabilization.
 
-**Uses:**
+#### **Uses:**
 - DOC: type II hyperlipoproteinemia (familial hypercholesterolemia).
 - Primary & secondary prophylaxis of MI and stroke (ASCVD).
 - Night-time dosing, except:
-  - Rosuvastatin.
-  - Atorvastatin.
+	- Rosuvastatin.
+	- Atorvastatin.
 
-**S/e:**
+#### **S/e:**
 - Myopathy.
 - Hepatotoxicity.
-- Insulin resistance.
+- ==Insulin resistance.==
 
-**C/i:**
+#### **C/i:**
 - Pregnancy.
 - Children <10 yrs.
 - Gemfibrozil: − elimination (liver: OATP-1B1 pump).
 
 ### Non-statin hypolipidemic drugs
 
-| Drug | MOA | Uses | S/e |
-|---|---|---|---|
-| **PCSK-9 −:** Evolocumab, Alirocumab | Prevent LDLr degradation → ↓LDL (max), ↓lipoprotein-a | Add on to statins | — |
-| **Inclisiran** | ↓PCSK-9 synthesis; small interfering RNA; breaks PCSK-9 mRNA → ↓LDL | Add on to statins | — |
-| **Evinacumab** | Blocks angiopoietin-like protein 3 & LPL → ↓LDL, TG | Familial hypercholesterolemia | — |
-| **Lomitapide** | Blocks MTP (microsomal triglyceride transport protein) | — | — |
-| **Fibrates:** Clofibrate, Fenofibrate, Bezafibrate, Gemfibrozil | PPAR-α +, ↑LPL synthesis → ↓TG, chylomicrons; ↓VLDL | DOC: hypertriglyceridemia; chylomicronemia syndrome; type III hyperlipoproteinemia | Cholelithiasis; myopathy |
-| **Icosapent** | ↓TG-rich VLDL synthesis by liver; − platelet aggregation | ↓CVS mortality; hypertriglyceridemia; add on to statins | — |
-| **Niacin** (not used) | Max. ↑HDL; ↓hormone-sensitive lipase synthesis; ↓lipoprotein-A | Dyslipidemia with ↓HDL | Hepatotoxicity; insulin resistance; flushing (d/t PG); DOC: aspirin |
-| **Bempedoic acid** | Competitive − ATP citrate lyase → ↓cholesterol synthesis; ↓LDL | Add on to statins | — |
-| **Bile acid-binding salts:** Cholestyramine, Colestipol, Colesevelam | − enterohepatic circulation of bile acid → ↓LDL | Add on to statins; preferred in pregnancy and children | Hypertriglyceridemia; hyperchloremic acidosis; GI upset; ↓absorption of other drugs and vitamins A, D, E, K; least with colesevelam |
+| Drug                                                                 | MOA                                                                 | Uses                                                                               | S/e                                                                                                                                 |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **PCSK-9 −:** ==Evolocumab==, Alirocumab                             | Prevent LDLr degradation → ↓LDL (max), ↓lipoprotein-a               | Add on to statins                                                                  | —                                                                                                                                   |
+| **Inclisiran**                                                       | ↓PCSK-9 synthesis; small interfering RNA; breaks PCSK-9 mRNA → ↓LDL | Add on to statins                                                                  | —                                                                                                                                   |
+| **Evinacumab**                                                       | Blocks angiopoietin-like protein 3 & LPL → ↓LDL, TG                 | Familial hypercholesterolemia                                                      | —                                                                                                                                   |
+| **Lomitapide**                                                       | Blocks MTP (microsomal triglyceride transport protein)              | —                                                                                  | —                                                                                                                                   |
+| **Fibrates:** Clofibrate, Fenofibrate, Bezafibrate, Gemfibrozil      | ==PPAR-α +==, ↑LPL synthesis → ↓TG, chylomicrons; ↓VLDL             | DOC: hypertriglyceridemia; chylomicronemia syndrome; type III hyperlipoproteinemia | Cholelithiasis; myopathy                                                                                                            |
+| **Icosapent**                                                        | ↓TG-rich VLDL synthesis by liver; − platelet aggregation            | ↓CVS mortality; hypertriglyceridemia; add on to statins                            | —                                                                                                                                   |
+| **Niacin** (not used)                                                | Max. ↑HDL; ↓hormone-sensitive lipase synthesis; ↓lipoprotein-A      | Dyslipidemia with ↓HDL                                                             | Hepatotoxicity; insulin resistance; flushing (d/t PG); DOC: aspirin                                                                 |
+| **Bempedoic acid**                                                   | Competitive − ATP citrate lyase → ↓cholesterol synthesis; ↓LDL      | Add on to statins                                                                  | —                                                                                                                                   |
+| **Bile acid-binding salts:** Cholestyramine, Colestipol, Colesevelam | − enterohepatic circulation of bile acid → ↓LDL                     | Add on to statins; preferred in pregnancy and children                             | Hypertriglyceridemia; hyperchloremic acidosis; GI upset; ↓absorption of other drugs and vitamins A, D, E, K; least with colesevelam |
 
 ### Ezetimibe
 

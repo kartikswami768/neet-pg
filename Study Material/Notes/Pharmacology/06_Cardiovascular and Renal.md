@@ -4,16 +4,6 @@ type: Marrow
 ---
 # Cardiovascular Pharmacology - Reconstructed and Verified Study Notes
 
-> **Primary source:** uploaded 20-page PDF, *5. Cardiovascular Pharmacology* (printed pages 94-113).  
-> **Method:** full-document extraction + topic-level reorganization + visual inspection of all PDF pages + targeted external verification of clinically important or potentially outdated statements.  
-> **Default rule:** content in the main topic sections is reconstructed from the PDF unless explicitly marked **Verified correction/update**.  
-> **Evidence labels:**  
-> - **[PDF]** = faithful reconstruction of the teaching content in the uploaded notes.  
-> - **[Verified correction/update]** = changed, qualified, or expanded after checking current authoritative guidance/labels.  
-> - **[Unclear]** = the PDF wording/figure did not permit reliable reconstruction, so no missing detail has been invented.
-
----
-
 ## 1. Master Topic Map
 
 | PDF page | Printed page | Major content |
@@ -186,8 +176,8 @@ The PDF organizes the major diuretics by nephron site:
 - Raises plasma osmolality.
 - Pulls water from tissues into the intravascular space.
 - Reduces:
-  - CSF production -> lowers ICP
-  - Aqueous humor production -> lowers IOP
+  - CSF production → lowers ICP
+  - Aqueous humor production → lowers IOP
 
 #### Clinical uses
 
@@ -329,9 +319,7 @@ This interaction is pharmacologically plausible and clinically relevant, especia
 - **Distal convoluted tubule (DCT)**
 
 #### Mechanism
-
 - Inhibit the **Na+-Cl- symporter (NCC)**.
-
 #### Drugs
 
 ##### Simple thiazides
@@ -359,7 +347,6 @@ This interaction is pharmacologically plausible and clinically relevant, especia
 - Reduced urinary Ca2+ loss may help preserve bone mineral density.
 
 ##### R - Renal stones
-
 - Particularly **calcium stones** associated with hypercalciuria.
 
 ##### D - Diabetes insipidus
@@ -391,32 +378,18 @@ The PDF lists:
 - Hyponatremia
 - Hypotension
 - Hypokalemia
-  - Increased risk of **digoxin toxicity**
+	- Increased risk of **digoxin toxicity**
+	- They ↓ K⁺ in Pancreatic β cell → ↓ insulin secretion → worsen diabetic control
 - Hypomagnesemia
-- Hyperglycemia
+- ==Hyperglycemia==
 - Hyperlipidemia
 - Hyperuricemia
 
-#### PDF contraindication statement
-
-The PDF says loop/thiazide diuretics are contraindicated in:
-
+#### Contraindication statement
+The loop/thiazide diuretics are contraindicated in:
 - Diabetes mellitus
 - Gout
 - Dyslipidemia
-
-**[Verified correction/update]**
-
-These should **not** be treated as blanket contraindications.
-
-They are clinically relevant adverse-effect/caution domains:
-
-- Thiazides can worsen glycemia.
-- Thiazides can raise uric acid and precipitate gout in susceptible patients.
-- Some diuretics can worsen metabolic lipid parameters.
-- The decision is individualized rather than an automatic exclusion.
-
----
 
 ### 3.7 Calcium Handling: Loop vs Thiazide
 
@@ -696,7 +669,7 @@ Desmopressin also increases **von Willebrand factor** and is used in selected pa
 
 #### SIADH pathophysiology
 
-Excess ADH -> increased water reabsorption -> dilutional hyponatremia.
+Excess ADH → increased water reabsorption → dilutional hyponatremia.
 
 PDF-listed causes:
 
@@ -773,7 +746,7 @@ Intranasal desmopressin is not generally preferred for routine enuresis because 
 
 #### Basic pathophysiology
 
-Deficient ADH effect -> reduced water reabsorption -> increased free-water loss.
+Deficient ADH effect → reduced water reabsorption → increased free-water loss.
 
 Clinical pattern:
 
@@ -815,7 +788,7 @@ These may increase endogenous ADH effect/secretion in selected patients, but are
 
 ##### Mechanistic idea
 
-Thiazide-induced mild extracellular volume contraction -> increased proximal sodium/water reabsorption -> less fluid reaches the collecting duct -> lower final urine volume.
+Thiazide-induced mild extracellular volume contraction → increased proximal sodium/water reabsorption → less fluid reaches the collecting duct → lower final urine volume.
 
 ##### Lithium-induced DI
 
@@ -846,8 +819,8 @@ The issue is more nuanced:
 
 The PDF also separately emphasizes:
 
-- Carbamazepine -> hyponatremia via SIADH
-- Chlorpropamide -> hyponatremia via SIADH
+- Carbamazepine → hyponatremia via SIADH
+- Chlorpropamide → hyponatremia via SIADH
 
 #### Drugs causing an ADH-deficiency/nephrogenic-DI picture
 
@@ -1173,7 +1146,7 @@ This is a useful exam and clinical caution, especially with verapamil.
 - **U - Urinary retention** [PDF]
 - **F - Flushing**
 - **O - Edema**
-  - Amlodipine -> ankle edema
+  - Amlodipine → ankle edema
 - **Ge - GERD**
   - PDF links this to lower esophageal sphincter relaxation.
 - **T - Tocolytic action**
@@ -1334,7 +1307,7 @@ Current sodium nitroprusside labeling emphasizes stopping the drug and use of **
 #### Key pharmacology
 
 - Predominantly **venodilate at lower doses**.
-- Reduce venous return -> reduce preload -> reduce myocardial oxygen demand.
+- Reduce venous return → reduce preload → reduce myocardial oxygen demand.
 - At higher concentrations, arterial and coronary effects become more prominent.
 
 #### High-yield route
@@ -1359,7 +1332,7 @@ The PDF emphasizes:
 
 **[PDF]**
 
-- Continuous exposure -> reduced therapeutic effect.
+- Continuous exposure → reduced therapeutic effect.
 - Particularly prominent with continuous transdermal exposure.
 - Mechanistic explanation in the PDF:
   - down-regulation/reduced efficiency of nitrate bioactivation pathway.
@@ -1654,23 +1627,23 @@ Long-term beta-blocker therapy is **not automatically required for outcome impro
 
 #### Mechanism
 
-- Predominant venodilation -> reduced preload -> reduced myocardial oxygen demand.
+- Predominant venodilation → reduced preload → reduced myocardial oxygen demand.
 
 ---
 
-## 12. SECOND-LINE / ADD-ON ANTIANGINAL DRUGS
+### 12. SECOND-LINE / ADD-ON ANTIANGINAL DRUGS
 
 **PDF location:** pages 12-13 (printed pp. 105-106)
 
 PDF mnemonic: **No DRIFT**
 
-### N - Nicorandil
+#### N - Nicorandil
 
 - KATP-channel opener.
 - Coronary vasodilator.
 - Antianginal.
 
-### D - Dipyridamole
+#### D - Dipyridamole
 
 **[PDF]**
 
@@ -1681,7 +1654,7 @@ PDF mnemonic: **No DRIFT**
 
 Do not memorize “banned” as a global pharmacologic rule. Dipyridamole is not a standard antianginal drug and can produce coronary vasodilation that may worsen ischemia in susceptible settings (“steal” concept), but this does not make the drug globally “banned.”
 
-### R - Ranolazine
+#### R - Ranolazine
 
 - Blocks the **late Na+ current**.
 - Reduces intracellular Na+ and secondary Ca2+ overload.
@@ -1691,7 +1664,7 @@ PDF additional benefit:
 
 - Favorable glycemic effect / may modestly lower HbA1c.
 
-### I - Ivabradine
+#### I - Ivabradine
 
 - Blocks the **If (“funny”) current** in the SA node.
 - Lowers heart rate.
@@ -1701,7 +1674,7 @@ PDF additional benefit:
 
 Ivabradine has a role in selected patients with chronic stable angina or HFrEF with appropriate sinus rhythm/heart-rate criteria. It is not a generic add-on for every angina patient.
 
-### F - Fasudil
+#### F - Fasudil
 
 - Rho-kinase inhibitor.
 - Coronary vasodilator.
@@ -1710,7 +1683,7 @@ Ivabradine has a role in selected patients with chronic stable angina or HFrEF w
 
 Fasudil is region-specific/limited and is **not a standard routine antianginal recommendation in major contemporary general guidelines**.
 
-### T - Trimetazidine
+#### T - Trimetazidine
 
 **[PDF]**
 
@@ -1742,8 +1715,8 @@ The PDF's “P-FOX” wording is best treated as shorthand. Trimetazidine inhibi
 Mechanism:
 
 ```text
-Nitrate -> ↑ cGMP
-PDE5 inhibitor -> ↓ cGMP breakdown
+Nitrate → ↑ cGMP
+PDE5 inhibitor → ↓ cGMP breakdown
                  |
                  v
        Marked cGMP accumulation
@@ -1754,8 +1727,8 @@ PDE5 inhibitor -> ↓ cGMP breakdown
 
 PDF timing gap:
 
-- Sildenafil -> 24 h
-- Tadalafil -> 72 h
+- Sildenafil → 24 h
+- Tadalafil → 72 h
 
 **[Verified correction/update]**
 
@@ -1763,11 +1736,11 @@ These are useful exam-time minimum intervals, but exact clinical withholding int
 
 ---
 
-## 13. ACUTE CORONARY SYNDROME (MI)
+### 13. ACUTE CORONARY SYNDROME (MI)
 
 **PDF location:** page 13 (printed p. 106)
 
-### 13.1 Historical PDF mnemonic: MONAS
+#### 13.1 Historical PDF mnemonic: MONAS
 
 The PDF lists:
 
@@ -1791,7 +1764,7 @@ Then:
 
 The MONAS mnemonic is useful as a historical memory aid, but **it is not a complete contemporary ACS protocol**.
 
-### 13.2 Current ACS pharmacotherapy
+#### 13.2 Current ACS pharmacotherapy
 
 **[Verified correction/update]**
 
@@ -1838,7 +1811,7 @@ Useful when clinically appropriate, but avoid in major nitrate contraindications
 
 ---
 
-### 13.3 Reperfusion
+#### 13.3 Reperfusion
 
 **[PDF]**
 
@@ -1877,7 +1850,7 @@ NSTEMI:
 PDF framing:
 
 - Myocardial damage, often post-MI.
-- Reduced cardiac output -> reduced organ perfusion.
+- Reduced cardiac output → reduced organ perfusion.
 
 #### Drug categories in the PDF
 
@@ -1936,7 +1909,7 @@ Neprilysin degrades:
 - Natriuretic peptides
 - Other vasoactive peptides
 
-Neprilysin inhibition -> increased beneficial natriuretic-peptide signaling.
+Neprilysin inhibition → increased beneficial natriuretic-peptide signaling.
 
 Valsartan blocks AT1.
 
@@ -2054,199 +2027,112 @@ Nesiritide is **not a core modern guideline-directed chronic HF therapy** and is
 ---
 
 ## 15. INOTROPIC DRUGS
-
-**PDF location:** pages 14-15 (printed pp. 107-108)
-
 ### 15.1 Beta-1 agonists
-
-PDF:
-
 - Dobutamine
 - Norepinephrine
 - Dopamine
-
 #### Mechanism
-
 ```text
 Beta1 receptor stimulation
-        |
-        v
+        ↓ 
       ↑ cAMP
-        |
-        v
+	    ↓ 
    ↑ Ca2+ influx
-        |
-        v
+        ↓ 
 Ca2+ binds troponin C
-        |
-        v
+        ↓ 
 Myofilament activation
-        |
-        v
+        ↓ 
 ↑ Contractility
 ```
-
 #### Clinical use
-
-**[PDF]**
-
 - Acute decompensated HF
 - Cardiogenic shock
-
 #### Modern qualification
-
 - **Dobutamine** is predominantly an inotrope.
 - **Norepinephrine** is primarily a vasopressor and is often preferred when vasopressor support is needed to maintain perfusion pressure.
 - **Dopamine** has selected historical uses but is not a routine first-line inotrope/vasopressor choice in modern shock algorithms.
-
 ---
-
 ### 15.2 PDE3 inhibitors
-
 #### Drugs
-
 - **Milrinone**
 - **Inamrinone**
-
 #### Mechanism
-
-PDE3 inhibition -> reduced cAMP degradation -> increased intracellular cAMP.
-
+PDE3 inhibition → reduced cAMP degradation → increased intracellular cAMP.
 Effects:
-
 - Positive inotropy
 - Some vasodilation
-
 #### Route
-
 - IV
-
 #### Use
-
 - Selected acute decompensated HF / cardiogenic shock cases.
-
 **Important:**
-
 These agents do not provide a routine long-term mortality benefit.
 
----
-
 ### 15.3 Levosimendan
-
 PDF:
-
 - PDE3 inhibitor
 - Calcium sensitizer
 - K+ channel opener
-
 **[Verified correction/update]**
-
 The defining pharmacology is **calcium sensitization of troponin C plus ATP-sensitive K+ channel opening**. Its availability and guideline role vary geographically; it is not a universal standard therapy for acute HF.
-
----
-
 ### 15.4 Omecamtiv mecarbil
-
 PDF:
-
 - Myosin activator.
-
 **[Verified correction/update]**
-
 This is a cardiac myosin activator studied extensively in HFrEF, but it should **not** be memorized as a routine universally available standard therapy.
 
----
-
 ## 16. DIGOXIN
-
-**PDF location:** pages 15-16 (printed pp. 108-109)
-
 ### 16.1 Source and class
-
-**[PDF]**
-
 - Source: **Digitalis** plant / foxglove.
 - Cardiac glycoside.
 - Digoxin is the clinically used member emphasized in the PDF.
 - Other historical plant glycosides:
-  - Digitoxin
-  - Ouabain
-
----
+	- Digitoxin
+	- Ouabain
 
 ### 16.2 Mechanism
-
-**Primary mechanism**
-
-- Inhibits **Na+/K+-ATPase** in cardiac myocytes.
-- Increased intracellular Na+ reduces Na+/Ca2+ exchanger-mediated Ca2+ extrusion.
-- Intracellular Ca2+ rises.
-- Increased SR Ca2+ availability -> **positive inotropy**.
-
-#### AV-node effect
-
-- Increased vagal tone.
-- Slows:
-  - SA-node rate
-  - AV-node conduction
-
+1. **Primary mechanism**
+	- Inhibits **Na+/K+-ATPase** in cardiac myocytes.
+	- Increased intracellular Na+ reduces Na+/Ca2+ exchanger-mediated Ca2+ extrusion.
+	- Intracellular Ca2+ rises.
+	- Increased SR Ca2+ availability →  **positive inotropy**.
+2. **AV-node effect**
+	- Increased vagal tone.
+	- **Slows**:
+		- SA-node rate
+		- **AV-node conduction**
 Therefore:
-
 - **Negative chronotropy**
 - **Negative dromotropy**
 
----
-
 ### 16.3 Clinical uses
-
-**[PDF]**
-
-- Chronic heart failure
-- Atrial flutter/fibrillation / SVT
-
-**[Verified correction/update]**
-
-Digoxin is not a generic first-line drug for every SVT.
-
-Contemporary roles include:
-
-- Selected patients with **HFrEF** who remain symptomatic despite guideline-directed therapy.
-- **Rate control in atrial fibrillation**, particularly when other rate-control agents are unsuitable or when HF limits choices.
-- It does not replace catheter ablation or other rhythm-control strategies when those are indicated.
-
----
+- Chronic heart failure → due to positive inotropy
+- Atrial flutter/fibrillation / SVT → due to its AV-node effect
+	- Selected patients with **HFrEF** who remain symptomatic despite guideline-directed therapy.
+	- **Rate control in atrial fibrillation**, particularly when other rate-control agents are unsuitable or when HF limits choices.
+	- It does not replace catheter ablation or other rhythm-control strategies when those are indicated.
 
 ### 16.4 Digoxin Adverse Effects
-
 #### Gastrointestinal
-
 - Nausea
 - Vomiting
 - Appetite loss
 
 #### Visual
-
 - Yellow vision / **xanthopsia**
 - Other color-vision disturbances
 
-PDF comparison:
-
-- Sildenafil -> blue-green color disturbance [not a routine toxicity pearl]
-- Ethambutol -> red-green color disturbance
+>- Sildenafil → blue-green color disturbance (not a routine toxicity pearl)
+>- Ethambutol → red-green color disturbance
 
 #### Arrhythmias
-
 Digoxin toxicity may produce almost any arrhythmia.
-
-PDF examples:
-
 - Ventricular bigeminy
 - Ventricular fibrillation
 
 #### Gynecomastia / hormonal effects
-
-The PDF associates gynecomastia with several drugs, including:
-
+The PDF associates gynecomastia with several drugs (DISCO), including:
 - Digoxin
 - Isoniazid
 - Spironolactone
@@ -2254,62 +2140,26 @@ The PDF associates gynecomastia with several drugs, including:
 - Ketoconazole
 - Omeprazole
 
-**[Verified correction/update]**
-
-Gynecomastia is classically associated with **spironolactone**. It is not a defining major toxicity of digoxin.
-
----
-
 ### 16.5 Digoxin Pharmacokinetics
-
 #### Narrow therapeutic window
-
-**[PDF]**
-
-- Requires therapeutic drug monitoring.
-
-**PDF range:** 0.6-2.0 ng/mL.
-
-**[Verified correction/update]**
-
-Do **not** memorize 0.6-2.0 ng/mL as a universal desired range.
-
-Current labeling and guideline-era practice emphasize:
-
-- Concentrations >2 ng/mL are associated with substantially greater toxicity without clear benefit.
-- Lower concentrations are often targeted in HF, commonly around **0.5-0.9 ng/mL** depending on context.
-- A level must be interpreted with timing from the last dose, symptoms, renal function, potassium, magnesium, and indication.
-
+- Requires therapeutic drug monitoring → 0.6-2.0 ng/mL.
 #### Volume of distribution
-
 - High Vd.
 - Distributed into tissues.
 - Therefore **hemodialysis is not effective** for significant digoxin poisoning.
 
 #### Renal elimination
-
 - Important renal clearance.
 - P-glycoprotein transport is relevant.
-
 #### Drug interactions
-
-**[PDF]**
-
-- Rifampicin -> P-gp induction -> lower digoxin exposure.
-- Erythromycin/clarithromycin -> P-gp inhibition -> higher digoxin exposure.
+- ==Rifampicin== → P-gp induction → lower digoxin exposure.
+- ==Erythromycin/clarithromycin== → P-gp inhibition → higher digoxin exposure.
 
 #### Renal impairment
-
-**[PDF]**
-
 - Marked concern.
-
 **[Verified correction/update]**
-
 Renal failure is **not an absolute contraindication**.
-
 Instead:
-
 - Reduce dose.
 - Monitor renal function.
 - Monitor serum digoxin concentration when clinically indicated.
@@ -2318,99 +2168,50 @@ Instead:
 ---
 
 ### 16.6 Electrolytes and Digoxin Toxicity
-
-The PDF highlights:
-
-- **Hypokalemia** -> increased digoxin toxicity.
+- **Hypokalemia** → increased digoxin toxicity.
 - Thiazide/loop diuretics can therefore indirectly raise digoxin toxicity risk.
 
 Also clinically important:
-
 - Hypomagnesemia increases arrhythmia susceptibility.
 - Hypercalcemia may increase toxicity risk in certain settings.
 
----
-
 ### 16.7 Antidote for Digoxin Poisoning
-
-**[PDF]**
-
 - **Digibind**
-
 Modern terminology:
-
 - **Digoxin-specific antibody fragments (digoxin immune Fab)**
 
-Examples include Digibind/DigiFab products.
-
-Indications for Fab depend on the severity and manifestations of toxicity, including life-threatening arrhythmias, significant hyperkalemia in acute poisoning, and major exposure in selected situations.
-
----
-
 ### 16.8 Digoxin-induced Ventricular Arrhythmia
-
-The PDF says:
-
 > DC shock/defibrillation is absolutely contraindicated in digoxin-induced VF.
 
-**[Verified correction/update - important safety correction]**
-
-This is too absolute and should **not** be used as a bedside rule.
-
-- A patient with unstable ventricular fibrillation requires immediate life-saving electrical therapy when indicated.
 - Digoxin-specific Fab is central treatment for severe digoxin toxicity.
 - Lidocaine or other selected antiarrhythmics may be used for ventricular arrhythmias depending on the clinical situation and toxicology guidance.
 
 ---
 
 ## 17. WOLFF-PARKINSON-WHITE (WPW)
-
-**PDF location:** page 16 (printed p. 109)
-
 ### Mechanism
-
 Accessory AV pathway (classically the **Bundle of Kent**) bypasses the AV node.
 
 ECG:
-
 - Short PR interval
 - Delta wave
 - Wide QRS complex in classic pre-excitation
 
 ### Digoxin
-
-**[PDF]**
-
 - Avoid in WPW.
 
-**[Verified correction/update]**
-
-The particularly dangerous situation is **atrial fibrillation with pre-excitation**:
-
-- AV nodal blockade can favor conduction down the accessory pathway.
-- Drugs such as digoxin, verapamil/diltiazem, and beta blockers are therefore avoided in acute pre-excited AF.
-- **Procainamide** is a recognized option for stable pre-excited AF in appropriate patients.
-- Definitive treatment for a symptomatic accessory pathway is often **catheter ablation**.
-
 ### Flecainide
-
-The PDF proposes:
-
 - Procainamide if structural heart disease is present
 - Flecainide if no heart disease
 
-**[Verified correction/update]**
 
-This is a teaching simplification; selection depends on the exact arrhythmia, structural heart disease, ventricular function, and local guideline.
-
----
 
 ## 18. HYPERTROPHIC OBSTRUCTIVE CARDIOMYOPATHY (HOCM)
 
 **[PDF]**
 
-- Digoxin -> increases contraction -> can worsen outflow obstruction.
-- Beta blockers -> reduce contractility and symptoms.
+- Digoxin → increases contraction → can worsen outflow obstruction.
+- Beta blockers → reduce contractility and symptoms.
 - Verapamil is another negative inotrope used in selected patients.
 - Mavacamten is a newer myosin inhibitor.
 
@@ -2446,11 +2247,11 @@ Mavacamten is a cardiac myosin inhibitor used in selected adults with symptomati
 
 ---
 
-## 20. CLASS I - SODIUM CHANNEL BLOCKERS
+### 20. CLASS I - SODIUM CHANNEL BLOCKERS
 
-### 20.1 Class IA
+#### 20.1 Class IA
 
-#### Drugs
+##### Drugs
 
 PDF mnemonic: **QUPD**
 
@@ -2458,16 +2259,16 @@ PDF mnemonic: **QUPD**
 - **Procainamide**
 - **Disopyramide**
 
-#### Electrophysiology
+##### Electrophysiology
 
-- Block fast Na+ channels -> reduce phase 0 slope.
-- Also block K+ currents -> prolong repolarization.
+- Block fast Na+ channels → reduce phase 0 slope.
+- Also block K+ currents → prolong repolarization.
 - Increase action-potential duration and QT.
 - Therefore increase risk of **torsades de pointes**.
 
 ---
 
-### 20.2 Procainamide
+##### 20.2 Procainamide
 
 PDF:
 
@@ -2488,7 +2289,7 @@ It remains clinically useful in selected arrhythmia settings, including some for
 
 ---
 
-### 20.3 Disopyramide
+##### 20.3 Disopyramide
 
 - Class IA.
 - Strong negative inotrope.
@@ -2498,9 +2299,9 @@ The PDF does not elaborate further.
 
 ---
 
-## 21. CLASS IB
+#### 21. CLASS IB
 
-### Drugs
+##### Drugs
 
 PDF mnemonic: **Leave PMT**
 
@@ -2509,7 +2310,7 @@ PDF mnemonic: **Leave PMT**
 - **M - Mexiletine**
 - **T - Tocainide**
 
-### Mechanism
+##### Mechanism
 
 **[PDF]**
 
@@ -2522,7 +2323,7 @@ PDF notes:
 
 - Perioral numbness due to local-anesthetic-type Na+ channel blockade.
 
-### Important correction
+##### Important correction
 
 The PDF diagram/wording suggests K+ channel opening.
 
@@ -2530,7 +2331,7 @@ The PDF diagram/wording suggests K+ channel opening.
 
 Class IB drugs are best understood as **Na+ channel blockers with relatively little K+ blockade** and a tendency to **shorten or minimally affect ventricular action-potential duration**, especially in ischemic/depolarized tissue.
 
-### Lignocaine toxicity
+##### Lignocaine toxicity
 
 PDF:
 
@@ -2540,22 +2341,22 @@ This is a major toxicology principle for severe local-anesthetic systemic toxici
 
 ---
 
-## 22. CLASS IC
+#### 22. CLASS IC
 
-### Drugs
+##### Drugs
 
 PDF mnemonic: **Famous PM**
 
 - **Flecainide**
 - **Propafenone**
 
-### Pharmacology
+##### Pharmacology
 
 - Strong Na+ channel blockade.
 - Marked slowing of conduction.
 - Little direct effect on action-potential duration compared with IA/IB.
 
-### Major warning
+##### Major warning
 
 **[PDF]**
 
@@ -2568,11 +2369,11 @@ This remains a major high-yield rule for flecainide/propafenone in patients with
 
 ---
 
-## 23. CLASS II - BETA BLOCKERS
+### 23. CLASS II - BETA BLOCKERS
 
 **PDF location:** page 18 (printed p. 111)
 
-### General rule
+#### General rule
 
 Drug names commonly end in:
 
@@ -2584,25 +2385,25 @@ Examples:
 - Metoprolol
 - Atenolol
 
-### Ultra-short acting IV agents
+#### Ultra-short acting IV agents
 
 - **Esmolol**
 - **Landiolol**
 
 PDF calls landiolol the shortest acting beta blocker.
 
-### Uses
+#### Uses
 
 - Sympathetic tachycardia
 - Rate control in selected SVT/AF/flutter
 - Perioperative/intraoperative tachyarrhythmias
 - Hyperthyroid-associated tachycardia
 
-### Adverse effect
+#### Adverse effect
 
 - **Bradycardia**
 
-### Beta-blocker overdose
+#### Beta-blocker overdose
 
 PDF:
 
@@ -2614,25 +2415,25 @@ Glucagon is a classic rescue therapy for beta-blocker poisoning, but severe toxi
 
 ---
 
-## 24. CLASS IV - CALCIUM CHANNEL BLOCKERS
+### 24. CLASS IV - CALCIUM CHANNEL BLOCKERS
 
-### Main drug emphasis in the PDF
+#### Main drug emphasis in the PDF
 
 - **Verapamil**
 
-### Mechanism
+#### Mechanism
 
 - L-type Ca2+ channel blockade.
 - Slows:
   - SA-node rate
   - AV-node conduction.
 
-### Indications
+#### Indications
 
 - SVT
 - Selected AF rate control
 
-### Contraindications / cautions
+#### Contraindications / cautions
 
 PDF:
 
@@ -2649,11 +2450,11 @@ The clinically important rule is:
 
 ---
 
-## 25. CLASS III - POTASSIUM CHANNEL BLOCKERS
+### 25. CLASS III - POTASSIUM CHANNEL BLOCKERS
 
 **PDF location:** pages 18-19 (printed pp. 111-112)
 
-### PDF mnemonic: DIVAS
+#### mnemonic: DIVAS
 
 - **D - Dofetilide**
 - **I - Ibutilide**
@@ -2661,61 +2462,30 @@ The clinically important rule is:
 - **A - Amiodarone**
 - **S - Sotalol**
 
-### Mechanism
-
+#### Mechanism
 - Delayed repolarization.
 - Prolonged action-potential duration.
 - Prolonged QT in many agents.
-
-### Torsades risk
-
+#### Torsades risk
 Many class III drugs can increase QT and torsades risk.
 
 Exception:
+- ==**Amiodarone** prolongs QT but has a relatively lower torsades propensity than many other class III drugs.==
 
-- **Amiodarone** prolongs QT but has a relatively lower torsades propensity than many other class III drugs.
-
----
-
-### 25.1 Dofetilide
-
+#### 25.1 Dofetilide
 - Potassium-channel blocker.
 - Used for rhythm control in selected AF/flutter patients.
 - QT prolongation risk.
 
-**[Verified correction/update]**
-
-Initiation requires careful QT and renal-dose assessment, and in many systems monitored inpatient initiation is required.
-
----
-
-### 25.2 Ibutilide
-
+#### 25.2 Ibutilide
 - IV class III antiarrhythmic.
 - Used for pharmacological cardioversion of AF/flutter in appropriate patients.
 - QT prolongation/torsades risk.
 
----
-
-### 25.3 Vernakalant
-
-**[PDF]**
-
-Listed as class III and as applicable to AF/VF.
-
-**[Verified correction/update]**
-
-The “VF” association should be removed.
-
-Vernakalant is principally an **atrial-selective/multi-channel antiarrhythmic used for pharmacologic conversion of recent-onset AF** in jurisdictions where approved.
-
----
-
-## 26. AMIODARONE
-
-**PDF location:** pages 18-19 (printed pp. 111-112)
-
-### 26.1 Mechanism
+#### 25.3 Vernakalant
+Listed as class III and as applicable to AF
+#### 26. AMIODARONE
+##### 26.1 Mechanism
 
 - Predominantly class III action.
 - Also has:
@@ -2723,220 +2493,59 @@ Vernakalant is principally an **atrial-selective/multi-channel antiarrhythmic us
   - Ca2+ channel blockade
   - beta-adrenergic blocking properties
 
-#### Electrophysiology
-
+###### Electrophysiology
 - Prolongs repolarization/action-potential duration.
 - Prolongs QT.
 
-#### PDF description
-
 - “Most effective anti-arrhythmic drug.”
 
-**[Verified correction/update]**
-
-Amiodarone is among the **most effective broad-spectrum antiarrhythmics**, but “most effective” should not be treated as an absolute universal ranking.
-
----
-
-### 26.2 Iodine Content
-
-**[PDF]**
-
+##### 26.2 Iodine Content
 - About **37% iodine by weight**.
-
 Clinical consequence:
-
 - Significant thyroid effects.
 
----
-
-### 26.3 Major Adverse Effects
-
-## 1. Pulmonary toxicity
-
+##### 26.3 Major Adverse Effects
+###### 1. Pulmonary toxicity
 - Interstitial pneumonitis/fibrosis.
-- PDF calls this the **most dangerous** adverse effect.
-
-This is a major clinically serious toxicity.
-
-## 2. Thyroid
-
+- **most dangerous** adverse effect.
+###### 2. Thyroid
 Can cause:
-
 - Hypothyroidism
 - Hyperthyroidism
-
 Hypothyroidism is often more common, but both occur.
-
-## 3. Skin
-
+###### 3. Skin
 - Blue-gray / blue-purple skin discoloration.
-- “Purple man syndrome” in the PDF.
-
-## 4. Cornea
-
+- “Purple man syndrome” 
+###### 4. Cornea
 **Corneal verticillata / vortex keratopathy**
-
 - Whorl-like / flower-like epithelial deposits.
 - Usually reversible after discontinuation.
 - Often asymptomatic.
-
-## 5. Hepatotoxicity
-
+###### 5. Hepatotoxicity
 - Liver enzyme elevation
 - Clinically significant liver injury in some patients.
 
-## 6. QT prolongation
-
+###### 6. QT prolongation
 - Prolongs QT.
 - Torsades is possible but less frequent than expected for the extent of QT prolongation.
-
----
-
-## 27. DRONEDARONE
-
-**[PDF]**
-
+#### 27. DRONEDARONE
 - Modified derivative of amiodarone.
 - Lacks iodine.
 - Therefore:
-  - Fewer thyroid toxicities
-  - Less blue-gray skin deposition
+	- Fewer thyroid toxicities
+	- Less blue-gray skin deposition[[]]
 
-**[Verified correction/update]**
-
-Dronedarone is **not interchangeable** with amiodarone.
-
-It is contraindicated in important HF/AF settings, including:
-
-- Symptomatic or recently decompensated severe heart failure
-- Permanent AF in which rhythm conversion is not intended
-
----
-
-## 28. “PURPLE SYNDROMES”
-
-**PDF location:** page 19 (printed p. 112)
-
-### Purple man
-
-- **Amiodarone**
-- Blue-gray/blue-purple skin discoloration from chronic tissue deposition and photosensitivity-related changes.
-
-### Purple toe
-
-- **Warfarin**
-- Classic association with **cholesterol microembolization / cholesterol crystal emboli**.
-
-### Purple glove
-
-- **Phenytoin**
-- Usually related to IV extravasation/tissue injury.
-- Can produce swelling, discoloration and severe tissue damage.
-
----
-
-## 29. MISCELLANEOUS ANTIARRHYTHMIC / ADJUNCTIVE DRUGS
-
-**PDF location:** pages 17 and 20 (printed pp. 110 and 113)
-
----
-
-### 29.1 Adenosine
-
-#### Mechanism
-
-- Activates adenosine receptors in AV-node tissue.
-- Produces transient AV nodal block.
-- Very short half-life.
-
-#### Clinical use
-
-- Regular narrow-complex supraventricular tachycardia.
-
-#### Modern acute algorithm
-
-**[Verified correction/update]**
-
-For stable, regular narrow-complex tachycardia:
-
-1. Vagal maneuvers
-2. Adenosine
-3. If persistent, consider AV nodal blocking drugs such as diltiazem/verapamil or synchronized cardioversion depending on the situation.
-
-#### Wide-complex tachycardia caution
-
-Adenosine may be considered only when the rhythm is:
-
-- Stable
-- **Regular**
-- **Monomorphic**
-
-and the diagnosis is uncertain.
-
-Do not use adenosine in irregular or polymorphic wide-complex tachycardia.
-
-#### PDF dosing
-
-The source image/teaching note contains a rapid-dose sequence.
-
-**[PDF]**
-
-Adult:
-- 6 mg
-- then 12 mg
-- then 12 mg
-
-Pediatric:
-- 0.1 mg/kg
-- then 0.2 mg/kg
-- then 0.2 mg/kg
-
-**[Verified correction/update]**
-
-Always follow the local current protocol/product label for exact repeat dosing and maximum dose.
-
-#### Caution
-
-- Can provoke transient dyspnea/flushing/chest discomfort.
-- Bronchospasm is a concern, particularly in susceptible patients.
-
----
-
-### 29.2 Atropine
-
-The PDF lists atropine among miscellaneous agents.
-
-**[Verified correction/update]**
-
-Current ACLS use:
-
-- Atropine is a drug for **symptomatic bradycardia** when appropriate.
-- It is not a universal treatment for every bradyarrhythmia.
-- If ineffective in unstable bradycardia, transcutaneous pacing and/or vasoactive infusions may be needed.
-
----
-
-### 29.3 Magnesium sulfate
-
-#### Main high-yield role
-
-- **Torsades de pointes / polymorphic ventricular tachycardia associated with long QT**
-
-**[Verified correction/update]**
-
-Current resuscitation guidance:
-
-- Sustained polymorphic VT -> **immediate unsynchronized shock**.
-- If recurrent torsades is associated with prolonged QT:
-  - IV magnesium may be considered.
-  - Correct potassium and magnesium abnormalities.
-  - Remove QT-prolonging triggers where possible.
-
-Routine magnesium is **not** recommended for polymorphic VT when the QT interval is normal.
-
----
-
+> [!note] “PURPLE SYNDROMES”
+> ### Purple man
+> - **Amiodarone**
+> - Blue-gray/blue-purple skin discoloration from chronic tissue deposition and photosensitivity-related changes.
+> ### Purple toe
+> - **Warfarin**
+> - Classic association with **cholesterol microembolization / cholesterol crystal emboli**.
+> ### Purple glove
+> - **Phenytoin**
+> - Usually related to IV extravasation/tissue injury.
+> - Can produce swelling, discoloration and severe tissue damage.
 ## 30. ECG / ACUTE ARRHYTHMIA MANAGEMENT
 
 **PDF location:** page 20 (printed p. 113)
@@ -2994,7 +2603,7 @@ This reflects contemporary AHA adult advanced-life-support principles. The exact
 **[Verified correction/update]**
 
 - Immediate **synchronized cardioversion** for an unstable monomorphic wide-complex tachycardia when synchronization is feasible.
-- If the rhythm is polymorphic/sustained, synchronization is unreliable -> unsynchronized shock.
+- If the rhythm is polymorphic/sustained, synchronization is unreliable → unsynchronized shock.
 
 #### Stable monomorphic wide-complex tachycardia
 
@@ -3027,15 +2636,15 @@ Immediate unsynchronized shock
           v
 Check QT / reversible causes
           |
-          +--> Long QT / torsades
+          +-→ Long QT / torsades
           |       |
-          |       +--> IV magnesium for recurrent episodes
-          |       +--> correct K+ / Mg2+
-          |       +--> remove QT-prolonging cause
+          |       +-→ IV magnesium for recurrent episodes
+          |       +-→ correct K+ / Mg2+
+          |       +-→ remove QT-prolonging cause
           |
-          +--> Normal QT
+          +-→ Normal QT
                   |
-                  +--> search for ischemia/other cause
+                  +-→ search for ischemia/other cause
 ```
 
 ---
@@ -3046,39 +2655,39 @@ Check QT / reversible causes
 
 - **Loop:** TAL, NKCC2, lose Ca2+, hypokalemia, hypomagnesemia.
 - **Thiazide:** DCT, NCC, retain Ca2+, useful in hypercalciuria.
-- **MRA/ENaC blockers:** potassium sparing -> hyperkalemia.
+- **MRA/ENaC blockers:** potassium sparing → hyperkalemia.
 - **Acetazolamide:** PCT, bicarbonate loss, metabolic acidosis.
 - **Mannitol:** osmotic diuresis, raised ICP/IOP.
 
 ### Vasopressin
 
-- **V1** -> vasoconstriction.
-- **V2** -> renal water reabsorption.
-- **Desmopressin** -> central DI, enuresis, factor VIII/vWF.
-- **Vaptans** -> aquaresis.
+- **V1** → vasoconstriction.
+- **V2** → renal water reabsorption.
+- **Desmopressin** → central DI, enuresis, factor VIII/vWF.
+- **Vaptans** → aquaresis.
 
 ### RAAS
 
-- ACEI -> ↓ angiotensin II + ↓ aldosterone + ↑ bradykinin.
-- ACEI cough/angioedema -> bradykinin.
+- ACEI → ↓ angiotensin II + ↓ aldosterone + ↑ bradykinin.
+- ACEI cough/angioedema → bradykinin.
 - ARBs block AT1 without increasing bradykinin.
 - Both can produce hyperkalemia and reduce GFR in susceptible states.
-- Pregnancy -> avoid ACEI/ARB/direct renin inhibition.
+- Pregnancy → avoid ACEI/ARB/direct renin inhibition.
 
 ### CCBs
 
-- DHP -> vessels.
-- Verapamil/diltiazem -> AV node + heart.
-- DHP -> edema/flushing/headache.
-- Verapamil -> constipation, bradycardia.
+- DHP → vessels.
+- Verapamil/diltiazem → AV node + heart.
+- DHP → edema/flushing/headache.
+- Verapamil → constipation, bradycardia.
 - Avoid non-DHP + beta blocker combination.
 
 ### Nitrates
 
 - Predominantly venous dilation at lower doses.
 - Reduce preload.
-- Nitrate + PDE5 inhibitor -> severe hypotension.
-- Continuous nitrate exposure -> tolerance.
+- Nitrate + PDE5 inhibitor → severe hypotension.
+- Continuous nitrate exposure → tolerance.
 - Nitrate-free interval is required.
 
 ### ACS
@@ -3100,21 +2709,21 @@ Modern four pillars:
 
 ### Digoxin
 
-- Na+/K+-ATPase inhibition -> positive inotropy.
-- Vagal effect -> AV nodal slowing.
-- Hypokalemia -> more toxicity.
-- Renal impairment -> dose reduction/monitoring.
-- Digoxin immune Fab -> severe toxicity.
+- Na+/K+-ATPase inhibition → positive inotropy.
+- Vagal effect → AV nodal slowing.
+- Hypokalemia → more toxicity.
+- Renal impairment → dose reduction/monitoring.
+- Digoxin immune Fab → severe toxicity.
 - Avoid AV-node blockers in acute pre-excited AF/WPW.
 
 ### Antiarrhythmics
 
-- IA -> Na block + K block -> prolonged QT.
-- IB -> ventricular Na blockade, shortens/minimally changes APD.
-- IC -> strong Na blockade, conduction slowing; avoid in prior MI/major structural disease.
-- II -> beta blockade.
-- III -> repolarization prolongation.
-- IV -> verapamil/diltiazem.
+- IA → Na block + K block → prolonged QT.
+- IB → ventricular Na blockade, shortens/minimally changes APD.
+- IC → strong Na blockade, conduction slowing; avoid in prior MI/major structural disease.
+- II → beta blockade.
+- III → repolarization prolongation.
+- IV → verapamil/diltiazem.
 
 ---
 
@@ -3399,4 +3008,4 @@ Acute tachyarrhythmia algorithms
 
 ###### Core memorization chain
 
-The major principle is to memorize the **mechanism -> electrophysiology/hemodynamics -> clinical use -> adverse effect/contraindication** chain rather than isolated drug names.
+The major principle is to memorize the **mechanism → electrophysiology/hemodynamics → clinical use → adverse effect/contraindication** chain rather than isolated drug names.
