@@ -1,3 +1,7 @@
+filters:
+  and:
+    - file.inFolder("Study Material/Flashcards/Marrow Pearls")
+    - '!file.inFolder("Study Material/Flashcards/Marrow Pearls/images")'
 formulas:
   Untitled: ""
 views:
@@ -35,3 +39,5 @@ views:
       - pearl_id
     cardSize: 260
     imageAspectRatio: 1.55
+  - type: table
+    name: All view

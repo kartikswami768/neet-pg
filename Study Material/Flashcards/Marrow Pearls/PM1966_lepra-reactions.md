@@ -1,5 +1,5 @@
 ---
-pearl_id: PM196G
+pearl_id: PM1966
 title: Lepra Reactions
 Subject:
   - Dermatology
@@ -20,7 +20,7 @@ tags:
 
 # Lepra Reactions
 
-Pearl ID: PM196G
+Pearl ID: PM1966
 
 #flashcards
 
