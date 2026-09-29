@@ -1,19 +1,19 @@
-  ---
-  pearl_id: PM2385
-  title: "Heparin vs. LMWH vs. Fondaparinux"
-  Subject:
-- Medicine
-- Pharmacology
-  type: Marrow
-  Topic:
-- Blood Disorders
-- Hematology
-  tags:
-- flashcards
-- marrow-pearl
-- pharmacology
-- heparin
-  ---
+---
+pearl_id: PM2385
+title: "Heparin vs. LMWH vs. Fondaparinux"
+Subject:
+  - Medicine
+  - Pharmacology
+type: Marrow
+Topic:
+  - Blood Disorders
+  - Hematology
+tags:
+  - flashcards
+  - marrow-pearl
+  - pharmacology
+  - heparin
+---
 
   # Heparin vs. LMWH vs. Fondaparinux
 

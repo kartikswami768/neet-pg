@@ -1,17 +1,17 @@
-  ---
-  pearl_id: PM2405
-  title: "FDA approved drugs in 2019"
-  Subject:
-- Pharmacology
-  type: Marrow
-  Topic:
-- Newer Drugs
-  tags:
-- flashcards
-- marrow-pearl
-- pharmacology
-- newer-drugs
-  ---
+---
+pearl_id: PM2405
+title: "FDA approved drugs in 2019"
+Subject:
+  - Pharmacology
+type: Marrow
+Topic:
+  - Newer Drugs
+tags:
+  - flashcards
+  - marrow-pearl
+  - pharmacology
+  - newer-drugs
+---
 
   # FDA approved drugs in 2019
 

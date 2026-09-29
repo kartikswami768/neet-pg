@@ -1,18 +1,18 @@
-  ---
-  pearl_id: PM2438
-  title: "Tocolytic agents"
-  Subject:
-- Obstetrics & Gynaecology
-- Pharmacology
-  type: Marrow
-  Topic:
-- Labor and Puerperium
-  tags:
-- flashcards
-- marrow-pearl
-- pharmacology
-- tocolytics
-  ---
+---
+pearl_id: PM2438
+title: "Tocolytic agents"
+Subject:
+  - Obstetrics & Gynaecology
+  - Pharmacology
+type: Marrow
+Topic:
+  - Labor and Puerperium
+tags:
+  - flashcards
+  - marrow-pearl
+  - pharmacology
+  - tocolytics
+---
 
   # Tocolytic agents
 

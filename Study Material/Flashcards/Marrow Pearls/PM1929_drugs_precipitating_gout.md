@@ -1,19 +1,19 @@
-  ---
-  pearl_id: PM1929
-  title: "Drugs precipitating Gout"
-  Subject:
-- Medicine
-- Pharmacology
-  type: Marrow
-  Topic:
-- Rheumatology and Immunology
-- Autacoids
-  tags:
-- flashcards
-- marrow-pearl
-- pharmacology
-- gout
-  ---
+---
+pearl_id: PM1929
+title: "Drugs precipitating Gout"
+Subject:
+  - Medicine
+  - Pharmacology
+type: Marrow
+Topic:
+  - Rheumatology and Immunology
+  - Autacoids
+tags:
+  - flashcards
+  - marrow-pearl
+  - pharmacology
+  - gout
+---
 
   # Drugs precipitating Gout
 

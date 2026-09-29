@@ -1,19 +1,19 @@
-  ---
-  pearl_id: PM2398
-  title: "Classification of anti-platelet drugs"
-  Subject:
-- Medicine
-- Pharmacology
-  type: Marrow
-  Topic:
-- Hematology
-- Blood Disorders
-  tags:
-- flashcards
-- marrow-pearl
-- pharmacology
-- antiplatelet
-  ---
+---
+pearl_id: PM2398
+title: "Classification of anti-platelet drugs"
+Subject:
+  - Medicine
+  - Pharmacology
+type: Marrow
+Topic:
+  - Hematology
+  - Blood Disorders
+tags:
+  - flashcards
+  - marrow-pearl
+  - pharmacology
+  - antiplatelet
+---
 
   # Classification of anti-platelet drugs
 

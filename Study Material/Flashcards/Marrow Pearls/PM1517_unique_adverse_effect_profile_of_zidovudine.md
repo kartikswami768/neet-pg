@@ -1,17 +1,17 @@
-  ---
-  pearl_id: PM1517
-  title: "Unique adverse effect profile of Zidovudine"
-  Subject:
-- Pharmacology
-  type: Marrow
-  Topic:
-- Anti-Neoplastic Agents
-  tags:
-- flashcards
-- marrow-pearl
-- pharmacology
-- zidovudine
-  ---
+---
+pearl_id: PM1517
+title: "Unique adverse effect profile of Zidovudine"
+Subject:
+  - Pharmacology
+type: Marrow
+Topic:
+  - Anti-Neoplastic Agents
+tags:
+  - flashcards
+  - marrow-pearl
+  - pharmacology
+  - zidovudine
+---
 
   # Unique adverse effect profile of Zidovudine
 

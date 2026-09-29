@@ -1,17 +1,17 @@
-  ---
-  pearl_id: PM1082
-  title: "Monoclonal antibodies nomenclature"
-  Subject:
-- Pharmacology
-  type: Marrow
-  Topic:
-- Anti-Neoplastic Agents
-  tags:
-- flashcards
-- marrow-pearl
-- pharmacology
-- monoclonal-antibodies
-  ---
+---
+pearl_id: PM1082
+title: "Monoclonal antibodies nomenclature"
+Subject:
+  - Pharmacology
+type: Marrow
+Topic:
+  - Anti-Neoplastic Agents
+tags:
+  - flashcards
+  - marrow-pearl
+  - pharmacology
+  - monoclonal-antibodies
+---
 
   # Monoclonal antibodies nomenclature
 
