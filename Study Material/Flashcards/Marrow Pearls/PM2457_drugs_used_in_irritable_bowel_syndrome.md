@@ -1,19 +1,19 @@
-  ---
-  pearl_id: PM2457
-  title: "Drugs used in irritable bowel syndrome (IBS)"
-  Subject:
-- Medicine
-- Pharmacology
-  type: Marrow
-  Topic:
-- Gastrointestinal Drugs
-- Gastrointestinal System
-  tags:
-- flashcards
-- marrow-pearl
-- pharmacology
-- IBS
-  ---
+---
+pearl_id: PM2457
+title: "Drugs used in irritable bowel syndrome (IBS)"
+Subject:
+  - Medicine
+  - Pharmacology
+type: Marrow
+Topic:
+  - Gastrointestinal Drugs
+  - Gastrointestinal System
+tags:
+  - flashcards
+  - marrow-pearl
+  - pharmacology
+  - IBS
+---
 
   # Drugs used in irritable bowel syndrome (IBS)
 
