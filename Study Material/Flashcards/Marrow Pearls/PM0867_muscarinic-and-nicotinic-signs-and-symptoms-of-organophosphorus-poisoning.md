@@ -25,11 +25,11 @@ tags:
 
 # Muscarinic and Nicotinic Signs and symptoms of Organophosphorus Poisoning
 
-**Pearl ID:** `PMO867`
+**Pearl ID:** `PM0867`
 
 #flashcards/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
 
-What are the key facts in the Marrow Pearl **"Muscarinic and Nicotinic Signs and symptoms of Organophosphorus Poisoning"** (PMO867)?
+What are the key facts in the Marrow Pearl **"Muscarinic and Nicotinic Signs and symptoms of Organophosphorus Poisoning"** (PM0867)?
 ?
 
 | Mechanism | Site affected | Symptoms |
