@@ -1,6 +1,6 @@
 ---
 pearl_id: PMO740
-title: Side effects of Corticosteroids: mnemonic "CORTICOSTEROIDS"
+title: Side effects of Corticosteroids mnemonic "CORTICOSTEROIDS"
 Subject:
   - Medicine
   - Pharmacology

@@ -1,19 +1,21 @@
-  ---
-  pearl_id: PM0765
-  title: "Difference in COX-1 and COX-2"
-  Subject:
-- Biochemistry
-- Pharmacology
-  type: Marrow
-  Topic:
-- Lipids
-- Autacoids
-  tags:
-- flashcards
-- marrow-pearl
-- pharmacology
-- COX
-  ---
+---
+pearl_id: PM0765
+title: Difference in COX-1 and COX-2
+Subject:
+  - Biochemistry
+  - Pharmacology
+type: Marrow
+Topic:
+  - Lipids
+  - Autacoids
+tags:
+  - flashcards
+  - marrow-pearl
+  - pharmacology
+  - COX
+
+---
+
 
   # Difference in COX-1 and COX-2
 
