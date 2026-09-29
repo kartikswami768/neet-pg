@@ -37,6 +37,7 @@ Where are Nn nicotinic acetylcholine receptors classically located?::Autonomic g
 
 ### ANS-005 — Cholinergic receptors · Nicotinic · receptor · receptor: Nm · difficulty: 1
 Where are Nm nicotinic acetylcholine receptors located?::At the neuromuscular junction of skeletal muscle.
+<!--SR:!2026-10-03,4,270-->
 
 ### ANS-006 — Cholinergic receptors · Muscarinic · receptor · receptor: M1 · difficulty: 2
 What is the G-protein coupling and major high-yield role of the M1 receptor?::M1 is Gq-coupled; it is associated with higher cognition, enteric activation and increased exocrine secretion.

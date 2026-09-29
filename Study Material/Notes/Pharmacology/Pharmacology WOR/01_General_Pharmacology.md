@@ -230,21 +230,47 @@ $$
 
 #### Phases
 
-|  | Phase I | Phase II (AKA conjugation) |
-|---|---|---|
-| **Mechanisms** | Breakdown of drug (D) + addition of functional group (FG) | Conjugate (−ve charged) binds to FG → ionised/water soluble drugs |
-| **Reactions** | **ORCHAD :**<br>• Oxidation (M/c)<br>• Reduction<br>• Cyclization<br>• Hydrolysis<br>• Aliphatic and aromatic hydroxylation<br>• Deamination | **GAMS (Mnemonic) :**<br>• Glucuronidation (M/c)<br>• Glycination<br>• Glutathionation<br>• Acetylation<br>• Methylation<br>• Sulfation |
-| **Enzyme involved** | CYP450 enzymes :<br>M/c : CYP3A4 | Glucuronyl transferase (GT) :<br>Glucuronidation |
-| **Clinical significance** | − | Crigler Najjar syndrome : ↓GT → ↑ Toxicity of:<br>i) Irinotecan<br>ii) Atazanavir |
+|                           | Phase I                                                                                                                                      | Phase II (AKA conjugation)                                                                                                              |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mechanisms**            | Breakdown of drug (D) + addition of functional group (FG)                                                                                    | Conjugate (−ve charged) binds to FG → ionised/water soluble drugs                                                                       |
+| **Reactions**             | **ORCHAD :**<br>• Oxidation (M/c)<br>• Reduction<br>• Cyclization<br>• Hydrolysis<br>• Aliphatic and aromatic hydroxylation<br>• Deamination | **GAMS (Mnemonic) :**<br>• Glucuronidation (M/c)<br>• Glycination<br>• Glutathionation<br>• Acetylation<br>• Methylation<br>• Sulfation |
+| **Enzyme involved**       | CYP450 enzymes :<br>M/c : CYP3A4                                                                                                             | Glucuronyl transferase (GT) :<br>Glucuronidation                                                                                        |
+| **Clinical significance** | −                                                                                                                                            | Crigler Najjar syndrome : ↓GT → ↑ Toxicity of:<br>i) Irinotecan<br>ii) Atazanavir                                                       |
 
-#### Note: CYP450 enzymes (m/c : CYP3A4)
+#### CYP450 Enzymes
+| CYP            | PDF examples                                                   | High-yield note                                                                   | Induced by |                            |
+| -------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------- | -------------------------- |
+| **CYP1A2**     | Theophylline, clozapine                                        | ==Induced by smoking==                                                            |            |                            |
+| **CYP2C19**    | Clopidogrel                                                    | Bioactivation of clopidogrel                                                      | Omeprazole |                            |
+| **CYP2C9**     | Phenytoin, warfarin                                            | Genetic variability; warfarin sensitivity affected by CYP2C9                      |            |                            |
+| **CYP2D6**     | Propranolol, haloperidol, fluoxetine, codeine, antiarrhythmics | Major pharmacogenetic variability                                                 |            |                            |
+| **CYP2E1**     | Paracetamol                                                    | Important for toxic metabolite formation. Can be induced or inhibited by alcohol. |            |                            |
+| **==CYP3A4==** | Atorvastatin, estrogen and many other drugs                    | ==Major drug-metabolizing CYP pathway==                                           | Rifampicin | Ketoconazole, Erythromycin |
+|                |                                                                |                                                                                   |            |                            |
+
+##### Note: CYP450 enzymes (m/c : CYP3A4)
 
 - **CY** : Cytochrome → Heme protein.
 - **P** : Pigments that absorb light of 450 nm wavelength.
 - **3** : Family.
 - **A** : Sub-family.
 - **4** : Gene isoform number.
+##### CYP3A4 — Important Inducers & Inhibitors
 
+| CYP3A4 Inducers ↑ | CYP3A4 Inhibitors ↓ |
+|---|---|
+| **Rifampicin** ⭐ | **Clarithromycin** ⭐ |
+| Rifabutin | **Erythromycin** |
+| **Carbamazepine** ⭐ | **Azole antifungals** ⭐ — ketoconazole, itraconazole, voriconazole, posaconazole |
+| **Phenytoin** ⭐ | **Ritonavir** ⭐ |
+| Phenobarbital | Cobicistat |
+| **St. John's wort** ⭐ | **Grapefruit juice** ⭐ |
+| Dexamethasone (chronic/high dose) | **Verapamil** |
+| Efavirenz | **Diltiazem** |
+| Nevirapine | Amiodarone |
+|  | Cyclosporine |
+|  | Tacrolimus |
+|  | Cimetidine
 #### Drug-Enzyme Interaction
 
 |  | Enzyme inducers | Enzyme inhibitors |
@@ -477,26 +503,26 @@ E.g. :
 
 ### Receptors
 
-| Type of receptor | Sub-types | Examples |
-|---|---|---|
-| Ligand gated ion channel | — | • GABAA<br>• Glutamate (NMDA, AMPA, Kainate)<br>• Nicotinic<br>• 5-HT3 |
-| Enzymatic | Tyrosine kinase receptors | • EGFR (Her-1)<br>• Insulin, IGF-1<br>• Toll-like receptors<br>• VEGFR<br>• Her-2 |
-| Enzymatic | Serine/threonine kinase receptors | TGFR |
-| Enzymatic | Janus kinase receptors (JAK) : Sub-type of tyrosine kinase receptor | • Cytokine receptors (Eg : Leptin)<br>• Prolactin<br>• Growth hormone |
-| Enzymatic | Guanylyl cyclase linked receptor | ANP & BNP (Vasodilatation) |
-| Nuclear | Located in nucleus (TREP) | • Thyroid<br>• Retinoic acid<br>• Retinoid X<br>• Estrogen<br>• Progesterone<br>• PPAR (Peroxisome Proliferator Activated Receptor) |
-| Nuclear | Located in cytoplasm | • Mineralocorticoid<br>• Glucocorticoid<br>• Androgen<br>• Vitamin D |
+| Type of receptor         | Sub-types                                                           | Examples                                                                                                                                            |                                                             |
+| ------------------------ | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Ligand gated ion channel | —                                                                   | • GABAA<br>• Glutamate (NMDA, AMPA, Kainate)<br>• Nicotinic<br>• 5-HT3                                                                              |                                                             |
+| Enzymatic                | Tyrosine kinase receptors/aka MAP Kinase                            | • EGFR (Her-1)<br>• ==Insulin, IGF-1==, <br>• ==Toll-like receptors==<br>• VEGFR<br>• ==Her-2==                                                     | Insulin + Insulin like hormones (which are growth hormones) |
+| Enzymatic                | Serine/threonine kinase receptors                                   | TGFR                                                                                                                                                |                                                             |
+| Enzymatic                | Janus kinase receptors (JAK) : Sub-type of tyrosine kinase receptor | • Cytokine receptors (Eg : Leptin)<br>• ==Prolactin==<br>• ==Growth hormone==                                                                       |                                                             |
+| Enzymatic                | ==Guanylyl cyclase== linked receptor                                | ANP & BNP (Vasodilatation)                                                                                                                          |                                                             |
+| Nuclear                  | Located in ==nucleus== (TREP)                                       | • ==Thyroid==<br>• Retinoic acid<br>• Retinoid X<br>• ==Estrogen==<br>• ==Progesterone==<br>• ==PPAR== (Peroxisome Proliferator Activated Receptor) |                                                             |
+| Nuclear                  | Located in ==cytoplasm==                                            | • Mineralocorticoid<br>• Glucocorticoid<br>• Androgen<br>• Vitamin D                                                                                | Everything being released by/near kidney is Cytoplasmic     |
 
 ### G-protein coupled receptors (GPCR)
-
+[[02_Autonomic_Nervous_System#G-Protein–Linked Second Messengers|GPCR Receptors of ANS, their Location and function]]
 **M/c subunit : α**
 
-| GPCR | MOA | Examples | Drugs |
-|---|---|---|---|
-| Gs | + Adenylate cyclase → ↑ cAMP → Cardiac & skeletal muscles → Contraction; Smooth muscles → Relaxation | β1, β2 | — |
-| Gq | + Phospholipase C → ↑ IP3 (2nd messenger) → ↑ Ca²⁺ production → Smooth muscle contraction | α1, M1, M3 | • Oxytocin<br>• Angiotensin |
-| Gi/o (Inhibitory) | ↓ cAMP (Gi); ↓ Ca²⁺ (Go); Open K⁺ channels (Gi and Go) → Relaxation | Presynaptic/autoreceptors : M2 (Heart), α2, H3, 5-HT1 | — |
-| G12/13 | + Rho kinase → Smooth muscle contraction | — | **Rho kinase − :**<br>• Fasudil → Angina (Vasodilator)<br>• Netarsudil → Glaucoma<br>• Belumosudil → Immunosuppression |
+| GPCR              | MOA                                                                                                      | Examples                                              | Drugs/Hormones                                                                                                                                                              |                                                                  |
+| ----------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Gs                | + Adenylate cyclase → ↑ cAMP → Cardiac & skeletal muscles → Contraction; ==Smooth muscles → Relaxation== | β1, β2                                                | ACTH, CRH, TSH, GHRH, FSH, LH, hCG, <br>• Vasopressin (V2)<br>• PTH                                                                                                         | β1, β2 cause ↑ CO and dilate vessels<br>s is for stimulatory     |
+| Gq                | + Phospholipase C → ↑ IP3 (2nd messenger) → ↑ Ca²⁺ production → Smooth muscle contraction                | α1, M1, M3                                            | **phospholipase C**:<br>• ==Oxytocin==<br>• ==Angiotensin== (V1)<br>• ==GnRH, GHRH, TRH==<br>• Gastrin, Cholecystokinin<br>**cGMP**<br>• NO<br>• Atrial Natriuretic Peptide | q is for second messengers<br>1. phospholipase C or, <br>2. cGMP |
+| Gi/o (Inhibitory) | ↓ cAMP (Gi); ↓ Ca²⁺ (Go); Open K⁺ channels (Gi and Go) → Relaxation                                      | Presynaptic/autoreceptors : M2 (Heart), α2, H3, 5-HT1 | Somatostatin, beside others                                                                                                                                                 | These are inhibitory as in name                                  |
+| G12/13            | + Rho kinase → Smooth muscle contraction                                                                 | —                                                     | **Rho kinase − :**<br>• Fasudil → Angina (Vasodilator)<br>• Netarsudil → Glaucoma<br>• Belumosudil → Immunosuppression                                                      |                                                                  |
 
 ### Drug Safety
 
