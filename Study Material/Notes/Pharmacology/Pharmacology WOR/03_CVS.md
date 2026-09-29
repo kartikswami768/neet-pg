@@ -281,6 +281,7 @@ Adverse effects:
 Aim: block AV node (to maintain ventricular rate <100/min).
 - β-blocker (DOC).
 - CCB: Non-DHP like Diltiazem (in COPD, asthma).
+- Digoxin (especially in HFrEF)
 ##### Patients:
 1. older patients
 2. long standing AF
@@ -300,17 +301,18 @@ Usually in Younger Patients
 - Arising from atrium.
 - Aim: block AV node (prevent conduction into ventricles).
 - Drugs: **ABCD**
-  - A: Adenosine
-  - B: Beta blocker
-  - C: CCB (diltiazem/verapamil)
-  - D: Digoxin
+	- A: Adenosine
+	- B: Beta blocker
+	- C: CCB (diltiazem/verapamil)
+	- D: Digoxin
+> Pay attention: the drugs mentioned here are adenosine + rate control drugs of AF. Because all these drugs are doing only one job that is AV block.
 - IV drugs:
   - Acute attack.
   - ↓BP.
 - DOC:
   - Acute: **Adenosine**.
   - Long-term management: **β-blockers**.
-### Management of acute attack
+#### Management of acute attack
 ```mermaid
 flowchart TD
     A[Tachyarrhythmia] --> B{BP status}
@@ -330,17 +332,17 @@ Block myocardial cells:
 - Na⁺ channel −.
 - K⁺ channel −:
   - Amiodarone (DOC).
-**Exception:** Digoxin/ischemia-induced V. tach/V. fib → DOC **Lidocaine**.
+==**Exception:** Digoxin/ischemia-induced V. tach/V. fib → DOC **Lidocaine**==.
 #### Long QT Syndrome
 **Acute attack (Torsades de pointes) management:**
 - Congenital & acquired.
 - **DOC: MgSO₄.**
 **Long-term management:**
 - Congenital:
-  - DOC: β-blocker.
-  - TOC: pacing (ICD).
+	- DOC: β-blocker.
+	- TOC: pacing (ICD).
 - Acquired:
-  - Avoid QT-prolonging drugs.
+	- Avoid QT-prolonging drugs.
 #### WPW Syndrome
 Anatomical accessory pathway.
 - DOC: **Flecainide** (s/e: most arrhythmogenic).
