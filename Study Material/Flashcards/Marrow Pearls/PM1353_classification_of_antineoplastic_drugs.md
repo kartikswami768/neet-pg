@@ -1,17 +1,17 @@
-  ---
-  pearl_id: PM1353
-  title: "Classification of antineoplastic drugs"
-  Subject:
-- Pharmacology
-  type: Marrow
-  Topic:
-- Anti-Neoplastic Agents
-  tags:
-- flashcards
-- marrow-pearl
-- pharmacology
-- antineoplastic
-  ---
+---
+pearl_id: PM1353
+title: "Classification of antineoplastic drugs"
+Subject:
+  - Pharmacology
+type: Marrow
+Topic:
+  - Anti-Neoplastic Agents
+tags:
+  - flashcards
+  - marrow-pearl
+  - pharmacology
+  - antineoplastic
+---
 
   # Classification of antineoplastic drugs
 
