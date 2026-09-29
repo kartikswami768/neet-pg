@@ -20,11 +20,11 @@ tags:
 
 # Benign prostatic hyperplasia treatment
 
-**Pearl ID:** `PMO854`
+**Pearl ID:** `PM0854`
 
 #flashcards/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
 
-What are the key facts in the Marrow Pearl **"Benign prostatic hyperplasia treatment"** (PMO854)?
+What are the key facts in the Marrow Pearl **"Benign prostatic hyperplasia treatment"** (PM0854)?
 ?
 
 - **Static component:** 5 alpha-reductase inhibitor [e.g. Finasteride]
