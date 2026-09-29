@@ -243,13 +243,13 @@ The PDF labels osmotic diuretics as acting at the loop of Henle. The pharmacolog
 
 **PDF location:** page 2 (printed p. 95)
 
-##### Site of action
+#### Site of action
 
 **[PDF]**
 
 - **Thick ascending limb (TAL) of the loop of Henle**
 
-##### Mechanism
+#### Mechanism
 
 **[PDF]**
 
@@ -257,13 +257,13 @@ The PDF labels osmotic diuretics as acting at the loop of Henle. The pharmacolog
 2. Increase urinary NaCl and water excretion.
 3. The PDF additionally emphasizes increased prostaglandin synthesis and renal vasodilation/blood flow.
 
-##### Major characteristics
+#### Major characteristics
 
 - **Most effective / high-ceiling diuretics.**
 
-##### Drugs
+#### Drugs
 
-###### Mercury-containing
+##### Mercury-containing
 
 Historical only:
 
@@ -271,7 +271,7 @@ Historical only:
   - Very ototoxic.
   - PDF notes permanent deafness.
 
-###### Sulfonamide-containing
+##### Sulfonamide-containing
 
 - **Furosemide**
 - **Torsemide**
@@ -284,13 +284,13 @@ PDF pearls:
 - Ototoxicity can occur.
 - Sulfonamide allergy is a consideration.
 
-###### Non-mercury, non-sulfonamide
+##### Non-mercury, non-sulfonamide
 
 - **Ethacrynic acid**
 
 This is the main loop option classically used when a non-sulfonamide loop is desired.
 
-##### Clinical uses
+#### Clinical uses
 
 **[PDF]**
 
@@ -302,7 +302,7 @@ This is the main loop option classically used when a non-sulfonamide loop is des
 
 Loop diuretics are especially useful when hypertension coexists with significant volume overload or renal dysfunction, but they are **not a generic first-line drug for all hypertensive emergencies**. Blood-pressure control in emergency depends on the specific acute target-organ injury.
 
-##### NSAID interaction
+#### NSAID interaction
 
 **[PDF]**
 
@@ -322,24 +322,24 @@ This interaction is pharmacologically plausible and clinically relevant, especia
 
 **PDF location:** page 3 (printed p. 96)
 
-##### Site
+#### Site
 
 **[PDF]**
 
 - **Distal convoluted tubule (DCT)**
 
-##### Mechanism
+#### Mechanism
 
 - Inhibit the **Na+-Cl- symporter (NCC)**.
 
-##### Drugs
+#### Drugs
 
-###### Simple thiazides
+##### Simple thiazides
 
 - **Chlorothiazide**
 - **Hydrochlorothiazide**
 
-###### Thiazide-like drugs
+##### Thiazide-like drugs
 
 - **Chlorthalidone**
   - PDF: “most potent thiazide-like drug.”
@@ -347,26 +347,26 @@ This interaction is pharmacologically plausible and clinically relevant, especia
   - PDF: highlighted for reduced renal function.
 - **Indapamide**
 
-##### Clinical uses - PDF mnemonic HORD
+#### Clinical uses - PDF mnemonic HORD
 
-###### H - Hypertension
+##### H - Hypertension
 
 - The PDF calls thiazides **DOC** for hypertension.
 - The note contrasts this with loop diuretics for hypertensive crisis.
 
-###### O - Osteoporosis
+##### O - Osteoporosis
 
 - Reduced urinary Ca2+ loss may help preserve bone mineral density.
 
-###### R - Renal stones
+##### R - Renal stones
 
 - Particularly **calcium stones** associated with hypercalciuria.
 
-###### D - Diabetes insipidus
+##### D - Diabetes insipidus
 
 - Thiazides paradoxically reduce urine volume in **nephrogenic DI**.
 
-##### Low-GFR statement
+#### Low-GFR statement
 
 The PDF says:
 
@@ -397,7 +397,7 @@ The PDF lists:
 - Hyperlipidemia
 - Hyperuricemia
 
-##### PDF contraindication statement
+#### PDF contraindication statement
 
 The PDF says loop/thiazide diuretics are contraindicated in:
 
@@ -438,11 +438,11 @@ They are clinically relevant adverse-effect/caution domains:
 
 **PDF location:** pages 4-5 (printed pp. 97-98)
 
-##### Site
+#### Site
 
 - **Collecting duct**
 
-##### Basic mechanism
+#### Basic mechanism
 
 **[PDF]**
 
@@ -450,14 +450,14 @@ They are clinically relevant adverse-effect/caution domains:
 - Reduce K+ secretion.
 - Therefore they are **potassium-sparing**.
 
-##### Main types
+#### Main types
 
 | Type | Drugs | Site/target |
 |---|---|---|
 | Aldosterone receptor antagonists / MRAs | Spironolactone, Eplerenone, Finerenone | Mineralocorticoid receptor |
 | ENaC inhibitors | Amiloride, Triamterene | Epithelial sodium channel (ENaC) |
 
-##### Important exam distinction
+#### Important exam distinction
 
 **[PDF]**
 
@@ -602,12 +602,12 @@ The PDF table reconstructs as:
 | Liver failure / ascites | Spironolactone |
 | Cerebral edema / raised ICP | Mannitol |
 
-##### Important PDF pearl
+#### Important PDF pearl
 
 - Loop diuretics can be used in essentially **all major forms of clinically significant volume-overload edema**.
 - Spironolactone is particularly important in **cirrhotic ascites** because of secondary hyperaldosteronism.
 
-##### Mannitol caution
+#### Mannitol caution
 
 - Mannitol should not be used indiscriminately in patients with heart failure or severe renal failure because the initial intravascular volume expansion can be harmful.
 
@@ -676,12 +676,12 @@ Desmopressin also increases **von Willebrand factor** and is used in selected pa
 
 **PDF location:** page 6 (printed p. 99)
 
-##### Mechanism
+#### Mechanism
 
 - Block ADH/vasopressin receptors.
 - Promote free-water excretion (**aquaresis**).
 
-##### Drugs
+#### Drugs
 
 - **Conivaptan**
   - IV
@@ -690,11 +690,11 @@ Desmopressin also increases **von Willebrand factor** and is used in selected pa
   - Oral
   - Selective V2 antagonist
 
-##### Main indication in the PDF
+#### Main indication in the PDF
 
 - **SIADH**
 
-##### SIADH pathophysiology
+#### SIADH pathophysiology
 
 Excess ADH -> increased water reabsorption -> dilutional hyponatremia.
 
@@ -709,7 +709,7 @@ PDF-listed causes:
 
 The list is not exhaustive. SIADH can occur with pulmonary disease, malignancy, drugs, CNS disease, postoperative states, and many other conditions.
 
-##### Demeclocycline
+#### Demeclocycline
 
 **[PDF]**
 
@@ -726,13 +726,13 @@ Demeclocycline is no longer a routine first-line SIADH treatment in many modern 
 
 **PDF location:** page 6 (printed p. 99)
 
-##### Age
+#### Age
 
 **[PDF]**
 
 - Treatment generally considered when the child is **>6 years** and bedwetting remains clinically significant.
 
-##### First-line non-drug management
+#### First-line non-drug management
 
 - Education/training.
 - Restrict excessive fluid intake immediately before sleep.
@@ -740,9 +740,9 @@ Demeclocycline is no longer a routine first-line SIADH treatment in many modern 
   - Alarm triggers when urine is passed.
   - Trains arousal to bladder filling.
 
-##### Pharmacotherapy
+#### Pharmacotherapy
 
-###### Desmopressin
+##### Desmopressin
 
 - PDF: **DOC**
 - Decreases nocturnal urine production.
@@ -752,13 +752,13 @@ Demeclocycline is no longer a routine first-line SIADH treatment in many modern 
 
 Intranasal desmopressin is not generally preferred for routine enuresis because of safety concerns; oral formulations are more commonly used, with careful fluid restriction to reduce hyponatremia risk.
 
-###### Oxybutynin
+##### Oxybutynin
 
 - Anticholinergic.
 - Relaxes bladder detrusor.
 - Usually considered in selected children with bladder dysfunction and not as the universal first pharmacologic choice.
 
-###### Imipramine
+##### Imipramine
 
 - Tricyclic antidepressant.
 - Anticholinergic effect.
@@ -771,7 +771,7 @@ Intranasal desmopressin is not generally preferred for routine enuresis because 
 
 **PDF location:** page 6 (printed p. 99)
 
-##### Basic pathophysiology
+#### Basic pathophysiology
 
 Deficient ADH effect -> reduced water reabsorption -> increased free-water loss.
 
@@ -837,7 +837,7 @@ The issue is more nuanced:
 
 **PDF location:** page 7 (printed p. 100)
 
-##### PDF mnemonic
+#### PDF mnemonic
 
 - **C - Carbamazepine**
 - **C - Chlorpropamide**
@@ -849,7 +849,7 @@ The PDF also separately emphasizes:
 - Carbamazepine -> hyponatremia via SIADH
 - Chlorpropamide -> hyponatremia via SIADH
 
-##### Drugs causing an ADH-deficiency/nephrogenic-DI picture
+#### Drugs causing an ADH-deficiency/nephrogenic-DI picture
 
 **PDF mnemonic**
 
@@ -978,13 +978,13 @@ Do not list **aliskiren** as the routine automatic replacement for ACEI angioede
 
 **PDF location:** page 8 (printed p. 101)
 
-##### PDF mnemonic: SAF
+#### PDF mnemonic: SAF
 
 - **S - SGLT2 inhibitors**
 - **A - ACE inhibitor / ARB**
 - **F - Finerenone**
 
-##### SGLT2 inhibitors
+#### SGLT2 inhibitors
 
 PDF-listed examples:
 
@@ -998,7 +998,7 @@ Also used in diabetes mellitus.
 
 Current CKD guidance supports SGLT2 inhibitors for appropriate patients with CKD, with or without diabetes depending on the indication and level of kidney function. They are kidney/cardiovascular risk-reducing therapy, not merely “diabetes drugs.”
 
-##### ACEI/ARB
+#### ACEI/ARB
 
 **[Verified correction/update]**
 
@@ -1006,7 +1006,7 @@ Current KDIGO guidance places particular emphasis on **ACEI or ARB in CKD with a
 
 Do **not** routinely combine ACEI + ARB.
 
-##### Finerenone
+#### Finerenone
 
 - Nonsteroidal MRA.
 - Particularly relevant to type 2 diabetes + CKD with albuminuria when potassium and eGFR criteria are appropriate.
@@ -1468,24 +1468,24 @@ The PDF lists:
 | “Cheese reaction” | Phentolamine |
 | Pregnancy / preeclampsia | Labetalol, hydralazine, methyldopa, nifedipine |
 
-##### Important modern qualifications
+#### Important modern qualifications
 
-###### BPH
+##### BPH
 
 **[Verified correction/update]**
 
 Alpha-1 blockers can improve BPH symptoms, but **prazosin is not a standard universal first-line antihypertensive drug**. Hypertension should usually be treated according to cardiovascular/renal indications rather than selecting an alpha blocker solely because BPH is present.
 
-###### Beta blockers
+##### Beta blockers
 
 Beta blockers are not universal first-line antihypertensives. They are especially useful when there is another compelling indication.
 
-###### Asthma
+##### Asthma
 
 - Nonselective beta blockers can worsen bronchospasm.
 - Cardioselective agents may sometimes be used cautiously when strongly indicated, but the PDF's exam rule is to avoid beta blockade in asthma when alternatives exist.
 
-###### Pregnancy
+##### Pregnancy
 
 **[Verified correction/update]**
 
@@ -1507,7 +1507,7 @@ The PDF uses:
 
 - BP >180/120 mmHg
 
-##### “Urgency” vs emergency
+#### “Urgency” vs emergency
 
 **[PDF]**
 
@@ -1612,7 +1612,7 @@ Angina is ischemic chest pain due to myocardial oxygen supply-demand mismatch, u
 
 ### 11.3 Treatment Framework
 
-##### Stable chronic angina
+#### Stable chronic angina
 
 The PDF emphasizes:
 
@@ -1626,13 +1626,13 @@ Current chronic coronary disease guidance supports **beta blocker, CCB, or long-
 
 Long-term beta-blocker therapy is **not automatically required for outcome improvement in every stable coronary-disease patient** if there is no recent MI, reduced LVEF, or another compelling indication.
 
-##### Vasospastic angina
+#### Vasospastic angina
 
 - **CCB is a key first-line therapy.**
 - Long-acting nitrates can be added when needed.
 - Beta blockers are generally not preferred for vasospasm.
 
-##### Acute anginal attack
+#### Acute anginal attack
 
 - **Sublingual nitroglycerin**.
 
@@ -1640,19 +1640,19 @@ Long-term beta-blocker therapy is **not automatically required for outcome impro
 
 ### 11.4 Organic Nitrates
 
-##### Drugs
+#### Drugs
 
 - GTN / nitroglycerin
 - ISDN
 - ISMN
 - PETN
 
-##### Sublingual
+#### Sublingual
 
 - GTN
 - ISDN
 
-##### Mechanism
+#### Mechanism
 
 - Predominant venodilation -> reduced preload -> reduced myocardial oxygen demand.
 
@@ -1726,13 +1726,13 @@ The PDF's “P-FOX” wording is best treated as shorthand. Trimetazidine inhibi
 
 ### 12.1 Antianginal Combination Precautions
 
-##### Beta blocker + verapamil/diltiazem
+#### Beta blocker + verapamil/diltiazem
 
 **[PDF]**
 
 - Avoid because of excessive bradycardia/AV block and negative inotropy.
 
-##### Nitrate + PDE5 inhibitor
+#### Nitrate + PDE5 inhibitor
 
 **[PDF]**
 
@@ -1853,7 +1853,7 @@ Useful when clinically appropriate, but avoid in major nitrate contraindications
   - Preferred option
   - Can be used in STEMI and NSTEMI according to clinical strategy.
 
-##### [Verified correction/update]
+#### [Verified correction/update]
 
 For STEMI:
 
@@ -1897,7 +1897,7 @@ PDF framing:
 
 The PDF mnemonic is **SAHIBS**, but its list needs modern correction.
 
-##### Four major foundational classes (“four pillars”)
+#### Four major foundational classes (“four pillars”)
 
 **[Verified correction/update]**
 
@@ -1914,7 +1914,7 @@ The PDF mnemonic is **SAHIBS**, but its list needs modern correction.
    - Dapagliflozin
    - Empagliflozin
 
-##### ACEI/ARB
+#### ACEI/ARB
 
 - Important alternatives when ARNI is not feasible/tolerated.
 - Not generally combined with an ARNI due angioedema risk and overlapping RAAS inhibition.
@@ -1929,7 +1929,7 @@ The PDF mnemonic is **SAHIBS**, but its list needs modern correction.
 - Combined with valsartan.
 - PDF calls this the preferred first drug in CHF.
 
-##### Mechanism
+#### Mechanism
 
 Neprilysin degrades:
 
@@ -1961,7 +1961,7 @@ The PDF lists:
 - Metoprolol succinate
 - Carvedilol
 
-##### Current evidence-based mortality drugs
+#### Current evidence-based mortality drugs
 
 **[Verified correction/update]**
 
@@ -1973,7 +1973,7 @@ The three beta blockers with the strongest guideline-supported mortality benefit
 
 Nebivolol has supportive evidence in selected older patients in some populations, but it should not be substituted for the three core HFrEF evidence-based agents in a high-yield “three drugs” question.
 
-##### Key timing point
+#### Key timing point
 
 - Beta blockers are used in **stable, compensated chronic HFrEF**.
 - Do not initiate or aggressively uptitrate during uncontrolled acute decompensation until the patient is stabilized.
@@ -2042,7 +2042,7 @@ Natriuretic peptides:
 - Reduce afterload.
 - Promote natriuresis.
 
-##### Nesiritide
+#### Nesiritide
 
 - Synthetic **BNP** analogue.
 - Listed in the PDF as a symptomatic HF drug.
@@ -2218,13 +2218,13 @@ Contemporary roles include:
 
 ### 16.4 Digoxin Adverse Effects
 
-##### Gastrointestinal
+#### Gastrointestinal
 
 - Nausea
 - Vomiting
 - Appetite loss
 
-##### Visual
+#### Visual
 
 - Yellow vision / **xanthopsia**
 - Other color-vision disturbances
@@ -2234,7 +2234,7 @@ PDF comparison:
 - Sildenafil -> blue-green color disturbance [not a routine toxicity pearl]
 - Ethambutol -> red-green color disturbance
 
-##### Arrhythmias
+#### Arrhythmias
 
 Digoxin toxicity may produce almost any arrhythmia.
 
@@ -2243,7 +2243,7 @@ PDF examples:
 - Ventricular bigeminy
 - Ventricular fibrillation
 
-##### Gynecomastia / hormonal effects
+#### Gynecomastia / hormonal effects
 
 The PDF associates gynecomastia with several drugs, including:
 
@@ -2262,7 +2262,7 @@ Gynecomastia is classically associated with **spironolactone**. It is not a defi
 
 ### 16.5 Digoxin Pharmacokinetics
 
-##### Narrow therapeutic window
+#### Narrow therapeutic window
 
 **[PDF]**
 
@@ -2280,25 +2280,25 @@ Current labeling and guideline-era practice emphasize:
 - Lower concentrations are often targeted in HF, commonly around **0.5-0.9 ng/mL** depending on context.
 - A level must be interpreted with timing from the last dose, symptoms, renal function, potassium, magnesium, and indication.
 
-##### Volume of distribution
+#### Volume of distribution
 
 - High Vd.
 - Distributed into tissues.
 - Therefore **hemodialysis is not effective** for significant digoxin poisoning.
 
-##### Renal elimination
+#### Renal elimination
 
 - Important renal clearance.
 - P-glycoprotein transport is relevant.
 
-##### Drug interactions
+#### Drug interactions
 
 **[PDF]**
 
 - Rifampicin -> P-gp induction -> lower digoxin exposure.
 - Erythromycin/clarithromycin -> P-gp inhibition -> higher digoxin exposure.
 
-##### Renal impairment
+#### Renal impairment
 
 **[PDF]**
 
@@ -2367,7 +2367,7 @@ This is too absolute and should **not** be used as a bedside rule.
 
 **PDF location:** page 16 (printed p. 109)
 
-#### Mechanism
+### Mechanism
 
 Accessory AV pathway (classically the **Bundle of Kent**) bypasses the AV node.
 
@@ -2377,7 +2377,7 @@ ECG:
 - Delta wave
 - Wide QRS complex in classic pre-excitation
 
-#### Digoxin
+### Digoxin
 
 **[PDF]**
 
@@ -2392,7 +2392,7 @@ The particularly dangerous situation is **atrial fibrillation with pre-excitatio
 - **Procainamide** is a recognized option for stable pre-excited AF in appropriate patients.
 - Definitive treatment for a symptomatic accessory pathway is often **catheter ablation**.
 
-#### Flecainide
+### Flecainide
 
 The PDF proposes:
 
@@ -2500,7 +2500,7 @@ The PDF does not elaborate further.
 
 ## 21. CLASS IB
 
-#### Drugs
+### Drugs
 
 PDF mnemonic: **Leave PMT**
 
@@ -2509,7 +2509,7 @@ PDF mnemonic: **Leave PMT**
 - **M - Mexiletine**
 - **T - Tocainide**
 
-#### Mechanism
+### Mechanism
 
 **[PDF]**
 
@@ -2522,7 +2522,7 @@ PDF notes:
 
 - Perioral numbness due to local-anesthetic-type Na+ channel blockade.
 
-#### Important correction
+### Important correction
 
 The PDF diagram/wording suggests K+ channel opening.
 
@@ -2530,7 +2530,7 @@ The PDF diagram/wording suggests K+ channel opening.
 
 Class IB drugs are best understood as **Na+ channel blockers with relatively little K+ blockade** and a tendency to **shorten or minimally affect ventricular action-potential duration**, especially in ischemic/depolarized tissue.
 
-#### Lignocaine toxicity
+### Lignocaine toxicity
 
 PDF:
 
@@ -2542,20 +2542,20 @@ This is a major toxicology principle for severe local-anesthetic systemic toxici
 
 ## 22. CLASS IC
 
-#### Drugs
+### Drugs
 
 PDF mnemonic: **Famous PM**
 
 - **Flecainide**
 - **Propafenone**
 
-#### Pharmacology
+### Pharmacology
 
 - Strong Na+ channel blockade.
 - Marked slowing of conduction.
 - Little direct effect on action-potential duration compared with IA/IB.
 
-#### Major warning
+### Major warning
 
 **[PDF]**
 
@@ -2572,7 +2572,7 @@ This remains a major high-yield rule for flecainide/propafenone in patients with
 
 **PDF location:** page 18 (printed p. 111)
 
-#### General rule
+### General rule
 
 Drug names commonly end in:
 
@@ -2584,25 +2584,25 @@ Examples:
 - Metoprolol
 - Atenolol
 
-#### Ultra-short acting IV agents
+### Ultra-short acting IV agents
 
 - **Esmolol**
 - **Landiolol**
 
 PDF calls landiolol the shortest acting beta blocker.
 
-#### Uses
+### Uses
 
 - Sympathetic tachycardia
 - Rate control in selected SVT/AF/flutter
 - Perioperative/intraoperative tachyarrhythmias
 - Hyperthyroid-associated tachycardia
 
-#### Adverse effect
+### Adverse effect
 
 - **Bradycardia**
 
-#### Beta-blocker overdose
+### Beta-blocker overdose
 
 PDF:
 
@@ -2616,23 +2616,23 @@ Glucagon is a classic rescue therapy for beta-blocker poisoning, but severe toxi
 
 ## 24. CLASS IV - CALCIUM CHANNEL BLOCKERS
 
-#### Main drug emphasis in the PDF
+### Main drug emphasis in the PDF
 
 - **Verapamil**
 
-#### Mechanism
+### Mechanism
 
 - L-type Ca2+ channel blockade.
 - Slows:
   - SA-node rate
   - AV-node conduction.
 
-#### Indications
+### Indications
 
 - SVT
 - Selected AF rate control
 
-#### Contraindications / cautions
+### Contraindications / cautions
 
 PDF:
 
@@ -2653,7 +2653,7 @@ The clinically important rule is:
 
 **PDF location:** pages 18-19 (printed pp. 111-112)
 
-#### PDF mnemonic: DIVAS
+### PDF mnemonic: DIVAS
 
 - **D - Dofetilide**
 - **I - Ibutilide**
@@ -2661,13 +2661,13 @@ The clinically important rule is:
 - **A - Amiodarone**
 - **S - Sotalol**
 
-#### Mechanism
+### Mechanism
 
 - Delayed repolarization.
 - Prolonged action-potential duration.
 - Prolonged QT in many agents.
 
-#### Torsades risk
+### Torsades risk
 
 Many class III drugs can increase QT and torsades risk.
 
@@ -2919,7 +2919,7 @@ Current ACLS use:
 
 ### 29.3 Magnesium sulfate
 
-##### Main high-yield role
+#### Main high-yield role
 
 - **Torsades de pointes / polymorphic ventricular tachycardia associated with long QT**
 
@@ -2989,14 +2989,14 @@ This reflects contemporary AHA adult advanced-life-support principles. The exact
 
 ### 30.2 Wide-Complex Tachycardia
 
-##### Unstable
+#### Unstable
 
 **[Verified correction/update]**
 
 - Immediate **synchronized cardioversion** for an unstable monomorphic wide-complex tachycardia when synchronization is feasible.
 - If the rhythm is polymorphic/sustained, synchronization is unreliable -> unsynchronized shock.
 
-##### Stable monomorphic wide-complex tachycardia
+#### Stable monomorphic wide-complex tachycardia
 
 Appropriate specialist/ACLS options include:
 
@@ -3004,7 +3004,7 @@ Appropriate specialist/ACLS options include:
 - IV procainamide
 - IV sotalol in selected situations
 
-##### Important “do not”
+#### Important “do not”
 
 - Do **not** give verapamil/diltiazem empirically to undifferentiated wide-complex tachycardia.
 
@@ -3012,11 +3012,11 @@ Appropriate specialist/ACLS options include:
 
 ### 30.3 Torsades de Pointes
 
-##### ECG concept
+#### ECG concept
 
 Torsades is a form of **polymorphic VT associated with prolonged QT**, often showing changing QRS amplitude and axis around the baseline.
 
-##### Management
+#### Management
 
 ```text
 Sustained polymorphic VT
