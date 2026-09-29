@@ -1,17 +1,17 @@
-  ---
-  pearl_id: PM1712
-  title: "Specific reversal agents for anticoagulants"
-  Subject:
-- Pharmacology
-  type: Marrow
-  Topic:
-- Hematology
-  tags:
-- flashcards
-- marrow-pearl
-- pharmacology
-- anticoagulants
-  ---
+---
+pearl_id: PM1712
+title: "Specific reversal agents for anticoagulants"
+Subject:
+  - Pharmacology
+type: Marrow
+Topic:
+  - Hematology
+tags:
+  - flashcards
+  - marrow-pearl
+  - pharmacology
+  - anticoagulants
+---
 
   # Specific reversal agents for anticoagulants
 
