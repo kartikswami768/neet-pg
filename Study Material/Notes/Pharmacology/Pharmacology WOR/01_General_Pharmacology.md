@@ -230,21 +230,47 @@ $$
 
 #### Phases
 
-|  | Phase I | Phase II (AKA conjugation) |
-|---|---|---|
-| **Mechanisms** | Breakdown of drug (D) + addition of functional group (FG) | Conjugate (−ve charged) binds to FG → ionised/water soluble drugs |
-| **Reactions** | **ORCHAD :**<br>• Oxidation (M/c)<br>• Reduction<br>• Cyclization<br>• Hydrolysis<br>• Aliphatic and aromatic hydroxylation<br>• Deamination | **GAMS (Mnemonic) :**<br>• Glucuronidation (M/c)<br>• Glycination<br>• Glutathionation<br>• Acetylation<br>• Methylation<br>• Sulfation |
-| **Enzyme involved** | CYP450 enzymes :<br>M/c : CYP3A4 | Glucuronyl transferase (GT) :<br>Glucuronidation |
-| **Clinical significance** | − | Crigler Najjar syndrome : ↓GT → ↑ Toxicity of:<br>i) Irinotecan<br>ii) Atazanavir |
+|                           | Phase I                                                                                                                                      | Phase II (AKA conjugation)                                                                                                              |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mechanisms**            | Breakdown of drug (D) + addition of functional group (FG)                                                                                    | Conjugate (−ve charged) binds to FG → ionised/water soluble drugs                                                                       |
+| **Reactions**             | **ORCHAD :**<br>• Oxidation (M/c)<br>• Reduction<br>• Cyclization<br>• Hydrolysis<br>• Aliphatic and aromatic hydroxylation<br>• Deamination | **GAMS (Mnemonic) :**<br>• Glucuronidation (M/c)<br>• Glycination<br>• Glutathionation<br>• Acetylation<br>• Methylation<br>• Sulfation |
+| **Enzyme involved**       | CYP450 enzymes :<br>M/c : CYP3A4                                                                                                             | Glucuronyl transferase (GT) :<br>Glucuronidation                                                                                        |
+| **Clinical significance** | −                                                                                                                                            | Crigler Najjar syndrome : ↓GT → ↑ Toxicity of:<br>i) Irinotecan<br>ii) Atazanavir                                                       |
 
-#### Note: CYP450 enzymes (m/c : CYP3A4)
+#### CYP450 Enzymes
+| CYP            | PDF examples                                                   | High-yield note                                                                   | Induced by |                            |
+| -------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------- | -------------------------- |
+| **CYP1A2**     | Theophylline, clozapine                                        | ==Induced by smoking==                                                            |            |                            |
+| **CYP2C19**    | Clopidogrel                                                    | Bioactivation of clopidogrel                                                      | Omeprazole |                            |
+| **CYP2C9**     | Phenytoin, warfarin                                            | Genetic variability; warfarin sensitivity affected by CYP2C9                      |            |                            |
+| **CYP2D6**     | Propranolol, haloperidol, fluoxetine, codeine, antiarrhythmics | Major pharmacogenetic variability                                                 |            |                            |
+| **CYP2E1**     | Paracetamol                                                    | Important for toxic metabolite formation. Can be induced or inhibited by alcohol. |            |                            |
+| **==CYP3A4==** | Atorvastatin, estrogen and many other drugs                    | ==Major drug-metabolizing CYP pathway==                                           | Rifampicin | Ketoconazole, Erythromycin |
+|                |                                                                |                                                                                   |            |                            |
+
+##### Note: CYP450 enzymes (m/c : CYP3A4)
 
 - **CY** : Cytochrome → Heme protein.
 - **P** : Pigments that absorb light of 450 nm wavelength.
 - **3** : Family.
 - **A** : Sub-family.
 - **4** : Gene isoform number.
+##### CYP3A4 — Important Inducers & Inhibitors
 
+| CYP3A4 Inducers ↑ | CYP3A4 Inhibitors ↓ |
+|---|---|
+| **Rifampicin** ⭐ | **Clarithromycin** ⭐ |
+| Rifabutin | **Erythromycin** |
+| **Carbamazepine** ⭐ | **Azole antifungals** ⭐ — ketoconazole, itraconazole, voriconazole, posaconazole |
+| **Phenytoin** ⭐ | **Ritonavir** ⭐ |
+| Phenobarbital | Cobicistat |
+| **St. John's wort** ⭐ | **Grapefruit juice** ⭐ |
+| Dexamethasone (chronic/high dose) | **Verapamil** |
+| Efavirenz | **Diltiazem** |
+| Nevirapine | Amiodarone |
+|  | Cyclosporine |
+|  | Tacrolimus |
+|  | Cimetidine
 #### Drug-Enzyme Interaction
 
 |  | Enzyme inducers | Enzyme inhibitors |

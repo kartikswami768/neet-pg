@@ -241,7 +241,7 @@ Uses: Myasthenia Gravis and Alzheimer's disease
 | **Echothiophate**      | Irreversible AChE inhibitor               | Rarely used; ophthalmic                     |
 | **Organophosphates**   | **Irreversible AChE inhibition**          | Cholinergic toxicity                        |
 
-##### Organophosphate poisoning
+- [ ] ##### Organophosphate poisoning
 
 > **Atropine + Pralidoxime (2-PAM)**
 

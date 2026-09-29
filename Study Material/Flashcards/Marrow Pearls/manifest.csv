@@ -1,0 +1,33 @@
+pearl_id,title,markdown_file,source_pages,subjects,topics
+PM2136,Beta-blockers with vasodilating properties,PM2136_beta-blockers-with-vasodilating-properties.md,1,Pharmacology,Autonomic Nervous System
+PM1793,Effect of ANS in the Eye,PM1793_effect-of-ans-in-the-eye.md,"2,3,4",Pharmacology; Physiology,Central Nervous System; Autonomic Nervous System
+PM1579,Anti-obesity drugs,PM1579_anti-obesity-drugs.md,5,Pharmacology; Medicine,Endocrine System; Autonomic Nervous System
+PM1169,Cardioselective beta blockers: Mnemonic,PM1169_cardioselective-beta-blockers-mnemonic.md,6,Pharmacology,Autonomic Nervous System
+PM1168,Non-selective beta blockers with membrane stabilizing action,PM1168_non-selective-beta-blockers-with-membrane-stabilizing-action.md,7,Pharmacology,Autonomic Nervous System
+PM1145,Muscarinic antagonists indicated for detrusor instability/overactive bladder,PM1145_muscarinic-antagonists-indicated-for-detrusor-instability-overactive-bladder.md,8,Pharmacology,Autonomic Nervous System
+PM1127,Dose dependent action of dopamine,PM1127_dose-dependent-action-of-dopamine.md,9,Pharmacology,Autonomic Nervous System
+PM1083,Cranial nerves involved in efferent and afferent outflow,PM1083_cranial-nerves-involved-in-efferent-and-afferent-outflow.md,10,Pharmacology,Autonomic Nervous System
+PMO867,Muscarinic and Nicotinic Signs and symptoms of Organophosphorus Poisoning,PMO867_muscarinic-and-nicotinic-signs-and-symptoms-of-organophosphorus-poisoning.md,11,Forensic Medicine; Pharmacology,Autonomic Nervous System; Toxicology
+PMO854,Benign prostatic hyperplasia treatment,PMO854_benign-prostatic-hyperplasia-treatment.md,12,Pharmacology,Autonomic Nervous System
+PMO719,Antiglaucoma drugs: Mechanism of lowering intraocular pressure (IOP) at a glance,PMO719_antiglaucoma-drugs-mechanism-of-lowering-intraocular-pressure-iop-at-a-glance.md,13,Ophthalmology; Pharmacology,Autonomic Nervous System; Glaucoma
+PMO687,Agents affecting neuromuscular transmission,PMO687_agents-affecting-neuromuscular-transmission.md,"14,15",Pharmacology; Physiology,Nerve Muscle Physiology; Autonomic Nervous System
+PMO131,Ipratropium vs Tiotropium,PMO131_ipratropium-vs-tiotropium.md,16,Medicine; Pharmacology,Respiratory System; Autonomic Nervous System
+PMO093,Basics of autonomic nervous system,PMO093_basics-of-autonomic-nervous-system.md,"17,18",Pharmacology; Physiology,Central Nervous System; Autonomic Nervous System
+PM2320,Drugs used in heart failure,PM2320_drugs-used-in-heart-failure.md,"19,20",Pharmacology; Medicine,Cardiovascular System
+PM1567,Anti-anginal drugs,PM1567_anti-anginal-drugs.md,21,Medicine; Pharmacology,Cardiovascular System
+PM1488,Types of vasopressin receptors and their functions,PM1488_types-of-vasopressin-receptors-and-their-functions.md,22,Medicine; Pharmacology; Physiology,Renal System; Endocrine Physiology; Cardiovascular System
+PM1224,Parenteral drugs used in hypertensive emergencies,PM1224_parenteral-drugs-used-in-hypertensive-emergencies.md,23,Medicine; Pharmacology,Cardiovascular System; Emergency medicine and critical care
+PM2414,Drugs causing QT prolongation and torsades de pointes,PM2414_drugs-causing-qt-prolongation-and-torsades-de-pointes.md,"24,25",Pharmacology,General Pharmacology
+PM2379,Drug regulatory schedules 1940: (2016 update),PM2379_drug-regulatory-schedules-1940-2016-update.md,"26,27",Pharmacology,General Pharmacology
+PM2378,Zero order vs First order kinetics of drugs,PM2378_zero-order-vs-first-order-kinetics-of-drugs.md,"28,29,30,31",Pharmacology,General Pharmacology
+PM2369,Drugs metabolised by glucuronidation,PM2369_drugs-metabolised-by-glucuronidation.md,32,Pharmacology,General Pharmacology
+PM2368,Metabolism of drugs,PM2368_metabolism-of-drugs.md,33,Pharmacology,General Pharmacology
+PM2367,Dialyzable and non-dialyzable drugs,PM2367_dialyzable-and-non-dialyzable-drugs.md,34,Pharmacology,General Pharmacology
+PM2365,Drugs which need Therapeutic Drug Monitoring (TDM),PM2365_drugs-which-need-therapeutic-drug-monitoring-tdm.md,35,Pharmacology,General Pharmacology
+PM2364,Drugs having high first pass metabolism,PM2364_drugs-having-high-first-pass-metabolism.md,36,Pharmacology,General Pharmacology
+PM2363,Drugs showing increased absorption in presence of food,PM2363_drugs-showing-increased-absorption-in-presence-of-food.md,37,Pharmacology,General Pharmacology
+PM2022,Teratogenic drugs and the birth defects,PM2022_teratogenic-drugs-and-the-birth-defects.md,"38,39",Obstetrics & Gynaecology; Paediatrics; Pharmacology,General Pharmacology; Normal Pregnancy and Antenatal Care; Neonatology
+PM1735,Difference between microsomal and non microsomal enzymes:,PM1735_difference-between-microsomal-and-non-microsomal-enzymes.md,40,Pathology; Pharmacology,General Pharmacology; General Pathology
+PM1734,Phases of drug metabolism,PM1734_phases-of-drug-metabolism.md,41,Pharmacology,General Pharmacology
+PMO505,The drugs which can be given via the Endotracheal Route,PMO505_the-drugs-which-can-be-given-via-the-endotracheal-route.md,42,Anaesthesia; Pharmacology,Airway management and resuscitation; General
+PMO355,Phases of Clinical Trials,PMO355_phases-of-clinical-trials.md,43,Pharmacology; Community Medicine,General Pharmacology; Epidemiology
