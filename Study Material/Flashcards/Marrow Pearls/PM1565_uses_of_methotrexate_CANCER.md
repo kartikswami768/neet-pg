@@ -1,19 +1,19 @@
-  ---
-  pearl_id: PM1565
-  title: "Uses of methotrexate (mnemonic: CANCER)"
-  Subject:
-- Medicine
-- Pharmacology
-  type: Marrow
-  Topic:
-- Rheumatology and Immunology
-- Anti-Neoplastic Agents
-  tags:
-- flashcards
-- marrow-pearl
-- pharmacology
-- methotrexate
-  ---
+---
+pearl_id: PM1565
+title: "Uses of methotrexate (mnemonic: CANCER)"
+Subject:
+  - Medicine
+  - Pharmacology
+type: Marrow
+Topic:
+  - Rheumatology and Immunology
+  - Anti-Neoplastic Agents
+tags:
+  - flashcards
+  - marrow-pearl
+  - pharmacology
+  - methotrexate
+---
 
   # Uses of methotrexate (mnemonic: CANCER)
 
