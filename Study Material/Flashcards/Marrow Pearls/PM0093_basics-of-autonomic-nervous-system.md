@@ -27,11 +27,11 @@ tags:
 
 # Basics of autonomic nervous system
 
-**Pearl ID:** `PMO093`
+**Pearl ID:** `PM0093`
 
 #flashcards/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
 
-What are the key facts in the Marrow Pearl **"Basics of autonomic nervous system"** (PMO093)?
+What are the key facts in the Marrow Pearl **"Basics of autonomic nervous system"** (PM0093)?
 ?
 
 | Feature                                         | Para-sympathetic system                                                                | Sympathetic system                                                                         |
