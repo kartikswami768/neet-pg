@@ -1,19 +1,19 @@
-  ---
-  pearl_id: PM0609
-  title: "Classification of Anticoagulants"
-  Subject:
-- Medicine
-- Pharmacology
-  type: Marrow
-  Topic:
-- Blood Disorders
-- Hematology
-  tags:
-- flashcards
-- marrow-pearl
-- pharmacology
-- anticoagulants
-  ---
+---
+pearl_id: PM0609
+title: "Classification of Anticoagulants"
+Subject:
+  - Medicine
+  - Pharmacology
+type: Marrow
+Topic:
+  - Blood Disorders
+  - Hematology
+tags:
+  - flashcards
+  - marrow-pearl
+  - pharmacology
+  - anticoagulants
+---
 
   # Classification of Anticoagulants
 

@@ -1,17 +1,17 @@
-  ---
-  pearl_id: PM0605
-  title: "Factor Xa: IIa inhibition activity of antithrombin activators"
-  Subject:
-- Pharmacology
-  type: Marrow
-  Topic:
-- Autacoids
-  tags:
-- flashcards
-- marrow-pearl
-- pharmacology
-- heparin
-  ---
+---
+pearl_id: PM0605
+title: "Factor Xa: IIa inhibition activity of antithrombin activators"
+Subject:
+  - Pharmacology
+type: Marrow
+Topic:
+  - Autacoids
+tags:
+  - flashcards
+  - marrow-pearl
+  - pharmacology
+  - heparin
+---
 
   # Factor Xa: IIa inhibition activity of antithrombin activators
 

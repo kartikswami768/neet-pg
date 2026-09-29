@@ -1,19 +1,19 @@
-  ---
-  pearl_id: PM0521
-  title: "Prostaglandins effect on platelet action"
-  Subject:
-- Pathology
-- Pharmacology
-  type: Marrow
-  Topic:
-- General Pathology
-- Autacoids
-  tags:
-- flashcards
-- marrow-pearl
-- pharmacology
-- prostaglandins
-  ---
+---
+pearl_id: PM0521
+title: "Prostaglandins effect on platelet action"
+Subject:
+  - Pathology
+  - Pharmacology
+type: Marrow
+Topic:
+  - General Pathology
+  - Autacoids
+tags:
+  - flashcards
+  - marrow-pearl
+  - pharmacology
+  - prostaglandins
+---
 
   # Prostaglandins effect on platelet action
 

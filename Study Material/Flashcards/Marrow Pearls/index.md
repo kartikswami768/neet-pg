@@ -52,6 +52,10 @@ These are reconstructed as individual Pearl notes from the uploaded Marrow scan.
 | `PM0719` | [[PM0719_antiglaucoma-drugs-mechanism-of-lowering-intraocular-pressure-iop-at-a-glance | Antiglaucoma drugs: Mechanism of lowering intraocular pressure (IOP) at a glance]] | Ophthalmology; Pharmacology                         | Autonomic Nervous System; ANS; Glaucoma                                |
 | `PM0854` | [[PM0854_benign-prostatic-hyperplasia-treatment                                        | Benign prostatic hyperplasia treatment]]                                           | Pharmacology                                        | Autonomic Nervous System; ANS                                          |
 | `PM0867` | [[PM0867_muscarinic-and-nicotinic-signs-and-symptoms-of-organophosphorus-poisoning     | Muscarinic and Nicotinic Signs and symptoms of Organophosphorus Poisoning]]        | Forensic Medicine; Pharmacology                     | Autonomic Nervous System; ANS; Toxicology                              |
+| `PM0609` | [[PM0609_classification_of_anticoagulants.md|Classification of Anticoagulants]] | Medicine; Pharmacology | Blood Disorders; Hematology |
+| `PM0605` | [[PM0605_factor_Xa_IIa_inhibition_activity.md|Factor Xa: IIa inhibition activity of antithrombin activators]] | Pharmacology | Autacoids |
+| `PM0521` | [[PM0521_prostaglandins_platelet_action.md|Prostaglandins effect on platelet action]] | Pathology; Pharmacology | General Pathology; Autacoids |
+| `PM0296` | [[PM0296_treatment_ladder_for_psoriasis.md|Treatment Ladder for Psoriasis]] | Dermatology; Pharmacology | Newer Drugs; Papulosquamous Disorders |
 | `PM0522` | [[PM0522_preferential_COX2_inhibitors_NAMED.md|Preferential COX-2 inhibitors: mnemonic "NAMED"]] | Pharmacology | Autacoids |
 | `PM0523` | [[PM0523_selective_COX2_inhibitors.md|Some Important Points about Selective COX-2 Inhibitors]] | Pharmacology | Autacoids |
 | `PM0553` | [[PM0553_PDE_inhibitors.md|PDE inhibitors]] | Pharmacology | Respiratory System; Endocrine System |

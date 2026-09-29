@@ -1,19 +1,19 @@
-  ---
-  pearl_id: PM0296
-  title: "Treatment Ladder for Psoriasis"
-  Subject:
-- Dermatology
-- Pharmacology
-  type: Marrow
-  Topic:
-- Newer Drugs
-- Papulosquamous Disorders
-  tags:
-- flashcards
-- marrow-pearl
-- pharmacology
-- psoriasis
-  ---
+---
+pearl_id: PM0296
+title: "Treatment Ladder for Psoriasis"
+Subject:
+  - Dermatology
+  - Pharmacology
+type: Marrow
+Topic:
+  - Newer Drugs
+  - Papulosquamous Disorders
+tags:
+  - flashcards
+  - marrow-pearl
+  - pharmacology
+  - psoriasis
+---
 
   # Treatment Ladder for Psoriasis
 
