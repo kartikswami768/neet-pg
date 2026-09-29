@@ -599,12 +599,12 @@ Dose-dependent action (continuous IV infusion):
 
 ### Epinephrine dilution
 
-| Dilution | Route of administration |
-|---|---|
-| 1:1000 | S/C; IM; endotracheal |
-| 1:10,000 | IV; intraosseous; intracardiac (not used) |
-| 1:100,000 | Local vasoconstriction |
-| 1:100,000 or 1:200,000 | Local (with lignocaine) |
+| Dilution               | Route of administration                   |
+| ---------------------- | ----------------------------------------- |
+| 1:1000                 | S/C; IM; endotracheal                     |
+| 1:10,000               | IV; intraosseous; intracardiac (not used) |
+| 1:100,000              | Local vasoconstriction                    |
+| 1:100,000 or 1:200,000 | Local (with lignocaine)                   |
 
 ## Anti-glaucoma Drugs
 
