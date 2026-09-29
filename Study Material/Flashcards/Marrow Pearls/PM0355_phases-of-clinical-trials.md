@@ -1,23 +1,23 @@
 ---
-pearl_id: PMO355
+pearl_id: PM0355
 title: Phases of Clinical Trials
 Subject:
-- Pharmacology
-- Community Medicine
+  - Pharmacology
+  - Community Medicine
 type: Marrow
 Topic:
-- General Pharmacology
-- Epidemiology
+  - General Pharmacology
+  - Epidemiology
 tags:
-- flashcards
-- marrow-pearl
-- clinical-trials
-- phases-of-trials
-- epidemiology
-- drug-development
-- pharmacology
-- community-medicine
-- general-pharmacology
+  - flashcards
+  - marrow-pearl
+  - clinical-trials
+  - phases-of-trials
+  - epidemiology
+  - drug-development
+  - pharmacology
+  - community-medicine
+  - general-pharmacology
 ---
 
 # Phases of Clinical Trials

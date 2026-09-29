@@ -1,28 +1,28 @@
 ---
-pearl_id: PMO687
+pearl_id: PM0687
 title: Agents affecting neuromuscular transmission
 Subject:
-- Pharmacology
-- Physiology
+  - Pharmacology
+  - Physiology
 type: Marrow
 Topic:
-- Nerve Muscle Physiology
-- Autonomic Nervous System
-- ANS
+  - Nerve Muscle Physiology
+  - Autonomic Nervous System
+  - ANS
 tags:
-- flashcards
-- marrow-pearl
-- neuromuscular-transmission
-- acetylcholine
-- botulinum-toxin
-- curare
-- neostigmine
-- hemicholinium
-- pharmacology
-- physiology
-- nerve-muscle-physiology
-- autonomic-nervous-system
-- ans
+  - flashcards
+  - marrow-pearl
+  - neuromuscular-transmission
+  - acetylcholine
+  - botulinum-toxin
+  - curare
+  - neostigmine
+  - hemicholinium
+  - pharmacology
+  - physiology
+  - nerve-muscle-physiology
+  - autonomic-nervous-system
+  - ans
 ---
 
 # Agents affecting neuromuscular transmission

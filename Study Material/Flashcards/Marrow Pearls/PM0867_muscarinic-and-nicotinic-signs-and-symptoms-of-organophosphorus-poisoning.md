@@ -1,26 +1,26 @@
 ---
-pearl_id: PMO867
+pearl_id: PM0867
 title: Muscarinic and Nicotinic Signs and symptoms of Organophosphorus Poisoning
 Subject:
-- Forensic Medicine
-- Pharmacology
+  - Forensic Medicine
+  - Pharmacology
 type: Marrow
 Topic:
-- Autonomic Nervous System
-- ANS
-- Toxicology
+  - Autonomic Nervous System
+  - ANS
+  - Toxicology
 tags:
-- flashcards
-- marrow-pearl
-- organophosphorus-poisoning
-- cholinergic-toxidrome
-- muscarinic
-- nicotinic
-- toxicology
-- forensic-medicine
-- pharmacology
-- autonomic-nervous-system
-- ans
+  - flashcards
+  - marrow-pearl
+  - organophosphorus-poisoning
+  - cholinergic-toxidrome
+  - muscarinic
+  - nicotinic
+  - toxicology
+  - forensic-medicine
+  - pharmacology
+  - autonomic-nervous-system
+  - ans
 ---
 
 # Muscarinic and Nicotinic Signs and symptoms of Organophosphorus Poisoning

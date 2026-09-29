@@ -1,25 +1,25 @@
 ---
-pearl_id: PMO719
-title: 'Antiglaucoma drugs: Mechanism of lowering intraocular pressure (IOP) at a glance'
+pearl_id: PM0719
+title: "Antiglaucoma drugs: Mechanism of lowering intraocular pressure (IOP) at a glance"
 Subject:
-- Ophthalmology
-- Pharmacology
+  - Ophthalmology
+  - Pharmacology
 type: Marrow
 Topic:
-- Autonomic Nervous System
-- ANS
-- Glaucoma
+  - Autonomic Nervous System
+  - ANS
+  - Glaucoma
 tags:
-- flashcards
-- marrow-pearl
-- glaucoma
-- intraocular-pressure
-- aqueous-humor
-- autonomic-drugs
-- ophthalmology
-- pharmacology
-- autonomic-nervous-system
-- ans
+  - flashcards
+  - marrow-pearl
+  - glaucoma
+  - intraocular-pressure
+  - aqueous-humor
+  - autonomic-drugs
+  - ophthalmology
+  - pharmacology
+  - autonomic-nervous-system
+  - ans
 ---
 
 # Antiglaucoma drugs: Mechanism of lowering intraocular pressure (IOP) at a glance

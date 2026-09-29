@@ -69,11 +69,10 @@ Uses:
 Adverse effects:
 - CNS toxicity/stimulation or depression
 - Cardiovascular depression
-
-<div style="text-align:center; margin:1.1em 0 1.35em;">
-  <img src="Attachments/First_Aid_2025_Cardiovascular_Images/CV_p347_img03.png" alt="Visual from PDF page 347." width="560" style="display:block; margin:0 auto; max-width:92%; height:auto; border-radius:6px;">
+![[CV_p347_img03.png]]
   <div style="font-size:0.82em; opacity:0.68; margin-top:0.45em;"><em>First Aid for the USMLE Step 1 (2025) — PDF p. 347</em></div>
-</div>
+
+
 ##### Class IC
 Drugs:
 - Flecainide
@@ -496,7 +495,6 @@ Other listed drugs:
 ### Amiodarone
 
 **Mnemonic:** Potassium channel blocker makes liver, nerve and skin toxic.
-
 - Pulmonary fibrosis: C/i in ILD.
 - Corneal microdeposits: whorl-like.
 - Blue colored skin (ceruloderma): sunscreen.
@@ -512,7 +510,6 @@ Other listed drugs:
 ![Corneal microdeposits](assets/CVS_Corneal_microdeposits.png)
 
 ### Other notes
-
 **Amiodarone:**
 - Longest acting anti-arrhythmic.
 - Not nephrotoxic.
@@ -558,8 +555,8 @@ Other listed drugs:
 - Ocular s/e: green halos.
 - Xanthopsia: yellow vision.
 - Increases risk of arrhythmia:
-  - M/c: V. bigeminy.
-  - Not seen: atrial flutter, Mobitz type II.
+	- M/c: V. bigeminy.
+	- Not seen: atrial flutter, Mobitz type II.
 - Nausea/vomiting: m/c & earliest.
 
 **C/i / increased risk of toxicity — mnemonic: KMC in Manipal Rocks**

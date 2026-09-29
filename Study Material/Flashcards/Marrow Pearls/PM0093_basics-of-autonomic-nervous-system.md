@@ -1,28 +1,28 @@
 ---
-pearl_id: PMO093
+pearl_id: PM0093
 title: Basics of autonomic nervous system
 Subject:
-- Pharmacology
-- Physiology
+  - Pharmacology
+  - Physiology
 type: Marrow
 Topic:
-- Central Nervous System
-- CNS
-- Autonomic Nervous System
-- ANS
+  - Central Nervous System
+  - CNS
+  - Autonomic Nervous System
+  - ANS
 tags:
-- flashcards
-- marrow-pearl
-- ans-basics
-- sympathetic
-- parasympathetic
-- autonomic-neurotransmission
-- pharmacology
-- physiology
-- central-nervous-system
-- autonomic-nervous-system
-- cns
-- ans
+  - flashcards
+  - marrow-pearl
+  - ans-basics
+  - sympathetic
+  - parasympathetic
+  - autonomic-neurotransmission
+  - pharmacology
+  - physiology
+  - central-nervous-system
+  - autonomic-nervous-system
+  - cns
+  - ans
 ---
 
 # Basics of autonomic nervous system
