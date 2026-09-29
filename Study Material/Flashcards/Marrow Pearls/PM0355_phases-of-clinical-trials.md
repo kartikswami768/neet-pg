@@ -22,11 +22,11 @@ tags:
 
 # Phases of Clinical Trials
 
-**Pearl ID:** `PMO355`
+**Pearl ID:** `PM0355`
 
 #flashcards/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
 
-What are the key facts in the Marrow Pearl **"Phases of Clinical Trials"** (PMO355)?
+What are the key facts in the Marrow Pearl **"Phases of Clinical Trials"** (PM0355)?
 ?
 
 |  | **Phase I** (First in human) | **Phase II** (First in patient) | **Phase III** (Multi-site trial) | **Phase IV** (Post-marketing) |
