@@ -23,11 +23,11 @@ tags:
 
 # The drugs which can be given via the Endotracheal Route
 
-**Pearl ID:** `PMO505`
+**Pearl ID:** `PM0505`
 
 #flashcards/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
 
-What are the key facts in the Marrow Pearl **"The drugs which can be given via the Endotracheal Route"** (PMO505)?
+What are the key facts in the Marrow Pearl **"The drugs which can be given via the Endotracheal Route"** (PM0505)?
 ?
 
 - Lidocaine
