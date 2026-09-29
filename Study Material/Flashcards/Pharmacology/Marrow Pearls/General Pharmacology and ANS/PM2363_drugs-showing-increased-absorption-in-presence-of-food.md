@@ -15,7 +15,6 @@ tags:
 - pharmacology
 - general-pharmacology
 ---
-
 # Drugs showing increased absorption in presence of food
 
 **Pearl ID:** `PM2363`

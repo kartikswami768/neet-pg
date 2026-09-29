@@ -27,5 +27,6 @@
   ],
   "showUnsupportedFiles": true,
   "autoConvertHtml": false,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "propertiesInDocument": "visible"
 }
