@@ -1,19 +1,19 @@
-  ---
-  pearl_id: PM1081
-  title: "Indications for Imatinib"
-  Subject:
-- Medicine
-- Pharmacology
-  type: Marrow
-  Topic:
-- Blood Disorders
-- Anti-Neoplastic Agents
-  tags:
-- flashcards
-- marrow-pearl
-- pharmacology
-- imatinib
-  ---
+---
+pearl_id: PM1081
+title: "Indications for Imatinib"
+Subject:
+  - Medicine
+  - Pharmacology
+type: Marrow
+Topic:
+  - Blood Disorders
+  - Anti-Neoplastic Agents
+tags:
+  - flashcards
+  - marrow-pearl
+  - pharmacology
+  - imatinib
+---
 
   # Indications for Imatinib
 
