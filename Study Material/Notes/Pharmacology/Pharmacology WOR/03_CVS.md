@@ -20,10 +20,284 @@ tags:
 
 # Drugs Acting on CVS
 
-## Anti-Arrhythmic Drugs
+## Vaughan Williams Classification of Anti-Arrhythmic Drugs
+>Vaughan Williams Classification
+### Class I — Na⁺-channel blockers
+General principle:
+- Reduce conduction velocity by decreasing the slope of phase 0.
+- Effects are more pronounced at faster heart rates and in depolarized tissue.
+- Relative binding strength: **IC > IA > IB**.
 
+##### Class IA
+Drugs:
+- Quinidine
+- Procainamide
+- Disopyramide
+
+Effects:
+- Moderate Na⁺ blockade
+- Increased action-potential duration, Effective Refractory Period, and QT duration
+
+Uses:
+- Atrial and ventricular arrhythmias, especially reentrant rhythms
+
+Adverse effects:
+- Quinidine → cinchonism (Important side effect syndrome)
+- Procainamide → drug-induced lupus-like syndrome
+- Disopyramide → negative inotropy/HF risk
+- QT prolongation → torsades risk
+- Thrombocytopenia can occur
+
+<div style="text-align:center; margin:1.1em 0 1.35em;">
+  <img src="Attachments/First_Aid_2025_Cardiovascular_Images/CV_p347_img02.png" alt="Visual from PDF page 347." width="560" style="display:block; margin:0 auto; max-width:92%; height:auto; border-radius:6px;">
+  <div style="font-size:0.82em; opacity:0.68; margin-top:0.45em;"><em>First Aid for the USMLE Step 1 (2025) — PDF p. 347</em></div>
+</div>
+##### Class IB
+Drugs:
+- Lidocaine
+- Mexiletine
+
+Effects:
+- Weak Na⁺ blockade
+- Shortens AP duration
+- ==Preferentially affects ischemic/depolarized ventricular/Purkinje tissue==
+
+Uses:
+- Acute ventricular arrhythmias, especially post-MI
+- Some digoxin-associated ventricular arrhythmias
+
+Adverse effects:
+- CNS toxicity/stimulation or depression
+- Cardiovascular depression
+
+<div style="text-align:center; margin:1.1em 0 1.35em;">
+  <img src="Attachments/First_Aid_2025_Cardiovascular_Images/CV_p347_img03.png" alt="Visual from PDF page 347." width="560" style="display:block; margin:0 auto; max-width:92%; height:auto; border-radius:6px;">
+  <div style="font-size:0.82em; opacity:0.68; margin-top:0.45em;"><em>First Aid for the USMLE Step 1 (2025) — PDF p. 347</em></div>
+</div>
+##### Class IC
+Drugs:
+- Flecainide
+- Propafenone
+
+Effects:
+- Strong Na⁺ blockade → strongly decreasing slope of Phase 0
+- Little effect on overall Action Potential duration
+- Net Effect: Markedly slows conduction velocity
+	>- This means that in diseases that rely on fast circuits looping around, it will be able to break that loop or at least slow down that loop to give normal circuitry a chance to overtake
+
+Uses:
+- Selected SVTs/AF
+
+Important caution:
+- **Avoid in structural or ischemic heart disease/post-MI** because of proarrhythmic risk.
+
+<div style="text-align:center; margin:1.1em 0 1.35em;">
+  <img src="Attachments/First_Aid_2025_Cardiovascular_Images/CV_p348_img01.png" alt="Visual from PDF page 348." width="760" style="display:block; margin:0 auto; max-width:92%; height:auto; border-radius:6px;">
+  <div style="font-size:0.82em; opacity:0.68; margin-top:0.45em;"><em>First Aid for the USMLE Step 1 (2025) — PDF p. 348</em></div>
+</div>
+### Class II — β-blockers
+
+Examples:
+- Metoprolol
+- Propranolol
+- Esmolol
+- Atenolol
+- Timolol
+- Carvedilol
+
+#### Mechanism
+- ↓cAMP → ↓Ca²⁺ currents.
+- Reduce SA-node activity and slow AV-node conduction.
+- Flatten phase 4 in pacemaker cells.
+- Increase PR interval.
+
+#### Uses
+- SVT
+- Ventricular-rate control in AF/flutter
+- Prevention of post-MI ventricular arrhythmias
+
+#### Adverse effects
+- Bradycardia
+- AV block
+- HF worsening in the wrong clinical setting
+- Bronchospasm with nonselective agents
+- CNS effects
+- ==Can mask hypoglycemia==
+- Sexual dysfunction
+
+- ==Esmolol== is very short acting.
+- β-blocker overdose management includes supportive therapy with **glucagon** plus standard resuscitative measures.
+
+<div style="text-align:center; margin:1.1em 0 1.35em;">
+  <img src="Attachments/First_Aid_2025_Cardiovascular_Images/CV_p348_img02.png" alt="Visual from PDF page 348." width="560" style="display:block; margin:0 auto; max-width:92%; height:auto; border-radius:6px;">
+  <div style="font-size:0.82em; opacity:0.68; margin-top:0.45em;"><em>First Aid for the USMLE Step 1 (2025) — PDF p. 348</em></div>
+</div>
+### Class III — K⁺-channel blockers
+Drugs:
+- ==Amiodarone==
+- ==Ibutilide==
+- Dofetilide
+- ==Sotalol==
+
+Effects:
+- Prolong repolarization, AP duration, ERP, and QT.
+Uses:
+- AF/flutter
+- Ventricular tachycardia (especially amiodarone and sotalol)
+#### Key toxicities
+
+**Sotalol**
+- Torsades de pointes
+- β-blockade effects
+
+**Ibutilide**
+- Torsades de pointes
+
+**Amiodarone**
+- ==Pulmonary fibrosis==
+- Hepatotoxicity
+- ==Hypothyroidism or hyperthyroidism==
+- ==Corneal deposits==
+- ==Photosensitive blue/gray skin change==
+- Neurologic effects
+- Bradycardia/heart block/HF
+- Long tissue half-life because of ==lipophilicity==
+- <mark style="background:#fdbfff">Possesses class I, II, III, and IV effects</mark>
+
+Monitoring commonly includes **pulmonary, liver, and thyroid function**.
+
+> [!warning] Adverse Effects of Amiodarone
+> **4Ps:**
+> Photosensitivity
+> Peripheral Neuropathy
+> Pulmonary Fibrosis
+> Prolongation of QT
+>
+>**The Lung and Cornea in my periphery are photosensitive**
+>Thyroid Dysfunction, Pulmonary Fibrosis, Corneal microdeposits, Peripheral Neuropathy, photosensitivity
+
+
+
+<div style="text-align:center; margin:1.1em 0 1.35em;">
+  <img src="Attachments/First_Aid_2025_Cardiovascular_Images/CV_p349_img01.png" alt="Visual from PDF page 349." width="560" style="display:block; margin:0 auto; max-width:92%; height:auto; border-radius:6px;">
+  <div style="font-size:0.82em; opacity:0.68; margin-top:0.45em;"><em>First Aid for the USMLE Step 1 (2025) — PDF p. 349</em></div>
+</div>
+<div style="text-align:center; margin:1.1em 0 1.35em;">
+  <img src="Attachments/First_Aid_2025_Cardiovascular_Images/CV_p349_img02.png" alt="Visual from PDF page 349." width="560" style="display:block; margin:0 auto; max-width:92%; height:auto; border-radius:6px;">
+  <div style="font-size:0.82em; opacity:0.68; margin-top:0.45em;"><em>First Aid for the USMLE Step 1 (2025) — PDF p. 349</em></div>
+</div>
+### Class IV — Ca²⁺-channel blockers
+
+Drugs:
+- Verapamil
+- Diltiazem
+
+Effects:
+- Slow AV nodal conduction
+- Increase AV nodal ERP
+- Prolong PR
+
+Uses:
+- Ventricular-rate control in AF/flutter
+- Prevention/termination of selected AV-nodal arrhythmias
+
+Adverse effects:
+- Constipation
+- Flushing/edema
+- Bradycardia
+- AV block
+- HF worsening
+- Sinus-node suppression
+
+### Other antiarrhythmics
+
+#### Adenosine
+- Increases K⁺ efflux and reduces inward Ca²⁺ current in AV nodal tissue.
+- Hyperpolarizes the cell and transiently blocks AV-node conduction.
+- Very short acting.
+- Drug of choice for terminating many AV-node-dependent SVTs and useful diagnostically.
+- ==Caffeine and theophylline blunt its effects.==
+
+Adverse effects:
+- Flushing
+- Hypotension
+- Chest discomfort
+- Sense of impending doom
+- Bronchospasm
+
+#### Magnesium
+- Effective for ==torsades de pointes.==
+- Also used in significant ==digoxin toxicity.==
+
+#### Ivabradine
+- Selectively inhibits the **If funny current** (the slow depolarisation current in Phase 4 in SAN)
+- Slows spontaneous phase-4 depolarization and heart rate.
+- Used in chronic HFrEF in selected patients.
+- Adverse effects: luminous visual phenomena, bradycardia, hypertension.
+
+
+### Overview
+| Class / Drug                            | Primary target / channel / receptor                                             | Electrophysiologic effect                                                                                                  | Major uses                                                                                                 | Important adverse effects / cautions                                                                                                                                             | High-yield points                                                                   |
+| --------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| ==**Class I — Na⁺ channel blockers**==  | ==Fast **Na⁺ channels (Nav1.5)**==                                              | ==↓ slope of phase 0 → ↓ conduction velocity; use-dependent block; greater effect at faster HR and in depolarized tissue== | ==Various atrial and ventricular arrhythmias depending on subclass==                                       | ==Proarrhythmia; subclass-specific toxicities==                                                                                                                                  | ==Relative binding strength: **IC > IA > IB**==                                     |
+| ==**Class IA**==                        | ==Moderate **Na⁺ channel blockade** + **K⁺ channel blockade**==                 | ==↓ conduction velocity; ↑ AP duration, ↑ ERP (Effective Refractory Period), ↑ QT==                                        | ==Atrial and ventricular arrhythmias; reentrant rhythms==                                                  | ==**Quinidine:** cinchonism; **Procainamide:** drug-induced lupus-like syndrome; **Disopyramide:** negative inotropy/HF risk; QT prolongation → **torsades**; thrombocytopenia== | ==Moderate Na⁺ block + prolonged repolarization==                                   |
+| **Quinidine**                           | Na⁺ channels + K⁺ channels                                                      | ↓ conduction; ↑ AP duration/QT                                                                                             | Atrial and ventricular arrhythmias                                                                         | **Cinchonism**, QT prolongation → torsades, thrombocytopenia                                                                                                                     | Class IA prototype                                                                  |
+| **Procainamide**                        | Na⁺ channels + K⁺ channels                                                      | ↓ conduction; ↑ AP duration/QT                                                                                             | Atrial and ventricular arrhythmias                                                                         | **Drug-induced lupus-like syndrome**, QT prolongation, thrombocytopenia                                                                                                          | Particularly associated with lupus                                                  |
+| **Disopyramide**                        | Na⁺ channels + K⁺ channels                                                      | ↓ conduction; ↑ AP duration/QT                                                                                             | Atrial and ventricular arrhythmias                                                                         | **Negative inotropy**, HF worsening, QT prolongation                                                                                                                             | Strong negative inotropic effect                                                    |
+| ==**Class IB**==                        | ==Weak **Na⁺ channel blockade**; preferential binding to inactivated channels== | ==↓ conduction mainly in abnormal tissue; **shortens AP duration**==                                                       | ==Acute ventricular arrhythmias, especially **post-MI**; some digoxin-associated ventricular arrhythmias== | ==CNS toxicity/stimulation or depression; cardiovascular depression==                                                                                                            | ==Preferential effect on **ischemic/depolarized ventricular and Purkinje tissue**== |
+| **Lidocaine**                           | Na⁺ channels                                                                    | Shortens ventricular AP; suppresses abnormal ventricular automaticity                                                      | **Acute ventricular arrhythmias**, especially post-MI; digoxin-associated ventricular arrhythmias          | CNS toxicity, seizures/confusion at high levels; cardiovascular depression                                                                                                       | IV; useful in ischemic ventricular tissue                                           |
+| **Mexiletine**                          | Na⁺ channels                                                                    | Similar to lidocaine; ↓ AP duration                                                                                        | Ventricular arrhythmias                                                                                    | CNS effects; cardiovascular effects                                                                                                                                              | Oral analogue of lidocaine                                                          |
+| ==**Class IC**==                        | ==Strong **Na⁺ channel blockade**==                                             | ==Markedly ↓ conduction velocity; little/no change in overall AP duration==                                                | ==Selected **SVTs** and **AF**==                                                                           | ==Proarrhythmia; dangerous in structural/ischemic heart disease==                                                                                                                | ==**Avoid after MI / structural heart disease**==                                   |
+| **Flecainide**                          | Strong Na⁺ channel blocker                                                      | Marked conduction slowing; minimal AP-duration effect                                                                      | Selected SVTs; AF                                                                                          | Proarrhythmia, especially in structural/ischemic heart disease                                                                                                                   | Class IC prototype                                                                  |
+| **Propafenone**                         | Strong Na⁺ channel blockade + some **β-blocking activity**                      | Marked conduction slowing                                                                                                  | Selected SVTs; AF                                                                                          | Proarrhythmia; β-blocker effects; avoid structural/ischemic heart disease                                                                                                        | Has additional β-blocking effect                                                    |
+| ==**Class II — β-blockers**==           | ==**β₁-adrenergic receptors** (nonselective agents also β₂)==                   | ==↓ cAMP → ↓ Ca²⁺ current; ↓ phase-4 slope; ↓ SA automaticity; ↓ AV conduction; ↑ PR==                                     | ==SVT; ventricular-rate control in **AF/flutter**; post-MI antiarrhythmic therapy==                        | ==Bradycardia, AV block, HF worsening if poorly compensated, bronchospasm with nonselective agents, CNS effects, masking hypoglycemia, sexual dysfunction==                      | ==Main effect is on **SA/AV nodes**==                                               |
+| **Metoprolol**                          | β₁ blocker                                                                      | ↓ SA rate; ↓ AV conduction                                                                                                 | SVT; AF/flutter rate control; post-MI                                                                      | Bradycardia, AV block, HF worsening                                                                                                                                              | β₁-selective                                                                        |
+| **Propranolol**                         | β₁ + β₂ blocker                                                                 | ↓ SA rate; ↓ AV conduction                                                                                                 | SVT; rate control; post-MI                                                                                 | Bradycardia, AV block, **bronchospasm**, CNS effects                                                                                                                             | Nonselective                                                                        |
+| **Esmolol**                             | β₁ blocker                                                                      | Rapidly reduces SA/AV activity                                                                                             | Acute rate control; SVT                                                                                    | Bradycardia, hypotension, AV block                                                                                                                                               | **Very short acting**                                                               |
+| **Atenolol**                            | β₁ blocker                                                                      | ↓ SA rate; ↓ AV conduction                                                                                                 | SVT; rate control                                                                                          | Bradycardia, AV block                                                                                                                                                            | β₁-selective                                                                        |
+| **Timolol**                             | β₁ + β₂ blocker                                                                 | ↓ SA/AV activity                                                                                                           | Rate control; other non-cardiac uses                                                                       | Bradycardia, bronchospasm                                                                                                                                                        | Nonselective                                                                        |
+| **Carvedilol**                          | β₁ + β₂ + **α₁** blockade                                                       | ↓ HR/conduction; ↓ sympathetic effects                                                                                     | HF; selected arrhythmia/rate-control settings                                                              | Bradycardia, hypotension, bronchospasm                                                                                                                                           | Vasodilating β-blocker                                                              |
+| **β-blocker overdose**                  | Excess β-adrenergic blockade                                                    | Severe bradycardia, AV block, hypotension                                                                                  | Emergency management                                                                                       | Supportive/resuscitative care required                                                                                                                                           | **Glucagon** can be used                                                            |
+| ==**Class III — K⁺ channel blockers**== | ==Predominantly **K⁺ channels** → delayed rectifier K⁺ current inhibition==     | ==↑ repolarization time, ↑ AP duration, ↑ ERP, ↑ QT==                                                                      | ==AF/flutter; ventricular tachycardia==                                                                    | ==QT prolongation and **torsades** with several agents==                                                                                                                         | ==Main class effect = prolonged repolarization==                                    |
+| **Amiodarone**                          | Predominantly K⁺ channels + **Na⁺ channels + β receptors + Ca²⁺ channels**      | ↑ AP duration/ERP; ↓ conduction; ↓ automaticity; AV-node slowing                                                           | AF/flutter; ventricular tachycardia                                                                        | **Pulmonary fibrosis, hepatotoxicity, hypo-/hyperthyroidism, corneal deposits, photosensitive blue-gray skin, neurologic effects, bradycardia, heart block, HF**                 | Has **Class I, II, III and IV** effects; very long tissue half-life                 |
+| **Ibutilide**                           | Predominantly K⁺ channel effects; also enhances slow inward current             | ↑ AP duration and ERP; ↑ QT                                                                                                | Pharmacologic conversion of AF/flutter                                                                     | **Torsades de pointes**                                                                                                                                                          | Often requires QT monitoring                                                        |
+| **Dofetilide**                          | Selective **IKr (K⁺ channel)** blockade                                         | ↑ AP duration, ERP, QT                                                                                                     | AF/flutter                                                                                                 | **Torsades de pointes**                                                                                                                                                          | QT monitoring/dose adjustment important                                             |
+| **Sotalol**                             | K⁺ channel blockade + **β-blockade**                                            | ↑ AP duration/QT + ↓ AV conduction/HR                                                                                      | AF/flutter; ventricular arrhythmias                                                                        | **Torsades**, bradycardia, AV block, β-blocker effects                                                                                                                           | Class III + Class II                                                                |
+| ==**Class IV**==                        | ==**L-type Ca²⁺ channels** in cardiac tissue==                                  | ==↓ AV-node conduction; ↑ AV-node ERP; ↑ PR interval==                                                                     | ==Ventricular-rate control in AF/flutter; AV-node-dependent arrhythmias==                                  | ==Bradycardia, AV block, HF worsening, sinus-node suppression; verapamil → constipation/flushing==                                                                               | ==Mainly affects **AV node**==                                                      |
+| **Verapamil**                           | L-type Ca²⁺ channels                                                            | ↓ AV conduction; ↑ AV ERP; ↑ PR                                                                                            | AF/flutter rate control; AV-node-dependent SVTs                                                            | **Constipation**, bradycardia, AV block, negative inotropy, HF worsening                                                                                                         | More prominent GI effects; strong negative inotropy                                 |
+| **Diltiazem**                           | L-type Ca²⁺ channels                                                            | ↓ AV conduction; ↑ AV ERP; ↑ PR                                                                                            | AF/flutter rate control; AV-node-dependent SVTs                                                            | Bradycardia, AV block, HF worsening, edema/flushing                                                                                                                              | Less constipation than verapamil                                                    |
+| **Adenosine**                           | **A₁ receptors** → ↑ K⁺ efflux and ↓ inward Ca²⁺ current in AV node             | Hyperpolarization → transient **AV-node block**                                                                            | **Drug of choice for many AV-node-dependent SVTs**; diagnostic use                                         | Flushing, hypotension, chest discomfort, sense of impending doom, bronchospasm                                                                                                   | **Very short acting**; caffeine/theophylline reduce effect                          |
+| **Magnesium**                           | Modulates cardiac ion channels and membrane excitability                        | Suppresses early afterdepolarizations; stabilizes myocardium                                                               | **Torsades de pointes**; significant digoxin toxicity                                                      | Usually well tolerated at therapeutic doses; toxicity with excessive administration                                                                                              | Give IV Mg²⁺ for torsades even if serum Mg is normal                                |
+| **Ivabradine**                          | Selective inhibition of **If (funny) current** in SA node                       | ↓ slope of phase 4 → ↓ heart rate without direct AV-node blockade                                                          | Chronic **HFrEF** in selected patients                                                                     | **Luminous visual phenomena**, bradycardia, hypertension                                                                                                                         | Selective sinus-node If inhibitor                                                   |
+## Arrhythmias and their Management
+### Tachyarrhythmia
+- Atrial: SVT, PSVT, atrial fibrillation.
+- Ventricular: VF, VT.
+- Long QT syndrome, WPW syndrome.
+### Atrial Fibrillation
+**Acute attack:**
+- Cardioversion ± Ibutilide (IV).
+**Chronic management:**
+#### Rate
+Aim: block AV node (to maintain ventricular rate <100/min).
+- β-blocker (DOC).
+- CCB: Non-DHP like Diltiazem (in COPD, asthma).
+##### Patients:
+1. older patients
+2. long standing AF
+3. structural changes in heart
+Because in such patients rhythm control is difficult.
+#### Rhythm
+Aim: block myocardial cells generating AP.
+- Na⁺ channel −.
+- K⁺ channel − → repolarization.
+- **Amiodarone (DOC).**
+##### Patients: 
+Usually in Younger Patients
+> Adenosine, β-blocker: s/e bronchoconstriction (C/i: asthma).
+> Adenosine: s/e atrial fibrillation.
+> Digoxin indication: SVT/PSVT + chronic CHF.
 ### SVT, PSVT
-
 - Arising from atrium.
 - Aim: block AV node (prevent conduction into ventricles).
 - Drugs: **ABCD**
@@ -37,9 +311,7 @@ tags:
 - DOC:
   - Acute: **Adenosine**.
   - Long-term management: **β-blockers**.
-
 ### Management of acute attack
-
 ```mermaid
 flowchart TD
     A[Tachyarrhythmia] --> B{BP status}
@@ -49,86 +321,34 @@ flowchart TD
     E -->|Absent| F[Adenosine DOC]
     E -->|Present| G[Diltiazem / Verapamil]
 ```
-
 **Adenosine (DOC):**
 - IV rapid push.
 - Adults: 6 mg.
 - Children: 0.1 mg/kg.
-
-### Tachyarrhythmia
-
-- Atrial: SVT, PSVT, atrial fibrillation.
-- Ventricular: VF, VT.
-- Long QT syndrome, WPW syndrome.
-
-### Bradyarrhythmia
-
-- **DOC: Atropine.**
-
-### Atrial Fibrillation
-
-**Acute attack:**
-
-- Cardioversion ± Ibutilide (IV).
-
-**Chronic management:**
-
-#### Rate
-
-Aim: block AV node (to maintain ventricular rate <100/min).
-
-- β-blocker (DOC).
-- CCB (in COPD, asthma).
-
-#### Rhythm
-
-Aim: block myocardial cells generating AP.
-
-- Na⁺ channel −.
-- K⁺ channel − → repolarization.
-- **Amiodarone (DOC).**
-
-> Adenosine, β-blocker: s/e bronchoconstriction (C/i: asthma).
-
-> Adenosine: s/e atrial fibrillation.
-
-> Digoxin indication: SVT/PSVT + chronic CHF.
-
 ### Ventricular Fibrillation & Tachycardia
-
 #### Ventricular tachycardia
-
 Block myocardial cells:
-
 - Na⁺ channel −.
 - K⁺ channel −:
   - Amiodarone (DOC).
-
 **Exception:** Digoxin/ischemia-induced V. tach/V. fib → DOC **Lidocaine**.
-
 #### Long QT Syndrome
-
 **Acute attack (Torsades de pointes) management:**
-
 - Congenital & acquired.
 - **DOC: MgSO₄.**
-
 **Long-term management:**
-
 - Congenital:
   - DOC: β-blocker.
   - TOC: pacing (ICD).
 - Acquired:
   - Avoid QT-prolonging drugs.
-
 #### WPW Syndrome
-
 Anatomical accessory pathway.
-
 - DOC: **Flecainide** (s/e: most arrhythmogenic).
 - TOC: radiofrequency ablation.
 - A/w atrial fibrillation: IV procainamide.
-
+### Bradyarrhythmia
+- **DOC: Atropine.**
 ## Heart Failure Drugs
 
 ### Acute CHF
@@ -137,16 +357,19 @@ Anatomical accessory pathway.
 
 ```mermaid
 flowchart TD
-    A[Acute CHF] --> B[↓ LV contraction]
-    B --> C[IV Dobutamine DOC<br/>(maintains normal HR)]
-    A --> D[Pulmonary edema]
-    D --> E[IV Furosemide DOC]
-    E --> F[1st effect: vasodilation<br/>↓ preload]
-    F --> G[Followed by diuresis]
-    D --> H[Alternative: IV Nitroglycerine]
-    A --> I[No response]
-    I --> J[BNP analogues]
-    J --> K[Nesiritide IV]
+    A["Acute CHF"] --> B["↓ LV contraction"]
+    B --> C["IV Dobutamine DOC<br>maintains normal HR"]
+
+    A --> D["Pulmonary edema"]
+    D --> E["IV Furosemide DOC"]
+    E --> F["1st effect: vasodilation<br>↓ preload"]
+    F --> G["Followed by diuresis"]
+
+    D --> H["Alternative: IV Nitroglycerine"]
+
+    H --> I["No response"]
+    I --> J["BNP analogues"]
+    J --> K["Nesiritide IV"]
 ```
 
 - PDE-3 −: **Milrinone (inodilator).**
@@ -178,7 +401,7 @@ flowchart TD
 ### Management of a new case orally
 
 1. Furosemide (symptomatic).
-2. ACEi/ARB **or** sacubitril + valsartan (preferred).
+2. ACEi/ARB **or** sacubitril + valsartan (aka ARNI preferred).
 3. β-blocker (BCMN):
    - Bisoprolol.
    - Carvedilol.
@@ -187,6 +410,12 @@ flowchart TD
 
 > Start β-blocker after 1 week. FDA approved.
 
+>[!note] ARNI: Angiotensin Receptor Neprilysin Inhibitor
+>Neprilysin: Degrades Natriuretic Peptides and angiotensin II levels
+>Sacubitril is Neprilysin Inhibitor
+>So, Sacubitril → Increases Natriuretic Peptides and angiotensin II
+>Now we want to increase Natriuretic Peptides but don't want to increase angiotensin II.
+>So, we add angiotensin receptor blocker → valsartan.
 ## Hypertension
 
 ### Mild to Moderate HTN
@@ -432,15 +661,14 @@ Other listed drugs:
 - DOC in protease inhibitors causing dyslipidemia (enzyme − → statin toxicity).
 
 **MOA:**
-
 - Hypolipidemic effect (HMG-CoA reductase −):
-  - ↓LDL, VLDL, TG.
-  - ↑HDL, lipoprotein-A.
+	- ↓LDL, VLDL, TG.
+	- ↑HDL, lipoprotein-A.
 - Pleiotropic effects (all except ↓LDL):
-  - Antiaggregant, anticoagulant.
-  - Anti-inflammatory, antioxidant.
-  - ↑NO.
-  - Plaque stabilization.
+	- Antiaggregant, anticoagulant.
+	- Anti-inflammatory, antioxidant.
+	- ↑NO.
+	- Plaque stabilization.
 
 **Uses:**
 - DOC: type II hyperlipoproteinemia (familial hypercholesterolemia).
