@@ -1,5 +1,5 @@
 ---
-pearl_id: PMO553
+pearl_id: PM0553
 title: PDE inhibitors
 Subject:
   - Pharmacology
@@ -16,11 +16,11 @@ tags:
 
 # PDE inhibitors
 
-Pearl ID: PMO553
+Pearl ID: PM0553
 
 #flashcards
 
-**What are the key facts in the Marrow Pearl "PDE inhibitors" (PMO553)?**
+**What are the key facts in the Marrow Pearl "PDE inhibitors" (PM0553)?**
 
 ?
 | PDE group | Drugs | Clinical application |
