@@ -964,7 +964,6 @@ Glucocorticoids:
 - Betamethasone.
 ##### Route
 - IM injection.
-###
 - “For 2 days.”
 - “In premature delivery.”
 For patients at risk of preterm birth within 7 days:
