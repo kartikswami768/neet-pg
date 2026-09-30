@@ -206,8 +206,7 @@ Prevent enzymatic degradation of endogenous incretins and increase GLP-1 activit
 - GI adverse effects and weight loss are well established.
 - Pancreatitis is a labeled warning/precaution; it is more accurate to describe this as a **potential risk requiring clinical monitoring**, not as an inevitable adverse effect.
 - Claims that GLP-1 receptor agonists cause thyroid cancer in humans should not be presented as established clinical causation. Rodent C-cell tumor findings underlie labeling warnings, while human causation remains unproven.
-##### Important 2026 treatment point
-ADA 2026 recommends GLP-1-based therapy preferentially over insulin in many adults with type 2 diabetes who do not have severe hyperglycemia or hyperglycemic crisis.
+
 ##### Combination rule
 **Do not combine a GLP-1 receptor agonist with a DPP-4 inhibitor** merely to obtain additive glucose lowering; ADA 2026 states that concurrent use is not recommended because there is no meaningful additional benefit.
 #### 7. DPP-4 Inhibitors
