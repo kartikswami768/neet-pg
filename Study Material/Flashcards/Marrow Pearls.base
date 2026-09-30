@@ -5,12 +5,12 @@ filters:
 formulas:
   Untitled: ""
 views:
-  - type: table
+  - type: cards
     name: Table
     filters:
       and:
         - file.inFolder("Study Material/Flashcards/Marrow Pearls")
-        - topic.contains("Cardiovascular System")
+        - topic.contains("Central and Peripheral Nervous System")
     order:
       - file.name
       - tags
@@ -25,6 +25,7 @@ views:
         direction: ASC
     columnSize:
       note.tags: 500
+    image: file.file
   - type: cards
     name: Cards
     filters:
@@ -41,3 +42,6 @@ views:
     imageAspectRatio: 1.55
   - type: table
     name: All view
+    order:
+      - file.name
+      - topic
