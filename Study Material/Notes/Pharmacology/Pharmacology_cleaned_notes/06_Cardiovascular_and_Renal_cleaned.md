@@ -692,17 +692,17 @@ Important safety issues for MRAs include:
 - Hyperkalemia
 - Reduced kidney function
 ### 9.3 Hypertension with Comorbidities
-| Clinical setting | preferred class |
-|---|---|
-| CKD / microalbuminuria / diabetes / stroke / retinopathy / scleroderma | ACEI or ARB |
-| Stable angina / HOCM / aortic dissection / hyperthyroidism / migraine | Beta blocker |
-| BPH | Prazosin |
-| Osteoporosis | Thiazide |
-| Post-menopausal hot flushes | Clonidine |
-| Raynaud's / asthma | DHP CCB such as amlodipine |
-| Pheochromocytoma | Phenoxybenzamine |
-| “Cheese reaction” | Phentolamine |
-| Pregnancy / preeclampsia | Labetalol, hydralazine, methyldopa, nifedipine |
+| Clinical setting                                                       | preferred class                                |
+| ---------------------------------------------------------------------- | ---------------------------------------------- |
+| CKD / microalbuminuria / diabetes / stroke / retinopathy / scleroderma | ACEI or ARB                                    |
+| Stable angina / HOCM / aortic dissection / hyperthyroidism / migraine  | Beta blocker                                   |
+| BPH                                                                    | Prazosin                                       |
+| Osteoporosis                                                           | Thiazide                                       |
+| Post-menopausal hot flushes                                            | Clonidine                                      |
+| Raynaud's / asthma                                                     | DHP CCB such as amlodipine                     |
+| Pheochromocytoma                                                       | Phenoxybenzamine                               |
+| “Cheese reaction”                                                      | Phentolamine                                   |
+| Pregnancy / preeclampsia                                               | Labetalol, hydralazine, methyldopa, nifedipine |
 ##### BPH
 Alpha-1 blockers can improve BPH symptoms, but **prazosin is not a standard universal first-line antihypertensive drug**. Hypertension should usually be treated according to cardiovascular/renal indications rather than selecting an alpha blocker solely because BPH is present.
 ##### Beta blockers

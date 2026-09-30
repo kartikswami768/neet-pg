@@ -20,20 +20,20 @@ tags:
 
 ## Anti-Epileptic Drugs
 
-| Seizure/condition | DOC / drug | Notes |
-|---|---|---|
-| **GTCS** | Valproate | −Ca²⁺ & Na⁺ channels; ↑GABA |
-| **Myoclonic seizure** | Valproate | — |
-| **Absence seizure** | Ethosuximide > Valproate | — |
-| **Partial seizure** | Carbamazepine | — |
-| **Rolandic epilepsy** | Carbamazepine | — |
-| **Mixed seizure syndrome** | Valproate | Lennox-Gastaut syndrome (LGS); Dravet syndrome (DS) |
-| **Seizure in neonates** | Phenobarbital | Protective against ischemia |
-| **Alcohol withdrawal seizures** | Diazepam; Lorazepam | Lorazepam safe in liver failure |
-| **Status epilepticus** | 1. Lorazepam | 2. In children (with no IV access): intranasal midazolam |
-| **Febrile seizures** | Intranasal midazolam >> rectal diazepam | — |
-| **Infantile spasm with tuberous sclerosis (TS)** | Vigabatrin | −GABA transaminase |
-| **Infantile spasm without TS / Salaam spasm / West syndrome** | ACTH | — |
+| Seizure/condition                                             | DOC / drug                              | Notes                                                    |
+| ------------------------------------------------------------- | --------------------------------------- | -------------------------------------------------------- |
+| **GTCS**                                                      | Valproate                               | −Ca²⁺ & Na⁺ channels; ↑GABA                              |
+| **Myoclonic seizure**                                         | Valproate                               | —                                                        |
+| **Absence seizure**                                           | Ethosuximide > Valproate                | —                                                        |
+| **Partial seizure**                                           | Carbamazepine                           | —                                                        |
+| **Rolandic epilepsy**                                         | Carbamazepine                           | —                                                        |
+| **Mixed seizure syndrome**                                    | Valproate                               | Lennox-Gastaut syndrome (LGS); Dravet syndrome (DS)      |
+| **Seizure in neonates**                                       | Phenobarbital                           | Protective against ischemia                              |
+| **Alcohol withdrawal seizures**                               | Diazepam; Lorazepam                     | Lorazepam safe in liver failure                          |
+| **Status epilepticus**                                        | 1. Lorazepam                            | 2. In children (with no IV access): intranasal midazolam |
+| **Febrile seizures**                                          | Intranasal midazolam >> rectal diazepam | —                                                        |
+| **Infantile spasm with tuberous sclerosis (TS)**              | Vigabatrin                              | −GABA transaminase                                       |
+| **Infantile spasm without TS / Salaam spasm / West syndrome** | ACTH                                    | —                                                        |
 
 **Note:** Valproate has no action on glutamate.
 
@@ -84,12 +84,12 @@ flowchart TD
 
 ## Depressive Disorders
 
-| Condition / drug | Features / notes |
-|---|---|
-| **Depression** | 1st line: SSRI/SNRI; early morning dose; add benzodiazepine (≥1 month) to prevent anxiety/insomnia |
-| **Withdrawal** | Not seen with SSRI: Fluoxetine (longest acting: 10 days). Seen with SSRI: Paroxetine (shortest acting); SNRI: Venlafaxine |
-| **With insomnia or erectile dysfunction** | Mirtazapine: NaSSA (noradrenergic & specific serotonergic antidepressants); night dose (sedation); H₁− & 5-HT₂− |
-| **With suicidal tendency** | Mnemonic: Life Can End → Lithium; Clozapine; ECT (best) |
+| Condition / drug                          | Features / notes                                                                                                              |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **Depression**                            | 1st line: SSRI/SNRI; early morning dose; add benzodiazepine (≥1 month) to prevent anxiety/insomnia                            |
+| **Withdrawal**                            | Not seen with SSRI: Fluoxetine (longest acting: 10 days). <br>Seen with SSRI: Paroxetine (shortest acting); SNRI: Venlafaxine |
+| **With insomnia or erectile dysfunction** | Mirtazapine: NaSSA (noradrenergic & specific serotonergic antidepressants); night dose (sedation); H₁− & 5-HT₂−               |
+| **With suicidal tendency**                | Mnemonic: Life Can End → Lithium; Clozapine; ECT (best)                                                                       |
 
 ### Novel antidepressants
 
