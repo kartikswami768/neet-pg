@@ -1162,17 +1162,19 @@ Drug indications vary by country and product labeling.
 - Inhibit aromatase.
 - ↓ conversion of androgens → estrogens.
 ##### Drugs
+###### Non-Steroidal (half life ≈ 2 days)
 - Anastrozole.
-- Letrozole — commonly used.
+- Letrozole — commonly used
+###### Steroidal
 - Exemestane.
 - Formestane.
 ##### Uses
-##### Postmenopausal breast cancer
+###### Postmenopausal breast cancer
 to be specific → ER positive Breast cancer
 - Anastrozole.
 - Letrozole.
 - Exemestane.
-##### Ovulation induction
+###### Ovulation induction
 - **Letrozole** is widely used for ovulation induction, including in PCOS and in fertility treatment protocols.- 
 > [!note]- Why does letrozole induce ovulation?
 In the hypothalamus/pituitary, estrogen normally provides negative feedback.
