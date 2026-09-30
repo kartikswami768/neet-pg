@@ -1168,11 +1168,17 @@ Drug indications vary by country and product labeling.
 - Formestane.
 ##### Uses
 ##### Postmenopausal breast cancer
+to be specific → ER positive Breast cancer
 - Anastrozole.
 - Letrozole.
 - Exemestane.
 ##### Ovulation induction
-- **Letrozole** is widely used for ovulation induction, including in PCOS and in fertility treatment protocols.
+- **Letrozole** is widely used for ovulation induction, including in PCOS and in fertility treatment protocols.- 
+> [!note]- Why does letrozole induce ovulation?
+In the hypothalamus/pituitary, estrogen normally provides negative feedback.
+So:
+Letrozole → ↓ estrogen → ↓ negative feedback → ↑ GnRH → ↑ FSH → follicular development → ovulation
+Hence, letrozole is widely used for ovulation induction, including in PCOS.
 ##### Other conceptual point
 Reducing estrogen synthesis can be therapeutically useful in postmenopausal hormone receptor-positive breast cancer.
 ### Androgen Pathway & Antiandrogens
