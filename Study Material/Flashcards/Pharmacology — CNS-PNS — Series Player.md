@@ -19,18 +19,11 @@ const CURRENT = String(dv.current().CURRENT_PEARL ?? "").trim();
 
 function toStrings(value) {
     if (value == null) return [];
-
-    if (Array.isArray(value)) {
-        return value.map(v => String(v).trim());
-    }
-
+    if (Array.isArray(value)) return value.map(v => String(v).trim());
     if (value.values) {
-        const values = Array.isArray(value.values)
-            ? value.values
-            : Array.from(value.values);
+        const values = Array.isArray(value.values) ? value.values : Array.from(value.values);
         return values.map(v => String(v).trim());
     }
-
     return [String(value).trim()];
 }
 
@@ -61,7 +54,7 @@ if (!pages.length) {
     dv.header(3, `${pages.length} Marrow Pearls`);
     dv.paragraph(`**Current:** ${current.pearl_id} · ${index + 1}/${pages.length}`);
 
-    const nav = dv.container.createDiv();
+    const nav = dv.container.createDiv({ cls: "marrow-series-nav" });
     nav.style.display = "flex";
     nav.style.justifyContent = "space-between";
     nav.style.alignItems = "center";
@@ -71,75 +64,40 @@ if (!pages.length) {
     const playerFile = app.vault.getAbstractFileByPath(dv.current().file.path);
 
     async function selectPearl(pearl) {
-        if (!pearl) return;
+        if (!pearl || !playerFile) return;
 
-        if (playerFile) {
-            await app.fileManager.processFrontMatter(playerFile, fm => {
-                fm.CURRENT_PEARL = String(pearl.pearl_id);
-            });
-        }
+        await app.fileManager.processFrontMatter(playerFile, fm => {
+            fm.CURRENT_PEARL = String(pearl.pearl_id);
+        });
 
-        // Resolve the real Obsidian TFile from the path.
-        const targetFile = app.vault.getAbstractFileByPath(pearl.file.path);
-        if (!targetFile) return;
-
-        // Open through Obsidian's workspace API, not as a web/OS link.
-        await app.workspace.openLinkText(
-            pearl.file.path,
-            dv.current().file.path,
-            false
-        );
+        const view = app.workspace.getActiveViewOfType(MarkdownView);
+        if (view?.previewMode) view.previewMode.rerender(true);
     }
 
     function addNavButton(parent, label, pearl, disabled) {
         const button = parent.createEl("button", { text: label });
         button.disabled = disabled;
-
-        if (!disabled) {
-            button.onclick = () => selectPearl(pearl);
-        }
-
+        if (!disabled) button.onclick = () => selectPearl(pearl);
         return button;
     }
 
-    addNavButton(
-        nav,
-        previous ? `← ${previous.pearl_id}` : "← Start",
-        previous,
-        !previous
-    );
+    addNavButton(nav, previous ? `← ${previous.pearl_id}` : "← Start", previous, !previous);
+    const center = nav.createEl("span", { text: current.pearl_id });
+    center.style.fontWeight = "600";
+    addNavButton(nav, next ? `${next.pearl_id} →` : "End →", next, !next);
 
-    const openButton = nav.createEl("button", {
-        text: `Open ${current.pearl_id}`
-    });
-
-    openButton.onclick = () => selectPearl(current);
-
-    addNavButton(
-        nav,
-        next ? `${next.pearl_id} →` : "End →",
-        next,
-        !next
-    );
-
-    dv.paragraph(`**${current.file.name.replace(/\\.md$/, "")}**`);
+    // Render the complete Pearl inline using Dataview's native note-embed link.
+    const pearlEmbed = dv.el("div", dv.fileLink(current.file.path, true), { cls: "marrow-series-pearl-embed" });
+    pearlEmbed.style.marginTop = "1.25em";
 
     dv.header(4, "Series order");
-
     dv.table(
         ["#", "Pearl ID", "Pearl"],
-        pages.map((p, i) => [
-            i + 1,
-            i === index ? `**${p.pearl_id}**` : p.pearl_id,
-            p.file.link
-        ])
+        pages.map((p, i) => [i + 1, i === index ? `**${p.pearl_id}**` : p.pearl_id, p.file.link])
     );
 }
 ```
 
 ### How to use
 
-1. Open this Player.
-2. Tap **Open** or **← / →** to move through the series.
-3. Navigation now uses Obsidian's internal workspace link handler rather than an external/OS link.
-4. The selected Pearl is remembered in `CURRENT_PEARL`.
+Use **← / →** to move through the series. Each step keeps you on this page and embeds the **entire original Pearl** here. The original Pearl file is not opened or modified.
