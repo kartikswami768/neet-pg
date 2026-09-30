@@ -4,7 +4,7 @@ type: Series Player
 
 # Trial Series Player
 
-Select a **Subject** and then a **Topic**. The matching Marrow Pearls will be generated automatically and can be reviewed as a smooth, whole-Pearl series.
+Choose how you want to slice the Marrow Pearls. The selected Pearls are then shown as a smooth whole-Pearl series.
 
 ```dataviewjs
 const SOURCE = '"Study Material/Flashcards/Marrow Pearls"';
@@ -30,56 +30,112 @@ function sortPearls(a, b) {
 
 const allPages = dv.pages(SOURCE).array();
 
-// Build Subject -> Topics from the actual Pearl metadata.
-const subjectMap = new Map();
+// The Marrow Pearl metadata currently has Subject + Topic, but no separate
+// ORGAN_SYSTEM property. Organ-system mode therefore matches a curated set
+// of system labels/synonyms against the existing Topic property.
+const ORGAN_SYSTEMS = {
+    "Cardiovascular": ["Cardiovascular System", "CVS"],
+    "Respiratory": ["Respiratory System"],
+    "Renal / Urinary": ["Renal System"],
+    "Gastrointestinal": ["Gastrointestinal System"],
+    "Endocrine": ["Endocrine System"],
+    "Nervous System": [
+        "Central and Peripheral Nervous System",
+        "Central Nervous System",
+        "Nervous System",
+        "CNS"
+    ],
+    "Hematology / Blood": ["Hematology", "Blood Disorders"],
+    "Reproductive": ["Reproductive System", "Reproductive Medicine", "Obstetrics & Gynaecology"],
+    "Musculoskeletal": ["Musculoskeletal System"],
+    "Integumentary / Skin": ["Integumentary System", "Skin"]
+};
 
-for (const page of allPages) {
-    const subjects = toStrings(page.Subject);
-    const topics = toStrings(page.Topic);
+const allSubjects = [...new Set(allPages.flatMap(p => toStrings(p.Subject)))].sort((a, b) => a.localeCompare(b));
+const allTopics = [...new Set(allPages.flatMap(p => toStrings(p.Topic)))].sort((a, b) => a.localeCompare(b));
 
-    for (const subject of subjects) {
-        if (!subjectMap.has(subject)) subjectMap.set(subject, new Set());
-        const topicSet = subjectMap.get(subject);
-        for (const topic of topics) topicSet.add(topic);
-    }
+function topicsForSubject(subject) {
+    if (!subject || subject === "__ALL__") return allTopics;
+    return [...new Set(
+        allPages
+            .filter(p => toStrings(p.Subject).includes(subject))
+            .flatMap(p => toStrings(p.Topic))
+    )].sort((a, b) => a.localeCompare(b));
 }
 
 const root = dv.container.createDiv({ cls: "trial-series-player" });
 
-// -----------------------------
-// Controls
-// -----------------------------
+// =============================
+// Filter controls
+// =============================
 const controls = root.createDiv({ cls: "trial-series-controls" });
 controls.style.display = "grid";
 controls.style.gridTemplateColumns = "1fr 1fr";
 controls.style.gap = "0.75em";
 controls.style.margin = "1em 0";
 
-function makeSelect(parent, labelText) {
+function makeField(parent, labelText) {
     const box = parent.createDiv();
     const label = box.createEl("label", { text: labelText });
     label.style.display = "block";
     label.style.fontWeight = "600";
     label.style.marginBottom = "0.35em";
-
     const select = box.createEl("select");
     select.style.width = "100%";
-    return select;
+    return { box, select };
 }
 
-const subjectSelect = makeSelect(controls, "Subject");
-const topicSelect = makeSelect(controls, "Topic");
+const modeField = makeField(controls, "Browse by");
+const modeSelect = modeField.select;
 
 function addOption(select, value, label = value) {
     select.createEl("option", { text: label, value });
 }
 
-addOption(subjectSelect, "", "Select Subject");
+addOption(modeSelect, "all", "All Pearls");
+addOption(modeSelect, "subject", "Subject → optional Topic(s)");
+addOption(modeSelect, "system", "Organ System");
+addOption(modeSelect, "topics", "Topic(s) across all Subjects");
 
-const subjects = [...subjectMap.keys()].sort((a, b) => a.localeCompare(b));
-for (const subject of subjects) addOption(subjectSelect, subject);
+const subjectField = makeField(controls, "Subject");
+const subjectSelect = subjectField.select;
+addOption(subjectSelect, "__ALL__", "All Subjects");
+for (const subject of allSubjects) addOption(subjectSelect, subject);
 
-addOption(topicSelect, "", "Select Topic");
+const systemField = makeField(controls, "Organ System");
+const systemSelect = systemField.select;
+addOption(systemSelect, "", "Select Organ System");
+for (const system of Object.keys(ORGAN_SYSTEMS)) addOption(systemSelect, system);
+
+const matchField = makeField(controls, "Topic matching");
+const matchSelect = matchField.select;
+addOption(matchSelect, "any", "Any selected topic");
+addOption(matchSelect, "all", "All selected topics");
+
+const topicPanel = root.createDiv({ cls: "trial-series-topic-panel" });
+topicPanel.style.margin = "0.75em 0 1em";
+
+const topicHeader = topicPanel.createDiv();
+topicHeader.style.display = "flex";
+topicHeader.style.justifyContent = "space-between";
+topicHeader.style.alignItems = "center";
+topicHeader.style.gap = "0.5em";
+
+topicHeader.createEl("strong", { text: "Topics" });
+
+const topicActions = topicHeader.createDiv();
+const allTopicsButton = topicActions.createEl("button", { text: "All" });
+const clearTopicsButton = topicActions.createEl("button", { text: "Clear" });
+
+const topicList = topicPanel.createDiv();
+topicList.style.display = "grid";
+topicList.style.gridTemplateColumns = "repeat(auto-fit, minmax(220px, 1fr))";
+topicList.style.gap = "0.25em 0.75em";
+topicList.style.maxHeight = "260px";
+topicList.style.overflowY = "auto";
+topicList.style.padding = "0.5em";
+topicList.style.border = "1px solid var(--background-modifier-border)";
+topicList.style.borderRadius = "8px";
 
 const status = root.createDiv({ cls: "trial-series-status" });
 status.style.margin = "0.75em 0";
@@ -97,27 +153,28 @@ pearlContainer.style.marginTop = "1.25em";
 
 const orderContainer = root.createDiv({ cls: "trial-series-order" });
 
-let pages = [];
-let index = 0;
-
 const previousButton = nav.createEl("button", { text: "← Previous" });
 const center = nav.createEl("span", { text: "No series selected" });
 center.style.fontWeight = "600";
 const nextButton = nav.createEl("button", { text: "Next →" });
 
-previousButton.disabled = true;
-nextButton.disabled = true;
+let pages = [];
+let index = 0;
 
 function clearElement(el) {
     el.replaceChildren();
 }
 
-function currentPearl() {
-    return pages[index] ?? null;
+function selectedTopics() {
+    return [...topicList.querySelectorAll("input[type=checkbox][data-topic]:checked")].map(input => input.dataset.topic);
+}
+
+function setSelectVisibility(field, visible) {
+    field.box.style.display = visible ? "" : "none";
 }
 
 function updateNavigation() {
-    const current = currentPearl();
+    const current = pages[index] ?? null;
     const previous = index > 0 ? pages[index - 1] : null;
     const next = index < pages.length - 1 ? pages[index + 1] : null;
 
@@ -131,7 +188,7 @@ function updateNavigation() {
 async function renderCurrentPearl() {
     clearElement(pearlContainer);
 
-    const current = currentPearl();
+    const current = pages[index];
     if (!current) return;
 
     await dv.api.renderValue(
@@ -144,98 +201,157 @@ async function renderCurrentPearl() {
 
 function renderOrder() {
     clearElement(orderContainer);
-
     if (!pages.length) return;
 
-    const heading = orderContainer.createEl("h4", { text: "Series order" });
+    orderContainer.createEl("h4", { text: "Series order" });
 
     const table = orderContainer.createEl("table");
     const thead = table.createEl("thead");
     const headerRow = thead.createEl("tr");
-    for (const text of ["#", "Pearl ID", "Pearl"]) {
-        headerRow.createEl("th", { text });
-    }
+    for (const text of ["#", "Pearl ID", "Pearl"]) headerRow.createEl("th", { text });
 
     const tbody = table.createEl("tbody");
-
     pages.forEach((page, i) => {
         const row = tbody.createEl("tr");
         row.createEl("td", { text: String(i + 1) });
 
         const idCell = row.createEl("td");
-        idCell.createEl("a", { text: page.pearl_id });
-        idCell.querySelector("a").onclick = (event) => {
+        const link = idCell.createEl("a", { text: page.pearl_id });
+        link.href = "#";
+        link.onclick = async (event) => {
             event.preventDefault();
             index = i;
             updateNavigation();
-            renderCurrentPearl();
+            await renderCurrentPearl();
         };
 
-        const titleCell = row.createEl("td");
-        titleCell.createEl("span", { text: page.file.name.replace(/\.md$/, "") });
-
-        if (i === index) {
-            row.style.fontWeight = "700";
-        }
+        row.createEl("td", { text: page.file.name.replace(/\.md$/, "") });
+        if (i === index) row.style.fontWeight = "700";
     });
 }
 
-async function generateSeries() {
-    const subject = subjectSelect.value;
-    const topic = topicSelect.value;
+function renderTopicChoices(topics, checkedTopics = []) {
+    clearElement(topicList);
 
-    pages = [];
+    if (!topics.length) {
+        topicList.createEl("span", { text: "No topics available." });
+        return;
+    }
+
+    for (const topic of topics) {
+        const label = topicList.createEl("label");
+        label.style.display = "flex";
+        label.style.alignItems = "center";
+        label.style.gap = "0.45em";
+
+        const checkbox = label.createEl("input", { type: "checkbox" });
+        checkbox.dataset.topic = topic;
+        checkbox.checked = checkedTopics.includes(topic);
+
+        const text = label.createEl("span", { text: topic });
+        checkbox.addEventListener("change", generateSeries);
+    }
+}
+
+function updateControlLayout() {
+    const mode = modeSelect.value;
+
+    setSelectVisibility(subjectField, mode === "subject");
+    setSelectVisibility(systemField, mode === "system");
+    setSelectVisibility(matchField, mode === "subject" || mode === "topics");
+    topicPanel.style.display = (mode === "subject" || mode === "topics") ? "" : "none";
+
+    if (mode === "subject") {
+        renderTopicChoices(topicsForSubject(subjectSelect.value));
+    } else if (mode === "topics") {
+        renderTopicChoices(allTopics);
+    } else {
+        clearElement(topicList);
+    }
+}
+
+function pageMatchesTopics(page, topics, matchMode) {
+    if (!topics.length) return true;
+    const pageTopics = new Set(toStrings(page.Topic));
+    if (matchMode === "all") return topics.every(topic => pageTopics.has(topic));
+    return topics.some(topic => pageTopics.has(topic));
+}
+
+function generateSeries() {
+    const mode = modeSelect.value;
+    const subject = subjectSelect.value;
+    const system = systemSelect.value;
+    const topics = selectedTopics();
+    const matchMode = matchSelect.value;
+
+    let result = allPages.slice();
+
+    if (mode === "subject") {
+        if (subject !== "__ALL__") {
+            result = result.filter(page => toStrings(page.Subject).includes(subject));
+        }
+        result = result.filter(page => pageMatchesTopics(page, topics, matchMode));
+    } else if (mode === "system") {
+        const labels = ORGAN_SYSTEMS[system] ?? [];
+        result = result.filter(page => {
+            const pageTopics = toStrings(page.Topic);
+            return labels.some(label => pageTopics.includes(label));
+        });
+    } else if (mode === "topics") {
+        result = result.filter(page => pageMatchesTopics(page, topics, matchMode));
+    }
+
+    pages = result.sort(sortPearls);
     index = 0;
+
     clearElement(pearlContainer);
     clearElement(orderContainer);
 
-    if (!subject || !topic) {
-        status.textContent = "Select a Subject and Topic.";
-        updateNavigation();
-        return;
+    if (mode === "all") {
+        status.textContent = `${pages.length} Marrow Pearls · All Pearls`;
+    } else if (mode === "subject") {
+        const subjectName = subject === "__ALL__" ? "All Subjects" : subject;
+        const topicText = topics.length ? ` · ${topics.length} topic${topics.length === 1 ? "" : "s"} (${matchMode})` : " · All topics";
+        status.textContent = `${pages.length} Marrow Pearls · ${subjectName}${topicText}`;
+    } else if (mode === "system") {
+        status.textContent = `${pages.length} Marrow Pearls · Organ System: ${system || "None selected"}`;
+    } else {
+        status.textContent = `${pages.length} Marrow Pearls · ${topics.length} selected topic${topics.length === 1 ? "" : "s"} (${matchMode})`;
     }
 
-    pages = allPages
-        .filter(page => toStrings(page.Subject).includes(subject) && toStrings(page.Topic).includes(topic))
-        .sort(sortPearls);
-
-    if (!pages.length) {
-        status.textContent = `No Marrow Pearls found for ${subject} + ${topic}.`;
-        updateNavigation();
-        return;
-    }
-
-    status.textContent = `${pages.length} Marrow Pearls · ${subject} + ${topic}`;
     updateNavigation();
     renderOrder();
-    await renderCurrentPearl();
+    renderCurrentPearl();
 }
 
-function updateTopicsForSubject(subject) {
-    clearElement(topicSelect);
-    addOption(topicSelect, "", subject ? "Select Topic" : "Select Subject first");
-
-    const topics = subjectMap.get(subject) ?? new Set();
-    for (const topic of [...topics].sort((a, b) => a.localeCompare(b))) {
-        addOption(topicSelect, topic);
-    }
-
-    pages = [];
-    index = 0;
-    status.textContent = subject ? "Now select a Topic." : "Select a Subject and Topic.";
-    clearElement(pearlContainer);
-    clearElement(orderContainer);
-    updateNavigation();
+function updateTopicsForSubject() {
+    renderTopicChoices(topicsForSubject(subjectSelect.value));
+    generateSeries();
 }
 
-subjectSelect.onchange = () => updateTopicsForSubject(subjectSelect.value);
-topicSelect.onchange = () => generateSeries();
+modeSelect.onchange = () => {
+    updateControlLayout();
+    generateSeries();
+};
+
+subjectSelect.onchange = updateTopicsForSubject;
+systemSelect.onchange = generateSeries;
+matchSelect.onchange = generateSeries;
+
+allTopicsButton.onclick = () => {
+    topicList.querySelectorAll("input[type=checkbox][data-topic]").forEach(input => input.checked = true);
+    generateSeries();
+};
+
+clearTopicsButton.onclick = () => {
+    topicList.querySelectorAll("input[type=checkbox][data-topic]").forEach(input => input.checked = false);
+    generateSeries();
+};
 
 previousButton.onclick = async () => {
     if (index <= 0) return;
     index -= 1;
     updateNavigation();
-    renderOrder();
     await renderCurrentPearl();
 };
 
@@ -243,19 +359,27 @@ nextButton.onclick = async () => {
     if (index >= pages.length - 1) return;
     index += 1;
     updateNavigation();
-    renderOrder();
     await renderCurrentPearl();
 };
 
-status.textContent = "Select a Subject and Topic.";
+// Initial state
+setSelectVisibility(subjectField, true);
+updateControlLayout();
+generateSeries();
 ```
 
-### How it works
+## Available study modes
 
-- Choose a **Subject**.
-- The **Topic** menu is automatically limited to Topics that occur under that Subject.
-- Choose a **Topic**.
-- The matching Pearls are generated and sorted by `pearl_id`.
-- Use **Previous / Next** to read each complete Pearl without leaving this Player.
+**All Pearls** — browse the complete Marrow Pearl collection.
 
-No Pearl frontmatter is modified by this Trial Player.
+**Subject → optional Topic(s)** — choose one Subject, then:
+- leave Topics empty to study the entire Subject;
+- select **All** to include every Topic under that Subject;
+- select one Topic;
+- select multiple Topics and choose **Any** or **All** matching.
+
+**Organ System** — choose an organ-system view independently of Subject. This is derived from your existing `Topic` metadata; the Pearls do not currently need an additional `ORGAN_SYSTEM` property.
+
+**Topic(s) across all Subjects** — useful when you want, for example, every Pearl tagged with a particular topic regardless of which Subject it belongs to.
+
+The original Pearl files and their YAML frontmatter are not modified by this Player.
