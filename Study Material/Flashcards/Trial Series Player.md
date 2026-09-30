@@ -124,8 +124,8 @@ topicHeader.style.gap = "0.5em";
 topicHeader.createEl("strong", { text: "Topics" });
 
 const topicActions = topicHeader.createDiv();
-const allTopicsButton = topicActions.createEl("button", { text: "All" });
-const clearTopicsButton = topicActions.createEl("button", { text: "Clear" });
+const allTopicsButton = topicActions.createEl("button", { text: "All Topics" });
+const clearTopicsButton = topicActions.createEl("button", { text: "Clear Filter" });
 
 const topicList = topicPanel.createDiv();
 topicList.style.display = "grid";
@@ -339,7 +339,9 @@ systemSelect.onchange = generateSeries;
 matchSelect.onchange = generateSeries;
 
 allTopicsButton.onclick = () => {
-    topicList.querySelectorAll("input[type=checkbox][data-topic]").forEach(input => input.checked = true);
+    // Empty topic selection means "all topics"; this avoids the
+    // "All selected topics" matcher accidentally requiring every topic.
+    topicList.querySelectorAll("input[type=checkbox][data-topic]").forEach(input => input.checked = false);
     generateSeries();
 };
 
@@ -374,7 +376,7 @@ generateSeries();
 
 **Subject → optional Topic(s)** — choose one Subject, then:
 - leave Topics empty to study the entire Subject;
-- select **All** to include every Topic under that Subject;
+- use **All Topics** to remove the Topic restriction;
 - select one Topic;
 - select multiple Topics and choose **Any** or **All** matching.
 
