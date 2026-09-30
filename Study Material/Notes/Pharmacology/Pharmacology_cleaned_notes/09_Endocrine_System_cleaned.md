@@ -152,7 +152,7 @@ Drug acts on pancreatic β-cell:
 - Chlorpropamide
 - Tolbutamide
 **Second generation**
-More potent according to The:
+More potent according to:
 - Glimepiride
 - Glipizide
 - Gliclazide
@@ -180,9 +180,9 @@ After food enters the gastrointestinal tract:
 - Incretin signaling also suppresses glucagon.
 - GLP-1 signaling CNS reduces appetite.
 ##### Two important drug strategies
-##### GLP-1 receptor agonists
+###### GLP-1 receptor agonists
 Mimic GLP-1 action.
-##### DPP-4 inhibitors
+###### DPP-4 inhibitors
 Prevent enzymatic degradation of endogenous incretins and increase GLP-1 activity.
 #### 6. GLP-1 Receptor Agonists
 ##### Drugs
@@ -490,7 +490,6 @@ They reduce peripheral T4→T3 conversion to varying degrees/mechanisms.
 - Propranolol: β-blockade plus inhibition of peripheral T4→T3 conversion at higher doses.
 - Glucocorticoids can suppress conversion.
 #### 21. Hyperthyroidism in Pregnancy
-##
 ##### First trimester
 - PTU.
 ##### Second and third trimester
@@ -696,7 +695,7 @@ Mnemonic: **BCD**
 - Cinacalcet may be used in selected patients.
 Endocrine Society guidance recommends an IV bisphosphonate or denosumab for adults with hypercalcemia of malignancy. In severe hypercalcemia (>14 mg/dL / 3.5 mmol/L), calcitonin can be added for its rapid effect, but only for a short period because tachyphylaxis develops.
 ### 35. Hyperphosphatemia
-##
+
 **DOC**
 - Sevelamer.
 **Other**
