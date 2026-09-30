@@ -128,11 +128,11 @@ Repeated injections at a single site can produce lipohypertrophy/lipoatrophy and
 - Amylin analogue → ↓ glucagon, ↓ appetite, slows gastric emptying.
 ##### Acting at peripheral organs
 - Biguanide:
- - Metformin → liver.
+	- Metformin → liver.
 - α-glucosidase inhibitors:
- - Acarbose → intestine.
+	- Acarbose → intestine.
 - Thiazolidinedione:
- - Pioglitazone → adipose tissue.
+	- Pioglitazone → adipose tissue.
 Additional classes shown later:
 - GLP-1 receptor agonists.
 - DPP-4 inhibitors.
