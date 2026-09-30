@@ -20,9 +20,22 @@ const source = '"Study Material/Flashcards/Marrow Pearls"';
 
 function hasValue(value, target) {
     if (value == null) return false;
-    if (typeof value === "string") return value.trim() === target;
-    if (value?.values) return value.values.some(v => String(v).trim() === target);
-    if (Array.isArray(value)) return value.some(v => String(v).trim() === target);
+
+    if (typeof value === "string") {
+        return value.trim() === target;
+    }
+
+    if (Array.isArray(value)) {
+        return value.some(v => String(v).trim() === target);
+    }
+
+    if (value.values) {
+        const values = Array.isArray(value.values)
+            ? value.values
+            : Array.from(value.values);
+        return values.some(v => String(v).trim() === target);
+    }
+
     return String(value).trim() === target;
 }
 
