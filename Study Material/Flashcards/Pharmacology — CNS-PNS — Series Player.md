@@ -19,8 +19,18 @@ const CURRENT = String(dv.current().CURRENT_PEARL ?? "").trim();
 
 function toStrings(value) {
     if (value == null) return [];
-    if (Array.isArray(value)) return value.map(v => String(v).trim());
-    if (value?.values) return value.values.map(v => String(v).trim());
+
+    if (Array.isArray(value)) {
+        return value.map(v => String(v).trim());
+    }
+
+    if (value.values) {
+        const values = Array.isArray(value.values)
+            ? value.values
+            : Array.from(value.values);
+        return values.map(v => String(v).trim());
+    }
+
     return [String(value).trim()];
 }
 
@@ -58,8 +68,7 @@ if (!pages.length) {
     nav.style.gap = "0.75em";
     nav.style.margin = "1em 0";
 
-    const notePath = dv.current().file.path;
-    const playerFile = app.vault.getAbstractFileByPath(notePath);
+    const playerFile = app.vault.getAbstractFileByPath(dv.current().file.path);
 
     async function selectPearl(pearl) {
         if (!pearl) return;
@@ -70,25 +79,48 @@ if (!pages.length) {
             });
         }
 
-        // Open the complete Pearl as a separate tab so the Series Player
-        // remains available for the next/previous navigation.
-        const leaf = app.workspace.getLeaf(true);
-        await leaf.openFile(pearl.file);
+        // Resolve the real Obsidian TFile from the path.
+        const targetFile = app.vault.getAbstractFileByPath(pearl.file.path);
+        if (!targetFile) return;
+
+        // Open through Obsidian's workspace API, not as a web/OS link.
+        await app.workspace.openLinkText(
+            pearl.file.path,
+            dv.current().file.path,
+            false
+        );
     }
 
-    function addButton(parent, label, pearl, disabled) {
+    function addNavButton(parent, label, pearl, disabled) {
         const button = parent.createEl("button", { text: label });
         button.disabled = disabled;
-        if (!disabled) button.onclick = () => selectPearl(pearl);
+
+        if (!disabled) {
+            button.onclick = () => selectPearl(pearl);
+        }
+
         return button;
     }
 
-    addButton(nav, previous ? `← ${previous.pearl_id}` : "← Start", previous, !previous);
+    addNavButton(
+        nav,
+        previous ? `← ${previous.pearl_id}` : "← Start",
+        previous,
+        !previous
+    );
 
-    const openButton = nav.createEl("button", { text: `Open ${current.pearl_id}` });
+    const openButton = nav.createEl("button", {
+        text: `Open ${current.pearl_id}`
+    });
+
     openButton.onclick = () => selectPearl(current);
 
-    addButton(nav, next ? `${next.pearl_id} →` : "End →", next, !next);
+    addNavButton(
+        nav,
+        next ? `${next.pearl_id} →` : "End →",
+        next,
+        !next
+    );
 
     dv.paragraph(`**${current.file.name.replace(/\\.md$/, "")}**`);
 
@@ -108,6 +140,6 @@ if (!pages.length) {
 ### How to use
 
 1. Open this Player.
-2. Tap **Open** on the current Pearl, or use **← / →** to move through the series.
-3. Each navigation action opens the **entire original Pearl file**; the Pearl itself is not modified.
-4. The Player remembers the last Pearl selected in `CURRENT_PEARL`.
+2. Tap **Open** or **← / →** to move through the series.
+3. Navigation now uses Obsidian's internal workspace link handler rather than an external/OS link.
+4. The selected Pearl is remembered in `CURRENT_PEARL`.
