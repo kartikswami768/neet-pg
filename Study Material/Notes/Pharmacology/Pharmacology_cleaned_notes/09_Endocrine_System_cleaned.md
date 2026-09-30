@@ -140,14 +140,14 @@ Additional classes shown later:
 - PPAR agonists.
 - Other agents.
 #### 4. Insulin Secretagogues
-##### 4.1 Mechanism
+##### Mechanism
 Drug acts on pancreatic β-cell:
 1. Closes ATP-sensitive K⁺ channels.
 2. β-cell membrane depolarizes.
 3. Voltage-dependent Ca²⁺ channels open.
 4. Intracellular Ca²⁺ rises.
 5. Insulin exocytosis increases.
-##### 4.2 Sulfonylureas
+##### Sulfonylureas
 **First generation**
 - Chlorpropamide
 - Tolbutamide
@@ -162,7 +162,7 @@ More potent according to:
 **Chlorpropamide — classic exam associations**
 - **SIADH / hyponatremia**.
 - **Disulfiram-like reaction with alcohol**.
-##### 4.3 Meglitinides
+##### Meglitinides
 - Repaglinide
 - Nateglinide
 ##### Mechanism
@@ -235,7 +235,7 @@ The text says “inhibited by CYP3A4.”
 ##### Additional high-yield caution
 Some DPP-4 inhibitors have specific heart-failure safety considerations; ADA 2026 specifically notes that saxagliptin and alogliptin require caution in patients who develop heart failure.
 ### Insulin Sensitizers, PPARs & Related Agents
-#### 8. Insulin Sensitizers
+#### Insulin Sensitizers
 ##### 8.1 Metformin
 **Mechanism**
 - Insulin sensitizer.
@@ -272,7 +272,7 @@ ADA 2026 confirms:
 - “Anti-diuretic effect” is not the best description; **fluid retention** is the clinically relevant concept.
 - Bladder cancer remains a labeling concern, although the strength and interpretation of epidemiologic evidence have varied across studies.
 - Use is avoided in patients with clinically significant symptomatic heart failure, and product-specific labeling should be followed.
-#### 9. PPAR Drugs
+#### PPAR Drugs
 ##### PPAR-α agonists
 **Fibrates**
 - Used in dyslipidemia.
@@ -282,7 +282,7 @@ ADA 2026 confirms:
 **Saroglitazar**
 - Used in diabetic dyslipidemia.
 - Dual PPAR-α/γ activity.
-#### 10. α-Glucosidase Inhibitors
+#### α-Glucosidase Inhibitors
 ##### Drugs
 - Acarbose
 - Voglibose
@@ -299,7 +299,7 @@ Result:
 ##### Hypoglycemia pearl
 When hypoglycemia occurs in a patient taking an α-glucosidase inhibitor, **give glucose/dextrose rather than sucrose**, because sucrose breakdown is inhibited.
 > **Exam pearl:** “Acarbose → treat hypoglycemia with glucose, not sucrose.”
-#### 11. Pramlintide
+#### Pramlintide
 ##### Pharmacology
 - Synthetic **amylin analogue**.
 - Amylin is normally co-secreted with insulin by pancreatic β-cells.
@@ -311,7 +311,7 @@ When hypoglycemia occurs in a patient taking an α-glucosidase inhibitor, **give
 - Promotes weight loss.
 ##### Clinical role
 Adjunct to mealtime insulin in selected patients with type 1 or type 2 diabetes; it does **not replace insulin** in type 1 diabetes.
-#### 12. SGLT2 Inhibitors
+#### SGLT2 Inhibitors
 ##### Mechanism
 Act **proximal convoluted tubule**.
 They inhibit sodium-glucose cotransport and increase urinary glucose excretion.
@@ -352,7 +352,7 @@ Fracture concerns have been strongest with specific agents/populations rather th
 ##### Perioperative/high-acuity point
 ADA 2026 advises avoiding SGLT2 inhibitors during severe acute illness, ketonemia/ketonuria, prolonged fasting, and around surgery; scheduled surgery generally warrants holding them in advance according to agent-specific guidance.
 ### Diabetic Complications, Obesity & Additional Agents
-#### 13. Pharmacological Treatment of Selected Diabetic Complications
+#### Pharmacological Treatment of Selected Diabetic Complications
 ##### Diabetic gastroparesis
 - Erythromycin → motilin receptor → ↑ GI motility.
 This is a pharmacologic option because macrolides can act as motilin agonists and stimulate gastric emptying.
@@ -377,7 +377,7 @@ For diabetic macular edema/proliferative diabetic retinopathy, commonly used int
 - Dulaglutide
 and states “No dose reduction required,” while specifically marking metformin as contraindicated.
 Renal dosing is **drug-specific**, not a universal class property. Among The-listed agents, linagliptin is the clearest high-yield example of no renal dose adjustment. Product labeling should be consulted for the exact drug, formulation, renal function, and clinical indication.
-#### 14. Anti-obesity Pharmacotherapy
+#### Anti-obesity Pharmacotherapy
 ##### Drugs
 - Semaglutide
 - Liraglutide
@@ -389,7 +389,7 @@ Renal dosing is **drug-specific**, not a universal class property. Among The-lis
 ##### Route
 - Subcutaneous.
 The key physiological result is reduced appetite/energy intake with clinically meaningful weight loss.
-#### 15. Additional Antidiabetic Drugs
+#### Additional Antidiabetic Drugs
 ##### Colesevelam
 - Bile-acid sequestrant / binder.
 - Used as an adjunct in type 2 diabetes.
@@ -405,7 +405,7 @@ The key physiological result is reduced appetite/energy intake with clinically m
 ##### Imeglimin
 - Novel oral glucose-lowering drug used in some markets.
 - notes inhibition of hepatic gluconeogenesis.
-### 16. Hyperkalemia — Drug Treatment
+### Hyperkalemia — Drug Treatment
 The illustrates:
 - Hyperkalemia.
 - ECG changes, including **peaked T waves**.
