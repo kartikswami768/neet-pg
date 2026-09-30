@@ -16,13 +16,13 @@ tags:
 
 ## Diuretics — site of action
 
-| Nephron site | Drug(s) / class shown |
-|---|---|
-| **Glomerulus / filtration** | Mannitol |
-| **Proximal convoluted tubule** | Acetazolamide; SGLT2 inhibitors |
-| **Thick ascending limb** | Loop diuretics |
-| **Early distal convoluted tubule** | Thiazide diuretics |
-| **Collecting tubule/duct** | K⁺-sparing diuretics |
+| Nephron site                       | Drug(s) / class shown           |
+| ---------------------------------- | ------------------------------- |
+| **Glomerulus / filtration**        | Mannitol                        |
+| **Proximal convoluted tubule**     | Acetazolamide; SGLT2 inhibitors |
+| **Thick ascending limb**           | Loop diuretics                  |
+| **Early distal convoluted tubule** | Thiazide diuretics              |
+| **Collecting tubule/duct**         | K⁺-sparing diuretics            |
 
 ![[Images/625_diuretics_site_of_action.svg]]
 

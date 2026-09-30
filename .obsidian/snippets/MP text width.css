@@ -1,0 +1,7 @@
+/* Minimalists Paradise — adjust note text width */
+.markdown-preview-view .markdown-preview-sizer,
+.markdown-source-view.mod-cm6 .cm-content {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
