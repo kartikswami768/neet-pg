@@ -1,7 +1,7 @@
 ---
 SERIES_SUBJECT: Pharmacology
 SERIES_TOPIC: Central and Peripheral Nervous System
-CURRENT_PEARL: PM0521
+CURRENT_PEARL: PM0123
 ---
 
 # Pharmacology — Central and Peripheral Nervous System
