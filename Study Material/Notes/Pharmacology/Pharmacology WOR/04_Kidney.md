@@ -105,10 +105,20 @@ tags:
 
 **Adverse effects:** hyperkalemia, ↓GFR, hypotension, and teratogenicity.
 
-### Aliskiren
+### Fineronone
+>[!warning]- Lone Wolf
+>Belongs to the same class as Spironolactone and Epleronone.
+>But only this one has proven effect on renal function preservation.
 
-**Mechanism:** Direct renin inhibitor; blocks conversion of angiotensinogen to angiotensin I.
-
-**Clinical use:** hypertension.
-
-**Adverse effects:** hyperkalemia, ↓GFR, hypotension, angioedema. Relatively contraindicated in patients already taking ACE inhibitors or ARBs and contraindicated in pregnancy.
+Especially in Type 2 Diabetes with CKD
+**Mechanism:** 
+	- It is a non-steroidal mineralo-corticoid receptor antagonist (blocks aldosterone receptor). 
+	- Reduces inflammation and fibrosis in Kidneys.
+### SGLT-2 inhibitors
+- This drugs inhibit Na⁺-Glucose Co-transporter type 2 in the PCT. 
+- Increase NaCl delivery to thick ascending limb → trigger tubulo-glomerular feedback → Decrease glomerular hypertension. 
+### GLP-1 receptor agonist
+- multifactorial way 
+	- reduce sodium reabsorption in PCT
+	- dampen RAAS signalling
+	- anti-inflammatory and hemodynamic effects
