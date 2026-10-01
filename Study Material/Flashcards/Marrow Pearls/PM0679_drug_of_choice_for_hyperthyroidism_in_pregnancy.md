@@ -20,7 +20,7 @@ tags:
 
 Pearl ID: PMO679
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Drug of choice for hyperthyroidism/thyrotoxicosis in pregnancy" (PMO679)?**
 
