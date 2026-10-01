@@ -20,7 +20,7 @@ tags:
 
 Pearl ID: PM2415
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Adverse effects of specific antidepressants" (PM2415)?**
 
