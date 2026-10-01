@@ -21,7 +21,7 @@ tags:
 
 Pearl ID: PM0502
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Lithium in bipolar disorder" (PM0502)?**
 
