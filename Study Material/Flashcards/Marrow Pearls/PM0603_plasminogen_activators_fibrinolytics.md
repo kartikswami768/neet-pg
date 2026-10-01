@@ -20,7 +20,7 @@ tags:
 
 Pearl ID: PM0603
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Plasminogen activators (classification of fibrinolytics)" (PM0603)?**
 
