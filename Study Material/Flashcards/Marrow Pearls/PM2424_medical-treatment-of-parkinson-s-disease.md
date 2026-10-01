@@ -21,7 +21,7 @@ tags:
 
 Pearl ID: PM2424
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Medical treatment of Parkinson's disease" (PM2424)?**
 
