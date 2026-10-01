@@ -656,8 +656,7 @@ Mechanisms:
 
 ## Parkinson Disease and Other Movement / Neurodegenerative Disorders
 
-### 19. Parkinson Disease
-#### 19.1 Pathophysiology
+### 19.1 Pathophysiology
 - Neurodegeneration of dopaminergic neurons **substantia nigra pars compacta** basal ganglia.
 - MPTP is listed as a toxin that can cause parkinsonism.
 MPTP is converted to MPP⁺, which selectively damages nigrostriatal dopaminergic neurons and produces a parkinsonian syndrome.
