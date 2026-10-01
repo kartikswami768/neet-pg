@@ -22,7 +22,7 @@ tags:
 
 Pearl ID: PM2328
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Hormonal contraceptives" (PM2328)?**
 
