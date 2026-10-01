@@ -22,7 +22,7 @@ tags:
 
 **Pearl ID:** `PM0854`
 
-#flashcards/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
+#review/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
 
 What are the key facts in the Marrow Pearl **"Benign prostatic hyperplasia treatment"** (PM0854)?
 ?
