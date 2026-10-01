@@ -36,28 +36,27 @@ type: Marrow
 - HRZE are given orally.
 - **Streptomycin (S)** is no longer a routine first-line drug for drug-susceptible TB, but injectable aminoglycosides retain selected specialist roles.
 **Standard Indian drug-susceptible TB regimen**
-**Intensive phase:**
-- 2 months: **HRZE**
-**Continuation phase:**
-- 4 months: **HRE** Indian programme regimen represented by NACO source used for HIV-TB tables.
-> **Current-programme note:** Regimen details can differ according to drug susceptibility testing, disease site, age/weight and programme rules. Do not use an old mnemonic such as “Z is simply omitted because it is hepatotoxic” as the reason for the continuation-phase composition.
+- **Intensive phase:**
+	- 2 months: **HRZE**
+- **Continuation phase:**
+	- 4 months: **HRE** Indian programme regimen represented by NACO source used for HIV-TB tables.
+
 
 #### 2. DRUG-RESISTANT TUBERCULOSIS
 
 ##### 2.1 Definitions
-**MDR-TB**
+###### **MDR-TB**
 **Multidrug-resistant TB (MDR-TB):** resistance to at least **isoniazid + rifampicin**.
-**Rifampicin-resistant TB (RR-TB)**
+###### **Rifampicin-resistant TB (RR-TB)**
 - Rifampicin resistance may occur with or without isoniazid resistance.
 - RR-TB is generally managed using MDR/RR-TB treatment pathways rather than reverting to a standard drug-susceptible regimen.
-**Pre-XDR-TB**
+###### **Pre-XDR-TB**
 **MDR/RR-TB + resistance to any fluoroquinolone** (levofloxacin or moxifloxacin).
-**XDR-TB**
+###### **XDR-TB**
 **WHO / Global definition:**
 - resistance to rifampicin (and usually classified within MDR/RR-TB),
 - resistance to **any fluoroquinolone**, and
 - resistance to **at least one of bedaquiline or linezolid**.
-> Description: XDR-TB as resistance to “BELL”/all three Group-A drugs. That is too restrictive. Current WHO XDR-TB requires resistance to a fluoroquinolone **plus at least one** additional Group-A drug (bedaquiline or linezolid), not necessarily both.
 
 ##### 2.2 Second-line / Group-A drugs
 **Group A — highly effective drugs**
