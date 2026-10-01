@@ -30,7 +30,7 @@ tags:
 
 **Pearl ID:** `PM2022`
 
-#flashcards/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
+#review/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
 
 What are the key facts in the Marrow Pearl **"Teratogenic drugs and the birth defects"** (PM2022)?
 ?
