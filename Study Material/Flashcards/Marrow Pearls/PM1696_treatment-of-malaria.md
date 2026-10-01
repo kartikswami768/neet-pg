@@ -19,7 +19,7 @@ tags:
 
 Pearl ID: PM1696
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Treatment of Malaria" (PM1696)?**
 
