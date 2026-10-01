@@ -20,7 +20,7 @@ tags:
 
 Pearl ID: PM0422
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Maximum dose of local anaesthetics" (PM0422)?**
 
