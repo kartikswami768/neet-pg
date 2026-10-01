@@ -20,7 +20,7 @@ tags:
 
 Pearl ID: PM0115
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Anti-arrhythmic drugs" (PM0115)?**
 
