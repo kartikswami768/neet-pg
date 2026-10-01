@@ -21,7 +21,7 @@ tags:
 
 Pearl ID: PM1695
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "First-line Agents in Different Types of Seizures" (PM1695)?**
 
