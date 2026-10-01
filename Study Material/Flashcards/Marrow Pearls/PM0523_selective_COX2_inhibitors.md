@@ -17,7 +17,7 @@ tags:
 
 Pearl ID: PM0523
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Some Important Points about Selective COX-2 Inhibitors" (PM0523)?**
 
