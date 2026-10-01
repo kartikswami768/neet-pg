@@ -21,7 +21,7 @@ tags:
 
 **Pearl ID:** `PM2367`
 
-#flashcards/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
+#review/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
 
 What are the key facts in the Marrow Pearl **"Dialyzable and non-dialyzable drugs"** (PM2367)?
 ?
