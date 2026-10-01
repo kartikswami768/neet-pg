@@ -1001,7 +1001,7 @@ The core evidence-based mood stabilizer set includes **lithium, valproate, lamot
 - antidepressants are not mood stabilizers and should not be used alone because they may precipitate mania.
 Antidepressant monotherapy is generally avoided in bipolar I disorder because risk of switching/mood destabilization. In selected patients, an antidepressant may be used **adjunctively with a mood stabilizer/antipsychotic** after individual risk assessment.
 #### 38. Lithium
-##### 38.1 Pharmacokinetics
+##### Pharmacokinetics
 | Parameter  |                                                                    |
 | ---------- | ------------------------------------------------------------------ |
 | Route      | Oral lithium carbonate/citrate; 100% oral bioavailability is table |
@@ -1009,18 +1009,18 @@ Antidepressant monotherapy is generally avoided in bipolar I disorder because ri
 | Metabolism | None                                                               |
 | Excretion  | ~95% urine; also sweat/saliva/milk listed                          |
 Lithium is not metabolized and is **almost entirely renally eliminated**. Its renal handling resembles sodium, which explains important interactions with dehydration, sodium balance, NSAIDs and thiazide diuretics.
-##### 38.2 Lithium monitoring
+##### Lithium monitoring
 Blood sample is taken **12 hours after the last dose**.
 A 12-hour post-dose (“trough-like”) level is a standard monitoring convention. Interpret levels consistently using the same sampling interval and laboratory method.
 ###### serum ranges
 | Serum lithium (mmol/L) | clinical association |
-|---:|---|
-| 0.6–1.0 | Maintenance |
-| 1.0–1.5 | Acute mania |
-| >1.5 | Toxicity |
-| >4 | Start haemodialysis |
+| ---------------------: | -------------------- |
+|                0.6–1.0 | Maintenance          |
+|                1.0–1.5 | Acute mania          |
+|                   >1.5 | Toxicity             |
+|                     >4 | Start haemodialysis  |
 These are useful historical teaching thresholds but **not sufficient by themselves for clinical decision-making**. NICE maintenance targets are often around **0.6–0.8 mmol/L** for people starting lithium, with **0.8–1.0 mmol/L** considered in selected patients with relapse or residual symptoms. Severe lithium poisoning may warrant extracorporeal treatment based on serum concentration, renal function, neurological/cardiovascular toxicity and predicted clearance time—not one universal “>4 = dialysis” rule.
-##### 39. Lithium Toxicity
+##### Lithium Toxicity
 ###### 39.1 Risk factors
 High-risk situations include:
 - Dehydration / volume depletion
@@ -1040,13 +1040,13 @@ High-risk situations include:
 - **Hemodialysis** is preferred extracorporeal treatment when accepted severity criteria are met.
 - Mannitol is not a routine antidote for lithium poisoning.
 - Amiloride has a role in selected chronic lithium-induced nephrogenic diabetes insipidus, **not as the standard acute antidote for lithium poisoning**.
-##### 39.3 ECG effects
+##### ECG effects
 - T-wave flattening/inversion.
 - Increased RR interval (slower SA-node activity).
 - Increased PR interval (slower AV conduction).
 - QT shortening slide.
 ECG changes are often nonspecific and can occur with lithium toxicity. ECG monitoring is important in significant poisoning, but diagnosis and severity assessment should be based on the full clinical picture.
-##### 40. Lithium Adverse Effects
+##### Lithium Adverse Effects
 ##### Common / important
 - Fine tremor
 - GI upset: nausea, vomiting, diarrhoea
