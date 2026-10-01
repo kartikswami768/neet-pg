@@ -20,7 +20,7 @@ tags:
 
 Pearl ID: PM1398
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Drugs precipitating porphyria: "BOOST CHAP"" (PM1398)?**
 
