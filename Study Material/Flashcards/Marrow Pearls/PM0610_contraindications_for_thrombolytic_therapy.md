@@ -20,7 +20,7 @@ tags:
 
 Pearl ID: PM0610
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Contraindications for thrombolytic therapy" (PM0610)?**
 
