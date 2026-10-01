@@ -21,7 +21,7 @@ tags:
 
 Pearl ID: PM0242
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Side effects of succinyl choline" (PM0242)?**
 
