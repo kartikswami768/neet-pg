@@ -21,7 +21,7 @@ tags:
 
 **Pearl ID:** `PM2378`
 
-#flashcards/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
+#review/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
 
 What are the key facts in the Marrow Pearl **"Zero order vs First order kinetics of drugs"** (PM2378)?
 ?
