@@ -19,7 +19,7 @@ tags:
 
 Pearl ID: PM1526
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Drugs causing hyperprolactinemia" (PM1526)?**
 
