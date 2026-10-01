@@ -18,7 +18,7 @@ tags:
 
 Pearl ID: PM1270
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "General properties of the first line drugs in TB" (PM1270)?**
 
