@@ -17,7 +17,7 @@ tags:
 
 Pearl ID: PMO739
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Classification of Glucocorticoids" (PMO739)?**
 
