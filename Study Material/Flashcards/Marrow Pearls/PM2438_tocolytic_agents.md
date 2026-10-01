@@ -18,7 +18,7 @@ tags:
 
   Pearl ID: PM2438
 
-  #flashcards
+  #review
 
   **What are the key facts in the Marrow Pearl "Tocolytic agents" (PM2438)?**
 
