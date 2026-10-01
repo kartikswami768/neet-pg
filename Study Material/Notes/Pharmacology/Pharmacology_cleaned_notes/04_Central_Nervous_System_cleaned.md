@@ -450,7 +450,7 @@ Modern first-line selection is more nuanced and can include **lamotrigine, levet
 - Valproate
 - Lamotrigine
 - Topiramate
-Drug choice is syndrome-specific. Carbamazepine and phenytoin can worsen some generalized seizure types, particularly absence and myoclonic epilepsies.
+Drug choice is syndrome-specific. ==Carbamazepine and phenytoin can worsen some generalized seizure types, particularly absence and myoclonic epilepsies.==
 ##### Focal seizures
 - Lamotrigine → Elderly
 - Oxcarbazepine
@@ -505,11 +505,11 @@ These mnemonic groupings are useful but are not exhaustive. Sodium-channel modul
 Prolongs inactivation of Na⁺ channels.
 Lacosamide selectively enhances the **slow inactivation** of voltage-gated sodium channels.
 #### 15.2 T-type calcium-channel blockade
-- T-type Ca²⁺ channels are emphasized **thalamus** for absence seizures.
-- `VEL` = Valproate, Ethosuximide, Lamotrigine.
-- Zonisamide/clonazepam are listed as additional agents.
+- T-type Ca²⁺ channels are emphasized **thalamus** for ==absence seizures.==
+- `VEL` = ==Valproate, Ethosuximide, Lamotrigine.==
+- ==Zonisamide/clonazepam== are listed as additional agents.
 - Ethosuximide is ineffective for GTCS/focal seizures/status epilepticus.
-- Phenytoin and carbamazepine are ineffective in typical absence seizures.
+- ==Phenytoin and carbamazepine are ineffective in typical absence seizures.==
 Ethosuximide's classic mechanism is suppression of thalamic T-type calcium currents. The “VEL” mnemonic is an exam shortcut, not a complete receptor-mechanism map.
 #### 15.3 GABAergic mechanisms
 - **α2δ ligands (GABA releasers):** pregabalin, gabapentin.
