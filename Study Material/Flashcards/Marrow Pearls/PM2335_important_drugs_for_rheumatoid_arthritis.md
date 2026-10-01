@@ -19,7 +19,7 @@ tags:
 
 Pearl ID: PM2335
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Important drugs for rheumatoid arthritis" (PM2335)?**
 
