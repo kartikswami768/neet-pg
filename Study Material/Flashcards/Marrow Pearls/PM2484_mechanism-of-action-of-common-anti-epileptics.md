@@ -19,7 +19,7 @@ tags:
 
 Pearl ID: PM2484
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Mechanism of action of common anti-epileptics" (PM2484)?**
 
