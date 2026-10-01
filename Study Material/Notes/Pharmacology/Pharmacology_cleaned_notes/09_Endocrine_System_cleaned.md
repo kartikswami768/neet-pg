@@ -426,7 +426,6 @@ The standard exam/clinical drug is **nebulized salbutamol (albuterol)** as an ad
 #### Step 3 — Remove potassium body
 - Loop diuretic such as furosemide, when appropriate and when renal function/volume status permit.
 - Potassium-binding resins/binders.
-###
 - Polystyrene resin.
 ##### Current clinical note
 Modern practice also uses newer potassium binders in suitable patients, but The specifically focuses on older resin therapy.
@@ -814,7 +813,7 @@ Major pituitary action:
 - Acromegaly not adequately controlled with other therapies or in selected resistant cases.
 ### 44. Other Related Drugs
 #### Teduglutide
-- GLP-2 analogue.
+- ==GLP-2 analogue==.
 - Promotes intestinal adaptation/growth.
 - Used in **short bowel syndrome** requiring intestinal rehabilitation support.
 #### Lutetium-177 dotatate
