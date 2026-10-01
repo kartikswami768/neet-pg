@@ -21,7 +21,7 @@ tags:
 
   Pearl ID: PM0765
 
-  #flashcards
+  #review
 
   **What are the key facts in the Marrow Pearl "Difference in COX-1 and COX-2" (PM0765)?**
 
