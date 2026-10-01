@@ -912,14 +912,14 @@ EPS
 ```
 The labels the mnemonic **“Never – A PART.”** The actual table is more useful than the mnemonic alone.
 ###### 33. EPS — Time Course and Treatment
-| Syndrome | timing / features | Current treatment principle |
-|---|---|---|
-| **Acute dystonia** | Early / first dose; tongue-face spasm, oculogyric crisis | IM/IV anticholinergic such as **benztropine or diphenhydramine**; then short oral course if needed |
-| **Parkinsonism** | Weeks; bradykinesia, rigidity, tremor | Reduce/switch offending drug; amantadine or short-term anticholinergic in selected patients |
-| **Akathisia** | Weeks–months; inner restlessness | Reduce/switch drug; **propranolol** often effective; alternatives include selected benzodiazepines |
-| **Rabbit syndrome** | Months; perioral tremor | Reduce/switch; anticholinergic may help |
-| **Tardive dyskinesia** | Months–years; choreoathetoid/orofacial movements | **VMAT2 inhibitor** (valbenazine/deutetrabenazine) and medication adjustment |
-| **Neuroleptic malignant syndrome** | Medical emergency; rigidity, hyperthermia, altered state, rhabdomyolysis | Stop drug + intensive supportive care; dantrolene/bromocriptine in selected severe cases |
+| Syndrome                           | timing / features                                                                                        | Current treatment principle                                                                        |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **Acute dystonia**                 | Early / first dose; tongue-face spasm, oculogyric crisis                                                 | IM/IV anticholinergic such as **benztropine or diphenhydramine**; then short oral course if needed |
+| **Parkinsonism**                   | Weeks; bradykinesia, rigidity, tremor                                                                    | Reduce/switch offending drug; **amantadine** or short-term anticholinergic in selected patients    |
+| **Akathisia**                      | Weeks–months; inner restlessness                                                                         | Reduce/switch drug; **propranolol** often effective; alternatives include selected benzodiazepines |
+| **Rabbit syndrome**                | Months; perioral tremor                                                                                  | Reduce/switch; anticholinergic may help                                                            |
+| **Tardive dyskinesia**             | Months–years; choreoathetoid/orofacial movements                                                         | **VMAT2 inhibitor** (valbenazine/deutetrabenazine) and medication adjustment                       |
+| **Neuroleptic malignant syndrome** | Medical emergency; <br><br>- rigidity, <br>- hyperthermia, <br>- altered state, <br>- ==rhabdomyolysis== | Stop drug + intensive supportive care; **dantrolene/bromocriptine** in selected severe cases       |
 ###### Important corrections to The
 - “Akathisia = months” is too rigid; it can appear within days to weeks and later as well.
 - Tardive dyskinesia can appear after months or longer and may persist after stopping the drug.
@@ -959,20 +959,17 @@ Dantrolene is the specific antidotal drug for **malignant hyperthermia**, which 
 - Used for severe/treatment-resistant disease.
 Clozapine is the standard evidence-based antipsychotic for **treatment-resistant schizophrenia** and has evidence for reducing recurrent suicidal behaviour in schizophrenia/schizoaffective disorder.
 ##### 36.2 Adverse effects
-##### Non-serious/common teaching points
+###### Non-serious/common teaching points
 - Hypersalivation (“wet-pillow syndrome”)
 - Sedation
 - Weight gain / obesity
 - Metabolic effects including diabetes risk
-##### Serious
+###### Serious
 - **Severe neutropenia/agranulocytosis**
 - Seizures
 - Myocarditis
 - Cardiovascular effects
 - Severe constipation/ileus
-The U.S. FDA removed the formal **Clozapine REMS program in 2025**, but it still recommends ANC monitoring according to current prescribing information because severe neutropenia remains a serious risk.
-gives old stopping thresholds such as WBC <3000 or neutrophils <2000.
-Do not use those old slide thresholds as a universal modern rule. Monitoring and interruption thresholds depend on the current product label and the patient's baseline status/management protocol.
 ### 37. Mood Stabilizers and Bipolar Disorder
 #### 37.1 Drugs
 Mnemonic:
@@ -999,7 +996,6 @@ The core evidence-based mood stabilizer set includes **lithium, valproate, lamot
 - Valproate is emphasized.
 ##### Antidepressants
 - antidepressants are not mood stabilizers and should not be used alone because they may precipitate mania.
-Antidepressant monotherapy is generally avoided in bipolar I disorder because risk of switching/mood destabilization. In selected patients, an antidepressant may be used **adjunctively with a mood stabilizer/antipsychotic** after individual risk assessment.
 #### 38. Lithium
 ##### Pharmacokinetics
 | Parameter  |                                                                    |
@@ -1032,6 +1028,9 @@ High-risk situations include:
 - Normal saline / NaCl hydration
 - Mannitol
 - Amiloride
+	- blocks ENaC
+	- Lithium enters primary cells through ENaC and disturb ADH functioning causing free water loss and further aggravating lithium accumulation in body
+	- Amiloride blocks it and thus, breaks the vicious cycle
 - Thiazides contraindicated
 - Haemodialysis for severe toxicity
 - **Stop lithium** and provide supportive management.
@@ -1040,24 +1039,24 @@ High-risk situations include:
 - **Hemodialysis** is preferred extracorporeal treatment when accepted severity criteria are met.
 - Mannitol is not a routine antidote for lithium poisoning.
 - Amiloride has a role in selected chronic lithium-induced nephrogenic diabetes insipidus, **not as the standard acute antidote for lithium poisoning**.
-##### ECG effects
+###### ECG effects
 - T-wave flattening/inversion.
 - Increased RR interval (slower SA-node activity).
 - Increased PR interval (slower AV conduction).
 - QT shortening slide.
 ECG changes are often nonspecific and can occur with lithium toxicity. ECG monitoring is important in significant poisoning, but diagnosis and severity assessment should be based on the full clinical picture.
 ##### Lithium Adverse Effects
-##### Common / important
+###### Common / important
 - Fine tremor
 - GI upset: nausea, vomiting, diarrhoea
 - Weight gain
-- Leukocytosis
-- Hypothyroidism / goitre
-- Nephrogenic diabetes insipidus → polyuria/polydipsia
+- ==Leukocytosis==
+- ==Hypothyroidism== / goitre
+- ==Nephrogenic diabetes insipidus → polyuria/polydipsia==
 - Acneiform rash
 - Cognitive/neurotoxicity at higher concentrations
 - Ataxia, tinnitus, coarse tremor, seizures in toxicity
-##### Mechanism of nephrogenic DI in
+###### Mechanism of nephrogenic DI in
 ```text
 Lithium
  ↓
@@ -1068,18 +1067,17 @@ Reduced water reabsorption
 Polyuria / nephrogenic DI
 ```
 Lithium enters collecting-duct principal cells and interferes with the vasopressin-mediated cAMP pathway, producing nephrogenic DI in susceptible patients.
-##### Thyroid
+###### Thyroid
 Inhibits T3/T4 synthesis → ↑TSH.
-Lithium can inhibit thyroid hormone synthesis/release and increase the risk of hypothyroidism/goitre. Hypothyroidism can generally be treated while lithium is continued when lithium remains clinically indicated.
-##### Pregnancy
+###### Pregnancy
 Lithium is linked to Ebstein anomaly.
 First-trimester lithium exposure has been associated with an increased risk of cardiac malformations, historically emphasizing **Ebstein anomaly**, but the absolute risk is much lower than early historical estimates. Lithium may still be used in pregnancy for selected patients with specialist risk-benefit assessment and fetal monitoring.
-##### Breastfeeding
+###### Breastfeeding
 “Contraindicated during breastfeeding.”
 Lithium can reach breast milk and may expose the infant to clinically significant concentrations. Breastfeeding is therefore **not a simple blanket rule across all contexts**; it requires individualized specialist assessment, infant monitoring and consideration of alternative treatment.
-##### Surgery
+###### Surgery
 “Stop lithium 24 hours before surgery.”
-Perioperative lithium management is individualized according to surgery, renal status, fluid balance, interacting medications and anaesthesia. A universal “24-hour” rule is too simplistic.
+
 ### 41. Antidepressants — Core Classification
 The final pages classify antidepressants by increasing serotonin and/or norepinephrine signalling.
 #### Major classes
