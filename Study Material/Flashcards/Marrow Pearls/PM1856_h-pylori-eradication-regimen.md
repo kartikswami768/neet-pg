@@ -21,7 +21,7 @@ tags:
 
 Pearl ID: PM1856
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "H. pylori eradication regimen" (PM1856)?**
 
