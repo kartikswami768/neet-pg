@@ -19,7 +19,7 @@ tags:
 
 Pearl ID: PM1518
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Indications of Ivermectin" (PM1518)?**
 
