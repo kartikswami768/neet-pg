@@ -20,7 +20,7 @@ tags:
 
 Pearl ID: PM1484
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Factors affecting prolactin secretion" (PM1484)?**
 
