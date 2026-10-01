@@ -20,7 +20,7 @@ tags:
 
 Pearl ID: PM0514
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Effects of opioid on its various receptors" (PM0514)?**
 
