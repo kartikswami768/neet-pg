@@ -1113,11 +1113,11 @@ Inhibit monoamine oxidase
 Reduced intracellular breakdown of monoamines
 ```
 #### 42. SSRIs
-##### 42.1 Drugs
+##### Drugs
 - Fluoxetine
 - Fluvoxamine
 - Paroxetine
-- Dapoxetine
+- ==Dapoxetine==
 - Escitalopram
 - Citalopram
 - Sertraline
@@ -1130,8 +1130,7 @@ Reduced intracellular breakdown of monoamines
 - Phobias
 - Premenstrual symptoms/disorder
 - Anorexia/bulimia are surrounding psychiatry framework.
-- SSRI listed for premature ejaculation.
-SSRIs are first-line pharmacotherapy for many depressive and anxiety disorders. Certain SSRIs, particularly **paroxetine or sertraline**, have evidence/approval depending on the specific disorder and jurisdiction. Dapoxetine is used for premature ejaculation in some countries.
+- Dapoxetine (not Duloxetine) →  premature ejaculation.
 ##### 42.2 SSRI adverse effects
 - Nausea/vomiting — most common
 - Reduced secretions → dry eyes/mouth (slide wording)
@@ -1139,25 +1138,24 @@ SSRIs are first-line pharmacotherapy for many depressive and anxiety disorders. 
 - Vivid dreams
 - Sexual dysfunction: anorgasmia, delayed ejaculation
 - SSRI = DOC for premature ejaculation
-Important adverse effects also include headache, insomnia or somnolence, sexual dysfunction, and **hyponatraemia/SIADH**, particularly in susceptible older adults. Serotonin syndrome can occur, especially with interacting serotonergic drugs.
 ##### 43. SSRI Half-Life / Discontinuation
 - Longest acting: **fluoxetine**.
 - Shortest: paroxetine (SSRI), venlafaxine (SNRI).
 - Highest discontinuation risk: paroxetine, venlafaxine.
 - Lowest discontinuation risk: fluoxetine.
-These are broadly useful pharmacokinetic/withdrawal teaching points. Fluoxetine's long half-life and active metabolite make discontinuation symptoms less frequent than with short half-life drugs. Paroxetine and venlafaxine are well known for more prominent discontinuation symptoms if stopped abruptly.
+
 ##### 44. SSRI Use in Pregnancy
 “Antidepressants in pregnancy → pulmonary artery hypertension in fetus.”
 Late-pregnancy SSRI exposure has been associated in observational studies with a **small absolute increase in persistent pulmonary hypertension newborn (PPHN)**. This should not be expressed as an inevitable fetal complication. Pregnancy prescribing requires balancing maternal relapse risk, untreated illness and fetal/neonatal risks.
 #### 45. SNRIs and NRIs
 ##### 45.1 SNRIs
-- Venlafaxine
+- ==Venlafaxine==
 - Milnacipran
-- Duloxetine
+- ==Duloxetine==
 ###### Duloxetine uses
 - Diabetic neuropathy
 - Stress urinary incontinence is listed.
-Duloxetine is established for major depressive disorder and several chronic pain/neuropathic pain indications; it has also been used for stress urinary incontinence in certain jurisdictions.
+> Duloxetine can sound like an SSRI name, especially, Dapoxetine. But it is not. And this was a pyq in NEET.
 ##### 45.2 NRI
 **Atomoxetine** is listed as an NRI and associated with ADHD + Tourette syndrome.
 Atomoxetine is a **selective norepinephrine reuptake inhibitor approved for ADHD**. It is not an antidepressant first-line drug. Any Tourette-related use is context-specific rather than a core stand-alone indication.
