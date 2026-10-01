@@ -23,12 +23,12 @@ type: Marrow
 
 **First-line drugs for drug-susceptible TB**
 
-| Drug | Symbol | High-yield pharmacological point |
-|---|---|---|
-| Isoniazid | **H** | Prodrug; inhibits mycolic-acid synthesis after activation by KatG |
-| Rifampicin | **R** | Inhibits bacterial DNA-dependent RNA polymerase; strong CYP/P-gp inducer |
-| Pyrazinamide | **Z** | Prodrug; active against intracellular/slowly replicating organisms; important hepatotoxicity + hyperuricaemia |
-| Ethambutol | **E** | Inhibits arabinosyl transferase; **bacteriostatic**; optic toxicity |
+| Drug         | Symbol | High-yield pharmacological point                                                                                      |
+| ------------ | ------ | --------------------------------------------------------------------------------------------------------------------- |
+| Isoniazid    | **H**  | ==Prodrug==; inhibits mycolic-acid synthesis after activation by KatG                                                 |
+| Rifampicin   | **R**  | Inhibits bacterial DNA-dependent RNA polymerase;==strong CYP/P-gp inducer==                                           |
+| Pyrazinamide | **Z**  | ==Prodrug==; active against intracellular/slowly replicating organisms; important hepatotoxicity + ==hyperuricaemia== |
+| Ethambutol   | **E**  | Inhibits arabinosyl transferase; **bacteriostatic**; ==optic toxicity==                                               |
 
 - HRZE are given orally.
 - **Streptomycin (S)** is no longer a routine first-line drug for drug-susceptible TB, but injectable aminoglycosides retain selected specialist roles.
