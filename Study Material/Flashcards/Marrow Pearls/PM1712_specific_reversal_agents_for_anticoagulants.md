@@ -17,7 +17,7 @@ tags:
 
   Pearl ID: PM1712
 
-  #flashcards
+  #review
 
   **What are the key facts in the Marrow Pearl "Specific reversal agents for anticoagulants" (PM1712)?**
 
