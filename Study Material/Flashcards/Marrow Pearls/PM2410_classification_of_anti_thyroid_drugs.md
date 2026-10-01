@@ -19,7 +19,7 @@ tags:
 
 Pearl ID: PM2410
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Classification of Anti-Thyroid Drugs" (PM2410)?**
 
