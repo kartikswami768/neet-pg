@@ -606,7 +606,7 @@ Adverse effects: **HEADS**
 #### 16.4 Oxcarbazepine vs carbamazepine
 
 Both of them have similar adverse effects as listed above.
-But Hyponatremia may occur more commonly with oxcarbazepin.
+But ==Hyponatremia== may occur more commonly with oxcarbazepin.
 Both have high risk of 
 	- leukopenia, 
 	- aplastic anemia, 
