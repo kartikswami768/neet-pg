@@ -20,7 +20,7 @@ tags:
 
 Pearl ID: PM1516
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Classification of antiretroviral drugs" (PM1516)?**
 
