@@ -21,7 +21,7 @@ tags:
 
 Pearl ID: PM0340
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Pharmacological treatment of psychosis" (PM0340)?**
 
