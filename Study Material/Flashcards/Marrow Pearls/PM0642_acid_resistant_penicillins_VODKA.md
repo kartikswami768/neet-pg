@@ -19,7 +19,7 @@ tags:
 
 Pearl ID: PM0642
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Acid resistant penicillins: mnemonic "VODKA"" (PM0642)?**
 
