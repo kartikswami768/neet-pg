@@ -7,8 +7,8 @@ exam:
   - "NEET-PG"
   - "INI-CET"
 source_notes:
-  - "11_Antimicrobials_Part_1_cleaned.md"
-  - "12_Antimicrobials_Part_2_cleaned.md"
+  - "11_Antimicrobials_Part_1_organized.md"
+  - "12_Antimicrobials_Part_2_organized.md"
 format: "Obsidian Spaced Repetition — Question::Answer"
 pyq_focus: "PYQ-oriented active recall based on recurrent NEET-PG/INI-CET themes; questions are paraphrased and are not verbatim reproductions of past papers."
 tags:
