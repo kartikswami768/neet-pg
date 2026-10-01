@@ -19,7 +19,7 @@ tags:
 
 Pearl ID: PM2339
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Mechanism of action of Antifungal drugs" (PM2339)?**
 
