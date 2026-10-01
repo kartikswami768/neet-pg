@@ -21,7 +21,7 @@ tags:
 
 **Pearl ID:** `PM2379`
 
-#flashcards/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
+#review/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
 
 What are the key facts in the Marrow Pearl **"Drug regulatory schedules 1940: (2016 update)"** (PM2379)?
 ?
