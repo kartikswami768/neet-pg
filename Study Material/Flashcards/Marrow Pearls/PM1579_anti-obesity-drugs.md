@@ -27,7 +27,7 @@ tags:
 
 **Pearl ID:** `PM1579`
 
-#flashcards/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
+#review/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
 
 What are the key facts in the Marrow Pearl **"Anti-obesity drugs"** (PM1579)?
 ?
