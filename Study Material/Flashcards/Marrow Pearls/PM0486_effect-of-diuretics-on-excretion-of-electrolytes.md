@@ -20,7 +20,7 @@ tags:
 
 Pearl ID: PM0486
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Effect of diuretics on excretion of electrolytes" (PM0486)?**
 
