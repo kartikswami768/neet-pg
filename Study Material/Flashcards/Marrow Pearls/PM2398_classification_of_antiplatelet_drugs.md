@@ -19,7 +19,7 @@ tags:
 
   Pearl ID: PM2398
 
-  #flashcards
+  #review
 
   **What are the key facts in the Marrow Pearl "Classification of anti-platelet drugs" (PM2398)?**
 
