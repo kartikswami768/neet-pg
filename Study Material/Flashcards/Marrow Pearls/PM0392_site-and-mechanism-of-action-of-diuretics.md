@@ -19,7 +19,7 @@ tags:
 
 Pearl ID: PM0392
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Site and mechanism of action of diuretics" (PM0392)?**
 
