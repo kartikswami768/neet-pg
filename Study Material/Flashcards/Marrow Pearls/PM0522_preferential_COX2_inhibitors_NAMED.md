@@ -17,7 +17,7 @@ tags:
 
 Pearl ID: PM0522
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Preferential COX-2 inhibitors: mnemonic "NAMED"" (PM0522)?**
 
