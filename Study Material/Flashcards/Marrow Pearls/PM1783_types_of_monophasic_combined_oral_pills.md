@@ -22,7 +22,7 @@ tags:
 
 Pearl ID: PM1783
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Types of monophasic combined oral pills" (PM1783)?**
 
