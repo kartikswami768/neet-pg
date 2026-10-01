@@ -20,7 +20,7 @@ tags:
 
 Pearl ID: PM1163
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "CNS Stimulants and Depressants" (PM1163)?**
 
