@@ -26,7 +26,7 @@ tags:
 
 **Pearl ID:** `PM1224`
 
-#flashcards/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
+#review/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
 
 What are the key facts in the Marrow Pearl **"Parenteral drugs used in hypertensive emergencies"** (PM1224)?
 ?
