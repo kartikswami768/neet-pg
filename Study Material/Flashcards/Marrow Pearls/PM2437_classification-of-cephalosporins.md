@@ -17,7 +17,7 @@ tags:
 
 Pearl ID: PM2437
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Classification of cephalosporins" (PM2437)?**
 
