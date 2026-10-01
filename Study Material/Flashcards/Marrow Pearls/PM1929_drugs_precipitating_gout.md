@@ -19,7 +19,7 @@ tags:
 
   Pearl ID: PM1929
 
-  #flashcards
+  #review
 
   **What are the key facts in the Marrow Pearl "Drugs precipitating Gout" (PM1929)?**
 
