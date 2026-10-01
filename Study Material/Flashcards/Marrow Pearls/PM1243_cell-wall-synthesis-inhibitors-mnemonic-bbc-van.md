@@ -19,7 +19,7 @@ tags:
 
 Pearl ID: PM1243
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Cell wall synthesis inhibitors (mnemonic "BBC Van")" (PM1243)?**
 
