@@ -19,7 +19,7 @@ tags:
 
   Pearl ID: PM1565
 
-  #flashcards
+  #review
 
   **What are the key facts in the Marrow Pearl "Uses of methotrexate (mnemonic: CANCER)" (PM1565)?**
 
