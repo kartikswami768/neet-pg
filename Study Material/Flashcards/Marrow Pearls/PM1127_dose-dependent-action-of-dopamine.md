@@ -22,7 +22,7 @@ tags:
 
 **Pearl ID:** `PM1127`
 
-#flashcards/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
+#review/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
 
 What are the key facts in the Marrow Pearl **"Dose dependent action of dopamine"** (PM1127)?
 ?
