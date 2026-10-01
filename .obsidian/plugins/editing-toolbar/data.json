@@ -425,8 +425,8 @@
   "viewTypeSettings": {},
   "appearanceByStyle": {
     "top": {
-      "toolbarBackgroundColor": "#F8F9FA",
-      "toolbarIconColor": "#6B7280",
+      "toolbarBackgroundColor": "#252526",
+      "toolbarIconColor": "#949AA6",
       "toolbarIconSize": 16,
       "aestheticStyle": "custom"
     },
@@ -449,8 +449,8 @@
       "aestheticStyle": "default"
     }
   },
-  "toolbarBackgroundColor": "#F8F9FA",
-  "toolbarIconColor": "#6B7280",
+  "toolbarBackgroundColor": "#252526",
+  "toolbarIconColor": "#949AA6",
   "toolbarIconSize": 16,
   "useCurrentLineForRegex": false,
   "ai": {

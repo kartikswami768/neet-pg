@@ -7,9 +7,6 @@ type: Marrow
 
 ## Mycobacterial Infections
 
-> **India / NTEP is the primary framework for these notes.**
-> **WHO / Global context** is retained for international clinical awareness and is explicitly labeled when it differs from or is outside the Indian programme framework.
-
 ### TB overview, first-line therapy & resistance
 
 #### 1. MYCOBACTERIAL INFECTIONS
