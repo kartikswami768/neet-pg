@@ -20,7 +20,7 @@ tags:
 
 Pearl ID: PM0515
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "High Yield Points in Opioids" (PM0515)?**
 
