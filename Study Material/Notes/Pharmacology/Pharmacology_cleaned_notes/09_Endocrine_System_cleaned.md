@@ -814,7 +814,7 @@ Major pituitary action:
 ### 44. Other Related Drugs
 #### Teduglutide
 - ==GLP-2 analogue==.
-- Promotes intestinal adaptation/growth.
+- Promotes intestinal adaptation/growth and thus:
 - Used in **short bowel syndrome** requiring intestinal rehabilitation support.
 #### Lutetium-177 dotatate
 - “Radioactive octreotide.”
