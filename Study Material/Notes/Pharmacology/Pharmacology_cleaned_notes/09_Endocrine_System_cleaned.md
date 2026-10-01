@@ -495,9 +495,6 @@ They reduce peripheral T4→T3 conversion to varying degrees/mechanisms.
 ##### Reasoning
 - PTU has lower risk characteristic embryopathy associated with first-trimester methimazole exposure but carries hepatotoxicity risk.
 - Methimazole is generally preferred after the first trimester because PTU hepatotoxicity is an important concern.
-The American Thyroid Association states that when antithyroid drug therapy is required, **PTU is preferred through the early pregnancy period (commonly through week 16)**, after which switching to methimazole is generally recommended.
-Methimazole exposure in early pregnancy is associated with characteristic congenital anomalies, including **aplasia cutis and choanal/esophageal abnormalities**.
-**Do not memorize The as “PTU is forbidden in 2nd/3rd trimester” in absolute terms:** rather, PTU is usually switched to methimazole after early pregnancy unless a specific clinical reason requires otherwise.
 ### 22. Radioactive Iodine
 #### Drug
 - **Iodine-131 (I-131).**
