@@ -18,7 +18,7 @@ tags:
 
 Pearl ID: PM0553
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "PDE inhibitors" (PM0553)?**
 
