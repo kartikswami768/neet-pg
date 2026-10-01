@@ -21,7 +21,7 @@ tags:
 
 Pearl ID: PM0215
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Types of muscle relaxants" (PM0215)?**
 
