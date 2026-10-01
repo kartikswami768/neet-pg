@@ -21,7 +21,7 @@ tags:
 
 Pearl ID: PM1490
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Physiologic effects of thyroid hormone" (PM1490)?**
 
