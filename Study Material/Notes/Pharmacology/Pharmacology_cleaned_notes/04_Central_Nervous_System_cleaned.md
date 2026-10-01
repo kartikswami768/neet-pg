@@ -150,11 +150,11 @@ They can cause misuse, dependence, complex sleep behaviours, residual sedation a
 - Light suppresses melatonin and promotes wakefulness.
 - Melatonin-related drugs mainly reduce sleep latency and are described as producing less distortion of natural sleep architecture than many sedative-hypnotics.
 ##### Drugs
-| Drug | Mechanism / description | Main indication |
-|---|---|---|
-| **Ramelteon** | MT1/MT2 agonist | Jet lag, old-age insomnia, shift-work-related sleep disturbance |
-| **Tasimelteon** | Melatonin receptor agonist | Circadian rhythm disorder, particularly in totally blind patients |
-| **Agomelatine** | MT1/MT2 agonist + 5-HT2C antagonist | Depression + sleep/circadian symptoms |
+| Drug            | Mechanism / description             | Main indication                                                       |
+| --------------- | ----------------------------------- | --------------------------------------------------------------------- |
+| **Ramelteon**   | MT1/MT2 agonist                     | Jet lag, old-age insomnia, ==shift-work==-related sleep disturbance   |
+| **Tasimelteon** | Melatonin receptor agonist          | Circadian rhythm disorder, particularly in totally ==blind patients== |
+| **Agomelatine** | MT1/MT2 agonist + 5-HT2C antagonist | ==Depression== + sleep/circadian symptoms                             |
 Ramelteon and tasimelteon act at melatonin receptors. Agomelatine combines melatonergic agonism with 5-HT2C antagonism. The exact indications and approval status vary by country.
 
 #### 3.3 Other insomnia medicines
