@@ -17,7 +17,7 @@ tags:
 
   Pearl ID: PM1082
 
-  #flashcards
+  #review
 
   **What are the key facts in the Marrow Pearl "Monoclonal antibodies nomenclature" (PM1082)?**
 
