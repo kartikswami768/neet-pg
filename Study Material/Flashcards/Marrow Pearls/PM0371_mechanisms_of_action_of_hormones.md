@@ -19,7 +19,7 @@ tags:
 
 Pearl ID: PMO371
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Mechanisms of Action of Hormones" (PMO371)?**
 
