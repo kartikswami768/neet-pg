@@ -21,7 +21,7 @@ tags:
 
 Pearl ID: PM0123
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Adverse effects of Phenytoin" (PM0123)?**
 
