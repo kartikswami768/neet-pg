@@ -17,7 +17,7 @@ tags:
 
 Pearl ID: PMO752
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Classification of Bisphosphonates (mainly based on potency)" (PMO752)?**
 
