@@ -19,7 +19,7 @@ tags:
 
   Pearl ID: PM0296
 
-  #flashcards
+  #review
 
   **What are the key facts in the Marrow Pearl "Treatment Ladder for Psoriasis" (PM0296)?**
 
