@@ -18,7 +18,7 @@ tags:
 
 Pearl ID: PM1393
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Cytochrome enzyme inducing potency of Rifamycins" (PM1393)?**
 
