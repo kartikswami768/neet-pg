@@ -17,7 +17,7 @@ tags:
 
   Pearl ID: PM1787
 
-  #flashcards
+  #review
 
   **What are the key facts in the Marrow Pearl "FDA approved drugs in 2017" (PM1787)?**
 
