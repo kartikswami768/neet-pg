@@ -110,12 +110,12 @@ tags:
 
 ## Insulin
 
-| Duration | Insulin / features | Side effects / notes |
-|---|---|---|
-| **Shortest & fastest acting** | Afrezza (inhalational); taken before food; use: post-prandial hyperglycemia (PPH) | Cough; ↑ risk of lung cancer; C/i in asthma, smokers |
-| **Short acting** | Route: S/C (most common site: abdomen); use: PPH. Regular: slow acting (60 min before food). Glulisine, Aspart, Lispro are fast acting monomerics (15 min before food). | Hypoglycemia (↑ risk with short acting); hypokalemia; lipodystrophy (prevent by rotating injection site) |
-| **Intermediate acting** | Route: S/C; use: maintenance. NPH (cloudy white); Lente (30% short acting semilente/powder + 70% long acting ultralente/crystal); frequency: BD/TDS | — |
-| **Long acting** | Route: S/C; use: maintenance. Glargine: white crystals on combining with other insulin; Detemir; Degludec: longest acting; frequency: OD/BD | — |
+| Duration                      | Insulin / features                                                                                                                                                                                  | Side effects / notes                                                                                     |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **Shortest & fastest acting** | Afrezza (inhalational); taken before food; use: post-prandial hyperglycemia (PPH)                                                                                                                   | Cough; ↑ risk of lung cancer; C/i in asthma, smokers                                                     |
+| **Short acting**              | Route: S/C (most common site: abdomen); use: PPH. <br><br>==Regular==: slow acting (60 min before food). <br><br>Glulisine, ==Aspart==, ==Lispro== are fast acting monomerics (15 min before food). | Hypoglycemia (↑ risk with short acting); hypokalemia; lipodystrophy (prevent by rotating injection site) |
+| **Intermediate acting**       | Route: S/C; use: maintenance. <br><br>==NPH== (cloudy white); <br><br>==Lente== (30% short acting semilente/ powder + 70% long acting ultralente/ crystal); frequency: BD/TDS                       | —                                                                                                        |
+| **Long acting**               | Route: S/C; use: maintenance. <br><br>==Glargine==: white crystals on combining with other insulin; <br><br>Detemir; <br><br>==Degludec==: longest acting; frequency: OD/BD                         | —                                                                                                        |
 
 ## Amylin Analog
 
