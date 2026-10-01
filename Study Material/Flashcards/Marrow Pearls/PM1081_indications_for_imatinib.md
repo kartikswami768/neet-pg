@@ -19,7 +19,7 @@ tags:
 
   Pearl ID: PM1081
 
-  #flashcards
+  #review
 
   **What are the key facts in the Marrow Pearl "Indications for Imatinib" (PM1081)?**
 
