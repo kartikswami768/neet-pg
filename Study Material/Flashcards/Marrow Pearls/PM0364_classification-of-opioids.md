@@ -20,7 +20,7 @@ tags:
 
 Pearl ID: PM0364
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Classification of Opioids" (PM0364)?**
 
