@@ -17,7 +17,7 @@ tags:
 
 Pearl ID: PM0910
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Topoisomerase Inhibitors" (PM0910)?**
 
