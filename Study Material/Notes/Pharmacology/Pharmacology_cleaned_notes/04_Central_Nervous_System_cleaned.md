@@ -656,8 +656,7 @@ Mechanisms:
 
 ## Parkinson Disease and Other Movement / Neurodegenerative Disorders
 
-### 19. Parkinson Disease
-#### 19.1 Pathophysiology
+### 19.1 Pathophysiology
 - Neurodegeneration of dopaminergic neurons **substantia nigra pars compacta** basal ganglia.
 - MPTP is listed as a toxin that can cause parkinsonism.
 MPTP is converted to MPP⁺, which selectively damages nigrostriatal dopaminergic neurons and produces a parkinsonian syndrome.
@@ -706,14 +705,15 @@ Levodopa **often improves Parkinsonian tremor**, although tremor can be less res
 Cause:
 - D2-receptor blockade.
 Common agents:
-- Haloperidol
-- Risperidone
-- Metoclopramide
+	- Haloperidol
+	- Risperidone
+	- Metoclopramide
+
 Treatment listed:
-- Trihexyphenidyl / benzhexol = DOC
-- Biperiden
-- Benztropine
-- Promethazine
+	- Trihexyphenidyl / benzhexol = DOC
+	- Biperiden
+	- Benztropine
+	- Promethazine
 The first step is to **reduce/stop the offending drug or switch to a lower-EPS alternative when clinically appropriate**. Short-term anticholinergics or amantadine can be used in selected patients. Anticholinergics are less desirable in older adults because of cognitive and anticholinergic adverse effects.
 ### 22. Other Drugs for Parkinson Disease
 #### 22.1 MAO-B inhibitors
