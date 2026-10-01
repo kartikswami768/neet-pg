@@ -20,7 +20,7 @@ tags:
 
 **Pearl ID:** `PM2365`
 
-#flashcards/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
+#review/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
 
 What are the key facts in the Marrow Pearl **"Drugs which need Therapeutic Drug Monitoring (TDM)"** (PM2365)?
 ?
