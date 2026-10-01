@@ -20,7 +20,7 @@ tags:
 
 Pearl ID: PM0241
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "High yield in muscle relaxants" (PM0241)?**
 
