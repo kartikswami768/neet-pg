@@ -655,7 +655,7 @@ Major risks include neural-tube defects and neurodevelopmental adverse outcomes.
 Mechanisms:
 	- Blocks sodium Channel
 	- Enhances GABA
-	- Dampens Glutamate
+	- Dampens Glutamate (AMPA)
 	- Carbonic anhydrase inhibition.
 - Topiramate causes weight loss and is listed as an anti-obesity drug.
 - **Adverse effects:** 
