@@ -17,7 +17,7 @@ tags:
 
   Pearl ID: PM0605
 
-  #flashcards
+  #review
 
   **What are the key facts in the Marrow Pearl "Factor Xa: IIa inhibition activity of antithrombin activators" (PM0605)?**
 
