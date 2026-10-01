@@ -21,7 +21,7 @@ tags:
 
 Pearl ID: PM2418
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Actions of antipsychotic drugs" (PM2418)?**
 
