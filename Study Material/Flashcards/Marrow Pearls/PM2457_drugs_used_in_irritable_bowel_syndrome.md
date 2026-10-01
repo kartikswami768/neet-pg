@@ -19,7 +19,7 @@ tags:
 
   Pearl ID: PM2457
 
-  #flashcards
+  #review
 
   **What are the key facts in the Marrow Pearl "Drugs used in irritable bowel syndrome (IBS)" (PM2457)?**
 
