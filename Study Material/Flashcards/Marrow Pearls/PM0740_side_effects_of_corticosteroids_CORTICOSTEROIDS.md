@@ -18,7 +18,7 @@ tags:
 
 Pearl ID: PMO740
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Side effects of Corticosteroids: mnemonic "CORTICOSTEROIDS"" (PMO740)?**
 
