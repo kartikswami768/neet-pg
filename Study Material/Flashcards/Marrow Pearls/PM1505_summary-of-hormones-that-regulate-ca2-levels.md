@@ -24,7 +24,7 @@ tags:
 
 Pearl ID: PM1505
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Summary of hormones that regulate Ca2+ levels" (PM1505)?**
 
