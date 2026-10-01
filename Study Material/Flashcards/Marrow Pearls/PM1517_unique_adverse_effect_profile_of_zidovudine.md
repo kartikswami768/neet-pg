@@ -17,7 +17,7 @@ tags:
 
   Pearl ID: PM1517
 
-  #flashcards
+  #review
 
   **What are the key facts in the Marrow Pearl "Unique adverse effect profile of Zidovudine" (PM1517)?**
 
