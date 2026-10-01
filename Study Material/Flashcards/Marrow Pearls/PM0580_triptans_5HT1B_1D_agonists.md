@@ -17,7 +17,7 @@ tags:
 
 Pearl ID: PM0580
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Triptans - 5HT 1B/1D agonists" (PM0580)?**
 
