@@ -819,11 +819,11 @@ This is a teaching framework, not a complete diagnostic or treatment algorithm.
 | 2nd generation / atypical | “5-HT2 > D2” plus other actions | 5-HT2A antagonism + variable D2 antagonism/partial agonism |
 “5-HT2A blockade + D2 modulation” is a better general description of many atypicals, but the individual receptor profiles vary substantially.
 #### 28. Typical Antipsychotics — Classes
-| Class | Suffix / clue in | Examples |
-|---|---|---|
-| Phenothiazines | `-azine` | Chlorpromazine, thioridazine, fluphenazine, perphenazine, prochlorperazine |
-| Thioxanthenes | `-thix-` | Thiothixene, flupenthixol, zuclopenthixol |
-| Butyrophenones | `-ridol` | Haloperidol, droperidol, benperidol |
+| Class          | Suffix / clue in | Examples                                                                           |
+| -------------- | ---------------- | ---------------------------------------------------------------------------------- |
+| Phenothiazines | `-azine`         | ==Chlorpromazine==, thioridazine, ==fluphenazine==, perphenazine, prochlorperazine |
+| Thioxanthenes  | `-thix-`         | Thiothixene, flupenthixol, zuclopenthixol                                          |
+| Butyrophenones | `-ridol`         | ==Haloperidol==, droperidol, benperidol                                            |
 Penfluridol is not best classified as a classic butyrophenone; the slide grouping is an exam-oriented naming shortcut.
 ##### Chlorpromazine
 DOC for intractable hiccups.
@@ -834,20 +834,20 @@ Thioridazine has severe QT/proarrhythmic and retinal toxicity concerns and is no
 #### 29. Atypical Antipsychotics
 ##### 29.1 Examples
 ###### “-PINE” group
-- Clozapine
-- Olanzapine
+- ==Clozapine==
+- ==Olanzapine==
 - Zotepine
 - Asenapine
 - Quetiapine
 ###### “-DONE” group
 - Ziprasidone
-- Risperidone
-- Iloperidone
+- ==Risperidone==
+- ==Iloperidone==
 - Sertindole
 - Paliperidone
 - Lurasidone
 ###### D2/D3 partial agonists
-- Aripiprazole
+- ==Aripiprazole==
 - Brexpiprazole
 ###### D2/D3 antagonists
 - Sulpiride
@@ -900,7 +900,7 @@ Clinical effects:
 - Amenorrhoea
 - Infertility
 - Sexual dysfunction
-Risperidone and paliperidone are particularly associated with prolactin elevation; aripiprazole can lower prolactin because of partial D2 agonism.
+==Risperidone== and ==paliperidone== are particularly associated with prolactin elevation; ==aripiprazole== can lower prolactin because of partial D2 agonism.
 ##### 32.2 Extrapyramidal symptoms (EPS)
 Mechanism:
 ```text
@@ -937,9 +937,9 @@ Treatment listed:
 - Supportive measures
 Core management is:
 1. Stop the offending dopamine antagonist.
-2. Aggressive supportive care: cooling, fluids, electrolyte/renal management, monitoring.
-3. Treat complications such as rhabdomyolysis, renal failure and arrhythmias.
-4. Dantrolene and/or bromocriptine may be considered in severe cases.
+2. Aggressive ==supportive care==: cooling, fluids, electrolyte/renal management, monitoring.
+3. ==Treat complications== such as rhabdomyolysis, renal failure and arrhythmias.
+4. Dantrolene and/or bromocriptine ==may be considered in severe cases.==
 ###### 35. Dantrolene and Malignant Hyperthermia
 - Dantrolene is a muscle relaxant.
 - Ryanodine receptor (RyR1) antagonist.
