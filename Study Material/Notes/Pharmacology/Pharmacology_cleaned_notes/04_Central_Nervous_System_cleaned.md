@@ -553,12 +553,12 @@ Brivaracetam is a high-affinity SV2A ligand related pharmacologically to levetir
 | Neurosteroid      | **Ganaxolone**         | OCR reads “Garnoxolone”                                                                 |
 ### 16. Antiseizure Drug Therapeutic Drug Monitoring (TDM)
 #### 16.1 Therapeutic ranges
-| Drug | therapeutic range |
-|---|---:|
-| Phenytoin | **10–20 µg/mL** |
-| Valproate | **50–100 µg/mL** |
-| Phenobarbital | **15–40 µg/mL** |
-| Carbamazepine | **4–12 µg/mL** |
+| Drug          | therapeutic range |
+| ------------- | ----------------: |
+| Phenytoin     |   **10–20 µg/mL** |
+| Valproate     |  **50–100 µg/mL** |
+| Phenobarbital |   **15–40 µg/mL** |
+| Carbamazepine |    **4–12 µg/mL** |
 These ranges are traditional reference ranges and may vary by laboratory, formulation, indication and patient. Clinical response and toxicity must be interpreted alongside the level.
 #### 16.2 Phenytoin
 - Phenytoin (phenylhydantoin).
@@ -585,14 +585,19 @@ Phenytoin exhibits **capacity-limited nonlinear (Michaelis–Menten) kinetics**.
 HLA-B*1502 is associated with SJS/rash in children.
 HLA-B*15:02 testing is particularly relevant in people with ancestry from populations in which this allele is prevalent, especially before carbamazepine in appropriate settings. Risk is for severe cutaneous reactions including SJS/TEN.
 #### 16.3 Carbamazepine
-Adverse effects:
-- Diplopia
-- Ataxia / cerebellar neurotoxicity
-- Enzyme induction
-- ↑ ADH → dilutional hyponatraemia
+Adverse effects: **HEADS**
+- Hypersensitivity Reaction (like SJS, rash)
 - Hepatotoxicity
+- Hyponatremia (due to ↑ ADH)
+- Eosinophilia, 
+- Enzyme inductions
+- Ataxia / cerebellar neurotoxicity, 
+- ↑ ADH → dilutional hyponatraemia
 - Aplastic anaemia
+- Diplopia
+- Dilutional hyponatremia
 - SJS/rash
+- Splenomegaly
 
 ##### Drug interactions
 - Strong enzyme inducer.
@@ -600,11 +605,18 @@ Adverse effects:
 - Carbamazepine itself is subject to important autoinduction during treatment.
 #### 16.4 Oxcarbazepine vs carbamazepine
 
+Both of them have similar adverse effects as listed above.
+But Hyponatremia may occur more commonly with oxcarbazepin.
+Both have high risk of 
+	- leukopenia, 
+	- aplastic anemia, 
+	- heptoxicity
+	in elderly.
 
-|                 | Oxcarbazepine | Carbamazepine            |
-| --------------- | ------------- | ------------------------ |
-| “More risk” in  | Hyponatraemia | Stevens–Johnson syndrome |
-| “Avoided in” in | Old age       | Children                 |
+|                 | Oxcarbazepine | Carbamazepine |
+| --------------- | ------------- | ------------- |
+| “More risk” of  | Hyponatraemia | Rash          |
+| “Avoided in” in | Old age       | Children      |
 The “avoid children” entry is not a valid general rule: carbamazepine is widely used in children for selected focal epilepsies. Oxcarbazepine is particularly associated with **hyponatraemia**. Both drugs can cause serious cutaneous reactions, and carbamazepine has particularly strong HLA-associated SJS/TEN precautions in certain ancestry groups.
 #### Eslicarbazepine
 Prodrug; active form described as oxcarbazepine.
@@ -878,12 +890,12 @@ QT prolongation is drug-specific and dose-/risk-factor-dependent. Ziprasidone an
 - Intranasal: loxapine.
 - Sublingual: asenapine.
 ##### Depot examples
-| Typical depot | Atypical depot |
-|---|---|
-| Haloperidol | Paliperidone |
-| Fluphenazine | Aripiprazole |
-| Zuclopenthixol | Risperidone |
-| Perphenazine | Olanzapine |
+| Typical depot  | Atypical depot |
+| -------------- | -------------- |
+| Haloperidol    | Paliperidone   |
+| Fluphenazine   | Aripiprazole   |
+| Zuclopenthixol | Risperidone    |
+| Perphenazine   | Olanzapine     |
 Long-acting injectable options vary by formulation and country. The classic “Z technique” is an intramuscular injection technique intended to reduce medication tracking into subcutaneous tissue; it is not specific to one psychiatric class.
 #### 32. High-Yield Antipsychotic Adverse Effects
 ##### 32.1 Hyperprolactinaemia
