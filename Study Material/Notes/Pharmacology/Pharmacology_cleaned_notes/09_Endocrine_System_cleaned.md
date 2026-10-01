@@ -570,8 +570,8 @@ The visually organizes osteoporosis drugs into three groups:
 - Calcitonin.
 - Gallium nitrate.
 - Denosumab.
-- Estrogen.
-- Raloxifene.
+- ==Estrogen==.
+- ==Raloxifene==.
 - Cinacalcet.
 ##### B. Stimulate osteoblasts → ↑ bone formation
 - Teriparatide.
@@ -579,7 +579,7 @@ The visually organizes osteoporosis drugs into three groups:
 - Strontium ranelate — noted as not available.
 ##### Newer agent figure
 - **Romosozumab → inhibits sclerostin.**
-##### 26.1 Calcium and vitamin D
+#### 26.1 Calcium and vitamin D
 that osteoporosis drug treatment is used with:
 - Calcium.
 - Vitamin D.
@@ -595,16 +595,18 @@ Nitrogen-containing bisphosphonates inhibit **farnesyl pyrophosphate synthase (F
 Result:
 - Loss of osteoclast function.
 - Osteoclast apoptosis / death.
-- ↓ bone resorption.
+- ==↓ bone resorption.==
 ##### Uses — mnemonic “HOP”
 - **H**ypercalcemia.
 - **O**steoporosis.
 - **P**aget disease.
 ##### Adverse effects — mnemonic “ROOS”
 - **R**enal damage.
-- **O**steonecrosis jaw.
-- **O**Subtrochanteric femur fracture / atypical femoral fracture.
+- ==**O**steonecrosis jaw.==
+- ==**O**Subtrochanteric femur fracture / atypical femoral fracture.==
 - **S** Esophagitis.
+> - Renal Damage may occur with IV Bisphosphonates due to sudden high exposure of renal tubules to bisphosphonates
+> - The highlighted points are because of decreased bone remodelling due to which bone healing of microcracks does not occur.
 ##### High-yield route correction
 zoledronate is:
 - “Once yearly IM.”
@@ -612,12 +614,12 @@ zoledronate is:
 #### 28. Teriparatide
 ##### Pharmacology
 - Synthetic recombinant **PTH fragment**.
-- Given intermittently/pulsatilely.
+- ==Given intermittently/pulsatilely.==
 ##### Key concept
-- **Intermittent PTH exposure → osteoblast stimulation → bone formation.**
+- **Intermittent PTH exposure → osteoblast stimulation → ==bone formation.**==
 - Chronic sustained PTH excess → bone resorption.
 ##### Use
-- Osteoporosis, especially in patients at very high fracture risk.
+- Osteoporosis, especially in patients at very high fracture risk that is severe osteoporosis. They are usually followed by bisphosphonates.
 ##### Adverse effect / warning
 - Osteosarcoma.
 The osteosarcoma warning historically came from rat toxicology. Human postmarketing/epidemiologic data have not demonstrated a causal increase in osteosarcoma. The drug remains reserved for selected patients and contraindications/cautions remain important.
