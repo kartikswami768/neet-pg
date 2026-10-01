@@ -21,7 +21,7 @@ tags:
 
 Pearl ID: PM1560
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Pure opioid antagonists" (PM1560)?**
 
