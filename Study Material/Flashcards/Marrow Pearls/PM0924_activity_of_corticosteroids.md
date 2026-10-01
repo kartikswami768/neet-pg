@@ -17,7 +17,7 @@ tags:
 
 Pearl ID: PMO924
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Activity of corticosteroids" (PMO924)?**
 
