@@ -19,7 +19,7 @@ tags:
 
 Pearl ID: PM2042
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "List of intrinsic drug resistance in bacteria" (PM2042)?**
 
