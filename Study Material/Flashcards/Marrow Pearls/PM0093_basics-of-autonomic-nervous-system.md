@@ -29,7 +29,7 @@ tags:
 
 **Pearl ID:** `PM0093`
 
-#flashcards/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
+#review/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
 
 What are the key facts in the Marrow Pearl **"Basics of autonomic nervous system"** (PM0093)?
 ?
