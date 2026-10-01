@@ -1146,7 +1146,7 @@ Reduced intracellular breakdown of monoamines
 
 ##### 44. SSRI Use in Pregnancy
 “Antidepressants in pregnancy → pulmonary artery hypertension in fetus.”
-Late-pregnancy SSRI exposure has been associated in observational studies with a **small absolute increase in persistent pulmonary hypertension newborn (PPHN)**. This should not be expressed as an inevitable fetal complication. Pregnancy prescribing requires balancing maternal relapse risk, untreated illness and fetal/neonatal risks.
+
 #### 45. SNRIs and NRIs
 ##### 45.1 SNRIs
 - ==Venlafaxine==
@@ -1186,16 +1186,15 @@ TCA = **SNRI + blockade of unwanted receptors**.
 | Cardiac Na⁺ channel | Blockade | QRS/QT widening and ventricular arrhythmia in overdose |
 ###### Imipramine
 Treatment of nocturnal enuresis.
-Imipramine has historical/approved use for nocturnal enuresis in selected settings, although desmopressin and behavioural measures are commonly preferred depending on patient/context because of TCA toxicity risk.
+
 ##### 48. TCA Poisoning
 - TCA overdose is dangerous.
 - Sodium bicarbonate is the antidote.
-In significant TCA poisoning, **IV sodium bicarbonate** is the main specific therapy for sodium-channel blockade with QRS widening/ventricular toxicity, alongside airway, seizure and cardiovascular management.
-##### Why bicarbonate works
+###### Why bicarbonate works
 - Sodium loading → improves fast sodium-channel conduction.
 - Alkalinization reduces the fraction of protonated drug and can improve cardiotoxicity.
 #### 49. MAO Inhibitors
-#### 49.1 Classification
+##### 49.1 Classification
 | Type | Drugs in | Comments |
 |---|---|---|
 | Irreversible | Phenelzine, tranylcypromine | “Hit-and-run” / long-lasting enzyme inhibition |
@@ -1205,16 +1204,14 @@ Moclobemide is a reversible inhibitor of MAO-A used as an antidepressant in some
 #### 50. Atypical Antidepressants
 ##### 50.1 Bupropion
 - NDRI (norepinephrine–dopamine reuptake inhibitor).
-- Anti-smoking.
+- ==Anti-smoking== (used along with Naltrexone)
 - “Anti-obesity.”
-- Adverse effect: seizures.
-Bupropion is an antidepressant and is also used for smoking cessation in appropriate formulations. It lowers seizure threshold; risk rises with predisposition, high doses and certain eating disorders. It is combined with naltrexone in an approved weight-management product in some jurisdictions, but bupropion alone should not simply be memorized as a standard anti-obesity monotherapy.
+- Adverse effect: reduced threshold for seizures.
 ##### 50.2 Trazodone
 “Prolong penile erection → priapism.”
 Trazodone is associated with **priapism**, a rare but important urologic emergency.
 ##### 50.3 Mirtazapine / mianserin
 5-HT2 blockade → sedation; treatment of insomnia + depression.
-Mirtazapine is a noradrenergic and specific serotonergic antidepressant with prominent **H1 antihistamine** effects, which contributes to sedation and appetite/weight gain. It is commonly useful when depression coexists with insomnia or poor appetite.
 ##### 50.4 Buspirone
 5-HT1A agonist → anti-anxiety.
 Buspirone is a 5-HT1A partial agonist used for generalized anxiety disorder. Unlike benzodiazepines, it has a delayed onset and lacks the same dependence/sedative profile.
