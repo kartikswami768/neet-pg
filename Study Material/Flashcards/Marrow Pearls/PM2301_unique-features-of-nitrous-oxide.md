@@ -21,7 +21,7 @@ tags:
 
 Pearl ID: PM2301
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Unique features of Nitrous oxide" (PM2301)?**
 
