@@ -38,12 +38,12 @@ The ADA 2026 pregnancy standard states:
 - GLP-1 receptor agonists and dual GIP/GLP-1 agonists should be discontinued before pregnancy; semaglutide labeling recommends discontinuation well before planned conception because of its long half-life.
 ### 2. Insulin
 #### 2.1 Classification
-| Type | Drugs in | Approximate duration in |
-|---|---|---:|
-| Rapid / ultra-short acting | Lispro, Aspart, Glulisine | ~3 h |
-| Short acting | Regular insulin | ~6 h |
-| Intermediate acting | NPH, Lente | ~12–15 h |
-| Long acting | Detemir, Glargine, Degludec | ~18 / 24 / 42 h |
+| Type                       | Drugs in                    | Approximate duration in |
+| -------------------------- | --------------------------- | ----------------------: |
+| Rapid / ultra-short acting | Lispro, Aspart, Glulisine   |                    ~3 h |
+| Short acting               | Regular insulin             |                    ~6 h |
+| Intermediate acting        | NPH, Lente                  |                ~12–15 h |
+| Long acting                | Detemir, Glargine, Degludec |         ~18 / 24 / 42 h |
 > **Note:** Duration varies substantially with preparation, dose, route, injection site, and patient factors. The values are useful as exam-level approximations rather than exact pharmacokinetic constants.
 ##### Basal–bolus concept
 **Bolus insulin**
@@ -953,6 +953,7 @@ the need for:
 - Glucocorticoid + mineralocorticoid activity in primary adrenal insufficiency.
 ##### DOC concept
 - **Hydrocortisone** provides both glucocorticoid and mineralocorticoid activity.
+- 20 mg/day (10+5+5)
 ##### Clinical nuance
 For chronic **primary** adrenal insufficiency, mineralocorticoid replacement with **fludrocortisone** is often required in addition to glucocorticoid replacement.
 #### 54. Fetal Lung Maturity
@@ -967,12 +968,12 @@ Glucocorticoids:
 - IM injection.
 - “For 2 days.”
 - “In premature delivery.”
-For patients at risk of preterm birth within 7 days:
-- A standard course is recommended at **24+0 to 33+6 weeks**.
-- A single late-preterm course of **betamethasone** may be indicated at **34+0 to 36+6 weeks** in selected patients who have not previously received antenatal corticosteroids.
+- For patients at risk of preterm birth within 7 days:
+	- A standard course is recommended at **24+0 to 33+6 weeks**.
+	- A single late-preterm course of **betamethasone** may be indicated at **34+0 to 36+6 weeks** in selected patients who have not previously received antenatal corticosteroids.
 - Common regimens:
- - Betamethasone 12 mg IM every 24 h × 2 doses.
- - Dexamethasone 6 mg IM every 12 h × 4 doses.
+	- Betamethasone 12 mg IM every 24 h × 2 doses.
+	- Dexamethasone 6 mg IM every 12 h × 4 doses.
 #### 55. Corticosteroid Adverse Effects
 ##### Cushingoid effects
 Long-term use can cause:
