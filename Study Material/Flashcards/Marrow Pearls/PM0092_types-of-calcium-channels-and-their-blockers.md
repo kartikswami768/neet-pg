@@ -18,7 +18,7 @@ tags:
 
 Pearl ID: PM0092
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Types of calcium channels and their blockers" (PM0092)?**
 
