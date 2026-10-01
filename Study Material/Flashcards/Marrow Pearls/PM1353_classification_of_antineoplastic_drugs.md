@@ -17,7 +17,7 @@ tags:
 
   Pearl ID: PM1353
 
-  #flashcards
+  #review
 
   **What are the key facts in the Marrow Pearl "Classification of antineoplastic drugs" (PM1353)?**
 
