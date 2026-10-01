@@ -290,11 +290,11 @@ flowchart TD
 
 ### New drugs for TB
 
-| Drug | MOA | Notes / side effects |
-|---|---|---|
-| **Bedaquiline** | − ATP synthase | QT prolongation; C/i: arrhythmia |
-| **Delamanid** | Nitroimidazole: free-radical production | — |
-| **Pretomanid** | − mycolic acid synthesis | — |
+| Drug            | MOA                                     | Notes / side effects             |
+| --------------- | --------------------------------------- | -------------------------------- |
+| **Bedaquiline** | − ATP synthase                          | QT prolongation; C/i: arrhythmia |
+| **Delamanid**   | Nitroimidazole: free-radical production | —                                |
+| **Pretomanid**  | − mycolic acid synthesis                | —                                |
 
 - Bedaquiline: bactericidal; taken with food (↑ absorption).
 - Pharmacokinetics:

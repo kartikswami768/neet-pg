@@ -60,22 +60,23 @@ type: Marrow
 
 ##### 2.2 Second-line / Group-A drugs
 **Group A — highly effective drugs**
-**Mnemonic from : BELL**
-- **B** - Bedaquiline
-- **L** - Linezolid
-- **L** - Levofloxacin or moxifloxacin
+	**Mnemonic from : BELL**
+	- **B** - Bedaquiline
+	- **L** - Linezolid
+	- **L** - Levofloxacin or moxifloxacin
+
 **Other important drugs**
 - Clofazimine
 - Cycloserine
-- Delamanid
-- Pretomanid
-- Ethionamide
+- ==Delamanid==
+- ==Pretomanid==
+- ==Ethionamide==
 - Thioacetazone
 > **Current classification note:** WHO's modern DR-TB classification and regimen design are more nuanced than the older “Group A/B/C” memorization scheme. is retained because it is useful for examination recall.
 
-##### 2.3 Current shorter DR-TB regimens: important update
+##### 2.3 Current shorter DR-TB regimens: important update #review 
 
-> **India / NTEP vs WHO:** **BPaLM** belongs to the Indian DR-TB framework. The **BDLLfxC** material is **WHO / global context** and is not automatically an NTEP regimen.
+> **India / NTEP vs WHO:** **BPaLM** belongs to the Indian DR-TB framework. 
 
 **BPaLM / BPaL**
 **BPaLM**
@@ -93,12 +94,13 @@ WHO subsequently added a second all-oral 6-month regimen:
 - **L**inezolid
 - **Lfx** = levofloxacin
 - **C**lofazimine
+
 Important points:
 - It is applicable to eligible **MDR/RR-TB or pre-XDR-TB** patients.
 - Fluoroquinolone DST is strongly encouraged and helps determine whether levofloxacin is retained.
 - It is particularly important when a pretomanid-containing regimen cannot be used, including circumstances such as **age <14 years, pregnancy or breastfeeding**, subject to current eligibility rules.
 - Typical duration is 6 months; selected patients may require extension to 9 months according to response and programme criteria.
-> **Correction/Update to :** The simplified “BPaLM for MDR; BPaL for pre-XDR/XDR” pathway is incomplete for current practice. Current WHO guidance includes both BPaLM/BPaL and the newer BDLLfxC-based pathway, with eligibility determined by resistance pattern and patient factors.
+
 
 #### 3. INDIVIDUAL FIRST-LINE ANTI-TB DRUGS
 
@@ -106,8 +108,8 @@ Important points:
 
 ###### Mechanism of action
 - **Prodrug** requiring activation within the mycobacterium.
-- Activated mainly by mycobacterial **catalase-peroxidase (KatG)**.
-- Active metabolites inhibit **mycolic-acid synthesis**, an essential component mycobacterial cell envelope.
+- Activated mainly by mycobacterial ==**catalase-peroxidase (KatG)**==.
+- Active metabolites ==inhibit **mycolic-acid synthesis**==, an essential component mycobacterial cell envelope.
 
 ###### Resistance
 - Important mechanism: mutations affecting **katG** reduce activation of isoniazid.
@@ -116,7 +118,7 @@ Important points:
 ###### Drug properties
 - Undergoes **acetylation** liver.
 - Acetylator phenotype influences drug exposure.
-- Isoniazid inhibits several hepatic CYP enzymes and therefore has clinically relevant interactions.
+- Isoniazid ==inhibits several hepatic CYP enzymes== and therefore has clinically relevant interactions.
 **Acetylator phenotypes**
 
 | Phenotype | Pharmacokinetics | High-yield implication |
