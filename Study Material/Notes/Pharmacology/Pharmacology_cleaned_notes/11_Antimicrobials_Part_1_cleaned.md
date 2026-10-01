@@ -74,11 +74,11 @@ the following drawbacks of Penicillin G:
 
 ##### 3.2 Oral / acid-stable penicillins
 
-| Group | Drugs in | Key point |
-|---|---|---|
-| Oral penicillin | Penicillin V | Acid-stable alternative to Penicillin G |
-| Aminopenicillins | Amoxicillin, ampicillin | Expanded Gram-negative activity compared with natural penicillins |
-| Antistaphylococcal penicillins | Oxacillin, cloxacillin, dicloxacillin, nafcillin | Resistant to staphylococcal penicillinase |
+| Group                          | Drugs in                                         | Key point                                                         |
+| ------------------------------ | ------------------------------------------------ | ----------------------------------------------------------------- |
+| Oral penicillin                | Penicillin V                                     | Acid-stable alternative to Penicillin G                           |
+| Aminopenicillins               | Amoxicillin, ampicillin                          | Expanded Gram-negative activity compared with natural penicillins |
+| Antistaphylococcal penicillins | Oxacillin, cloxacillin, dicloxacillin, nafcillin | Resistant to staphylococcal penicillinase                         |
 
 > **Note:** The groups oxacillin, dicloxacillin, cloxacillin and nafcillin under penicillinase-resistant penicillins. **Methicillin** is historically important for defining MRSA but is no longer used clinically as routine therapy because of toxicity; the note appropriately associates methicillin with interstitial nephritis but it should not be presented as a treatment choice.
 
