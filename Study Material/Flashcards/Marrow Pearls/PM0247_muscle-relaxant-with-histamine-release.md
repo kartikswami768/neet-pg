@@ -20,7 +20,7 @@ tags:
 
 Pearl ID: PM0247
 
-#flashcards
+#review
 
 **What are the key facts in the Marrow Pearl "Muscle relaxant with histamine release." (PM0247)?**
 
