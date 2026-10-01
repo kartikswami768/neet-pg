@@ -477,7 +477,7 @@ High-dose iodide acutely inhibits thyroid hormone release and organification (Wo
 - Useful for short-term control, including thyroid storm.
 - Not generally used as chronic standalone treatment because the gland can “escape” acute inhibitory effect.
 #### 20. Peripheral T4 → T3 Conversion Inhibitors
-the mnemonic **PAID
+3the mnemonic **PAID
 - **P**ropranolol
 - **P**TU
 - **I**odides
