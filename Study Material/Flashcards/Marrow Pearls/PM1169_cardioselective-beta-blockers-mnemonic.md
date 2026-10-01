@@ -22,7 +22,7 @@ tags:
 
 **Pearl ID:** `PM1169`
 
-#flashcards/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
+#review/Pharmacology/Marrow-Pearls/General-Pharmacology-ANS
 
 What are the key facts in the Marrow Pearl **"Cardioselective beta blockers: Mnemonic"** (PM1169)?
 ?
