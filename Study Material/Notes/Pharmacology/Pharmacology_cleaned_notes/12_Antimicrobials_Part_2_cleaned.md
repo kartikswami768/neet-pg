@@ -49,7 +49,7 @@ type: Marrow
 ![[12_Antimicrobials_Part_2_cleaned 2026-10-02 11.09.02.excalidraw]]
 ###### Resistance
 - Important mechanism: mutations affecting **katG** reduce activation of isoniazid.
-
+- inhA mutation
 ###### Drug properties
 - Undergoes **acetylation** liver.
 - Acetylator phenotype influences drug exposure.
