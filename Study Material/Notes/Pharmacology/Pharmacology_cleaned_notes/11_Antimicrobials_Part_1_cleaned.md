@@ -1115,7 +1115,6 @@ Classic example:
 ###### Definition
 > Continued suppression of bacterial growth after the antibiotic concentration falls below the MIC.
 
-a teaching table:
 
 | PK/PD category in | Drugs listed |
 |---|---|
