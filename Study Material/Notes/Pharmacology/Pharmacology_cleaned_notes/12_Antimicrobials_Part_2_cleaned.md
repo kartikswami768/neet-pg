@@ -987,7 +987,7 @@ Mature infectious virions
 | Adult                | Tenofovir + Lamivudine + Dalutegravir |
 | Adult (Tenofovir CI) | Abacavir + Lamivudine + Dalutegravir  |
 | Pre-Exposure P       | Tenofovir + Lamivudine                |
-| PEP (1st line)       | Tenofovir + Lamivudine + LPV/r        |
+| PEP (1st line)       | Tenofovir + Lamivudine + Dalutegravir |
 | PEP (2nd line)       | Tenofovir + Lamivudine + Efavirenz    |
 | PEP (child)          | Zidovudine + Lamivudine + LPV/r       |
 
