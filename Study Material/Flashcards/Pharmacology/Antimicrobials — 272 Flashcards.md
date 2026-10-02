@@ -1,8 +1,8 @@
 ---
-title: "Antimicrobials — 272 Flashcards"
+title: "Antimicrobials — 273 Flashcards"
 subject: "Pharmacology"
 topic: "Antimicrobials"
-card_count: 272
+card_count: 273
 exam:
   - "NEET-PG"
   - "INI-CET"
@@ -19,7 +19,7 @@ tags:
   - INI-CET
 ---
 
-# Antimicrobials — 272 Flashcards
+# Antimicrobials — 273 Flashcards
 
 These cards are built from the supplied Antimicrobials Part 1 and Part 2 notes. Priority is given to mechanisms, drug-of-choice associations, resistance mechanisms, adverse effects, contraindications, interactions, organism–drug pairs, and classic clinical vignettes.
 
@@ -840,3 +840,6 @@ What is the preferred drug for PCP prophylaxis?::Trimethoprim-sulfamethoxazole.
 
 ### AM-272 — Antimicrobials · High-yield integration · comparison · target: ribosome/cell wall/DNA · difficulty: 2
 Match the classic exam targets: β-lactams, vancomycin, tetracyclines, aminoglycosides, macrolides, fluoroquinolones and metronidazole.::β-lactams = PBPs/transpeptidation; vancomycin = D-Ala-D-Ala; tetracyclines = 30S A-site tRNA entry; aminoglycosides = 30S misreading; macrolides = 50S translocation; fluoroquinolones = DNA gyrase/topo IV; metronidazole = DNA damage after reductive activation.
+
+### AM-273 — Antimicrobials · Adverse effects · bone-marrow suppression · difficulty: 2
+Which important antibiotics are associated with bone-marrow suppression/myelosuppression?::**Chloramphenicol** → classic **aplastic anaemia**; **linezolid** → thrombocytopenia ± anaemia/leukopenia, especially with prolonged therapy; **TMP-SMX/sulfonamides** → cytopenias, especially with folate deficiency; **piperacillin/tazobactam** → neutropenia with prolonged therapy; **vancomycin** → neutropenia, usually after prolonged therapy. **Exam core: chloramphenicol + linezolid.**
