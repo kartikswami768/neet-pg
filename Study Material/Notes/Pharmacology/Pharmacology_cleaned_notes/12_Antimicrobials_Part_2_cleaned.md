@@ -984,7 +984,7 @@ Mature infectious virions
 | Situation | Regimen                               |
 | --------- | ------------------------------------- |
 | Adult     | Tenofovir + Lamivudine + Dalutegravir |
-|           |                                       |
+|           | Tenofovir + Lamivudine + LPV/r        |
 
 ##### REVERSE TRANSCRIPTASE INHIBITORS (RTIs)
 ###### 29.1 NRTIs
