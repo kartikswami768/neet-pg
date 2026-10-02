@@ -209,14 +209,15 @@ drugs that retain activity against dormant or slowly replicating bacilli.
 	- **L** - Linezolid
 	- **L** - Levofloxacin or moxifloxacin
 
-| Drug                 | Mechanism                                                        | Adverse Effect                                                                                                                              |
-| -------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Bed**a**q**uilline | **BED** → Decrease energy<br>Inhibits Mycobacterial ATP synthase | Qt prolongation                                                                                                                             |
-| Linezolid            | z → 5<br>50s ribosome → Protein Synthesis                        | PLOTS<br>1. Peripheral Neuropathy<br>2. Lactic Acidosis<br>3. Optic Neuritis<br>4. Serotonin Syndrome<br>5. Thrombocytopenia/BM suppression |
-| Fluoroquinolones     | Inhibits Topoisomerase (II + IV)<br>II → aka Gyrase              | Tendon<br>QT<br>CNS, neuropathy (Can occur)<br>glucose<br>neuropathy<br>C. difficile                                                        |
-| Clofazimin           |                                                                  | Brown Gray Skin pigmentation,QT prolongation                                                                                                |
-| Cycloserine          | Inhibit Peptidoglycan Syntheses                                  | CNS and Psychiatric (major)                                                                                                                 |
-|                      |                                                                  |                                                                                                                                             |
+| Drug                 | Mechanism                                                        | Adverse Effect                                                                                                                                                                                                                                  |
+| -------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Bed**a**q**uilline | **BED** → Decrease energy<br>Inhibits Mycobacterial ATP synthase | Qt prolongation                                                                                                                                                                                                                                 |
+| Linezolid            | z → 5<br>50s ribosome → Protein Synthesis                        | PLOTS<br>1. Peripheral Neuropathy<br>2. Lactic Acidosis<br>3. Optic Neuritis<br>4. Serotonin Syndrome<br>5. Thrombocytopenia/BM suppression                                                                                                     |
+| Fluoroquinolones     | Inhibits Topoisomerase (II + IV)<br>II → aka Gyrase              | Tendon<br>QT<br>CNS, neuropathy (Can occur)<br>glucose<br>neuropathy<br>C. difficile                                                                                                                                                            |
+| Clofazimin           |                                                                  | Brown Gray Skin pigmentation,QT prolongation                                                                                                                                                                                                    |
+| Cycloserine          | Inhibit Peptidoglycan Syntheses                                  | CNS and Psychiatric (major)                                                                                                                                                                                                                     |
+| Pretomanid/Delamanid | Mycolic acid synthesis                                           | QT prolongation                                                                                                                                                                                                                                 |
+| Ethionamide          | Inhibit inhA (Mycolic acid synthesis)                            | ETH<br>- **Erectile dysfunction**: Neuropsychiatric adverse effects may occur<br>- **T**hyroid: **Hypothyroidism / goitre** due to antithyroid effects, especially when combined with PAS<br>- Hepatotoxicity<br>- Gastrointestinal intolerance |
 
 **Other important drugs**
 - Clofazimine
@@ -282,6 +283,7 @@ Both drugs can contribute to **QT prolongation**, particularly in combination re
 	- younger patients,
 	- pregnancy,
 	- breastfeeding.
+	due to unproven safety in humansand suspicion of side effects in animal studies.
 
 ##### 9.7 Ethionamide
 ###### Mechanism
