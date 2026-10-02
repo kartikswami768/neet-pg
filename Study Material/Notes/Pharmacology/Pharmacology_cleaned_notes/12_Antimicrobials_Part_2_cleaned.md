@@ -981,10 +981,10 @@ Mature infectious virions
 | ==Zidovudine==    |               |            |                  |           |
 | ==Abacavir==      |               |            |                  |           |
 
-| Situation | Regimen                               |
-| --------- | ------------------------------------- |
-| Adult     | Tenofovir + Lamivudine + Dalutegravir |
-|           | Tenofovir + Lamivudine + LPV/r        |
+| Situation      | Regimen                               |
+| -------------- | ------------------------------------- |
+| Adult          | Tenofovir + Lamivudine + Dalutegravir |
+| PEP (1st line) | Tenofovir + Lamivudine + LPV/r        |
 
 ##### REVERSE TRANSCRIPTASE INHIBITORS (RTIs)
 ###### 29.1 NRTIs
