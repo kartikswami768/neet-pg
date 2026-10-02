@@ -213,7 +213,7 @@ drugs that retain activity against dormant or slowly replicating bacilli.
 | -------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | **Bed**a**q**uilline | **BED** → Decrease energy<br>Inhibits Mycobacterial ATP synthase | Qt prolongation                                                                                                      |
 | Linezolid            | z → 5<br>50s ribosome → Protein Synthesis                        | POST<br>1. Peripheral Neuropathy<br>2. Optic Neuritis<br>3. Serotonin Syndrome<br>4. Thrombocytopenia/BM suppression |
-| Fluoroquinolones     |                                                                  | Tendon<br>QT<br>CNS, neuropathy (Can occur)<br>glucose<br>neuropathy<br>C. difficile                                 |
+| Fluoroquinolones     | Inhibits Topoisomerase (II + IV)<br>II → aka Gyrase              | Tendon<br>QT<br>CNS, neuropathy (Can occur)<br>glucose<br>neuropathy<br>C. difficile                                 |
 
 **Other important drugs**
 - Clofazimine
