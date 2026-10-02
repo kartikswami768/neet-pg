@@ -106,7 +106,7 @@ This can markedly reduce concentrations of many co-administered drugs.
 >NACO's guideline for patients receiving rifampicin-containing ATT uses **dolutegravir 50 mg twice daily** rather than once daily during rifampicin co-administration, with the additional DTG dose continued through ATT and for **2 weeks after rifampicin is stopped**.
 
 ###### Administration
-- Oral rifampicin is generally taken on an **empty stomach** because food reduces absorption.
+- Oral rifampicin is generally taken on an ==**empty stomach**== because food reduces absorption.
 **Body-fluid discoloration**
 - Can cause **orange-red discoloration of urine and other body fluids**.
 - This is generally harmless and should be explained to patients.
@@ -707,7 +707,8 @@ Fungal cell membrane
 - **Hepatotoxicity**
 - **Endocrine adverse effects**
 - Oral systemic use largely avoided
-##### Memory Hook
+##### 
+Memory Hook
 ###### PK
 - **F**luconazole → **F**lows into CSF
 - **I**traconazole → **I**s acid-dependent
@@ -1961,7 +1962,7 @@ Typical adult prophylaxis examples:
 | Cycloserine | Alanine racemase + D-Ala-D-Ala ligase inhibition | Psychosis/depression/seizures |
 | Ethionamide | Mycolic-acid synthesis inhibition | GI toxicity, hypothyroidism/goitre |
 
-##### 63.2 Antifungal drug → target → hallmark
+#### 63.2 Antifungal drug → target → hallmark
 
 | Drug/class | Target | Hallmark |
 |---|---|---|
@@ -1972,7 +1973,47 @@ Typical adult prophylaxis examples:
 | 5-Flucytosine | Converted to 5-FU | Bone marrow toxicity; cryptococcosis combination therapy |
 | Griseofulvin | Fungal microtubules | Tinea capitis |
 | Tavaborole | Leucyl-tRNA synthetase | Topical onychomycosis |
+##### Systemic Fungal Infections — Which Azole?
 
+| Fungal infection       | **Fluconazole**                                         | **Itraconazole**                                              | **Voriconazole**                                               | **Posaconazole**                                                | **Isavuconazole**                                                    |
+| ---------------------- | ------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **Candida**            | <mark style="background:#d3f8b6">✅ Major use</mark>     | ✅ Alternative                                                 | ✅ Resistant species                                            | ✅ Alternative                                                   | ✅ Alternative                                                        |
+| **Cryptococcus**       | <mark style="background:#d3f8b6">✅ **Major use**</mark> | ⚠️ Alternative                                                | ⚠️ Alternative                                                 | ⚠️ Alternative                                                  | ⚠️ Limited                                                           |
+| **Aspergillosis**      | ❌                                                       | ⚠️ Alternative                                                | <mark style="background:#d3f8b6">⭐ **DOC / first-line**</mark> | <mark style="background:#d3f8b6">✅ Alternative / salvage</mark> | <mark style="background:#d3f8b6">✅ **First-line alternative**</mark> |
+| **Mucormycosis**       | ❌                                                       | ❌                                                             | ❌                                                              | <mark style="background:#d3f8b6">⭐ **Active**</mark>            | ⭐<mark style="background:#d3f8b6"> **Active**</mark>                 |
+| **Histoplasmosis**     | ❌ / poor                                                | <mark style="background:#d3f8b6">⭐ **DOC**</mark>             | ⚠️ Alternative                                                 | ✅ Alternative                                                   | ⚠️ Alternative                                                       |
+| **Blastomycosis**      | ❌ / poor                                                | <mark style="background:#d3f8b6">⭐ **DOC**</mark>             | ⚠️ Alternative                                                 | ✅ Alternative                                                   | ⚠️ Alternative                                                       |
+| **Sporotrichosis**     | ❌                                                       | <mark style="background:#d3f8b6">⭐ **DOC**</mark>             | ⚠️ Alternative                                                 | ⚠️ Alternative                                                  | ⚠️ Limited                                                           |
+| **Coccidioidomycosis** | ✅ Alternative                                           | <mark style="background:#d3f8b6">⭐ **Preferred azole**</mark> | ⚠️ Alternative                                                 | ⚠️ Alternative                                                  | ⚠️ Limited                                                           |
+| **Dermatophytes**      | ⚠️                                                      | ✅                                                             | ❌                                                              | ❌                                                               | ❌                                                                    |
+|                        |                                                         |                                                               |                                                                |                                                                 |                                                                      |
+
+### High-Yield Memory Map
+
+- **Fluconazole → Candida + Cryptococcus**
+- **Itraconazole → Dimorphic fungi**
+  - Histoplasma
+  - Blastomyces
+  - Sporothrix
+  - Coccidioides
+- **Voriconazole → Aspergillus**
+- **Posaconazole → Mucor + Aspergillus**
+- **Isavuconazole → Mucor + Aspergillus**
+- **Ketoconazole → Avoid systemic use**; mainly historical/limited niche use
+
+### ⚠️ Must-Know "DON'T USE"
+
+- **Fluconazole ❌ Aspergillus**
+- **Fluconazole ❌ Mucor**
+- **Voriconazole ❌ Mucor**
+- **Itraconazole ❌ invasive Aspergillosis as first-line**
+- **Azoles generally ≠ universal antifungal coverage**
+
+### One-Line Exam Rule
+
+> **Candida/Crypto → Fluconazole | Dimorphic fungi → Itraconazole | Aspergillus → Voriconazole | Mucor → Posaconazole/Isavuconazole**
+
+**Amphotericin B** has broader systemic coverage, but it is **not literally the preferred drug for every systemic fungal infection**; species, site, severity, and susceptibility determine the choice.
 ##### 63.3 Antiviral suffixes / targets
 
 | Pattern | Drug class | Examples |
