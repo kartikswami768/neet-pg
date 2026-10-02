@@ -5,7 +5,7 @@ type: Marrow
 
 # Antimicrobials Part 2 — Comprehensive, Topic-Organized Study Notes
 
-## Mycobacterial Infections
+# Mycobacterial Infections
 
 ### TB overview, first-line therapy
 
@@ -557,7 +557,7 @@ Current WHO and India's revised NLEP protocol use the same three drugs for both 
 - Type 2: **2 + 3 = 5** → type III hypersensitivity
 These are teaching mnemonics, not complete immunological descriptions.
 
-## Antifungal Drugs
+# Antifungal Drugs
 
 ### Antifungal targets & major classes
 
@@ -815,7 +815,7 @@ Examples:
 - Tavaborole (topical solution rather than traditional lacquer in some formulations)
 Useful mainly in selected **onychomycosis** cases.
 
-## Anthelmintic Drugs
+# Anthelmintic Drugs
 
 ### Helminth classification, drug map & mass treatment
 
@@ -904,7 +904,7 @@ Levamisole has a much smaller modern therapeutic role than its historical examin
 - **Avoid in pregnancy and in children <15 kg** because safety is not established in these groups.
 > The is broadly correct that permethrin is an important overall first-line topical therapy, but “safe in pregnancy and all children” should be interpreted carefully by individual drug and age. WHO specifically advises against oral ivermectin in pregnancy and <15 kg.
 
-## Antiviral Drugs
+# Antiviral Drugs
 
 ### HIV entry, replication & RT inhibitors
 
@@ -1372,11 +1372,11 @@ Current practice usually combines effective systemic anti-CMV therapy with local
 - An acyclovir-like antiviral may be added in selected severe cases, but the benefit is smaller and less consistent than that of corticosteroids.
 > “Give steroid for nerve protection, then add acyclovir to kill the virus” is a useful conceptual summary, but the actual evidence-based decision is more nuanced and treatment is time-sensitive.
 
-## Antiprotozoal Drugs
+# Antiprotozoal Drugs
 
-### Malaria foundations, life cycle & cure concepts
+## Malaria foundations, life cycle & cure concepts
 
-#### 46. Malaria Pathogen
+### 46. Malaria Pathogen
 ##### Species
 five medically important *Plasmodium* species:
 - *P. falciparum*
@@ -1430,7 +1430,7 @@ flowchart TD
 - Does **not** form hypnozoites.
 - Therefore there is no hypnozoite-mediated relapse requiring radical cure same way as vivax/ovale.
 
-#### 48. MALARIA CURE CONCEPTS
+### 48. MALARIA CURE CONCEPTS
 
 | Term                                            | Target                                                             |
 | ----------------------------------------------- | ------------------------------------------------------------------ |
@@ -1448,9 +1448,9 @@ flowchart TD
 - Long-acting analogue with **radical-cure activity** against vivax hypnozoites in suitable patients.
 - Requires appropriate G6PD assessment before use.
 
-### Malaria treatment & pregnancy/travel prophylaxis
+## Malaria treatment & pregnancy/travel prophylaxis
 
-#### 49. UNCOMPLICATED P. VIVAX / P. OVALE
+### 49. UNCOMPLICATED P. VIVAX / P. OVALE
 
 ##### Clinical cure
 - **Chloroquine** where the parasite remains chloroquine-sensitive.
@@ -1464,7 +1464,7 @@ flowchart TD
 - Primaquine is contraindicated in **pregnancy** because of fetal risk and inability to safely establish fetal G6PD status.
 - It is also contraindicated in significant **G6PD deficiency** because of haemolysis risk.
 
-#### 50. UNCOMPLICATED P. FALCIPARUM
+### 50. UNCOMPLICATED P. FALCIPARUM
 
 ##### Core regimen concept
 - Use an **artemisinin-based combination therapy (ACT)**.
@@ -1477,7 +1477,7 @@ flowchart TD
 - No hypnozoite stage → no 14-day hypnozoite-eradication regimen.
 - Primaquine is used in a transmission-blocking role, not as the treatment that clears the acute blood-stage infection.
 
-#### 51. SEVERE / COMPLICATED MALARIA
+### 51. SEVERE / COMPLICATED MALARIA
 
 Drug of choice: **IV artesunate**.
 
@@ -1486,7 +1486,7 @@ Drug of choice: **IV artesunate**.
 - Do not delay parenteral treatment when severe malaria is suspected.
 - After clinical improvement, complete an effective oral ACT course as specified by the treatment guideline.
 
-#### 52. MALARIA IN PREGNANCY
+### 52. MALARIA IN PREGNANCY
 
 ##### 52.1 Primaquine
 - **Contraindicated in pregnancy**.
@@ -1503,7 +1503,7 @@ For **uncomplicated P. falciparum first trimester**, WHO now prefers **artemethe
 - **Parenteral artesunate is the treatment of choice in all trimesters.**
 
 
-#### 53. TRAVELER'S MALARIA PROPHYLAXIS
+### 53. TRAVELER'S MALARIA PROPHYLAXIS
 The simplifies prophylaxis into:
 - Chloroquine for chloroquine-sensitive areas
 - Mefloquine weekly or doxycycline daily for chloroquine-resistant areas
@@ -1520,7 +1520,7 @@ Choice of chemoprophylaxis depends on:
 - Drug interactions
 Therefore, The fixed “endemic country = mefloquine/doxycycline” rule is useful only as an examination simplification.
 
-### Antimalarial drug profiles & toxicities
+## Antimalarial drug profiles & toxicities
 
 #### 54. CHLOROQUINE
 
@@ -1613,7 +1613,7 @@ Artemisinin derivatives are no longer considered categorically forbidden in firs
 - Thrombocytopenia can occur in some settings.
 Historically, quinine-containing regimens had a much larger role than they do with modern ACTs, except where specifically indicated.
 
-### Other protozoal diseases
+## Other protozoal diseases
 
 #### 58. AMEBIASIS
 
@@ -1739,7 +1739,7 @@ Typical adult prophylaxis examples:
 - IV pentamidine in selected circumstances
 > Pentamidine is not merely a “drug for resistant cases.” It is an established **alternative prophylaxis/treatment option** for patients who cannot use TMP-SMX, though TMP-SMX remains preferred.
 
-## Rapid Revision & High-Yield Tables
+# Rapid Revision & High-Yield Tables
 
 ### High-yield tables & master recall list
 

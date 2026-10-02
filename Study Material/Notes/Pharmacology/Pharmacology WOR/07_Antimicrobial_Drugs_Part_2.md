@@ -252,20 +252,20 @@ flowchart TD
 
 ### Uncomplicated malaria
 
-| Setting | Regimen |
-|---|---|
-| **P. vivax** | DOC: chloroquine × 3 days + primaquine × 14 days OR tafenoquine once. |
-| **P. falciparum / resistant P. vivax (ACT)** | Artesunate + sulfadoxine + pyrimethamine; artemether + lumefantrine (North-east India); alternative: quinine + tetra/doxy/clindamycin. |
-| **Uncomplicated malaria in pregnancy** | Chloroquine; 1st trimester: quinine + clindamycin; 2nd/3rd trimester: ACT. |
+| Setting                                      | Regimen                                                                                                                                        |
+| -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **P. vivax**                                 | DOC: chloroquine × 3 days <br>+ primaquine × 14 days OR tafenoquine once.                                                                      |
+| **P. falciparum / resistant P. vivax (ACT)** | Artesunate + sulfadoxine + pyrimethamine; <br>artemether + lumefantrine (North-east India); <br>alternative: quinine + tetra/doxy/clindamycin. |
+| **Uncomplicated malaria in pregnancy**       | Chloroquine; 1st trimester: quinine + clindamycin; 2nd/3rd trimester: ACT.                                                                     |
 
 ### Prophylaxis
 
 - <6 weeks: doxycycline 100 mg/day.
-  - Start 2 days before.
-  - Duration of travel.
+	- Start 2 days before.
+	- Duration of travel.
 - ≥6 weeks: mefloquine 250 mg/week.
-  - Start 2 weeks before.
-  - Continue for 4 weeks after travel ends.
+	- Start 2 weeks before.
+	- Continue for 4 weeks after travel ends.
 
 ## Antitubercular Drugs
 
