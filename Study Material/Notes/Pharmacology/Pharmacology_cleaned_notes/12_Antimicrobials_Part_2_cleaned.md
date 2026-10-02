@@ -214,7 +214,7 @@ drugs that retain activity against dormant or slowly replicating bacilli.
 | **Bed**a**q**uilline | **BED** → Decrease energy<br>Inhibits Mycobacterial ATP synthase | Qt prolongation                                                                                                                                                                                                                                 |
 | Linezolid            | z → 5<br>50s ribosome → Protein Synthesis                        | PLOTS<br>1. Peripheral Neuropathy<br>2. Lactic Acidosis<br>3. Optic Neuritis<br>4. Serotonin Syndrome<br>5. Thrombocytopenia/BM suppression                                                                                                     |
 | Fluoroquinolones     | Inhibits Topoisomerase (II + IV)<br>II → aka Gyrase              | Tendon<br>QT<br>CNS, neuropathy (Can occur)<br>glucose<br>neuropathy<br>C. difficile                                                                                                                                                            |
-| Clofazimin           |                                                                  | Brown Gray Skin pigmentation,QT prolongation                                                                                                                                                                                                    |
+| Clofazimin           | Membrane/oxidative mechanisms in mycobacteria                    | Brown Gray Skin pigmentation,QT prolongation                                                                                                                                                                                                    |
 | Cycloserine          | Inhibit Peptidoglycan Syntheses                                  | CNS and Psychiatric (major)                                                                                                                                                                                                                     |
 | Pretomanid/Delamanid | Mycolic acid synthesis                                           | QT prolongation                                                                                                                                                                                                                                 |
 | Ethionamide          | Inhibit inhA (Mycolic acid synthesis)                            | ETH<br>- **Erectile dysfunction**: Neuropsychiatric adverse effects may occur<br>- **T**hyroid: **Hypothyroidism / goitre** due to antithyroid effects, especially when combined with PAS<br>- Hepatotoxicity<br>- Gastrointestinal intolerance |
@@ -1985,17 +1985,17 @@ Typical adult prophylaxis examples:
 
 ##### 63.1 TB drug → mechanism → toxicity
 
-| Drug | Mechanism | Signature toxicity |
-|---|---|---|
-| Isoniazid | Inhibits mycolic-acid synthesis after KatG activation | Hepatotoxicity, peripheral neuropathy |
-| Rifampicin | Inhibits DNA-dependent RNA polymerase | Hepatotoxicity, enzyme induction, orange-red body fluids |
-| Pyrazinamide | Pyrazinoic-acid prodrug; intracellular activity | Hepatotoxicity, hyperuricaemia/gout |
-| Ethambutol | Inhibits arabinosyl transferase | Optic neuritis, red-green colour discrimination loss |
-| Bedaquiline | ATP synthase inhibitor | QT prolongation |
-| Linezolid | 50S initiation complex inhibitor | Myelosuppression, neuropathy, serotonin syndrome |
-| Clofazimine | Membrane/oxidative mechanisms in mycobacteria | Brown skin pigmentation, QT risk |
-| Cycloserine | Alanine racemase + D-Ala-D-Ala ligase inhibition | Psychosis/depression/seizures |
-| Ethionamide | Mycolic-acid synthesis inhibition | GI toxicity, hypothyroidism/goitre |
+| Drug         | Mechanism                                             | Signature toxicity                                       |
+| ------------ | ----------------------------------------------------- | -------------------------------------------------------- |
+| Isoniazid    | Inhibits mycolic-acid synthesis after KatG activation | Hepatotoxicity, peripheral neuropathy                    |
+| Rifampicin   | Inhibits DNA-dependent RNA polymerase                 | Hepatotoxicity, enzyme induction, orange-red body fluids |
+| Pyrazinamide | Pyrazinoic-acid prodrug; intracellular activity       | Hepatotoxicity, hyperuricaemia/gout                      |
+| Ethambutol   | Inhibits arabinosyl transferase                       | Optic neuritis, red-green colour discrimination loss     |
+| Bedaquiline  | ATP synthase inhibitor                                | QT prolongation                                          |
+| Linezolid    | 50S initiation complex inhibitor                      | Myelosuppression, neuropathy, serotonin syndrome         |
+| Clofazimine  | Membrane/oxidative mechanisms in mycobacteria         | Brown skin pigmentation, QT risk                         |
+| Cycloserine  | Alanine racemase + D-Ala-D-Ala ligase inhibition      | Psychosis/depression/seizures                            |
+| Ethionamide  | Mycolic-acid synthesis inhibition                     | GI toxicity, hypothyroidism/goitre                       |
 
 #### 63.2 Antifungal drug → target → hallmark
 
