@@ -383,13 +383,15 @@ The highlights:
 ##### 13.4 Oral vancomycin
 - ==Poorly absorbed gastrointestinal tract.==
 - Useful for **intestinal C. difficile infection** because the drug remains gut lumen.
-**Current C. difficile update**
-- Oral vancomycin
-- Fidaxomicin
-- Bezlotoxumab
-- Metronidazole
-- Fecal microbiota transplantation
-Current IDSA/SHEA guidance prefers **fidaxomicin** over a standard course of oral vancomycin for an initial CDI episode when feasible; vancomycin remains an acceptable alternative. For fulminant CDI, oral/NG vancomycin remains central.
+**
+> [!info] Current Drugs for Pseudomembranous Colitis (C. difficile)
+> - Oral vancomycin
+> - Fidaxomicin
+> - Bezlotoxumab
+> - Metronidazole
+> - Fecal microbiota transplantation
+> Current IDSA/SHEA guidance prefers **fidaxomicin** over a standard course of oral vancomycin for an initial CDI episode when feasible; vancomycin remains an acceptable alternative. For fulminant CDI, oral/NG vancomycin remains central.
+
 
 ##### 13.5 Adverse effects
 **Nephrotoxicity**
