@@ -1374,7 +1374,7 @@ Current practice usually combines effective systemic anti-CMV therapy with local
 
 # Antiprotozoal Drugs
 
-## Malaria foundations, life cycle & cure concepts
+## Malaria foundations, life cycle 
 
 ### 46. Malaria Pathogen
 ##### Species
@@ -1430,7 +1430,7 @@ flowchart TD
 - Does **not** form hypnozoites.
 - Therefore there is no hypnozoite-mediated relapse requiring radical cure same way as vivax/ovale.
 
-### 48. MALARIA CURE CONCEPTS
+## Malaria Core Concepts
 
 | Term                                            | Target                                                             |
 | ----------------------------------------------- | ------------------------------------------------------------------ |
@@ -1554,7 +1554,7 @@ flowchart TD
 ##### Hypnozoites
 ###### Key Point
 - **Only clinically important hypnozoiticides: Primaquine + Tafenoquine**
-### 54. CHLOROQUINE
+### CHLOROQUINE
 
 ##### High distribution volume
 a very high apparent volume of distribution, reflecting extensive tissue uptake.
@@ -1593,7 +1593,7 @@ The mnemonic includes:
 ==a similar corneal deposition phenomenon with **amiodarone**.==
 
 
-### 56. ARTEMISININ GROUP
+### ARTEMISININ GROUP
 Examples:
 - Artesunate
 - Artemether
@@ -1615,7 +1615,7 @@ Examples:
 ##### Current safety note
 Artemisinin derivatives are no longer considered categorically forbidden in first-trimester pregnancy. WHO now recommends **artemether-lumefantrine** as the preferred treatment for uncomplicated falciparum first trimester.
 
-### 57. QUININE
+### QUININE
 
 ##### Source
 - Cinchona bark.
@@ -1633,7 +1633,7 @@ Artemisinin derivatives are no longer considered categorically forbidden in firs
 - Thrombocytopenia can occur in some settings.
 Historically, quinine-containing regimens had a much larger role than they do with modern ACTs, except where specifically indicated.
 
-### 55. COMPARATIVE ANTIMALARIAL TOXICITIES
+### COMPARATIVE ANTIMALARIAL TOXICITIES
 
 | Drug         | High-yield toxicity/association                                                                             |
 | ------------ | ----------------------------------------------------------------------------------------------------------- |
@@ -1658,7 +1658,7 @@ Historically, quinine-containing regimens had a much larger role than they do wi
 - Primaquine is contraindicated in **pregnancy** because of fetal risk and inability to safely establish fetal G6PD status.
 - It is also contraindicated in significant **G6PD deficiency** because of haemolysis risk.
 
-### 50. UNCOMPLICATED P. FALCIPARUM
+### 50. Uncomplicated P. FALCIPARUM
 
 ##### Core regimen concept
 - Use an **artemisinin-based combination therapy (ACT)**.
@@ -1671,7 +1671,7 @@ Historically, quinine-containing regimens had a much larger role than they do wi
 - No hypnozoite stage → no 14-day hypnozoite-eradication regimen.
 - Primaquine is used in a transmission-blocking role, not as the treatment that clears the acute blood-stage infection.
 
-### 51. SEVERE / COMPLICATED MALARIA
+### 51. Severe / Complicated MALARIA
 
 Drug of choice: **IV artesunate**.
 
@@ -1680,7 +1680,7 @@ Drug of choice: **IV artesunate**.
 - Do not delay parenteral treatment when severe malaria is suspected.
 - After clinical improvement (usually after 48 hours), complete an effective oral ACT course as specified by the treatment guideline.
 
-### 52. MALARIA IN PREGNANCY
+### 52. Malaria In Pregnancy
 
 ##### 52.1 Primaquine
 - **Contraindicated in pregnancy**.
@@ -1697,11 +1697,15 @@ For **uncomplicated P. falciparum first trimester**, WHO now prefers **artemethe
 - **Parenteral artesunate is the treatment of choice in all trimesters.**
 
 
-### 53. TRAVELER'S MALARIA PROPHYLAXIS
-The simplifies prophylaxis into:
+### 53. Traveller's Malaria Prophylaxis
 - Chloroquine for chloroquine-sensitive areas
-- Mefloquine weekly or doxycycline daily for chloroquine-resistant areas
-- Continue for a period after return, depending on the drug
+- For chloroquine-resistant areas:
+	- <6 weeks: doxycycline 100 mg/day.
+		- Start 2 days before.
+		- Duration of travel.
+	- ≥6 weeks: mefloquine 250 mg/week.
+		- Start 2 weeks before.
+		- Continue for 4 weeks after travel ends.
 
 ##### Current clinical principle
 Choice of chemoprophylaxis depends on:
