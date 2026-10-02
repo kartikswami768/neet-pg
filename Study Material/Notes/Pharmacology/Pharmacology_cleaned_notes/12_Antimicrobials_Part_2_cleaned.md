@@ -982,16 +982,23 @@ Mature infectious virions
 | ==Abacavir==      |               |            |                  |            |
 > We always give Ritonavir (in small amount) with Protease Inhibitor
 
-| Situation            | Regimen                               |
-| -------------------- | ------------------------------------- |
-| Adult                | Tenofovir + Lamivudine + Dalutegravir |
-| Adult (Tenofovir CI) | Abacavir + Lamivudine + Dalutegravir  |
-| Pre-Exposure P       | Tenofovir + Lamivudine                |
-| PEP (1st line)       | Tenofovir + Lamivudine + Dalutegravir |
-| PEP (2nd line)       | Tenofovir + Lamivudine + Efavirenz    |
-| PEP (child)          | Zidovudine + Lamivudine + LPV/r       |
-| Exposed Infant (LR)  | Nevirapine                            |
-| Exposed infant (HR)  | Zidovudine + Nevirapine               |
+>Zidovudine & Abacavir → 2nd line to Tenofovir
+>Zidovudine → Children
+>Abacavir → Adults
+
+>India → Lamivudine fan
+>World → Emtricitabine is better
+
+| Situation             | Regimen                               |
+| --------------------- | ------------------------------------- |
+| Adult                 | Tenofovir + Lamivudine + Dalutegravir |
+| Adult (Tenofovir CI)  | Abacavir + Lamivudine + Dalutegravir  |
+| Pre-Exposure P (NACO) | Tenofovir + Lamivudine                |
+| PrEP (WHO)            | Tenofovir + Emtricitabine             |
+| PEP (1st line)        | Tenofovir + Lamivudine + Dalutegravir |
+| PEP (child)           | Zidovudine + Lamivudine + LPV/r       |
+| Exposed Infant (LR)   | Nevirapine                            |
+| Exposed infant (HR)   | Zidovudine + Nevirapine               |
 
 ##### REVERSE TRANSCRIPTASE INHIBITORS (RTIs)
 ###### 29.1 NRTIs
@@ -1157,7 +1164,6 @@ HIV-associated lipodystrophy is multifactorial and is not simply an effect of �
 ##### TLD regimen
 **TLD = Tenofovir + Lamivudine + Dolutegravir**
 NACO 2021 used TLD as the preferred first-line regimen in eligible adults/adolescents and also specifies the rifampicin interaction strategy with additional DTG dosing.
-> **Current paediatric correction:** Do not memorize The blanket rule “<10 years = cannot use tenofovir; <6 years = cannot use dolutegravir because of SJS.” Modern paediatric HIV practice uses age- and weight-appropriate dolutegravir and tenofovir formulations in children, with current national guidance determining the exact regimen.
 
 #### 4. PEP, PrEP & HIV-exposed infants
 ##### 36. HIV POST-EXPOSURE PROPHYLAXIS (PEP)
@@ -1177,7 +1183,7 @@ Examples:
 **Regimen principle**
 A **3-drug** regimen is preferred in current WHO guidance.
 The Indian programme commonly uses a tenofovir + lamivudine + dolutegravir-based approach when appropriate.
-> “Must be started within 2 hours” is too restrictive. Two hours is excellent, but current guidance emphasizes immediate initiation and an upper limit of **72 hours**.
+
 
 ##### 37. HIV PRE-EXPOSURE PROPHYLAXIS (PrEP)
 
