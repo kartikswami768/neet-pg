@@ -1791,9 +1791,11 @@ Historically, quinine-containing regimens had a much larger role than they do wi
 - Chloroquine = **25 mg/kg over 3 days**
 - Primaquine = **0.25 mg/kg/day × 14 days**
 
-### 2. Uncomplicated *P. falciparum* — Most of India
-
-#### ACT-SP
+### 2. Uncomplicated *P. falciparum* 
+##### Core regimen concept
+- Use an **artemisinin-based combination therapy (ACT)**.
+- Add a single gametocytocidal dose of primaquine Indian programme when indicated and not contraindicated.
+#### ACT-SP – Most of India
 
 | Day    | Drug          |             Dose/kg | **60-kg adult equivalent** |
 | ------ | ------------- | ------------------: | -------------------------: |
@@ -1807,10 +1809,7 @@ Historically, quinine-containing regimens had a much larger role than they do wi
 - Artesunate = **4 mg/kg/day × 3 days**
 - SP = **25/1.25 mg/kg once on D1**
 - Primaquine = **0.75 mg/kg single dose**
-
-### 3. *P. falciparum* — North-East India
-
-#### Artemether + Lumefantrine (ACT-AL)
+#### Artemether + Lumefantrine (ACT-AL) — North-East India
 
 | Day | Dose/kg concept | **Adult dose** |
 |---|---:|---:|
