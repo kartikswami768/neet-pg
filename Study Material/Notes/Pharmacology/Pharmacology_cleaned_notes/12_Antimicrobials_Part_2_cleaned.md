@@ -989,16 +989,16 @@ Mature infectious virions
 >India → Lamivudine fan
 >World → Emtricitabine is better
 
-| Situation             | Regimen                               |
-| --------------------- | ------------------------------------- |
-| Adult                 | Tenofovir + Lamivudine + Dalutegravir |
-| Adult (Tenofovir CI)  | Abacavir + Lamivudine + Dalutegravir  |
-| Pre-Exposure P (NACO) | Tenofovir + Lamivudine                |
-| PrEP (WHO)            | Tenofovir + Emtricitabine             |
-| PEP (1st line)        | Tenofovir + Lamivudine + Dalutegravir |
-| PEP (child)           | Zidovudine + Lamivudine + LPV/r       |
-| Exposed Infant (LR)   | Nevirapine                            |
-| Exposed infant (HR)   | Zidovudine + Nevirapine               |
+| Situation             | Regimen                                      |
+| --------------------- | -------------------------------------------- |
+| Adult                 | Tenofovir + Lamivudine + Dalutegravir        |
+| Adult (Tenofovir CI)  | Abacavir + Lamivudine + Dalutegravir         |
+| Pre-Exposure P (NACO) | Tenofovir + Lamivudine                       |
+| PrEP (WHO)            | Tenofovir + Emtricitabine                    |
+| PEP (1st line)        | Tenofovir + Lamivudine + Dalutegravir        |
+| PEP (child)           | Zidovudine + Lamivudine + Dalutegravir/LPV/r |
+| Exposed Infant (LR)   | Nevirapine                                   |
+| Exposed infant (HR)   | Zidovudine + Nevirapine                      |
 
 ##### REVERSE TRANSCRIPTASE INHIBITORS (RTIs)
 ###### 29.1 NRTIs
