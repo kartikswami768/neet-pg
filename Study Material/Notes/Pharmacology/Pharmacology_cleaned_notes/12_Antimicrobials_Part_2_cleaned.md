@@ -986,7 +986,7 @@ Mature infectious virions
 | Adult          | Tenofovir + Lamivudine + Dalutegravir |
 | PEP (1st line) | Tenofovir + Lamivudine + LPV/r        |
 | PEP (2nd line) | Tenofovir + Lamivudine + Efavirenz    |
-| PEP (ch        |                                       |
+| PEP (child)    | Zidovudine + Lamivudine + LPV/r       |
 
 ##### REVERSE TRANSCRIPTASE INHIBITORS (RTIs)
 ###### 29.1 NRTIs
