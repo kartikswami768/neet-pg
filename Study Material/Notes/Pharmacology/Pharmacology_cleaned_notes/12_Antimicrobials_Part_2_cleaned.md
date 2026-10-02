@@ -1855,20 +1855,20 @@ Historically, quinine-containing regimens had a much larger role than they do wi
 **0 h → 12 h → 24 h → q24h → oral ACT**
 ### 6. Ultra-crisp master table
 
-| Form | Drug | **Dose/kg** | **60-kg adult equivalent** | Duration |
-|---|---|---:|---:|---|
-| **Pv uncomplicated** | CQ D1 | 10 mg/kg | **600 mg** | D1 |
-| | CQ D2 | 10 mg/kg | **600 mg** | D2 |
-| | CQ D3 | 5 mg/kg | **300 mg** | D3 |
-| | PQ | 0.25 mg/kg/day | **15 mg/day** | D1–14 |
-| **Pf uncomplicated** | AS | 4 mg/kg/day | **240 mg/day** | D1–3 |
-| | SP | 25/1.25 mg/kg | **1500/75 mg** | D1 |
-| | PQ | 0.75 mg/kg once | **45 mg once** | D2 |
-| **Pf NE India** | AL | — | **4 tablets/dose** | 6 doses/3 d |
-| **Mixed Pf + Pv** | ACT | — | — | 3 d |
-| | PQ — gametocytocidal | 0.75 mg/kg once | **45 mg once** | D2 |
-| | PQ — radical cure | 0.25 mg/kg/day | **15 mg/day** | 14 d |
-| **Severe malaria** | IV artesunate | 2.4 mg/kg/dose | **144 mg/dose** | 0, 12, 24 h → OD |
+| Form                 | Drug                 |     **Dose/kg** | **60-kg adult equivalent** | Duration         |
+| -------------------- | -------------------- | --------------: | -------------------------: | ---------------- |
+| **Pv uncomplicated** | CQ D1                |        10 mg/kg |                 **600 mg** | D1               |
+|                      | CQ D2                |        10 mg/kg |                 **600 mg** | D2               |
+|                      | CQ D3                |         5 mg/kg |                 **300 mg** | D3               |
+|                      | PQ                   |  0.25 mg/kg/day |              **15 mg/day** | D1–14            |
+| **Pf uncomplicated** | AS                   |     4 mg/kg/day |             **240 mg/day** | D1–3             |
+|                      | SP                   |   25/1.25 mg/kg |             **1500/75 mg** | D1               |
+|                      | PQ                   | 0.75 mg/kg once |             **45 mg once** | D2               |
+| **Pf NE India**      | AL                   |               — |         **4 tablets/dose** | 6 doses/3 d      |
+| **Mixed Pf + Pv**    | ACT                  |               — |                          — | 3 d              |
+|                      | PQ — gametocytocidal | 0.75 mg/kg once |             **45 mg once** | D2               |
+|                      | PQ — radical cure    |  0.25 mg/kg/day |              **15 mg/day** | 14 d             |
+| **Severe malaria**   | IV artesunate        |  2.4 mg/kg/dose |            **144 mg/dose** | 0, 12, 24 h → OD |
 
 ### 7. Must-memorise numbers
 
