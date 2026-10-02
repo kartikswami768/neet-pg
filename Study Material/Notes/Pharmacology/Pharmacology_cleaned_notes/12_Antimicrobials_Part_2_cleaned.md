@@ -50,7 +50,7 @@ type: Marrow
 ###### Resistance
 - Important mechanism: mutations affecting **katG** reduce activation of isoniazid.
 - inhA mutation → Isoniazid and ethionamide not able to inhibit it now
-- inhA promoter mutation → more inhA to inhibit → less effectiveness of drug
+- inhA promoter mutation → more inhA to inhibit → less effectiveness of drug → ****
 ###### Drug properties
 - Undergoes **acetylation** liver.
 - Acetylator phenotype influences drug exposure.
