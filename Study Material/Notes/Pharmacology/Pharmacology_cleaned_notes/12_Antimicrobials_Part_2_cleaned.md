@@ -1505,6 +1505,7 @@ flowchart TD
 - Dihydroartemisinin
 ###### Key Point
 - Usually used as **ACTs (Artemisinin-based Combination Therapy)**
+- 
 ##### Antifolates
 ###### DHFR Inhibitors
 - Pyrimethamine
