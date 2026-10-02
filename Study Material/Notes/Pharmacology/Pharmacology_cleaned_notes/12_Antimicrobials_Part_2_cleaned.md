@@ -906,11 +906,11 @@ Levamisole has a much smaller modern therapeutic role than its historical examin
 
 # Antiviral Drugs
 
-### HIV entry, replication & RT inhibitors
+### HIV 
 
-#### 26. ANTIVIRAL DRUGS — HIV
+#### 1. HIV Virus
 
-##### 26.1 HIV structure and entry
+##### HIV structure and entry
 Important structural components diagram:
 - Envelope glycoproteins **gp120** and **gp41**
 - Capsid
@@ -925,7 +925,7 @@ Important structural components diagram:
 6. Viral protein synthesis/assembly
 7. Protease-mediated maturation
 
-#### 27. HIV ENTRY / ATTACHMENT / CAPSId INHIBITORS
+##### HIV ENTRY / ATTACHMENT / CAPSId INHIBITORS
 
 | Target | Drug | High-yield mechanism |
 |---|---|---|
@@ -935,16 +935,16 @@ Important structural components diagram:
 | CD4 post-attachment | **Ibalizumab** | Monoclonal antibody against CD4; blocks post-attachment entry events |
 | CCR5 | **Maraviroc** | CCR5 antagonist; effective only for CCR5-tropic HIV |
 
-##### Mnemonics
+###### Mnemonics
 - **-mab** → monoclonal antibody: ibalizumab
 - **-viro / -vir** patterns are not sufficiently specific to identify HIV classes reliably.
 
-#### 28. HIV REPLICATION CYCLE: “RIP”
+##### HIV REPLICATION CYCLE: “RIP”
 - **R** - Reverse transcriptase
 - **I** - Integrase
 - **P** - Protease
 
-##### Reverse transcription
+###### Reverse transcription
 ```text
 HIV single-stranded RNA
  |
@@ -969,9 +969,10 @@ Viral proteins / polyproteins
 Mature infectious virions
 ```
 
-#### 29. REVERSE TRANSCRIPTASE INHIBITORS (RTIs)
+#### 2. Anti-Retroviral Drugs
+##### REVERSE TRANSCRIPTASE INHIBITORS (RTIs)
 
-##### 29.1 NRTIs
+###### 29.1 NRTIs
 **Nucleoside reverse transcriptase inhibitors** require intracellular phosphorylation/activation and inhibit reverse transcriptase by chain termination.
 **mnemonic:** DAZZLES**
 - **D** - Didanosine
@@ -997,7 +998,7 @@ Mature infectious virions
 - Lipoatrophy with prolonged exposure
 > The “Hb <9 g/dL = contraindicated” is a programme/clinical threshold rather than a universal pharmacological absolute contraindication.
 
-##### 29.2 Nucleotide RT inhibitor: Tenofovir
+###### 29.2 Nucleotide RT inhibitor: Tenofovir
 **Forms**
 - TDF = tenofovir disoproxil fumarate
 - TAF = tenofovir alafenamide
@@ -1025,7 +1026,7 @@ Bone mineralization impairment
 > Tenofovir is **not universally contraindicated in all children**. TDF and/or TAF have paediatric uses in age/weight-appropriate patients. The decision depends on the formulation, renal function, age/weight and current HIV programme guidance.
 > Renal impairment generally calls for formulation-specific dose adjustment or selection of an alternative agent rather than the blanket rule “tenofovir is contraindicated in renal failure.”
 
-#### 30. NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS (NNRTIs)
+##### NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS (NNRTIs)
 Examples:
 - Nevirapine
 - Efavirenz
@@ -1033,10 +1034,10 @@ Examples:
 - Rilpivirine
 - Doravirine
 
-##### Mechanism
+###### Mechanism
 Bind an allosteric site on HIV reverse transcriptase and inhibit enzyme function without requiring phosphorylation.
 
-##### High-yield adverse effects
+###### High-yield adverse effects
 **Nevirapine**
 - **Hepatotoxicity**
 - Rash
@@ -1045,11 +1046,11 @@ Bind an allosteric site on HIV reverse transcriptase and inhibit enzyme function
 - Rash possible
 > “All NNRTIs cause SJS” is too absolute, and the “-vir” naming pattern is not a reliable pharmacological classification rule.
 
-### Integrase, protease & treatment strategy
 
-#### 31. INTEGRASE STRAND TRANSFER INHIBITORS (INSTIs)
 
-##### Suffix
+##### 31. INTEGRASE STRAND TRANSFER INHIBITORS (INSTIs)
+
+###### Suffix
 **“-gravir”**
 Examples:
 - Dolutegravir
@@ -1057,17 +1058,17 @@ Examples:
 - Cabotegravir
 - Raltegravir
 
-##### Mechanism
+###### Mechanism
 - Inhibit integration of viral DNA into host-cell DNA.
 
-##### Dolutegravir + rifampicin
+###### Dolutegravir + rifampicin
 - Rifampicin induces metabolism/transport pathways.
 - NACO: **DTG 50 mg twice daily** during rifampicin-containing ATT and for 2 weeks afterward.
 > It is not correct to say that all integrase inhibitors are simply “degraded by CYP3A4” or that all require the same interaction adjustment. Dolutegravir, bictegravir and raltegravir have different metabolic pathways.
 
-#### 32. PROTEASE INHIBITORS (PIs)
+##### 32. PROTEASE INHIBITORS (PIs)
 
-##### Suffix
+###### Suffix
 **“-navir”**
 Examples:
 - Darunavir
@@ -1078,7 +1079,7 @@ Examples:
 - Ritonavir
 - Tipranavir
 
-##### Mechanism
+###### Mechanism
 - Inhibit HIV protease.
 - Prevent cleavage of viral polyproteins into mature structural and enzymatic proteins.
 - Result: release of immature/noninfectious virions.
@@ -1100,38 +1101,37 @@ Older PIs are associated with:
 - Body-fat redistribution/lipodystrophy
 These adverse effects are less dominant with newer agents than with older PI regimens.
 
-#### 33. LIPODYSTROPHY AND HIV
+##### 33. LIPODYSTROPHY AND HIV
 - Obesity/body-fat redistribution
 - Breast hypertrophy
 - Diabetes
 - Dyslipidaemia
 
-##### Pharmacological perspective
+###### Pharmacological perspective
 HIV-associated lipodystrophy is multifactorial and is not simply an effect of “eating fatty food.”
 
-##### Important correction
+###### Important correction
 **Semaglutide is an anti-obesity/antidiabetic GLP-1 receptor agonist, but it is not appropriately described as a drug specifically approved because of protease-inhibitor-associated HIV lipodystrophy.** It may be clinically used to manage obesity according to its approved indication, but that is different from an HIV-lipodystrophy-specific drug indication.
 
-##### Historical drug
+###### Historical drug
 - **Tesamorelin** is a GHRH analogue that has a specific role in reducing excess visceral abdominal fat in adults with HIV-associated lipodystrophy in jurisdictions where it is approved.
 
-#### 34. BOOSTED PROTEASE INHIBITORS
+##### 34. BOOSTED PROTEASE INHIBITORS
 
-##### Concept
+###### Concept
 **Ritonavir** and **cobicistat** inhibit metabolism/transport of selected antiretroviral drugs and are used at low doses as pharmacokinetic boosters.
 
-##### Purpose
+###### Purpose
 - Increase plasma concentration
 - Increase drug exposure
 - Permit convenient dosing / maintain target concentrations
 
-##### Examples
+###### Examples
 - Lopinavir + ritonavir
 - Darunavir + ritonavir or cobicistat
 > Modern ART increasingly favours integrase-inhibitor-based regimens; boosted PI regimens remain important in selected treatment situations, resistance scenarios and specialist contexts.
 
-#### 35. HIV TREATMENT IN INDIA
-
+#### 3. HIV Treatment in India
 ##### NACP / NACO principles
 - **Universal treatmentART is offered to people with HIV according to programme eligibility rather than waiting for an arbitrary low CD4 threshold.
 - **Combination ARTtreatment uses multiple active drugs, usually as fixed-dose combinations where possible.
@@ -1141,11 +1141,10 @@ HIV-associated lipodystrophy is multifactorial and is not simply an effect of �
 NACO 2021 used TLD as the preferred first-line regimen in eligible adults/adolescents and also specifies the rifampicin interaction strategy with additional DTG dosing.
 > **Current paediatric correction:** Do not memorize The blanket rule “<10 years = cannot use tenofovir; <6 years = cannot use dolutegravir because of SJS.” Modern paediatric HIV practice uses age- and weight-appropriate dolutegravir and tenofovir formulations in children, with current national guidance determining the exact regimen.
 
-### PEP, PrEP & HIV-exposed infants
+#### 4. PEP, PrEP & HIV-exposed infants
+##### 36. HIV POST-EXPOSURE PROPHYLAXIS (PEP)
 
-#### 36. HIV POST-EXPOSURE PROPHYLAXIS (PEP)
-
-##### Occupational exposure
+###### Occupational exposure
 Examples:
 - Needlestick injury
 - Blood exposure to mucosa/non-intact skin
@@ -1162,33 +1161,33 @@ A **3-drug** regimen is preferred in current WHO guidance.
 The Indian programme commonly uses a tenofovir + lamivudine + dolutegravir-based approach when appropriate.
 > “Must be started within 2 hours” is too restrictive. Two hours is excellent, but current guidance emphasizes immediate initiation and an upper limit of **72 hours**.
 
-#### 37. HIV PRE-EXPOSURE PROPHYLAXIS (PrEP)
+##### 37. HIV PRE-EXPOSURE PROPHYLAXIS (PrEP)
 
-##### Core concept
+###### Core concept
 PrEP is given before potential HIV exposure to prevent acquisition.
 
-##### Oral options
+###### Oral options
 - Tenofovir + emtricitabine
 - Tenofovir + lamivudine in programme-accepted settings
 
-##### Long-acting options
+###### Long-acting options
 - **Cabotegravir long-acting:** generally every 2 months after the appropriate initiation schedule.
 - **Lenacapavir:** WHO-recommended additional long-acting PrEP option, administered **twice yearly**.
 
-##### Current prevention principle
+###### Current prevention principle
 - PrEP is offered based on **risk of HIV acquisition**, not merely on membership in a particular identity category.
 - MSM, sex workers and injection-drug users as classic high-risk populations; these are examples of populations with elevated exposure risk rather than a complete modern definition of who may benefit.
 
-#### 38. HIV-EXPOSED INFANTS: NACO 2021 HIGH-YIELD TABLE
+##### 38. HIV-EXPOSED INFANTS: NACO 2021 HIGH-YIELD TABLE
 
-##### Low-risk infant
+###### Low-risk infant
 Definition in NACO 2021:
 - Maternal viral load **<1000 copies/mL**, measured after 32 weeks of pregnancy up to delivery.
 Prophylaxis:
 - **Nevirapine syrup** (or zidovudine in specified situations)
 - From birth to **6 weeks**
 
-##### High-risk infant
+###### High-risk infant
 Examples:
 - Mother not on ART
 - Maternal viral load not measured after 32 weeks through delivery
