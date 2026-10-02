@@ -980,6 +980,7 @@ Mature infectious virions
 | ==Emtricitabine== |               | Navirapine | Raltegravir      | Atazanavir |
 | ==Zidovudine==    |               |            |                  | Lopinavir  |
 | ==Abacavir==      |               |            |                  |            |
+> We always giv
 
 | Situation      | Regimen                               |
 | -------------- | ------------------------------------- |
