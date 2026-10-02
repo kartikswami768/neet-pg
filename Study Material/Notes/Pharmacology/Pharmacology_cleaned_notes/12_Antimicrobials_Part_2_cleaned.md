@@ -723,15 +723,17 @@ theophylline and warfarin as examples of increased toxicity/exposure through CYP
 ##### 18.1 Invasive candidiasis / candidemia
 **Current first-line principle**
 **==Echinocandin==** is a standard initial therapy in most non-neutropenic adults with candidemia.
-Selected stable patients with susceptible isolates may receive ==fluconazole== as an alternative or step-down agent.
+Selected stable patients with susceptible isolates may receive ==fluconazole== as an *alternative or step-down agent.*
 **correction**
 - The “==amphotericin B as first-choice induction for all yeast-like fungi==” is too broad.
 - Amphotericin B remains highly important for cryptococcosis and selected resistant/severe infections, but **candidemia is generally started with an echinocandin** unless specific factors favour another agent.
 
-##### 18.2 Cryptococcosis
+##### 18.2 [[Cryptococcosis]]
 - *Cryptococcus* is a **yeast**.
 - For cryptococcal meningitis, an amphotericin B + ==flucytosine==-based induction regimen is a key high-efficacy approach where available.
 - ==Fluconazole== has an important role in subsequent ==consolidation/maintenance== therapy.
+
+![[Cryptococcosis#Management]]
 
 ##### 18.3 Dimorphic fungi
 Examples include:
@@ -743,7 +745,7 @@ Examples include:
 > Coccidioides should not be grouped as an ordinary “yeast-like fungus.” It has a distinctive mould/spherule morphology and belongs among dimorphic/mould-type systemic mycoses for pharmacological teaching purposes.
 
 **Typical treatment pattern**
-- Severe disease: often an amphotericin formulation initially.
+- Severe disease: often an **amphotericin** formulation initially.
 - Step-down/maintenance: commonly an ==azole== such as ==itraconazole== depending on organism and syndrome.
 
 ##### 18.4 Invasive aspergillosis
