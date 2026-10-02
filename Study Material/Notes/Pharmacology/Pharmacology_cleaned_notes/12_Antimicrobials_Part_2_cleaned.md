@@ -980,14 +980,15 @@ Mature infectious virions
 | ==Emtricitabine== |               | Navirapine | Raltegravir      | Atazanavir |
 | ==Zidovudine==    |               |            |                  | Lopinavir  |
 | ==Abacavir==      |               |            |                  |            |
-> We always giv
+> We always give Ritonavir (in small amount) with Protease Inhibitor
 
-| Situation      | Regimen                               |
-| -------------- | ------------------------------------- |
-| Adult          | Tenofovir + Lamivudine + Dalutegravir |
-| PEP (1st line) | Tenofovir + Lamivudine + LPV/r        |
-| PEP (2nd line) | Tenofovir + Lamivudine + Efavirenz    |
-| PEP (child)    | Zidovudine + Lamivudine + LPV/r       |
+| Situation            | Regimen                               |
+| -------------------- | ------------------------------------- |
+| Adult                | Tenofovir + Lamivudine + Dalutegravir |
+| Adult (Tenofovir CI) |                                       |
+| PEP (1st line)       | Tenofovir + Lamivudine + LPV/r        |
+| PEP (2nd line)       | Tenofovir + Lamivudine + Efavirenz    |
+| PEP (child)          | Zidovudine + Lamivudine + LPV/r       |
 
 ##### REVERSE TRANSCRIPTASE INHIBITORS (RTIs)
 ###### 29.1 NRTIs
