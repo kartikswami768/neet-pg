@@ -465,32 +465,23 @@ The labels intestinal TB as an “absolute contraindication” to corticosteroid
 > **Correction:** This is **not** an appropriate universal rule. Steroid use in abdominal/intestinal TB is case-specific and should be based on the actual indication, complications and specialist guidance.
 
 #### 7. TB AND HIV CO-INFECTION
-
-> **India / NTEP + WHO context:** Separate the international timing framework from the India-specific NACO/NTEP drug-interaction instruction.
-
 ##### Important principle
 TB and HIV should both be treated, but ART is **not** simply “forbidden until ATT is finished.”
-
 ##### Timing of ART
 A high-yield WHO framework is:
 - **CD4 ≤50 cells/mm3:** start ART within about **2 weeks** of starting TB treatment in most patients.
 - **Higher CD4 counts:** start ART within **8 weeks** in general.
 - **TB meningitis:** ART timing is individualized and commonly delayed relative to uncomplicated pulmonary TB because early immune recovery may worsen CNS inflammation.
-
 ##### Why the delay can matter
-Starting ART causes immune recovery. A rapid inflammatory response against existing TB antigen can produce **immune reconstitution inflammatory syndrome (IRIS)**.
+Starting ART causes immune recovery. A rapid inflammatory response against existing TB antigen can produce ==**immune reconstitution inflammatory syndrome (IRIS)**.==
 
 ##### Rifampicin interaction with DTG
 As above:
 - Rifampicin induces metabolism/transport.
 - NACO recommends **DTG 50 mg twice daily** during rifampicin-containing ATT, with the extra dose continued for **2 weeks after rifampicin is stopped**.
-
+>Rifampicin has **interaction with almost all ART drugs except NRTIs**. So replacing Rifampicin can be considered.
 #### 8. TB PREVENTIVE TREATMENT (TPT)
-
-> **WHO / Global context:** Regimens explicitly introduced as WHO options are international guidance. They should not be assumed to be NTEP programme regimens without an Indian guideline reference.
-
-isoniazid, rifampicin, isoniazid-rifampicin and isoniazid-rifapentine combinations.
-
+Isoniazid, rifampicin, isoniazid-rifampicin and isoniazid-rifapentine combinations.
 ##### Current WHO preventive-treatment options include
 - **3HP:** weekly isoniazid + rifapentine for 3 months
 - **1HP:** daily isoniazid + rifapentine for 1 month in eligible populations
@@ -1175,7 +1166,8 @@ Bind an allosteric site on HIV reverse transcriptase and inhibit enzyme function
 **Nevirapine**
 - **Hepatotoxicity**
 - Rash
-- Severe cutaneous reactions including SJS/TEN can occur**Efavirenz**
+- Severe cutaneous reactions including SJS/TEN can occur
+**Efavirenz**
 - CNS adverse effects: vivid dreams, dizziness, insomnia, neuropsychiatric symptoms
 - Rash possible
 > “All NNRTIs cause SJS” is too absolute, and the “-vir” naming pattern is not a reliable pharmacological classification rule.
@@ -1240,7 +1232,6 @@ These adverse effects are less dominant with newer agents than with older PI reg
 - Breast hypertrophy
 - Diabetes
 - Dyslipidaemia
-
 ###### Pharmacological perspective
 HIV-associated lipodystrophy is multifactorial and is not simply an effect of “eating fatty food.”
 
@@ -1248,7 +1239,7 @@ HIV-associated lipodystrophy is multifactorial and is not simply an effect of �
 **Semaglutide is an anti-obesity/antidiabetic GLP-1 receptor agonist, but it is not appropriately described as a drug specifically approved because of protease-inhibitor-associated HIV lipodystrophy.** It may be clinically used to manage obesity according to its approved indication, but that is different from an HIV-lipodystrophy-specific drug indication.
 
 ###### Historical drug
-- **Tesamorelin** is a GHRH analogue that has a specific role in reducing excess visceral abdominal fat in adults with HIV-associated lipodystrophy in jurisdictions where it is approved.
+- **Tesamorelin** is a [[09_Endocrine_System_cleaned|GHRH analogue]] that has a specific role in reducing excess visceral abdominal fat in adults with HIV-associated lipodystrophy in jurisdictions where it is approved.
 
 ##### 34. BOOSTED PROTEASE INHIBITORS
 

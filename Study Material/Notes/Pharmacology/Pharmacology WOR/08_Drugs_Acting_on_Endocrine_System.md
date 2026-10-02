@@ -210,8 +210,8 @@ GnRH agonists produce different effects when dosed intermittently vs continuousl
 - Macimorelin.
 - Tesamorelin.
 - Uses:
-  - Diagnosis of dwarfism.
-  - AIDS-related lipodystrophy (Tesamorelin).
+	  - Diagnosis of dwarfism.
+	  - ==AIDS-related lipodystrophy (Tesamorelin).==
 
 ### Somatostatin analogs
 
