@@ -835,6 +835,9 @@ The mnemonic:
 
 Other uses:
 - ==Chancroid==
+	- *Hemophylus ducrei*
+	- Painful purulent ulcers that bleed easily
+	- tender lymph nodes
 - Diphtheria
 - Selected sexually transmitted infections
 
@@ -849,7 +852,6 @@ Other uses:
 
 **Diphtheria**
 **erythromycin/azithromycin + antitoxin**.
-**Current CDC update:** For respiratory/cutaneous diphtheria, the recommended antibiotics are **erythromycin or penicillin**; **diphtheria antitoxin** is recommended for respiratory disease.
 
 ##### 27.4 Gonorrhea / chlamydia correction
 Current CDC adult gonorrhea treatment is:
