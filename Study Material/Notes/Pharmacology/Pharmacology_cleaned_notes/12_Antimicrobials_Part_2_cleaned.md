@@ -928,13 +928,13 @@ Important structural components diagram:
 
 ##### HIV ENTRY / ATTACHMENT / CAPSId INHIBITORS
 
-| Target | Drug | High-yield mechanism |
-|---|---|---|
-| gp41 fusion | **Enfuvirtide** | Blocks fusion of viral envelope with host-cell membrane |
-| gp120 attachment | **Fostemsavir** | Prodrug of temsavir; inhibits attachment to host CD4 |
-| Capsid | **Lenacapavir** | Capsid inhibitor acting at multiple stages of HIV replication |
-| CD4 post-attachment | **Ibalizumab** | Monoclonal antibody against CD4; blocks post-attachment entry events |
-| CCR5 | **Maraviroc** | CCR5 antagonist; effective only for CCR5-tropic HIV |
+| Target              | Drug            | High-yield mechanism                                                 |
+| ------------------- | --------------- | -------------------------------------------------------------------- |
+| gp41 fusion         | **Enfuvirtide** | Blocks fusion of viral envelope with host-cell membrane              |
+| gp120 attachment    | **Fostemsavir** | Prodrug of temsavir; inhibits attachment to host CD4                 |
+| Capsid              | **Lenacapavir** | Capsid inhibitor acting at multiple stages of HIV replication        |
+| CD4 post-attachment | **Ibalizumab**  | Monoclonal antibody against CD4; blocks post-attachment entry events |
+| CCR5                | **Maraviroc**   | CCR5 antagonist; effective only for CCR5-tropic HIV                  |
 
 ###### Mnemonics
 - **-mab** → monoclonal antibody: ibalizumab
@@ -970,7 +970,7 @@ Viral proteins / polyproteins
 Mature infectious virions
 ```
 
-#### 2. Anti-Retroviral Drugs
+#### 2. Anti-Retroviral Drugs acting on Replication Cycle
 ##### REVERSE TRANSCRIPTASE INHIBITORS (RTIs)
 
 ###### 29.1 NRTIs
