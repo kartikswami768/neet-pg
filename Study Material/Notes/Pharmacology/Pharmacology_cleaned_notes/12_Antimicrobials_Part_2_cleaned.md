@@ -512,33 +512,19 @@ These are teaching mnemonics, not complete immunological descriptions.
 - **Cell wall:** beta-glucan and other polysaccharides
 - **Cell membrane:** ergosterol
 **Main target sites**
-
+![[12_Antimicrobials_Part_2_cleaned 2026-10-02 09.24.28.excalidraw]]
 Fungal cell wall
- |
-
- +-- beta-1,3-glucan synthesis --> Echinocandins
+	- beta-1,3-glucan synthesis --> Echinocandins
 Fungal membrane
- |
-
- +-- ergosterol binding / pore formation --> Amphotericin B
- |
-
- +-- squalene epoxidase --> Terbinafine
- |
-
- +-- 14-alpha-demethylase --> Azoles
+	- ergosterol binding / pore formation --> Amphotericin B
+	- squalene epoxidase --> Terbinafine
+	- 14-alpha-demethylase --> Azoles
 Fungal nucleic acid metabolism
- |
-
- +-- 5-flucytosine --> converted to 5-FU; inhibits DNA/RNA-related synthesis
+	- 5-flucytosine --> converted to 5-FU; inhibits DNA/RNA-related synthesis
 Fungal microtubules
- |
-
- +-- Griseofulvin
+	- Griseofulvin
 Fungal translation
- |
-
- +-- Tavaborole (leucyl-tRNA synthetase inhibitor)
+	 - Tavaborole (leucyl-tRNA synthetase inhibitor)
 
 #### 13. ECHINOCANDINS
 Examples:
