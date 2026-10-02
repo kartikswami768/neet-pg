@@ -209,11 +209,14 @@ drugs that retain activity against dormant or slowly replicating bacilli.
 	- **L** - Linezolid
 	- **L** - Levofloxacin or moxifloxacin
 
-| Drug                 | Mechanism                                                        | Adverse Effect                                                                                                       |
-| -------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Bed**a**q**uilline | **BED** → Decrease energy<br>Inhibits Mycobacterial ATP synthase | Qt prolongation                                                                                                      |
-| Linezolid            | z → 5<br>50s ribosome → Protein Synthesis                        | POST<br>1. Peripheral Neuropathy<br>2. Optic Neuritis<br>3. Serotonin Syndrome<br>4. Thrombocytopenia/BM suppression |
-| Fluoroquinolones     | Inhibits Topoisomerase (II + IV)<br>II → aka Gyrase              | Tendon<br>QT<br>CNS, neuropathy (Can occur)<br>glucose<br>neuropathy<br>C. difficile                                 |
+| Drug                 | Mechanism                                                        | Adverse Effect                                                                                                                              |
+| -------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Bed**a**q**uilline | **BED** → Decrease energy<br>Inhibits Mycobacterial ATP synthase | Qt prolongation                                                                                                                             |
+| Linezolid            | z → 5<br>50s ribosome → Protein Synthesis                        | PLOTS<br>1. Peripheral Neuropathy<br>2. Lactic Acidosis<br>3. Optic Neuritis<br>4. Serotonin Syndrome<br>5. Thrombocytopenia/BM suppression |
+| Fluoroquinolones     | Inhibits Topoisomerase (II + IV)<br>II → aka Gyrase              | Tendon<br>QT<br>CNS, neuropathy (Can occur)<br>glucose<br>neuropathy<br>C. difficile                                                        |
+| Clofazimin           |                                                                  | Brown Gray Skin pigmentation,QT prolongation                                                                                                |
+| Cycloserine          | Inhibit Peptidoglycan Syntheses                                  | CNS and Psychiatric (major)                                                                                                                 |
+|                      |                                                                  |                                                                                                                                             |
 
 **Other important drugs**
 - Clofazimine
