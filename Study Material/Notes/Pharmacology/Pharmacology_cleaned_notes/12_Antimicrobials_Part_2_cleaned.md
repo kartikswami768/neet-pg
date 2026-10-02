@@ -1506,6 +1506,7 @@ flowchart TD
 ###### Key Point
 - Usually used as **ACTs (Artemisinin-based Combination Therapy)**
 - Very short acting → Can't be used as monotherapy and prophylaxis
+	- Thus combined with slow acting drugs
 ##### Antifolates
 ###### DHFR Inhibitors
 - Pyrimethamine
