@@ -211,7 +211,7 @@ Protein Synthesis inhibition → 50s Ribosome
 **Mnemonic:** POST
 - **P** - Peripheral neuropathy
 - **O** - Optic neuritis
-- **S** - Serotonin syndrome risk because linezolid is a reversible, nonselective MAO inhibitor
+- **S** - ==Serotonin syndrome== risk because linezolid is a reversible, nonselective MAO inhibitor
 - **T** - ==Thrombocytopenia== / ==bone-marrow suppression==
 
 **Additional high-yield point**
@@ -224,16 +224,13 @@ Examples:
 These are major drugs in modern DR-TB regimens.
 
 ##### 9.4 Clofazimine
-
 ###### Important properties
 - Used in leprosy and in selected DR-TB regimens.
 - Can produce **brown/gray skin hyperpigmentation** due to tissue deposition.
 - QT prolongation is also clinically relevant, especially when combined with other QT-prolonging drugs.
 **association**
 - Cross-resistance may occur with other DR-TB drugs, including bedaquiline, in resistant strains.
-
 ##### 9.5 Cycloserine
-
 ###### Mechanism
 Inhibits enzymes involved in peptidoglycan synthesis, classically:
 - **Alanine racemase**
@@ -256,7 +253,6 @@ Both drugs can contribute to **QT prolongation**, particularly in combination re
 	- breastfeeding.
 
 ##### 9.7 Ethionamide
-
 ###### Mechanism
 - Inhibits mycolic-acid synthesis.
 - Structurally/pharmacologically resembles isoniazid in important aspects.
@@ -273,7 +269,7 @@ The mnemonic “ETH” associates ethionamide with erectile dysfunction and thyr
 - Historically important in HIV-associated TB because of severe hypersensitivity and rash risk.
 - **Avoid in HIV infection** because of serious adverse reactions.
 
-#### 2. DRUG-RESISTANT TUBERCULOSIS
+#### 2. DRUG-RESISTANT TB regimens
 ##### 2.1 Definitions
 
 ###### MDR/RR-TB
@@ -284,7 +280,7 @@ The mnemonic “ETH” associates ethionamide with erectile dysfunction and thyr
 - MDR/RR-TB + **fluoroquinolone resistance**.
 
 ###### XDR-TB
-- MDR/RR-TB + **FQ resistance + resistance to bedaquiline or 
+- MDR/RR-TB + **FQ resistance + resistance to bedaquiline or linezolid (Group A drugs)
 
 ##### 2. Isoniazid-resistant TB
 ###### H mono/poly-drug resistance
