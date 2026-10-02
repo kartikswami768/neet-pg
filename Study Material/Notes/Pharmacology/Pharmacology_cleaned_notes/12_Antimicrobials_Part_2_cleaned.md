@@ -974,12 +974,12 @@ Mature infectious virions
 
 #### 2. Anti-Retroviral Drugs acting on Replication Cycle
 
-| N(s)RTI           | N(t)RTI       | NNRTI      | Integrase        | Protease  |
-| ----------------- | ------------- | ---------- | ---------------- | --------- |
-| ==Lamivudine==    | ==Tenofovir== | Efavirenz  | ==Dolutegravir== | Ritonavir |
-| ==Emtricitabine== |               | Navirapine | Raltegravir      | Lopinavir |
-| ==Zidovudine==    |               |            |                  |           |
-| ==Abacavir==      |               |            |                  |           |
+| N(s)RTI           | N(t)RTI       | NNRTI      | Integrase        | Protease   |
+| ----------------- | ------------- | ---------- | ---------------- | ---------- |
+| ==Lamivudine==    | ==Tenofovir== | Efavirenz  | ==Dolutegravir== | Ritonavir  |
+| ==Emtricitabine== |               | Navirapine | Raltegravir      | Atazanavir |
+| ==Zidovudine==    |               |            |                  | Lopinavir  |
+| ==Abacavir==      |               |            |                  |            |
 
 | Situation      | Regimen                               |
 | -------------- | ------------------------------------- |
