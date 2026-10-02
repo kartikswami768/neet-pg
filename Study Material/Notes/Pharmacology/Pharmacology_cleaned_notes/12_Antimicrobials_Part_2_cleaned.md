@@ -1811,11 +1811,6 @@ Historically, quinine-containing regimens had a much larger role than they do wi
 - Primaquine = **0.75 mg/kg single dose**
 #### Artemether + Lumefantrine (ACT-AL) — North-East India
 
-| Day | Dose/kg concept | **Adult dose** |
-|---|---:|---:|
-| **D1** | — | **4 tablets**, then **4 tablets after 8 h** |
-| **D2** | — | **4 tablets BD** |
-| **D3** | — | **4 tablets BD** |
 
 ##### Tablet composition
 
@@ -1856,13 +1851,8 @@ Historically, quinine-containing regimens had a much larger role than they do wi
 | **24 h** | **2.4 mg/kg** | **144 mg** |
 | **Then q24h** | **2.4 mg/kg/day** | **144 mg/day** |
 | Once oral therapy possible | — | **Complete 3-day ACT** |
-
 ##### Schedule
-
 **0 h → 12 h → 24 h → q24h → oral ACT**
-
----
-
 ### 6. Ultra-crisp master table
 
 | Form | Drug | **Dose/kg** | **60-kg adult equivalent** | Duration |
@@ -1896,19 +1886,6 @@ Historically, quinine-containing regimens had a much larger role than they do wi
 #### Severe malaria
 
 - **IV artesunate:** `2.4 mg/kg at 0, 12, 24 h → OD`
-
-### 50. Uncomplicated P. FALCIPARUM
-
-##### Core regimen concept
-- Use an **artemisinin-based combination therapy (ACT)**.
-- Add a single gametocytocidal dose of primaquine Indian programme when indicated and not contraindicated.
-
-##### India: national programme regimen
-- **Most of India outside the North-East:** artesunate + sulfadoxine-pyrimethamine (AS+SP)
-- **North-Eastern states:** artemether + lumefantrine (AL)
-##### No radical cure for falciparum
-- No hypnozoite stage → no 14-day hypnozoite-eradication regimen.
-- Primaquine is used in a transmission-blocking role, not as the treatment that clears the acute blood-stage infection.
 
 ### 51. Severe / Complicated MALARIA
 
