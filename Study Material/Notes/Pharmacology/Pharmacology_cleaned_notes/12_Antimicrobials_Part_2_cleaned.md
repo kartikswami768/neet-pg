@@ -911,6 +911,7 @@ Levamisole has a much smaller modern therapeutic role than its historical examin
 #### 1. HIV Virus
 
 ##### HIV structure and entry
+![[IMG_1221.png]]
 Important structural components diagram:
 - Envelope glycoproteins **gp120** and **gp41**
 - Capsid
