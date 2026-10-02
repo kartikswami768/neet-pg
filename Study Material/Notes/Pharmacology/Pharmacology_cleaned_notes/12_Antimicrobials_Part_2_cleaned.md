@@ -339,18 +339,16 @@ isoniazid, rifampicin, isoniazid-rifampicin and isoniazid-rifapentine combinatio
 #### 9. SECOND-LINE TB DRUGS: HIGH-YIELD INDIVIDUAL AGENTS
 
 ##### 9.1 Bedaquiline
-
 ###### Mechanism
 - Inhibits **mycobacterial ATP synthase**.
 - Reduces energy production.
 **Adverse effect**
 - **QT prolongation** is the classic exam association.
-
 ###### Mnemonic
 “BED” → reduced energy/ATP.
 
 ##### 9.2 Linezolid
-**mnemonic:** POST**
+**Mnemonic:** POST
 - **P** - Peripheral neuropathy
 - **O** - Optic neuritis
 - **S** - Serotonin syndrome risk because linezolid is a reversible, nonselective MAO inhibitor
@@ -385,19 +383,16 @@ Inhibits enzymes involved in peptidoglycan synthesis, classically:
 - Seizures may occur
 - Suicidal behaviour risk is clinically important in severe neuropsychiatric toxicity
 
-##### 9.6 Delamanid and pretomanid
-
+##### 9.6 Delamanid and ==pretomanid==
 ###### Mnemonic
 the “-manid” / “-nanid” sound to associate these drugs with **mycolic-acid-related cell-wall inhibition**.
-
 ###### High-yield point
 Both drugs can contribute to **QT prolongation**, particularly in combination regimens where multiple QT-prolonging agents are present.
 **Pretomanid: eligibility caveats**
-The correctly emphasizes important restrictions around pretomanid-containing regimens in:
-- younger patients,
-- pregnancy,
-- breastfeeding.
-Current WHO guidance provides a non-pretomanid all-oral alternative for eligible patients who cannot receive a pretomanid-containing regimen.
+- Not to be used in:
+	- younger patients,
+	- pregnancy,
+	- breastfeeding.
 
 ##### 9.7 Ethionamide
 
@@ -512,18 +507,18 @@ These are teaching mnemonics, not complete immunological descriptions.
 - **Cell wall:** beta-glucan and other polysaccharides
 - **Cell membrane:** ergosterol
 **Main target sites**
-![[12_Antimicrobials_Part_2_cleaned 2026-10-02 09.24.28.excalidraw]]
-Fungal cell wall
-	- beta-1,3-glucan synthesis --> Echinocandins
-Fungal membrane
-	- ergosterol binding / pore formation --> Amphotericin B
-	- squalene epoxidase --> Terbinafine
-	- 14-alpha-demethylase --> Azoles
-Fungal nucleic acid metabolism
-	- 5-flucytosine --> converted to 5-FU; inhibits DNA/RNA-related synthesis
-Fungal microtubules
+![[12_Antimicrobials_Part_2_cleaned 2026-10-02 09.24.28.excalidraw|100%]]
+1. Fungal cell wall
+	- beta-1,3-glucan synthesis → Echinocandins
+2. Fungal membrane
+	- ergosterol binding / pore formation → Amphotericin B
+	- squalene epoxidase → Terbinafine
+	- 14-alpha-demethylase → Azoles
+3. Fungal nucleic acid metabolism
+	- 5-flucytosine → converted to 5-FU; inhibits DNA/RNA-related synthesis
+4. Fungal microtubules
 	- Griseofulvin
-Fungal translation
+5. Fungal translation
 	 - Tavaborole (leucyl-tRNA synthetase inhibitor)
 
 #### 13. ECHINOCANDINS
@@ -581,7 +576,8 @@ Fungal cell membrane
 
 ##### 16.1 General mechanism
 - Inhibit fungal **14-alpha-demethylase (CYP51)**.
-- Reduce conversion of lanosterol to ergosterol.
+- ==Reduce conversion of lanosterol to ergosterol.==
+	- And that is why it inhibits steroid metabolism
 - Result: impaired fungal cell membrane synthesis/function.
 **Important examples**
 - Ketoconazole
@@ -593,35 +589,37 @@ Fungal cell membrane
 
 ##### 16.2 Ketoconazole
 **Major toxicity / interaction teaching**
-Systemic ketoconazole strongly inhibits CYP-mediated steroid and drug metabolism.
+Systemic ketoconazole ==strongly inhibits CYP-mediated steroid and drug metabolism.==
 Consequences include:
 - Increased exposure to susceptible co-administered drugs
 - Hepatotoxicity
-- Reduced androgen synthesis → decreased testosterone
+- Reduced androgen synthesis → ==decreased testosterone==
 - Reduced adrenal steroid synthesis at systemic toxic/excess exposure
 - **Gynecomastia** and other endocrine effects
+
 **Drug interactions**
 theophylline and warfarin as examples of increased toxicity/exposure through CYP inhibition.
+
 **Important current clinical note**
 - Systemic/oral ketoconazole has a much more restricted role than older pharmacology notes may imply because of hepatotoxicity and endocrine toxicity.
 - **Topical ketoconazole** remains widely used for dermatological indications such as seborrhoeic dermatitis/dandruff.
 
 ##### 16.3 Azole elimination
-> “All azoles are excreted in bile except fluconazole” is an oversimplification. Elimination pathways vary substantially by drug. **Fluconazole** is predominantly renally eliminated and is the clearest high-yield renal-excretion exception; the other azoles have mixed hepatic/biliary and metabolic elimination patterns.
+> “All azoles are excreted in bile except fluconazole” 
+
+- **Fluconazole** is predominantly renally eliminated and is the clearest high-yield renal-excretion exception; 
+- The other azoles have mixed hepatic/biliary and metabolic elimination patterns.
 
 ##### 16.4 Individual azoles
 
-| Drug | High-yield association |
-|---|---|
-| Clotrimazole | Vaginal/topical azole; commonly used for vulvovaginal candidiasis |
-| Ciclopirox | Topical antifungal; can be used for dermatophyte nail disease in lacquer formulations |
-| Ketoconazole | Topical shampoo; dandruff/seborrhoeic dermatitis; oral use restricted because of toxicity |
-| Voriconazole | Visual disturbances; QT prolongation; major first-line therapy for invasive aspergillosis |
-| Isavuconazole | Broad-spectrum triazole; useful for invasive mould disease; **shortens QT rather than prolonging it** |
+| Drug          | High-yield association                                                                                                       |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Clotrimazole  | Vaginal/topical azole; commonly used for vulvovaginal candidiasis                                                            |
+| Ciclopirox    | Topical antifungal; can be used for dermatophyte nail disease in lacquer formulations                                        |
+| Ketoconazole  | Topical shampoo; dandruff/seborrhoeic dermatitis; oral use restricted because of toxicity                                    |
+| Voriconazole  | ==Visual disturbances; QT prolongation==; major first-line therapy for ==invasive aspergillosis==                            |
+| Isavuconazole | Broad-spectrum triazole; useful for invasive mould disease & ==mucormycosis==; ==**shortens QT rather than prolonging it**== |
 
-> **Major OCR/visual correction:** The fourth row azole table is labelled “Ketoconazole,” but the adverse-effect pair **visual defects + QT prolongation** is characteristic of **voriconazole**. The following “Isavuconazole” row is also pharmacologically incorrect : isavuconazole is associated with **QT shortening**, not QT prolongation.
-
-### Amphotericin & invasive fungal infections
 
 #### 17. AMPHOTERICIN B
 
@@ -642,7 +640,7 @@ theophylline and warfarin as examples of increased toxicity/exposure through CYP
 **Mucormycosis**
 - **Liposomal amphotericin B (L-AmB)** is a principal first-line systemic treatment, usually together with urgent surgical management when appropriate.
 **Cryptococcal meningitis**
-- Liposomal amphotericin B plus **flucytosine** is a key induction regimen where available and appropriate, followed by oral azole consolidation/maintenance according to the clinical setting.
+- Liposomal amphotericin B ==plus **flucytosine**== is a key induction regimen where available and appropriate, followed by oral azole consolidation/maintenance according to the clinical setting.
 **Kala-azar / visceral leishmaniasis**
 - Liposomal amphotericin B is the first-line drug current Indian kala-azar programme pathway.
 
@@ -660,20 +658,20 @@ theophylline and warfarin as examples of increased toxicity/exposure through CYP
 | Lipid-associated formulations | Lower toxicity | Better tolerated, higher cost |
 | Liposomal amphotericin B | Generally least nephrotoxic among common systemic AmB formulations | Preferred in many serious infections when available |
 
+### Important Uses of antifungals
 #### 18. INVASIVE FUNGAL INFECTIONS: ORGANISM-DRUG MAP
-
 ##### 18.1 Invasive candidiasis / candidemia
 **Current first-line principle**
-**Echinocandin** is a standard initial therapy in most non-neutropenic adults with candidemia.
-Selected stable patients with susceptible isolates may receive fluconazole as an alternative or step-down agent.
+**==Echinocandin==** is a standard initial therapy in most non-neutropenic adults with candidemia.
+Selected stable patients with susceptible isolates may receive ==fluconazole== as an alternative or step-down agent.
 **correction**
-- The “amphotericin B as first-choice induction for all yeast-like fungi” is too broad.
+- The “==amphotericin B as first-choice induction for all yeast-like fungi==” is too broad.
 - Amphotericin B remains highly important for cryptococcosis and selected resistant/severe infections, but **candidemia is generally started with an echinocandin** unless specific factors favour another agent.
 
 ##### 18.2 Cryptococcosis
 - *Cryptococcus* is a **yeast**.
-- For cryptococcal meningitis, an amphotericin B + flucytosine-based induction regimen is a key high-efficacy approach where available.
-- Fluconazole has an important role in subsequent consolidation/maintenance therapy.
+- For cryptococcal meningitis, an amphotericin B + ==flucytosine==-based induction regimen is a key high-efficacy approach where available.
+- ==Fluconazole== has an important role in subsequent ==consolidation/maintenance== therapy.
 
 ##### 18.3 Dimorphic fungi
 Examples include:
@@ -686,7 +684,7 @@ Examples include:
 
 **Typical treatment pattern**
 - Severe disease: often an amphotericin formulation initially.
-- Step-down/maintenance: commonly an azole such as itraconazole depending on organism and syndrome.
+- Step-down/maintenance: commonly an ==azole== such as ==itraconazole== depending on organism and syndrome.
 
 ##### 18.4 Invasive aspergillosis
 **First-line association**
@@ -695,15 +693,14 @@ Examples include:
 - Isavuconazole
 - Liposomal amphotericin B
 **High-yield negative association**
-- Voriconazole is **not active against mucormycosis as an effective first-line therapy**.
+- ==Voriconazole== is **not active against mucormycosis as an effective first-line therapy**.
 
-#### 19. MUCORMYCOSIS
+##### 18.5 Mucormycosis
 
-##### Treatment
+###### Treatment
 1. **Urgent surgical debridement** when anatomically appropriate.
 2. **Liposomal amphotericin B** as the principal first-line systemic antifungal.
-3. Posaconazole or isavuconazole may be used as step-down/salvage options in appropriate patients.
-The appropriately identifies amphotericin B as the central drug association.
+3. ==Posaconazole== or ==isavuconazole== may be used as step-down/salvage options in appropriate patients.
 
 #### 20. ANTIFUNGAL USE IN PREGNANCY
 
@@ -1360,7 +1357,7 @@ RBCs
 Clinical malaria
  |
 
- +--> Some parasites differentiate into gametocytes
+ +→ Some parasites differentiate into gametocytes
  |
 
  v
@@ -1588,10 +1585,10 @@ Intestinal lumen
 Trophozoite
  |
 
- +--> intestinal invasion --> amoebic dysentery
+ +→ intestinal invasion → amoebic dysentery
  |
 
- +--> portal spread --> amoebic liver abscess
+ +→ portal spread → amoebic liver abscess
 ```
 **Main treatment concept**
 For **invasive intestinal disease or liver abscess
