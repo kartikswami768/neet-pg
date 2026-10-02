@@ -990,6 +990,8 @@ Mature infectious virions
 | PEP (1st line)       | Tenofovir + Lamivudine + Dalutegravir |
 | PEP (2nd line)       | Tenofovir + Lamivudine + Efavirenz    |
 | PEP (child)          | Zidovudine + Lamivudine + LPV/r       |
+| Exposed Infant (LR)  | Nevirapine                            |
+| Exposed infant (HR)  | Zido                                  |
 
 ##### REVERSE TRANSCRIPTASE INHIBITORS (RTIs)
 ###### 29.1 NRTIs
