@@ -983,11 +983,14 @@ Mature infectious virions
 > We always give Ritonavir (in small amount) with Protease Inhibitor
 
 >Zidovudine & Abacavir → 2nd line to Tenofovir
->Zidovudine → Children
+>Zidovudine → Children (< 30 Kg weight)
 >Abacavir → Adults
 
 >India → Lamivudine fan
 >World → Emtricitabine is equal to Lamivudine
+
+> if < 6 years → LPV/r instead of Dalutegravir
+> if < 30 Kg → Zidovudine instead of Tenofovir
 
 | Situation             | Regimen                                      |
 | --------------------- | -------------------------------------------- |
