@@ -843,13 +843,17 @@ Other uses:
 
 ##### 27.3 CYP inhibition comparison
 
-| Feature | Erythromycin | Clarithromycin | Azithromycin |
-|---|---:|---:|---:|
-| CYP inhibition | High | Moderate | Least |
-| QT prolongation | Important | Important | Lower relative interaction burden, but QT risk still exists |
-| Hypertrophic pyloric stenosis association | Yes | Yes | Not the classic association |
-| Neonatal use in | Caution | Caution | Presented as safer |
+| Feature                                   | Erythromycin | Clarithromycin |                                                Azithromycin |
+| ----------------------------------------- | -----------: | -------------: | ----------------------------------------------------------: |
+| CYP inhibition                            |         High |       Moderate |                                                       Least |
+| QT prolongation                           |    Important |      Important | Lower relative interaction burden, but QT risk still exists |
+| Hypertrophic pyloric stenosis association |          Yes |            Yes |                                 Not the classic association |
+| Neonatal use in                           |      Caution |        Caution |                                          Presented as safer |
 
+**Hypertrophic Pyloric Stenosis:**
+	Some macrolides cause stronger motilin activation and thus cause strong stomach contractions.
+	If given in initial 2 weeks of life, they can cause hypertrophy of pyloric muscles.
+	
 **Diphtheria**
 **erythromycin/azithromycin + antitoxin**.
 
@@ -872,9 +876,9 @@ For uncomplicated chlamydial infection in adults:
 - Excellent oral bioavailability (~100%).
 - Oral and IV administration achieve comparable systemic exposure.
 - Active against many resistant Gram-positive organisms, including selected:
- - MRSA
- - VRE
- - other multidrug-resistant Gram-positive organisms
+	 - MRSA
+	 - VRE
+	 - other multidrug-resistant Gram-positive organisms
 
 ##### Adverse effects
 is:
