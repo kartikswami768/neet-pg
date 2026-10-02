@@ -646,7 +646,75 @@ Fungal cell membrane
 - Voriconazole
 - Posaconazole
 - Isavuconazole
+##### Pharmacokinetics
 
+| Drug | Key PK point | Exam pearl |
+|---|---|---|
+| **Fluconazole** | Excellent oral absorption<br>**Excellent CSF penetration**<br>Renal elimination | **Dose ↓ in renal impairment** |
+| **Itraconazole** | Absorption variable<br>**Capsules: acid-dependent**<br>Solution better absorbed | Capsules ↑ absorption with food/acid<br>Solution preferably fasting |
+| **Voriconazole** | Oral bioavailability ~96%<br>Hepatic metabolism | **Nonlinear PK** → small dose changes can markedly ↑ levels |
+| **Posaconazole** | Suspension absorption variable<br>DR tablet + IV more reliable | DR tablet absorption less dependent on food |
+| **Isavuconazole** | Prodrug **isavuconazonium**<br>Excellent oral bioavailability | **Shortens QT** |
+| **Ketoconazole** | Acid-dependent absorption<br>Extensive hepatic metabolism | Oral use largely avoided → **hepatotoxicity + endocrine effects** |
+
+##### Pharmacodynamics
+- **Azoles = ergosterol synthesis inhibitors**
+- Inhibit fungal **14-α-demethylase (CYP51)**
+  - ↓ Ergosterol
+  - → Defective fungal cell membrane
+- Generally **fungistatic** against *Candida*
+- Activity against *Aspergillus* depends on drug/site/context
+- Major PK/PD index → **AUC/MIC**
+##### Therapeutic Drug Monitoring
+###### Drugs where TDM is particularly important
+- **Voriconazole**
+- **Itraconazole**
+- **Posaconazole** → selected situations
+##### Major Drug Interactions
+- Most azoles inhibit **CYP enzymes**
+  - → ↑ concentrations of many concomitant drugs
+- **Fluconazole**
+  - Potent **CYP2C9/2C19 inhibitor**
+  - Moderate **CYP3A4 inhibitor**
+- **Voriconazole**
+  - Inhibits **CYP2C19, CYP2C9, CYP3A4**
+- **Itraconazole**
+  - Strong **CYP3A4 inhibitor**
+- **Posaconazole**
+  - Strong **CYP3A4 inhibitor**
+- **Isavuconazole**
+  - Moderate **CYP3A4 inhibitor**
+  - Also induces **CYP2B6/2C8/2C9**
+##### High-Yield Differences
+###### Fluconazole
+- **Excellent CSF penetration**
+- Renally eliminated
+- Dose reduction in renal impairment
+###### Itraconazole
+- **Acid-dependent absorption**
+- Capsule ≠ oral solution pharmacokinetics
+###### Voriconazole
+- **Nonlinear PK**
+- Major CYP interactions
+- Visual disturbances
+###### Posaconazole
+- Absorption depends on formulation
+- DR tablet/IV → more predictable exposure
+###### Isavuconazole
+- **Shortens QT interval**
+- Unlike most QT-prolonging azoles
+###### Ketoconazole
+- **Hepatotoxicity**
+- **Endocrine adverse effects**
+- Oral systemic use largely avoided
+##### Memory Hook
+###### PK
+- **F**luconazole → **F**lows into CSF
+- **I**traconazole → **I**s acid-dependent
+- **V**oriconazole → **V**ariable/nonlinear PK; **V**ision Disturbance
+- **P**osaconazole → **P**redictable with DR tablet/IV
+- **I**savuconazole → **I**ncreases? **No → shortens QT**
+- **K**etoconazole → **K**ills liver + endocrine effects
 ##### 16.2 Ketoconazole
 **Major toxicity / interaction teaching**
 Systemic ketoconazole ==strongly inhibits CYP-mediated steroid and drug metabolism.==
@@ -677,7 +745,7 @@ theophylline and warfarin as examples of increased toxicity/exposure through CYP
 | Clotrimazole  | Vaginal/topical azole; commonly used for vulvovaginal candidiasis                                                            |
 | Ciclopirox    | Topical antifungal; can be used for dermatophyte nail disease in lacquer formulations                                        |
 | Ketoconazole  | Topical shampoo; dandruff/seborrhoeic dermatitis; oral use restricted because of toxicity                                    |
-| Voriconazole  | ==Visual disturbances; QT prolongation==; major first-line therapy for ==invasive aspergillosis==                            |
+| Voriconazole  | ==**V**isual disturbances; QT prolongation==; major first-line therapy for ==invasive aspergillosis==                        |
 | Isavuconazole | Broad-spectrum triazole; useful for invasive mould disease & ==mucormycosis==; ==**shortens QT rather than prolonging it**== |
 
 
