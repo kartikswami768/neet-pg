@@ -1777,7 +1777,6 @@ Historically, quinine-containing regimens had a much larger role than they do wi
 ## Malaria treatment & pregnancy/travel 
 ### 1. Uncomplicated *P. vivax*
 
-#### Day-wise treatment
 
 | Day | Drug | Dose/kg | **60-kg adult equivalent** |
 |---|---|---:|---:|
@@ -1788,34 +1787,26 @@ Historically, quinine-containing regimens had a much larger role than they do wi
 | **D3** | Chloroquine | **5 mg/kg** | **300 mg** |
 | | Primaquine | **0.25 mg/kg** | **15 mg** |
 | **D4–14** | Primaquine | **0.25 mg/kg/day** | **15 mg/day** |
-
 ##### Total
-
 - Chloroquine = **25 mg/kg over 3 days**
 - Primaquine = **0.25 mg/kg/day × 14 days**
-
----
 
 ### 2. Uncomplicated *P. falciparum* — Most of India
 
 #### ACT-SP
 
-| Day | Drug | Dose/kg | **60-kg adult equivalent** |
-|---|---|---:|---:|
-| **D1** | Artesunate | **4 mg/kg** | **240 mg** |
-| | Sulfadoxine | **25 mg/kg** | **1500 mg** |
-| | Pyrimethamine | **1.25 mg/kg** | **75 mg** |
-| **D2** | Artesunate | **4 mg/kg** | **240 mg** |
-| | Primaquine | **0.75 mg/kg once** | **45 mg once** |
-| **D3** | Artesunate | **4 mg/kg** | **240 mg** |
-
+| Day    | Drug          |             Dose/kg | **60-kg adult equivalent** |
+| ------ | ------------- | ------------------: | -------------------------: |
+| **D1** | Artesunate    |         **4 mg/kg** |                 **240 mg** |
+|        | Sulfadoxine   |        **25 mg/kg** |                **1500 mg** |
+|        | Pyrimethamine |      **1.25 mg/kg** |                  **75 mg** |
+| **D2** | Artesunate    |         **4 mg/kg** |                 **240 mg** |
+|        | Primaquine    | **0.75 mg/kg once** |         **==45 mg once==** |
+| **D3** | Artesunate    |         **4 mg/kg** |                 **240 mg** |
 ##### Regimen
-
 - Artesunate = **4 mg/kg/day × 3 days**
 - SP = **25/1.25 mg/kg once on D1**
 - Primaquine = **0.75 mg/kg single dose**
-
----
 
 ### 3. *P. falciparum* — North-East India
 
