@@ -116,6 +116,19 @@ Drug interactions
 > [!note] **Rifampicin + dolutegravir: India-specific high-yield rule**
 >NACO's guideline for patients receiving rifampicin-containing ATT uses **dolutegravir 50 mg twice daily** rather than once daily during rifampicin co-administration, with the additional DTG dose continued through ATT and for **2 weeks after rifampicin is stopped**.
 
+###### Pharmacodynamics
+
+| Parameter          | High-yield point                                                              |
+| ------------------ | ----------------------------------------------------------------------------- |
+| **Target**         | **DNA-dependent RNA polymerase** of *M. tuberculosis*                         |
+| **Binding site**   | Binds **β-subunit (rpoB gene product)**                                       |
+| **Action**         | Blocks **RNA elongation → inhibits bacterial RNA synthesis**                  |
+| **Effect**         | **==Bactericidal==**                                                          |
+| **Activity**       | ==Active against **rapidly dividing + some slowly metabolizing TB bacilli**== |
+| **PK/PD index**    | **AUC/MIC** is the major determinant of efficacy                              |
+| **Resistance**     | Mainly **rpoB mutations** → altered RNA polymerase → rifampicin resistance    |
+| **Clinical pearl** | **Strong sterilizing activity** → major role in shortening TB treatment       |
+> **Rifampicin → binds β-subunit of bacterial DNA-dependent RNA polymerase → blocks transcription → bactericidal.**
 ###### Administration
 - Oral rifampicin is generally taken on an ==**empty stomach**== because food reduces absorption.
 **Body-fluid discoloration**
@@ -195,6 +208,11 @@ drugs that retain activity against dormant or slowly replicating bacilli.
 	- **B** - Bedaquiline
 	- **L** - Linezolid
 	- **L** - Levofloxacin or moxifloxacin
+
+| Drug                 | Mechanism                                                        | Adverse Effect                                                                                                       |
+| -------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Bed**a**q**uilline | **BED** → Decrease energy<br>Inhibits Mycobacterial ATP synthase | Qt prolongation                                                                                                      |
+| Linezolid            | z → 5<br>50s ribosome → Protein Synthesis                        | POST<br>1. Peripheral Neuropathy<br>2. Optic Neuritis<br>3. Serotonin Syndrome<br>4. Thrombocytopenia/BM suppression |
 
 **Other important drugs**
 - Clofazimine
