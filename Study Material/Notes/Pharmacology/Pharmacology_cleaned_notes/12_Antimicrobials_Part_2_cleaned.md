@@ -48,34 +48,35 @@ type: Marrow
 - Active metabolites ==inhibit **mycolic-acid synthesis**==, an essential component mycobacterial cell envelope.
 ![[12_Antimicrobials_Part_2_cleaned 2026-10-02 11.09.02.excalidraw]]
 ###### Resistance
-- Important mechanism: mutations affecting **katG** reduce activation of isoniazid.
-- inhA mutation → Isoniazid and ethionamide not able to inhibit it now
-- inhA promoter mutation → more inhA to inhibit → less effectiveness of drug → ****
+- **katG mutation →** reduce activation of isoniazid.
+- **inhA mutation** → Isoniazid and ethionamide not able to inhibit it now
+- **inhA promoter mutation** → more inhA to inhibit → less effectiveness of drug → **give high dose INH**
 ###### Drug properties
 - Undergoes **acetylation** liver.
 - Acetylator phenotype influences drug exposure.
 - Isoniazid ==inhibits several hepatic CYP enzymes== and therefore has clinically relevant interactions.
 **Acetylator phenotypes**
 
-| Phenotype | Pharmacokinetics | High-yield implication |
-|---|---|---|
-| Fast acetylator | More rapid acetylation and lower exposure | May have lower plasma concentrations |
-| Slow acetylator | Slower acetylation and higher exposure | Higher risk of dose-related toxicity, especially neurotoxicity |
-
+| Phenotype       | Pharmacokinetics                          | High-yield implication                                         |
+| --------------- | ----------------------------------------- | -------------------------------------------------------------- |
+| Fast acetylator | More rapid acetylation and lower exposure | May have lower plasma concentrations                           |
+| Slow acetylator | Slower acetylation and higher exposure    | Higher risk of dose-related toxicity, especially neurotoxicity |
+###### Adverse Effects
 **Neurotoxicity**
 **Peripheral neuropathy** is the classic adverse effect.
 **Prevention/treatment:** **Pyridoxine (vitamin B6)**.
 Risk is increased in settings such as malnutrition, diabetes, HIV infection, pregnancy and pre-existing neuropathy.
+
 **Hepatotoxicity**
 - Isoniazid can cause clinically important drug-induced liver injury.
 - It is one major hepatotoxic drugs in ATT.
+
 **Exam mnemonic retained from : “INH”**
 - **I** - “Insanity” → neuropsychiatric toxicity (e.g. hallucinations/abnormal thoughts in severe toxicity)
 - **N** - Neurotoxicity → peripheral neuropathy
 - **H** - Hepatotoxicity
-> This mnemonic is an exam aid, not a complete adverse-effect profile.
 
-**Drug interactions**
+Drug interactions
 - Isoniazid can inhibit hepatic drug metabolism through CYP inhibition.
 - This may increase exposure to selected co-administered medicines.
 
@@ -84,13 +85,15 @@ Risk is increased in settings such as malnutrition, diabetes, HIV infection, pre
 ###### Mechanism of action
 - Inhibits the **beta subunit of bacterial DNA-dependent RNA polymerase**.
 - Resistance is strongly associated with mutations in **rpoB**.
+
 **Major pharmacokinetic property**
 **Potent inducer of drug-metabolizing enzymes and transporters**, including:
 - CYP3A4 and other CYP enzymes
 - P-glycoprotein (P-gp)
 - UGT enzymes
 This can markedly reduce concentrations of many co-administered drugs.
-**Important interactions**
+
+###### **Important interactions**
 
 | Co-administered drug | Effect of rifampicin | Clinical consequence |
 |---|---|---|
@@ -100,37 +103,33 @@ This can markedly reduce concentrations of many co-administered drugs.
 | Many antiretrovirals | Enzyme/transporter induction | Reduced antiretroviral exposure; regimen-specific adjustment needed |
 | Dolutegravir | Reduced exposure via enzyme/transporter induction | DTG dose adjustment required during rifampicin therapy |
 
-**Rifampicin + dolutegravir: India-specific high-yield rule**
-NACO's guideline for patients receiving rifampicin-containing ATT uses **dolutegravir 50 mg twice daily** rather than once daily during rifampicin co-administration, with the additional DTG dose continued through ATT and for **2 weeks after rifampicin is stopped**.
+> [!note] **Rifampicin + dolutegravir: India-specific high-yield rule**
+>NACO's guideline for patients receiving rifampicin-containing ATT uses **dolutegravir 50 mg twice daily** rather than once daily during rifampicin co-administration, with the additional DTG dose continued through ATT and for **2 weeks after rifampicin is stopped**.
 
 ###### Administration
 - Oral rifampicin is generally taken on an **empty stomach** because food reduces absorption.
 **Body-fluid discoloration**
 - Can cause **orange-red discoloration of urine and other body fluids**.
 - This is generally harmless and should be explained to patients.
-
 ###### Important severe adverse effects
 - Hepatotoxicity
 - Hypersensitivity reactions
 - Drug interactions due to enzyme/transport induction
-> The statement that P-glycoprotein at the blood-brain barrier means “rifampicin cannot enter the BBB” is an overstatement. Rifampicin has limited/variable CNS penetration but can reach the CNS, particularly when meninges are inflamed, and rifampicin is an important component of treatment for TB meningitis.
+###### **Rifamycin derivatives**
 
-**Rifamycin derivatives**
-
-| Drug | High-yield use/property |
-|---|---|
-| Rifapentine | Long-acting rifamycin used in selected TB preventive-treatment and TB regimens |
-| Rifabutin | Less potent CYP induction than rifampicin; useful for selected drug-interaction scenarios |
-| Rifaximin | Poorly absorbed; acts mainly gut; used for hepatic encephalopathy and selected intestinal indications |
+| Drug        | High-yield use/property                                                                                   |
+| ----------- | --------------------------------------------------------------------------------------------------------- |
+| Rifapentine | Long-acting rifamycin used in selected ==TB preventive-treatment== and TB regimens                            |
+| Rifabutin   | Less potent CYP induction than rifampicin; ==useful for selected drug-interaction scenarios==                 |
+| Rifaximin   | ==Poorly absorbed; acts mainly gut==; used for hepatic encephalopathy and selected intestinal indications |
 
 **Rifaximin: retained associations**
+Since it is poorly absorbed, it can be used as a local antibiotic for gut in cases of:
 - Hepatic encephalopathy
 - Traveler's diarrhea in appropriate indications
 - Irritable bowel syndrome with diarrhea in appropriate indications
-> “Gut sterilization” is an oversimplification; the clinically relevant concept is **local intestinal antibacterial activity with minimal systemic absorption**.
 
 ##### 3.3 Pyrazinamide (Z)
-
 ###### Mechanism
 - **Prodrug**, converted to **pyrazinoic acid** by mycobacterial pyrazinamidase.
 - Active against intracellular and relatively dormant/slow-growing organisms and interferes with membrane energetics and related cellular processes.
