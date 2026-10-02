@@ -448,12 +448,12 @@ Organism-specific therapy when pathogen identified
 
 #### 16. Specific Organism-Based Therapy Table
 
-| Suspected organism in | Drug association in | Important current/clinical qualification |
-|---|---|---|
-| MRSA | IV vancomycin | Choice depends on syndrome and susceptibility; linezolid/daptomycin are important alternatives |
-| *Listeria* | Ampicillin | High-yield association |
-| Rickettsia / Chlamydia | Doxycycline | Syndrome-specific; doxycycline is a key agent for many rickettsial diseases |
-| Herpes simplex | Acyclovir | Antiviral, not antibacterial |
+| Suspected organism in  | Drug association in | Important current/clinical qualification                                                       |
+| ---------------------- | ------------------- | ---------------------------------------------------------------------------------------------- |
+| MRSA                   | IV vancomycin       | Choice depends on syndrome and susceptibility; linezolid/daptomycin are important alternatives |
+| *Listeria*             | Ampicillin          | High-yield association                                                                         |
+| Rickettsia / Chlamydia | Doxycycline         | Syndrome-specific; doxycycline is a key agent for many rickettsial diseases                    |
+| Herpes simplex         | Acyclovir           | Antiviral, not antibacterial                                                                   |
 
 ### C. difficile & membrane inhibitors
 
@@ -834,7 +834,7 @@ The mnemonic:
 > **W – Whooping cough (Pertussis)**
 
 Other uses:
-- Chancroid
+- ==Chancroid==
 - Diphtheria
 - Selected sexually transmitted infections
 
@@ -852,9 +852,6 @@ Other uses:
 **Current CDC update:** For respiratory/cutaneous diphtheria, the recommended antibiotics are **erythromycin or penicillin**; **diphtheria antitoxin** is recommended for respiratory disease.
 
 ##### 27.4 Gonorrhea / chlamydia correction
-> Ceftriaxone injection + azithromycin 2 g for gonococcal urethritis.
-
-This is **outdated**.
 Current CDC adult gonorrhea treatment is:
 - **Ceftriaxone 500 mg IM once** for uncomplicated infection in persons <150 kg.
 - **1 g IM once** if body weight ≥150 kg.
