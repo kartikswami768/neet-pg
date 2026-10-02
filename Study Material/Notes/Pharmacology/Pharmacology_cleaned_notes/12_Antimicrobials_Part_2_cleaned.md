@@ -46,10 +46,9 @@ type: Marrow
 - **Prodrug** requiring activation within the mycobacterium.
 - Activated mainly by mycobacterial ==**catalase-peroxidase (KatG)**==.
 - Active metabolites ==inhibit **mycolic-acid synthesis**==, an essential component mycobacterial cell envelope.
-
+![[12_Antimicrobials_Part_2_cleaned 2026-10-02 11.09.02.excalidraw]]
 ###### Resistance
 - Important mechanism: mutations affecting **katG** reduce activation of isoniazid.
-- ]
 
 ###### Drug properties
 - Undergoes **acetylation** liver.
