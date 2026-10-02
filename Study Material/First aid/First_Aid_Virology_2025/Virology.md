@@ -1070,29 +1070,24 @@ Yes, in the source table.
 ## HIV structure
 
 ### Genome
-- **Diploid genome:** 2 molecules of RNA.
+- **Diploid genome:** 2 molecules of ssRNA.
 
 ### Structural genes
 #### env
 ##### Products & functions
-###### gp120
-- Attachment to CD4+ T cells.
-
-###### gp41
-- Fusion and entry.
-
 - Produces gp160 precursor.
 - Cleaved into **gp120 + gp41**.
-
+###### gp120
+- Attachment to CD4+ T cells.
+###### gp41
+- Fusion and entry.
 #### gag
 - Produces **p24 capsid** and **p17 matrix** proteins.
-
 #### pol
 - Reverse transcriptase
 - Integrase
 - Protease
-
-#### Mnemonic
+##### Mnemonic
 > **RIP “Pol” (Paul)** → Reverse transcriptase, Integrase, Protease.
 
 ### Reverse transcription & integration
@@ -1107,7 +1102,7 @@ Yes, in the source table.
 - Homozygous CCR5 mutation → immunity in the source.
 - Heterozygous CCR5 mutation → slower course.
 
-![HIV labelled structure](./assets/diagrams/hiv_structure.svg)
+![[IMG_1222.png]]
 
 ## HIV diagnosis
 
