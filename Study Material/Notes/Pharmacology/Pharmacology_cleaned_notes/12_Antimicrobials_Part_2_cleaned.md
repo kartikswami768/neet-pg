@@ -926,6 +926,8 @@ Important structural components diagram:
 6. Viral protein synthesis/assembly
 7. Protease-mediated maturation
 
+###### First Aid HIV
+![[Virology#6. HIV & HIV-associated infections]]
 ##### HIV ENTRY / ATTACHMENT / CAPSId INHIBITORS
 
 | Target              | Drug            | High-yield mechanism                                                 |
@@ -971,15 +973,23 @@ Mature infectious virions
 ```
 
 #### 2. Anti-Retroviral Drugs acting on Replication Cycle
-##### REVERSE TRANSCRIPTASE INHIBITORS (RTIs)
 
+| N(s)RTI           | N(t)RTI       | NNRTI      | Integrase        | Protease  |
+| ----------------- | ------------- | ---------- | ---------------- | --------- |
+| ==Lamivudine==    | ==Tenofovir== | Efavirenz  | ==Dolutegravir== | Ritonavir |
+| ==Emtricitabine== |               | Navirapine | Raltegravir      | Lopinavir |
+| ==Zidovudine==    |               |            |                  |           |
+| ==Abacavir==      |               |            |                  |           |
+
+| Situation | Regimen                               |
+| --------- | ------------------------------------- |
+| Adult     | Tenofovir + Lamivudine + Dalutegravir |
+|           |                                       |
+
+##### REVERSE TRANSCRIPTASE INHIBITORS (RTIs)
 ###### 29.1 NRTIs
 **Nucleoside reverse transcriptase inhibitors** require intracellular phosphorylation/activation and inhibit reverse transcriptase by chain termination.
-**mnemonic:** DAZZLES**
-- **D** - Didanosine
-- **A** - Abacavir
-- **Z** - Zidovudine
-- **Z/L/E/S** - historically remembered group including lamivudine, emtricitabine, stavudine
+
 **Important modern examples**
 - Abacavir
 - Zidovudine
@@ -1085,7 +1095,7 @@ Examples:
 - Prevent cleavage of viral polyproteins into mature structural and enzymatic proteins.
 - Result: release of immature/noninfectious virions.
 
-##### 32.1 High-yield individual adverse effects
+###### 32.1 High-yield individual adverse effects
 
 | PI | / exam association |
 |---|---|
@@ -1134,8 +1144,8 @@ HIV-associated lipodystrophy is multifactorial and is not simply an effect of â€
 
 #### 3. HIV Treatment in India
 ##### NACP / NACO principles
-- **Universal treatmentART is offered to people with HIV according to programme eligibility rather than waiting for an arbitrary low CD4 threshold.
-- **Combination ARTtreatment uses multiple active drugs, usually as fixed-dose combinations where possible.
+- **Universal treatment:** ART is offered to people with HIV according to programme eligibility rather than waiting for an arbitrary low CD4 threshold.
+- **Combination ART:** treatment uses multiple active drugs, usually as fixed-dose combinations where possible.
 
 ##### TLD regimen
 **TLD = Tenofovir + Lamivudine + Dolutegravir**

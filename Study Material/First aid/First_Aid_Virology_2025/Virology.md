@@ -1101,8 +1101,7 @@ Yes, in the source table.
 ### CCR5 mutation pearl
 - Homozygous CCR5 mutation → immunity in the source.
 - Heterozygous CCR5 mutation → slower course.
-
-![[IMG_1222.png]]
+![[Virology 2026-10-02 15.40.37.excalidraw]]
 
 ## HIV diagnosis
 
@@ -1128,7 +1127,7 @@ Yes, in the source table.
 - Positive → **acute HIV-1 infection**.
 - Negative → negative for HIV-1.
 
-![HIV diagnosis algorithm](./assets/diagrams/hiv_diagnosis_algorithm.svg)
+
 
 ### HIV RNA tests
 #### NAAT
@@ -1216,21 +1215,3 @@ Lower CD4 count → reactivation of past infections (e.g. TB, HSV, shingles), di
 
 ---
 
-## Asset notes
-
-### Included image assets
-Only human-visible figures/photomicrographs/clinical images extracted from the supplied PDF were retained. Tiny image fragments and extraction artifacts from the PDF were omitted.
-
-### Reconstructed SVG assets
-The source extraction contained 15 page-level SVGs, but several were only page/background fragments or unlabeled vector pieces. The following **usable labelled diagrams were reconstructed** from the supplied PDF visuals plus the extracted vector artwork:
-
-- `viral_structure_general.svg`
-- `viral_genetics.svg`
-- `influenza_shift_drift.svg`
-- `sars_cov_2_structure.svg`
-- `hbv_structure.svg`
-- `hbv_serology_course.svg`
-- `hiv_structure.svg`
-- `hiv_diagnosis_algorithm.svg`
-
-These are intentionally rebuilt as self-contained SVGs so that the labels remain visible when embedded in Obsidian.

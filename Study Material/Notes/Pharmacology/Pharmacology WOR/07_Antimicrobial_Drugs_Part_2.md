@@ -99,11 +99,11 @@ Direct acting drugs (oral):
 ### Protease inhibitors
 
 - Used <6 years:
-  - Lopinavir: used as LPV/r = 90% LPV + 10% ritonavir.
+	- Lopinavir: used as LPV/r = 90% LPV + 10% ritonavir.
 - Ritonavir:
-  - Most potent enzyme −: CYP3A4 −.
-  - Used as booster: − metabolism.
-  - Do not boost nelfinavir.
+	- Most potent enzyme −: CYP3A4 −.
+	- Used as booster: − metabolism.
+	- Do not boost nelfinavir.
 - Atazanavir: no dyslipidemia.
 - Indinavir: renal stones.
 - Tipranavir: intracranial bleed.
