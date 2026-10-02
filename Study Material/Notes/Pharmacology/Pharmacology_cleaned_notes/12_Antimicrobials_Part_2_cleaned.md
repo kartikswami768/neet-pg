@@ -1447,7 +1447,7 @@ flowchart TD
 ##### Tafenoquine
 - Long-acting analogue with **radical-cure activity** against vivax hypnozoites in suitable patients.
 - Requires appropriate G6PD assessment before use.
-
+##Antimalarial drug profiles & toxicities
 ### Antimalarial Drugs — Classification
 #### 1. By Stage of Parasite Acted Upon
 ##### Blood Schizonticides
@@ -1554,9 +1554,97 @@ flowchart TD
 ##### Hypnozoites
 ###### Key Point
 - **Only clinically important hypnozoiticides: Primaquine + Tafenoquine**
+### 54. CHLOROQUINE
+
+##### High distribution volume
+a very high apparent volume of distribution, reflecting extensive tissue uptake.
+
+##### Main clinical associations
+- Chloroquine-sensitive malaria
+- Historical/in selected use against **extraintestinal amoebiasis**
+- Anti-inflammatory/immunomodulatory action used in some **rheumatological disorders**
+###### the “MALARIAS” mnemonic
+The mnemonic includes:
+- Malaria
+- Amoebic liver abscess
+- Lepra reaction
+- Autoimmune hemolytic anaemia
+- Rheumatoid arthritis
+- ITP
+- Atopic/photodermatitis
+- SLE
+
+##### Adverse effects
+**CNS**
+- Headache
+- Dizziness
+- Rare seizures/psychosis at toxic exposure
+**Eye**
+- **Retinopathy / bull's-eye maculopathy** with chronic exposure
+- Corneal/==vortex keratopathy==
+**Ear**
+- Tinnitus
+- Rare hearing disturbance
+**Heart**
+- QT prolongation
+- Conduction abnormalities at toxic exposure
+
+##### ==Vortex keratopathy==
+==a similar corneal deposition phenomenon with **amiodarone**.==
+
+
+### 56. ARTEMISININ GROUP
+Examples:
+- Artesunate
+- Artemether
+- Arteether
+- Other artemisinin derivatives
+
+##### Source
+- *Artemisia annua*
+
+##### Pharmacology
+- Very rapid parasite clearance.
+- Forms free radicals/oxidative damage parasite after activation involving heme/iron.
+- Very Short acting drug
+- Always combined with a longer-acting partner drug for uncomplicated falciparum treatment to reduce treatment failure and resistance.
+
+##### Major exam rule
+**Never use oral artemisinin monotherapy for uncomplicated malaria.**
+
+##### Current safety note
+Artemisinin derivatives are no longer considered categorically forbidden in first-trimester pregnancy. WHO now recommends **artemether-lumefantrine** as the preferred treatment for uncomplicated falciparum first trimester.
+
+### 57. QUININE
+
+##### Source
+- Cinchona bark.
+
+##### Cinchonism
+- Tinnitus
+- Hearing disturbance
+- Headache
+- Nausea/vomiting
+- Visual symptoms
+
+##### Other important toxicity
+- **Hypoglycaemia**, especially in severe malaria and pregnancy.
+- QT prolongation
+- Thrombocytopenia can occur in some settings.
+Historically, quinine-containing regimens had a much larger role than they do with modern ACTs, except where specifically indicated.
+
+### 55. COMPARATIVE ANTIMALARIAL TOXICITIES
+
+| Drug         | High-yield toxicity/association                                                                             |
+| ------------ | ----------------------------------------------------------------------------------------------------------- |
+| Mefloquine   | Neuropsychiatric adverse effects, vivid dreams, anxiety, psychosis; seizures are rare but important         |
+| Quinine      | **Cinchonism**, tinnitus, headache, nausea, visual disturbance; can cause hypoglycaemia and QT prolongation |
+| Lumefantrine | QT prolongation risk                                                                                        |
+| Primaquine   | **Haemolysis in G6PD deficiency**                                                                           |
+| Tafenoquine  | Haemolysis risk in G6PD deficiency; requires G6PD assessment                                                |
 ## Malaria treatment & pregnancy/travel prophylaxis
 
-### 49. UNCOMPLICATED P. VIVAX / P. OVALE
+### 49. Uncomplicated P. VIVAX / P. OVALE
 
 ##### Clinical cure
 - **Chloroquine** where the parasite remains chloroquine-sensitive.
@@ -1590,7 +1678,7 @@ Drug of choice: **IV artesunate**.
 ##### Important points
 - Severe malaria can be caused by **P. falciparum** and also, less commonly, by severe *P. vivax*.
 - Do not delay parenteral treatment when severe malaria is suspected.
-- After clinical improvement, complete an effective oral ACT course as specified by the treatment guideline.
+- After clinical improvement (usually after 48 hours), complete an effective oral ACT course as specified by the treatment guideline.
 
 ### 52. MALARIA IN PREGNANCY
 
@@ -1605,7 +1693,7 @@ Drug of choice: **IV artesunate**.
 **Current WHO update**
 For **uncomplicated P. falciparum first trimester**, WHO now prefers **artemether-lumefantrine** rather than the old universal “quinine + clindamycin” teaching.
 
-**Severe malaria in pregnancy**
+##### **Severe malaria in pregnancy**
 - **Parenteral artesunate is the treatment of choice in all trimesters.**
 
 
@@ -1626,98 +1714,6 @@ Choice of chemoprophylaxis depends on:
 - Drug interactions
 Therefore, The fixed “endemic country = mefloquine/doxycycline” rule is useful only as an examination simplification.
 
-## Antimalarial drug profiles & toxicities
-
-#### 54. CHLOROQUINE
-
-##### High distribution volume
-a very high apparent volume of distribution, reflecting extensive tissue uptake.
-
-##### Main clinical associations
-- Chloroquine-sensitive malaria
-- Historical/in selected use against extraintestinal amoebiasis
-- Anti-inflammatory/immunomodulatory action used in some rheumatological disorders
-
-##### Caution about the “MALARIAS” mnemonic
-The mnemonic includes:
-- Malaria
-- Amoebic liver abscess
-- Lepra reaction
-- Autoimmune hemolytic anaemia
-- Rheumatoid arthritis
-- ITP
-- Atopic/photodermatitis
-- SLE
-> **Correction:** Chloroquine is not a universal treatment for “any autoimmune disease.” **Hydroxychloroquine** is more commonly used in many chronic autoimmune diseases, while chloroquine has a more limited role because of toxicity and pharmacokinetic considerations.
-
-##### Adverse effects
-**CNS**
-- Headache
-- Dizziness
-- Rare seizures/psychosis at toxic exposure
-**Eye**
-- **Retinopathy / bull's-eye maculopathy** with chronic exposure
-- Corneal/vortex keratopathy
-**Ear**
-- Tinnitus
-- Rare hearing disturbance
-**Heart**
-- QT prolongation
-- Conduction abnormalities at toxic exposure
-
-##### Vortex keratopathy
-a similar corneal deposition phenomenon with **amiodarone**.
-
-#### 55. COMPARATIVE ANTIMALARIAL TOXICITIES
-
-| Drug | High-yield toxicity/association |
-|---|---|
-| Mefloquine | Neuropsychiatric adverse effects, vivid dreams, anxiety, psychosis; seizures are rare but important |
-| Quinine | **Cinchonismtinnitus, headache, nausea, visual disturbance; can cause hypoglycaemia and QT prolongation |
-| Lumefantrine | QT prolongation risk |
-| Primaquine | **Haemolysis in G6PD deficiency** |
-| Tafenoquine | Haemolysis risk in G6PD deficiency; requires G6PD assessment |
-
-> Quinine is not classically memorized as a routine “G6PD-contraindicated antimalarial” same way as primaquine/tafenoquine. The crucial G6PD association is with the **8-aminoquinolines**.
-
-#### 56. ARTEMISININ GROUP
-Examples:
-- Artesunate
-- Artemether
-- Arteether
-- Other artemisinin derivatives
-
-##### Source
-- *Artemisia annua*
-
-##### Pharmacology
-- Very rapid parasite clearance.
-- Forms free radicals/oxidative damage parasite after activation involving heme/iron.
-- Always combined with a longer-acting partner drug for uncomplicated falciparum treatment to reduce treatment failure and resistance.
-
-##### Major exam rule
-**Never use oral artemisinin monotherapy for uncomplicated malaria.**
-
-##### Current safety note
-Artemisinin derivatives are no longer considered categorically forbidden in first-trimester pregnancy. WHO now recommends **artemether-lumefantrine** as the preferred treatment for uncomplicated falciparum first trimester.
-
-#### 57. QUININE
-
-##### Source
-- Cinchona bark.
-
-##### Cinchonism
-- Tinnitus
-- Hearing disturbance
-- Headache
-- Nausea/vomiting
-- Visual symptoms
-
-##### Other important toxicity
-- **Hypoglycaemia**, especially in severe malaria and pregnancy.
-- QT prolongation
-- Thrombocytopenia can occur in some settings.
-Historically, quinine-containing regimens had a much larger role than they do with modern ACTs, except where specifically indicated.
 
 ## Other protozoal diseases
 
