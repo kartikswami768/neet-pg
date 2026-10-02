@@ -1086,33 +1086,33 @@ Additional mechanisms not explicitly tabulated but important conceptually includ
 - CDC currently lists **rifampin, ciprofloxacin and ceftriaxone** as effective chemoprophylaxis options for close contacts.
 - Selection should account for local ciprofloxacin resistance; CDC has issued specific guidance for settings where resistant meningococcal strains are prevalent.
 
-#### 42. Antimicrobial Pharmacodynamics – MIC, PK/PD and Dosing
+## 42. Antimicrobial Pharmacodynamics – MIC, PK/PD and Dosing
 
 ##### 42.1 MIC
 **MIC = Minimum Inhibitory Concentration**
 MIC: the lowest concentration that inhibits visible bacterial growth.
 
 ##### 42.2 Major PK/PD indices
-**Concentration-dependent killing**
+###### **Concentration-dependent killing**
 Effectiveness correlates with achieving a high concentration relative to the organism's MIC.
 Common exam examples:
-- Aminoglycosides
+- ==Aminoglycosides==
 this with **once-daily dosing** as a typical strategy.
-**Time-dependent killing**
+###### **Time-dependent killing**
 Effectiveness correlates with the duration for which drug concentration remains above the MIC (**%fT>MIC** for many β-lactams).
 this often requires multiple doses per day.
 Examples:
 - Penicillins
 - Cephalosporins
 - Many other β-lactams
-**AUC/MIC**
-For some antibiotics, total exposure relative to MIC is the principal PK/PD driver.
+###### **AUC/MIC**
+For some antibiotics, **total exposure relative to MI**C is the principal PK/PD driver.
 Classic example:
 - Vancomycin is commonly monitored using **AUC/MIC-guided exposure** for serious MRSA infections in modern practice.
 
-#### 43. Post-Antibiotic Effect (PAE)
+##### 43. Post-Antibiotic Effect (PAE)
 
-##### Definition
+###### Definition
 > Continued suppression of bacterial growth after the antibiotic concentration falls below the MIC.
 
 a teaching table:
@@ -1126,7 +1126,7 @@ a teaching table:
 
 > **Interpretation:** This table is an **exam-oriented simplification **, not a universal PK/PD taxonomy. Real antimicrobial PK/PD relationships vary by organism, site, pathogen susceptibility, free-drug exposure, and drug-specific pharmacology.
 
-### High-yield comparison tables & exam pearls
+# High-yield comparison tables & exam pearls
 
 #### 44. High-Yield Comparison Tables
 
