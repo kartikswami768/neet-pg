@@ -1390,35 +1390,34 @@ five medically important *Plasmodium* species:
 The refers to the historical NVBDCP name; the current programme is **National Center for Vector Borne Diseases Control (NCVBDC)** under the Ministry of Health & Family Welfare.
 
 ##### MALARIA LIFE CYCLE
-```text
+
 Mosquito bite
  |
- v
+ ↓
 Sporozoites
  |
- v
-Liver
+↓
+Liver ––> Hepatozoit (dormant stage)
  |
  | Hepatic schizogony
- v
+ ↓
 Merozoites
  |
-
- v
+ ↓
 RBCs
  |
  | Erythrocytic schizogony
- v
+ ↓
 Clinical malaria
  |
  +→ Some parasites differentiate into gametocytes
  |
- v
+ ↓
  Mosquito ingestion
- |
- v
+|
+↓
  Sexual cycle in mosquito
-```
+
 
 ###### Hypnozoites
 - Present in **P. vivax** and **P. ovale**.
