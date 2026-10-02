@@ -1772,23 +1772,140 @@ Historically, quinine-containing regimens had a much larger role than they do wi
 | Mefloquine   | Neuropsychiatric adverse effects, vivid dreams, anxiety, psychosis; seizures are rare but important         |
 | Quinine      | **Cinchonism**, tinnitus, headache, nausea, visual disturbance; can cause hypoglycaemia and QT prolongation |
 | Lumefantrine | QT prolongation risk                                                                                        |
-| Primaquine   | **Haemolysis in G6PD deficiency**                                                                           |
+| Primaquine   | **Haemolysis in G6PD deficiency**, Risk to fetus (as we cannot confirm G6PD deficiency in fetus)            |
 | Tafenoquine  | Haemolysis risk in G6PD deficiency; requires G6PD assessment                                                |
-## Malaria treatment & pregnancy/travel prophylaxis
+## Malaria treatment & pregnancy/travel 
+### 1. Uncomplicated *P. vivax*
 
-### 49. Uncomplicated P. VIVAX / P. OVALE
+#### Day-wise treatment
 
-##### Clinical cure
-- **Chloroquine** where the parasite remains chloroquine-sensitive.
-- Usually 3-day regimen.
+| Day | Drug | Dose/kg | **60-kg adult equivalent** |
+|---|---|---:|---:|
+| **D1** | Chloroquine | **10 mg/kg** | **600 mg** |
+| | Primaquine | **0.25 mg/kg** | **15 mg** |
+| **D2** | Chloroquine | **10 mg/kg** | **600 mg** |
+| | Primaquine | **0.25 mg/kg** | **15 mg** |
+| **D3** | Chloroquine | **5 mg/kg** | **300 mg** |
+| | Primaquine | **0.25 mg/kg** | **15 mg** |
+| **D4–14** | Primaquine | **0.25 mg/kg/day** | **15 mg/day** |
 
-##### Radical cure
-- **Primaquine** for 14 days in traditional Indian regimens.
-- Aim: eradicate hypnozoites and prevent relapse.
+##### Total
 
-##### Key contraindication
-- Primaquine is contraindicated in **pregnancy** because of fetal risk and inability to safely establish fetal G6PD status.
-- It is also contraindicated in significant **G6PD deficiency** because of haemolysis risk.
+- Chloroquine = **25 mg/kg over 3 days**
+- Primaquine = **0.25 mg/kg/day × 14 days**
+
+---
+
+### 2. Uncomplicated *P. falciparum* — Most of India
+
+#### ACT-SP
+
+| Day | Drug | Dose/kg | **60-kg adult equivalent** |
+|---|---|---:|---:|
+| **D1** | Artesunate | **4 mg/kg** | **240 mg** |
+| | Sulfadoxine | **25 mg/kg** | **1500 mg** |
+| | Pyrimethamine | **1.25 mg/kg** | **75 mg** |
+| **D2** | Artesunate | **4 mg/kg** | **240 mg** |
+| | Primaquine | **0.75 mg/kg once** | **45 mg once** |
+| **D3** | Artesunate | **4 mg/kg** | **240 mg** |
+
+##### Regimen
+
+- Artesunate = **4 mg/kg/day × 3 days**
+- SP = **25/1.25 mg/kg once on D1**
+- Primaquine = **0.75 mg/kg single dose**
+
+---
+
+### 3. *P. falciparum* — North-East India
+
+#### Artemether + Lumefantrine (ACT-AL)
+
+| Day | Dose/kg concept | **Adult dose** |
+|---|---:|---:|
+| **D1** | — | **4 tablets**, then **4 tablets after 8 h** |
+| **D2** | — | **4 tablets BD** |
+| **D3** | — | **4 tablets BD** |
+
+##### Tablet composition
+
+- **1 tablet:** Artemether **20 mg** + Lumefantrine **120 mg**
+- **Each dose:** Artemether **80 mg** + Lumefantrine **480 mg**
+- **Total:** 6 doses = **24 tablets over 3 days**
+
+---
+
+### 4. Mixed *P. falciparum* + *P. vivax*
+
+#### Day-wise treatment
+
+| Day | Drug | Dose/kg | **60-kg adult equivalent** |
+|---|---|---:|---:|
+| **D1** | ACT | As appropriate | — |
+| **D2** | ACT | As appropriate | — |
+| | Primaquine — gametocytocidal | **0.75 mg/kg once** | **45 mg once** |
+| **D3** | ACT | As appropriate | — |
+| **D4–14** | Primaquine — radical cure | **0.25 mg/kg/day** | **15 mg/day** |
+
+##### Concept
+
+- **ACT** → clears blood-stage *P. falciparum*
+- **PQ single dose** → gametocytocidal effect
+- **PQ × 14 days** → radical cure of *P. vivax* hypnozoites
+
+---
+
+### 5. Severe malaria
+
+#### IV Artesunate
+
+| Time | Dose/kg | **60-kg adult equivalent** |
+|---|---:|---:|
+| **0 h** | **2.4 mg/kg** | **144 mg** |
+| **12 h** | **2.4 mg/kg** | **144 mg** |
+| **24 h** | **2.4 mg/kg** | **144 mg** |
+| **Then q24h** | **2.4 mg/kg/day** | **144 mg/day** |
+| Once oral therapy possible | — | **Complete 3-day ACT** |
+
+##### Schedule
+
+**0 h → 12 h → 24 h → q24h → oral ACT**
+
+---
+
+### 6. Ultra-crisp master table
+
+| Form | Drug | **Dose/kg** | **60-kg adult equivalent** | Duration |
+|---|---|---:|---:|---|
+| **Pv uncomplicated** | CQ D1 | 10 mg/kg | **600 mg** | D1 |
+| | CQ D2 | 10 mg/kg | **600 mg** | D2 |
+| | CQ D3 | 5 mg/kg | **300 mg** | D3 |
+| | PQ | 0.25 mg/kg/day | **15 mg/day** | D1–14 |
+| **Pf uncomplicated** | AS | 4 mg/kg/day | **240 mg/day** | D1–3 |
+| | SP | 25/1.25 mg/kg | **1500/75 mg** | D1 |
+| | PQ | 0.75 mg/kg once | **45 mg once** | D2 |
+| **Pf NE India** | AL | — | **4 tablets/dose** | 6 doses/3 d |
+| **Mixed Pf + Pv** | ACT | — | — | 3 d |
+| | PQ — gametocytocidal | 0.75 mg/kg once | **45 mg once** | D2 |
+| | PQ — radical cure | 0.25 mg/kg/day | **15 mg/day** | 14 d |
+| **Severe malaria** | IV artesunate | 2.4 mg/kg/dose | **144 mg/dose** | 0, 12, 24 h → OD |
+
+### 7. Must-memorise numbers
+
+#### *P. vivax*
+
+- **CQ:** `10 → 10 → 5 mg/kg`
+- **PQ:** `0.25 mg/kg/day × 14 days`
+
+#### *P. falciparum*
+
+- **AS:** `4 mg/kg/day × 3 days`
+- **SP:** `25/1.25 mg/kg single dose`
+- **PQ:** `0.75 mg/kg single dose`
+
+#### Severe malaria
+
+- **IV artesunate:** `2.4 mg/kg at 0, 12, 24 h → OD`
 
 ### 50. Uncomplicated P. FALCIPARUM
 
