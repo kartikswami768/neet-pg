@@ -49,7 +49,7 @@ type: Marrow
 
 ###### Resistance
 - Important mechanism: mutations affecting **katG** reduce activation of isoniazid.
-- Other resistance mechanisms can involve changes mycolic-acid biosynthetic pathway, but KatG is the classic exam association.
+- ]
 
 ###### Drug properties
 - Undergoes **acetylation** liver.
