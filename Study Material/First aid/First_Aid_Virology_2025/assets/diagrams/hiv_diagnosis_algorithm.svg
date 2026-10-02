@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="720" viewBox="0 0 1100 720">
+<title>HIV diagnosis algorithm</title>
+<desc>Reconstructed from supplied PDF page 172 and vector flowchart.</desc>
+<defs><style>.t{font-family:Arial,Helvetica,sans-serif;fill:#24333a}.h{font-weight:700}.s{font-size:14px}.m{font-size:16px}.l{font-size:18px}.sm{font-size:12px}.line{stroke:#24333a;stroke-width:2;fill:none}.thin{stroke:#5d6b72;stroke-width:1.5;fill:none}.arrow{stroke:#24333a;stroke-width:2;fill:none;marker-end:url(#a)}.box{fill:#f5f7f8;stroke:#6c7b82;stroke-width:1.5}.accent{fill:#d7edf2;stroke:#35707b;stroke-width:1.5}.warm{fill:#f5e5d5;stroke:#9a6c48;stroke-width:1.5}.green{fill:#e5f0e5;stroke:#5b7f5b;stroke-width:1.5}.pink{fill:#f5e1e7;stroke:#9a6070;stroke-width:1.5}</style><marker id="a" markerWidth="10" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#24333a"/></marker></defs>
+<rect width="1100" height="720" fill="white"/>
+<text x="35" y="45" class="t h l">HIV diagnosis — algorithm</text>
+<rect x="390" y="80" width="320" height="75" rx="10" class="accent"/>
+<text x="550.0" y="105" text-anchor="middle" class="t s">HIV-1/2 Ag/Ab combination</text>
+<text x="550.0" y="122" text-anchor="middle" class="t s">immunoassay</text>
+<rect x="70" y="220" width="320" height="80" rx="10" class="green"/>
+<text x="230.0" y="245" text-anchor="middle" class="t s">Negative for HIV-1/HIV-2 Ab and p24 Ag</text>
+<text x="230.0" y="262" text-anchor="middle" class="t s">→ no further HIV testing</text>
+<rect x="390" y="220" width="320" height="80" rx="10" class="warm"/>
+<text x="550.0" y="245" text-anchor="middle" class="t s">HIV-1/HIV-2 antibody</text>
+<text x="550.0" y="262" text-anchor="middle" class="t s">differentiation immunoassay</text>
+<path d="M550 155 V210" class="arrow"/>
+<path d="M390 258 H250" class="arrow"/>
+
+<rect x="140" y="360" width="240" height="70" rx="10" class="green"/>
+<text x="260.0" y="385" text-anchor="middle" class="t s">HIV-1 positive</text>
+<text x="260.0" y="402" text-anchor="middle" class="t s">HIV-2 negative</text>
+<rect x="430" y="360" width="240" height="70" rx="10" class="green"/>
+<text x="550.0" y="385" text-anchor="middle" class="t s">HIV-1 negative</text>
+<text x="550.0" y="402" text-anchor="middle" class="t s">HIV-2 positive</text>
+<rect x="720" y="360" width="240" height="70" rx="10" class="green"/>
+<text x="840.0" y="385" text-anchor="middle" class="t s">HIV-1 and HIV-2</text>
+<text x="840.0" y="402" text-anchor="middle" class="t s">positive</text>
+<rect x="405" y="495" width="290" height="70" rx="10" class="warm"/>
+<text x="550.0" y="520" text-anchor="middle" class="t s">HIV-1 negative or</text>
+<text x="550.0" y="537" text-anchor="middle" class="t s">indeterminate → HIV-1 NAT</text>
+<path d="M550 300 V340" class="arrow"/>
+<path d="M550 300 C490 320 300 320 260 350" class="arrow"/>
+<path d="M550 300 C620 330 820 320 840 350" class="arrow"/>
+<path d="M550 300 C550 380 550 450 550 485" class="arrow"/>
+<rect x="120" y="600" width="280" height="70" rx="10" class="green"/>
+<text x="260.0" y="625" text-anchor="middle" class="t s">HIV-1 NAT positive</text>
+<text x="260.0" y="642" text-anchor="middle" class="t s">Acute HIV-1 infection</text>
+<rect x="700" y="600" width="280" height="70" rx="10" class="green"/>
+<text x="840.0" y="625" text-anchor="middle" class="t s">HIV-1 NAT negative</text>
+<text x="840.0" y="642" text-anchor="middle" class="t s">Negative for HIV-1</text>
+<path d="M550 565 C500 580 320 580 260 595" class="arrow"/>
+<path d="M550 565 C610 580 780 580 840 595" class="arrow"/>
+<text x="70" y="185" class="t sm">Screening test: very high sensitivity/specificity; early infection may be missed in the first ~2 weeks.</text>
+<text x="70" y="700" class="t sm">NAT = nucleic acid test. Viral load RT-PCR is quantitative and used for monitoring.</text>
+</svg>

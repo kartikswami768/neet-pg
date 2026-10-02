@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="720" viewBox="0 0 1050 720">
+<title>HIV structure</title>
+<desc>Reconstructed from supplied PDF page 172 and the extracted vector components.</desc>
+<defs><style>.t{font-family:Arial,Helvetica,sans-serif;fill:#24333a}.h{font-weight:700}.s{font-size:14px}.m{font-size:16px}.l{font-size:18px}.sm{font-size:12px}.line{stroke:#24333a;stroke-width:2;fill:none}.thin{stroke:#5d6b72;stroke-width:1.5;fill:none}.arrow{stroke:#24333a;stroke-width:2;fill:none;marker-end:url(#a)}.box{fill:#f5f7f8;stroke:#6c7b82;stroke-width:1.5}.accent{fill:#d7edf2;stroke:#35707b;stroke-width:1.5}.warm{fill:#f5e5d5;stroke:#9a6c48;stroke-width:1.5}.green{fill:#e5f0e5;stroke:#5b7f5b;stroke-width:1.5}.pink{fill:#f5e1e7;stroke:#9a6070;stroke-width:1.5}</style><marker id="a" markerWidth="10" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#24333a"/></marker></defs>
+<rect width="1050" height="720" fill="white"/>
+<text x="35" y="45" class="t h l">HIV — labelled structure</text>
+<circle cx="400" cy="350" r="175" fill="#e2d1f1" stroke="#765b8f" stroke-width="3"/>
+<circle cx="400" cy="350" r="120" fill="#d9b6e2" stroke="#8c5f93" stroke-width="2"/>
+<line x1="575.0" y1="350.0" x2="610.0" y2="350.0" stroke="#9ccf9d" stroke-width="14" stroke-linecap="round"/>
+<line x1="558.6" y1="424.0" x2="590.3" y2="438.7" stroke="#9ccf9d" stroke-width="14" stroke-linecap="round"/>
+<line x1="512.5" y1="484.1" x2="535.0" y2="510.9" stroke="#9ccf9d" stroke-width="14" stroke-linecap="round"/>
+<line x1="445.3" y1="519.0" x2="454.4" y2="552.8" stroke="#9ccf9d" stroke-width="14" stroke-linecap="round"/>
+<line x1="369.6" y1="522.3" x2="363.5" y2="556.8" stroke="#9ccf9d" stroke-width="14" stroke-linecap="round"/>
+<line x1="299.6" y1="493.4" x2="279.5" y2="522.0" stroke="#9ccf9d" stroke-width="14" stroke-linecap="round"/>
+<line x1="248.4" y1="437.5" x2="218.1" y2="455.0" stroke="#9ccf9d" stroke-width="14" stroke-linecap="round"/>
+<line x1="225.7" y1="365.3" x2="190.8" y2="368.3" stroke="#9ccf9d" stroke-width="14" stroke-linecap="round"/>
+<line x1="235.6" y1="290.1" x2="202.7" y2="278.2" stroke="#9ccf9d" stroke-width="14" stroke-linecap="round"/>
+<line x1="276.3" y1="226.3" x2="251.5" y2="201.5" stroke="#9ccf9d" stroke-width="14" stroke-linecap="round"/>
+<line x1="340.1" y1="185.6" x2="328.2" y2="152.7" stroke="#9ccf9d" stroke-width="14" stroke-linecap="round"/>
+<line x1="415.3" y1="175.7" x2="418.3" y2="140.8" stroke="#9ccf9d" stroke-width="14" stroke-linecap="round"/>
+<line x1="487.5" y1="198.4" x2="505.0" y2="168.1" stroke="#9ccf9d" stroke-width="14" stroke-linecap="round"/>
+<line x1="543.4" y1="249.6" x2="572.0" y2="229.5" stroke="#9ccf9d" stroke-width="14" stroke-linecap="round"/>
+<line x1="572.3" y1="319.6" x2="606.8" y2="313.5" stroke="#9ccf9d" stroke-width="14" stroke-linecap="round"/>
+<path d="M305 390 C330 300 450 300 510 365" class="line" stroke-width="12"/>
+<path d="M320 335 C370 410 440 405 490 320" class="line" stroke="#9a6c48" stroke-width="8"/>
+<circle cx="345" cy="320" r="12" fill="#8bce92"/><circle cx="465" cy="385" r="12" fill="#8bce92"/>
+<line x1="545" y1="195" x2="638" y2="142" class="line"/>
+<text x="650" y="150" class="t m h">gp120 — docking glycoprotein</text>
+<line x1="565" y1="245" x2="638" y2="212" class="line"/>
+<text x="650" y="220" class="t m h">gp41 — transmembrane glycoprotein</text>
+<line x1="545" y1="305" x2="688" y2="292" class="line"/>
+<text x="700" y="300" class="t m h">Lipid envelope</text>
+<line x1="505" y1="370" x2="663" y2="397" class="line"/>
+<text x="675" y="405" class="t m h">p24 — capsid protein</text>
+<line x1="495" y1="430" x2="668" y2="457" class="line"/>
+<text x="680" y="465" class="t m h">p17 — matrix protein</text>
+<line x1="470" y1="455" x2="668" y2="517" class="line"/>
+<text x="680" y="525" class="t m h">Reverse transcriptase</text>
+<line x1="325" y1="350" x2="78" y2="547" class="line"/>
+<text x="90" y="555" class="t m h">Diploid RNA genome</text>
+<rect x="610" y="565" width="390" height="110" class="box"/>
+<text x="630" y="592" class="t h s">Structural genes</text>
+<text x="630" y="615" class="t s">env → gp120/gp41; gag → p24/p17</text>
+<text x="630" y="635" class="t s">pol → reverse transcriptase + integrase + protease</text>
+<text x="630" y="645" class="t s">gp120 → attachment to CD4; gp41 → fusion/entry.</text>
+</svg>
