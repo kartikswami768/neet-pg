@@ -987,7 +987,7 @@ Mature infectious virions
 >Abacavir → Adults
 
 >India → Lamivudine fan
->World → Emtricitabine is better
+>World → Emtricitabine is equal to Lamivudine
 
 | Situation             | Regimen                                      |
 | --------------------- | -------------------------------------------- |
