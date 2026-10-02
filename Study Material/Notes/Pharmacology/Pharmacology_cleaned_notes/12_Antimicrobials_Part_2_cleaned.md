@@ -131,34 +131,34 @@ Since it is poorly absorbed, it can be used as a local antibiotic for gut in cas
 ##### 3.3 Pyrazinamide (Z)
 ###### Mechanism
 - **Prodrug**, converted to **pyrazinoic acid** by mycobacterial pyrazinamidase.
-- Active against intracellular and relatively dormant/slow-growing organisms and interferes with membrane energetics and related cellular processes.
-> “Inhibits protein synthesis” is not the best description of pyrazinamide's mechanism. The key exam concept is conversion to pyrazinoic acid and disruption of mycobacterial membrane energetics/transport and fatty-acid-related metabolism.
-
+- Active against ==intracellular and relatively dormant/slow-growing organisms== 
+- Interferes with membrane energetics and related cellular processes.
 ###### Major toxicity
 - **Hepatotoxicity**
-- **Hyperuricaemia** → arthralgia and possible gout
-**High-yield gout association**
-- **Pyrazinamide** is the strongest TB-drug association with hyperuricaemia/gout.
-- Ethambutol can also increase uric acid.
+- ==**Hyperuricaemia**== → arthralgia and possible gout
+
+> [!note] **High-yield gout association**
+>- ==**Pyrazinamide** is the strongest TB-drug association with hyperuricaemia/gout.==
+>- **Ethambutol** can also increase uric acid.
+
 **Continuation phase**
 - omission of pyrazinamide with its hepatotoxicity.
 - In a standard 6-month drug-susceptible regimen, Z is used during the initial 2 months and generally not continued continuation phase.
 
 ##### 3.4 Ethambutol (E)
-
 ###### Mechanism
 - Inhibits **arabinosyl transferase**.
 - Decreases synthesis of **arabinogalactan**, an important mycobacterial cell-wall component.
-- Result: impaired mycobacterial cell-wall synthesis.
+- Result: impaired ==mycobacterial cell-wall synthesis==.
+
 **Classification**
 - **Bacteriostatic**.
 - Among the classic HRZE drugs, it is the major drug remembered as bacteriostatic.
+
 **Major adverse effect: ocular toxicity**
 - **Optic neuritis**
 - Impaired red-green colour discrimination
 - Reduced visual acuity at clinically important toxicity levels
-**Monitoring pearl**
-Visual symptoms or new colour-vision abnormalities during therapy warrant urgent clinical assessment.
 
 #### 4. STERILIZING ACTIVITY IN TB
 drugs that retain activity against dormant or slowly replicating bacilli.
