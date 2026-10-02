@@ -7,10 +7,7 @@ type: Marrow
 
 ## Mycobacterial Infections
 
-> **India / NTEP is the primary framework for these notes.**
-> **WHO / Global context** is retained for international clinical awareness and is explicitly labeled when it differs from or is outside the Indian programme framework.
-
-### TB overview, first-line therapy & resistance
+### TB overview, first-line therapy
 
 #### 1. MYCOBACTERIAL INFECTIONS
 
@@ -42,68 +39,7 @@ type: Marrow
 	- 4 months: **HRE** Indian programme regimen represented by NACO source used for HIV-TB tables.
 
 
-#### 2. DRUG-RESISTANT TUBERCULOSIS
-
-##### 2.1 Definitions
-###### **MDR-TB**
-**Multidrug-resistant TB (MDR-TB):** resistance to at least **isoniazid + rifampicin**.
-###### **Rifampicin-resistant TB (RR-TB)**
-- Rifampicin resistance may occur with or without isoniazid resistance.
-- RR-TB is generally managed using MDR/RR-TB treatment pathways rather than reverting to a standard drug-susceptible regimen.
-###### **Pre-XDR-TB**
-**MDR/RR-TB + resistance to any fluoroquinolone** (levofloxacin or moxifloxacin).
-###### **XDR-TB**
-**WHO / Global definition:**
-- resistance to rifampicin (and usually classified within MDR/RR-TB),
-- resistance to **any fluoroquinolone**, and
-- resistance to **at least one of bedaquiline or linezolid**.
-
-##### 2.2 Second-line / Group-A drugs
-**Group A — highly effective drugs**
-	**Mnemonic from : BELL**
-	- **B** - Bedaquiline
-	- **L** - Linezolid
-	- **L** - Levofloxacin or moxifloxacin
-
-**Other important drugs**
-- Clofazimine
-- Cycloserine
-- ==Delamanid==
-- ==Pretomanid==
-- ==Ethionamide==
-- Thioacetazone
-> **Current classification note:** WHO's modern DR-TB classification and regimen design are more nuanced than the older “Group A/B/C” memorization scheme. is retained because it is useful for examination recall.
-
-##### 2.3 Current shorter DR-TB regimens: important update #review 
-
-> **India / NTEP vs WHO:** **BPaLM** belongs to the Indian DR-TB framework. 
-
-**BPaLM / BPaL**
-**BPaLM**
-- Bedaquiline
-- Pretomanid
-- Linezolid
-- Moxifloxacin
-> **WHO / Global context:** Historically and currently, WHO has recommended BPaLM/BPaL as 6-month options for eligible MDR/RR-TB patients; BPaL is used when moxifloxacin cannot be used because of fluoroquinolone resistance.
-
-**Major WHO 2025 update: BDLLfxC pathway**
-WHO subsequently added a second all-oral 6-month regimen:
-**BDLLfxC**
-- **B**edaquiline
-- **D**elamanid
-- **L**inezolid
-- **Lfx** = levofloxacin
-- **C**lofazimine
-
-Important points:
-- It is applicable to eligible **MDR/RR-TB or pre-XDR-TB** patients.
-- Fluoroquinolone DST is strongly encouraged and helps determine whether levofloxacin is retained.
-- It is particularly important when a pretomanid-containing regimen cannot be used, including circumstances such as **age <14 years, pregnancy or breastfeeding**, subject to current eligibility rules.
-- Typical duration is 6 months; selected patients may require extension to 9 months according to response and programme criteria.
-
-
 #### 3. INDIVIDUAL FIRST-LINE ANTI-TB DRUGS
-
 ##### 3.1 Isoniazid (H)
 
 ###### Mechanism of action
@@ -228,30 +164,237 @@ Visual symptoms or new colour-vision abnormalities during therapy warrant urgent
 
 #### 4. STERILIZING ACTIVITY IN TB
 drugs that retain activity against dormant or slowly replicating bacilli.
-
-##### Classic exam associations
 - **Rifampicin**
 - **Pyrazinamide**
 - **Bedaquiline**
-> “Sterilizing action” is a useful pharmacological teaching concept, but it is not a complete modern classification of all drugs' in-vivo contributions to sterilization.
 
 #### 5. ANTI-TB DRUG SAFETY IN ORGAN DYSFUNCTION
-
 ##### mnemonic: “HRZES”
 - **HRZ** - major hepatotoxic concern.
 - **ZES** - major renal-elimination/toxicity considerations simplified teaching rule.
-
-##### Important correction
-- Do **not** interpret the mnemonic as meaning that every drug in these groups is absolutely contraindicated in every degree of liver or kidney disease.
-- Management should be individualized according to the severity of organ dysfunction, the indication for treatment, drug susceptibility and programme protocol.
-
 ##### TB with liver disease
-The proposes:
 - Stop HRZ when significant hepatotoxicity is suspected.
 - Particularly stop/reconsider pyrazinamide because it is strongly hepatotoxic.
 - Use a liver-sparing regimen containing agents such as streptomycin, levofloxacin and ethambutol while specialist/programme guidance is followed.
-> **Current clinical principle:** The exact regimen and sequence should be based on the degree of liver injury and the need to maintain effective TB therapy; do not automatically apply “SLE” to every patient with elevated AST/ALT.
 
+### Drug Resistance TB 
+
+#### 9. SECOND-LINE TB Drugs
+##### 2.2 Second-line / Group-A drugs
+**Group A — highly effective drugs**
+	**Mnemonic from : BELL**
+	- **B** - Bedaquiline
+	- **L** - Linezolid
+	- **L** - Levofloxacin or moxifloxacin
+
+**Other important drugs**
+- Clofazimine
+- Cycloserine
+- ==Delamanid==
+- ==Pretomanid==
+- ==Ethionamide==
+- Thioacetazone
+
+##### 9.1 Bedaquiline
+###### Mechanism
+- Inhibits **mycobacterial ATP synthase**.
+- Reduces energy production.
+**Adverse effect**
+- **QT prolongation** is the classic exam association.
+###### Mnemonic
+“BED” → reduced energy/ATP.
+
+##### 9.2 Linezolid
+**Mechanism**
+Protein Synthesis inhibition → 50s Ribosome
+
+**Mnemonic:** POST
+- **P** - Peripheral neuropathy
+- **O** - Optic neuritis
+- **S** - Serotonin syndrome risk because linezolid is a reversible, nonselective MAO inhibitor
+- **T** - ==Thrombocytopenia== / ==bone-marrow suppression==
+
+**Additional high-yield point**
+Risk increases with prolonged therapy; complete blood-count monitoring and neurological/visual assessment are important in prolonged TB courses.
+
+##### 9.3 Fluoroquinolones
+Examples:
+- Levofloxacin
+- Moxifloxacin
+These are major drugs in modern DR-TB regimens.
+
+##### 9.4 Clofazimine
+
+###### Important properties
+- Used in leprosy and in selected DR-TB regimens.
+- Can produce **brown/gray skin hyperpigmentation** due to tissue deposition.
+- QT prolongation is also clinically relevant, especially when combined with other QT-prolonging drugs.
+**association**
+- Cross-resistance may occur with other DR-TB drugs, including bedaquiline, in resistant strains.
+
+##### 9.5 Cycloserine
+
+###### Mechanism
+Inhibits enzymes involved in peptidoglycan synthesis, classically:
+- **Alanine racemase**
+- **D-alanine-D-alanine ligase**
+**CNS toxicity**
+- Depression
+- Psychosis
+- Seizures may occur
+- Suicidal behaviour risk is clinically important in severe neuropsychiatric toxicity
+
+##### 9.6 Delamanid and ==pretomanid==
+###### Mnemonic
+the “-manid” / “-nanid” sound to associate these drugs with **mycolic-acid-related cell-wall inhibition**.
+###### High-yield point
+Both drugs can contribute to **QT prolongation**, particularly in combination regimens where multiple QT-prolonging agents are present.
+**Pretomanid: eligibility caveats**
+- Not to be used in:
+	- younger patients,
+	- pregnancy,
+	- breastfeeding.
+
+##### 9.7 Ethionamide
+
+###### Mechanism
+- Inhibits mycolic-acid synthesis.
+- Structurally/pharmacologically resembles isoniazid in important aspects.
+**High-yield adverse effects**
+- Gastrointestinal intolerance
+- Hepatotoxicity
+- **Hypothyroidism / goitre** due to antithyroid effects, especially when combined with PAS
+- Neuropsychiatric adverse effects may occur
+**Erectile dysfunction**
+The mnemonic “ETH” associates ethionamide with erectile dysfunction and thyroid effects. The thyroid association is the more established exam pearl.
+
+##### 9.8 Thioacetazone
+- Older bacteriostatic TB drug.
+- Historically important in HIV-associated TB because of severe hypersensitivity and rash risk.
+- **Avoid in HIV infection** because of serious adverse reactions.
+
+#### 2. DRUG-RESISTANT TUBERCULOSIS
+##### 2.1 Definitions
+
+###### MDR/RR-TB
+- **RR-TB:** Rifampicin-resistant TB ± resistance to other drugs.
+- **MDR-TB:** Resistance to **Isoniazid (H) + Rifampicin (R)**.
+
+###### Pre-XDR-TB
+- MDR/RR-TB + **fluoroquinolone resistance**.
+
+###### XDR-TB
+- MDR/RR-TB + **FQ resistance + resistance to bedaquiline or 
+
+##### 2. Isoniazid-resistant TB
+###### H mono/poly-drug resistance
+- If **Rifampicin remains susceptible**:
+  - **Lfx + R + E + Z**
+  - **6 months**
+- Can be extended to **9 months** in selected situations:
+  - Extensive disease
+  - Significant comorbidity
+  - Severe extrapulmonary TB
+  - Persistent smear positivity at month 4
+
+> **Exam pearl:** H-resistant TB ≠ MDR-TB if rifampicin is still susceptible.
+
+---
+
+##### 3. MDR/RR-TB — Short 6-month regimen
+
+###### BPaLM
+
+**BPaLM = Bedaquiline + Pretomanid + Linezolid + Moxifloxacin**
+
+- Preferred short regimen for eligible **MDR/RR-TB patients ≥14 years**.
+- **Duration:** 6 months / 26 weeks.
+- Can be extended to **9 months** in selected cases, especially with linezolid toxicity requiring dose reduction.
+
+###### Important point about FQ resistance
+- Current **NTEP:** BPaLM can be used **irrespective of FQ resistance**.
+- **Moxifloxacin is retained** in the NTEP BPaLM regimen even with FQ resistance.
+
+> **Memory:** **B-Pa-L-M → 6 months**
+
+---
+
+##### 4. MDR/RR-TB — 9–11 month regimen
+
+###### When used
+- Patient is **not eligible for BPaLM** but meets criteria for the shorter oral regimen.
+- Generally requires **absence of FQ resistance** and no major resistance/contraindication to the regimen drugs.
+
+###### Regimen
+- **Initial phase:**  
+  **Lzd + Lfx + Cfz + Z + E + high-dose H**
+- Followed by continuation therapy with:
+  **Lfx + Cfz + Z + E**
+- **Bedaquiline** is also incorporated for the specified initial/extended period according to NTEP protocol.
+
+###### Duration
+- Usually **9 months**
+- May extend to **11 months** depending on treatment response and intensive-phase extension.
+
+> **Exam trap:** Older regimens commonly show **ethionamide**.  
+> Current NTEP regimen uses **linezolid instead of ethionamide** in the initial phase.
+
+---
+
+##### 5. Longer oral regimen
+
+###### When used
+- Cannot use BPaLM or the 9–11 month regimen.
+- Extensive resistance, intolerance, contraindications, or other clinical situations requiring individualized therapy.
+
+###### Core regimen
+- **Bdq + Lfx + Lzd + Cfz + Cs**
+- Modify according to resistance pattern and drug intolerance.
+
+###### Duration
+- **18–20 months**
+- **XDR-TB → usually 20 months** in the NTEP framework.
+
+> Modern NTEP regimens are predominantly **all-oral**; injectables are no longer the routine backbone.
+
+---
+
+##### 6. Special situations
+
+###### Pregnancy / Breastfeeding
+- **Pretomanid is avoided/not recommended** in pregnancy and breastfeeding.
+- Therefore, standard **BPaLM is not used**.
+- An appropriate **Lzd-containing shorter regimen** may be used when eligible.
+- **Second-line injectable aminoglycosides are avoided in pregnancy** because of fetal ototoxicity.
+
+###### Age <14 years
+- Standard **BPaLM protocol is for ≥14 years**.
+- Younger children require an appropriate pediatric DR-TB regimen.
+
+---
+
+##### 7. NEET-PG / INI-CET — Must Remember
+
+###### Resistance → regimen
+
+| Resistance pattern | Key regimen | Duration |
+|---|---|---|
+| **H-resistant, R-sensitive** | **Lfx + R + E + Z** | **6 months** |
+| **MDR/RR-TB, eligible ≥14 y** | **BPaLM** | **6 months** |
+| **MDR/RR-TB, BPaLM unsuitable but short-regimen eligible** | **9–11 month oral regimen** | **9–11 months** |
+| **Complex resistance / short regimens unsuitable** | **Longer oral regimen** | **18–20 months** |
+| **XDR-TB** | Longer individualized oral regimen | **~20 months** |
+
+###### Highest-yield facts
+
+- **MDR = H + R resistance**
+- **BPaLM = Bdq + Pa + Lzd + Mfx**
+- **BPaLM = 6 months**
+- Current NTEP uses **BPaLM in eligible patients ≥14 years**.
+- **H-resistant ≠ MDR** if rifampicin remains sensitive.
+- Older 9-month regimens may show **ethionamide**; current NTEP uses **linezolid** in the initial phase.
+- **Pregnancy/breastfeeding → avoid pretomanid-containing BPaLM.**
+- **Injectables are not routine backbone** of modern DR-TB regimens.
 ### TB clinical situations, HIV & prevention
 
 #### 6. SPECIAL CLINICAL SITUATIONS IN TB
@@ -334,83 +477,6 @@ isoniazid, rifampicin, isoniazid-rifampicin and isoniazid-rifapentine combinatio
 - Newborns/infants of mothers with TB, according to the applicable neonatal TB protocol
 > **India / NTEP principle:** TPT should be offered only after active TB has been excluded and according to the applicable risk group and regimen criteria.
 
-### DR-TB individual drugs
-
-#### 9. SECOND-LINE TB DRUGS: HIGH-YIELD INDIVIDUAL AGENTS
-
-##### 9.1 Bedaquiline
-###### Mechanism
-- Inhibits **mycobacterial ATP synthase**.
-- Reduces energy production.
-**Adverse effect**
-- **QT prolongation** is the classic exam association.
-###### Mnemonic
-“BED” → reduced energy/ATP.
-
-##### 9.2 Linezolid
-**Mnemonic:** POST
-- **P** - Peripheral neuropathy
-- **O** - Optic neuritis
-- **S** - Serotonin syndrome risk because linezolid is a reversible, nonselective MAO inhibitor
-- **T** - Thrombocytopenia / bone-marrow suppression
-**Additional high-yield point**
-Risk increases with prolonged therapy; complete blood-count monitoring and neurological/visual assessment are important in prolonged TB courses.
-
-##### 9.3 Fluoroquinolones
-Examples:
-- Levofloxacin
-- Moxifloxacin
-These are major drugs in modern DR-TB regimens.
-
-##### 9.4 Clofazimine
-
-###### Important properties
-- Used in leprosy and in selected DR-TB regimens.
-- Can produce **brown/gray skin hyperpigmentation** due to tissue deposition.
-- QT prolongation is also clinically relevant, especially when combined with other QT-prolonging drugs.
-**association**
-- Cross-resistance may occur with other DR-TB drugs, including bedaquiline, in resistant strains.
-
-##### 9.5 Cycloserine
-
-###### Mechanism
-Inhibits enzymes involved in peptidoglycan synthesis, classically:
-- **Alanine racemase**
-- **D-alanine-D-alanine ligase**
-**CNS toxicity**
-- Depression
-- Psychosis
-- Seizures may occur
-- Suicidal behaviour risk is clinically important in severe neuropsychiatric toxicity
-
-##### 9.6 Delamanid and ==pretomanid==
-###### Mnemonic
-the “-manid” / “-nanid” sound to associate these drugs with **mycolic-acid-related cell-wall inhibition**.
-###### High-yield point
-Both drugs can contribute to **QT prolongation**, particularly in combination regimens where multiple QT-prolonging agents are present.
-**Pretomanid: eligibility caveats**
-- Not to be used in:
-	- younger patients,
-	- pregnancy,
-	- breastfeeding.
-
-##### 9.7 Ethionamide
-
-###### Mechanism
-- Inhibits mycolic-acid synthesis.
-- Structurally/pharmacologically resembles isoniazid in important aspects.
-**High-yield adverse effects**
-- Gastrointestinal intolerance
-- Hepatotoxicity
-- **Hypothyroidism / goitre** due to antithyroid effects, especially when combined with PAS
-- Neuropsychiatric adverse effects may occur
-**Erectile dysfunction**
-The mnemonic “ETH” associates ethionamide with erectile dysfunction and thyroid effects. The thyroid association is the more established exam pearl.
-
-##### 9.8 Thioacetazone
-- Older bacteriostatic TB drug.
-- Historically important in HIV-associated TB because of severe hypersensitivity and rash risk.
-- **Avoid in HIV infection** because of serious adverse reactions.
 
 ### Leprosy & leprosy reactions
 
