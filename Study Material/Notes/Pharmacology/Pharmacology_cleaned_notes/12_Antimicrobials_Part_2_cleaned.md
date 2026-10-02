@@ -769,7 +769,7 @@ theophylline and warfarin as examples of increased toxicity/exposure through CYP
 
 | Drug          | High-yield association                                                                                                       |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Clotrimazole  | Vaginal/topical azole; commonly used for vulvovaginal candidiasis                                                            |
+| Clotrimazole  | Vaginal/topical azole; commonly used for vulvovaginal candidiasis/oral thrush                                                |
 | Ciclopirox    | Topical antifungal; can be used for dermatophyte nail disease in lacquer formulations                                        |
 | Ketoconazole  | Topical shampoo; dandruff/seborrhoeic dermatitis; oral use restricted because of toxicity                                    |
 | Voriconazole  | ==**V**isual disturbances; QT prolongation==; major first-line therapy for ==invasive aspergillosis==                        |
@@ -1053,15 +1053,12 @@ Integrase → proviral DNA integrates into host genome
 ###### First Aid HIV
 ![[Virology#6. HIV & HIV-associated infections]]
 ##### HIV ENTRY / ATTACHMENT / CAPSId INHIBITORS
-
-| Target              | Drug            | High-yield mechanism                                                 |
-| ------------------- | --------------- | -------------------------------------------------------------------- |
-| gp41 fusion         | **Enfuvirtide** | Blocks fusion of viral envelope with host-cell membrane              |
-| gp120 attachment    | **Fostemsavir** | Prodrug of temsavir; inhibits attachment to host CD4                 |
-| Capsid              | **Lenacapavir** | Capsid inhibitor acting at multiple stages of HIV replication        |
-| CD4 post-attachment | **Ibalizumab**  | Monoclonal antibody against CD4; blocks post-attachment entry events |
-| CCR5                | **Maraviroc**   | CCR5 antagonist; effective only for CCR5-tropic HIV                  |
-
+| Drug            | Target               | HIV tropism      |
+| --------------- | -------------------- | ---------------- |
+| **Ibalizumab**  | **CD4 receptor**     | **CCR5 + CXCR4** |
+| **Maraviroc**   | **CCR5 co-receptor** | **CCR5 only**    |
+| **Enfuvirtide** | **gp41**             | **CCR5 + CXCR4** |
+| **Fostemsavir** | **gp120**            | **CCR5 + CXCR4** |
 ###### Mnemonics
 - **-mab** → monoclonal antibody: ibalizumab
 - **-viro / -vir** patterns are not sufficiently specific to identify HIV classes reliably.

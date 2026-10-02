@@ -223,11 +223,11 @@ More precisely, MRSA characteristically acquires **mecA** (or related mec determ
 
 | Generation | Main examples in | Broad spectrum / major use emphasized in |
 |---|---|---|
-| **1st** | Cefalexin, cefadroxil, cefazolin | Stronger Gram-positive activity; surgical prophylaxis; MSSA/streptococci |
+| **1st** | Cefalexin, cefadroxil, cefazolin | Stronger Gram-positive activity; ==surgical prophylaxis==; MSSA/streptococci |
 | **2nd** | Cefaclor, cefuroxime | Expanded Gram-negative activity; some agents have anaerobic activity |
-| **3rd** | Cefixime, cefpodoxime, ceftriaxone, cefotaxime; ceftazidime, cefoperazone, ceftolozane | Major Gram-negative activity; some are antipseudomonal |
-| **4th** | Cefepime, cefpirome | Broad Gram-negative activity including *Pseudomonas* for cefepime |
-| **5th / advanced anti-MRSA** | Ceftaroline, ceftobiprole | Anti-MRSA activity |
+| **3rd** | Cefixime, cefpodoxime, ceftriaxone, cefotaxime; ceftazidime, cefoperazone, ceftolozane | ==Major Gram-negative activity; some are antipseudomonal== |
+| **4th** | Cefepime, cefpirome | Broad Gram-negative activity ==including *Pseudomonas* for cefepime== |
+| **5th / advanced anti-MRSA** | Ceftaroline, ceftobiprole | ==Anti-MRSA activity== |
 
 **Naming cues**
 - 1st generation: **cefa/cepha-** examples
@@ -236,7 +236,7 @@ More precisely, MRSA characteristically acquires **mecA** (or related mec determ
 - Advanced anti-MRSA agents: **ceftaroline / ceftobiprole**
 > **Qualification:** Generation labels are useful for exams but do not completely predict spectrum. Individual agents differ substantially, especially for anaerobes, *Pseudomonas*, ESBL-producing organisms, and MRSA.
 
-##### 7.2 Surgical prophylaxis
+##### 7.2 Surgical prophylaxis (PYQ)
 - **Cefazolin** is the major surgical prophylaxis association.
 - Notes specify administration around **30 minutes before incision**.
 
@@ -381,7 +381,7 @@ The highlights:
 - Certain toxin-mediated syndromes as part of combination therapy
 
 ##### 13.4 Oral vancomycin
-- Poorly absorbed gastrointestinal tract.
+- ==Poorly absorbed gastrointestinal tract.==
 - Useful for **intestinal C. difficile infection** because the drug remains gut lumen.
 **Current C. difficile update**
 - Oral vancomycin

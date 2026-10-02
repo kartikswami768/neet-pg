@@ -426,7 +426,7 @@
   "appearanceByStyle": {
     "top": {
       "toolbarBackgroundColor": "#252526",
-      "toolbarIconColor": "#949AA6",
+      "toolbarIconColor": "#DCDDE0",
       "toolbarIconSize": 16,
       "aestheticStyle": "custom"
     },
@@ -450,7 +450,7 @@
     }
   },
   "toolbarBackgroundColor": "#252526",
-  "toolbarIconColor": "#949AA6",
+  "toolbarIconColor": "#DCDDE0",
   "toolbarIconSize": 16,
   "useCurrentLineForRegex": false,
   "ai": {
