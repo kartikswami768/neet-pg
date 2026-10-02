@@ -81,9 +81,8 @@ Drug interactions
 - This may increase exposure to selected co-administered medicines.
 
 ##### 3.2 Rifampicin (R)
-
 ###### Mechanism of action
-- Inhibits the **beta subunit of bacterial DNA-dependent RNA polymerase**.
+- Inhibits the **beta subunit of bacterial DNA-dependent ==RNA polymerase**.==
 - Resistance is strongly associated with mutations in **rpoB**.
 
 **Major pharmacokinetic property**
