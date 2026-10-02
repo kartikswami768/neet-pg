@@ -127,12 +127,13 @@ The clinical mechanism of aspirin-related ulceration is much broader than simple
 - Also referred to in as **MDR-1** (multidrug resistance protein).
 - It pumps substrates **out of cells**.
 - **Clinical locations/effects highlighted by **
-| location | effect of P-gp |
+
+| location       | effect of P-gp                  |
 | -------------- | ------------------------------- |
-| GI tract | limits absorption |
-| Kidney/liver | contributes to drug elimination |
-| BBB / barriers | limits CNS entry |
-| Cancer cells | contributes to drug resistance |
+| GI tract       | limits absorption               |
+| Kidney/liver   | contributes to drug elimination |
+| BBB / barriers | limits CNS entry                |
+| Cancer cells   | contributes to drug resistance  |
 ### Digoxin example
 - **Digoxin** is a classic P-gp substrate.
 - **Rifampicin** → P-gp induction → increased P-gp activity → lower digoxin exposure/effect.

@@ -85,22 +85,33 @@ Drug interactions
 - Inhibits the **beta subunit of bacterial DNA-dependent ==RNA polymerase**.==
 - Resistance is strongly associated with mutations in **rpoB**.
 
-**Major pharmacokinetic property**
-**Potent inducer of drug-metabolizing enzymes and transporters**, including:
-- CYP3A4 and other CYP enzymes
-- P-glycoprotein (P-gp)
-- UGT enzymes
-This can markedly reduce concentrations of many co-administered drugs.
+###### Pharmacokinetics
 
+| PK parameter          | High-yield point                                                                                  |
+| --------------------- | ------------------------------------------------------------------------------------------------- |
+| **Absorption**        | Good oral absorption; **==food ↓ absorption==** → preferably empty stomach                        |
+| **Distribution**      | Widely distributed; **CNS penetration increases with meningeal inflammation**                     |
+| **BBB / P-gp**        | **==P-gp substrate==** → efflux from CNS → limits CNS penetration                                 |
+| **Protein binding**   | ~80%                                                                                              |
+| **Metabolism**        | **Hepatic deacetylation** → 25-desacetylrifampicin (**active**)                                   |
+| **CYP metabolism**    | **NOT primarily metabolized by CYP3A4**                                                           |
+| **Autoinduction**     | Repeated dosing → ↑ hepatic drug metabolism → **t½ decreases**                                    |
+| **Induction**         | **Potent CYP3A4, CYP2C9, CYP2C19 + ==P-gp inducer==** + UGT enzymes                               |
+| **Major interaction** | ↓ levels/effect of **OCPs, warfarin, DOACs, azoles, ART, corticosteroids, anticonvulsants**, etc. |
+| **Excretion**         | Mainly **biliary/fecal**; some urinary excretion                                                  |
+| **Renal failure**     | Usually **no major dose adjustment**                                                              |
+| **t½**                | ~**2–5 h**; decreases with repeated dosing                                                        |
+> **Rifampicin = good oral absorption → wide distribution → P-gp efflux at BBB → hepatic deacetylation → biliary excretion + potent CYP/P-gp induction.**
 ###### **Important interactions**
 
-| Co-administered drug | Effect of rifampicin | Clinical consequence |
-|---|---|---|
-| Combined oral hormonal contraceptives | Increased metabolism | Reduced contraceptive effectiveness |
-| Warfarin | Increased metabolism | Reduced anticoagulant effect; INR may fall |
-| Digoxin | Can increase transporter-mediated elimination | Reduced exposure/effect in some patients |
-| Many antiretrovirals | Enzyme/transporter induction | Reduced antiretroviral exposure; regimen-specific adjustment needed |
-| Dolutegravir | Reduced exposure via enzyme/transporter induction | DTG dose adjustment required during rifampicin therapy |
+| Co-administered drug                  | Effect of rifampicin                               | Clinical consequence                                                |
+| ------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------- |
+| Combined oral hormonal contraceptives | Increased metabolism                               | Reduced contraceptive effectiveness                                 |
+| Warfarin                              | Increased metabolism                               | Reduced anticoagulant effect; INR may fall                          |
+| Digoxin                               | Can increase p-gp transporter-mediated elimination | Reduced exposure/effect in some patients                            |
+| Many antiretrovirals                  | Enzyme/transporter induction                       | Reduced antiretroviral exposure; regimen-specific adjustment needed |
+| Dolutegravir                          | Reduced exposure via enzyme/transporter induction  | DTG dose adjustment required during rifampicin therapy              |
+[[02_General_Pharmacology_cleaned#3. P-Glycoprotein and Drug Transport|P-Glycoprotein]]
 
 > [!note] **Rifampicin + dolutegravir: India-specific high-yield rule**
 >NACO's guideline for patients receiving rifampicin-containing ATT uses **dolutegravir 50 mg twice daily** rather than once daily during rifampicin co-administration, with the additional DTG dose continued through ATT and for **2 weeks after rifampicin is stopped**.
