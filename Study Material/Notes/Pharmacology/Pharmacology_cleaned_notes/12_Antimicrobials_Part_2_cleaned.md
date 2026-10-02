@@ -1009,10 +1009,37 @@ Levamisole has a much smaller modern therapeutic role than its historical examin
 
 ##### HIV structure and entry
 ![[IMG_1221.png]]
-Important structural components diagram:
-- Envelope glycoproteins **gp120** and **gp41**
-- Capsid
-- Viral RNA genome
+```text
+HIV approaches CD4⁺ cell
+        ↓
+① gp120 binds CD4 receptor
+        ↓
+Conformational change in gp120
+        ↓
+② gp120 binds co-receptor
+   ├── CCR5 → R5-tropic HIV (early/common)
+   └── CXCR4 → X4-tropic HIV
+        ↓
+③ gp41 undergoes conformational change
+        ↓
+gp41 inserts fusion peptide into host membrane
+        ↓
+④ Viral envelope + cell membrane fuse
+        ↓
+HIV core enters cytoplasm
+        ↓
+⑤ Capsid (p24) contains:
+   • 2 copies of +ssRNA
+   • Reverse transcriptase
+   • Integrase
+   • Protease
+        ↓
+Capsid uncoats
+        ↓
+Reverse transcription → dsDNA
+        ↓
+Integrase → proviral DNA integrates into host genome
+```
 
 ###### Entry sequence
 1. Viral attachment to **CD4**
