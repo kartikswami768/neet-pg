@@ -1448,6 +1448,110 @@ flowchart TD
 - Long-acting analogue with **radical-cure activity** against vivax hypnozoites in suitable patients.
 - Requires appropriate G6PD assessment before use.
 
+### Antimalarial Drugs — Classification
+#### 1. By Stage of Parasite Acted Upon
+##### Blood Schizonticides
+###### Drugs
+- ==Chloroquine==
+- Amodiaquine
+- ==Quinine / Quinidine==
+- ==Mefloquine== (used in prophylaxis)
+- ==Lumefantrine==
+- Piperaquine
+- ==Artemisinin derivatives==
+- Atovaquone
+- ==Sulfadoxine + Pyrimethamine==
+###### Key Point
+- Kill **erythrocytic forms** → treat **clinical malaria**
+##### Tissue Schizonticides & Hypnozoiticides
+###### Drugs
+- Primaquine
+- Tafenoquine
+###### Key Point
+- Act on **hepatic forms
+- Eradicate dormant **hypnozoites**
+- Used for radical cure of *P. vivax* and *P. ovale*
+##### Gametocides
+###### Drugs
+- **Primaquine**
+###### Key Point
+- Particularly important against *P. falciparum* gametocytes
+##### Sporontocides
+###### Drugs
+- Primaquine
+- Artemisinin derivatives
+###### Key Point
+- Act on parasite development in the **mosquito**
+---
+#### 2. By Drug Class
+##### Quinoline / Related Drugs
+###### 4-Aminoquinolines
+- Chloroquine
+- Amodiaquine
+###### Quinoline Methanols
+- Quinine
+- Quinidine
+- Mefloquine
+###### Arylamino Alcohol
+- Lumefantrine
+###### 8-Aminoquinolines
+- Primaquine
+- Tafenoquine
+##### Artemisinin Derivatives
+###### Drugs
+- Artemisinin
+- Artesunate
+- Artemether
+- Dihydroartemisinin
+###### Key Point
+- Usually used as **ACTs (Artemisinin-based Combination Therapy)**
+##### Antifolates
+###### DHFR Inhibitors
+- Pyrimethamine
+- Proguanil
+###### DHPS Inhibitor
+- Sulfadoxine
+###### Combination
+- Sulfadoxine + Pyrimethamine (SP)
+##### Hydroxynaphthoquinone
+###### Drug
+- Atovaquone
+###### Combination
+- Atovaquone + Proguanil
+##### Antibiotics
+###### Drugs
+- Doxycycline
+- Tetracycline
+- Clindamycin
+###### Key Point
+- Mainly **adjuncts**
+- Slow acting → not preferred as rapid monotherapy
+---
+#### 3. High-Yield Exam Anchors
+##### Chloroquine
+###### Key Point
+- *P. vivax*: generally useful where sensitive
+- *P. falciparum*: resistance is widespread
+##### Falciparum Malaria
+###### Key Point
+- **ACT** is the major treatment strategy for uncomplicated chloroquine-resistant falciparum malaria
+##### Severe Malaria
+###### Drug of Choice
+- **IV Artesunate**
+##### Vivax / Ovale Radical Cure
+###### Regimen Principle
+- Blood schizonticide **+ Primaquine/Tafenoquine**
+- Eliminates hepatic **hypnozoites**
+##### Gametocytes of P. falciparum
+###### Drug
+- **Primaquine**
+##### G6PD Deficiency
+###### Avoid / Contraindicated
+- **Primaquine**
+- **Tafenoquine**
+##### Hypnozoites
+###### Key Point
+- **Only clinically important hypnozoiticides: Primaquine + Tafenoquine**
 ## Malaria treatment & pregnancy/travel prophylaxis
 
 ### 49. UNCOMPLICATED P. VIVAX / P. OVALE
