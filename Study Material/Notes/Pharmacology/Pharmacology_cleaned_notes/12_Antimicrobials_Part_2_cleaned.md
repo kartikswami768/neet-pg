@@ -1473,16 +1473,13 @@ flowchart TD
 ##### India: national programme regimen
 - **Most of India outside the North-East:** artesunate + sulfadoxine-pyrimethamine (AS+SP)
 - **North-Eastern states:** artemether + lumefantrine (AL)
-> NCVBDC continues to maintain procurement/training materials for both ACT-SP and ACT-AL national programme framework. Local/state policy should be checked because drug-resistance patterns and national policy evolve.
-
 ##### No radical cure for falciparum
 - No hypnozoite stage → no 14-day hypnozoite-eradication regimen.
 - Primaquine is used in a transmission-blocking role, not as the treatment that clears the acute blood-stage infection.
 
 #### 51. SEVERE / COMPLICATED MALARIA
 
-##### Drug of choice
-**IV artesunate**.
+Drug of choice: **IV artesunate**.
 
 ##### Important points
 - Severe malaria can be caused by **P. falciparum** and also, less commonly, by severe *P. vivax*.
@@ -1501,9 +1498,10 @@ flowchart TD
 ##### 52.3 P. falciparum
 **Current WHO update**
 For **uncomplicated P. falciparum first trimester**, WHO now prefers **artemether-lumefantrine** rather than the old universal “quinine + clindamycin” teaching.
+
 **Severe malaria in pregnancy**
 - **Parenteral artesunate is the treatment of choice in all trimesters.**
-> Artesunate should **not** be described as contraindicated first trimester for severe malaria. Delaying effective treatment in severe malaria is dangerous. The modern distinction is between **uncomplicated falciparum first trimester** and **severe malaria in any trimester**.
+
 
 #### 53. TRAVELER'S MALARIA PROPHYLAXIS
 The simplifies prophylaxis into:
