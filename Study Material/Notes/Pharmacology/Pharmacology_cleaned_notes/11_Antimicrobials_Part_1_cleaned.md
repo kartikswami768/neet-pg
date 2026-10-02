@@ -632,33 +632,33 @@ Current treatment should be culture- and syndrome-specific, with agent selection
 
 ##### 23.1 30S ribosomal inhibitors
 **Tetracyclines**
-- Bind the **30S ribosomal subunit**.
-- Prevent aminoacyl-tRNA binding to the **A site**.
-- Usually bacteriostatic.
+	- Bind the **30S ribosomal subunit**.
+	- Prevent aminoacyl-tRNA binding to the **A site**.
+	- Usually bacteriostatic.
 **Aminoglycosides**
-- Bind the **30S ribosome**.
-- Cause misreading of mRNA and interfere with initiation/elongation.
-- Bactericidal and concentration-dependent.
+	- Bind the **30S ribosome**.
+	- Cause misreading of mRNA and interfere with initiation/elongation.
+	- Bactericidal and concentration-dependent.
 
 ##### 23.2 50S ribosomal inhibitors
 **Macrolides**
-- Azithromycin
-- Clarithromycin
-- Erythromycin
-**Mechanism:** bind the **50S subunit** and inhibit translocation.
+	- Azithromycin
+	- Clarithromycin
+	- Erythromycin
+	**Mechanism:** bind the **50S subunit** and inhibit translocation.
 **Clindamycin**
-- Binds 50S.
-- Inhibits protein synthesis.
-- Important antitoxin role in toxin-mediated streptococcal/staphylococcal disease.
-- Major exam association: **high risk for C. difficile infection**.
+	- Binds 50S.
+	- Inhibits protein synthesis.
+	- Important antitoxin role in toxin-mediated streptococcal/staphylococcal disease.
+	- Major exam association: ==**high risk for C. difficile infection**==.
 **Chloramphenicol**
-- Inhibits **peptidyl transferase** on the 50S subunit.
+	- Inhibits **peptidyl transferase** on the 50S subunit.
 **Linezolid**
-- Binds the **23S rRNA 50S subunit**.
-- Inhibits formation initiation complex.
+	- Binds the **23S rRNA 50S subunit**.
+	- Inhibits formation initiation complex.
 **Streptogramins**
-- Quinupristin + dalfopristin
-- Combined formulation is approximately **30% quinupristin + 70% dalfopristin** .
+	- Quinupristin + dalfopristin
+	- Combined formulation is approximately **30% quinupristin + 70% dalfopristin** .
 
 #### 25. Tetracyclines
 
@@ -683,21 +683,21 @@ The highlights:
 - Used historically in selected cases of **SIADH** when other strategies are unsuitable.
 
 ##### 25.4 Minocycline
-- Leprosy
+- ==Leprosy==
 - Acne
 
 ##### 25.4A Tetracycline and H. pylori
 The specifically lists **tetracycline as an H. pylori treatment component**. In contemporary regimens, tetracycline is most classically encountered as part of **bismuth quadruple therapy**.
 
 ##### 25.5 Doxycycline
-The correctly emphasizes broad utility, including:
-- Rickettsial infections
+Broad utility, including:
+- ==Rickettsial== infections
 - Cholera
-- Chlamydial infections
-- Leptospirosis
-- Brucellosis
-- Lyme disease due to *Borrelia*
-It also labels doxycycline **renal safe / hepatobiliary elimination**, which is a high-yield contrast with older tetracycline.
+- ==Chlamydial== infections
+- ==Leptospirosis==
+- ==Brucellosis==
+- ==Lyme disease== due to *Borrelia*
+It also labels doxycycline ==**renal safe / hepatobiliary elimination**==, which is a high-yield contrast with older tetracycline.
 
 ##### 25.6 Adverse effects
 - GI irritation
@@ -712,10 +712,6 @@ ingestion of degraded/expired tetracycline with **Fanconi syndrome**. This is a 
 ##### 25.7 Pregnancy and children
 - Avoid in pregnancy due to fetal teeth/bone effects.
 - Avoid in children <8 years.
-**Clinical qualification**
-- This remains an important exam rule, but modern practice is more nuanced for **doxycyclineshort courses may be used when benefits outweigh theoretical risks for certain serious infections.
-- The class distinction between doxycycline and older tetracyclines matters, and decisions should be based on indication, duration, age and pregnancy context rather than a simplistic absolute statement for every exposure.
-
 #### 26. Newer Tetracyclines / Glycylcyclines
 - Sarecycline → severe acne
 - Omadacycline

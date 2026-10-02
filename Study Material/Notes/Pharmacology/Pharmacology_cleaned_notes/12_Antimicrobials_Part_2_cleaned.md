@@ -1376,9 +1376,8 @@ Current practice usually combines effective systemic anti-CMV therapy with local
 
 ### Malaria foundations, life cycle & cure concepts
 
-#### 46. ANTI-PROTOZOAL DRUGS — MALARIA
-
-##### 46.1 Causative species
+#### 46. Malaria Pathogen
+##### Species
 five medically important *Plasmodium* species:
 - *P. falciparum*
 - *P. vivax*
@@ -1390,20 +1389,17 @@ five medically important *Plasmodium* species:
 **Indian programme**
 The refers to the historical NVBDCP name; the current programme is **National Center for Vector Borne Diseases Control (NCVBDC)** under the Ministry of Health & Family Welfare.
 
-#### 47. MALARIA LIFE CYCLE
+##### MALARIA LIFE CYCLE
 ```text
 Mosquito bite
  |
-
  v
 Sporozoites
  |
-
  v
 Liver
  |
  | Hepatic schizogony
-
  v
 Merozoites
  |
@@ -1412,37 +1408,33 @@ Merozoites
 RBCs
  |
  | Erythrocytic schizogony
-
  v
 Clinical malaria
  |
-
  +→ Some parasites differentiate into gametocytes
  |
-
  v
  Mosquito ingestion
  |
-
  v
  Sexual cycle in mosquito
 ```
 
-##### Hypnozoites
+###### Hypnozoites
 - Present in **P. vivax** and **P. ovale**.
 - Dormant liver forms can reactivate and cause **relapse**.
 
-##### P. falciparum
+###### P. falciparum
 - Does **not** form hypnozoites.
 - Therefore there is no hypnozoite-mediated relapse requiring radical cure same way as vivax/ovale.
 
 #### 48. MALARIA CURE CONCEPTS
 
-| Term | Target |
-|---|---|
-| Causal prophylaxis | Liver schizogony / pre-erythrocytic stages |
-| Clinical cure | Erythrocytic blood stages causing disease |
-| Radical cure | Dormant hypnozoites of vivax/ovale |
+| Term                                            | Target                                                             |
+| ----------------------------------------------- | ------------------------------------------------------------------ |
+| Causal prophylaxis                              | Liver schizogony / pre-erythrocytic stages                         |
+| Clinical cure                                   | Erythrocytic blood stages causing disease                          |
+| Radical cure                                    | Dormant hypnozoites of vivax/ovale                                 |
 | Transmission-blocking / gametocytocidal therapy | Gametocytes, especially important for reducing onward transmission |
 
 ##### Primaquine
