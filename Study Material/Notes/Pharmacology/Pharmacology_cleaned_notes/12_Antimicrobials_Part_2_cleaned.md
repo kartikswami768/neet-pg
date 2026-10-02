@@ -1777,7 +1777,6 @@ Historically, quinine-containing regimens had a much larger role than they do wi
 ## Malaria treatment & pregnancy/travel 
 ### 1. Uncomplicated *P. vivax*
 
-
 | Day | Drug | Dose/kg | **60-kg adult equivalent** |
 |---|---|---:|---:|
 | **D1** | Chloroquine | **10 mg/kg** | **600 mg** |
@@ -1869,7 +1868,6 @@ Historically, quinine-containing regimens had a much larger role than they do wi
 |                      | PQ — gametocytocidal | 0.75 mg/kg once |             **45 mg once** | D2               |
 |                      | PQ — radical cure    |  0.25 mg/kg/day |              **15 mg/day** | 14 d             |
 | **Severe malaria**   | IV artesunate        |  2.4 mg/kg/dose |            **144 mg/dose** | 0, 12, 24 h → OD |
-
 ### 7. Must-memorise numbers
 
 #### *P. vivax*
@@ -1886,30 +1884,20 @@ Historically, quinine-containing regimens had a much larger role than they do wi
 #### Severe malaria
 
 - **IV artesunate:** `2.4 mg/kg at 0, 12, 24 h → OD`
+### Malaria In Pregnancy
 
-### 51. Severe / Complicated MALARIA
-
-Drug of choice: **IV artesunate**.
-
-##### Important points
-- Severe malaria can be caused by **P. falciparum** and also, less commonly, by severe *P. vivax*.
-- Do not delay parenteral treatment when severe malaria is suspected.
-- After clinical improvement (usually after 48 hours), complete an effective oral ACT course as specified by the treatment guideline.
-
-### 52. Malaria In Pregnancy
-
-##### 52.1 Primaquine
+**Primaquine**
 - **Contraindicated in pregnancy**.
 
-##### 52.2 P. vivax / P. ovale
+**P. vivax / P. ovale**
 - **Chloroquine** can be used for acute blood-stage treatment when sensitive.
 - Radical cure with primaquine/tafenoquine is deferred until after pregnancy and appropriate G6PD evaluation.
 
-##### 52.3 P. falciparum
+**P. falciparum**
 **Current WHO update**
 For **uncomplicated P. falciparum first trimester**, WHO now prefers **artemether-lumefantrine** rather than the old universal “quinine + clindamycin” teaching.
 
-##### **Severe malaria in pregnancy**
+**Severe malaria in pregnancy**
 - **Parenteral artesunate is the treatment of choice in all trimesters.**
 
 

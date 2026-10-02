@@ -1170,25 +1170,26 @@ The blanket statement **“all immunostimulants are contraindicated in pregnancy
 | IMPDH | Mycophenolate mofetil |
 | CD3 | Muromonab-CD3 — historical/withdrawn |
 This section is intentionally explicit so that an exam fact is not accidentally converted into a false clinical rule.
-| Source issue | Corrected interpretation |
-|---|---|
-| “All cytotoxics cause marrow suppression except VBC” | Vincristine and bleomycin are relatively marrow-sparing; **chlorambucil is myelosuppressive**. |
-| Palifermin presented as treatment for severe diarrhea/GI mucosa | Palifermin's established high-yield role is **severe oral mucositis prevention/reduction** in selected autologous HSCT settings. |
-| Pegloticase presented as routine resistant TLS therapy | Modern TLS management uses **allopurinol and/or rasburicase** with hydration and aggressive electrolyte management; pegloticase is not a standard TLS agent. |
-| “All cytotoxic drugs are given by injection” appears in source context | False as a general rule; many are oral, including chlorambucil, procarbazine and temozolomide. |
-| “Irinotecan” appears among topoisomerase II inhibitors | **Irinotecan = topoisomerase I inhibitor.** |
-| Gilbert/Crigler-Najjar listed as absolute irinotecan contraindications | Reduced UGT1A1 activity increases toxicity risk; the oversimplified absolute-contraindication wording should not be used literally. |
-| Cytarabine listed under hair-cell damage | Misaligned/incorrect; **cisplatin** damages cochlear hair cells, while cytarabine is associated with **cerebellar toxicity**. |
-| Lapatinib included as anti-tumor monoclonal antibody | **Lapatinib is a small-molecule TKI** targeting HER2/EGFR. |
-| Eculizumab/ravulizumab included among anti-tumor mAbs | They are **C5-targeting complement antibodies**, especially important in PNH and other complement disorders. |
-| “Checkpoint inhibitors → cytokine storm” | Classic checkpoint-inhibitor toxicity is **immune-related adverse events**; CRS is particularly associated with CAR-T/T-cell engaging therapies. |
-| “Aflibercept = aptamer” | **Aflibercept = recombinant VEGF-trap fusion protein**; pegaptanib is the classic VEGF-targeting RNA aptamer. |
-| Tazemetostat described as a generic DNA-methylation inhibitor | Tazemetostat specifically inhibits **EZH2 histone methyltransferase**, reducing H3K27 methylation. |
-| Glasdegib placed under BCC | **Glasdegib is a Smoothened inhibitor associated with AML + low-dose cytarabine**, not a BCC drug. |
-| Iniparib included as a PARP inhibitor | **Iniparib is not a bona fide PARP inhibitor**; remove it from modern PARP lists. |
-| “Obinutoclax” appears under BCL-2 inhibitors | Extraction is unreliable; **venetoclax** is the clearly established BCL-2 inhibitor represented here; “obinutuzumab” is a CD20 antibody. |
-| Blanket statement: all immunostimulants contraindicated in pregnancy | Pregnancy restrictions are **agent-specific**. Thalidomide is clearly contraindicated; imiquimod should generally be avoided during pregnancy until more data are available. |
-| ATRA section visually mixed with bleomycin skin-toxicity images | **Flagellate pigmentation belongs to bleomycin**, not ATRA. |
+
+| Source issue                                                           | Corrected interpretation                                                                                                                                                     |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| “All cytotoxics cause marrow suppression except VBC”                   | Vincristine and bleomycin are relatively marrow-sparing; **chlorambucil is myelosuppressive**.                                                                               |
+| Palifermin presented as treatment for severe diarrhea/GI mucosa        | Palifermin's established high-yield role is **severe oral mucositis prevention/reduction** in selected autologous HSCT settings.                                             |
+| Pegloticase presented as routine resistant TLS therapy                 | Modern TLS management uses **allopurinol and/or rasburicase** with hydration and aggressive electrolyte management; pegloticase is not a standard TLS agent.                 |
+| “All cytotoxic drugs are given by injection” appears in source context | False as a general rule; many are oral, including chlorambucil, procarbazine and temozolomide.                                                                               |
+| “Irinotecan” appears among topoisomerase II inhibitors                 | **Irinotecan = topoisomerase I inhibitor.**                                                                                                                                  |
+| Gilbert/Crigler-Najjar listed as absolute irinotecan contraindications | Reduced UGT1A1 activity increases toxicity risk; the oversimplified absolute-contraindication wording should not be used literally.                                          |
+| Cytarabine listed under hair-cell damage                               | Misaligned/incorrect; **cisplatin** damages cochlear hair cells, while cytarabine is associated with **cerebellar toxicity**.                                                |
+| Lapatinib included as anti-tumor monoclonal antibody                   | **Lapatinib is a small-molecule TKI** targeting HER2/EGFR.                                                                                                                   |
+| Eculizumab/ravulizumab included among anti-tumor mAbs                  | They are **C5-targeting complement antibodies**, especially important in PNH and other complement disorders.                                                                 |
+| “Checkpoint inhibitors → cytokine storm”                               | Classic checkpoint-inhibitor toxicity is **immune-related adverse events**; CRS is particularly associated with CAR-T/T-cell engaging therapies.                             |
+| “Aflibercept = aptamer”                                                | **Aflibercept = recombinant VEGF-trap fusion protein**; pegaptanib is the classic VEGF-targeting RNA aptamer.                                                                |
+| Tazemetostat described as a generic DNA-methylation inhibitor          | Tazemetostat specifically inhibits **EZH2 histone methyltransferase**, reducing H3K27 methylation.                                                                           |
+| Glasdegib placed under BCC                                             | **Glasdegib is a Smoothened inhibitor associated with AML + low-dose cytarabine**, not a BCC drug.                                                                           |
+| Iniparib included as a PARP inhibitor                                  | **Iniparib is not a bona fide PARP inhibitor**; remove it from modern PARP lists.                                                                                            |
+| “Obinutoclax” appears under BCL-2 inhibitors                           | Extraction is unreliable; **venetoclax** is the clearly established BCL-2 inhibitor represented here; “obinutuzumab” is a CD20 antibody.                                     |
+| Blanket statement: all immunostimulants contraindicated in pregnancy   | Pregnancy restrictions are **agent-specific**. Thalidomide is clearly contraindicated; imiquimod should generally be avoided during pregnancy until more data are available. |
+| ATRA section visually mixed with bleomycin skin-toxicity images        | **Flagellate pigmentation belongs to bleomycin**, not ATRA.                                                                                                                  |
 # 51. Exam Mnemonics Preserved
 ## BHARAT MATA
 Common cytotoxic toxicities:
