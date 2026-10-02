@@ -1,0 +1,12 @@
+/* Minimal vertical space around tables */
+.markdown-preview-view table,
+.markdown-rendered table {
+    margin-top: 0.15em !important;
+    margin-bottom: 0.15em !important;
+}
+
+/* Live Preview / Editing */
+.cm-table-widget {
+    margin-top: 0.15em !important;
+    margin-bottom: 0.15em !important;
+}
