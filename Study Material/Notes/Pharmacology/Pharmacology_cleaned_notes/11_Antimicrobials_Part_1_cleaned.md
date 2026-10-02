@@ -1116,12 +1116,12 @@ Classic example:
 > Continued suppression of bacterial growth after the antibiotic concentration falls below the MIC.
 
 
-| PK/PD category in | Drugs listed |
-|---|---|
-| **Concentration-dependent killing + long PAE** | Metronidazole, aminoglycosides, rifampicin, streptogramins |
-| **Time-dependent killing + long PAE** | Fluoroquinolones, vancomycin |
-| **Time-dependent killing + long PAE** | Azithromycin, tetracyclines |
-| **Time-dependent killing + short PAE** | Clindamycin, penicillins, erythromycin, cephalosporins |
+| PK/PD category in                              | Drugs listed                                                       |
+| ---------------------------------------------- | ------------------------------------------------------------------ |
+| **Concentration-dependent killing + long PAE** | Metronidazole, ==aminoglycosides==, ==rifampicin==, streptogramins |
+| **Time-dependent killing + long PAE**          | ==Fluoroquinolones==, ==vancomycin==                               |
+| **Time-dependent killing + long PAE**          | Azithromycin, ==tetracyclines==                                    |
+| **Time-dependent killing + short PAE**         | Clindamycin, penicillins, erythromycin, cephalosporins             |
 
 > **Interpretation:** This table is an **exam-oriented simplification **, not a universal PK/PD taxonomy. Real antimicrobial PK/PD relationships vary by organism, site, pathogen susceptibility, free-drug exposure, and drug-specific pharmacology.
 

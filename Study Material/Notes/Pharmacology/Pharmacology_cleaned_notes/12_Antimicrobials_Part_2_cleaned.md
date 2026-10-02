@@ -512,7 +512,7 @@ These are teaching mnemonics, not complete immunological descriptions.
 - **Cell wall:** beta-glucan and other polysaccharides
 - **Cell membrane:** ergosterol
 **Main target sites**
-```text
+
 Fungal cell wall
  |
 
@@ -539,7 +539,6 @@ Fungal translation
  |
 
  +-- Tavaborole (leucyl-tRNA synthetase inhibitor)
-```
 
 #### 13. ECHINOCANDINS
 Examples:
