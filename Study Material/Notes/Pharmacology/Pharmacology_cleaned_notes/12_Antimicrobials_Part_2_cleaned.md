@@ -1390,34 +1390,37 @@ five medically important *Plasmodium* species:
 The refers to the historical NVBDCP name; the current programme is **National Center for Vector Borne Diseases Control (NCVBDC)** under the Ministry of Health & Family Welfare.
 
 ##### MALARIA LIFE CYCLE
+```mermaid
+flowchart TD
+    A[Infected female Anopheles mosquito bite] --> B[Sporozoites]
+    B --> C[Liver / Hepatocytes]
 
-Mosquito bite
- |
- ↓
-Sporozoites
- |
-↓
-Liver ––> Hepatozoit (dormant stage)
- |
- | Hepatic schizogony
- ↓
-Merozoites
- |
- ↓
-RBCs
- |
- | Erythrocytic schizogony
- ↓
-Clinical malaria
- |
- +→ Some parasites differentiate into gametocytes
- |
- ↓
- Mosquito ingestion
-|
-↓
- Sexual cycle in mosquito
+    C --> D[Hepatic schizogony]
+    D --> E[Liver schizonts]
+    E --> F[Merozoites]
 
+    C -.-> H[Hypnozoites<br/>Dormant stage]
+    H -.-> I["P. vivax & P. ovale only"]
+
+    F --> J[RBCs]
+    J --> K[Erythrocytic schizogony]
+    K --> L[RBC rupture + Merozoite release]
+    L --> M[Clinical malaria]
+
+    M --> N{Some parasites differentiate}
+    N --> O[Gametocytes]
+
+    O --> P[Ingestion by another female Anopheles]
+    P --> Q[Gametogenesis]
+    Q --> R[Fertilization]
+    R --> S[Zygote]
+    S --> T[Ookinete]
+    T --> U[Oocyst]
+    U --> V[Sporogony]
+    V --> W[Sporozoites]
+    W --> X[Salivary glands of mosquito]
+    X --> A
+```
 
 ###### Hypnozoites
 - Present in **P. vivax** and **P. ovale**.
