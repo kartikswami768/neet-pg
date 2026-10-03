@@ -18,11 +18,11 @@ These notes cover the major ophthalmology material outside the dedicated section
 
 ---
 
-# 1. Conjunctiva
+## 1. Conjunctiva
 
-## 1.1 Anatomy and basic structure
+### 1.1 Anatomy and basic structure
 
-### Parts of conjunctiva
+#### Parts of conjunctiva
 
 | Part | Location |
 |---|---|
@@ -30,7 +30,7 @@ These notes cover the major ophthalmology material outside the dedicated section
 | **Palpebral conjunctiva** | Lines the inner surface of the eyelids |
 | **Forniceal conjunctiva** | Lies between bulbar and palpebral conjunctiva |
 
-### Histology and tear-film role
+#### Histology and tear-film role
 
 - **Goblet cells** are present in the conjunctival epithelium.
 - Goblet cells secrete **mucin**, forming the **innermost layer of the tear film**.
@@ -38,7 +38,7 @@ These notes cover the major ophthalmology material outside the dedicated section
   - **Medial conjunctiva → submandibular lymph nodes**
   - **Lateral conjunctiva → preauricular lymph nodes**
 
-### Clinical surface reactions
+#### Clinical surface reactions
 
 - **Papillae** = hypertrophied vascular cores; classically associated with **bacterial** and **allergic** conjunctival reactions.
 - **Follicles** = lymphoid aggregates, appearing as whitish/yellowish-grey lesions; classically associated with **viral** and **chlamydial** disease.
@@ -46,11 +46,11 @@ These notes cover the major ophthalmology material outside the dedicated section
 - **Hyperemia/congestion** = conjunctival redness.
 
 > **Diagram omitted:** Conjunctival follicular and inflammatory patterns.
-## 1.2 Conjunctivitis: clinical pattern and classification
+### 1.2 Conjunctivitis: clinical pattern and classification
 
 Conjunctivitis is inflammation of the conjunctiva and is also described as **eye flu**.
 
-### Typical symptoms
+#### Typical symptoms
 
 - Redness
 - Watering
@@ -62,7 +62,7 @@ Conjunctivitis is inflammation of the conjunctiva and is also described as **eye
 
 Typical conjunctivitis generally does **not** cause loss of vision. **Loss of vision suggests corneal involvement.**
 
-### Discharge-based approach
+#### Discharge-based approach
 
 | Discharge / reaction | More suggestive of |
 |---|---|
@@ -75,9 +75,9 @@ Morning crusting/sticking of the lids is characteristic of the discharge pattern
 
 ---
 
-## 1.3 Bacterial conjunctivitis
+### 1.3 Bacterial conjunctivitis
 
-### Acute bacterial conjunctivitis
+#### Acute bacterial conjunctivitis
 
 | Type | Key features |
 |---|---|
@@ -87,16 +87,16 @@ Morning crusting/sticking of the lids is characteristic of the discharge pattern
 | **Acute pseudomembranous** | Pseudomembrane; **does not bleed on removal** |
 | **Angular / diplobacillary conjunctivitis** | **Moraxella axenfeld**; affects lateral canthi; tetracycline ointment + zinc/boric-acid drops are described |
 
-### Membrane distinction
+#### Membrane distinction
 
 **True membrane** is firmly adherent and removal produces bleeding. A **pseudomembrane** can be removed without bleeding.
 
 > **Diagram omitted:** Membranous and pseudomembranous conjunctivitis.
 ---
 
-## 1.4 Chlamydial conjunctivitis
+### 1.4 Chlamydial conjunctivitis
 
-### Chlamydial serovars
+#### Chlamydial serovars
 
 | Serovar | Disease |
 |---|---|
@@ -104,7 +104,7 @@ Morning crusting/sticking of the lids is characteristic of the discharge pattern
 | **D–K** | Adult inclusion conjunctivitis / ophthalmia neonatorum |
 | **L1, L2, L3** | Lymphogranuloma venereum; no ocular disease described |
 
-### Trachoma
+#### Trachoma
 
 Trachoma is a chronic chlamydial conjunctival disease with an inflammatory stage followed by a **cicatrising/scarring stage**.
 
@@ -117,7 +117,7 @@ Trachoma is a chronic chlamydial conjunctival disease with an inflammatory stage
 - Characteristic inflammatory findings include **sago-grain follicles** and papillary reaction.
 
 > **Diagram omitted:** Trachoma: follicles and scarring landmarks.
-### Characteristic signs
+#### Characteristic signs
 
 | Sign | Description |
 |---|---|
@@ -126,7 +126,7 @@ Trachoma is a chronic chlamydial conjunctival disease with an inflammatory stage
 | **Arlt line** | Line of cicatrisation/scarring in the **sulcus subtarsalis** |
 | **Pannus** | Corneal vascularisation associated with trachoma |
 
-### WHO trachoma staging
+#### WHO trachoma staging
 
 1. **Stage I – Follicles:** ≥5 follicles at the upper palpebral conjunctiva.
 2. **Stage II – Inflammatory:** itching and watering.
@@ -136,13 +136,13 @@ Trachoma is a chronic chlamydial conjunctival disease with an inflammatory stage
 
 The grading system is also referred to as **FISTO**.
 
-### Trachoma and blindness
+#### Trachoma and blindness
 
 - Scarring produces lid distortion and trichiasis.
 - Trichiasis causes repeated corneal irritation.
 - The major preventable blinding endpoint is **corneal opacity**.
 
-### SAFE strategy
+#### SAFE strategy
 
 | Letter | Component |
 |---|---|
@@ -155,7 +155,7 @@ The grading system is also referred to as **FISTO**.
 - A public-health threshold described is **>10% trachoma follicle prevalence in children aged 1–9 years**, at which azithromycin is used as the control-of-trachoma intervention.
 - India: trachoma elimination is recorded as **8 October 2024**.
 
-### Sequelae of trachomatous scarring
+##### Sequelae of trachomatous scarring
 
 - **Trichiasis** — in-turning/misdirection of eyelashes.
 - **Entropion** — in-turning of the lid itself.
@@ -166,11 +166,11 @@ The grading system is also referred to as **FISTO**.
 
 ---
 
-## 1.5 Ophthalmia neonatorum
+### 1.5 Ophthalmia neonatorum
 
 Any discharge or watering from the eye during the first **4 weeks of life** is treated as pathological/infective.
 
-### Cause according to onset
+#### Cause according to onset
 
 | Onset after birth | Cause |
 |---|---|
@@ -182,26 +182,26 @@ Any discharge or watering from the eye during the first **4 weeks of life** is t
 
 Other organisms described include **Staphylococcus aureus, Streptococcus, Pseudomonas, and Klebsiella**.
 
-### Prevention
+#### Prevention
 
 - Historical **Crede method** used **silver nitrate** and is described as obsolete.
 - **Erythromycin eye ointment** in the neonate's eye is given as prevention; the timing described is within the first **2 hours**.
 
-### Treatment
+#### Treatment
 
 - Antibiotic eye treatment
 - Repeated cleaning of the eyes
 
 ---
 
-## 1.6 Viral conjunctivitis
+### 1.6 Viral conjunctivitis
 
-### Adenoviral disease
+#### Adenoviral disease
 
 - **Epidemic keratoconjunctivitis (EKC)**
 - **Pharyngoconjunctival fever (PCF)**
 
-### Acute haemorrhagic / Apollo conjunctivitis
+#### Acute haemorrhagic / Apollo conjunctivitis
 
 Mnemonic **PACE**:
 
@@ -214,9 +214,9 @@ Mnemonic **PACE**:
 
 ---
 
-## 1.7 Allergic conjunctivitis
+#### 1.7 Allergic conjunctivitis
 
-### Types
+##### Types
 
 - Seasonal allergic conjunctivitis
 - **Vernal keratoconjunctivitis (VKC) / spring catarrh**
@@ -224,7 +224,7 @@ Mnemonic **PACE**:
 - **Giant papillary conjunctivitis** — mechanical irritation due to contact lenses, protruding sutures, or an ill-fitting prosthetic eye
 - **Phlyctenular conjunctivitis**
 
-### Vernal keratoconjunctivitis
+##### Vernal keratoconjunctivitis
 
 - Most common in **boys aged 5–15 years**; another description gives the typical age around **10 years**.
 - Hypersensitivity: **Type I > Type II**.
@@ -232,7 +232,7 @@ Mnemonic **PACE**:
 - Seasonal/summer predominance is described; “spring catarrh” is a traditional but imperfect name.
 - Symptoms: intense itching, irritation, redness, watering.
 
-### Signs
+##### Signs
 
 | Sign | Key finding |
 |---|---|
@@ -243,7 +243,7 @@ Mnemonic **PACE**:
 | **Shield ulcer** | Sterile, shield-shaped corneal ulcer; not an infectious ulcer |
 
 > **Diagram omitted:** Vernal keratoconjunctivitis: cobblestone papillae and limbal Horner–Trantas dots.
-### Treatment
+##### Treatment
 
 - Antihistamines
 - Mast-cell stabilisers for prevention/control
@@ -252,7 +252,7 @@ Mnemonic **PACE**:
 - Low-dose steroids described: **loteprednol** and **fluorometholone**.
 - Immunomodulators are used in refractory disease.
 
-### Phlyctenular keratoconjunctivitis
+##### Phlyctenular keratoconjunctivitis
 
 - Associated with hypersensitivity to endogenous antigens, particularly **Staphylococcus aureus** and **tubercular antigen**.
 - **Type IV hypersensitivity**.
@@ -262,9 +262,9 @@ Mnemonic **PACE**:
 
 ---
 
-## 1.8 Subconjunctival haemorrhage and other acute surface findings
+#### 1.8 Subconjunctival haemorrhage and other acute surface findings
 
-### Subconjunctival haemorrhage
+##### Subconjunctival haemorrhage
 
 Subconjunctival haemorrhage is associated with:
 
@@ -275,15 +275,15 @@ Subconjunctival haemorrhage is associated with:
 
 Haemorrhagic conjunctivitis may also accompany bacterial or viral conjunctival infection.
 
-### Chemosis
+##### Chemosis
 
 **Chemosis = oedema of the bulbar conjunctiva.**
 
 ---
 
-## 1.9 Conjunctival and limbal degenerations / masses
+#### 1.9 Conjunctival and limbal degenerations / masses
 
-### Pinguecula
+##### Pinguecula
 
 - **Elastotic degeneration**.
 - Located **away from the limbus**.
@@ -291,7 +291,7 @@ Haemorrhagic conjunctivitis may also accompany bacterial or viral conjunctival i
 - Usually stationary and asymptomatic.
 - Treatment: observation; removal is essentially cosmetic.
 
-### Pterygium
+##### Pterygium
 
 - **Elastotic degeneration** of conjunctival tissue.
 - Triangular/wing-shaped fibrovascular growth of conjunctiva extending **across the limbus onto the cornea**.
@@ -305,13 +305,13 @@ Haemorrhagic conjunctivitis may also accompany bacterial or viral conjunctival i
 - Can cause **with-the-rule astigmatism** from corneal flattening/tensional pull.
 
 > **Diagram omitted:** Pterygium: triangular conjunctival growth crossing the limbus.
-### Pterygium versus pseudopterygium
+##### Pterygium versus pseudopterygium
 
 **Glass rod test:**
 - Glass rod does **not** pass beneath a true pterygium.
 - In **pseudopterygium**, the glass rod can pass underneath.
 
-### Treatment of pterygium
+##### Treatment of pterygium
 
 - Excision alone has a high recurrence rate.
 - Recurrence prevention:
@@ -321,7 +321,7 @@ Haemorrhagic conjunctivitis may also accompany bacterial or viral conjunctival i
 - **PERFECT surgery**: Pterygium Extended Resection followed by Extended Conjunctiva Transplantation.
 - The extended graft is harvested from the same eye, described from the superior-temporal region.
 
-### Bitot's spots and xerophthalmia
+##### Bitot's spots and xerophthalmia
 
 Bitot's spots are associated with **vitamin A deficiency**.
 
@@ -329,14 +329,14 @@ Bitot's spots are associated with **vitamin A deficiency**.
 - Characteristic **foamy** appearance.
 
 > **Diagram omitted:** Bitot's spot and xerophthalmia.
-### Limbal dermoid
+##### Limbal dermoid
 
 - Benign congenital lesion.
 - Located at the limbus.
 - Contains tissues representing **all three germ layers**; hair and other adnexal structures may occur.
 - Excision when visually significant.
 
-### Dermolipoma / lipodermoid
+###### Dermolipoma / lipodermoid
 
 - Located away from the limbus, classically in the **upper outer quadrant**.
 - Fat-like subconjunctival mass.
@@ -344,9 +344,9 @@ Bitot's spots are associated with **vitamin A deficiency**.
 
 ---
 
-# 2. Dry Eye and Ocular Surface Disease
+#### 2. Dry Eye and Ocular Surface Disease
 
-## 2.1 Tear film
+##### 2.1 Tear film
 
 The tear film is described in three functional layers:
 
@@ -354,9 +354,9 @@ The tear film is described in three functional layers:
 2. **Aqueous layer** — produced by the **lacrimal and accessory lacrimal glands**.
 3. **Lipid layer** — produced by the **Meibomian glands**; reduces evaporation of tears.
 
-## 2.2 Tests for dry eye
+##### 2.2 Tests for dry eye
 
-### Schirmer test
+###### Schirmer test
 
 - Uses **Whatman Paper 41**.
 - Tear strip is placed in the lower lid for **5 minutes**.
@@ -365,32 +365,32 @@ The tear film is described in three functional layers:
   - **<5 mm** — severe dry eye
 
 > **Diagram omitted:** Schirmer test.
-### Phenol red thread test
+###### Phenol red thread test
 
 - Faster test.
 - Thread is coated with phenol and placed in the eye for **15 seconds**.
 - Colour changes because of change in pH.
 - **<9 mm** indicates severe dry eye.
 
-### Tear-film break-up time (TBUT)
+###### Tear-film break-up time (TBUT)
 
 - After the last blink, the patient stares and the time until the first dry spot appears is measured.
 - **<10 seconds** indicates dry eye.
 
-### Ocular-surface staining
+###### Ocular-surface staining
 
 - **Rose Bengal** stains devitalised/necrotic tissue.
 - **Lissamine green** similarly stains ocular surface disease and is described as safer/less toxic than Rose Bengal.
 - Lissamine green stains both **cornea and conjunctiva**.
 - Tear osmolarity is described as an important biomarker for detecting dry eye.
 
-## 2.3 Treatment
+##### 2.3 Treatment
 
 - Lubricating eye drops, including **carboxymethylcellulose**.
 - **Hyaluronic-acid derivatives**.
 - When posterior blepharitis/meibomianitis contributes to an evaporative component, thermal pulsation can soften retained meibomian secretions and improve lipid delivery to the tear film.
 
-### Meibomian gland dysfunction and ocular surface disease
+###### Meibomian gland dysfunction and ocular surface disease
 
 - Posterior blepharitis/meibomianitis is associated with **acne rosacea**.
 - Trapped meibomian oil reduces delivery of lipid to the tear film and can contribute to dry eye.
@@ -754,9 +754,9 @@ Treatment: **steroids**.
 
 ---
 
-# 6. Pediatric and Congenital Ophthalmology Beyond the Dedicated Sections
+## 6. Pediatric and Congenital Ophthalmology Beyond the Dedicated Sections
 
-## 6.1 Ocular development and coloboma
+### 6.1 Ocular development and coloboma
 
 The embryological sequence is:
 
@@ -769,7 +769,7 @@ The embryological sequence is:
 - Failure of closure produces **coloboma**.
 
 > **Diagram omitted:** Embryology of the optic vesicle, lens placode and choroid fissure.
-### Tissue derivation mnemonics
+#### Tissue derivation mnemonics
 
 **Surface ectoderm — SLEEK**
 
@@ -804,11 +804,11 @@ The embryological sequence is:
 
 ---
 
-## 6.2 Retinoblastoma
+### 6.2 Retinoblastoma
 
 Retinoblastoma is the **most common primary intraocular tumour of childhood**.
 
-### Presentation
+#### Presentation
 
 - Typical age of presentation: approximately **18 months**.
 - Bilateral disease presents earlier.
@@ -818,14 +818,14 @@ Retinoblastoma is the **most common primary intraocular tumour of childhood**.
 - Other presentations: glaucoma, rubeosis iridis and proptosis.
 
 > **Diagram omitted:** Retinoblastoma: leukocoria and characteristic histopathology.
-### Spread and morphology
+#### Spread and morphology
 
 - Most common route of spread: **optic nerve**.
 - Other routes include subarachnoid spread, haematogenous spread and anterior spread.
 - Growth may be **mixed**, with both endophytic vitreous growth and exophytic scleral/subretinal growth.
 - Diffuse infiltrating growth has a worse prognosis.
 
-### Histopathology
+#### Histopathology
 
 | Structure | Finding |
 |---|---|
@@ -834,13 +834,13 @@ Retinoblastoma is the **most common primary intraocular tumour of childhood**.
 | **Fleurettes** | Flower-like differentiation |
 | Sheets of immature cells without rosettes | Poor differentiation |
 
-### Genetics and syndromic association
+#### Genetics and syndromic association
 
 - **13q14** abnormality is described as the classic retinoblastoma gene region.
 - Mutation outside the 14th band is associated with dysmorphic features and a **13q syndrome**.
 - **Trilateral retinoblastoma** = bilateral retinoblastoma with a **pinealoma**.
 
-### International grouping: Group A–E
+#### International grouping: Group A–E
 
 - **Group A:** small tumour (<3 mm) and away from important structures such as the macula and optic disc.
 - **Group B:** other tumours larger than 3 mm or closer to optic disc/fovea but confined to the retina.
@@ -848,7 +848,7 @@ Retinoblastoma is the **most common primary intraocular tumour of childhood**.
 - **Group D:** large/poorly defined tumour with widespread vitreous or subretinal seeding; retina may be detached.
 - **Group E:** very large tumour, anterior extension, bleeding, glaucoma or other features associated with poor prognosis.
 
-### Diagnosis and management
+#### Diagnosis and management
 
 - Clinical examination plus **ultrasound** and, where described, CT to detect **intralesional calcification**.
 - **Biopsy is contraindicated** because of tumour seeding along the tract.
@@ -979,11 +979,11 @@ RBSK covers **32 diseases** across four broad groups:
 
 ---
 
-## 7.7 Vitamin A deficiency and xerophthalmia
+### 7.7 Vitamin A deficiency and xerophthalmia
 
 Vitamin A deficiency is a major preventable cause of childhood blindness.
 
-### WHO-style xerophthalmia stages
+#### WHO-style xerophthalmia stages
 
 | Stage | Finding |
 |---|---|
@@ -997,7 +997,7 @@ Vitamin A deficiency is a major preventable cause of childhood blindness.
 | **XF** | Xerophthalmic fundus; RPE/fundus changes, including **Uyemura spots / white-spotted fundus** |
 
 > **Diagram omitted:** Xerophthalmia spectrum: Bitot spot and corneal involvement.
-### High-yield sequence
+#### High-yield sequence
 
 **Night blindness → conjunctival xerosis → Bitot spot → corneal xerosis → keratomalacia → scar/fundus changes.**
 
@@ -1005,15 +1005,15 @@ The vitamin-A treatment section describes injectable vitamin A, with **1 lakh IU
 
 ---
 
-## 7.8 Cataract and refractive-error control as public-health priorities
+### 7.8 Cataract and refractive-error control as public-health priorities
 
-### Cataract control
+#### Cataract control
 
 - Cataract is repeatedly identified as a leading cause of avoidable blindness.
 - Within the eye-care hierarchy, operative services begin at the **secondary/service-centre level**.
 - NPCBVI includes cataract control as a core blindness-prevention activity.
 
-### Refractive-error control
+#### Refractive-error control
 
 - Refractive error is a major cause of childhood and population visual impairment.
 - School screening is a principal route to identification.
@@ -1021,7 +1021,7 @@ The vitamin-A treatment section describes injectable vitamin A, with **1 lakh IU
 
 ---
 
-## 7.9 Diabetic retinopathy screening as a community service
+### 7.9 Diabetic retinopathy screening as a community service
 
 The screening framework is:
 
@@ -1095,7 +1095,7 @@ The clinical classification and treatment of diabetic retinopathy belong to reti
 | Manifest blindness | <1/60 |
 | Absolute blindness | No perception of light |
 
-## 8.7 Lacrimal investigations
+### 8.7 Lacrimal investigations
 
 | Test | Main use / interpretation |
 |---|---|
@@ -1107,7 +1107,7 @@ The clinical classification and treatment of diabetic retinopathy belong to reti
 
 ---
 
-# 9. Integrated Exam Pearls
+### 9. Integrated Exam Pearls
 
 - **Loss of vision in a patient labelled as conjunctivitis → think corneal involvement.**
 - **Follicles → viral/chlamydial; papillae → bacterial/allergic.**
@@ -1141,9 +1141,9 @@ The clinical classification and treatment of diabetic retinopathy belong to reti
 
 ---
 
-# 10. Compact Revision Flowcharts
+#### 10. Compact Revision Flowcharts
 
-## Conjunctival red eye
+##### Conjunctival red eye
 
 **Red eye → discharge/reaction**
 
@@ -1157,15 +1157,15 @@ The clinical classification and treatment of diabetic retinopathy belong to reti
 
 → **Pain or reduced vision** → assess carefully for corneal/other intraocular involvement
 
-## Trachoma progression
+##### Trachoma progression
 
 **Chlamydial infection → inflammation/follicles → scarring → Arlt line + Herbert pits → trichiasis/entropion → repeated corneal injury → corneal opacity → blindness**
 
-## Xerophthalmia progression
+##### Xerophthalmia progression
 
 **Vitamin A deficiency → night blindness (XN) → conjunctival xerosis (X1A) → Bitot spot (X1B) → corneal xerosis (X2) → keratomalacia (X3A/X3B) → scar (XS) / xerophthalmic fundus (XF)**
 
-## Epiphora approach
+##### Epiphora approach
 
 **Watering → decide hypersecretion vs overflow**
 
@@ -1179,13 +1179,13 @@ The clinical classification and treatment of diabetic retinopathy belong to reti
 
 → **dacryoscintigraphy when lacrimal pump failure is suspected**
 
-## Acute anterior uveitis
+##### Acute anterior uveitis
 
 **Pain + photophobia + redness + blurred vision → slit-lamp examination → KPs + cells/flare + synechiae/nodules → topical steroid + cycloplegic → monitor for cataract, glaucoma and band keratopathy**
 
 ---
 
-# 11. Essential Numerical Values and Timings
+#### 11. Essential Numerical Values and Timings
 
 | Parameter | Value |
 |---|---:|
@@ -1221,24 +1221,24 @@ The clinical classification and treatment of diabetic retinopathy belong to reti
 
 ---
 
-# 12. Final Rapid Review
+#### 12. Final Rapid Review
 
-### Conjunctiva
+##### Conjunctiva
 
 **Bulbar + palpebral + fornix → goblet-cell mucin → medial submandibular / lateral preauricular drainage → papillae vs follicles → bacterial/chlamydial/viral/allergic patterns → trachoma → VKC → pterygium/pinguecula → xerophthalmia.**
 
-### Lacrimal
+##### Lacrimal
 
 **Gland → puncta → canaliculi → sac → NLD → inferior meatus → epiphora work-up with regurgitation, syringing, Jones dye and dacryoscintigraphy → massage/probing/DCR for obstruction.**
 
-### Uveitis
+##### Uveitis
 
 **Anterior = iris/pars plicata; intermediate = pars plana; posterior = choroid/retina; panuveitis = all.**
 
-### Trauma
+##### Trauma
 
 **Iridodialysis → D-shaped pupil; hyphema → 8-ball; Vossius ring → iris pigment on lens; rosette cataract → blunt trauma; chemical burn → irrigate immediately; metallic IOFB → no MRI.**
 
-### Community ophthalmology
+##### Community ophthalmology
 
 **Blindness <3/60 or field <10° → NPCBVI → cataract/refractive error/childhood disease/trachoma control → primary refraction/school screening → secondary surgery → tertiary training/complex care → Vision 2020 + RBSK + vitamin-A blindness prevention.**
