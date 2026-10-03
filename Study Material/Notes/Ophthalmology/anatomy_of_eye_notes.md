@@ -125,7 +125,7 @@ The limbus is the **corneoscleral junction** and contains the **limbal stem-cell
 - Limbal stem-cell deficiency allows **conjunctivalization of the cornea**, as in pterygium.
 - Normally, conjunctiva covers the sclera and does not extend over the corneal surface.
 
-### 2.1.6 Corneal clinical-anatomical measurements and landmarks
+#### 2.1.6 Corneal clinical-anatomical measurements and landmarks
 
 - Normal central corneal thickness by pachymetry: approximately **540 µm / 0.54 mm**.
 - Keratometry measures corneal curvature.
@@ -133,7 +133,7 @@ The limbus is the **corneoscleral junction** and contains the **limbal stem-cell
 
 ---
 
-### 2.2 Sclera
+#### 2.2 Sclera
 
 - Forms the **posterior 5/6** of the fibrous tunic.
 - **Opaque and white**.
@@ -340,16 +340,16 @@ The includes the following lens biochemical/anatomical details:
 > **Diagram omitted:** Vitreous and hyaloid attachment.
 ---
 
-## 7. Retina
+# 7. Retina
 
-### 7.1 Gross anatomy
+## 7.1 Gross anatomy
 
 - Retina is the **inner/nervous tunic** of the eye.
 - It is **neurosensory** and converts sensory input into neural signals.
 - It terminates anteriorly at the **ora serrata**.
 - The fundus contains the vitreous, retina and a red-appearing choroid.
 
-### 7.2 Retinal landmarks
+## 7.2 Retinal landmarks
 
 - **Optic disc:** approximately **1.5 mm** diameter and **vertically oval**; it contains a central optic cup and peripheral neuroretinal rim.
 - **Optic disc = blind spot:** no rods or cones/photoreceptors.
@@ -367,7 +367,7 @@ The includes the following lens biochemical/anatomical details:
 
 > **Figure 6. Fundus anatomy.** Optic disc, retinal vessels and macular region.
 > ![Fundus](images/HYP_4.jpg)
-### 7.3 Retinal layers — inside → outside
+## 7.3 Retinal layers — inside → outside
 
 The combined descriptions identify the following sequence:
 
@@ -389,7 +389,7 @@ The combined descriptions identify the following sequence:
 
 > **Figure 5. Retinal histology.** The diagram shows retinal layers and the path of light toward the photoreceptors.
 > ![Retinal histology](images/HYP_6.jpg)
-### 7.4 Retinal nuclear and plexiform organization
+## 7.4 Retinal nuclear and plexiform organization
 
  groups the retina into **three nuclear layers**:
 
@@ -404,7 +404,7 @@ Between the nuclear layers are the plexiform layers:
 
 Histological orientation is emphasized: from **choroid/sclera externally**, the first nuclear layer encountered is the **outer nuclear layer**.
 
-### 7.5 Neuronal order
+## 7.5 Neuronal order
 
 The neuronal order is:
 
@@ -413,7 +413,7 @@ The neuronal order is:
 - **Ganglion cells:** 3rd-order neurons.
 - Ganglion-cell axons collect in the nerve fibre layer and form the **optic nerve**.
 
-### 7.6 Retinal pigment epithelium
+## 7.6 Retinal pigment epithelium
 
 - Forms the **outer blood-retinal barrier** .
 - Takes nutrition from the **choroid**.
@@ -448,21 +448,21 @@ The distinguishes two broad vascular arrangements:
 
 ---
 
-## 8. Optic nerve and visual pathway — anatomical organization
+### 8. Optic nerve and visual pathway — anatomical organization
 
-### 8.1 Optic nerve
+#### 8.1 Optic nerve
 
 - Optic nerve is formed by the **axons of retinal ganglion cells**.
 - Optic-nerve length is roughly **3.5–5 cm**; the **intraorbital part** is approximately **25–30 mm**.
 - Retinal nerve fibres leave the eye through the **optic disc/lamina cribrosa**.
 
-### 8.2 Core pathway
+#### 8.2 Core pathway
 
 **Retinal ganglion cell → optic nerve → optic chiasma → optic tract → lateral geniculate body (LGB) → optic radiation → visual cortex.**
 
 - The same nerve fibre runs from the retinal ganglion cell to the **LGB without a synapse before the LGB**; the optic nerve consists of ganglion-cell axons.
 
-### 8.3 Optic chiasma fiber organization
+#### 8.3 Optic chiasma fiber organization
 
 - **Nasal retinal fibres** cross at the optic chiasma; temporal retinal fibres remain uncrossed.
 - Temporal fibres remain on the same side.
@@ -473,7 +473,7 @@ At the optic-nerve/optic-chiasma junction, the **anterior knee of von Willebrand
 - **Inferonasal fibres** loop into the contralateral optic nerve before entering inferiorly into the contralateral optic tract.
 - This organization explains the **junctional scotoma** pattern.
 
-### 8.4 Lateral geniculate body
+#### 8.4 Lateral geniculate body
 
 - The LGB is the **first relay** in the visual pathway.
 - It has **6 layers**.
@@ -484,14 +484,14 @@ At the optic-nerve/optic-chiasma junction, the **anterior knee of von Willebrand
 - **Parvocellular pathway:** layers **3–6**; associated with colour vision.
 - **Koniocellular** cells/layers are associated with **blue colour**.
 
-### 8.5 Optic radiations
+#### 8.5 Optic radiations
 
 Two main optic-radiation bundles:
 
 - **Meyer’s loop:** inferior optic radiation fibres pass through the **temporal lobe**; a lesion produces contralateral superior homonymous quadrantanopia — **“pie in the sky.”**
 - **Baum’s loop:** superior optic radiation fibres pass through the **parietal lobe**; a lesion produces contralateral inferior homonymous quadrantanopia — **“pie on the floor.”**
 
-### 8.6 Visual cortex
+#### 8.6 Visual cortex
 
 - Majority of visual cortex is supplied by the **posterior cerebral artery (PCA)**.
 - A small tip of occipital cortex is supplied by the **middle cerebral artery (MCA)**.
@@ -501,11 +501,11 @@ Two main optic-radiation bundles:
 
 ---
 
-## 9. Blood supply of the eye
+### 9. Blood supply of the eye
 
 Ocular arterial supply begins with the **internal carotid artery → ophthalmic artery**.
 
-### 9.1 Main arterial branches relevant to ocular anatomy
+#### 9.1 Main arterial branches relevant to ocular anatomy
 
 | Branch | Supply / relationship |
 |---|---|
@@ -518,14 +518,14 @@ Ocular arterial supply begins with the **internal carotid artery → ophthalmic 
 
 ---
 
-## 10. Extraocular and intrinsic ocular muscles
+# 10. Extraocular and intrinsic ocular muscles
 
-### 10.1 Numbers
+## 10.1 Numbers
 
 - **Extrinsic muscles:** **7 total** → **6** move the eyeball + **1** moves the upper lid (levator palpebrae superioris).
 - **Intrinsic muscles:** **3 total** → **2 iris muscles + 1 ciliary muscle**.
 
-### 10.2 Eyeball movements
+## 10.2 Eyeball movements
 
 | Muscle | Primary action | Secondary action | Tertiary action | Nerve |
 |---|---|---|---|---|
@@ -538,7 +538,7 @@ Ocular arterial supply begins with the **internal carotid artery → ophthalmic 
 
 rule: **LR = CN VI, SO = CN IV, all remaining extraocular muscles = CN III**.
 
-### 10.3 Levator palpebrae superioris
+## 10.3 Levator palpebrae superioris
 
 - **Levator palpebrae superioris** is the uppermost muscle in the external ocular anatomy.
 - Elevates the **upper eyelid**.
@@ -659,15 +659,15 @@ Three anatomical regions:
 
 ---
 
-## 14. Lacrimal apparatus
+### 14. Lacrimal apparatus
 
-### 14.1 Functional components and positions
+#### 14.1 Functional components and positions
 
 - **Lacrimal gland:** produces tears; located **superolaterally**.
 - **Lacrimal sac:** collects tears for drainage; located **inferomedially**.
 - The explicitly warns that **lacrimal gland ≠ lacrimal sac**.
 
-### 14.2 Tear drainage pathway
+#### 14.2 Tear drainage pathway
 
 **Lacrimal gland → tear film across eye surface → upper and lower lacrimal puncta → lacrimal canaliculi → lacrimal sac → nasolacrimal duct → inferior meatus of the nose.**
 
@@ -675,7 +675,7 @@ Three anatomical regions:
 > ![Lacrimal apparatus anterior view](images/HYP_12.jpg)
 > **Figure 11. Lacrimal drainage measurements.** Canalicular measurements and drainage pathway.
 > ![Lacrimal drainage](images/HYP_13.jpg)
-### 14.3 Canalicular dimensions
+#### 14.3 Canalicular dimensions
 
 | Component | Length |
 |---|---:|
@@ -685,9 +685,9 @@ Three anatomical regions:
 
 ---
 
-## 15. Ocular developmental anatomy / embryology
+### 15. Ocular developmental anatomy / embryology
 
-### 15.1 Early eye development
+#### 15.1 Early eye development
 
 - The eye develops as an outgrowth of the **forebrain**.
 - **PAX6** is a key developmental transcription factor.
@@ -702,9 +702,9 @@ Three anatomical regions:
 
 > **Figure 14. Eye embryology.** Forebrain/optic grooves, optic vesicle, lens placode, lens pit, lens vesicle and choroid fissure.
 > **Diagram omitted:** Eye embryology.
-### 15.2 Tissue derivatives — classification
+#### 15.2 Tissue derivatives — classification
 
-#### Surface ectoderm
+##### Surface ectoderm
 
 Surface ectoderm derivatives include:
 
@@ -713,7 +713,7 @@ Surface ectoderm derivatives include:
 - Epithelial lining of conjunctiva
 - Epithelial lining of cornea
 
-#### Neuroectoderm — mnemonic: **STORME**
+##### Neuroectoderm — mnemonic: **STORME**
 
 - **Secondary vitreous**
 - **Tertiary vitreous**
@@ -722,7 +722,7 @@ Surface ectoderm derivatives include:
 - **Muscles of pupil:** sphincter + dilator
 - **Epithelium of iris and ciliary body**
 
-#### Neural crest
+##### Neural crest
 
 - **Sclera** (with a mesodermal contribution to the temporal scleral region).
 - **Choroid**.
@@ -730,7 +730,7 @@ Surface ectoderm derivatives include:
 - **Trabecular meshwork**.
 - **Ciliary muscle**.
 
-#### Mesoderm — mnemonic: **PSME**
+##### Mesoderm — mnemonic: **PSME**
 
 - **Primary vitreous**.
 - **Temporal sclera**.
@@ -739,7 +739,7 @@ Surface ectoderm derivatives include:
 
 ---
 
-## 16. Integrated spatial flow of the eye
+#### 16. Integrated spatial flow of the eye
 
 A useful continuous anatomical sequence from anterior to posterior is:
 
@@ -765,7 +765,7 @@ Tear flow is:
 
 ---
 
-## 17. High-yield anatomical measurements and numeric facts
+#### 17. High-yield anatomical measurements and numeric facts
 
 | Structure / parameter | value |
 |---|---:|
