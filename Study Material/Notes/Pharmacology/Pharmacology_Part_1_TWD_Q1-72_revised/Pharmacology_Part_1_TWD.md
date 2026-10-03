@@ -469,7 +469,7 @@ A 65-year-old patient with heart failure with reduced ejection fraction (HFrEF; 
 #### Discussion
 
 
-### Question 27
+### Question 27 #review 
 
 Which of the following best describes the mechanism of action of sotatercept in the treatment of pulmonary artery hypertension?
 
@@ -484,7 +484,7 @@ Which of the following best describes the mechanism of action of sotatercept in 
 Not marked
 
 #### Discussion
-
+answer is B
 
 ### Question 28
 

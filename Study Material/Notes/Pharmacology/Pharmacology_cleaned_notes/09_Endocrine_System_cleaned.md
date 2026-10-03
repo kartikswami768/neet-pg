@@ -23,6 +23,10 @@ For type 1 diabetes, **insulin is essential replacement therapy**. Acarbose and 
 - β-cell response to insulin becomes inadequate.
 - lists **metformin + other oral hypoglycemic agents (OHA)**.
 - states: **HbA1c >10% → start insulin.**
+
+> [!note] 1st line drug
+> Since 2026, Metformin + SGLT2 inhibitors are first line drugs
+
 The 2026 ADA Standards state that insulin should be considered in adults with type 2 diabetes when there are symptoms of hyperglycemia or very high glycemia, specifically **A1C >10% or blood glucose ≥300 mg/dL**, or when hyperglycemic crisis is present. In patients without severe hyperglycemia or crisis, GLP-1-based therapy is generally preferred over insulin for initial/add-on therapy. Therapy selection should also account for cardiovascular disease, heart failure, CKD, weight goals, and hypoglycemia risk.
 **High-yield 2026 point:** in type 2 diabetes with established/high-risk ASCVD, heart failure, or CKD, an SGLT2 inhibitor and/or GLP-1 receptor agonist with demonstrated outcome benefit may be appropriate **irrespective of A1C and with or without metformin**.
 #### 1.3 Gestational diabetes mellitus
