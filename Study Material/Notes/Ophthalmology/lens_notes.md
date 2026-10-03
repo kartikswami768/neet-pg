@@ -81,7 +81,7 @@ There are two characteristic lens sutures:
 - **Anterior suture:** erect **Y** configuration.
 - **Posterior suture:** inverted **Y** configuration.
 
-## 3. Equator, zonules and ciliary body relationship
+### 3. Equator, zonules and ciliary body relationship
 
 The **equator** is the region of active lens growth. Equatorial epithelial cells divide and elongate to form new lens fibres.
 
@@ -92,7 +92,7 @@ Two anatomical spaces associated with the zonules are important:
 - **Canal of Petit:** between the hyaloid/vitreous face and the zonular fibres.
 - **Canal of Hannover:** between the zonular fibres themselves, within the suspensory ligament.
 
-## 4. Embryology and development
+#### 4. Embryology and development
 
 The lens is derived from **surface ectoderm**.
 
@@ -102,7 +102,7 @@ Lens development begins at approximately **day 27**. The sequence is:
 
 The lens is therefore a surface-ectodermal structure, unlike the retina, optic nerve, iris and ciliary body, which are associated with neuroectodermal development.
 
-### 4.1 Development of lens fibres
+##### 4.1 Development of lens fibres
 
 - Early lens fibres form the embryonic and fetal nuclear components.
 - Subsequent fibres continue to be produced at the equator.
@@ -232,9 +232,9 @@ For **near vision**:
 
 This is the **Helmholtz theory of accommodation**.
 
-## 9. Presbyopia and accommodative abnormalities
+### 9. Presbyopia and accommodative abnormalities
 
-### Presbyopia
+#### Presbyopia
 
 Presbyopia is the **physiological insufficiency of accommodation with age**, producing difficulty with near work.
 
@@ -243,14 +243,14 @@ Presbyopia is the **physiological insufficiency of accommodation with age**, pro
 - One exam schedule gives approximately **+1 D at 40 years**, with the required addition increasing by about **0.5 D every 5 years**.
 - Maximum accommodative power/addition is approximately **+3 D**.
 
-### Spasm of accommodation
+#### Spasm of accommodation
 
 - Also called **pseudomyopia**.
 - Persistent ciliary muscle contraction produces excessive accommodation.
 - Distant vision becomes blurred and the condition mimics myopia.
 - Cycloplegics such as **atropine** relax the ciliary muscle.
 
-### Developmental optical correlation
+#### Developmental optical correlation
 
 At birth:
 
@@ -258,20 +258,20 @@ At birth:
 - Refractive error ≈ **2–3 D hypermetropia**.
 - Emmetropia is generally reached by approximately **5–6 years**.
 
-## 10. Cataract: definition and classification
+# 10. Cataract: definition and classification
 
 A **cataract** is a lens opacity that interferes with the optical homogeneity/transparency of the lens and causes progressive visual impairment.
 
 Typical visual loss is **gradual and painless**.
 
-### 10.1 Classification by morphology
+## 10.1 Classification by morphology
 
 - Nuclear
 - Cortical
 - Anterior polar
 - Posterior polar
 
-### 10.2 Classification by maturity
+## 10.2 Classification by maturity
 
 - Immature
 - Mature
@@ -326,7 +326,7 @@ Typical visual loss is **gradual and painless**.
 - **Anterior suture:** erect Y.
 - **Posterior suture:** inverted Y.
 
-## 12. Congenital rubella syndrome and lens involvement
+### 12. Congenital rubella syndrome and lens involvement
 
 The classic congenital rubella triad is:
 
@@ -342,7 +342,7 @@ Ocular/systemic findings include:
 - **Rubella keratitis** may be associated with an angle anomaly, impaired aqueous drainage and glaucoma.
 
 > **Diagram omitted:** Congenital cataract and associated clinical appearances.
-## 13. Infantile cataract: timing and management principle
+#### 13. Infantile cataract: timing and management principle
 
 > **Diagram omitted:** Congenital cataract management.
 Infantile cataract presenting before 1 year may cause severe visual loss because of disruption of visual development and foveal fixation, resulting in amblyopia.
@@ -351,7 +351,7 @@ Developmental cataract presenting after 1 year is associated with less severe vi
 
 The key principle is **early surgery when a congenital/infantile cataract is visually significant**, because delaying treatment can result in permanent stimulus-deprivation amblyopia.
 
-### Cataract surgery in children
+##### Cataract surgery in children
 
 The management described is:
 
@@ -461,7 +461,7 @@ Important associations:
 
 Acute angle-closure glaucoma can produce **glaukomflecken**, which are anterior subcapsular lens opacities/deposits following an acute pressure rise.
 
-## 17. Complicated cataract
+### 17. Complicated cataract
 
 Complicated cataract results from associated intraocular disease.
 
@@ -483,16 +483,16 @@ Typical appearance:
 - **Axial spread**
 
 > **Diagram omitted:** Clinical appearances of complicated and traumatic cataract.
-## 18. Metabolic cataracts
+# 18. Metabolic cataracts
 
-### 18.1 Hypocalcaemia / parathyroid tetany
+## 18.1 Hypocalcaemia / parathyroid tetany
 
 Hypocalcaemia may produce cataract.
 
 - Children: **lamellar cataract**.
 - Adults: **anterior and posterior subcapsular cataract**.
 
-### 18.2 Diabetic / snowflake cataract
+## 18.2 Diabetic / snowflake cataract
 
 - A presenile/metabolic cataract.
 - Also called **snowflake** or **snowstorm cataract**.
@@ -503,7 +503,7 @@ Hypocalcaemia may produce cataract.
 
 Hyperglycaemia can also produce **fluctuating refractive error**, particularly a myopic shift, because lens swelling increases curvature. Hypoglycaemia is associated with a hypermetropic shift as the curvature decreases.
 
-### 18.3 Oil-droplet cataract
+## 18.3 Oil-droplet cataract
 
 - Associated with **galactosemia**.
 - Posterior subcapsular appearance.
@@ -511,13 +511,13 @@ Hyperglycaemia can also produce **fluctuating refractive error**, particularly a
 - Associated with deficiency of **galactose-1-phosphate uridyltransferase (GALT)** or galactokinase in the metabolic pathway.
 - It is the **reversible cataract**: treatment of the underlying galactosemia can reverse the lens opacity.
 
-### 18.4 Sunflower cataract
+## 18.4 Sunflower cataract
 
 - Associated with **Wilson disease / chalcosis**.
 - Produces a sunflower-like copper deposition pattern in the lens.
 - Wilson disease may also produce a **Kayser–Fleischer ring** from copper deposition in Descemet’s membrane.
 
-### 18.5 Christmas-tree cataract
+## 18.5 Christmas-tree cataract
 
 - Associated with **myotonic dystrophy**.
 - Needle-like, highly coloured/shiny, polychromatic opacities.
@@ -525,11 +525,11 @@ Hyperglycaemia can also produce **fluctuating refractive error**, particularly a
 - Myotonic dystrophy may also have ptosis, low intraocular pressure and pigmentary retinopathy.
 
 > **Diagram omitted:** Metabolic cataracts.
-## 19. Traumatic cataract and lens findings after blunt trauma
+# 19. Traumatic cataract and lens findings after blunt trauma
 
 Blunt trauma can produce characteristic anterior segment and lens findings.
 
-### Lens findings
+## Lens findings
 
 - **Phacodonesis:** trembling/tremulous lens caused by zonular injury.
 - **Rosette-shaped cataract:** flower-shaped opacity, classically following blunt contusion such as a fist or tennis-ball injury.
@@ -548,7 +548,7 @@ Associated traumatic signs include:
 - Commotio retinae/Berlin’s oedema
 - Traumatic optic neuropathy
 
-### Other physical causes of lens opacity
+## Other physical causes of lens opacity
 
 | Insult | Lens effect |
 |---|---|
@@ -636,20 +636,20 @@ Following an acute angle-closure glaucoma attack, focal **anterior subcapsular l
 
 Pseudoexfoliative material can deposit on the **anterior lens capsule** and is an important anterior-segment finding associated with glaucoma.
 
-## 23. Clinical examination of the lens and cataract
+# 23. Clinical examination of the lens and cataract
 
-### 23.1 Visual acuity
+## 23.1 Visual acuity
 
 Visual acuity is the fundamental functional assessment. Near vision is typically tested at approximately **30–35 cm**.
 
 - Snellen near chart: best near vision **N6**, worst **N36**.
 - Jaeger chart: **J1–J7**.
 
-### 23.2 Contrast sensitivity
+## 23.2 Contrast sensitivity
 
 The **Pelli–Robson chart** is useful because contrast vision may be lost early in cataract.
 
-### 23.3 Slit-lamp examination
+## 23.3 Slit-lamp examination
 
 Slit-lamp examination evaluates:
 
@@ -669,7 +669,7 @@ Slit-lamp examination evaluates:
 - Lenticonus/oil-globule reflex
 - Other central lens opacities
 
-### 23.4 Iris shadow
+## 23.4 Iris shadow
 
 The presence of an **iris shadow** indicates incomplete lens opacity and therefore an **immature cataract**.
 
@@ -681,7 +681,7 @@ The presence of an **iris shadow** indicates incomplete lens opacity and therefo
 
 There is no medical treatment that clears an established visually significant cataract; definitive treatment is removal of the opaque lens and optical rehabilitation.
 
-### 24.1 Intracapsular cataract extraction — ICCE
+## 24.1 Intracapsular cataract extraction — ICCE
 
 - Entire lens **and entire capsule** are removed.
 - Cryoextraction is described as the method used for ICCE.
@@ -740,9 +740,9 @@ The femtosecond system is described with:
 - **Nd:glass laser**.
 
 > **Diagram omitted:** Cataract surgery techniques.
-## 25. Intraocular lenses and biometry
+### 25. Intraocular lenses and biometry
 
-### 25.1 IOL types
+#### 25.1 IOL types
 
 **Posterior chamber IOL (PCIOL):**
 
@@ -757,7 +757,7 @@ The femtosecond system is described with:
 - Iris chafing by an ACIOL can produce **UGH syndrome**.
 
 > **Diagram omitted:** IOL types and phacoemulsification.
-### 25.2 IOL power calculation — biometry
+#### 25.2 IOL power calculation — biometry
 
 Biometry uses:
 
@@ -777,9 +777,9 @@ Important formula associations:
 - The SRK expression is **P = A − 2.5L − 0.9K**, where *L* is axial length, *K* is keratometry and *A* is the constant.
 
 > **Diagram omitted:** IOL biometry and implantation.
-## 26. Complications of cataract surgery
+#### 26. Complications of cataract surgery
 
-### 26.1 Operative complications
+##### 26.1 Operative complications
 
 - **Posterior capsular rupture** → vitreous loss; among the most serious operative complications.
 - **UGH syndrome** due to iris chafing by an ACIOL.
@@ -788,7 +788,7 @@ Important formula associations:
 - Descemet membrane detachment.
   - Treatment: **Descemetopexy** by reattachment using an air/gas bubble in the anterior chamber.
 
-### 26.2 Posterior capsular opacification
+##### 26.2 Posterior capsular opacification
 
 The **most common long-term/postoperative complication** is posterior capsular opacification (PCO).
 
@@ -809,7 +809,7 @@ Treatment:
 
 Hydrophobic acrylic IOLs have a lower likelihood of posterior capsular opacification than other IOL materials.
 
-### 26.3 Other postoperative complications
+##### 26.3 Other postoperative complications
 
 - Retinal detachment.
 - **Irvine–Gass syndrome:** typically around **6–10 weeks** after surgery; cystoid macular oedema is associated with vitreous touch, and bullous keratopathy.
@@ -826,7 +826,7 @@ Hydrophobic acrylic IOLs have a lower likelihood of posterior capsular opacifica
 - Endophthalmitis.
 
 > **Diagram omitted:** Postoperative cataract complications.
-## 27. Postoperative endophthalmitis relevant to lens surgery
+#### 27. Postoperative endophthalmitis relevant to lens surgery
 
 Endophthalmitis is a suppurative intraocular infection/inflammation involving all ocular structures except the sclera.
 
@@ -858,11 +858,11 @@ Treatment depends on visual potential:
 
 For fungal endophthalmitis, intravitreal **amphotericin B** or **voriconazole** is listed. Systemic antibiotics have no routine role unless endogenous/candidal infection is present.
 
-## 28. Aphakia
+#### 28. Aphakia
 
 **Aphakia** is absence of the natural crystalline lens, most commonly following lens extraction.
 
-### Clinical signs
+##### Clinical signs
 
 - **Limbal scar** from previous cataract surgery.
 - **Deep anterior chamber** because the iris loses its support from the lens and falls posteriorly.
@@ -872,7 +872,7 @@ For fungal endophthalmitis, intravitreal **amphotericin B** or **voriconazole** 
 - Small hypermetropic optic disc on fundus examination.
 - Only **2 Purkinje images** remain — the two corneal reflections.
 
-### Correction of aphakia
+##### Correction of aphakia
 
 | Method | Approximate image magnification / optical effect | Key point |
 |---|---:|---|
@@ -889,14 +889,14 @@ Aphakic spectacles can produce:
 - Thick/heavy cosmetic appearance.
 
 > **Diagram omitted:** Signs and correction of aphakia.
-## 29. Phakic intraocular lens
+#### 29. Phakic intraocular lens
 
 A phakic intraocular lens, such as an **implantable collamer lens (ICL)**, is placed behind the iris and in front of the natural crystalline lens.
 
 - Used for high refractive errors or when corneal laser procedures are unsuitable.
 - Minimum anterior chamber depth highlighted for ICL surgery: **2.8 mm**.
 
-## 30. High-yield lens correlations
+##### 30. High-yield lens correlations
 
 | Finding | Lens association |
 |---|---|
@@ -926,7 +926,7 @@ A phakic intraocular lens, such as an **implantable collamer lens (ICL)**, is pl
 | **Sunrise IOL** | Superior IOL subluxation |
 | **Lost lens** | Complete IOL dislocation |
 
-## 31. Integrated lens physiology-to-pathology framework
+##### 31. Integrated lens physiology-to-pathology framework
 
 **Surface ectoderm → lens placode → lens formation → anterior epithelium + capsule + cortex + nucleus → equatorial epithelial proliferation → lifelong addition of lens fibres → progressive central accumulation of older fibres.**
 
