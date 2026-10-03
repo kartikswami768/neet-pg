@@ -260,6 +260,7 @@ Amiloride is particularly useful in lithium-induced nephrogenic DI because of th
 - Potassium-sparing.
 ### 3.9 Edema: Diuretic of Choice
 Edema treatment by type:
+
 | Type of edema | listed diuretic of choice |
 |---|---|
 | Heart failure | Loop diuretic |
@@ -915,15 +916,32 @@ NSTEMI:
 - Myocardial damage, often post-MI.
 - Reduced cardiac output → reduced organ perfusion.
 #### Drug categories
-1. **Cardioprotective drugs**
- - Improve survival / reduce disease progression.
+1. **Cardioprotective drugs/ ↓ Mortality**
+	- Improve survival / reduce disease progression.
+	- ARNI
+	- ACEI
+	- ARB
+	- β blocker
+	- SGLT 2
+	- Mineralocorticoid Receptor Antagonist (all three drugs)
+	- HIDN (Hydralazine + IDN) → more effective in Black people 
 2. **Symptomatic drugs**
- - Diuretics
- - Nitrates
- - Nesiritide [historical/limited use]
-3. **Inotropes**
- - Digoxin
- - Acute IV inotropes in selected decompensated patients
+	- Diuretics
+		- Furosemide
+		- SGLT 2 inhibitor
+		- MRA
+		- Add on Metolazone
+	- Nitrates
+	- Nesiritide [historical/limited use]
+3. **Decrease Heart Rate**
+	1. β blocker
+	2. Ivabradine
+4. **Inotropes**
+	- Digoxin → can be given on and off
+	- Acute IV inotropes in selected decompensated patients
+
+5. **New Drugs**
+	- Vericiguat → guanyl cyclase ↑ ↑ → ↑ cGMP
 ### 14.2 HFrEF: Contemporary Core Pharmacotherapy
 The four foundational HFrEF classes are:
 #### Four major foundational classes (“four pillars”)
@@ -941,7 +959,7 @@ The four foundational HFrEF classes are:
  - Empagliflozin
 #### ACEI/ARB
 - Important alternatives when ARNI is not feasible/tolerated.
-- Not generally combined with an ARNI due angioedema risk and overlapping RAAS inhibition.
+- ==Not generally combined with an ARNI due angioedema risk and overlapping RAAS inhibition.== So, if switching from ACEi to ARNI always maintain a gap of 2 days.
 ### 14.3 Sacubitril/Valsartan (ARNI)
 - Sacubitril = neprilysin inhibitor.
 - Combined with valsartan.
@@ -957,6 +975,10 @@ Therefore:
 - Reduced sodium retention
 - Reduced pathologic remodeling
 ARNI is a core therapy for HFrEF and is generally preferred when feasible.
+
+##### Adverse Effect
+Angioedema
+So if switched from ACE inhibitor → gap of 48 hours to be done
 ### 14.4 Beta Blockers in HFrEF
 - Nebivolol
 - Bisoprolol

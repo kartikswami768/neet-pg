@@ -417,9 +417,9 @@ These therapies are not generic replacements for symptomatic cholinesterase inhi
 ## 17.1 Mechanism
 - Reversible AChE inhibition.
 - Increases ACh at:
- - Neuromuscular junctions
- - Parasympathetic synapses
- - Autonomic ganglia
+	- Neuromuscular junctions
+	- Parasympathetic synapses
+	- Autonomic ganglia
 ## 17.2 High-yield uses from
 ### A. Reversal of nondepolarizing neuromuscular blockade
 ```text

@@ -1,4 +1,4 @@
-High Altitude Sickness
+# High Altitude Sickness
 Prophylaxis → Acetazolamide
 Treatment → 
 	1. Uncomplicated → O2, Dissent
