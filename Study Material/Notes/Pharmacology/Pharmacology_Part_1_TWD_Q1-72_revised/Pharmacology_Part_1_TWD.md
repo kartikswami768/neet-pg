@@ -484,7 +484,7 @@ Which of the following best describes the mechanism of action of sotatercept in 
 Not marked
 
 #### Discussion
-answer is B
+answer is B. it is a new drug
 
 ### Question 28
 
@@ -501,7 +501,7 @@ Which of the following is an irrational combination regimen for the treatment of
 Not marked
 
 #### Discussion
-
+B. both have same mechanism. cGMP
 
 ### Question 29
 
@@ -518,7 +518,7 @@ A 62-year-old patient remains hypertensive (155/95 mmHg) despite strict adherenc
 **D** - Propranolol
 
 #### Discussion
-
+options make this a basic question. They are trying to ask treatment of Resistant HTN.
 
 ### Question 30
 
