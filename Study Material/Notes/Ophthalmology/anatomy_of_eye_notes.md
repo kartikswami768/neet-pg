@@ -1,8 +1,8 @@
 ---
 title: "Anatomy of the Eye — Integrated Exam Notes"
-subject: Ophthalmology
+subject: "Ophthalmology"
 topic: "Anatomy of the Eye"
-type: Notes
+type: "Notes"
 tags:
   - ophthalmology
   - anatomy
@@ -10,7 +10,6 @@ tags:
   - histology
   - ocular-anatomy
 ---
-
 # Anatomy of the Eye — Integrated Exam Notes
 
 ## 1. Big-picture organization of the eye
@@ -28,10 +27,9 @@ tags:
 - **Orbital apex:** triangular / conical.
 
 > **Figure 1. Cross-section of the eyeball.** Cornea, iris and pupil, lens, zonules, ciliary body with pars plicata and pars plana, sclera, choroid/uvea, retina, vitreous, aqueous, fovea, optic disc and optic nerve, optic cup and neuroretinal rim, and central retinal vessels.
-> ![Cross-section of eyeball](images/anatomy_of_the_eye__figure_01_eye_cross_section.png)
+> ![Cross-section of eyeball](images/E8_3.jpg)
 > **Figure 13. Basic anterior/posterior segment and aqueous outflow anatomy.**
-> ![Basic ocular anatomy](images/anatomy_of_the_eye__figure_13_basic_anatomy_segments.png)
-
+> **Diagram omitted:** Basic ocular anatomy.
 ### 1.2 Three coats (tunics) of the eyeball
 
 | Coat | Position/type | Components | Key details |
@@ -81,8 +79,7 @@ The limbus is the **corneoscleral junction** and contains the **limbal stem-cell
 - The endothelial pump maintains **corneal deturgescence and transparency**, including active ion transport via the **Na⁺/K⁺-ATPase system**.
 
 > **Figure 2. Corneal layers and thicknesses.**
-> ![Corneal layers](images/anatomy_of_the_eye__figure_02_corneal_layers.png)
-
+> ![Corneal layers](images/E8_5.jpg)
 ### 2.1.2 Layers of the cornea — anterior → posterior
 
 | Layer | Key details |
@@ -163,8 +160,7 @@ The **uvea** is the middle vascular coat and consists of:
 - The pupil is the central aperture through which light passes into the posterior eye.
 
 > **Figure 8. Pupillary muscle organization.** Circular and radial iris muscles produce pupillary constriction and dilation.
-> ![Pupillary muscles](images/anatomy_of_the_eye__figure_08_pupillary_muscles.png)
-
+> ![Pupillary muscles](images/HYP_11.jpg)
 ### 3.2 Ciliary body
 
 The ciliary body is divided into:
@@ -232,8 +228,7 @@ High-yield sequence for near accommodation: **ciliary muscle contracts → cilia
 | **Angle closure** | Only Schwalbe’s line ± part of trabecular meshwork may be visible because the iris is pushed close to the cornea and hides deeper structures |
 
 > **Figure 4. Anterior chamber angle anatomy.** The cornea, anterior chamber, iris, lens, posterior chamber, ciliary body, trabecular meshwork and scleral venous sinus/canal are shown.
-> ![Anterior chamber angle](images/anatomy_of_the_eye__figure_04_anterior_chamber_angle.png)
-
+> ![Anterior chamber angle](images/HYP_3.jpg)
 ### 4.3 Aqueous production and outflow
 
 - Aqueous is produced mainly by the **non-pigmented ciliary epithelium**.
@@ -257,8 +252,7 @@ High-yield sequence for near accommodation: **ciliary muscle contracts → cilia
 - **Average refractive index:** approximately **1.39**, with a gradient from the cortex toward the nucleus.
 
 > **Figure 3. Lens anatomy.** Capsule, anterior epithelium, equatorial proliferative zone, cortex, nucleus, lens fibres and regional capsule measurements.
-> ![Lens anatomy](images/anatomy_of_the_eye__figure_03_lens_anatomy.png)
-
+> ![Lens anatomy](images/E8_86.jpg)
 ### 5.2 Lens structure
 
 From anterior to posterior:
@@ -343,8 +337,7 @@ The includes the following lens biochemical/anatomical details:
 - **Persistent hyperplastic primary vitreous** represents persistent hyaloid/primary vitreous tissue.
 
 > **Figure 15. Vitreous and hyaloid anatomy.**
-> ![Vitreous and hyaloid attachment](images/anatomy_of_the_eye__figure_15_vitreous_hyaloid_attachment.png)
-
+> **Diagram omitted:** Vitreous and hyaloid attachment.
 ---
 
 ## 7. Retina
@@ -373,8 +366,7 @@ The includes the following lens biochemical/anatomical details:
 - **Ora serrata:** anterior termination of retina; also uses it as a landmark for intravitreal entry, anterior to the ora serrata or approximately **3–4 mm posterior to limbus**, through sclera and pars plana.
 
 > **Figure 6. Fundus anatomy.** Optic disc, retinal vessels and macular region.
-> ![Fundus](images/anatomy_of_the_eye__figure_06_fundus.png)
-
+> ![Fundus](images/HYP_4.jpg)
 ### 7.3 Retinal layers — inside → outside
 
 The combined descriptions identify the following sequence:
@@ -396,8 +388,7 @@ The combined descriptions identify the following sequence:
 - Light passes through the retinal layers to the photoreceptor region, where **rods and cones convert the light stimulus into an electrical signal**.
 
 > **Figure 5. Retinal histology.** The diagram shows retinal layers and the path of light toward the photoreceptors.
-> ![Retinal histology](images/anatomy_of_the_eye__figure_05_retinal_layers_histology.png)
-
+> ![Retinal histology](images/HYP_6.jpg)
 ### 7.4 Retinal nuclear and plexiform organization
 
  groups the retina into **three nuclear layers**:
@@ -433,8 +424,7 @@ The neuronal order is:
 ### 7.7 Rods and cones — anatomy
 
 > **Figure 7. Rod and cone anatomy.** The illustration shows pigment-containing discs in the outer segment and organelles in the inner segment.
-> ![Rod and cone anatomy](images/anatomy_of_the_eye__figure_07_rod_cone_anatomy.png)
-
+> ![Rod and cone anatomy](images/HYP_8.jpg)
 - **Outer segment:** discs containing photopigments and site of phototransduction.
  - Rods: **rhodopsin**.
  - Cones: **photopsin/iodopsin**
@@ -580,8 +570,7 @@ rule: **LR = CN VI, SO = CN IV, all remaining extraocular muscles = CN III**.
 - **Annulus of Zinn** = **common tendinous ring** and origin of the extraocular muscles.
 
 > **Figure 12. Orbital cone / Annulus of Zinn.** Conical arrangement of the extraocular muscles and orbital walls.
-> ![Orbital cone and annulus](images/anatomy_of_the_eye__figure_12_orbital_cone_annulus.png)
-
+> ![Orbital cone and annulus](images/E8_0.png)
 ### 11.4 Intraconal and extraconal spaces
 
 - **Retrobulbar local anaesthesia:** **intraconal** space.
@@ -636,8 +625,7 @@ Posterior lamina contains:
  - **Postseptal space** → infection = orbital cellulitis.
 
 > **Figure 9. External anatomy of the eye and eyelid/orbit.** The illustration shows the eyelid, orbital structures and associated muscles and soft tissues.
-> ![Eyelid and orbit anatomy](images/anatomy_of_the_eye__figure_09_eyelid_orbit.png)
-
+> ![Eyelid and orbit anatomy](images/HYP_2.jpg)
 ---
 
 ## 13. Conjunctiva
@@ -684,11 +672,9 @@ Three anatomical regions:
 **Lacrimal gland → tear film across eye surface → upper and lower lacrimal puncta → lacrimal canaliculi → lacrimal sac → nasolacrimal duct → inferior meatus of the nose.**
 
 > **Figure 10. Lacrimal apparatus — anterior view.** Lacrimal gland, puncta and canaliculi.
-> ![Lacrimal apparatus anterior view](images/anatomy_of_the_eye__figure_10_lacrimal_anterior.png)
-
+> ![Lacrimal apparatus anterior view](images/HYP_12.jpg)
 > **Figure 11. Lacrimal drainage measurements.** Canalicular measurements and drainage pathway.
-> ![Lacrimal drainage](images/anatomy_of_the_eye__figure_11_lacrimal_drainage.png)
-
+> ![Lacrimal drainage](images/HYP_13.jpg)
 ### 14.3 Canalicular dimensions
 
 | Component | Length |
@@ -715,8 +701,7 @@ Three anatomical regions:
 - The **choroid fissure** closes during the **6th–7th week**; failure of closure produces **coloboma**.
 
 > **Figure 14. Eye embryology.** Forebrain/optic grooves, optic vesicle, lens placode, lens pit, lens vesicle and choroid fissure.
-> ![Eye embryology](images/anatomy_of_the_eye__figure_14_eye_embryology_optic_vesicle.png)
-
+> **Diagram omitted:** Eye embryology.
 ### 15.2 Tissue derivatives — classification
 
 #### Surface ectoderm
@@ -812,22 +797,3 @@ Tear flow is:
 
 ---
 
-## 18. Visual index
-
-1. `figure_01_eye_cross_section.png` — cross-section of the eyeball.
-2. `figure_02_corneal_layers.png` — corneal layers and thicknesses.
-3. `figure_03_lens_anatomy.png` — lens anatomy, capsule and fibre organization.
-4. `figure_04_anterior_chamber_angle.png` — anterior chamber angle anatomy / gonioscopic landmarks.
-5. `figure_05_retinal_layers_histology.png` — retinal layers and histological organization.
-6. `figure_06_fundus.png` — fundus, optic disc and macular region.
-7. `figure_07_rod_cone_anatomy.png` — rod/cone ultrastructure.
-8. `figure_08_pupillary_muscles.png` — sphincter/dilator organization and pupillary response.
-9. `figure_09_eyelid_orbit.png` — eyelid and orbital external anatomy.
-10. `figure_10_lacrimal_anterior.png` — lacrimal apparatus, anterior view.
-11. `figure_11_lacrimal_drainage.png` — lacrimal drainage pathway and canalicular measurements.
-12. `figure_12_orbital_cone_annulus.png` — orbital cone and Annulus of Zinn.
-13. `figure_13_basic_anatomy_segments.png` — basic anterior/posterior ocular-segment diagram.
-14. `figure_14_eye_embryology_optic_vesicle.png` — optic vesicle, lens placode/pit/vesicle and choroid fissure diagrams.
-15. `figure_15_vitreous_hyaloid_attachment.png` — vitreous/hyaloid images.
-
----

@@ -1,8 +1,8 @@
 ---
 title: "Eyelids and Orbit"
-subject: Ophthalmology
+subject: "Ophthalmology"
 topic: "Eyelids and Orbit"
-type: Notes
+type: "Notes"
 tags:
   - ophthalmology
   - eyelids
@@ -10,7 +10,6 @@ tags:
   - oculoplasty
   - lacrimal-system
 ---
-
 # Eyelids and Orbit
 
 ## 1. Overview
@@ -19,8 +18,7 @@ The eyelids form a mobile protective covering for the anterior eye and participa
 
 The eyelid is divided by the **gray line** into an **anterior lamella** and a **posterior lamella**.
 
-![Eyelid lamellae and muscles](images/eyelids_and_orbit__figure_01_eyelid_lamellae_and_muscles.png)
-
+> **Diagram omitted:** Eyelid lamellae and muscles.
 ### Eyelid lamellae
 
 | Lamella | Components |
@@ -74,8 +72,7 @@ Failure of eyelid closure exposes the cornea and may result in **exposure kerato
 
 # 3. Eyelid Glands
 
-![Lid gland cross-section](images/eyelids_and_orbit__figure_19_lid_gland_cross_section.jpg)
-
+![Lid gland cross-section](images/HYP_246.png)
 | Gland | Type / location | Clinical relevance |
 |---|---|---|
 | **Meibomian glands** | Modified sebaceous glands; within the tarsal plate | Chalazion; internal hordeolum; sebaceous cell carcinoma |
@@ -92,8 +89,7 @@ The gray line is the division between the anterior and posterior lamellae and is
 
 ### Eyelash disorders
 
-![Eyelash and lid-margin disorders](images/eyelids_and_orbit__figure_02_eyelash_and_lid_margin_pathologies.png)
-
+> **Diagram omitted:** Eyelash and lid-margin disorders.
 | Disorder | Definition / key feature | Treatment / consequence |
 |---|---|---|
 | **Trichiasis** | Misdirection of eyelashes inward toward the globe | Epilation; cryotherapy at the lash base. Can produce corneal abrasion/opacity |
@@ -183,8 +179,7 @@ Causes of madarosis listed include:
 - Treatment: **incision and curettage**; intralesional **triamcinolone 0.1 mL** is also described.
 - Incision is made **vertically** because Meibomian glands are arranged vertically.
 
-![Hordeolum and chalazion](images/eyelids_and_orbit__figure_15_hordeolum_and_chalazion.jpg)
-
+> **Diagram omitted:** Hordeolum and chalazion.
 ### Chalazion vs external hordeolum
 
 | Feature | Chalazion | Hordeolum externum |
@@ -218,8 +213,7 @@ The **most common type/feature emphasized is aponeurotic ptosis**.
 - **Aponeurotic ptosis:** typically a **high lid crease**.
 - A patient with a **strong lid-closure tendency after being asked to look up** may not be able to maintain upward gaze on the ptotic side.
 
-![Lagophthalmos, ptosis and blepharophimosis](images/eyelids_and_orbit__figure_08_lagophthalmos_ptosis_blepharophimosis.png)
-
+> **Diagram omitted:** Lagophthalmos, ptosis and blepharophimosis.
 ## Congenital ptosis: surgical approach according to levator function
 
 | Severity / levator function | Procedure |
@@ -265,8 +259,7 @@ The treatment sequence emphasized is:
 1. Correct **telecanthus + epicanthus** first.
 2. Perform **ptosis surgery later**.
 
-![Blepharophimosis syndrome](images/eyelids_and_orbit__figure_08_lagophthalmos_ptosis_blepharophimosis.png)
-
+> **Diagram omitted:** Blepharophimosis syndrome.
 ---
 
 # 8. Lagophthalmos and Lid Retraction
@@ -280,8 +273,7 @@ The treatment sequence emphasized is:
   - **Gold weight/Gold implant** to permit the lid to descend
   - **Tarsorrhaphy**
 
-![Lagophthalmos, ptosis and blepharophimosis](images/eyelids_and_orbit__figure_08_lagophthalmos_ptosis_blepharophimosis.png)
-
+> **Diagram omitted:** Lagophthalmos, ptosis and blepharophimosis.
 ## Lid retraction
 
 Lid retraction is a prominent feature of **thyroid eye disease** and widens the palpebral fissure.
@@ -302,8 +294,7 @@ Lid retraction is a prominent feature of **thyroid eye disease** and widens the 
 - **Apex:** triangular/conical.
 - The orbit is formed by **7 bones**.
 
-![Orbital walls](images/eyelids_and_orbit__figure_17_orbital_walls.jpg)
-
+![Orbital walls](images/HYP_224.jpg)
 ### Walls
 
 | Wall | Key point |
@@ -331,8 +322,7 @@ The **superior orbital fissure** is described as vertical, whereas the **annulus
 - Structures passing **outside the annulus of Zinn** include the **lacrimal, frontal and trochlear nerves**.
 - Structures passing **inside the annulus** include the **two divisions of the oculomotor nerve, nasociliary nerve and abducens nerve**.
 
-![Orbit anatomy, foramina and proptosis](images/eyelids_and_orbit__figure_04_orbit_anatomy_foramina_and_proptosis.png)
-
+> **Diagram omitted:** Orbit anatomy, foramina and proptosis.
 ## Intraconal and extraconal spaces
 
 The local anaesthetic relationships are:
@@ -393,8 +383,7 @@ The orbital septum runs from the orbital rim/bone to the tarsal plate and separa
 
 This anatomical relationship is fundamental to distinguishing eyelid infection from a true orbital infection.
 
-![Preseptal versus orbital cellulitis](images/eyelids_and_orbit__figure_11_preseptal_vs_orbital_cellulitis.png)
-
+> **Diagram omitted:** Preseptal versus orbital cellulitis.
 ---
 
 # 14. Lacrimal Gland and Lacrimal Sac Relationships
@@ -422,8 +411,7 @@ Watering during the **first month of life** is described as pathological and att
 - **Chronic disease:** repeated syringing → **DCR**.
 - **Atrophic lacrimal sac or lacrimal sac tumour:** **dacryocystectomy**.
 
-![Nasolacrimal duct obstruction and DCR](images/eyelids_and_orbit__figure_16_nld_obstruction_and_dcr.jpg)
-
+> **Diagram omitted:** Nasolacrimal duct obstruction and DCR.
 ---
 
 # 15. Embryologic Correlations Relevant to the Eyelids and Orbit
@@ -475,8 +463,7 @@ Watering during the **first month of life** is described as pathological and att
 
 A clinical photograph of **lid coloboma** is included among the congenital ocular abnormalities.
 
-![Lid coloboma](images/eyelids_and_orbit__figure_10_lid_coloboma.png)
-
+> **Diagram omitted:** Lid coloboma.
 ---
 
 # 16. Proptosis / Exophthalmos
@@ -488,8 +475,7 @@ A clinical photograph of **lid coloboma** is included among the congenital ocula
 - **Hertel exophthalmometer:** preferred/better option.
 - **Luedde exophthalmometer:** easier to use and emphasized for children.
 
-![Hertel exophthalmometer](images/eyelids_and_orbit__figure_18_hertel_exophthalmometer.jpg)
-
+![Hertel exophthalmometer](images/HYP_225.jpg)
 ### Proptosis patterns
 
 | Pattern | Important association |
@@ -519,8 +505,7 @@ Thyroid eye disease is an **antigen–antibody-mediated orbital disease** in whi
 - Expansion of orbital contents
 - Axial proptosis
 
-![Thyroid eye disease pathogenesis](images/eyelids_and_orbit__figure_12_thyroid_eye_pathogenesis_and_signs.png)
-
+> **Diagram omitted:** Thyroid eye disease pathogenesis.
 ### Core clinical features
 
 - Important cause of **proptosis in adults**.
@@ -577,8 +562,7 @@ The first sign is **lid retraction**.
 
 Orbital decompression creates additional orbital space by removing orbital wall; it is described when vision is threatened, with papilloedema, or with severe exposure.
 
-![Thyroid eye disease and orbital cellulitis](images/eyelids_and_orbit__figure_05_thyroid_eye_and_orbital_cellulitis.png)
-
+> **Diagram omitted:** Thyroid eye disease and orbital cellulitis.
 ---
 
 # 18. Orbital Cellulitis and Preseptal Cellulitis
@@ -657,8 +641,7 @@ Granulomatous idiopathic inflammation involving the **cavernous sinus**, togethe
 
 # 20. Orbital Tumours and Masses
 
-![Orbital tumours and vascular lesions](images/eyelids_and_orbit__figure_06_orbital_tumors_vascular_lesions.png)
-
+> **Diagram omitted:** Orbital tumours and vascular lesions.
 ## Common orbital lesions / examination associations
 
 | Lesion / tumour | Key association |
@@ -700,8 +683,7 @@ The most common malignant tumour is **adenoid cystic carcinoma**.
 
 The most dangerous malignant tumour is **adenoid cystic carcinoma**, particularly because of **perineural invasion**.
 
-![Lacrimal gland tumour classification](images/eyelids_and_orbit__figure_14_lacrimal_gland_tumor_classification.png)
-
+![Lacrimal gland tumour classification](images/HYP_253.png)
 ### Lacrimal gland tumour classification
 
 **Epithelial**
@@ -727,8 +709,7 @@ The most dangerous malignant tumour is **adenoid cystic carcinoma**, particularl
 
 # 21. Lid Tumours
 
-![Lid malignancy comparison](images/eyelids_and_orbit__figure_13_lid_malignancy_comparison.jpg)
-
+> **Diagram omitted:** Lid malignancy comparison.
 ## Benign lid lesions
 
 - **Naevus:** pigmented mole.
@@ -780,8 +761,7 @@ The lid involvement sequence for basal cell carcinoma is represented by the mnem
 - Investigation of choice: **Digital Subtraction Carotid Angiography (DSCA)**.
 - Raised cavernous sinus pressure may affect cranial nerves III, IV, V and VI and may produce ocular neurological symptoms; increased pressure can also contribute to glaucoma and severe venous congestion/retinal venous stasis.
 
-![Hertel exophthalmometer](images/eyelids_and_orbit__figure_18_hertel_exophthalmometer.jpg)
-
+![Hertel exophthalmometer](images/HYP_225.jpg)
 ---
 
 # 23. Orbital Trauma: Blowout Fracture
@@ -792,8 +772,7 @@ The **floor of the orbit** is the classic site of a blowout fracture and is the 
 
 An object larger than the orbital rim, such as a **tennis ball or fist**, forces the globe posteriorly, increasing intraorbital pressure and fracturing the orbital floor.
 
-![Blowout fracture CT](images/eyelids_and_orbit__figure_07_blowout_fracture_ct.png)
-
+> **Diagram omitted:** Blowout fracture CT.
 ### Clinical and imaging features
 
 - **Herniation of orbital contents into the maxillary sinus**.

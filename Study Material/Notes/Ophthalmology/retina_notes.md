@@ -1,8 +1,8 @@
 ---
 title: "Retina"
-subject: Ophthalmology
+subject: "Ophthalmology"
 topic: "Retina"
-type: Notes
+type: "Notes"
 tags:
   - ophthalmology
   - retina
@@ -10,7 +10,6 @@ tags:
   - vitreoretinal
   - retinal-diseases
 ---
-
 # Retina
 
 ## 1. Retina: overview and anatomical relationships
@@ -19,8 +18,7 @@ The retina is the **inner nervous tunic of the eyeball** and is derived from **n
 
 The posterior segment contains the **vitreous**, **retina**, and **choroid**. The choroid appears red on fundus examination because of its vascularity. Outside the choroid lies the sclera; internally, the retinal pigment epithelium (RPE) forms the outer boundary of the neurosensory retina.
 
-![Layers of the retina](images/retina__figure_01.png)
-
+> **Diagram omitted:** Layers of the retina.
 The **subretinal space** lies between the neurosensory retina and the RPE. It corresponds to the plane of separation in retinal detachment and is embryologically weak because the retina and RPE arise from the invaginated optic cup.
 
 ### Fundus landmarks
@@ -32,8 +30,7 @@ The principal fundus landmarks are:
 - **Macula/fovea**: temporal to the optic disc; the foveal region is relatively avascular.
 - The retina is continuous anteriorly only up to the **ora serrata**.
 
-![Normal fundus](images/retina__figure_03.png)
-
+![Normal fundus](images/E8_177.jpg)
 ### Macula, fovea, foveola and umbo
 
 The dimensions emphasized in the study material are:
@@ -82,8 +79,7 @@ The retina is arranged as **10 layers**, conventionally described from **inside 
 | 9 | Photoreceptor layer | Outer segments of rods and cones |
 | 10 | Retinal pigment epithelium (RPE) | Outermost retinal layer; major component of outer blood-retinal barrier |
 
-![Retinal layers on OCT](images/retina__figure_02.png)
-
+![Retinal layers on OCT](images/E8_185.jpg)
 ### Retinal neurons and glial cells
 
 The basic neuronal sequence is:
@@ -186,8 +182,7 @@ With light:
 
 **11-cis-retinal → all-trans-retinal → closure of Na⁺ channels → decreased/cessation of glutamate release → bipolar-cell excitation.**
 
-![Phototransduction in dark and light](images/retina__figure_24.png)
-
+> **Diagram omitted:** Phototransduction in dark and light.
 ### Visual cycle
 
 The rhodopsin photochemical cycle proceeds through light-induced intermediates and ultimately separates the visual chromophore from opsin. All-trans-retinal is metabolically processed and converted back toward **11-cis-retinal**, which regenerates visual pigment and restores photoreceptor responsiveness.
@@ -220,8 +215,7 @@ Retinal development begins early in gestation.
 - Invagination forms a lens pit and then a lens vesicle.
 - The optic vesicle invaginates to form the **optic cup**.
 
-![Optic vesicle and early eye development](images/retina__figure_23.png)
-
+> **Diagram omitted:** Optic vesicle and early eye development.
 The optic stalk contains the **choroidal/optic fissure**, which closes at approximately the **6th–7th week of gestation**. Failure of closure produces **coloboma**.
 
 ### Germ-layer derivatives relevant to the retina and vitreoretina
@@ -291,8 +285,7 @@ Persistent hyperplastic primary vitreous represents a remnant of hyaloid tissue.
 
 The eye receives arterial blood from the **ophthalmic artery**, a branch of the internal carotid artery.
 
-![Blood supply of the retina and eye](images/retina__figure_04.png)
-
+> **Diagram omitted:** Blood supply of the retina and eye.
 ### Central retinal artery
 
 The **central retinal artery (CRA)** enters through the optic nerve and supplies the **inner 6 retinal layers**. The retinal circulation therefore nourishes the inner retina.
@@ -347,8 +340,7 @@ FFA demonstrates:
 
 The normal macula is relatively **dark** on FFA because of the paucity of retinal capillaries and the masking effect of the RPE.
 
-![Fluorescein angiography](images/retina__figure_05.png)
-
+![Fluorescein angiography](images/E8_196.png)
 ### Indocyanine green angiography
 
 **ICGA** is used to evaluate the **choroidal vasculature**, including collateral and deeper vascular patterns that may be poorly appreciated on conventional fluorescein angiography.
@@ -367,8 +359,7 @@ The normal macula is relatively **dark** on FFA because of the paucity of retina
 
 The OCT fovea appears as a **depressed contour**. The RPE forms the characteristically hyperreflective outer band in the supplied scans.
 
-![Normal layered macular OCT](images/retina__figure_02.png)
-
+![Normal layered macular OCT](images/E8_185.jpg)
 OCT is particularly important in **macular edema, central serous retinopathy and age-related macular degeneration**.
 
 ### B-scan ultrasonography
@@ -417,8 +408,7 @@ Diabetic retinopathy is a **retinal microangiopathy**. The major risk determinan
 
 The pathophysiological sequence is dominated by endothelial injury, pericyte loss, blood-retinal barrier failure, retinal ischemia and VEGF-driven neovascularisation.
 
-![Diabetic retinopathy with hemorrhages and cotton-wool spots](images/retina__figure_06.png)
-
+![Diabetic retinopathy with hemorrhages and cotton-wool spots](images/E8_209.jpg)
 ### Risk factors and screening
 
 - **Duration of diabetes**: most important risk factor emphasized.
@@ -553,8 +543,7 @@ The distinction from diabetic retinopathy is particularly useful:
 - **Cattle-tracking/cattle-trucking** appearance of the attenuated arterial circulation.
 - If a cilioretinal artery supplies the macula, part of the central field may be relatively spared.
 
-![Cherry-red spot](images/retina__figure_08.png)
-
+![Cherry-red spot](images/E8_206.jpg)
 ### Causes
 
 The common clinical mechanism is **thromboembolic/atherothromboembolic retinal arterial occlusion**, with embolic disease and atherosclerotic vascular disease forming the major substrate.
@@ -613,8 +602,7 @@ Retinal venous occlusion causes venous congestion, retinal hemorrhage, edema and
 - Iris neovascularisation (**rubeosis iridis**)
 - Risk of **neovascular glaucoma**, classically described as **90–100 day glaucoma**
 
-![Central retinal vein occlusion](images/retina__figure_07.png)
-
+![Central retinal vein occlusion](images/E8_214.jpg)
 ### Treatment principles
 
 - Treat **macular edema** when present, commonly with intravitreal anti-VEGF therapy; intravitreal corticosteroid therapy is also used in selected patients.
@@ -641,8 +629,7 @@ Eales disease is an important cause of **recurrent vitreous hemorrhage** in the 
 
 Sarcoid retinal vasculitis can produce **periphlebitis** with the characteristic **candle-wax dripping** appearance—yellow-white inflammatory sheathing along retinal veins.
 
-![Retinal vasculitis: perivascular/candle-wax pattern](images/retina__figure_07.png)
-
+![Retinal vasculitis: perivascular/candle-wax pattern](images/E8_214.jpg)
 ### Toxoplasma retinochoroiditis
 
 - Typically involves the posterior pole, including the foveal or juxtafoveal region.
@@ -691,8 +678,7 @@ The macula is the site of the highest visual acuity and is dominated functionall
 - **Metamorphopsia** produces wavy or distorted lines.
 - The teaching material uses a **20° visual field** and **400 small squares** as the classic test format.
 
-![Amsler-grid metamorphopsia](images/retina__figure_26.png)
-
+> **Diagram omitted:** Amsler-grid metamorphopsia.
 **Photostress test**
 
 - Delayed photostress recovery supports a macular lesion.
@@ -702,8 +688,7 @@ The macula is the site of the highest visual acuity and is dominated functionall
 
 CME is an accumulation of cyst-like intraretinal fluid spaces, classically in the **outer plexiform layer (Henle layer)** in the supplied teaching framework.
 
-![Cystoid macular edema on OCT](images/retina__figure_09.png)
-
+![Cystoid macular edema on OCT](images/E8_199.jpg)
 #### Causes / associations — RUN PRIDE
 
 - **R** — Retinitis pigmentosa
@@ -727,8 +712,7 @@ CME is an accumulation of cyst-like intraretinal fluid spaces, classically in th
 
 **FFA**: characteristic **petaloid/flower-petal leakage** because the macular OPL/Henle layer is arranged radially.
 
-![Petaloid fluorescein leakage in CME](images/retina__figure_10.png)
-
+![Petaloid fluorescein leakage in CME](images/E8_207.jpg)
 #### Treatment principles
 
 - Topical or periocular **NSAIDs** in appropriate postoperative CME.
@@ -740,8 +724,7 @@ CME is an accumulation of cyst-like intraretinal fluid spaces, classically in th
 
 Central serous retinopathy (**CSR/CSCR**) is produced by dysfunction of the **RPE/outer blood-retinal barrier**, allowing **subretinal fluid** to accumulate.
 
-![Central serous retinopathy on OCT](images/retina__figure_11.png)
-
+![Central serous retinopathy on OCT](images/E8_202.jpg)
 #### Clinical pattern
 
 - Metamorphopsia / distorted central vision.
@@ -750,8 +733,7 @@ Central serous retinopathy (**CSR/CSCR**) is produced by dysfunction of the **RP
 - Other associations in the teaching material: Cushing syndrome, H. pylori infection, pregnancy and a type-A/stress-prone phenotype.
 - Young males are emphasized; the scanned material gives a male:female ratio of approximately **3:1**.
 
-![Central serous FFA](images/retina__figure_12.png)
-
+![Central serous FFA](images/E8_182.png)
 #### Imaging
 
 **OCT**
@@ -765,8 +747,7 @@ Central serous retinopathy (**CSR/CSCR**) is produced by dysfunction of the **RP
 - **Smoke-stack / smokestack** pattern.
 - Umbrella/mushroom descriptions are also used for the focal leak.
 
-![CSR fundus appearance](images/retina__figure_25.png)
-
+> **Diagram omitted:** CSR fundus appearance.
 #### Treatment
 
 - Most acute cases are **self-limiting**.
@@ -811,8 +792,7 @@ Signs include:
 - CNV.
 - Disciform scarring in advanced lesions.
 
-![Choroidal neovascularisation / wet AMD](images/retina__figure_13.png)
-
+![Choroidal neovascularisation / wet AMD](images/E8_203.jpg)
 Treatment is predominantly **intravitreal anti-VEGF therapy**. The source lists bevacizumab, ranibizumab, brolucizumab and aflibercept among the agents used.
 
 ---
@@ -823,8 +803,7 @@ Treatment is predominantly **intravitreal anti-VEGF therapy**. The source lists 
 
 Retinitis pigmentosa is primarily a **rod-cone dystrophy** with progressive rod dysfunction followed by broader photoreceptor loss.
 
-![Retinitis pigmentosa: bone-spicule pigmentation](images/retina__figure_14.png)
-
+![Retinitis pigmentosa: bone-spicule pigmentation](images/E8_204.jpg)
 #### Clinical features
 
 - **Nyctalopia** is a classic early symptom because rods are affected first.
@@ -876,8 +855,7 @@ Features emphasized:
 - Reduced colour vision/day-vision difficulty.
 - Early visual acuity may already be markedly reduced.
 
-![Stargardt macular dystrophy and dark choroid pattern](images/retina__figure_28.png)
-
+> **Diagram omitted:** Stargardt macular dystrophy and dark choroid pattern.
 ### Dark/silent choroid sign
 
 FFA in Stargardt disease shows the classic **dark/silent choroid** because accumulated lipofuscin in the RPE reduces visualization of the underlying choroidal fluorescence.
@@ -896,8 +874,7 @@ Characteristic stages include:
 - **Vitelliruptive / “pseudohypopyon” stage**, produced by redistribution of the yellow material.
 - Later atrophic change.
 
-![Best vitelliform lesion](images/retina__figure_29.png)
-
+> **Diagram omitted:** Best vitelliform lesion.
 Typical functional findings:
 
 - Central scotoma.
@@ -944,8 +921,7 @@ Major findings:
 - Lattice degeneration and peripheral retinal holes.
 - Increased risk of rhegmatogenous retinal detachment.
 
-![Pathological myopia with lacquer cracks and posterior changes](images/retina__figure_27.png)
-
+> **Diagram omitted:** Pathological myopia with lacquer cracks and posterior changes.
 ---
 
 ## 16. Retinal detachment and retinal breaks
@@ -969,8 +945,7 @@ Embryologically, this plane is weak because the neuroretina and RPE derive from 
 | Characteristic sign | Shafer/tobacco-dust sign | Fixed retinal folds | **Shifting fluid sign** |
 | Typical treatment | Retinopexy / buckle / pneumatic or vitrectomy depending on configuration | Vitrectomy with relief of traction | Treat the underlying cause |
 
-![Rhegmatogenous retinal detachment](images/retina__figure_16.png)
-
+![Rhegmatogenous retinal detachment](images/E8_217.jpg)
 ### Rhegmatogenous retinal detachment
 
 The sequence is:
@@ -1002,8 +977,7 @@ Typical pattern:
 - Common in advanced proliferative diabetic retinopathy.
 - Vitreous hemorrhage may accompany the fibrovascular proliferation.
 
-![Tractional retinal detachment](images/retina__figure_18.png)
-
+> **Diagram omitted:** Tractional retinal detachment.
 The principal treatment is **pars plana vitrectomy** with removal/release of the tractional membranes; silicone oil may be used when needed for tamponade/support.
 
 ### Exudative retinal detachment
@@ -1019,8 +993,7 @@ Typical features:
 - No photopsia in the classic exam pattern.
 - Underlying cause should be identified and treated.
 
-![Exudative retinal detachment](images/retina__figure_17.png)
-
+> **Diagram omitted:** Exudative retinal detachment.
 ### Chronicity markers in retinal detachment
 
 Chronic RD may show:
@@ -1050,8 +1023,7 @@ Removes vitreous traction and permits internal retinal manipulation, endolaser a
 
 Because silicone oil is lighter than aqueous, it can move anteriorly and collect in the anterior chamber, producing an **inverse hypopyon/hyperpyon** appearance.
 
-![Silicone-oil inverse hypopyon](images/retina__figure_30.png)
-
+> **Diagram omitted:** Silicone-oil inverse hypopyon.
 ---
 
 ## 17. Vitreous haemorrhage
@@ -1083,8 +1055,7 @@ B-scan ultrasonography is particularly important when hemorrhage obscures the fu
 
 Retinopathy of prematurity (**ROP**) develops because the retinal vasculature is incompletely formed in the premature infant. Oxygen exposure, vascular developmental arrest and subsequent retinal hypoxia can lead to abnormal neovascularisation and fibrovascular traction.
 
-![ROP zone diagram](images/retina__figure_15.png)
-
+> **Diagram omitted:** ROP zone diagram.
 ### Risk groups emphasized in the supplied material
 
 - Gestational age **<34 weeks**.
@@ -1139,8 +1110,7 @@ The teaching material gives threshold disease as:
 
 Retinoblastoma is the major pediatric intraocular tumor discussed in the retinal material.
 
-![Leukocoria in retinoblastoma](images/retina__figure_20.png)
-
+> **Diagram omitted:** Leukocoria in retinoblastoma.
 The characteristic presentation is **leukocoria**, the white pupillary reflex. **Strabismus/squint** is the second common presentation.
 
 Other presentations include:
@@ -1163,8 +1133,7 @@ The typical age at presentation in the scanned material is approximately **18 mo
 
 ### Histology
 
-![Retinoblastoma histology](images/retina__figure_19.png)
-
+> **Diagram omitted:** Retinoblastoma histology.
 - **Flexner–Wintersteiner rosettes**: differentiated tumor cells arranged around a central lumen.
 - **Homer Wright pseudorosettes**: no true central lumen.
 - **Fleurettes** represent photoreceptor differentiation.

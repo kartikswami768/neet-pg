@@ -1,8 +1,8 @@
 ---
 title: "Neuro-ophthalmology"
-subject: Ophthalmology
+subject: "Ophthalmology"
 topic: "Neuro-ophthalmology"
-type: Notes
+type: "Notes"
 tags:
   - ophthalmology
   - neuro-ophthalmology
@@ -10,7 +10,6 @@ tags:
   - visual-pathway
   - pupils
 ---
-
 # Neuro-ophthalmology
 
 ## 1. Neuro-ophthalmic framework
@@ -47,8 +46,7 @@ The **intraorbital segment is the longest part** and provides the nerve with sla
 
 The optic disc is the blind spot because it contains no rods or cones. Normal optic-nerve myelination begins posterior to the globe; myelinated retinal nerve fibers extending onto the optic disc are an anatomical variation and do not themselves cause visual loss.
 
-![Optic nerve anatomy and segment lengths](images/neuro_ophthalmology__figure_05.png)
-
+> **Diagram omitted:** Optic nerve anatomy and segment lengths.
 ### 2.2 Optic-nerve disorder: core clinical pattern
 
 A typical optic neuropathy may produce:
@@ -71,12 +69,10 @@ Common patterns include:
 - **Sector defect** - segmental optic-nerve or retinal vascular involvement.
 - **Altitudinal defect** - strongly associated with anterior ischemic optic neuropathy.
 
-![Common optic-nerve field-defect patterns](images/neuro_ophthalmology__figure_06.png)
-
+> **Diagram omitted:** Common optic-nerve field-defect patterns.
 ## 3. Visual pathway
 
-![Visual pathway](images/neuro_ophthalmology__figure_01.png)
-
+> **Diagram omitted:** Visual pathway.
 ### 3.1 Retina -> optic nerve -> chiasm -> tract -> LGN -> optic radiations -> visual cortex
 
 The major visual pathway is:
@@ -118,8 +114,7 @@ This is the classic **junctional scotoma**, classically associated with a compre
 
 The inferior nasal fibers are the fibers emphasized in the classic Wilbrand-knee explanation.
 
-![Anterior pathway visual-field localization](images/neuro_ophthalmology__figure_02.png)
-
+> **Diagram omitted:** Anterior pathway visual-field localization.
 ### 3.4 Lateral optic chiasm
 
 A lateral chiasmal lesion is a rare/theoretical lesion and would affect the temporal retinal fibers. Because each side contributes temporal fibers from the ipsilateral eye, the resulting defect is **binasal hemianopia** and is therefore effectively bilateral.
@@ -149,8 +144,7 @@ Eye of origin in the LGN:
 
 An incomplete or sectoral lesion of the LGN can produce characteristic, highly localized field defects. An incomplete or sectoral lesion of the lateral geniculate body can produce a **keyhole visual-field defect**; posterior choroidal circulation is relevant to this localization.
 
-![LGN organization and visual-field localization](images/neuro_ophthalmology__figure_10.png)
-
+> **Diagram omitted:** LGN organization and visual-field localization.
 ### 3.7 Differentiating optic-tract, LGN and optic-radiation lesions
 
 | Feature | Optic tract | LGN | Optic radiations |
@@ -182,8 +176,7 @@ From the LGN, fibers reach the visual cortex through the optic radiations.
 
 The posterior visual-field defect becomes increasingly **congruous** as lesions move posteriorly toward the occipital cortex.
 
-![Retro-chiasmal visual-field localization](images/neuro_ophthalmology__figure_03.png)
-
+> **Diagram omitted:** Retro-chiasmal visual-field localization.
 ### 3.8 Visual cortex
 
 The primary visual cortex is supplied predominantly by the **posterior cerebral artery (PCA)**. The occipital pole/tip representing the macular field has additional blood supply from the **middle cerebral artery (MCA)**.
@@ -198,8 +191,7 @@ The term **cookie-cutter effect** is used for the striking central visual defect
 
 Macular sparing is a classic feature of an occipital cortical lesion because the macular representation has dual vascular supply. Pupillary light responses can remain normal with a purely cortical/radiation lesion because the pupillomotor pathway has already diverged from the visual pathway in the optic tract before the lateral geniculate relay.
 
-![Keyhole and cortical visual-field localization](images/neuro_ophthalmology__figure_11.png)
-
+> **Diagram omitted:** Keyhole and cortical visual-field localization.
 Posterior visual-system lesions can also produce higher cortical manifestations:
 
 - temporal-lobe lesions: formed visual hallucinations and, depending on location, olfactory/gustatory hallucinations
@@ -231,8 +223,7 @@ Additional field patterns:
 
 ### 5.1 Pupillary light reflex
 
-![Pupillary light-reflex pathway](images/neuro_ophthalmology__figure_04.png)
-
+> **Diagram omitted:** Pupillary light-reflex pathway.
 The afferent limb of the pupillary light reflex is shared with the visual pathway up to the optic tract. Pupillomotor fibers leave the optic tract before the lateral geniculate relay.
 
 **Light -> retina -> optic nerve -> optic tract -> pretectal nucleus -> bilateral Edinger-Westphal nuclei via internuncial neurons -> bilateral oculomotor nerves -> ciliary ganglia -> short ciliary nerves -> sphincter pupillae -> miosis.**
@@ -328,8 +319,7 @@ A unilateral fixed, dilated pupil caused by **compressive CN III involvement in 
 
 ## 6. Sympathetic pathway and Horner syndrome
 
-![Oculosympathetic pathway](images/neuro_ophthalmology__figure_09.png)
-
+> **Diagram omitted:** Oculosympathetic pathway.
 The pupillary dilator is supplied by the sympathetic pathway:
 
 **Hypothalamus -> brainstem -> ciliospinal center of Budge (cervical/upper thoracic spinal cord, classically C8-T2) -> superior cervical ganglion -> internal carotid plexus -> cavernous sinus -> long ciliary nerves -> dilator pupillae.**
@@ -424,8 +414,7 @@ Mechanism:
 - intracellular fluid accumulates in optic-nerve axons
 - the optic disc becomes swollen
 
-![Papillitis, papilledema and anterior ischemic optic neuropathy fundus appearances](images/neuro_ophthalmology__figure_07.png)
-
+> **Diagram omitted:** Papillitis, papilledema and anterior ischemic optic neuropathy fundus appearances.
 Early features:
 
 - blurring of the optic-disc margin; nasal margin blurring is an early clue
@@ -528,8 +517,7 @@ Blunt or penetrating orbital/head trauma can produce optic-nerve dysfunction and
 
 ### 7.8 Optic atrophy
 
-![Types of optic atrophy](images/neuro_ophthalmology__figure_08.png)
-
+> **Diagram omitted:** Types of optic atrophy.
 #### Primary optic atrophy
 
 The optic disc is:
@@ -662,8 +650,7 @@ Yoke muscles are pairs of muscles, one in each eye, that act together to produce
 
 Hering's law states that equal innervation is directed to yoked extraocular muscles during binocular gaze.
 
-![Extraocular muscles, cranial-nerve palsies and internuclear ophthalmoplegia](images/neuro_ophthalmology__figure_15.png)
-
+> **Diagram omitted:** Extraocular muscles, cranial-nerve palsies and internuclear ophthalmoplegia.
 ## 10. Cranial-nerve palsies and diplopia
 
 ### 10.1 Third-nerve (oculomotor) palsy
@@ -727,8 +714,7 @@ For a horizontal gaze command:
 
 The **paramedian pontine reticular formation (PPRF)** is the principal horizontal gaze center in the pons.
 
-![PPRF, MLF and internuclear ophthalmoplegia](images/neuro_ophthalmology__figure_12.png)
-
+> **Diagram omitted:** PPRF, MLF and internuclear ophthalmoplegia.
 ### 11.2 PPRF lesion
 
 A lesion of the PPRF produces an **ipsilateral horizontal gaze palsy** because the horizontal gaze command cannot activate the ipsilateral abducens system.
@@ -805,8 +791,7 @@ It can be used:
 
 A **defective optokinetic response toward the side of a deep parietal lesion**, with a relatively preserved response in the opposite direction, can help localize posterior hemispheric dysfunction.
 
-![Optokinetic nystagmus](images/neuro_ophthalmology__figure_13.png)
-
+> **Diagram omitted:** Optokinetic nystagmus.
 ### 13.2 Vestibulo-ocular reflex / Doll's-eye response
 
 The vestibulo-ocular reflex maintains gaze despite head movement. Head movement to one side produces compensatory ocular movement in the opposite direction when the reflex is intact.
@@ -914,8 +899,7 @@ The test is also used to assess anomalous retinal correspondence and sensory sup
 
 Used to assess stereopsis and grade binocular single vision at a higher sensory level.
 
-![Strabismus tests: cover test, Hess chart and Worth four-dot](images/neuro_ophthalmology__figure_16.png)
-
+> **Diagram omitted:** Strabismus tests: cover test, Hess chart and Worth four-dot.
 ## 15. Myasthenia gravis as a neuro-ophthalmic disorder
 
 Typical ocular myasthenic features include:
@@ -968,8 +952,7 @@ For threatened vision, treatment includes:
 
 ## 17. Cavernous sinus, superior orbital fissure and orbital apex syndromes
 
-![Cavernous sinus, orbital apex and related orbital syndromes](images/neuro_ophthalmology__figure_14.png)
-
+> **Diagram omitted:** Cavernous sinus, orbital apex and related orbital syndromes.
 Relevant anatomy:
 
 - optic nerve and ophthalmic artery -> optic canal/foramen

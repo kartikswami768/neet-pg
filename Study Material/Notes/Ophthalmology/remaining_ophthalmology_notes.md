@@ -1,8 +1,8 @@
 ---
 title: "Conjunctiva, Community Ophthalmology & Remaining Major Ophthalmology Topics"
-subject: Ophthalmology
+subject: "Ophthalmology"
 topic: "Conjunctiva, Community Ophthalmology & Remaining Topics"
-type: Notes
+type: "Notes"
 tags:
   - ophthalmology
   - conjunctiva
@@ -10,7 +10,6 @@ tags:
   - public-health
   - miscellaneous
 ---
-
 # Conjunctiva, Community Ophthalmology & Remaining Major Ophthalmology Topics
 
 ## Scope
@@ -46,8 +45,7 @@ These notes cover the major ophthalmology material outside the dedicated section
 - **Chemosis** = oedema of the bulbar conjunctiva.
 - **Hyperemia/congestion** = conjunctival redness.
 
-![Conjunctival follicular and inflammatory patterns](images/conjunctiva_community_ophthalmology_and_remaining_topics__figure_01.png)
-
+> **Diagram omitted:** Conjunctival follicular and inflammatory patterns.
 ## 1.2 Conjunctivitis: clinical pattern and classification
 
 Conjunctivitis is inflammation of the conjunctiva and is also described as **eye flu**.
@@ -93,8 +91,7 @@ Morning crusting/sticking of the lids is characteristic of the discharge pattern
 
 **True membrane** is firmly adherent and removal produces bleeding. A **pseudomembrane** can be removed without bleeding.
 
-![Membranous and pseudomembranous conjunctivitis](images/conjunctiva_community_ophthalmology_and_remaining_topics__figure_02.png)
-
+> **Diagram omitted:** Membranous and pseudomembranous conjunctivitis.
 ---
 
 ## 1.4 Chlamydial conjunctivitis
@@ -119,8 +116,7 @@ Trachoma is a chronic chlamydial conjunctival disease with an inflammatory stage
 - It may be clinically subclinical for long periods.
 - Characteristic inflammatory findings include **sago-grain follicles** and papillary reaction.
 
-![Trachoma: follicles and scarring landmarks](images/conjunctiva_community_ophthalmology_and_remaining_topics__figure_03.png)
-
+> **Diagram omitted:** Trachoma: follicles and scarring landmarks.
 ### Characteristic signs
 
 | Sign | Description |
@@ -246,8 +242,7 @@ Mnemonic **PACE**:
 | **Pseudogerontoxon / Cupid's bow** | White/gelatinous limbal appearance, especially superiorly; may resemble arcus |
 | **Shield ulcer** | Sterile, shield-shaped corneal ulcer; not an infectious ulcer |
 
-![Vernal keratoconjunctivitis: cobblestone papillae and limbal Horner–Trantas dots](images/conjunctiva_community_ophthalmology_and_remaining_topics__figure_04.png)
-
+> **Diagram omitted:** Vernal keratoconjunctivitis: cobblestone papillae and limbal Horner–Trantas dots.
 ### Treatment
 
 - Antihistamines
@@ -309,8 +304,7 @@ Haemorrhagic conjunctivitis may also accompany bacterial or viral conjunctival i
 - Can obstruct the visual axis and can cause visual loss.
 - Can cause **with-the-rule astigmatism** from corneal flattening/tensional pull.
 
-![Pterygium: triangular conjunctival growth crossing the limbus](images/conjunctiva_community_ophthalmology_and_remaining_topics__figure_05.png)
-
+> **Diagram omitted:** Pterygium: triangular conjunctival growth crossing the limbus.
 ### Pterygium versus pseudopterygium
 
 **Glass rod test:**
@@ -334,8 +328,7 @@ Bitot's spots are associated with **vitamin A deficiency**.
 - Usually involve the **temporal conjunctiva**.
 - Characteristic **foamy** appearance.
 
-![Bitot's spot and xerophthalmia](images/conjunctiva_community_ophthalmology_and_remaining_topics__figure_06.png)
-
+> **Diagram omitted:** Bitot's spot and xerophthalmia.
 ### Limbal dermoid
 
 - Benign congenital lesion.
@@ -371,8 +364,7 @@ The tear film is described in three functional layers:
   - **≥15 mm** — normal
   - **<5 mm** — severe dry eye
 
-![Schirmer test](images/conjunctiva_community_ophthalmology_and_remaining_topics__figure_07.png)
-
+> **Diagram omitted:** Schirmer test.
 ### Phenol red thread test
 
 - Faster test.
@@ -419,8 +411,7 @@ The tear film is described in three functional layers:
   - Horizontal part: **8 mm**
   - Total: **10 mm**
 
-![Lacrimal drainage anatomy](images/conjunctiva_community_ophthalmology_and_remaining_topics__figure_08.png)
-
+> **Diagram omitted:** Lacrimal drainage anatomy.
 ## 3.2 Watering and epiphora
 
 Two broad forms are described:
@@ -454,8 +445,7 @@ With a hard stop, fluid can be injected:
 - Uses **radioactive labelling of tears** and follows the tracer with a **gamma counter**.
 - Described as the most reliable investigation for **lacrimal pump failure**.
 
-![Dacryoscintigraphy and lacrimal drainage obstruction](images/conjunctiva_community_ophthalmology_and_remaining_topics__figure_09.png)
-
+> **Diagram omitted:** Dacryoscintigraphy and lacrimal drainage obstruction.
 ### Jones dye test
 
 - Fluorescein is instilled in the eye and cotton is placed in the nose.
@@ -526,8 +516,7 @@ With a hard stop, fluid can be injected:
 - Photophobia
 - Blurring/loss of vision
 
-![Anterior uveitis: keratic precipitates, iris nodules and posterior synechiae](images/conjunctiva_community_ophthalmology_and_remaining_topics__figure_10.png)
-
+> **Diagram omitted:** Anterior uveitis: keratic precipitates, iris nodules and posterior synechiae.
 ### Signs
 
 #### Keratic precipitates (KPs)
@@ -636,8 +625,7 @@ Aggregates of inflammatory cells and proteins deposited on the corneal endotheli
 - Healed/scarred lesion: **punched-out scar**.
 - Clindamycin is described under steroid cover; steroids are used because parasite destruction can release antigen and trigger severe inflammation.
 
-![Toxoplasma retinochoroiditis: active lesion and healed scar](images/conjunctiva_community_ophthalmology_and_remaining_topics__figure_11.png)
-
+> **Diagram omitted:** Toxoplasma retinochoroiditis: active lesion and healed scar.
 ### Sarcoidosis
 
 - Can produce panuveitis with conjunctival, anterior-uveal and vitreous involvement.
@@ -671,8 +659,7 @@ Treatment: **steroids**.
 - Treatment: massive corticosteroid therapy, including topical/subconjunctival/systemic treatment.
 - If the injured eye is unsalvageable, the source describes **enucleation within 2 weeks / 14 days** of injury.
 
-![Panuveitis patterns: VKH and sympathetic ophthalmia](images/conjunctiva_community_ophthalmology_and_remaining_topics__figure_12.png)
-
+> **Diagram omitted:** Panuveitis patterns: VKH and sympathetic ophthalmia.
 ### Behçet disease
 
 - Recurrent **hypopyon** may occur; this is also termed a transient hypopyon syndrome in the visual review.
@@ -712,8 +699,7 @@ Treatment: **steroids**.
 | **Traumatic optic neuropathy** | Can lead to primary optic atrophy |
 | **Angle-recession glaucoma** | Secondary open-angle glaucoma after angle damage |
 
-![Blunt ocular trauma: hyphema, ciliary-body tear and angle recession](images/conjunctiva_community_ophthalmology_and_remaining_topics__figure_13.png)
-
+> **Diagram omitted:** Blunt ocular trauma: hyphema, ciliary-body tear and angle recession.
 ## 5.3 Chemical ocular injury
 
 ### Acid versus alkali
@@ -782,8 +768,7 @@ The embryological sequence is:
 - The **choroid fissure** closes around the **6th–7th week of gestation**.
 - Failure of closure produces **coloboma**.
 
-![Embryology of the optic vesicle, lens placode and choroid fissure](images/conjunctiva_community_ophthalmology_and_remaining_topics__figure_14.png)
-
+> **Diagram omitted:** Embryology of the optic vesicle, lens placode and choroid fissure.
 ### Tissue derivation mnemonics
 
 **Surface ectoderm — SLEEK**
@@ -832,8 +817,7 @@ Retinoblastoma is the **most common primary intraocular tumour of childhood**.
 - **Second most common presentation: strabismus**.
 - Other presentations: glaucoma, rubeosis iridis and proptosis.
 
-![Retinoblastoma: leukocoria and characteristic histopathology](images/conjunctiva_community_ophthalmology_and_remaining_topics__figure_15.png)
-
+> **Diagram omitted:** Retinoblastoma: leukocoria and characteristic histopathology.
 ### Spread and morphology
 
 - Most common route of spread: **optic nerve**.
@@ -1012,8 +996,7 @@ Vitamin A deficiency is a major preventable cause of childhood blindness.
 | **XS** | Corneal scar |
 | **XF** | Xerophthalmic fundus; RPE/fundus changes, including **Uyemura spots / white-spotted fundus** |
 
-![Xerophthalmia spectrum: Bitot spot and corneal involvement](images/conjunctiva_community_ophthalmology_and_remaining_topics__figure_06.png)
-
+> **Diagram omitted:** Xerophthalmia spectrum: Bitot spot and corneal involvement.
 ### High-yield sequence
 
 **Night blindness → conjunctival xerosis → Bitot spot → corneal xerosis → keratomalacia → scar/fundus changes.**

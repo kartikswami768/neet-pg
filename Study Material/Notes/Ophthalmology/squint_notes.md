@@ -1,8 +1,8 @@
 ---
 title: "Squint (Strabismus)"
-subject: Ophthalmology
+subject: "Ophthalmology"
 topic: "Squint and Strabismus"
-type: Notes
+type: "Notes"
 tags:
   - ophthalmology
   - strabismus
@@ -10,7 +10,6 @@ tags:
   - ocular-motility
   - binocular-vision
 ---
-
 # Squint (Strabismus)
 
 ## 1. Definition and terminology
@@ -30,8 +29,7 @@ tags:
 
 Incyclotropia and excyclotropia are not usually clinically obvious and are assessed with the **double Maddox rod test**.
 
-![Types of ocular deviation](images/squint_and_strabismus__deviation_types.png)
-
+> **Diagram omitted:** Types of ocular deviation.
 ### Pseudostrabismus vs true strabismus
 
 - **Pseudostrabismus:** the eyes appear deviated, but ocular alignment is normal.
@@ -113,8 +111,7 @@ The six muscles acting on the globe are:
 
 The superior oblique can be clinically assessed by asking the patient to look toward the **tip of the nose**, because depression in adduction is primarily mediated by the superior oblique.
 
-![Extraocular muscle actions](images/squint_and_strabismus__eom_actions.png)
-
+![Extraocular muscle actions](images/E8_49.jpg)
 ### Axes of the vertical recti and obliques
 
 The visual axis forms an angle of approximately **23° with the axis of the vertical recti**.
@@ -145,8 +142,7 @@ Examples:
 - Dextroelevation → right SR + left IO
 - Levodepression → left IR + right SO
 
-![Yoke muscles and gaze positions](images/squint_and_strabismus__yoke_muscles.png)
-
+![Yoke muscles and gaze positions](images/E8_52.png)
 ---
 
 ## 5. Laws governing binocular motor control
@@ -175,16 +171,14 @@ Normal binocular vision depends on the two eyes receiving sufficiently similar i
 
 **Stereopsis** is the perception of depth produced by binocular disparity and represents the highest grade of binocular single vision.
 
-![Binocular vision tests](images/squint_and_strabismus__binocular_vision_tests.png)
-
+> **Diagram omitted:** Binocular vision tests.
 ### Synoptophore / amblyoscope
 Used to demonstrate and assess binocular single vision and its grades.
 
 ### Titmus fly test
 Tests **stereopsis (Grade 3 binocular single vision)**. Polarized glasses are used; the wings of the fly appear elevated when stereopsis is perceived.
 
-![Synoptophore and Titmus fly](images/squint_and_strabismus__synoptophore_titmus.png)
-
+> **Diagram omitted:** Synoptophore and Titmus fly.
 ---
 
 ## 7. Suppression, abnormal retinal correspondence and amblyopia
@@ -215,8 +209,7 @@ The material describes occlusion as prevention/treatment of amblyopia:
 - The revision material describes patching the normal eye for a number of days equal to the child's age, followed by patching the deviated eye for 1 day.
 - The stated age range for this regimen is up to approximately **6 years**.
 
-![Worth four-dot interpretations](images/squint_and_strabismus__worth_four_dot.png)
-
+![Worth four-dot interpretations](images/HYP_173.jpg)
 ---
 
 # 8. Clinical presentation: comitant vs incomitant strabismus
@@ -300,8 +293,7 @@ The reflex lies approximately at the centre of the pupil and is symmetric betwee
 
 A **1 mm displacement** of the corneal reflex corresponds approximately to **7° or about 14–15 prism diopters**.
 
-![Hirschberg test and angle estimation](images/squint_and_strabismus__hirschberg_angles.png)
-
+![Hirschberg test and angle estimation](images/HYP_164.jpg)
 ---
 
 # 11. Cover and uncover tests
@@ -327,8 +319,7 @@ Cover either eye and then uncover it while observing the recovery movement.
 
 The direction in which the eye moves during refixation is opposite to the direction of the deviation.
 
-![Cover and cover-uncover tests](images/squint_and_strabismus__cover_uncover.png)
-
+![Cover and cover-uncover tests](images/HYP_165.png)
 ---
 
 # 12. Prism measurements
@@ -354,8 +345,7 @@ The prism base is placed **opposite the direction of deviation**.
 
 Mnemonic: **DOOB — Deviation Opposite Of Base.**
 
-![Prism bar](images/squint_and_strabismus__prism_bar.png)
-
+![Prism bar](images/E8_66.png)
 ---
 
 # 13. Krimsky test
@@ -366,8 +356,7 @@ A prism is placed to neutralize the displaced corneal light reflex. The prism po
 
 The material also describes this as the **prism reflection test**.
 
-![Krimsky test](images/squint_and_strabismus__krimsky_test.png)
-
+> **Diagram omitted:** Krimsky test.
 ---
 
 # 14. Maddox rod and Maddox wing
@@ -396,8 +385,7 @@ It creates artificial diplopia:
 - Arrows displaced to the left → esophoria / crossed diplopia
 - Vertical displacement → hyperphoria
 
-![Maddox rod](images/squint_and_strabismus__maddox_rod.png)
-
+![Maddox rod](images/E8_65.jpg)
 ---
 
 # 15. Hess chart
@@ -414,8 +402,7 @@ The normal charts of the two eyes are approximately similar in size and shape. W
 
 The Hess chart uses **concave grid lines**; an Amsler grid uses straight lines and is used for macular function.
 
-![Hess chart](images/squint_and_strabismus__hess_chart.png)
-
+![Hess chart](images/HYP_171.png)
 ---
 
 # 16. Worth four-dot test
@@ -443,8 +430,7 @@ The patient wears red-green glasses, with the **red filter over the right eye** 
 | **3 green dots** | Right-eye suppression |
 | **5 dots** | Diplopia / no fusion |
 
-![Worth four-dot test](images/squint_and_strabismus__worth_four_dot.png)
-
+![Worth four-dot test](images/HYP_173.jpg)
 ---
 
 # 17. Diplopia
@@ -516,8 +502,7 @@ The material describes essential infantile esotropia as:
 
 Persistent infantile esotropia requires active management rather than observation alone. Optical correction and amblyopia management are important, and early ocular alignment surgery is commonly used when a significant residual deviation persists, with timing individualized to the child and binocular-development goals.
 
-![Infantile squint](images/squint_and_strabismus__infantile_squint_photo.png)
-
+> **Diagram omitted:** Infantile squint.
 ---
 
 # 19. Exotropia
@@ -589,8 +574,7 @@ CN III supplies:
 
 The material describes observation/"wait and watch" for CN III palsy because the nerve is covered by neurilemma and may regenerate.
 
-![Cranial nerve palsy clinical patterns](images/squint_and_strabismus__cranial_nerve_palsy_montage.png)
-
+> **Diagram omitted:** Cranial nerve palsy clinical patterns.
 ---
 
 ## 21.2 Fourth cranial nerve palsy
@@ -612,8 +596,7 @@ CN IV supplies the **superior oblique**.
 
 The affected eye becomes more hypertropic when the head is tilted toward the side that increases the demand on the affected superior oblique; the provided clinical diagram demonstrates the characteristic change in hypertropia with gaze and head tilt.
 
-![Bielschowsky head-tilt test](images/squint_and_strabismus__parks_head_tilt.png)
-
+![Bielschowsky head-tilt test](images/HYP_158.jpg)
 ### Parks three-step test
 
 Used to identify the paretic cyclovertical muscle in vertical incomitant strabismus. The material specifically identifies it as the confirmatory test for fourth-nerve palsy.
@@ -635,8 +618,7 @@ CN VI supplies the **lateral rectus**.
 
 CN VI palsy is described as the **most common ocular motor cranial nerve palsy**.
 
-![Cranial nerve palsy patterns](images/squint_and_strabismus__cranial_nerve_palsy_montage.png)
-
+> **Diagram omitted:** Cranial nerve palsy patterns.
 ---
 
 # 22. Internuclear ophthalmoplegia
@@ -656,8 +638,7 @@ Internuclear ophthalmoplegia (INO) results from a lesion of the **medial longitu
 - **Nystagmus of the abducting opposite eye**
 - Commonly associated with **multiple sclerosis**, particularly bilateral INO.
 
-![Internuclear ophthalmoplegia pathway](images/squint_and_strabismus__ino_pathway.png)
-
+![Internuclear ophthalmoplegia pathway](images/HYP_160.jpg)
 ---
 
 # 23. Restrictive strabismus
@@ -772,8 +753,7 @@ Management is directed toward:
 4. **Prisms**
 5. **Surgical correction**
 
-![General treatment sequence and surgery](images/squint_and_strabismus__recession_diagram.png)
-
+![General treatment sequence and surgery](images/HYP_177.jpg)
 ---
 
 ## 28.1 Optical treatment
@@ -814,16 +794,14 @@ A **weakening procedure**.
 
 The muscle insertion is moved posteriorly, reducing the muscle's effective force.
 
-![Muscle recession](images/squint_and_strabismus__recession_diagram.png)
-
+![Muscle recession](images/HYP_177.jpg)
 ### Resection
 
 A **strengthening procedure**.
 
 A segment of the muscle is shortened and the muscle is reattached, increasing its effective tension.
 
-![Muscle resection](images/squint_and_strabismus__resection_diagram.png)
-
+![Muscle resection](images/HYP_178.jpg)
 ### Surgical timing
 
 - Surgery is considered when significant ocular misalignment persists despite appropriate optical and amblyopia treatment or when alignment is necessary to restore/maintain binocular function.

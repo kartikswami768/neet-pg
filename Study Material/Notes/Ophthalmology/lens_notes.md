@@ -1,8 +1,8 @@
 ---
 title: "Lens"
-subject: Ophthalmology
+subject: "Ophthalmology"
 topic: "Lens"
-type: Notes
+type: "Notes"
 tags:
   - ophthalmology
   - lens
@@ -10,7 +10,6 @@ tags:
   - accommodation
   - aphakia
 ---
-
 # Lens
 
 ## 1. Overview and location
@@ -25,8 +24,7 @@ The crystalline lens is a transparent, avascular, biconvex optical structure sit
 - **Embryological origin:** surface ectoderm.
 - **Lens is avascular** and depends on diffusion for nutrition.
 
-![Lens anatomy](images/lens__01_lens_anatomy.png)
-
+> **Diagram omitted:** Lens anatomy.
 ## 2. Gross anatomy and microscopic organization
 
 From superficial to deep, the lens consists of:
@@ -186,8 +184,7 @@ The lens is considered relatively **dehydrated** under normal conditions; excess
 
 ### 7.2 Glucose metabolism
 
-![Lens metabolism](images/lens__02_lens_metabolism.png)
-
+> **Diagram omitted:** Lens metabolism.
 The major metabolic pathway is anaerobic because the lens is avascular.
 
 | Pathway | Approximate contribution |
@@ -228,8 +225,7 @@ For **near vision**:
 - Lens refractive power **increases**.
 - Pupil constriction accompanies near vision.
 
-![Accommodation](images/lens__09_accommodation.png)
-
+> **Diagram omitted:** Accommodation.
 ### 8.2 Accommodation sequence
 
 **Ciliary muscle contraction → ciliary ring constriction → zonular relaxation → lens thickening/rounding → increased lens power → near focus.**
@@ -295,8 +291,7 @@ Typical visual loss is **gradual and painless**.
 
 ### 11.1 Blue-dot / cerulean / punctate cataract
 
-![Congenital cataract patterns](images/lens__10_congenital_cataract.png)
-
+> **Diagram omitted:** Congenital cataract patterns.
 - **Most common congenital cataract**.
 - Usually an incidental finding.
 - Usually causes little or no visual impairment.
@@ -346,12 +341,10 @@ Ocular/systemic findings include:
 - **Microphthalmos:** axial length <21 mm; an axial length <19 mm at 1 year is also highlighted.
 - **Rubella keratitis** may be associated with an angle anomaly, impaired aqueous drainage and glaucoma.
 
-![Congenital cataract and associated clinical appearances](images/lens__13_prep_congenital_traumatic_composite.jpg)
-
+> **Diagram omitted:** Congenital cataract and associated clinical appearances.
 ## 13. Infantile cataract: timing and management principle
 
-![Congenital cataract management](images/lens__11_congenital_cataract_management.png)
-
+> **Diagram omitted:** Congenital cataract management.
 Infantile cataract presenting before 1 year may cause severe visual loss because of disruption of visual development and foveal fixation, resulting in amblyopia.
 
 Developmental cataract presenting after 1 year is associated with less severe visual loss.
@@ -390,8 +383,7 @@ The major morphological types are:
 
 ### 14.1 Nuclear cataract
 
-![Senile cataract morphology](images/lens__04_senile_cataract.png)
-
+> **Diagram omitted:** Senile cataract morphology.
 Nuclear cataract is caused by **nuclear sclerosis** with hardening and increased refractive index of the nucleus.
 
 Clinical features:
@@ -455,8 +447,7 @@ Clinical features:
 
 **Systemic steroids → cataract; topical steroids → glaucoma** is a useful exam association.
 
-![Posterior and anterior subcapsular cataract](images/lens__05_subcapsular_cataract.png)
-
+> **Diagram omitted:** Posterior and anterior subcapsular cataract.
 ## 16. Anterior subcapsular cataract
 
 Anterior subcapsular cataract is the **rarest** of the major senile cataract patterns.
@@ -491,8 +482,7 @@ Typical appearance:
 - **Polychromatic lustre**
 - **Axial spread**
 
-![Clinical appearances of complicated and traumatic cataract](images/lens__13_prep_congenital_traumatic_composite.jpg)
-
+> **Diagram omitted:** Clinical appearances of complicated and traumatic cataract.
 ## 18. Metabolic cataracts
 
 ### 18.1 Hypocalcaemia / parathyroid tetany
@@ -534,8 +524,7 @@ Hyperglycaemia can also produce **fluctuating refractive error**, particularly a
 - Typically posterior subcapsular.
 - Myotonic dystrophy may also have ptosis, low intraocular pressure and pigmentary retinopathy.
 
-![Metabolic cataracts](images/lens__12_metabolic_cataract.png)
-
+> **Diagram omitted:** Metabolic cataracts.
 ## 19. Traumatic cataract and lens findings after blunt trauma
 
 Blunt trauma can produce characteristic anterior segment and lens findings.
@@ -568,8 +557,7 @@ Associated traumatic signs include:
 | **Blunt contusion** | Posterior subcapsular/rosette-shaped cataract |
 | **X-ray/radiation** | Posterior subcapsular cataract |
 
-![Traumatic cataract and associated lens findings](images/lens__03_traumatic_cataract.png)
-
+> **Diagram omitted:** Traumatic cataract and associated lens findings.
 ## 20. Ectopia lentis and zonular abnormalities
 
 **Ectopia lentis** is displacement or subluxation of the lens caused by zonular weakness or rupture.
@@ -592,8 +580,7 @@ Clinical features include:
 - Differential refractive power between the displaced and normal portions of the lens.
 - A **golden/red crescent** may be visible in the pupillary area when the lens is subluxated.
 
-![Ectopia lentis, posterior polar cataract and lenticonus](images/lens__08_ectopia_lentis.png)
-
+> **Diagram omitted:** Ectopia lentis, posterior polar cataract and lenticonus.
 ## 21. Lenticonus
 
 Lenticonus is a **congenital abnormality of lens shape** in which the anterior or posterior surface becomes conical.
@@ -640,8 +627,7 @@ Typical combination:
 
 Both phacomorphic and phacolytic glaucoma are associated with hypermature cataract and an intact capsule.
 
-![Lens-induced glaucomas](images/lens__16_lens_induced_glaucoma.png)
-
+> **Diagram omitted:** Lens-induced glaucomas.
 ### Glaukomflecken
 
 Following an acute angle-closure glaucoma attack, focal **anterior subcapsular lens opacities** may develop because of the acute pressure/ischemic insult.
@@ -753,8 +739,7 @@ The femtosecond system is described with:
 - Principle: **photodisruption**.
 - **Nd:glass laser**.
 
-![Cataract surgery techniques](images/lens__14_prep_cataract_surgery.jpg)
-
+> **Diagram omitted:** Cataract surgery techniques.
 ## 25. Intraocular lenses and biometry
 
 ### 25.1 IOL types
@@ -771,8 +756,7 @@ The femtosecond system is described with:
 - The ACIOL has an **S-shaped haptic**.
 - Iris chafing by an ACIOL can produce **UGH syndrome**.
 
-![IOL types and phacoemulsification](images/lens__06_phaco_and_iol.png)
-
+> **Diagram omitted:** IOL types and phacoemulsification.
 ### 25.2 IOL power calculation — biometry
 
 Biometry uses:
@@ -792,8 +776,7 @@ Important formula associations:
 - **Hoffer Q** is used for shorter eyes and **SRK/T** for longer eyes.
 - The SRK expression is **P = A − 2.5L − 0.9K**, where *L* is axial length, *K* is keratometry and *A* is the constant.
 
-![IOL biometry and implantation](images/lens__06_phaco_and_iol.png)
-
+> **Diagram omitted:** IOL biometry and implantation.
 ## 26. Complications of cataract surgery
 
 ### 26.1 Operative complications
@@ -842,8 +825,7 @@ Hydrophobic acrylic IOLs have a lower likelihood of posterior capsular opacifica
   - Malignant glaucoma
 - Endophthalmitis.
 
-![Postoperative cataract complications](images/lens__07_cataract_complications.png)
-
+> **Diagram omitted:** Postoperative cataract complications.
 ## 27. Postoperative endophthalmitis relevant to lens surgery
 
 Endophthalmitis is a suppurative intraocular infection/inflammation involving all ocular structures except the sclera.
@@ -906,8 +888,7 @@ Aphakic spectacles can produce:
 - Chromatic aberration.
 - Thick/heavy cosmetic appearance.
 
-![Signs and correction of aphakia](images/lens__15_aphakia.png)
-
+> **Diagram omitted:** Signs and correction of aphakia.
 ## 29. Phakic intraocular lens
 
 A phakic intraocular lens, such as an **implantable collamer lens (ICL)**, is placed behind the iris and in front of the natural crystalline lens.
@@ -962,4 +943,4 @@ Disruption of these systems produces characteristic patterns:
 - **Ciliary muscle–zonular–lens dysfunction** → impaired accommodation or pseudomyopia.
 - **Progressive accommodative insufficiency** → presbyopia.
 
-![Integrated lens anatomy and protein organization](images/lens__01_lens_anatomy.png)
+> **Diagram omitted:** Integrated lens anatomy and protein organization.

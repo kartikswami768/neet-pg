@@ -1,8 +1,8 @@
 ---
 title: "Glaucoma"
-subject: Ophthalmology
+subject: "Ophthalmology"
 topic: "Glaucoma"
-type: Notes
+type: "Notes"
 tags:
   - ophthalmology
   - glaucoma
@@ -10,7 +10,6 @@ tags:
   - optic-nerve
   - gonioscopy
 ---
-
 # Glaucoma
 
 ## 1. Definition and Core Concept
@@ -26,7 +25,7 @@ The essential glaucoma assessment rests on three elements:
 
 The structural and functional damage is irreversible once established. The treatment goal is to control the IOP sufficiently to **prevent progression of visual field defects without compromising quality of life**.
 
-![Ciliary processes and aqueous production](images/glaucoma__figure_01_ciliary_process_aqueous_production.png)
+> **Diagram omitted:** Ciliary processes and aqueous production.
 *Figure 1. Ciliary process anatomy showing the non-pigmented ciliary epithelium and related structures involved in aqueous humour production.*
 
 ## 2. Classification of Glaucoma
@@ -61,7 +60,7 @@ The structural and functional damage is irreversible once established. The treat
 | Anterior chamber | Deep | Shallow |
 | Main treatment concepts | Trabeculoplasty, trabeculectomy | Iridotomy / iridectomy; definitive management of the underlying mechanism |
 
-![Open-angle and angle-closure comparison](images/glaucoma__figure_03_open_vs_angle_closure.png)
+> **Diagram omitted:** Open-angle and angle-closure comparison.
 *Figure 2. Comparison of aqueous outflow anatomy and the open-angle versus angle-closure configuration.*
 
 ### Ocular hypertension, POAG and normal-tension glaucoma
@@ -123,7 +122,7 @@ There are two major aqueous outflow pathways:
 | **Trabecular / conventional** | ~80-90% (also given as 90%) | Trabecular meshwork → Schlemm's canal → collector/aqueous veins → episcleral veins | IOP-dependent | Pilocarpine, Rho-kinase inhibitors; trabeculoplasty acts here |
 | **Uveoscleral / alternate** | ~10-20% (also given as 10%) | Through ciliary body / supraciliary space and sclera | IOP-independent | Prostaglandin analogues increase it |
 
-![Aqueous outflow pathways](images/glaucoma__figure_02_aqueous_outflow_and_angle.png)
+> **Diagram omitted:** Aqueous outflow pathways.
 *Figure 3. Trabecular and uveoscleral aqueous outflow pathways.*
 
 ### Trabecular outflow pathway
@@ -167,7 +166,7 @@ Gonioscopy **does not require pupil dilation** and a dilated pupil is listed as 
 | **Direct** | Direct | Patient lying down; useful in surgery | Richardson-Shaffer, Koeppe, Barkan; Swan-Jacob |
 | **Indirect** | Mirrored / inverted view | Slit lamp; routine outpatient examination | Goldmann, Zeiss, Posner, Sussman |
 
-![Gonioscopy principle](images/glaucoma__figure_08_gonioscopy_principle_and_angle.png)
+> **Diagram omitted:** Gonioscopy principle.
 *Figure 4. Optical principle used by gonioscopy to overcome total internal reflection.*
 
 Additional angle investigations:
@@ -207,7 +206,7 @@ Shine a torch from the temporal side:
 - In a **thin cornea**, IOP may be underestimated.
 - In a **thick cornea**, IOP may be overestimated.
 
-![Tonometry instruments](images/glaucoma__figure_15_tonometry.png)
+> **Diagram omitted:** Tonometry instruments.
 *Figure 5. Tonometry examples used for IOP assessment.*
 
 ### Perkins tonometer
@@ -283,10 +282,10 @@ Key structural changes:
 - **Loss of retinal nerve fibre striations**.
 - **Splinter haemorrhage at the disc margin**.
 
-![Normal and glaucomatous optic discs](images/glaucoma__figure_04_optic_disc_glaucomatous_cupping.png)
+> **Diagram omitted:** Normal and glaucomatous optic discs.
 *Figure 6. Comparison of a normal optic nerve head with glaucomatous cupping.*
 
-![Retinal nerve fibre defect](images/glaucoma__figure_16_retinal_nerve_fibre_defects.png)
+> **Diagram omitted:** Retinal nerve fibre defect.
 *Figure 7. Clinical appearance illustrating a retinal nerve fibre defect.*
 
 ### Lamina cribrosa
@@ -335,7 +334,7 @@ Important defects:
 
 The **Bjerrum area** encompasses approximately the central **20-30°** of the field.
 
-![Characteristic glaucomatous visual field defects](images/glaucoma__figure_06_glaucoma_visual_field_progression.png)
+> **Diagram omitted:** Characteristic glaucomatous visual field defects.
 *Figure 8. Progression of glaucomatous visual field defects from arcuate/paracentral loss to advanced field constriction and temporal island vision.*
 
 ## 9. Primary Open-Angle Glaucoma (POAG)
@@ -403,10 +402,10 @@ The major mechanism described is **pupillary block**:
 Other mechanisms can contribute:
 - **Plateau iris**: an anteriorly rotated ciliary body can maintain or cause angle closure despite the absence of a simple pupillary block mechanism.
 
-![Angle-closure mechanisms](images/glaucoma__figure_07_angle_closure_mechanisms.png)
+> **Diagram omitted:** Angle-closure mechanisms.
 *Figure 9. Schematic progression from pupillary block to iris bombe and iridotrabecular contact.*
 
-![Plateau iris on imaging](images/glaucoma__figure_09_plateau_iris_UBM.png)
+> **Diagram omitted:** Plateau iris on imaging.
 *Figure 10. Plateau iris configuration on anterior segment imaging.*
 
 ### Primary angle-closure spectrum
@@ -474,7 +473,7 @@ IOP may rapidly rise to **40-60 mmHg**; severe pain with IOP **>40 mmHg** is spe
 - Cupping may or may not yet be present.
 - PAS may form.
 
-![Acute angle closure and pupillary block](images/glaucoma__figure_07_angle_closure_mechanisms.png)
+> **Diagram omitted:** Acute angle closure and pupillary block.
 *Figure 11. Schematic progression from pupillary block to iris bombe and iridotrabecular contact during angle closure.*
 
 #### Initial treatment
@@ -527,7 +526,7 @@ Typical associations/features:
 - **Krukenberg spindle:** pigment deposition on the corneal endothelium.
 - **Sampaolesi line** at the angle.
 
-![Pigmentary and related secondary-glaucoma findings](images/glaucoma__figure_10_secondary_glaucoma_signs.png)
+> **Diagram omitted:** Pigmentary and related secondary-glaucoma findings.
 *Figure 12. Clinical appearance associated with pigment dispersion and secondary glaucoma.*
 
 ### 13.2 Pseudoexfoliation glaucoma
@@ -541,7 +540,7 @@ Findings:
 - **Sampaolesi line** may be seen at the angle.
 - The exfoliative material obstructs aqueous drainage through the angle/trabecular meshwork.
 
-![Posner-Schlossman syndrome](images/glaucoma__figure_11_posner_schlossman.png)
+> **Diagram omitted:** Posner-Schlossman syndrome.
 *Figure 13. Posner-Schlossman clinical appearance and schematic relationship of inflammation, angle, and pressure elevation.*
 
 ### 13.3 Neovascular glaucoma
@@ -563,7 +562,7 @@ Management:
 - **Anti-VEGF injection** is described as part of treatment.
 - **Pan-retinal photocoagulation (PRP)** is the definitive treatment / treatment of choice for the underlying retinal ischaemia in the material.
 
-![Neovascular glaucoma](images/glaucoma__figure_17_neovascular_glaucoma.png)
+> **Diagram omitted:** Neovascular glaucoma.
 *Figure 14. Rubeosis iridis and VEGF-driven neovascularization in neovascular glaucoma.*
 
 ### 13.4 Lens-induced glaucoma
@@ -639,7 +638,7 @@ Congenital glaucoma is a **developmental open-angle glaucoma** caused by abnorma
 - The enlarging globe produces **buphthalmos**, megalocornea and corneal oedema.
 - Stretching also produces tears in Descemet's membrane, giving **Haab's striae**.
 
-![Congenital glaucoma clinical features](images/glaucoma__figure_12_congenital_glaucoma.png)
+> **Diagram omitted:** Congenital glaucoma clinical features.
 *Figure 15. Clinical photographs demonstrating buphthalmos, corneal oedema and Haab's striae.*
 
 ### Clinical features
@@ -667,7 +666,7 @@ Procedures:
 - Goniotomy is performed with a **goniotomy knife**.
 - A functioning **bleb** indicates a successful filtration procedure and that the fistula is working.
 
-![Goniotomy](images/glaucoma__figure_13_goniotomy.png)
+> **Diagram omitted:** Goniotomy.
 *Figure 16. Goniotomy using a goniotomy lens and knife in congenital glaucoma.*
 
 ## 15. Medical Treatment of Glaucoma
@@ -866,7 +865,7 @@ Devices listed include:
 - **Molteno devices**.
 - **Ahmed glaucoma valve**.
 
-![Ahmed glaucoma valve](images/glaucoma__figure_14_ahmed_glaucoma_valve.png)
+> **Diagram omitted:** Ahmed glaucoma valve.
 *Figure 17. Ahmed glaucoma valve showing the tube and plate-based drainage pathway.*
 
 ### MIGS

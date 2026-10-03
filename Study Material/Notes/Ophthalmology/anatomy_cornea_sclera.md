@@ -1,8 +1,8 @@
 ---
 title: "Cornea and Sclera"
-subject: Ophthalmology
+subject: "Ophthalmology"
 topic: "Cornea and Sclera"
-type: Notes
+type: "Notes"
 tags:
   - ophthalmology
   - cornea
@@ -10,7 +10,6 @@ tags:
   - anatomy
   - histology
 ---
-
 # Cornea and Sclera
 
 ## 1. Fibrous coat and general relationships
@@ -22,8 +21,7 @@ The **fibrous tunic** is the outer coat of the eyeball. It consists of the **cor
 - **Limbus:** transition zone between cornea and sclera; it contains the **limbal epithelial stem-cell compartment**.
 - The **angle of the anterior chamber** lies just internal to and posterior to the limbus and forms the principal aqueous drainage region.
 
-![Anterior segment and corneoscleral relationships](images/cornea_and_sclera__figure_02_anterior_segment.png)
-
+![Anterior segment and corneoscleral relationships](images/HYP_3.jpg)
 *Anterior segment showing the cornea, sclera, bulbar conjunctiva, anterior chamber, posterior chamber, ciliary body, scleral venous sinus and adjacent structures.*
 
 The cornea is transparent but can appear black on gross examination because light passes through it into the dark interior of the eye.
@@ -64,8 +62,7 @@ Approximate values illustrated in corneal histology are:
 
 These are representative layer dimensions rather than additive measurements for every cornea.
 
-![Corneal layers and histology](images/cornea_and_sclera__figure_01_cornea_layers_histology.png)
-
+![Corneal layers and histology](images/E8_5.jpg)
 *Corneal layers with approximate thicknesses and corresponding histology.*
 
 ---
@@ -81,8 +78,7 @@ Modern anatomical description recognizes **six layers**:
 5. Descemet’s membrane
 6. Endothelium
 
-![Six-layer corneal schematic](images/cornea_and_sclera__figure_03_cornea_layers_schematic.png)
-
+> **Diagram omitted:** Six-layer corneal schematic.
 *Six-layer schematic showing the epithelium, Bowman’s layer, stroma, Dua’s layer, Descemet’s membrane and endothelium.*
 
 ### 3.1 Epithelium
@@ -215,8 +211,7 @@ Touching the cornea with a fine cotton wisp produces:
 
 **Efferent:** CN VII (facial) → orbicularis oculi → **blink**
 
-![Anterior segment and corneal relationships](images/cornea_and_sclera__figure_02_anterior_segment.png)
-
+![Anterior segment and corneal relationships](images/HYP_3.jpg)
 *The anterior segment relationship of the cornea to the limbus, sclera and ciliary body.*
 
 Corneal anesthesia can abolish the normal protective blink response. A classic cause is **herpetic corneal disease**. Loss of corneal sensation is also important in neurotrophic keratopathy.
@@ -349,8 +344,7 @@ Scleral sensory innervation is carried predominantly by the **ciliary nerves**, 
 
 **Scleromalacia perforans** is a severe form of anterior necrotizing scleritis that can occur **without obvious redness or pain** and can progress to scleral thinning and perforation. It has a strong association with **rheumatoid arthritis**.
 
-![Scleral inflammatory disease](images/cornea_and_sclera__figure_09_sclera_clinical_panel.png)
-
+> **Diagram omitted:** Scleral inflammatory disease.
 *Clinical appearance of severe scleral inflammation with deep violaceous/gray discoloration.*
 
 ## Scleral thinning and posterior staphyloma
@@ -603,8 +597,7 @@ Keratoconus is an **ectatic disorder of the cornea** in which a normally more re
 - **Fleischer’s ring:** iron deposition near the base of the cone, predominantly associated with the epithelial region.
 - Prominent corneal nerves can become visible because of stromal thinning.
 
-![Keratoconus and characteristic clinical signs](images/cornea_and_sclera__figure_04_keratoconus_signs.png)
-
+> **Diagram omitted:** Keratoconus and characteristic clinical signs.
 *Corneal ectasia with representative keratoconus signs, including Munson’s sign and Fleischer’s ring.*
 
 ### Management anatomy
@@ -614,8 +607,7 @@ Keratoconus is an **ectatic disorder of the cornea** in which a normally more re
 - **Intracorneal ring segments (INTACS):** PMMA segments placed within the stroma can flatten the cornea.
 - **Keratoplasty:** used for advanced disease when contact lenses and/or stabilization are insufficient.
 
-![Intracorneal ring segments](images/cornea_and_sclera__figure_06_intacs.png)
-
+![Intracorneal ring segments](images/E8_26.jpg)
 *Intracorneal ring segments used to modify corneal shape in ectatic disease.*
 
 ---
@@ -640,12 +632,10 @@ This is a **horizontal band of calcium deposition** in the exposed interpalpebra
 - Important associations include chronic uveitis in children, juvenile rheumatoid arthritis, hypercalcemia and sarcoidosis.
 - **EDTA chelation** is used to remove the calcium clinically.
 
-![Band-shaped keratopathy](images/cornea_and_sclera__figure_07_band_keratopathy.png)
-
+> **Diagram omitted:** Band-shaped keratopathy.
 *Interpalpebral corneal calcium deposition in band-shaped keratopathy.*
 
-![Corneal degenerations and opacity patterns](images/cornea_and_sclera__figure_08_cornea_degenerations_opacities.png)
-
+> **Diagram omitted:** Corneal degenerations and opacity patterns.
 *Representative arcus/band-shaped degeneration and schematic progression of corneal opacity.*
 
 ## Kayser–Fleischer ring
@@ -682,8 +672,7 @@ Other epithelial/anterior limiting layer disorders include **Reis–Bücklers** 
 
 Lattice dystrophy should be separated into subtypes: **type 1** is predominantly a localized corneal amyloidosis, whereas **type 2 (Meretoja type)** is associated with systemic amyloidosis.
 
-![Stromal corneal dystrophies](images/cornea_and_sclera__figure_10_stromal_dystrophies.png)
-
+> **Diagram omitted:** Stromal corneal dystrophies.
 *Clinical appearances of macular, granular and lattice stromal dystrophies.*
 
 **Schnyder central crystalline dystrophy** is associated with abnormal corneal lipid metabolism.
@@ -748,8 +737,7 @@ A donor cornea is ideally harvested promptly after death; a commonly quoted prac
 
 Earlier lamellar terminology also includes superficial anterior lamellar keratoplasty and deep endothelial/lamellar techniques.
 
-![Keratoplasty tissue planes](images/cornea_and_sclera__figure_05_keratoplasty_types.png)
-
+> **Diagram omitted:** Keratoplasty tissue planes.
 *Comparison of penetrating and lamellar corneal graft planes.*
 
 ### Corneal surgical entry points

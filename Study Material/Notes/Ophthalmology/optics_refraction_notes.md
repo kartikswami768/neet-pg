@@ -1,8 +1,8 @@
 ---
 title: "Optics and Refraction"
-subject: Ophthalmology
+subject: "Ophthalmology"
 topic: "Optics and Refraction"
-type: Notes
+type: "Notes"
 tags:
   - ophthalmology
   - optics
@@ -10,7 +10,6 @@ tags:
   - refractive-errors
   - retinoscopy
 ---
-
 # Optics and Refraction
 
 ## 1. Optics of the Eye
@@ -31,8 +30,7 @@ The eye behaves as a converging optical system. The **cornea contributes maximal
 
 Corneal power is approximately **+43 to +44 D**. In the Gullstrand schematic representation, the anterior corneal surface contributes **+48.83 D**, the posterior corneal surface **−5.88 D**, and the lens contributes approximately **+16 to +19 D** depending on the representation.
 
-![Refractive indices and schematic eye](images/optics_and_refraction__figure_16_eye_refractive_indices.png)
-
+> **Diagram omitted:** Refractive indices and schematic eye.
 ### Gullstrand schematic eye and Listing reduced eye
 
 **Purkinje images** arise from reflections at four refracting surfaces:
@@ -57,8 +55,7 @@ Corneal power is approximately **+43 to +44 D**. In the Gullstrand schematic rep
 - Nodal point = **7.08 mm** from the anterior corneal surface.
 - Focal point = **24.13 mm** from the anterior corneal surface.
 
-![Gullstrand schematic eye, Purkinje surfaces and Listing reduced eye](images/optics_and_refraction__figure_01_gullstrand_purkinje.png)
-
+> **Diagram omitted:** Gullstrand schematic eye, Purkinje surfaces and Listing reduced eye.
 ### Axes of the eye
 
 - **Anatomical/optical axis:** anatomical axis of the eye.
@@ -73,8 +70,7 @@ Corneal power is approximately **+43 to +44 D**. In the Gullstrand schematic rep
 - A large positive kappa is associated with pseudoexotropia and is seen in hypermetropia.
 - A large negative kappa is associated with pseudoesotropia and is seen in myopia.
 
-![Angle alpha, angle kappa and astigmatism classification](images/optics_and_refraction__figure_11_angles_and_astigmatism_classification.png)
-
+> **Diagram omitted:** Angle alpha, angle kappa and astigmatism classification.
 ## 2. Refractive Error: Terminology and Classification
 
 ### Basic terms
@@ -101,8 +97,7 @@ Clinically significant anisometropia is a difference of **>2.5 D** between the t
 
 **Second sight:** a previously presbyopic patient becomes able to read near objects without glasses. Nuclear cataract increases lens refractive index and produces **index myopia**, producing this apparent improvement in near vision.
 
-![Classification of refractive errors](images/optics_and_refraction__figure_02_refractive_error_classification.png)
-
+> **Diagram omitted:** Classification of refractive errors.
 ## 3. Myopia
 
 ### Optical basis
@@ -124,8 +119,7 @@ Clinically significant anisometropia is a difference of **>2.5 D** between the t
 
 Anterior lens displacement producing myopia is associated with **Weill–Marchesani syndrome**. Increased lens refractive index and index myopia are classically associated with **nuclear cataract**.
 
-![Myopia and hypermetropia comparison](images/optics_and_refraction__figure_03_myopia_hypermetropia_comparison.png)
-
+> **Diagram omitted:** Myopia and hypermetropia comparison.
 ### Pathological/degenerative myopia
 
 **Pathological/degenerative myopia: myopia >6 D or axial length >26 mm.**
@@ -172,8 +166,7 @@ When light passes through an astigmatic/toric surface, the two principal meridia
 
 When the vertical meridian is more strongly curved, it has greater power (**Vc > Hc; Vp > Hp**); vertical rays reach focus first and horizontal rays later.
 
-![Astigmatism and Sturm’s conoid](images/optics_and_refraction__figure_04_astigmatism_sturm_conoid.png)
-
+> **Diagram omitted:** Astigmatism and Sturm’s conoid.
 ### Regular and irregular astigmatism
 
 | Type | Principal meridians / foci | Typical cause |
@@ -231,8 +224,7 @@ For **−3 D sphere +2 D cylinder at 180°**:
 4. Both focal positions are therefore in front of the retina at different locations.
 5. The error is **compound myopic astigmatism**.
 
-![Astigmatism classification, focal types and example](images/optics_and_refraction__figure_17_astigmatism_classification.png)
-
+> **Diagram omitted:** Astigmatism classification, focal types and example.
 ## 6. Aphakia and Pseudophakia
 
 **Aphakia** = absence of the crystalline lens in its normal anatomical position. The most common cause is post-surgical aphakia after cataract surgery.
@@ -263,8 +255,7 @@ Aphakic spectacles commonly require powers of approximately **+10 to +14 D**. Hi
 - Chromatic aberration and altered colour perception through thick lenses.
 - Poor cosmetic appearance because of lens thickness.
 
-![Aphakia and its optical effects](images/optics_and_refraction__figure_19_aphakia_optics.png)
-
+> **Diagram omitted:** Aphakia and its optical effects.
 ### Phakic IOL / Implantable Collamer Lens
 
 A phakic IOL is placed behind the iris and over the natural crystalline lens, between iris and lens. It is used for high refractive errors or when corneal laser surgery is contraindicated. The minimum anterior chamber depth given for ICL surgery is **2.8 mm**. ICL is also listed for refractive power **>8 D**, with implantation in the **sulcus**.
@@ -283,8 +274,7 @@ Accommodation increases ocular power for near vision.
 
 Mechanism for near vision: **ciliary muscle contracts → ciliary ring narrows → zonules relax → lens becomes thicker/more convex → refractive power increases**.
 
-![Accommodation: far and near](images/optics_and_refraction__figure_07_accommodation.png)
-
+> **Diagram omitted:** Accommodation: far and near.
 ### Amplitude of accommodation
 
 The amplitude of accommodation is the difference between the accommodative/dioptric value at the near point (**proximum, P**) and that at the far point (**remotum, R**):
@@ -303,8 +293,7 @@ Therefore:
 
 **A = 5 − (−4) = 9 D**
 
-![Accommodation amplitude and retinoscopy calculation](images/optics_and_refraction__figure_13_accommodation_amplitude_and_retinoscopy.png)
-
+> **Diagram omitted:** Accommodation amplitude and retinoscopy calculation.
 ### Presbyopia
 
 - Physiological insufficiency of accommodation causing difficulty with near vision.
@@ -354,8 +343,7 @@ The pinhole eliminates peripheral rays and allows more central rays to reach the
 - Improvement in visual acuity with pinhole suggests **residual refractive error**.
 - Failure to improve suggests that reduced vision is not primarily due to uncorrected refractive error and raises the possibility of ocular/macular pathology.
 
-![Subjective refraction, JCC, duochrome and pinhole](images/optics_and_refraction__figure_10_subjective_refraction_and_accommodation.png)
-
+> **Diagram omitted:** Subjective refraction, JCC, duochrome and pinhole.
 ## 9. Optical Axes and Ophthalmoscopic Optics
 
 ### Indirect ophthalmoscopy
@@ -409,8 +397,7 @@ For cataract biometry:
 
 At **1 m**, neutralization corresponds to approximately **−1 D** because of the working-distance effect.
 
-![Retinoscopy reflex movement](images/optics_and_refraction__figure_18_retinoscopy_reflexes.png)
-
+> **Diagram omitted:** Retinoscopy reflex movement.
 ### Retinoscopy correction factors
 
 The corrected retinoscopic value is given as:
@@ -444,8 +431,7 @@ If retinoscopy gives **−5 D and −4 D** at a working distance of 2/3 m and a 
 - Change the axis by 90°: 180° → **90°**.
 - Final transposed form = **−7 D sphere / +1 D cylinder at 90°**.
 
-![Retinoscopy correction and transposition](images/optics_and_refraction__figure_14_retinoscopy_correction_and_transposition.png)
-
+> **Diagram omitted:** Retinoscopy correction and transposition.
 ### Retinoscopy instruments
 
 - Reflecting-mirror retinoscope.
@@ -465,8 +451,7 @@ Subjective refraction depends on the patient's visual response and follows objec
 2. Refine the **cylinder**.
 3. Refine the **sphere**.
 
-![Refraction workflow and spectacle prescriptions](images/optics_and_refraction__figure_05_refraction_workflow.png)
-
+> **Diagram omitted:** Refraction workflow and spectacle prescriptions.
 ### Spectacle lens patterns
 
 | Prescription | Refractive error |
@@ -493,8 +478,7 @@ JCC is used to refine cylinder power and axis.
 
 The cylinder is refined until the patient can see the fan axes clearly/equally.
 
-![JCC and astigmatic fan](images/optics_and_refraction__figure_06_retinoscopy_and_subjective_tests.png)
-
+> **Diagram omitted:** JCC and astigmatic fan.
 ### Refinement of sphere: duochrome test
 
 The duochrome test uses red and green halves to refine the spherical component.
@@ -511,7 +495,6 @@ A **1-mm pinhole** is used for refraction refinement.
 - VA decreases/does not improve → macular/ocular pathology is more likely.
 
 ## 13. Prism and Prismatic Clinical Optics
-
 
 
 ### Prism dioptre relationships used clinically
@@ -535,8 +518,7 @@ A **1-mm pinhole** is used for refraction refinement.
 
 With the patient fixating straight ahead, a base-out prism causes a conjugate movement of the eyes; the recovery movement is used to assess binocular function.
 
-![Prism base-out test](images/optics_and_refraction__figure_15_prism_base_out_test.png)
-
+> **Diagram omitted:** Prism base-out test.
 Prisms are also listed as an optical treatment step in squint after refractive correction, occlusion/orthoptic measures and before surgical correction.
 
 ## 14. Optical Aberrations and Distortion Mentioned
