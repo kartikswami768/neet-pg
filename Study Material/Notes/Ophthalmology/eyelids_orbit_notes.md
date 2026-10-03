@@ -39,27 +39,27 @@ The **orbital septum** extends from the tarsal plate to the orbital bone in both
 
 ---
 
-# 2. Eyelid Muscles
+## 2. Eyelid Muscles
 
-## Levator palpebrae superioris
+### Levator palpebrae superioris
 
 - Supplied by **cranial nerve III (oculomotor nerve)**.
 - Elevates the upper eyelid.
 - Dysfunction produces **ptosis**.
 
-## Müller’s muscle
+### Müller’s muscle
 
 - Receives **sympathetic nerve fibers**.
 - Contributes to upper eyelid elevation.
 - Important in ptosis associated with sympathetic dysfunction and in procedures such as the Fasanella–Servat operation.
 
-## Orbicularis oculi
+### Orbicularis oculi
 
 - Supplied by **cranial nerve VII (facial nerve)**.
 - Responsible for **eyelid closure**.
 - Paralysis causes **lagophthalmos**.
 
-### Blink / corneal reflex
+#### Blink / corneal reflex
 
 The corneal blink reflex uses:
 
@@ -70,7 +70,7 @@ Failure of eyelid closure exposes the cornea and may result in **exposure kerato
 
 ---
 
-# 3. Eyelid Glands
+## 3. Eyelid Glands
 
 ![Lid gland cross-section](images/HYP_246.png)
 | Gland | Type / location | Clinical relevance |
@@ -83,7 +83,7 @@ The Meibomian glands are arranged vertically; therefore, **chalazion incision is
 
 ---
 
-# 4. Eyelid Margin, Eyelashes and Related Structures
+## 4. Eyelid Margin, Eyelashes and Related Structures
 
 The gray line is the division between the anterior and posterior lamellae and is a key landmark in lid anatomy.
 
@@ -124,24 +124,24 @@ Misdirected eyelashes cause:
 
 ---
 
-# 5. Eyelid Inflammation and Infection
+## 5. Eyelid Inflammation and Infection
 
-## Blepharitis
+### Blepharitis
 
-### Squamous blepharitis
+#### Squamous blepharitis
 
 - Inflammation of the eyelid margins.
 - Typically affects both eyes and the edges of the eyelids.
 - Antibiotic-steroid combinations are used for treatment.
 
-### Ulcerative blepharitis
+#### Ulcerative blepharitis
 
 - Characterized by **matted, hard crusts around the eyelashes**.
 - Associated with **staphylococcal infection**.
 - Removal of crusts leaves small sores that may ooze or bleed.
 - Treatment described: **antibiotic ointment**.
 
-### Chronic blepharitis-related changes
+#### Chronic blepharitis-related changes
 
 - **Tylosis:** thickened lid margin.
 - **Poliosis:** greyish eyelashes.
@@ -156,9 +156,9 @@ Causes of madarosis listed include:
 
 ---
 
-## Hordeolum
+### Hordeolum
 
-### Hordeolum externum (stye)
+#### Hordeolum externum (stye)
 
 - **Suppurative inflammation of the gland of Zeis**.
 - Commonly associated with **Staphylococcus aureus**.
@@ -166,13 +166,13 @@ Causes of madarosis listed include:
 - Pus points at the **lid margin at the eyelash root**.
 - Treatment: **hot compresses**.
 
-### Hordeolum internum
+#### Hordeolum internum
 
 - Involves a **Meibomian gland within the tarsal plate**.
 - The gland orifice lies behind the eyelashes.
 - Pus points **away from the lid margin**, behind the eyelash line.
 
-## Chalazion
+### Chalazion
 
 - **Lipogranulomatous inflammation of a Meibomian gland**.
 - Typically a **painless, localized/nodular swelling away from the lid margin**.
@@ -180,7 +180,7 @@ Causes of madarosis listed include:
 - Incision is made **vertically** because Meibomian glands are arranged vertically.
 
 > **Diagram omitted:** Hordeolum and chalazion.
-### Chalazion vs external hordeolum
+#### Chalazion vs external hordeolum
 
 | Feature | Chalazion | Hordeolum externum |
 |---|---|---|
@@ -191,7 +191,7 @@ Causes of madarosis listed include:
 
 ---
 
-# 6. Ptosis
+### 6. Ptosis
 
 **Ptosis** is drooping of the upper eyelid. It may be **congenital or acquired**.
 
@@ -207,14 +207,14 @@ Acquired myogenic causes listed include **myasthenia gravis** and **Lambert–Ea
 
 The **most common type/feature emphasized is aponeurotic ptosis**.
 
-### Ptosis examination patterns
+#### Ptosis examination patterns
 
 - **Congenital ptosis:** absent upper eyelid crease, levator malinsertion, and lid lag.
 - **Aponeurotic ptosis:** typically a **high lid crease**.
 - A patient with a **strong lid-closure tendency after being asked to look up** may not be able to maintain upward gaze on the ptotic side.
 
 > **Diagram omitted:** Lagophthalmos, ptosis and blepharophimosis.
-## Congenital ptosis: surgical approach according to levator function
+#### Congenital ptosis: surgical approach according to levator function
 
 | Severity / levator function | Procedure |
 |---|---|
@@ -230,7 +230,7 @@ Important operative points:
 - Fasanella–Servat is a **tarsomullerectomy**, with removal of Müller’s muscle and tarsal plate; it was originally described for Horner syndrome.
 - A complication of sling surgery is **nocturnal lagophthalmos**, because the lid is attached to the brow.
 
-## Marcus Gunn jaw-winking ptosis
+#### Marcus Gunn jaw-winking ptosis
 
 - A **synkinetic ptosis** in which eyelid movement is linked to jaw movement.
 - Mouth opening is associated with lid opening; mouth closing with lid closure.
@@ -240,7 +240,7 @@ Important operative points:
 
 ---
 
-# 7. Blepharophimosis Syndrome
+### 7. Blepharophimosis Syndrome
 
 **Blepharophimosis syndrome** is described as an **autosomal dominant** condition associated with the **FOXL-2 gene**.
 
@@ -284,9 +284,9 @@ Lid retraction is a prominent feature of **thyroid eye disease** and widens the 
 
 ---
 
-# 9. Orbital Anatomy
+## 9. Orbital Anatomy
 
-## General architecture
+### General architecture
 
 - The orbit has **4 walls** and is described as **quadrilateral/pyramidal** in shape.
 - **Orbital capacity:** approximately **30 cc**.
@@ -295,7 +295,7 @@ Lid retraction is a prominent feature of **thyroid eye disease** and widens the 
 - The orbit is formed by **7 bones**.
 
 ![Orbital walls](images/HYP_224.jpg)
-### Walls
+#### Walls
 
 | Wall | Key point |
 |---|---|
@@ -308,13 +308,13 @@ The **posteromedial part of the orbital floor** is specifically identified as it
 
 A mnemonic used for the medial wall bones is **MALES**; the listed bones are **Maxillary, Lacrimal, Ethmoid and Sphenoid**.
 
-### Relationship to dacryocystorhinostomy
+#### Relationship to dacryocystorhinostomy
 
 Dacryocystorhinostomy (DCR) creates a communication between the lacrimal sac and nasal cavity and removes the **maxillary and lacrimal bones**, the upper two bones emphasized in the medial wall anatomy.
 
 ---
 
-# 10. Orbital Apex, Foramina and Annulus of Zinn
+## 10. Orbital Apex, Foramina and Annulus of Zinn
 
 The **superior orbital fissure** is described as vertical, whereas the **annulus of Zinn** is horizontal.
 
@@ -323,7 +323,7 @@ The **superior orbital fissure** is described as vertical, whereas the **annulus
 - Structures passing **inside the annulus** include the **two divisions of the oculomotor nerve, nasociliary nerve and abducens nerve**.
 
 > **Diagram omitted:** Orbit anatomy, foramina and proptosis.
-## Intraconal and extraconal spaces
+### Intraconal and extraconal spaces
 
 The local anaesthetic relationships are:
 
@@ -334,7 +334,7 @@ The **muscle cone** is clinically important in thyroid eye disease because enlar
 
 ---
 
-# 11. Orbital Contents and Extraocular Muscle Relationships
+## 11. Orbital Contents and Extraocular Muscle Relationships
 
 The orbit contains the globe, extraocular muscles, optic nerve, orbital nerves and vessels, orbital connective tissue, and lacrimal structures.
 
@@ -361,7 +361,7 @@ For the superior oblique, the mnemonic **SoLID** is:
 
 ---
 
-# 12. Orbital Nerves and Vascular Relationships
+## 12. Orbital Nerves and Vascular Relationships
 
 The orbit is closely related to cranial nerves III, IV, V1, V2 and VI, particularly at the apex and cavernous sinus.
 
@@ -374,7 +374,7 @@ Key orbital nerve relationships include:
 
 ---
 
-# 13. Orbital Septum, Preseptal and Postseptal Spaces
+### 13. Orbital Septum, Preseptal and Postseptal Spaces
 
 The orbital septum runs from the orbital rim/bone to the tarsal plate and separates:
 
@@ -386,7 +386,7 @@ This anatomical relationship is fundamental to distinguishing eyelid infection f
 > **Diagram omitted:** Preseptal versus orbital cellulitis.
 ---
 
-# 14. Lacrimal Gland and Lacrimal Sac Relationships
+#### 14. Lacrimal Gland and Lacrimal Sac Relationships
 
 - **Lacrimal gland:** located **superolaterally** in the orbit.
 - **Lacrimal sac:** located **inferomedially**.
@@ -395,7 +395,7 @@ Because a lacrimal gland mass arises in the superolateral orbit, it produces **n
 
 The lacrimal system and related operations are important orbital relationships:
 
-### Congenital nasolacrimal duct obstruction
+##### Congenital nasolacrimal duct obstruction
 
 | Age / stage | Management |
 |---|---|
@@ -405,7 +405,7 @@ The lacrimal system and related operations are important orbital relationships:
 
 Watering during the **first month of life** is described as pathological and attributed to **ophthalmia neonatorum**, rather than congenital nasolacrimal duct obstruction.
 
-### Dacryocystitis / lacrimal drainage procedures
+##### Dacryocystitis / lacrimal drainage procedures
 
 - **Acute dacryocystitis:** systemic antibiotics + warm compresses ± local incision and drainage if needed.
 - **Chronic disease:** repeated syringing → **DCR**.
@@ -418,7 +418,7 @@ Watering during the **first month of life** is described as pathological and att
 
 **Ocular embryology and congenital lid abnormalities** relevant to eyelids and orbit include:
 
-### Ocular developmental timeline
+## Ocular developmental timeline
 
 - Eye development begins from the **forebrain**.
 - The optic grooves develop into the **optic vesicles**.
@@ -428,7 +428,7 @@ Watering during the **first month of life** is described as pathological and att
 - The optic stalk contains the **choroid fissure**, which closes around the **6th–7th week**; failure of closure produces **coloboma**.
 - **PAX6** is identified as a key gene in eye development.
 
-### Tissue derivatives
+## Tissue derivatives
 
 **Surface ectoderm – SLEEK**
 
@@ -466,7 +466,7 @@ A clinical photograph of **lid coloboma** is included among the congenital ocula
 > **Diagram omitted:** Lid coloboma.
 ---
 
-# 16. Proptosis / Exophthalmos
+## 16. Proptosis / Exophthalmos
 
 **Proptosis** is defined as protrusion of the globe **>21 mm from the lateral orbital rim**. A **difference of >2 mm between the two eyes** is also considered abnormal.
 
@@ -495,7 +495,7 @@ A clinical photograph of **lid coloboma** is included among the congenital ocula
 
 ---
 
-# 17. Thyroid Eye Disease (Graves Ophthalmopathy)
+## 17. Thyroid Eye Disease (Graves Ophthalmopathy)
 
 Thyroid eye disease is an **antigen–antibody-mediated orbital disease** in which antibodies attack **orbital fibroblasts**, resulting in:
 
@@ -565,9 +565,9 @@ Orbital decompression creates additional orbital space by removing orbital wall;
 > **Diagram omitted:** Thyroid eye disease and orbital cellulitis.
 ---
 
-# 18. Orbital Cellulitis and Preseptal Cellulitis
+## 18. Orbital Cellulitis and Preseptal Cellulitis
 
-## Preseptal vs orbital cellulitis
+### Preseptal vs orbital cellulitis
 
 | Feature | Preseptal cellulitis | Orbital cellulitis |
 |---|---|---|
@@ -591,7 +591,7 @@ Treatment includes **intravenous antibiotics**, including coverage for aerobic a
 
 ---
 
-# 19. Cavernous Sinus Thrombosis, Orbital Apex Syndrome and Orbital Cellulitis
+## 19. Cavernous Sinus Thrombosis, Orbital Apex Syndrome and Orbital Cellulitis
 
 These conditions can be separated clinically by the cranial nerves involved, corneal sensation, visual loss and systemic findings.
 
@@ -639,10 +639,10 @@ Granulomatous idiopathic inflammation involving the **cavernous sinus**, togethe
 
 ---
 
-# 20. Orbital Tumours and Masses
+### 20. Orbital Tumours and Masses
 
 > **Diagram omitted:** Orbital tumours and vascular lesions.
-## Common orbital lesions / examination associations
+#### Common orbital lesions / examination associations
 
 | Lesion / tumour | Key association |
 |---|---|
@@ -656,24 +656,24 @@ Granulomatous idiopathic inflammation involving the **cavernous sinus**, togethe
 | **Neuroblastoma** | Most common orbital metastasis in children; also an important bilateral proptosis association |
 | **Plexiform neurofibroma** | Peripheral neural tumour of the orbit; associated with NF1 |
 
-### Optic nerve glioma
+##### Optic nerve glioma
 
 - More common in patients with **neurofibromatosis type 1**.
 - The pathology emphasized is **pilocytic astrocytoma**.
 - CT/MRI demonstrates **fusiform enlargement of the optic nerve**.
 
-### Meningioma
+##### Meningioma
 
 - Described as more common in **middle-aged women**.
 - **Opticociliary shunt** (temporal fullness) and **psammoma bodies** are characteristic associations.
 - Early optic nerve involvement may present with the signs of optic nerve disease before obvious proptosis; as tumour size increases, the globe may be displaced outward.
 
-### Orbital metastases
+##### Orbital metastases
 
 - Most common orbital metastasis in children: **neuroblastoma**.
 - Major primary sources of orbital metastases are listed as **breast (42%)** and **lung (11%)**, with lung associated with the most deaths in the table.
 
-### Lacrimal gland tumours
+##### Lacrimal gland tumours
 
 A lacrimal gland tumour produces **non-axial proptosis** and globe dystopia **downward and inward** because the lacrimal gland is situated superolaterally.
 
@@ -684,7 +684,7 @@ The most common malignant tumour is **adenoid cystic carcinoma**.
 The most dangerous malignant tumour is **adenoid cystic carcinoma**, particularly because of **perineural invasion**.
 
 ![Lacrimal gland tumour classification](images/HYP_253.png)
-### Lacrimal gland tumour classification
+##### Lacrimal gland tumour classification
 
 **Epithelial**
 
@@ -707,16 +707,16 @@ The most dangerous malignant tumour is **adenoid cystic carcinoma**, particularl
 
 ---
 
-# 21. Lid Tumours
+#### 21. Lid Tumours
 
 > **Diagram omitted:** Lid malignancy comparison.
-## Benign lid lesions
+##### Benign lid lesions
 
 - **Naevus:** pigmented mole.
 - **Dermolipoma / lipodermoid:** upper outer canthus; described mainly as a cosmetic concern and located far from the limbus.
 - **Xanthelasma palpebrarum:** yellowish fat deposits associated with **hypercholesterolaemia**.
 
-## Malignant lid tumours
+##### Malignant lid tumours
 
 | Tumour | Frequency / features |
 |---|---|
@@ -730,29 +730,29 @@ The lid involvement sequence for basal cell carcinoma is represented by the mnem
 
 ---
 
-# 22. Orbital Vascular Lesions
+#### 22. Orbital Vascular Lesions
 
-## Orbital varices
+##### Orbital varices
 
 - Cause **intermittent proptosis**.
 - Proptosis increases on **bending forward or with Valsalva manoeuvre**.
 - May have a **bag-of-worms** consistency.
 - **Phleboliths** may be seen on MRI.
 
-## Orbital lymphangioma
+##### Orbital lymphangioma
 
 - Proptosis may increase during an **upper respiratory tract infection**.
 
-## Capillary hemangioma
+##### Capillary hemangioma
 
 - Important paediatric orbital/periorbital tumour.
 - Proptosis may increase with **crying**.
 
-## Encephalocele
+##### Encephalocele
 
 - In infants, proptosis may increase with **crying/straining**.
 
-## Carotid-cavernous fistula
+##### Carotid-cavernous fistula
 
 - Classically **bilateral**.
 - Produces **pulsatile proptosis**.
@@ -764,16 +764,16 @@ The lid involvement sequence for basal cell carcinoma is represented by the mnem
 ![Hertel exophthalmometer](images/HYP_225.jpg)
 ---
 
-# 23. Orbital Trauma: Blowout Fracture
+#### 23. Orbital Trauma: Blowout Fracture
 
 The **floor of the orbit** is the classic site of a blowout fracture and is the weakest/shortest wall. The **posteromedial portion of the floor** is emphasized as particularly weak.
 
-### Mechanism
+##### Mechanism
 
 An object larger than the orbital rim, such as a **tennis ball or fist**, forces the globe posteriorly, increasing intraorbital pressure and fracturing the orbital floor.
 
 > **Diagram omitted:** Blowout fracture CT.
-### Clinical and imaging features
+##### Clinical and imaging features
 
 - **Herniation of orbital contents into the maxillary sinus**.
 - **Tear-drop sign** on X-ray/CT.
@@ -784,13 +784,13 @@ An object larger than the orbital rim, such as a **tennis ball or fist**, forces
 - Medial wall fractures may produce **orbital emphysema**.
 - The condition may be associated with **double diplopia** and infraorbital anaesthesia.
 
-### Surgical indication described
+##### Surgical indication described
 
 If there is **no improvement in diplopia and enophthalmos after approximately 10 days of medical treatment**, surgery is indicated because muscle may be entrapped at the fracture site.
 
 ---
 
-# 24. Proptosis Differential: Practical Pattern Recognition
+#### 24. Proptosis Differential: Practical Pattern Recognition
 
 | Pattern | Think of |
 |---|---|
@@ -807,11 +807,11 @@ If there is **no improvement in diplopia and enophthalmos after approximately 10
 
 ---
 
-# 25. Clinical Examination and Investigations
+#### 25. Clinical Examination and Investigations
 
-## Eyelid examination
+##### Eyelid examination
 
-### Ptosis
+###### Ptosis
 
 Assess:
 
@@ -819,17 +819,17 @@ Assess:
 - **Lid lag**
 - **Levator function**, because surgical procedure depends on it
 
-### Proptosis
+###### Proptosis
 
 - **Hertel exophthalmometer**: preferred/better option.
 - **Luedde exophthalmometer**: easier to use in children.
 - **>21 mm** protrusion or **>2 mm asymmetry** is abnormal.
 
-### Restrictive orbital disease
+###### Restrictive orbital disease
 
 **Forced duction testing** distinguishes a mechanical restrictive process such as fibrosis from a nerve palsy.
 
-### Orbital and lacrimal imaging / vascular investigation
+###### Orbital and lacrimal imaging / vascular investigation
 
 | Investigation | Major use described |
 |---|---|
@@ -841,13 +841,13 @@ Assess:
 
 ---
 
-# 26. Orbital and Eyelid Clinical Correlations
+##### 26. Orbital and Eyelid Clinical Correlations
 
-### Oculomotor nerve palsy
+###### Oculomotor nerve palsy
 
 Because the levator palpebrae superioris is supplied by CN III, a complete III nerve palsy produces **ptosis** in addition to ocular motor abnormalities.
 
-### Horner syndrome
+###### Horner syndrome
 
 The combination of these findings is characteristic:
 
@@ -857,7 +857,7 @@ The combination of these findings is characteristic:
 
 Enophthalmos is **not a true feature**; the apparent sinking of the eye is related to the palpebral changes.
 
-### Corneal protection
+###### Corneal protection
 
 - Corneal sensory input travels via CN V.
 - Orbicularis activation travels via CN VII.
@@ -865,9 +865,9 @@ Enophthalmos is **not a true feature**; the apparent sinking of the eye is relat
 
 ---
 
-# 27. Quick Comparative Tables for Revision
+##### 27. Quick Comparative Tables for Revision
 
-## Hordeolum vs chalazion
+###### Hordeolum vs chalazion
 
 | Feature | Hordeolum | Chalazion |
 |---|---|---|
@@ -877,7 +877,7 @@ Enophthalmos is **not a true feature**; the apparent sinking of the eye is relat
 | Margin relation | External: points at margin; internal: away from margin | Away from margin |
 | First-line treatment described | Hot compresses | Incision and curettage ± intralesional triamcinolone |
 
-## Preseptal vs orbital cellulitis
+###### Preseptal vs orbital cellulitis
 
 | Feature | Preseptal | Orbital |
 |---|---|---|
@@ -887,7 +887,7 @@ Enophthalmos is **not a true feature**; the apparent sinking of the eye is relat
 | Vision | Normal | May be affected |
 | Systemic symptoms | Usually absent | Usually present |
 
-## Ptosis surgery
+###### Ptosis surgery
 
 | Levator function | Procedure |
 |---|---|
@@ -895,7 +895,7 @@ Enophthalmos is **not a true feature**; the apparent sinking of the eye is relat
 | Fair | Levator resection |
 | Poor / atrophic | Frontalis sling |
 
-## Major orbital emergencies / syndromes
+###### Major orbital emergencies / syndromes
 
 | Condition | Hallmark |
 |---|---|
@@ -908,7 +908,7 @@ Enophthalmos is **not a true feature**; the apparent sinking of the eye is relat
 
 ---
 
-# 28. High-Yield Numbers and Facts
+##### 28. High-Yield Numbers and Facts
 
 - **Orbit capacity:** ~**30 cc**
 - **Abnormal proptosis:** **>21 mm** from the lateral orbital rim
@@ -926,9 +926,9 @@ Enophthalmos is **not a true feature**; the apparent sinking of the eye is relat
 
 ---
 
-# 29. Exam-Oriented Pattern Map
+##### 29. Exam-Oriented Pattern Map
 
-### Eyelid
+###### Eyelid
 
 **Ptosis** → identify the mechanism → check crease + lid lag + levator function → select Fasanella–Servat / levator resection / frontalis sling.
 
@@ -944,7 +944,7 @@ Enophthalmos is **not a true feature**; the apparent sinking of the eye is relat
 
 **Second row of lashes** → distichiasis → diathermy / cryotherapy.
 
-### Orbit
+###### Orbit
 
 **Proptosis** → measure with Hertel/Luedde → determine axial vs non-axial and dynamic vs fixed.
 
@@ -966,7 +966,7 @@ Enophthalmos is **not a true feature**; the apparent sinking of the eye is relat
 
 ---
 
-# 30. Consolidated Structural Summary
+##### 30. Consolidated Structural Summary
 
 The eyelid is an anteriorly mobile, skin-lined structure supported posteriorly by a fibrous tarsal plate and palpebral conjunctiva. Its gray line divides the anterior and posterior lamellae. Orbicularis oculi closes the lid, while levator palpebrae superioris and Müller’s muscle contribute to upper-lid elevation. The glands of the lid include Meibomian glands, Zeis glands and Moll glands. The orbital septum separates preseptal eyelid structures from the postseptal orbit, creating the anatomical basis for the distinction between preseptal and orbital cellulitis.
 
