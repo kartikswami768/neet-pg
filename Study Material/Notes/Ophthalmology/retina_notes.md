@@ -62,7 +62,7 @@ Peripheral retinal pathology is particularly important because peripheral retina
 
 ---
 
-## 2. Microscopic structure of the retina
+### 2. Microscopic structure of the retina
 
 The retina is arranged as **10 layers**, conventionally described from **inside to outside** as follows:
 
@@ -80,7 +80,7 @@ The retina is arranged as **10 layers**, conventionally described from **inside 
 | 10 | Retinal pigment epithelium (RPE) | Outermost retinal layer; major component of outer blood-retinal barrier |
 
 ![Retinal layers on OCT](images/E8_185.jpg)
-### Retinal neurons and glial cells
+#### Retinal neurons and glial cells
 
 The basic neuronal sequence is:
 
@@ -96,7 +96,7 @@ The **inner nuclear layer** contains the nuclei of bipolar, horizontal and amacr
 
 Light traverses the transparent retinal layers before reaching the photoreceptor outer segments, where the photochemical event is initiated. The RPE lies immediately adjacent to the photoreceptor outer segments and is essential for photoreceptor survival and metabolism.
 
-### Retinal pigment epithelium
+#### Retinal pigment epithelium
 
 The RPE:
 
@@ -107,7 +107,7 @@ The RPE:
 
 The source material specifically links RPE failure with retinitis pigmentosa and with disruption of the outer blood-retinal barrier in central serous retinopathy.
 
-### Retinal histological vascular pattern
+#### Retinal histological vascular pattern
 
 Two clinically important patterns of retinal vessels are described:
 
@@ -116,7 +116,7 @@ Two clinically important patterns of retinal vessels are described:
 
 This anatomic relationship explains the classic contrast between the hemorrhagic patterns of diabetes and hypertension.
 
-### Blood-retinal barrier
+#### Blood-retinal barrier
 
 The retina has two functionally important components of the blood-retinal barrier.
 
@@ -137,7 +137,7 @@ A useful pathological sequence is:
 
 This sequence underlies the progression of proliferative microangiopathic retinal disease.
 
-### Bruch membrane
+#### Bruch membrane
 
 **Bruch membrane** forms the interface between the RPE and choroid. It is particularly important in:
 
@@ -390,7 +390,7 @@ B-scan can identify:
 
 ERG is useful for **photoreceptor and generalized retinal dysfunction**, particularly hereditary retinal dystrophies.
 
-### Electrooculography
+#### Electrooculography
 
 **EOG** records the **standing potential of the outer retina**, reflecting the functional relationship between photoreceptors and the RPE.
 
@@ -402,14 +402,14 @@ The normal ratio is approximately **>1.85 (185%)** in the supplied teaching fram
 
 ---
 
-## 8. Diabetic retinopathy
+# 8. Diabetic retinopathy
 
 Diabetic retinopathy is a **retinal microangiopathy**. The major risk determinant is **duration of diabetes**; poor metabolic control and systemic vascular disease further increase risk.
 
 The pathophysiological sequence is dominated by endothelial injury, pericyte loss, blood-retinal barrier failure, retinal ischemia and VEGF-driven neovascularisation.
 
 ![Diabetic retinopathy with hemorrhages and cotton-wool spots](images/E8_209.jpg)
-### Risk factors and screening
+## Risk factors and screening
 
 - **Duration of diabetes**: most important risk factor emphasized.
 - Poor glycaemic control / elevated HbA1c.
@@ -425,7 +425,7 @@ Screening framework in the study material:
 | Type 2 diabetes | **At diagnosis** |
 | Gestational diabetes | **Fundus assessment during pregnancy; the source teaching framework specifies each trimester** |
 
-### Non-proliferative diabetic retinopathy
+## Non-proliferative diabetic retinopathy
 
 The earliest clinically visible lesion is the **microaneurysm**.
 
@@ -442,7 +442,7 @@ Major findings include:
 - Venous segmentation / sausage-link appearance
 - Macular edema
 
-### ETDRS-style severity: 4–2–1 rule
+## ETDRS-style severity: 4–2–1 rule
 
 | Severity | Key retinal findings |
 |---|---|
@@ -453,7 +453,7 @@ Major findings include:
 
 The **4–2–1 rule** is one of the most important examination patterns in diabetic retinopathy.
 
-### Proliferative diabetic retinopathy
+## Proliferative diabetic retinopathy
 
 The hallmark is **neovascularisation**.
 
@@ -465,7 +465,7 @@ The hallmark is **neovascularisation**.
 
 FFA demonstrates leakage from neovascular complexes and retinal areas of non-perfusion.
 
-### Panretinal photocoagulation
+## Panretinal photocoagulation
 
 **PRP** is the classic definitive laser treatment for proliferative disease.
 
@@ -473,7 +473,7 @@ Its fundamental effect is reduction of the ischemic retinal drive for VEGF-media
 
 The study material associates PRP with **532-nm frequency-doubled Nd:YAG laser** and, in older teaching frameworks, with argon green laser. The source also describes laser as a principal treatment for PDR, with anti-VEGF therapy used in appropriate cases.
 
-### Diabetic macular edema / clinically significant macular edema
+## Diabetic macular edema / clinically significant macular edema
 
 Macular edema may occur even in the absence of proliferative retinopathy.
 
@@ -499,13 +499,13 @@ A useful distinction is that **NPDR alone is not synonymous with an indication f
 
 ---
 
-## 9. Hypertensive retinopathy
+### 9. Hypertensive retinopathy
 
 Hypertension produces progressive retinal arteriolar narrowing and arteriovenous-crossing abnormalities, followed by retinal hemorrhage, exudation and, in severe disease, optic-disc edema/papilledema.
 
 Normal retinal artery:vein ratio is described as approximately **2:3**; with arteriolar narrowing it may become **1:3**.
 
-### Arteriovenous crossing signs
+#### Arteriovenous crossing signs
 
 | Sign | Finding |
 |---|---|
@@ -515,7 +515,7 @@ Normal retinal artery:vein ratio is described as approximately **2:3**; with art
 
 Hypertensive hemorrhages are classically **flame-shaped** because they occur in the superficial nerve-fibre layer.
 
-### Keith–Wagener pattern used in the notes
+#### Keith–Wagener pattern used in the notes
 
 | Grade | Retinal findings |
 |---:|---|
@@ -531,11 +531,11 @@ The distinction from diabetic retinopathy is particularly useful:
 
 ---
 
-## 10. Central retinal artery occlusion
+### 10. Central retinal artery occlusion
 
 **CRAO** presents with **sudden, profound, painless visual loss** and is an ophthalmic and neurologic emergency.
 
-### Fundus appearance
+#### Fundus appearance
 
 - Pale, opaque retina from acute ischemic edema.
 - **Cherry-red spot at the fovea** because the foveola has very little/no inner retinal tissue, allowing the underlying choroidal circulation to remain relatively visible through the central macula.
@@ -544,11 +544,11 @@ The distinction from diabetic retinopathy is particularly useful:
 - If a cilioretinal artery supplies the macula, part of the central field may be relatively spared.
 
 ![Cherry-red spot](images/E8_206.jpg)
-### Causes
+#### Causes
 
 The common clinical mechanism is **thromboembolic/atherothromboembolic retinal arterial occlusion**, with embolic disease and atherosclerotic vascular disease forming the major substrate.
 
-### Acute management
+#### Acute management
 
 Immediate management requires **urgent stroke-centre evaluation and systemic vascular assessment**.
 
@@ -561,7 +561,7 @@ Traditional ophthalmic measures listed in the study material include:
 
 These historical ocular interventions have not been shown to provide a reliably proven improvement in visual outcome, so they do not replace emergent stroke evaluation.
 
-### Cherry-red spot differential diagnosis
+#### Cherry-red spot differential diagnosis
 
 The important differential pattern includes:
 
@@ -580,19 +580,19 @@ The key imaging concept is that the **transparent foveola contrasts with the sur
 
 ---
 
-## 11. Central and branch retinal vein occlusion
+### 11. Central and branch retinal vein occlusion
 
-### CRVO
+#### CRVO
 
 Retinal venous occlusion causes venous congestion, retinal hemorrhage, edema and variable ischemia.
 
-#### Non-ischemic CRVO
+##### Non-ischemic CRVO
 
 - Relative stasis and venous dilatation
 - Increased vascular permeability
 - **Macular edema** is an important cause of visual loss
 
-#### Ischemic CRVO
+##### Ischemic CRVO
 
 - More severe retinal hypoperfusion
 - Marked retinal hemorrhage
@@ -603,13 +603,13 @@ Retinal venous occlusion causes venous congestion, retinal hemorrhage, edema and
 - Risk of **neovascular glaucoma**, classically described as **90–100 day glaucoma**
 
 ![Central retinal vein occlusion](images/E8_214.jpg)
-### Treatment principles
+#### Treatment principles
 
 - Treat **macular edema** when present, commonly with intravitreal anti-VEGF therapy; intravitreal corticosteroid therapy is also used in selected patients.
 - Ischemic CRVO with anterior-segment neovascularisation requires management of the ischemic drive and **panretinal photocoagulation** when indicated.
 - The study material specifically lists intravitreal triamcinolone in non-ischemic disease and PRP in ischemic disease.
 
-### BRVO
+#### BRVO
 
 **Branch retinal vein occlusion** usually produces sectoral retinal involvement. The **superotemporal quadrant** is emphasized as the most commonly affected branch distribution.
 
@@ -617,27 +617,27 @@ FFA may show delayed/blocked perfusion, leakage and macular edema.
 
 ---
 
-## 12. Retinal vasculitis and posterior inflammatory retinal disease
+### 12. Retinal vasculitis and posterior inflammatory retinal disease
 
 Retinal vascular inflammation commonly presents as **periphlebitis**, vascular sheathing, hemorrhage, macular edema or vitreous inflammatory cells.
 
-### Eales disease
+#### Eales disease
 
 Eales disease is an important cause of **recurrent vitreous hemorrhage** in the study material. It belongs to the broader group of retinal vasculopathic/inflammatory disorders and may progress through peripheral retinal ischemia, neovascularisation and vitreous hemorrhage.
 
-### Sarcoidosis
+#### Sarcoidosis
 
 Sarcoid retinal vasculitis can produce **periphlebitis** with the characteristic **candle-wax dripping** appearance—yellow-white inflammatory sheathing along retinal veins.
 
 ![Retinal vasculitis: perivascular/candle-wax pattern](images/E8_214.jpg)
-### Toxoplasma retinochoroiditis
+#### Toxoplasma retinochoroiditis
 
 - Typically involves the posterior pole, including the foveal or juxtafoveal region.
 - Active lesion: **“headlight in the fog”**—a bright retinitis focus with overlying vitreous haze.
 - Healed lesion: **punched-out chorioretinal scar**.
 - Clindamycin is listed as treatment, with corticosteroid cover because severe inflammatory reactions can accompany organism death.
 
-### Vogt–Koyanagi–Harada disease
+#### Vogt–Koyanagi–Harada disease
 
 VKH produces **pan-uveitis with exudative retinal detachment**, often with a bullous/serous appearance.
 
@@ -652,7 +652,7 @@ Associated features include:
 
 Steroids are the major treatment principle.
 
-### Sympathetic ophthalmia
+#### Sympathetic ophthalmia
 
 - Trigger: **penetrating ocular trauma**.
 - Mechanism: release of previously sequestered uveal antigens and bilateral granulomatous autoimmune inflammation.
@@ -665,11 +665,11 @@ Steroids are the major treatment principle.
 
 ---
 
-## 13. Macular disorders
+### 13. Macular disorders
 
 The macula is the site of the highest visual acuity and is dominated functionally by cone-mediated vision.
 
-### Macular function tests
+#### Macular function tests
 
 **Amsler grid**
 
@@ -684,12 +684,12 @@ The macula is the site of the highest visual acuity and is dominated functionall
 - Delayed photostress recovery supports a macular lesion.
 - Relatively normal photostress recovery despite reduced acuity points toward optic-nerve disease.
 
-### Cystoid macular edema
+#### Cystoid macular edema
 
 CME is an accumulation of cyst-like intraretinal fluid spaces, classically in the **outer plexiform layer (Henle layer)** in the supplied teaching framework.
 
 ![Cystoid macular edema on OCT](images/E8_199.jpg)
-#### Causes / associations — RUN PRIDE
+##### Causes / associations — RUN PRIDE
 
 - **R** — Retinitis pigmentosa
 - **U** — Uveitis
@@ -700,32 +700,32 @@ CME is an accumulation of cyst-like intraretinal fluid spaces, classically in th
 - **D** — Diabetic retinopathy
 - **E** — Epinephrine, especially in aphakia
 
-#### Irvine–Gass syndrome
+##### Irvine–Gass syndrome
 
 - Pseudophakic CME following cataract surgery.
 - Classically described around **6 weeks** after otherwise uncomplicated cataract surgery.
 - More common with uveitis and uncontrolled diabetes.
 
-#### Investigations
+##### Investigations
 
 **OCT**: multiple intraretinal cystoid spaces and retinal thickening.
 
 **FFA**: characteristic **petaloid/flower-petal leakage** because the macular OPL/Henle layer is arranged radially.
 
 ![Petaloid fluorescein leakage in CME](images/E8_207.jpg)
-#### Treatment principles
+##### Treatment principles
 
 - Topical or periocular **NSAIDs** in appropriate postoperative CME.
 - Corticosteroids.
 - Intravitreal anti-VEGF in selected etiologies such as diabetic or vascular macular edema.
 - Treat the underlying inflammatory or vascular disorder.
 
-### Central serous retinopathy/chorioretinopathy
+#### Central serous retinopathy/chorioretinopathy
 
 Central serous retinopathy (**CSR/CSCR**) is produced by dysfunction of the **RPE/outer blood-retinal barrier**, allowing **subretinal fluid** to accumulate.
 
 ![Central serous retinopathy on OCT](images/E8_202.jpg)
-#### Clinical pattern
+##### Clinical pattern
 
 - Metamorphopsia / distorted central vision.
 - Shallow serous detachment at the posterior pole.
@@ -734,7 +734,7 @@ Central serous retinopathy (**CSR/CSCR**) is produced by dysfunction of the **RP
 - Young males are emphasized; the scanned material gives a male:female ratio of approximately **3:1**.
 
 ![Central serous FFA](images/E8_182.png)
-#### Imaging
+##### Imaging
 
 **OCT**
 
@@ -748,7 +748,7 @@ Central serous retinopathy (**CSR/CSCR**) is produced by dysfunction of the **RP
 - Umbrella/mushroom descriptions are also used for the focal leak.
 
 > **Diagram omitted:** CSR fundus appearance.
-#### Treatment
+##### Treatment
 
 - Most acute cases are **self-limiting**.
 - Remove/avoid precipitating factors, particularly corticosteroids when clinically feasible.
@@ -756,11 +756,11 @@ Central serous retinopathy (**CSR/CSCR**) is produced by dysfunction of the **RP
 - Focal laser photocoagulation can be used for a suitable focal leak.
 - Corticosteroids are **contraindicated as treatment for CSR because they may aggravate the disease**.
 
-### Age-related macular degeneration
+#### Age-related macular degeneration
 
 ARMD is divided into **dry/non-exudative** and **wet/exudative/neovascular** forms.
 
-#### Dry ARMD
+##### Dry ARMD
 
 The progression is framed as:
 
@@ -777,7 +777,7 @@ Management principles in the supplied material include:
 - Nutritional antioxidant supplementation in appropriate patients; agents named include **lutein and zeaxanthin** (with astaxanthin also mentioned in the study material).
 - Observation in non-neovascular disease.
 
-#### Wet ARMD
+##### Wet ARMD
 
 Wet disease is characterised by **choroidal neovascularisation (CNV)** and leakage/hemorrhage.
 
@@ -797,14 +797,14 @@ Treatment is predominantly **intravitreal anti-VEGF therapy**. The source lists 
 
 ---
 
-## 14. Hereditary retinal dystrophies
+#### 14. Hereditary retinal dystrophies
 
-### Retinitis pigmentosa
+##### Retinitis pigmentosa
 
 Retinitis pigmentosa is primarily a **rod-cone dystrophy** with progressive rod dysfunction followed by broader photoreceptor loss.
 
 ![Retinitis pigmentosa: bone-spicule pigmentation](images/E8_204.jpg)
-#### Clinical features
+###### Clinical features
 
 - **Nyctalopia** is a classic early symptom because rods are affected first.
 - Progressive peripheral visual-field loss.
@@ -812,13 +812,13 @@ Retinitis pigmentosa is primarily a **rod-cone dystrophy** with progressive rod 
 - Advanced disease may produce **tubular/tunnel vision**.
 - Bilateral disease.
 
-#### Fundus triad
+###### Fundus triad
 
 1. **Bony-spicule pigmentation**, predominantly peripheral.
 2. **Attenuation of retinal arterioles**.
 3. **Waxy pallor of the optic disc**.
 
-#### Inheritance
+###### Inheritance
 
 - Sporadic cases are emphasized as most common overall.
 - Among inherited forms, **autosomal recessive** disease is the commonest pattern in the teaching material.
@@ -826,23 +826,23 @@ Retinitis pigmentosa is primarily a **rod-cone dystrophy** with progressive rod 
 - X-linked recessive disease is less common but has the worst prognosis among the listed inheritance patterns.
 - No X-linked dominant form is emphasized.
 
-#### Associated syndromes
+###### Associated syndromes
 
 **Usher syndrome** is highlighted as an important systemic association: retinitis pigmentosa with sensorineural deafness.
 
 Lawrence–Moon–Bardet/Biedl spectrum is also mentioned in association with RP.
 
-#### Inverse retinitis pigmentosa
+###### Inverse retinitis pigmentosa
 
 In inverse RP, the pericentric/central retina is affected first rather than the classical peripheral-predominant pattern.
 
-#### Investigation
+###### Investigation
 
 ERG demonstrates generalized rod-cone dysfunction with reduction in the a- and b-wave responses; the supplied material emphasises the marked reduction of retinal electrical activity.
 
 Treatment is primarily supportive; genetic counselling is important, and no definitive treatment is presented in the supplied exam notes.
 
-### Stargardt disease
+##### Stargardt disease
 
 Stargardt disease is a **juvenile macular dystrophy**, associated classically with **ABCA4** and an **autosomal recessive** inheritance pattern. In the scanned teaching material, visual acuity may fall below **6/60 even in early disease**.
 
@@ -856,7 +856,7 @@ Features emphasized:
 - Early visual acuity may already be markedly reduced.
 
 > **Diagram omitted:** Stargardt macular dystrophy and dark choroid pattern.
-### Dark/silent choroid sign
+##### Dark/silent choroid sign
 
 FFA in Stargardt disease shows the classic **dark/silent choroid** because accumulated lipofuscin in the RPE reduces visualization of the underlying choroidal fluorescence.
 
@@ -864,7 +864,7 @@ Fundus autofluorescence is useful because **no intravenous dye is required**; li
 
 EOG may be abnormal in the teaching material, with a reduced **Arden ratio** compared with the normal value of approximately 1.85.
 
-### Best vitelliform macular dystrophy
+##### Best vitelliform macular dystrophy
 
 Best disease is an **autosomal dominant** RPE-associated macular dystrophy.
 
@@ -886,17 +886,17 @@ The notes associate the lesion with **lipofuscin** and caution that vitamin A ma
 
 ---
 
-## 15. Retinal trauma and traumatic retinal changes
+# 15. Retinal trauma and traumatic retinal changes
 
 Blunt ocular trauma can produce several characteristic retinal appearances.
 
-### Commotio retinae / Berlin edema
+## Commotio retinae / Berlin edema
 
 - Retinal whitening or a **pale/grey fundus** after blunt trauma.
 - Mechanism relates to traumatic disruption and edema of the outer retina/RPE-photoreceptor complex.
 - A traumatic **cherry-red spot** can also occur because the foveola lacks the inner retinal layers that become opaque around it.
 
-### Retinal detachment after trauma
+## Retinal detachment after trauma
 
 Trauma can produce:
 
@@ -906,7 +906,7 @@ Trauma can produce:
 - Vitreous hemorrhage.
 - Traumatic optic neuropathy with subsequent primary optic atrophy.
 
-### Retinal changes of pathological myopia
+## Retinal changes of pathological myopia
 
 Pathological myopia is associated with stretching of the posterior eye and progressive chorioretinal change.
 
@@ -1019,7 +1019,7 @@ An expandable intraocular gas bubble (**C3F8 or SF6**) apposes the detached reti
 
 Removes vitreous traction and permits internal retinal manipulation, endolaser and tamponade. Silicone oil can be used in complex cases, especially tractional and recurrent detachments.
 
-### Silicone oil in the anterior chamber
+#### Silicone oil in the anterior chamber
 
 Because silicone oil is lighter than aqueous, it can move anteriorly and collect in the anterior chamber, producing an **inverse hypopyon/hyperpyon** appearance.
 
@@ -1104,9 +1104,9 @@ The teaching material gives threshold disease as:
 
 ---
 
-## 19. Retinal tumors
+#### 19. Retinal tumors
 
-### Retinoblastoma
+##### Retinoblastoma
 
 Retinoblastoma is the major pediatric intraocular tumor discussed in the retinal material.
 
@@ -1123,7 +1123,7 @@ Other presentations include:
 
 The typical age at presentation in the scanned material is approximately **18 months**.
 
-### Genetics
+##### Genetics
 
 - **RB1 gene** on **chromosome 13q14**.
 - Pathogenesis follows the **Knudson two-hit hypothesis**.
@@ -1131,21 +1131,21 @@ The typical age at presentation in the scanned material is approximately **18 mo
 - The supplied material describes **trilateral retinoblastoma** as bilateral retinoblastoma with a pineal tumor/pinealoblastoma.
 - **Osteosarcoma** is emphasized as the important second malignancy.
 
-### Histology
+##### Histology
 
 > **Diagram omitted:** Retinoblastoma histology.
 - **Flexner–Wintersteiner rosettes**: differentiated tumor cells arranged around a central lumen.
 - **Homer Wright pseudorosettes**: no true central lumen.
 - **Fleurettes** represent photoreceptor differentiation.
 
-### Spread and investigation
+##### Spread and investigation
 
 - The principal route of local extension emphasised is **direct spread through the optic nerve**.
 - **CT/X-ray** can demonstrate calcification and is used in diagnosis.
 - Biopsy demonstrates the characteristic rosettes and fleurettes, although diagnosis and treatment planning are generally based on clinical/imaging findings rather than routine biopsy of an accessible intraocular tumor.
 - The supplied exam material describes **enucleation** as the definitive treatment for advanced/unfavourable disease.
 
-### International grouping described in the teaching material
+##### International grouping described in the teaching material
 
 | Group | Pattern |
 |---|---|
@@ -1157,7 +1157,7 @@ The typical age at presentation in the scanned material is approximately **18 mo
 
 ---
 
-## 20. Retinal imaging patterns worth memorising
+# 20. Retinal imaging patterns worth memorising
 
 | Condition | Fundus / FFA / OCT pattern |
 |---|---|
