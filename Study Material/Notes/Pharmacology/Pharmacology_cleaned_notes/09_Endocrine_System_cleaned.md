@@ -825,6 +825,7 @@ Major pituitary action:
 ##### Variceal-bleeding pearl
 - **terlipressin as DOC** for bleeding esophageal varices.
 - Octreotide is also commonly used as part of variceal hemorrhage management to reduce splanchnic blood flow.
+>You can confuse Terlipressin as vasopressin analogue
 #### 43. Pegvisomant
 ##### Mechanism
 - **Growth hormone receptor antagonist.**

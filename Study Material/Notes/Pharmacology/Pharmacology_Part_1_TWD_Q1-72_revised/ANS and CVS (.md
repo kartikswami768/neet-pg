@@ -8,6 +8,12 @@
 ### No need to read
 α agonist
 
+
+## Patterns of CNS
+1. CHF
+2. arrhytmia (emergency only and most commonly used)
+3. anti htn
+4. pulmonary hypertension (only for INICET)
 ## CVS
 ### Cardiac Arrest
 1. Shockable

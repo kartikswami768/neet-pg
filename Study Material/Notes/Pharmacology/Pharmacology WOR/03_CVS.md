@@ -30,12 +30,12 @@ General principle:
 
 ##### Class IA
 Drugs:
-- Quinidine
+- ==Quinidine==
 - Procainamide
 - Disopyramide
 
 Effects:
-- Moderate Na⁺ blockade
+- Moderate Na⁺ blockade 
 - Increased action-potential duration, Effective Refractory Period, and QT duration
 
 Uses:
@@ -58,7 +58,7 @@ Drugs:
 - Mexiletine
 
 Effects:
-- Weak Na⁺ blockade
+- Weak Na⁺ blockade → Prolong the ==inactive state of Na⁺ Channel.==
 - Shortens AP duration
 - ==Preferentially affects ischemic/depolarized ventricular/Purkinje tissue==
 
@@ -73,7 +73,7 @@ Adverse effects:
   <div style="font-size:0.82em; opacity:0.68; margin-top:0.45em;"><em>First Aid for the USMLE Step 1 (2025) — PDF p. 347</em></div>
 
 
-##### Class IC
+##### Class IC (Not usually asked in Exams)
 Drugs:
 - Flecainide
 - Propafenone
@@ -279,8 +279,9 @@ Adverse effects:
 **Chronic management:**
 #### Rate
 Aim: block AV node (to maintain ventricular rate <100/min).
-- β-blocker (DOC).
+- β-blocker.
 - CCB: Non-DHP like Diltiazem (in COPD, asthma).
+	- Virapamil for Rate control (DOC) → Prevention of PSVT
 - Digoxin (especially in HFrEF)
 ##### Patients:
 1. older patients

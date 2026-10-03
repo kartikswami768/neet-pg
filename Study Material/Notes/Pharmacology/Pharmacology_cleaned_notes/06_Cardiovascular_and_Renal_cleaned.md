@@ -69,23 +69,33 @@ Major diuretic classes by nephron site:
 - IV **20% osmolar solution**.
 #### Mechanism
 - Raises plasma osmolality.
-- Pulls water from tissues into the intravascular space.
-- Reduces:
- - CSF production → lowers ICP
- - Aqueous humor production → lowers IOP
+- Pulls water from tissues into the intravascular space → Trap water their in vessels
+	- Reduces:
+	- CSF production → lowers ICP
+	- Aqueous humor production → lowers IOP
 #### Clinical uses
 ##### Cerebral edema / raised intracranial pressure
 - Mannitol is used to lower CSF volume and intracranial pressure.
 - Decreases CSF volume and intracranial pressure.
+>Not to be given in case of active bleed
+>Can be used with Concussion because edema in that case is due to inflammation
+>In case of Hemorrhage we don't give mannitol.
 ##### Acute glaucoma
 - Reduces intraocular pressure by osmotic dehydration of the eye.
+- Not 1st line because it is very strong and cause constriction of eyeball itself
 ##### Dialysis disequilibrium syndrome
 - Maintains plasma osmolality and may reduce the risk of cerebral edema in dialysis disequilibrium.
+##### Early Stage CKD
+can be used
+Not used otherwise. 
 #### Contraindications / major cautions
-- Heart failure
- - Increased intravascular volume can worsen preload/congestion.
+- Heart failure/Pulmonary Edema
+	- Increased intravascular volume can worsen preload/congestion.
 - Renal failure/anuria
- - Inability to excrete the osmotic load can worsen volume status.
+	- Inability to excrete the osmotic load can worsen volume status.
+- Not to be given in case of active bleed
+	- it will leak out with bleed and take water with it their
+	- So if 
 - “Mannitol excretes metals”
 - “Lithium toxicity (treatment of choice)”
 - “Cisplatin toxicity”
@@ -453,7 +463,7 @@ This is a classic high-risk situation, not an instruction to label every renal a
 #### ACEI-specific adverse effects
 ACE inhibition reduces bradykinin breakdown.
 Therefore:
-- **Dry cough** - common
+- **Dry cough** - common → switch to ARB
 - **Angioedema** - uncommon but potentially life-threatening
 Management of significant ACEI-associated angioedema:
 - Stop ACE inhibitor.
@@ -478,17 +488,25 @@ Do **not** routinely combine ACEI + ARB.
 #### Finerenone
 - Nonsteroidal MRA.
 - Particularly relevant to type 2 diabetes + CKD with albuminuria when potassium and eGFR criteria are appropriate.
-### 5.4 Special Properties of Selected ARBs
-#### Losartan
+##### 5.4 Special Properties of Selected ARBs
+###### Losartan
 - Lowers uric acid.
-- The **uric-acid-lowering effect** is a recognized distinguishing property of losartan.
-#### Telmisartan
+	- Increase elimination of Uric acid
+	- Inhibit Uric acid Tronsporter Protein 1
+- antiplatelet
+	- Decrease Thromboxane A2 receptor
+	- can be used in Stroke
+###### Telmisartan
+- Only ARB totally metabolized by liver. 
+- can be given in CKD
 - Partial **PPAR-gamma agonist** activity.
 - May improve insulin sensitivity.
-This pharmacologic distinction is recognized, although it does not make telmisartan a substitute for a dedicated insulin-sensitizing drug.
-#### Olmesartan
-- Risk of sprue-like enteropathy / chronic diarrhea.
+> A very good drug for Diabetic Nephropathy
+###### Olmesartan
+- ==Risk of sprue-like enteropathy / chronic diarrhea.== And that is why it is not used nowadays
 Olmesartan-associated sprue-like enteropathy is a recognized adverse effect.
+###### Disinosartan & Candesartan
+Recently approved for Migraine Prophylaxis
 ## 6. CALCIUM CHANNEL BLOCKERS (CCBs)
 ### Mechanism
 Block **L-type calcium channels** in vascular smooth muscle and/or myocardium.
@@ -506,6 +524,12 @@ Block **L-type calcium channels** in vascular smooth muscle and/or myocardium.
 - Slow AV-node conduction.
 - Reduce heart rate.
 - Also produce some vasodilation.
+
+- most common side effect → Constipation
+- Contraindicated in Heart Failure/Blocker
+- DOC in cluster Headache
+- 2nd DOC in PSVT/SVT
+
 ### 6.2 Clinical Applications
 #### Verapamil
 - Used for supraventricular tachycardias.
@@ -517,15 +541,32 @@ Key point: reduced heart rate and oxygen demand.
 #### DHP CCBs
 - Common first-line BP-lowering agents.
 - Amlodipine has a long oral duration.
-#### Nicardipine
+###### Nicardipine
 - IV drug for severe hypertension.
 - IV nicardipine is a titratable option for hypertensive emergency; choice depends on the acute target-organ injury.
 IV nicardipine is a widely used titratable agent for hypertensive emergency, but the choice should match the organ injury (e.g., aortic dissection, acute coronary syndrome, pulmonary edema, stroke) and local protocol.
-#### Nimodipine
+###### Nimodipine
 - Crosses the BBB.
-- Used in subarachnoid hemorrhage.
+- Used in ==subarachnoid hemorrhage.== (DOC)
 - Nimodipine reduces the risk of delayed cerebral ischemia and poor neurologic outcome after aneurysmal subarachnoid hemorrhage.
 In aneurysmal subarachnoid hemorrhage, nimodipine is used to reduce the risk of **delayed cerebral ischemia and poor neurologic outcome**. It is not best described simply as a generic “vasospasm-prevention” drug.
+###### Nifedipine
+DOC for Female for Tocolysis
+
+###### Cilinidipine
+L type calcium channel blocker > N type
+decrease sympathetic outflow
+Do not cause Reflex Tachycardia
+
+###### Clevidipine
+Shortest acting CCB
+iv → 2nd DOC in HTN crisis
+SIde Effect → Protein in vial → anaphylaxis
+
+###### Amlodipine
+Longest acting CCB
+Slow action → No reflex Tachycardia
+
 ### 6.3 Key Adverse Effects
 #### Non-DHP
 - Bradycardia
@@ -1221,8 +1262,8 @@ Mnemonic: **Leave PMT**
 ##### Mechanism
 - Na+ channel blockade.
 - Lidocaine:
- - IV.
- - Used for ventricular arrhythmias.
+	- IV.
+	- Used for ventricular arrhythmias post MI
 - Perioral numbness due to local-anesthetic-type Na+ channel blockade.
 Class IB drugs are best understood as **Na+ channel blockers with relatively little K+ blockade** and a tendency to **shorten or minimally affect ventricular action-potential duration**, especially in ischemic/depolarized tissue.
 ##### Lignocaine toxicity
@@ -1317,7 +1358,7 @@ Vernakalant is an atrial-selective antiarrhythmic used for pharmacological cardi
 ###### Electrophysiology
 - Prolongs repolarization/action-potential duration.
 - Prolongs QT.
-- “Most effective anti-arrhythmic drug.”
+- ==“Most effective anti-arrhythmic drug.”==
 ##### 26.2 Iodine Content
 - About **37% iodine by weight**.
 Clinical consequence:

@@ -331,7 +331,8 @@ A 45-year-old male with a history of congestive heart failure (CHF) is brought t
 **D** - History of closed-angle glaucoma
 
 #### Discussion
-
+Answer is Pre-existing Pulmonary edema
+Because Mannitol increase Plasma Volume initially at least. it is used to decrease tissue fluid not body fluid. 
 
 ### Question 20
 
@@ -348,7 +349,7 @@ A 65-year-old woman has been taking an antihypertensive drug for the past year. 
 Not marked
 
 #### Discussion
-
+Olmesartan. cases like this is reason why it is not used nowadays
 
 ### Question 21
 
@@ -365,11 +366,16 @@ Which of the following pharmacokinetic/pharmacodynamic (PK/PD) statements regard
 Not marked
 
 #### Discussion
+>To be added into notes
 
+All ACE i are eleminated by Kidney
+All ARB are eliminated by both kidney and liver except Telmi
+All ACE/ARB are prodrugs except captopril/Lisinopril
+Answer is D
 
 ### Question 22
 
-A 55-year-old female is admitted to the neuro-ICU after a confirmed subarachnoid haemorrhage (SAH) due to a ruptured berry aneurysm. She is scheduled for oral nimodipine every 4 hours. Which of the following is the primary clinical rationale for using nimodipine in this patient?
+A 55-year-old female is admitted to the neuro-ICU after a confirmed subarachnoid haemorrhage (SAH) due to a ruptured berry aneurysm. She is scheduled for oral ==nimodipine== every 4 hours. Which of the following is the primary clinical rationale for using nimodipine in this patient?
 
 
 - a. It has a higher affinity for peripheral L- type calcium channels, reducing systemic blood pressure.
@@ -382,7 +388,9 @@ A 55-year-old female is admitted to the neuro-ICU after a confirmed subarachnoid
 Not marked
 
 #### Discussion
-
+Answer is B
+it is vasodilator and can reduce ischemia
+Nimodipine > Nicardipine
 
 ### Question 23
 
@@ -399,6 +407,14 @@ Which of the following antianginal drugs is a late sodium current inhibitor and 
 **D** - Ivabradine
 
 #### Discussion
+answer is Ranolazien
+-lazi- → Lazy → late
+It belongs to class Id
+
+Fasudil → Rho kinase inhibitor
+Trimetazidine → PFOX inhibitor → Metabolic shifter
+Ivabradine → If (Funny Current) Blocker
+Nicorandil → Potassium opener
 
 
 ### Question 24
@@ -416,6 +432,7 @@ A 60-year-old patient develops ventricular tachycardia following an acute myocar
 **B** - Lidocaine
 
 #### Discussion
+answer is Lidocaine
 
 
 ### Question 25
