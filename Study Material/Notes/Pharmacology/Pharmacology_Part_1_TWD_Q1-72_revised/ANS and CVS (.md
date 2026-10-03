@@ -199,3 +199,68 @@ Calcium Channels in Nerve Ending → N/T type
 **DOC in MG is:** Pyridostigmine
 2nd line → Immunosuppresants (Steroids are generally avoided due to chance of muscle atrophy)
 	Azathioprine, Mycophenolate, cyclosporine
+
+#### Lambort Eaton Syndrome
+Acetylcholine is not able to be released
+Potassium Channel inhibitor → Amifampridine → if non responsive → Pyridostigmine
+
+### Glaucome
+1. Latanoprost
+	1. Prostaglandin
+	2. increase inflammation
+	3. work by outflow clearance
+	4. Side Effects:
+		1. LA: Lashes Length
+		2. TAN: Tanning of Iris
+		3. O: Oedema (Macula)
+		4. PRO: Proinflammatory
+		5. S: Sulcus deep
+#### Closed Angle
+Acute presentation is quite possible
+	- **DOC: Systemic Medicine → Acetazolamide**
+	- Mannitol has risk of constriction of eyeball → so it is given in refractory cases
+	- **Eye drop started along with Acetazolamide** → Pilocarpine → DOC according to Ophtha
+	- Both are started together (one iv, one ED)
+	- If relieved → Surgery → problem is solved now → will probably not cause problem now → Discharge with **Latanoprost**
+	- Pilocarpine SOS has not much role now as Surgery is done now #review 
+	- If not relieved → Mannitol
+
+#### Open Angle Glaucome
+Eye drop → Latanoprost
+↓ 
+2nd DoC → Timolol (CI COPD, Bronchial Asthma) → IF asthma → β 1 blocker
+
+**Congenital Glaucoma:** Do nmot give Brimovidine because it crosses blood brain barrier3
+
+### ADHD
+Adult
+	Dexamphetamine
+	more efficient 
+	Risk of addiction
+Children
+	Methylphenidate
+		Decreased risk of addiction
+Both of these drugs are CNS Stimulate → addiction, loss of appetite, ↑ HR/BP
+- These drugs can also increase frequency of Tics
+
+**Non CNS Stimulant**
+1. Atomexitine
+	1. Selective NA reuptake inhibitor
+	2. α2 agonist (Clonidine/Guanabenz)
+
+### Narcolepsy
+DOC Modafinil
+if Complicated → know as **Cataplexy** (Sleeping attack)
+	**DOC:** Venlafaxine (SNRI)
+
+### OSA
+TOC → Surgery
+or Surgery
+
+due to Fat → Tirzapeptide (GLP 1/GIP analogue)
+
+#### α 2 agonist
+Tizanidine → Muscle Relaxant
+Dexmeditomidine→ ICU sedation 
+	- it was advertised as sedation without respiratory center depression
+Clonidine

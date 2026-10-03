@@ -108,6 +108,9 @@ A patient presents with acute glaucoma and a red eye. The Intraocular pressure i
 - b. Mannitol
 - c. Acetazolamide
 - d. Latanoprost
+###  Discussion
+This is a case of uveitis/iridocyclitis → progressed to Glaucoma
+Latanoprost is avoided
 ### Question 8
 A 45-year-old agricultural worker is being treated for severe organophosphate poisoning. He has received 30 mg of atropine over the past hour. His heart rate has increased to 110/min, and his pupils are now mid-dilated; however, he remains hypoxic (SpO2 88%) with persistent, profuse bronchial secretions and diffuse crackles on lung auscultation. He subsequently develops generalized tonic-clonic seizures. Which of the following is the most appropriate next step in his pharmacological management?
 - a. Continue escalating atropine doses until the heart rate reaches 140 bpm.
@@ -115,6 +118,13 @@ A 45-year-old agricultural worker is being treated for severe organophosphate po
 - c. Start a glycopyrrolate infusion as it crosses the blood-brain barrier more effectively than Atropine to stop seizures.
 - d. Administer magnesium sulfate to stabilize the neuromuscular junction and stop the seizures.
 **B** - Administer diazepam 10 mg IV and continue Atropine titration until the lungs are clear.
+#### Discussion
+Atropine cannot take care of muscle weakness → Respiratory arrest can happen
+	Checkpoint of atropine dosage → Dryness of Secretion → Secretions can be checked by Trachiobronchial Secretion/Bilateral Lungs auscultation
+			↓ 
+	Shift to Low dose till Pseudocholine Esterase get normal activity in serum
+There is no time limit for ageing of Acetyl Cholinesterase so we always give oximes
+
 ## CNS, Autonomic & Urogenital Pharmacology
 
 
@@ -133,6 +143,10 @@ A 10-year-old boy is brought to the clinic by his parents for persistent inatten
 Not marked
 
 #### Discussion
+In Tourrette Syndrome 80% cases have ADHD
+answer is Atomoxetine
+Methylphenidate has potential of Substance abuse
+
 
 
 ### Question 10
@@ -150,7 +164,7 @@ A 50-year-old patient has been taking clonidine 0.3 mg twice daily for the past 
 **B** - Chronic down-regulation of central alpha 2 receptors, resulting in a massive release of norepinephrine when the drug is removed.
 
 #### Discussion
-
+Correct answer
 
 ### Question 11
 
