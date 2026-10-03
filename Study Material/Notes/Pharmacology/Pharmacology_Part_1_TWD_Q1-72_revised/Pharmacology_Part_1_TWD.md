@@ -180,6 +180,8 @@ A 35-year-old patient with a known history of COPD undergoes orthopaedic surgery
 #### My answer
 **B** - Bethanechol
 
+###Dis
+
 #### Discussion
 
 
