@@ -28,9 +28,9 @@ The cornea is transparent but can appear black on gross examination because ligh
 
 ---
 
-# 2. Cornea
+## 2. Cornea
 
-## General anatomy, dimensions and optical importance
+### General anatomy, dimensions and optical importance
 
 The cornea is a **transparent, avascular, convex** structure that forms the anterior refracting surface of the eye. It contributes more to the optical power of the eye than any other individual refracting surface because the largest refractive-index change occurs at the **air–cornea interface**.
 
@@ -49,7 +49,7 @@ The cornea is a **transparent, avascular, convex** structure that forms the ante
 
 The normal cornea is thin enough to remain transparent but strong enough to preserve its curvature. Its transparency depends on the highly ordered arrangement of stromal collagen, controlled hydration of the stroma, an intact epithelium and functioning endothelium.
 
-### Layer thicknesses
+#### Layer thicknesses
 
 Approximate values illustrated in corneal histology are:
 
@@ -67,7 +67,7 @@ These are representative layer dimensions rather than additive measurements for 
 
 ---
 
-## 3. Corneal layers — anterior to posterior
+### 3. Corneal layers — anterior to posterior
 
 Modern anatomical description recognizes **six layers**:
 
@@ -81,7 +81,7 @@ Modern anatomical description recognizes **six layers**:
 > **Diagram omitted:** Six-layer corneal schematic.
 *Six-layer schematic showing the epithelium, Bowman’s layer, stroma, Dua’s layer, Descemet’s membrane and endothelium.*
 
-### 3.1 Epithelium
+#### 3.1 Epithelium
 
 The corneal epithelium is a **non-keratinized stratified squamous epithelium**.
 
@@ -93,7 +93,7 @@ Its functional organization is important:
 
 An isolated epithelial abrasion can heal by epithelial regeneration without leaving a stromal scar. Once deeper layers are involved, the risk of permanent opacity rises sharply.
 
-### 3.2 Bowman’s layer
+#### 3.2 Bowman’s layer
 
 Bowman’s layer is an **acellular anterior limiting layer** immediately beneath the epithelium. It is often described as a false basement membrane rather than a true cellular basement membrane.
 
@@ -105,7 +105,7 @@ Key features:
 - Injury heals by **scar formation**, producing persistent corneal opacity.
 - It forms an important mechanical interface between the epithelium and stroma.
 
-### 3.3 Stroma
+#### 3.3 Stroma
 
 The stroma accounts for most of corneal thickness and is the **thickest corneal layer**.
 
@@ -119,7 +119,7 @@ The collagen is arranged into **lamellae with highly ordered orientation**. This
 
 The stroma does not regenerate in the same way as the epithelium; significant stromal injury heals with fibrosis and can produce irregular astigmatism and permanent loss of optical quality.
 
-### 3.4 Dua’s layer (pre-Descemet layer)
+#### 3.4 Dua’s layer (pre-Descemet layer)
 
 Dua’s layer is the strong, acellular layer immediately anterior to Descemet’s membrane and posterior to the deepest stromal lamellae.
 
@@ -128,7 +128,7 @@ Dua’s layer is the strong, acellular layer immediately anterior to Descemet’
 - It is regarded as a **very strong biomechanical layer** of the cornea.
 - Its recognition is particularly important in posterior corneal surgery, deep anterior lamellar keratoplasty and conditions involving deep stromal/Descemet interfaces.
 
-### 3.5 Descemet’s membrane
+#### 3.5 Descemet’s membrane
 
 Descemet’s membrane is the **basement membrane of the corneal endothelium** and is secreted by endothelial cells.
 
@@ -139,7 +139,7 @@ Descemet’s membrane is the **basement membrane of the corneal endothelium** an
 
 Descemet’s membrane is clinically important in **Haab’s striae** of congenital glaucoma and in endothelial keratoplasty.
 
-### 3.6 Endothelium
+#### 3.6 Endothelium
 
 The corneal endothelium is a **single cell layer** of predominantly **hexagonal cells** lining the posterior surface of the cornea.
 
@@ -155,7 +155,7 @@ Its functions are:
 
 Corneal endothelial cells have **very limited proliferative capacity in vivo**. With cell loss, surviving cells enlarge (**polymegathism**) and change shape (**pleomorphism/polymorphism**) to cover the remaining endothelial surface. Progressive cell loss eventually results in failure of stromal deturgescence, corneal edema and loss of transparency.
 
-### Endothelial cell density
+##### Endothelial cell density
 
 | Density / finding | Clinical significance |
 |---|---|
@@ -169,7 +169,7 @@ Endothelial cell density and morphology are assessed by **specular microscopy**.
 
 ---
 
-# 4. Corneal transparency, metabolism and nutrition
+## 4. Corneal transparency, metabolism and nutrition
 
 Corneal transparency is maintained by the interaction of several structural and physiological factors:
 
@@ -193,17 +193,17 @@ Severe endothelial failure produces:
 
 ---
 
-# 5. Corneal sensory innervation and blink reflex
+### 5. Corneal sensory innervation and blink reflex
 
 The cornea is one of the most densely innervated tissues in the body.
 
-### Sensory supply
+#### Sensory supply
 
 **Trigeminal nerve (CN V) → ophthalmic division (V1) → nasociliary nerve → corneal sensory nerves.**
 
 The nerves enter the cornea from the limbal/peripheral region and form a dense subepithelial plexus before terminating in the superficial corneal layers.
 
-### Corneal reflex
+#### Corneal reflex
 
 Touching the cornea with a fine cotton wisp produces:
 
@@ -223,7 +223,7 @@ Pain patterns help localize pathology:
 
 ---
 
-# 6. Corneoscleral junction — limbus
+## 6. Corneoscleral junction — limbus
 
 The **limbus** is the transition zone where transparent cornea becomes opaque sclera. It is a biologically active region rather than a simple anatomical boundary.
 
@@ -251,7 +251,7 @@ Limbal stem-cell failure allows conjunctival epithelium to migrate onto the corn
 
 ---
 
-# 7. Iridocorneal angle and its scleral relationships
+### 7. Iridocorneal angle and its scleral relationships
 
 The angle of the anterior chamber is the space between the peripheral cornea and iris root and is the major conventional pathway for aqueous humor drainage.
 
@@ -275,11 +275,11 @@ The relationship is worth remembering as a continuous anatomical sequence:
 
 ---
 
-# 8. Sclera
+## 8. Sclera
 
 The sclera is the **opaque, white posterior 5/6 of the fibrous tunic**. It forms the principal load-bearing wall of the globe, stabilizes its shape and provides attachment for the extraocular musculature.
 
-## Scleral architecture
+### Scleral architecture
 
 The sclera is collagen-rich connective tissue. Its microscopic organization can be described in concentric layers:
 
@@ -291,7 +291,7 @@ The dominant structural collagens are **type I and type III**, with smaller cont
 
 The sclera is essentially **avascular** as a tissue, although it is traversed and supplied by vascular plexuses in the episclera and adjacent tissues. It receives metabolic support from the **choroidal circulation and episcleral/Tenon vascular plexuses**.
 
-## Scleral thickness
+### Scleral thickness
 
 Scleral thickness varies substantially by region rather than remaining uniform.
 
@@ -306,7 +306,7 @@ Typical adult measurements are approximately:
 
 The sclera becomes thinner in **axially elongated eyes**, particularly posterior to the equator. This is a major anatomical component of pathologic myopia.
 
-## Attachments and relationships
+### Attachments and relationships
 
 - Tendons of the **extraocular muscles** insert into the scleral coat.
 - Posteriorly, the sclera forms the wall around the **optic nerve head and scleral canal**.
@@ -314,7 +314,7 @@ The sclera becomes thinner in **axially elongated eyes**, particularly posterior
 - At the anterior limbus, the sclera contributes to the structural support of the **trabecular outflow apparatus** and the scleral spur.
 - The ciliary muscle has a major mechanical relationship with the scleral spur and therefore with the trabecular meshwork.
 
-## Blood supply
+### Blood supply
 
 The scleral circulation is derived principally from the ciliary vascular system:
 
@@ -324,15 +324,15 @@ The scleral circulation is derived principally from the ciliary vascular system:
 
 The sclera therefore remains relatively hypovascular despite being closely associated with richly vascularized episcleral and uveal tissues.
 
-## Innervation
+### Innervation
 
 Scleral sensory innervation is carried predominantly by the **ciliary nerves**, especially the long posterior ciliary nerves, with contributions from the short ciliary pathways. These nerves carry sensory and autonomic fibers and enter the globe through the posterior scleral region.
 
 ---
 
-# 9. Clinical anatomy of the sclera
+### 9. Clinical anatomy of the sclera
 
-## Episcleritis versus scleritis
+#### Episcleritis versus scleritis
 
 | Feature | Episcleritis | Scleritis |
 |---|---|---|
@@ -347,7 +347,7 @@ Scleral sensory innervation is carried predominantly by the **ciliary nerves**, 
 > **Diagram omitted:** Scleral inflammatory disease.
 *Clinical appearance of severe scleral inflammation with deep violaceous/gray discoloration.*
 
-## Scleral thinning and posterior staphyloma
+#### Scleral thinning and posterior staphyloma
 
 In **pathological myopia**, progressive axial elongation stretches the fibrous coat:
 
@@ -364,17 +364,17 @@ Associated posterior segment changes include:
 
 The fibrous coat itself is therefore a major determinant of globe shape and axial biomechanics.
 
-### Scleral buckle
+##### Scleral buckle
 
 A **scleral buckle** is a silicone band placed around the sclera in rhegmatogenous retinal detachment surgery. It indents the globe inward and mechanically supports the retinal break region.
 
 ---
 
-# 10. Important corneal findings at the anterior chamber angle
+#### 10. Important corneal findings at the anterior chamber angle
 
 The cornea is closely related to the aqueous drainage apparatus, and several clinically important entities involve the posterior cornea or the corneoscleral angle.
 
-### Congenital glaucoma
+##### Congenital glaucoma
 
 Raised intraocular pressure in the developing eye can stretch the globe and cornea. Important corneal findings include:
 
@@ -384,7 +384,7 @@ Raised intraocular pressure in the developing eye can stretch the globe and corn
 
 The corneal changes reflect the mechanical relationship between intraocular pressure, Descemet’s membrane, sclera and the growing ocular coat.
 
-### Keratic precipitates
+##### Keratic precipitates
 
 Keratic precipitates are aggregates of inflammatory cells and proteins deposited on the **corneal endothelium**, usually most evident inferiorly.
 
@@ -393,9 +393,9 @@ Keratic precipitates are aggregates of inflammatory cells and proteins deposited
 
 ---
 
-# 11. Corneal investigations and anatomical measurements
+#### 11. Corneal investigations and anatomical measurements
 
-## Pachymetry
+##### Pachymetry
 
 **Pachymetry** measures corneal thickness.
 
@@ -403,7 +403,7 @@ Keratic precipitates are aggregates of inflammatory cells and proteins deposited
 - Published exam range: approximately **0.5–0.6 mm**.
 - Thickness is clinically important when interpreting intraocular pressure measurements and assessing ectatic or edematous corneas.
 
-## Keratometry
+##### Keratometry
 
 **Keratometry** measures corneal curvature and is especially useful for assessing the anterior corneal curvature and astigmatic meridians.
 
@@ -411,15 +411,15 @@ Keratic precipitates are aggregates of inflammatory cells and proteins deposited
 - In astigmatism, the principal meridians have unequal curvature.
 - **Keratoconus:** curvature becomes steeper while pachymetry shows thinning.
 
-## Keratoscopy / Placido disc
+##### Keratoscopy / Placido disc
 
 Placido-disc examination evaluates corneal surface regularity by observing reflected rings.
 
-## Corneal topography
+##### Corneal topography
 
 Topography provides a more comprehensive map of **corneal curvature and surface shape**, and modern systems can combine curvature with thickness data. It is the key investigation for **keratoconus**.
 
-## Specular microscopy
+##### Specular microscopy
 
 Specular microscopy evaluates the corneal endothelium, providing:
 
@@ -432,7 +432,7 @@ It is useful when judging the endothelial reserve of a diseased or donor cornea.
 
 ---
 
-# 12. Corneal staining
+##### 12. Corneal staining
 
 | Dye | What it highlights | Important use |
 |---|---|---|
@@ -442,13 +442,13 @@ It is useful when judging the endothelial reserve of a diseased or donor cornea.
 
 Fluorescein is applied as an **orange dye** and appears **green under cobalt-blue illumination** where epithelial defects permit dye accumulation.
 
-### Seidel test
+###### Seidel test
 
 A positive **Seidel test** demonstrates leakage of aqueous through a corneal or surgical wound: fluorescein becomes diluted and streams away from the leak.
 
 ---
 
-# 13. Corneal opacity
+## 13. Corneal opacity
 
 Corneal opacity becomes progressively denser as deeper and larger portions of the cornea are affected.
 
@@ -556,7 +556,7 @@ Commonly emphasized treatment agents include:
 
 ---
 
-# 15. Interstitial keratitis and other stromal inflammatory disease
+## 15. Interstitial keratitis and other stromal inflammatory disease
 
 **Interstitial keratitis** involves the **corneal stroma** with relative sparing of the epithelium and endothelium early in the process.
 
@@ -573,7 +573,7 @@ A **salmon patch** refers to stromal hemorrhage and is described in association 
 
 ---
 
-# 16. Keratoconus
+## 16. Keratoconus
 
 Keratoconus is an **ectatic disorder of the cornea** in which a normally more regular corneal contour becomes increasingly **conical**, producing irregular refractive power.
 
@@ -612,9 +612,9 @@ Keratoconus is an **ectatic disorder of the cornea** in which a normally more re
 
 ---
 
-# 17. Corneal degenerations
+## 17. Corneal degenerations
 
-## Arcus senilis
+### Arcus senilis
 
 Arcus senilis is a **peripheral corneal degeneration caused by lipid deposition**.
 
@@ -623,7 +623,7 @@ Arcus senilis is a **peripheral corneal degeneration caused by lipid deposition*
 - A clear interval between the arcus and limbus is the **lucid interval of Vogt**.
 - The opacity remains peripheral and typically does not directly obscure the visual axis.
 
-## Band-shaped keratopathy
+### Band-shaped keratopathy
 
 This is a **horizontal band of calcium deposition** in the exposed interpalpebral cornea.
 
@@ -638,7 +638,7 @@ This is a **horizontal band of calcium deposition** in the exposed interpalpebra
 > **Diagram omitted:** Corneal degenerations and opacity patterns.
 *Representative arcus/band-shaped degeneration and schematic progression of corneal opacity.*
 
-## Kayser–Fleischer ring
+### Kayser–Fleischer ring
 
 - **Golden-brown peripheral corneal ring** from copper deposition.
 - Located in/around **Descemet’s membrane** near the limbus.
@@ -648,11 +648,11 @@ This is a **horizontal band of calcium deposition** in the exposed interpalpebra
 
 ---
 
-# 18. Corneal dystrophies
+## 18. Corneal dystrophies
 
 Corneal dystrophies are classically **hereditary, bilateral, non-inflammatory, progressive corneal opacifying disorders**. They are organized according to the principal corneal layer involved.
 
-## Epithelial dystrophies
+### Epithelial dystrophies
 
 Important examples include:
 
@@ -662,7 +662,7 @@ Important examples include:
 
 Other epithelial/anterior limiting layer disorders include **Reis–Bücklers** and **Thiel–Behnke** dystrophies.
 
-## Stromal dystrophies
+### Stromal dystrophies
 
 | Dystrophy | Principal deposit | Stain / feature |
 |---|---|---|
@@ -677,9 +677,9 @@ Lattice dystrophy should be separated into subtypes: **type 1** is predominantly
 
 **Schnyder central crystalline dystrophy** is associated with abnormal corneal lipid metabolism.
 
-## Endothelial dystrophies
+### Endothelial dystrophies
 
-### Fuchs endothelial dystrophy
+#### Fuchs endothelial dystrophy
 
 Fuchs dystrophy is a major endothelial disorder characterized by progressive endothelial cell dysfunction and **cornea guttata**.
 
@@ -691,7 +691,7 @@ Other endothelial disorders listed include **posterior polymorphous corneal dyst
 
 ---
 
-# 19. Corneal transplantation and surgical anatomy
+## 19. Corneal transplantation and surgical anatomy
 
 The cornea is commonly transplanted from a **cadaveric donor**. Corneal tissue can be retrieved soon after death and preserved before transplantation.
 
@@ -789,11 +789,11 @@ A pterygium is a triangular conjunctival growth that crosses the limbus onto the
 
 ---
 
-# 21. Cornea in refractive surgery and biomechanics
+### 21. Cornea in refractive surgery and biomechanics
 
 The air–cornea refractive interface makes the cornea the dominant optical element targeted by refractive surgery.
 
-### Cornea-based refractive procedures
+#### Cornea-based refractive procedures
 
 - **Radial keratotomy:** peripheral radial corneal incisions flatten the central cornea and reduce its converging power.
 - **PRK:** excimer-laser photoablation removes anterior stromal tissue after epithelial removal.
@@ -805,7 +805,7 @@ Corneal anatomy therefore directly determines both **optical power** and the bio
 
 ---
 
-# 22. High-yield anatomical relationships
+### 22. High-yield anatomical relationships
 
 | Relationship | Exam point |
 |---|---|
@@ -839,9 +839,9 @@ Corneal anatomy therefore directly determines both **optical power** and the bio
 
 ---
 
-# 23. Rapid clinical pattern recognition
+### 23. Rapid clinical pattern recognition
 
-### Loss of corneal transparency
+#### Loss of corneal transparency
 
 **Endothelial dysfunction:** edema → hazy cornea → bullous change.
 
@@ -849,7 +849,7 @@ Corneal anatomy therefore directly determines both **optical power** and the bio
 
 **Dense central leukoma:** major visual impairment.
 
-### Sensory pattern
+#### Sensory pattern
 
 **Reduced corneal sensation + dendritic lesion → think HSV.**
 
@@ -857,19 +857,19 @@ Corneal anatomy therefore directly determines both **optical power** and the bio
 
 **Corneal anesthesia + persistent epithelial defect → think neurotrophic keratopathy.**
 
-### Ectatic pattern
+#### Ectatic pattern
 
 **Steep cornea + thin cornea + irregular myopic astigmatism + topographic asymmetry → keratoconus.**
 
 **Vogt’s striae + Fleischer ring + Munson’s sign + oil-droplet/scissoring reflex → classic keratoconus anatomy.**
 
-### Scleral inflammatory pattern
+#### Scleral inflammatory pattern
 
 **Superficial red vessels that blanch + little pain → episcleritis.**
 
 **Deep violaceous congestion + severe pain + failure to blanch → scleritis.**
 
-### Corneal degeneration pattern
+#### Corneal degeneration pattern
 
 **Peripheral lipid ring + lucid interval → arcus senilis.**
 
@@ -879,7 +879,7 @@ Corneal anatomy therefore directly determines both **optical power** and the bio
 
 ---
 
-# 24. Integrated picture to remember
+### 24. Integrated picture to remember
 
 The cornea and sclera are mechanically continuous but functionally specialized parts of the same fibrous coat.
 
