@@ -1,5 +1,5 @@
 ---
-title: "Elite Ophthalmology — Anatomy & Foundations (pp. 1–30)"
+title: "Elite Ophthalmology — Anatomy & Foundations (pp. 6–30)"
 source: "Elite Ophthalmology PDF"
 subject: Ophthalmology
 tags:
@@ -9,177 +9,6 @@ tags:
   - investigations
   - refractive-error
 ---
-
----
-
-## Page 1
-
-[IMAGE: Cover page with the title “ELITE OPHTHALMOLOGY — A compiled note for Medical PG Entrance”, an eye illustration, and the Notespaedia.com logo.]
-
----
-
-## Page 2
-
-**ELITE OPHTHALMOLOGY**  
-*A compilation note for Medical PG Entrance Exam*
-
-**Publisher**  
-Notespedia  
-33/1672-B, SNR - 5, Souhardha Nagar  
-Vennala, Cochin -28  
-Kerala, India  
-Pin: 682028  
-www.notespaedia.com
-
-**Printers**  
-Geo Printshop  
-Pallathu Road, Thammanam  
-Ernakulam  
-Pin: 682032
-
----
-
-## Page 3
-
-# OPHTHALMOLOGY notes
-
-> We hope you enjoy using these notes
->
-> They have been hand-crafted with an obsessive attention to details, with aim of capturing the course’s content in a way that’s right for you.
->
-> Thank You
-
-[IMAGE: Signature “Inspired by Samuel Suresh” and Notespaedia.com branding.]
-
----
-
-## Page 4
-
-# Table of Contents
-
-| No. | Chapter | Page No. |
-|---:|---|---:|
-| 1 | Anatomy Of Eye | 6 |
-| 2 | Anatomy Of Orbit | 11 |
-| 3 | Embryology Of Eye | 16 |
-| 4 | Congenital Anomalies Of Eye | 18 |
-| 5 | Basic Investigation for Vision | 23 |
-| 6 | Refraction Basics & Accommodation | 27 |
-| 7 | Lens | 30 |
-| 8 | Refractive Error | 31 |
-| 9 | Astigmatism | 41 |
-| 10 | Retinoscopy | 46 |
-| 11 | Conjunctiva | 48 |
-| 12 | Trachoma | 49 |
-| 13 | Conjunctivitis | 51 |
-| 14 | Spring Catarrh | 52 |
-| 15 | Phlyctenular Keratoconjunctivitis | 54 |
-| 16 | Conjunctival Degeneration | 54 |
-| 17 | Viral Conjunctivitis | 57 |
-| 18 | Xerophthalmia | 59 |
-| 19 | Oculo-cutaneous syndromes | 60 |
-| 20 | Sclera | 62 |
-| 21 | Staphyloma | 63 |
-| 22 | Scleritis | 64 |
-| 23 | Scleromalacia Perforans | 65 |
-| 24 | Cornea | 66 |
-| 25 | Bacterial Corneal Ulcer | 71 |
-| 26 | Fungal Keratitis | 73 |
-| 27 | Viral Keratitis | 74 |
-| 28 | Herpes Zoster Ophthalmicus | 76 |
-| 29 | Acanthamoeba Keratitis | 76 |
-| 30 | Corneal Degeneration | 78 |
-| 31 | Keratoconus | 79 |
-| 32 | Corneal Dystrophies | 81 |
-| 33 | Uvea | 84 |
-| 34 | Choroid | 86 |
-| 35 | Iris | 87 |
-| 36 | Uveitis | 89 |
-| 37 | CMV Chorioretinitis | 97 |
-| 38 | Sympathetic Ophthalmia | 98 |
-| 39 | Choroidal Melanoma | 101 |
-| 40 | Uveal Effusion Syndrome | 103 |
-| 41 | Endophthalmitis | 103 |
-| 42 | Lens | 105 |
-| 43 | Cataract | 107 |
-| 44 | Ectopia Lentis | 118 |
-| 45 | Lenticonus | 120 |
-| 46 | Orbit | 122 |
-| 47 | Cavernous Sinus Syndrome | 124 |
-| 48 | Blow out fracture | 125 |
-| 49 | Blunt trauma findings | 126 |
-| 50 | Proptosis | 129 |
-| 51 | Orbital Cellulitis | 132 |
-| 52 | Rhabdomyosarcoma | 133 |
-| 53 | Thyroid Eye disorder | 134 |
-| 54 | Optic Nerve tumor | 136 |
-| 55 | Lids | 143 |
-| 56 | Inflammation of lid glands | 145 |
-| 57 | Disease of lid margin | 146 |
-| 58 | Ptosis | 148 |
-| 59 | Lacrimal apparatus and disorders | 154 |
-| 60 | Retina | 159 |
-| 61 | Retinal Detachment | 164 |
-| 62 | Retinal Vein Occlusion | 169 |
-| 63 | CRVO | 170 |
-| 64 | CRAO | 171 |
-| 65 | Diabetic Retinopathy | 172 |
-| 66 | Lasers in Ophthalmology | 177 |
-| 67 | Hypertensive Retinopathy | 178 |
-| 68 | Retinitis Pigmentosa | 181 |
-| 69 | Photoreceptors | 185 |
-| 70 | Macula Function Test | 185 |
-| 71 | Central Serous Retinopathy | 187 |
-| 72 | Retinal Dystrophies | 188 |
-| 73 | ARMD | 189 |
-| 74 | Retinopathy Of Prematurity | 190 |
-| 75 | Retinoblastoma | 193 |
-| 76 | Electrophysiology Of Retina | 200 |
-| 77 | Vitreous | 202 |
-| 78 | Vitreous Degeneration | 203 |
-| 79 | Glaucoma | 205 |
-| 80 | Optic Disc | 206 |
-| 81 | Perimetry | 210 |
-| 82 | Gonioscopy | 212 |
-| 83 | Tonometry | 213 |
-| 84 | Pseudoexfoliation Syndrome | 230 |
-| 85 | Visual Pathway | 230 |
-| 86 | Lesion of visual pathway | 232 |
-| 87 | Color Blindness | 236 |
-| 88 | Light reflex | 237 |
-| 89 | Pupillary Fibres Pathway | 238 |
-| 90 | RAPD | 239 |
-| 91 | Optic Nerve | 240 |
-| 92 | Optic Neuritis | 242 |
-| 93 | Optic Neuropathy | 244 |
-| 94 | Papilledema | 247 |
-| 95 | Optic Atrophy | 250 |
-| 96 | 3rd CN | 252 |
-| 97 | 4th CN | 254 |
-| 98 | Pupillary Abnormalities | 257 |
-| 99 | Horner’s Syndrome | 262 |
-| 100 | Disorders of gaze | 264 |
-| 101 | Squint | 267 |
-| 102 | Diplopia | 274 |
-| 103 | Extras in squint | 276 |
-| 104 | Nystagmus | 278 |
-| 105 | Rhodopsin Cycle | 279 |
-
-**References:**
-- K.D Tripathi Textbooks
-- Shanbag Textbook
-- Khurana Textbook
-- Dr. Rajaratna
-- Lecture Class
-- Dr. Sourabh Lecture Class
-
-## Page 5
-
-[IMAGE: Blank page.]
-
----
-
-## Page 6 — Anatomy of Eye
 
 # ANATOMY OF EYE:
 
@@ -204,9 +33,9 @@ Pin: 682032
 
 ![[assets/p06-eye-cross-section.jpg]]
 
-The shape of the eyeball is a sphere  
-Volume = 6 ml  
-weight = 7 gm  
+The shape of the eyeball is a sphere
+Volume = 6 ml
+weight = 7 gm
 Circumference = 7.5 cm
 
 # Layers of Eyeball
@@ -229,13 +58,9 @@ Circumference = 7.5 cm
 
 - Point of attachment of ciliary body to sclera → **scleral spur**
 
----
-
-## Page 7 — Retina, chambers and aqueous humour
-
 ![[assets/p07-ciliary-body-lens-sketch.jpg]]
 
-3) **Inner most layer** → neural layer → **Retina**  
+3) **Inner most layer** → neural layer → **Retina**
 From Ora Serata → optic disc
 
 ![[assets/p07-sectional-anatomy-eye.jpg]]
@@ -260,10 +85,6 @@ Content → Aqueous Humour
 - Filtrate of plasma formed from the ciliary process (60–80%)
 - Rate of formation → **2–2.5 μl/min**
 
----
-
-## Page 8 — Aqueous humour drainage and vitreous
-
 - Formed by 3 process →
   1. Secretion → Maxm. Active process, ATP required (70%)
   2. Diffusion → 20%, passive process, No ATP required
@@ -283,8 +104,8 @@ Post. chamber → pupil → Trabecular meshwork → Schlemm’s Canal → Aqueou
 
 # Type of Trabecular meshwork:
 
-i) Corneoscleral  
-ii) Uveal  
+i) Corneoscleral
+ii) Uveal
 iii) Juxta canalicular
 
 > Maximum resistance to flow of aqueous → at Juxta canalicular trabecular meshwork (close to Schlemm’s canal)
@@ -303,7 +124,7 @@ Drain → **Vortex Vein**
 
 → Post to posterior part of lens
 
-Content → Vitreous Humour  
+Content → Vitreous Humour
 Volume → **~4 ml**
 
 | AQUEOUS | PLASMA | VITREOUS |
@@ -311,30 +132,26 @@ Volume → **~4 ml**
 | 1) 99% water |  | 1) 99% water |
 | 2) Lactate, Ascorbate & chlorine more in aqueous than plasma |  | 2) Collagen, Hyaluronic acid & Ascorbate are more in vitreous compared to plasma; else is less compared to plasma |
 
----
-
-## Page 9 — Blood-aqueous barrier and vitreous
-
 - Else is less compared to plasma
 
 ![[assets/p09-blood-aqueous-barrier.jpg]]
 
 **Blood aqueous Barrier**
 
-§ formed by tight junction of iris endothelium & ciliary non pigmented epithelium §  
+§ formed by tight junction of iris endothelium & ciliary non pigmented epithelium §
 fx: prevent plasma protein in entering aqueous.
 
-**Pathology:** Uveitis → Inflammation in eye  
-↓  
-Blood aqueous barrier broken down  
-↓  
+**Pathology:** Uveitis → Inflammation in eye
+↓
+Blood aqueous barrier broken down
+↓
 **FLARE** → Leakage of protein in Aqueous
 
 ![[assets/p09-barrier-inflammation-micrograph.jpg]]
 
 > During inflammation, the blood barrier gets broken down
 
-3) Gel like → d/t collagen  
+3) Gel like → d/t collagen
 **COLLAGEN II (MC), VI, IX, XI**
 
 # Attachment of vitreous
@@ -348,10 +165,6 @@ Blood aqueous barrier broken down
 
 Weighert ligament → surround {strong in children} the patellar fossa
 
----
-
-## Page 10 — Vitreous degeneration and scotoma
-
 - When we age → gel vitreous collapse
 - K/a **SYNERESIS**
 
@@ -360,8 +173,8 @@ Weighert ligament → surround {strong in children} the patellar fossa
 
 → post-vitreous detachment
 
-**Liquified vitreous** → **SYNCHISIS** → enters retinal hole  
-↓  
+**Liquified vitreous** → **SYNCHISIS** → enters retinal hole
+↓
 **RETINAL DETACHMENT & Rhegmatogenous**
 
 - Entire vitreous collapsing
@@ -379,14 +192,10 @@ Weighert ligament → surround {strong in children} the patellar fossa
    - Old age
    - Positive scotoma
 
-+ Negative Scotoma  
++ Negative Scotoma
 Eg.: Blind Spot
 
 ![[assets/p10-scotoma.jpg]]
-
----
-
-## Page 11 — Conjunctiva and extraocular muscles
 
 ![[assets/p11-sclera-conjunctiva-section.jpg]]
 
@@ -413,17 +222,13 @@ Eg.: Blind Spot
 
 # Extra Ocular Muscle:
 
-No.: Six  
-Origin: Apex of orbit  
+No.: Six
+Origin: Apex of orbit
 except → **Inferior Oblique**
-
----
-
-## Page 12 — Orbit
 
 # Orbit:
 
-Shape: Pyramid  
+Shape: Pyramid
 Volume: 30 ml
 
 ![[assets/p12-orbit-pyramid.jpg]]
@@ -447,10 +252,6 @@ Volume: 30 ml
 
 **HYPO-ESTHESIA or ANAESTHESIA OF IPSILATERAL CHEEK**
 
----
-
-## Page 13 — Orbital relations and fissures
-
 ![[assets/p13-orbital-angle.jpg]]
 
 Eyeball & orbit are at 23°
@@ -468,28 +269,24 @@ Eyeball & orbit are at 23°
    - Maxillary Bone & Zygomatic
 
 **Infra Orbital fissure**
-→ @ floor of orbit  
+→ @ floor of orbit
 → contains the infra orbital N.
 
 ↓
 
-Branch of Maxillary division of Vth Nerve (V2)  
-↓  
+Branch of Maxillary division of Vth Nerve (V2)
+↓
 Sensation of cheek.
 
 ![[assets/p13-infraorbital-canal.jpg]]
-
----
-
-## Page 14 — Relations of orbit
 
 # Relations of Orbit:
 
 ![[assets/p14-orbit-relations.jpg]]
 
-Volume of orbit = 30 ml  
-Eyeball = 6.5 ml  
-} orbital fat  
+Volume of orbit = 30 ml
+Eyeball = 6.5 ml
+} orbital fat
 major component of orbit
 
 # Component of orbit:
@@ -517,10 +314,6 @@ Structure passing through optic foramen:
 ![[assets/p14-sphenoid-anterior-view.jpg]]
 
 ![[assets/p14-orbital-apex.jpg]]
-
----
-
-## Page 15 — Sensory supply and tarsal plates
 
 # Sensory Supply of the eye:
 
@@ -561,10 +354,6 @@ structure attached to it:
 2. Lockwood’s ligament {suspensory ligament of the eyeball}
 3. Lateral palpebral ligament.
 
----
-
-## Page 16 — Eyeball of newborn, milestones, embryology
-
 4) Lateral horn of the levator aponeurosis
 
 | | Eyeball of Newborn | Adult |
@@ -602,10 +391,6 @@ structure attached to it:
   - L → Lens
   - L → Lacrimal Apparatus
   - E → Epithelium of cornea / conjunctiva.
-
----
-
-## Page 17 — Neuroectoderm / optic cup
 
 # Neuroectoderm / optic cup
 
@@ -652,10 +437,6 @@ E → Epithelium of Iris / Ciliary Body
 | 1st month | Lens pit develops, followed by formation of the lens vesicle; Hyaloid vessels develop |
 | 4th month | Formation of retinal vasculature begins; Hyaloid vessels regress; **Canal Schlemm**; Formation of physiological optic disc cup and **Lamina Cribrosa** |
 
----
-
-## Page 18 — Embryology continuation and optic cup
-
 ### 5th month
 
 - Bowmen’s membrane develop
@@ -667,11 +448,11 @@ E → Epithelium of Iris / Ciliary Body
 
 ![[assets/p18-embryology-forebrain-optic-vesicle.jpg]]
 
-**Optic Vesicle**  
-gene: PAX-6  
-↓  
-Diencephalon  
-↓  
+**Optic Vesicle**
+gene: PAX-6
+↓
+Diencephalon
+↓
 Prosencephalon
 
 ![[assets/p18-brain-vesicles.jpg]]
@@ -679,10 +460,6 @@ Prosencephalon
 ![[assets/p18-lens-placode-optic-stalk.jpg]]
 
 ![[assets/p18-optic-cup-cross-section.jpg]]
-
----
-
-## Page 19 — Peter’s anomaly, lacrimal gland, hyaloid artery
 
 # Peter’s Anomaly:
 
@@ -722,11 +499,7 @@ Prosencephalon
 2. Mittendorf’s dot
 3. Bergmeister Papilla
 
-[IMAGE: Histological image labelled 1° vitreous & Hyaloid Artery, 2° vitreous, 3° vitreous (Zonules), labelled PHPV.]
-
----
-
-## Page 20 — Persistent hyperplastic primary vitreous
+![[assets/p20-phpv-histology.png]]
 
 # Persistent Hyperplastic 1° vitreous (PHPV)
 
@@ -758,15 +531,11 @@ Prosencephalon
 
 # Bergmister Papilla
 
-→ Remnant of Hyaloid vessels post segment  
-→ Asymptomatic  
+→ Remnant of Hyaloid vessels post segment
+→ Asymptomatic
 → Good prognosis
 
 ![[assets/p20-bergmeister-papilla.jpg]]
-
----
-
-## Page 21 — Neuroectoderm development and coloboma
 
 # Neuroectoderm development
 
@@ -802,10 +571,6 @@ Prosencephalon
 
 ![[assets/p21-morning-glory-disc.jpg]]
 
----
-
-## Page 22 — Coloboma and neural crest derivatives
-
 ### ii) Chorioretinal Coloboma
 
 - can lead to Retinal detachment
@@ -825,10 +590,6 @@ Prosencephalon
 
 ![[assets/p22-neural-crest-derivatives.jpg]]
 
----
-
-## Page 23 — Neural crest migration and basic investigations
-
 **Sclera** ⇒ **NCC + Mesoderm**
 
 **EOMs** ⇒ **Mesoderm + NCC**
@@ -840,7 +601,7 @@ Prosencephalon
 1. Miosis
 2. Mild ptosis
 3. Enophthalmosis
-4. Hypopigmented Iris → Pathognomic for congenital Horner’s  
+4. Hypopigmented Iris → Pathognomic for congenital Horner’s
    {HETEROCHROMIA}
 
 ![[assets/p23-congenital-horner-heterochromia.jpg]]
@@ -889,10 +650,6 @@ minimal angle & 6/6 = 1 minute of arc
 - 6/24 → MAR = 4′ of arc
 - etc.
 
----
-
-## Page 24 — MAR and slit-lamp examination
-
 **Total angle → MAR × 5**
 
 ![[assets/p24-mar-e-chart.jpg]]
@@ -905,7 +662,7 @@ Angles subtended on post. surface of lens
 
 6/60 × → 5/60 × → 4/60 × → 3/60 × → 2/60 ×
 
-**Counting fingers**  
+**Counting fingers**
 → Hand movement → Perception of light → Projection of rays (which quadrant)
 
 # 2) Slit lamp Examination
@@ -920,12 +677,8 @@ Angles subtended on post. surface of lens
 
 # 3) Slit lamp Examination → slit lamp + lens
 
-Gold standard to see → Optic disc  
+Gold standard to see → Optic disc
 → Macula & central Retina
-
----
-
-## Page 25 — Ophthalmoscope
 
 # Lenses used in the investigation
 
@@ -973,10 +726,6 @@ Gold standard to see → Optic disc
 - Concave lens
 - Convex lens
 
----
-
-## Page 26 — Direct vs indirect ophthalmoscopy
-
 - **HRUBY LENS** → -58.6 D
 - **non-contact** → +75 D, +90 D
 - **contact** → Goldmann 3 mirror lens → +60 D
@@ -1003,22 +752,22 @@ Adv: Magnification + Stereopsis
 | 5) Magnification: more | 5) Magnification: Less |
 | 6) Depends on R.E of pt & doctor | 6) Does not depend on R.E |
 
-M = Power of eye / Power of lens  
-= 60/4  
+M = Power of eye / Power of lens
+= 60/4
 = 15 times
 
-Power of eye = +60D  
-of cornea = +44D  
+Power of eye = +60D
+of cornea = +44D
 of lens = +16D
 
-M = Power of eye / Power of lens  
-= 60 / 20 or 30  
+M = Power of eye / Power of lens
+= 60 / 20 or 30
 = 2–3 times
 
-Power of Converging = Myopia > Emmetropia > Hypermetropia  
+Power of Converging = Myopia > Emmetropia > Hypermetropia
 (i.e >15 times)
 
-eg.: -4D  
+eg.: -4D
 = 64/4 = 16 times //
 
 # Investigation based on Purkinje images:
@@ -1030,12 +779,8 @@ eg.: -4D
 
 > 2/3rd of refraction of light done by cornea
 
-> R.I of cornea = 1.376  
+> R.I of cornea = 1.376
 > R.I of air = 1.00
-
----
-
-## Page 27 — Purkinje images, ultrasound and refraction
 
 - Corneal surface = Plaudo disc → I
 - Corneal endothelium = Specular microscopy ⇒ II
@@ -1046,7 +791,7 @@ eg.: -4D
 - Ant. Chamber depth b/w II & III = 2–3mm
 
 > Purkinje image in **Aphakia** → Image III & IV are absent
-> 
+>
 > “ ” “ Mature cataract → Image IV Absent.
 
 # Ultrasound:
@@ -1056,19 +801,15 @@ eg.: -4D
 
 # Refraction:
 
-Bending of light when light passes through two media  
-Refraction of eye done by cornea & lens  
+Bending of light when light passes through two media
+Refraction of eye done by cornea & lens
 {3/4th}  {1/4th}
 
-Total refraction power of eye → +60D  
-" " " cornea → +44D  
+Total refraction power of eye → +60D
+" " " cornea → +44D
 " " " lens → +16D
 
 ![[assets/p27-refraction-corneal-lens-ray.jpg]]
-
----
-
-## Page 28 — Refractive power and accommodation
 
 # Refractive Power, D ∝ 1/f (focal length)
 
@@ -1079,7 +820,7 @@ Total refraction power of eye → +60D
 - flatter curvature
 - steep curvature
 
-D ∝ 1/f  
+D ∝ 1/f
 D ∝ curvature
 
 # Refractive Power vs. R.I:
@@ -1106,10 +847,6 @@ D ∝ curvature
 # Emmetropia:
 
 ![[assets/p28-emmetropia-ray-diagram.jpg]]
-
----
-
-## Page 29 — Accommodation and presbyopia
 
 # Accommodation
 
@@ -1162,15 +899,11 @@ Physiological loss of accommodation d/t aging
 
 Result in recession of puncta proxima (near point)
 
----
-
-## Page 30 — Correction, near-vision aids and pinhole mechanism
-
 # Correction
 
 ↑D → ↓f
 
-1) Convex lens  
+1) Convex lens
 or positive spherical lens
 
 ![[assets/p30-presbyopia-correction-ray.jpg]]
@@ -1204,9 +937,8 @@ or positive spherical lens
 
 # 3) Cataract Patient:
 
-IOL → multi-focal IOL for all distal  
-intermediate  
+IOL → multi-focal IOL for all distal
+intermediate
 near
 
 } vision
-
