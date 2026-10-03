@@ -260,7 +260,7 @@ Aphakic spectacles commonly require powers of approximately **+10 to +14 D**. Hi
 
 A phakic IOL is placed behind the iris and over the natural crystalline lens, between iris and lens. It is used for high refractive errors or when corneal laser surgery is contraindicated. The minimum anterior chamber depth given for ICL surgery is **2.8 mm**. ICL is also listed for refractive power **>8 D**, with implantation in the **sulcus**.
 
-## 7. Accommodation
+# 7. Accommodation
 
 Accommodation increases ocular power for near vision.
 
@@ -275,7 +275,7 @@ Accommodation increases ocular power for near vision.
 Mechanism for near vision: **ciliary muscle contracts → ciliary ring narrows → zonules relax → lens becomes thicker/more convex → refractive power increases**.
 
 > **Diagram omitted:** Accommodation: far and near.
-### Amplitude of accommodation
+## Amplitude of accommodation
 
 The amplitude of accommodation is the difference between the accommodative/dioptric value at the near point (**proximum, P**) and that at the far point (**remotum, R**):
 
@@ -294,14 +294,14 @@ Therefore:
 **A = 5 − (−4) = 9 D**
 
 > **Diagram omitted:** Accommodation amplitude and retinoscopy calculation.
-### Presbyopia
+## Presbyopia
 
 - Physiological insufficiency of accommodation causing difficulty with near vision.
 - Typically becomes clinically relevant after **40 years**.
 - Corrected with **convex/positive near addition or reading spectacles**.
 - A near add of approximately **+1 D around 40–45 years** is given; one age-based scheme increases the add by **0.5 D every 5 years**.
 
-### Spasm of accommodation / pseudomyopia
+## Spasm of accommodation / pseudomyopia
 
 - Also called **pseudomyopia**.
 - Persistent ciliary-muscle spasm produces excessive accommodation and difficulty with distance vision.
@@ -376,18 +376,18 @@ For cataract biometry:
 - A-scan ultrasonography → axial length; normal axial length approximately **24 mm**.
 - Formulae listed: **SRK-T, Hoffer Q, Holladay, Haigis-L**; Hoffer Q is associated with AL <22 mm, Holladay with AL >24.5 mm, and Haigis-L with post-refractive-surgery cases.
 
-## 11. Objective Refraction: Retinoscopy / Skiascopy
+### 11. Objective Refraction: Retinoscopy / Skiascopy
 
 **Retinoscopy** is an objective method of determining refractive error. It is also called **skiascopy** or the shadow test.
 
-### Technique
+#### Technique
 
 - A retinoscope is placed approximately **1 m** from the patient; **2/3 m** is also used.
 - The examiner observes the red reflex and compares its movement with movement of the retinoscope/light.
 - A trial lens is introduced to neutralize the reflex movement.
 - The retinoscopic reading is the lens power that neutralizes the observed movement.
 
-### Reflex movement
+#### Reflex movement
 
 | Reflex | Interpretation |
 |---|---|
@@ -398,7 +398,7 @@ For cataract biometry:
 At **1 m**, neutralization corresponds to approximately **−1 D** because of the working-distance effect.
 
 > **Diagram omitted:** Retinoscopy reflex movement.
-### Retinoscopy correction factors
+#### Retinoscopy correction factors
 
 The corrected retinoscopic value is given as:
 
@@ -420,7 +420,7 @@ Examples of distance correction:
 - 1 m → C₁ = 1 D.
 - 2/3 m → C₁ ≈ 1.5 D.
 
-### Worked retinoscopy correction and transposition
+#### Worked retinoscopy correction and transposition
 
 If retinoscopy gives **−5 D and −4 D** at a working distance of 2/3 m and a total correction factor of **2 D** is used:
 
@@ -432,7 +432,7 @@ If retinoscopy gives **−5 D and −4 D** at a working distance of 2/3 m and a 
 - Final transposed form = **−7 D sphere / +1 D cylinder at 90°**.
 
 > **Diagram omitted:** Retinoscopy correction and transposition.
-### Retinoscopy instruments
+#### Retinoscopy instruments
 
 - Reflecting-mirror retinoscope.
 - Priestley–Smith retinoscope.
@@ -441,18 +441,18 @@ If retinoscopy gives **−5 D and −4 D** at a working distance of 2/3 m and a 
 
 The streak retinoscope produces vertical/horizontal light beams; examination distance is approximately **1 m**.
 
-## 12. Subjective Refraction
+### 12. Subjective Refraction
 
 Subjective refraction depends on the patient's visual response and follows objective refraction.
 
-### Basic method
+#### Basic method
 
 1. **Trial-and-error method** using trial lenses/trial frame.
 2. Refine the **cylinder**.
 3. Refine the **sphere**.
 
 > **Diagram omitted:** Refraction workflow and spectacle prescriptions.
-### Spectacle lens patterns
+#### Spectacle lens patterns
 
 | Prescription | Refractive error |
 |---|---|
@@ -464,9 +464,9 @@ Subjective refraction depends on the patient's visual response and follows objec
 | + sphere / + cylinder | Compound hypermetropic astigmatism |
 | − sphere / + cylinder **or** + sphere / − cylinder | Mixed astigmatism |
 
-### Refinement of cylinder
+#### Refinement of cylinder
 
-#### Jackson cross-cylinder (JCC)
+##### Jackson cross-cylinder (JCC)
 
 The combinations include:
 - **−0.50 D sphere / +1.00 D cylinder**.
@@ -474,12 +474,12 @@ The combinations include:
 
 JCC is used to refine cylinder power and axis.
 
-#### Astigmatic fan test
+##### Astigmatic fan test
 
 The cylinder is refined until the patient can see the fan axes clearly/equally.
 
 > **Diagram omitted:** JCC and astigmatic fan.
-### Refinement of sphere: duochrome test
+#### Refinement of sphere: duochrome test
 
 The duochrome test uses red and green halves to refine the spherical component.
 
@@ -488,16 +488,16 @@ The duochrome test uses red and green halves to refine the spherical component.
 
 The test relies on chromatic dispersion and differential focus of the two colours.
 
-### Pinhole during subjective assessment
+#### Pinhole during subjective assessment
 
 A **1-mm pinhole** is used for refraction refinement.
 - VA improves → residual refractive error.
 - VA decreases/does not improve → macular/ocular pathology is more likely.
 
-## 13. Prism and Prismatic Clinical Optics
+### 13. Prism and Prismatic Clinical Optics
 
 
-### Prism dioptre relationships used clinically
+#### Prism dioptre relationships used clinically
 
 - **1 prism dioptre ≈ 0.5°** of deviation.
 - **1 mm** displacement of the corneal light reflex corresponds to approximately **7° squint / 14 prism dioptres**.
@@ -507,35 +507,35 @@ A **1-mm pinhole** is used for refraction refinement.
   - Reflex at limbus → **45° ≈ 90 PD**.
 - Degrees can therefore be converted to prism dioptres by multiplying by **2** in this clinical scheme.
 
-### Prism bar cover test
+#### Prism bar cover test
 
 - Used to measure ocular deviation/tropia; it is the most accurate test for degree of tropia.
 - **Base of prism is placed opposite to the direction of deviation.**
 - **Degree of tropia = 2 × prism power at which the deviated eye becomes straight.**
 - The mnemonic **DOOB: Deviation Opposite Of Base** is used to remember prism orientation.
 
-### Four-prism base-out test
+#### Four-prism base-out test
 
 With the patient fixating straight ahead, a base-out prism causes a conjugate movement of the eyes; the recovery movement is used to assess binocular function.
 
 > **Diagram omitted:** Prism base-out test.
 Prisms are also listed as an optical treatment step in squint after refractive correction, occlusion/orthoptic measures and before surgical correction.
 
-## 14. Optical Aberrations and Distortion Mentioned
+# 14. Optical Aberrations and Distortion Mentioned
 
-### Spherical aberration
+## Spherical aberration
 
 A **pin-cushion effect** is attributed to **high spherical aberration**.
 
-### Chromatic aberration
+## Chromatic aberration
 
 Thick high-plus aphakic spectacle lenses can produce **chromatic aberration**, with altered perception of colours.
 
-### Prismatic dispersion
+## Prismatic dispersion
 
 Corneal oedema can produce **halos around lights** from prismatic dispersion.
 
-### Aphakic spectacle distortion
+## Aphakic spectacle distortion
 
 The peripheral prismatic effect of a thick high-plus lens can produce ring scotoma and the jack-in-the-box phenomenon.
 
@@ -616,9 +616,9 @@ Used for progressive myopia in children/young patients:
 | Myopia-control spectacle lenses | Peripheral defocus; concentric rings focus centrally while altering peripheral focus |
 | Orthokeratology | Hard lenses worn overnight reshape the cornea temporarily and reduce axial elongation |
 
-## 17. High-Yield Integrated Tables
+#### 17. High-Yield Integrated Tables
 
-### Myopia vs hypermetropia
+##### Myopia vs hypermetropia
 
 | Feature | Myopia | Hypermetropia |
 |---|---|---|
@@ -633,7 +633,7 @@ Used for progressive myopia in children/young patients:
 | Kappa association | Large negative kappa → pseudoesotropia | Large positive kappa → pseudoexotropia |
 | Glaucoma association | Open-angle/normal-tension associations in pathological myopia | Angle-closure tendency from small eye/shallow AC |
 
-### Astigmatism at a glance
+##### Astigmatism at a glance
 
 | Feature | WTR | ATR | Oblique | Irregular |
 |---|---|---|---|---|
@@ -643,7 +643,7 @@ Used for progressive myopia in children/young patients:
 | Plus-cylinder axis | 90° | 180° | Oblique | — |
 | Common associations | Younger/myopic eyes | Older/cataract patients | — | Corneal/retinal scarring, keratoconus |
 
-### Objective vs subjective refraction
+##### Objective vs subjective refraction
 
 | Objective | Subjective |
 |---|---|
@@ -652,7 +652,7 @@ Used for progressive myopia in children/young patients:
 | Automated refractometer | JCC, astigmatic fan, duochrome, pinhole |
 | First test | Final refinement |
 
-## 18. Essential Formulae and Numerical Relationships
+#### 18. Essential Formulae and Numerical Relationships
 
 | Formula / relationship | Use |
 |---|---|
@@ -670,7 +670,7 @@ Used for progressive myopia in children/young patients:
 | **Tropia degree = 2 × prism power** | Prism-bar cover test relationship |
 | **Transposition: new sphere = sphere + cylinder; new cylinder = opposite sign; new axis = old axis ±90°** | Change between plus- and minus-cylinder forms |
 
-## 19. Examination and Revision Pearls
+#### 19. Examination and Revision Pearls
 
 - **Cornea provides the largest refractive contribution** because the air–cornea interface has the largest refractive-index change.
 - **Total ocular power in the Listing reduced eye = 58.6 D.**
