@@ -119,7 +119,7 @@ The inferior nasal fibers are the fibers emphasized in the classic Wilbrand-knee
 
 A lateral chiasmal lesion is a rare/theoretical lesion and would affect the temporal retinal fibers. Because each side contributes temporal fibers from the ipsilateral eye, the resulting defect is **binasal hemianopia** and is therefore effectively bilateral.
 
-### 3.5 Optic tract
+#### 3.5 Optic tract
 
 An optic-tract lesion produces a **contralateral homonymous hemianopia**. The defect is generally incongruous compared with the more posterior pathway.
 
@@ -127,7 +127,7 @@ Optic-tract lesions can also affect pupillomotor fibers because these fibers lea
 
 With established optic-tract disease, optic atrophy can develop bilaterally because each optic tract contains fibers from both eyes.
 
-### 3.6 Lateral geniculate body
+#### 3.6 Lateral geniculate body
 
 The lateral geniculate body is the principal first relay of the visual pathway.
 
@@ -145,7 +145,7 @@ Eye of origin in the LGN:
 An incomplete or sectoral lesion of the LGN can produce characteristic, highly localized field defects. An incomplete or sectoral lesion of the lateral geniculate body can produce a **keyhole visual-field defect**; posterior choroidal circulation is relevant to this localization.
 
 > **Diagram omitted:** LGN organization and visual-field localization.
-### 3.7 Differentiating optic-tract, LGN and optic-radiation lesions
+#### 3.7 Differentiating optic-tract, LGN and optic-radiation lesions
 
 | Feature | Optic tract | LGN | Optic radiations |
 |---|---|---|---|
@@ -299,11 +299,11 @@ Typical pattern:
 - no meaningful constriction even with a strong cholinergic challenge such as 1% pilocarpine in the classic exam algorithm
 - atropine is a classic cause
 
-### 5.7 Hutchinson pupil
+#### 5.7 Hutchinson pupil
 
 A unilateral fixed, dilated pupil caused by **compressive CN III involvement in uncal/transtentorial herniation** is a neurosurgical emergency.
 
-### 5.8 Corneal and vestibulo-ocular reflexes
+#### 5.8 Corneal and vestibulo-ocular reflexes
 
 **Corneal reflex:**
 
@@ -372,9 +372,9 @@ Classic examination/localization tests include:
 - **1% apraclonidine test:** affected Horner pupil may dilate through denervation hypersensitivity; this is the classic positive response used to demonstrate Horner syndrome
 - **amphetamine/adrenaline testing:** historically used for localization to preganglionic versus postganglionic lesions
 
-## 7. Optic neuropathies
+# 7. Optic neuropathies
 
-### 7.1 Optic neuritis
+## 7.1 Optic neuritis
 
 Optic neuritis is an inflammatory/demyelinating optic neuropathy. **Multiple sclerosis** is a classic association.
 
@@ -388,7 +388,7 @@ Typical features:
 - **Uhthoff phenomenon:** transient worsening with increased body temperature, classically after exercise
 - **Pulfrich phenomenon/sign:** abnormal depth perception from asymmetric conduction delay between the two optic nerves
 
-#### Fundus patterns
+### Fundus patterns
 
 - **Papillitis:** optic-disc swelling is visible.
 - **Retrobulbar optic neuritis:** the optic disc may initially appear normal despite visual dysfunction.
@@ -399,11 +399,11 @@ The classic exam phrase is:
 - papillitis: **patient sees poorly, examiner sees disc swelling**
 - retrobulbar neuritis: **patient sees poorly, examiner may see a normal disc**
 
-#### Treatment principle
+### Treatment principle
 
 The Optic Neuritis Treatment Trial established that high-dose corticosteroid treatment, particularly intravenous methylprednisolone followed by a short oral course in the original regimen, **accelerates visual recovery**; oral prednisone alone at the low dose used in the original trial was not beneficial and increased recurrence risk. Disease-specific management is required when optic neuritis is part of multiple sclerosis or another inflammatory disorder; interferon-based disease-modifying therapy is directed at multiple sclerosis rather than used as the acute optic-neuritis treatment itself.
 
-### 7.2 Papilledema
+## 7.2 Papilledema
 
 Papilledema is **optic-disc edema caused by raised intracranial pressure**. It is generally bilateral and, early in the course, does not primarily damage optic-nerve fibers enough to reduce visual acuity.
 
@@ -445,14 +445,14 @@ As papilledema becomes severe or chronic:
 | Pain with eye movement | Absent | Typical |
 | Disc swelling | Marked in established papilledema | May be mild in papillitis |
 
-### 7.4 Anterior ischemic optic neuropathy
+## 7.4 Anterior ischemic optic neuropathy
 
 AION is an ischemic infarction of the optic nerve head and is divided into:
 
 - **arteritic AION (AAION)**
 - **non-arteritic AION (NAION)**
 
-#### AAION
+### AAION
 
 The major cause emphasized is **giant cell arteritis (GCA)**.
 
@@ -468,7 +468,7 @@ AAION is a visual emergency because the fellow eye can become involved.
 
 When GCA is suspected, immediate corticosteroid treatment is required; laboratory and vascular evaluation is performed urgently.
 
-#### NAION
+### NAION
 
 Typical pattern:
 
@@ -480,7 +480,7 @@ Typical pattern:
 - blurred/swollen optic disc
 - vascular mechanism involves the short posterior ciliary circulation
 
-### 7.5 Leber hereditary optic neuropathy (LHON)
+## 7.5 Leber hereditary optic neuropathy (LHON)
 
 Characteristic features:
 
@@ -515,10 +515,10 @@ Tobacco-related toxic optic neuropathy can produce a **centrocecal scotoma**, an
 
 Blunt or penetrating orbital/head trauma can produce optic-nerve dysfunction and eventually primary optic atrophy. An RAPD, color deficit, reduced acuity, and field loss depend on the severity and side of involvement.
 
-### 7.8 Optic atrophy
+## 7.8 Optic atrophy
 
 > **Diagram omitted:** Types of optic atrophy.
-#### Primary optic atrophy
+### Primary optic atrophy
 
 The optic disc is:
 
@@ -535,7 +535,7 @@ Associations include:
 - toxic/nutritional optic neuropathies
 - neurosyphilis
 
-#### Secondary optic atrophy
+### Secondary optic atrophy
 
 Occurs after antecedent disc swelling.
 
@@ -550,7 +550,7 @@ Associations include:
 - papillitis
 - AION
 
-#### Consecutive optic atrophy
+### Consecutive optic atrophy
 
 Results from disease of the retina and its blood supply.
 
@@ -613,7 +613,7 @@ Usually X-linked recessive for red-green defects, with males affected more frequ
 - Nagel anomaloscope.
 - Lantern testing.
 
-## 9. Ocular-motor system and extraocular muscles
+# 9. Ocular-motor system and extraocular muscles
 
 There are six extraocular muscles:
 
@@ -632,7 +632,7 @@ Innervation:
 
 Mnemonic: **LR6, SO4, all the rest 3.**
 
-### Superior oblique actions
+## Superior oblique actions
 
 The mnemonic **SoLID** summarizes:
 
@@ -642,7 +642,7 @@ The mnemonic **SoLID** summarizes:
 
 The key functional action tested clinically is **depression in adduction**.
 
-### Yoke muscles and Hering law
+## Yoke muscles and Hering law
 
 Yoke muscles are pairs of muscles, one in each eye, that act together to produce a particular gaze direction. For horizontal gaze:
 
@@ -801,9 +801,9 @@ The pathway is used clinically to assess brainstem function and involves:
 - CN VIII afferent input
 - CN III and VI efferent ocular motor output
 
-## 14. Diplopia and squint examination
+### 14. Diplopia and squint examination
 
-### 14.1 Comitant versus incomitant deviation
+#### 14.1 Comitant versus incomitant deviation
 
 **Esotropia is the most common clinical presentation of comitant squint.**
 
@@ -814,7 +814,7 @@ The pathway is used clinically to assess brainstem function and involves:
 | Diplopia | Usually absent if sensory adaptation is established | Common |
 | Head posture | Usually absent | Compensatory |
 
-### 14.2 Paralytic versus restrictive disease
+#### 14.2 Paralytic versus restrictive disease
 
 | Feature | Paralytic | Restrictive |
 |---|---|---|
@@ -822,7 +822,7 @@ The pathway is used clinically to assess brainstem function and involves:
 | Forced duction | Eye moves freely | Movement remains restricted |
 | Examples | CN III/IV/VI palsy | Orbital fracture, thyroid eye disease |
 
-### 14.3 Hirschberg corneal-reflex test
+#### 14.3 Hirschberg corneal-reflex test
 
 The Hirschberg test uses the position of the corneal light reflex.
 
@@ -839,13 +839,13 @@ A practical reference table:
 
 Memory aid: **DOOR** - deviation is opposite the reflex displacement.
 
-### 14.4 Cover and uncover tests
+#### 14.4 Cover and uncover tests
 
 - **Cover test:** detects a manifest deviation/tropia.
 - **Uncover test:** detects a latent deviation/phoria.
 - The direction of compensatory eye movement indicates the direction of the deviation.
 
-### 14.5 Prism-bar cover test
+#### 14.5 Prism-bar cover test
 
 A prism-bar cover test is used to quantify the magnitude of tropia.
 
@@ -855,7 +855,7 @@ The exam relationship is:
 
 Prism orientation follows **DOOB** - deviation is opposite the prism base direction.
 
-### 14.6 Hess and Lees screens
+##### 14.6 Hess and Lees screens
 
 Used to identify the paretic/restricted extraocular muscle responsible for diplopia.
 
@@ -868,7 +868,7 @@ Used to identify the paretic/restricted extraocular muscle responsible for diplo
 
 **Lees screen** is another dissociation method for mapping ocular motility defects.
 
-### 14.7 Maddox rod and Maddox wing
+##### 14.7 Maddox rod and Maddox wing
 
 The Maddox rod is a red striated lens used to dissociate the eyes.
 
@@ -880,7 +880,7 @@ Uses include:
 
 The **Maddox wing** uses dissociation at near to assess horizontal, vertical, and torsional deviations. One eye views an arrow while the other views the numbered scale, allowing the perceived deviation to be read directly.
 
-### 14.8 Worth four-dot test
+##### 14.8 Worth four-dot test
 
 A four-dot instrument using red-green filters evaluates binocular sensory status.
 
@@ -895,12 +895,12 @@ Typical interpretations:
 
 The test is also used to assess anomalous retinal correspondence and sensory suppression. **Bagolini striated glasses** provide another low-dissociation assessment of simultaneous binocular perception and sensory fusion.
 
-### 14.9 Titmus fly test
+##### 14.9 Titmus fly test
 
 Used to assess stereopsis and grade binocular single vision at a higher sensory level.
 
 > **Diagram omitted:** Strabismus tests: cover test, Hess chart and Worth four-dot.
-## 15. Myasthenia gravis as a neuro-ophthalmic disorder
+### 15. Myasthenia gravis as a neuro-ophthalmic disorder
 
 Typical ocular myasthenic features include:
 
@@ -912,7 +912,7 @@ Typical ocular myasthenic features include:
 
 The classic historical **Tensilon (edrophonium) test** demonstrates transient improvement in ptosis or ophthalmoplegia. In contemporary practice, diagnosis usually relies on clinical assessment plus appropriate antibody/electrophysiologic testing rather than routine edrophonium use.
 
-## 16. Thyroid eye disease and restrictive ophthalmopathy
+#### 16. Thyroid eye disease and restrictive ophthalmopathy
 
 Thyroid eye disease can cause both restrictive ocular-motor disease and **compressive optic neuropathy**.
 
@@ -922,7 +922,7 @@ Important features include:
 - autoimmune inflammation affects orbital fibroblasts and extraocular muscles
 - increased muscle volume and orbital connective-tissue changes increase orbital pressure and may produce proptosis
 
-### 16.1 Order of extraocular-muscle involvement
+##### 16.1 Order of extraocular-muscle involvement
 
 **Inferior rectus -> medial rectus -> superior rectus -> lateral rectus**.
 
@@ -930,7 +930,7 @@ Memory aid: **I M S L**.
 
 The inferior rectus is typically involved first.
 
-### 16.2 Motility pattern
+##### 16.2 Motility pattern
 
 Inferior-rectus fibrosis produces:
 
@@ -940,7 +940,7 @@ Inferior-rectus fibrosis produces:
 
 The muscle belly is primarily involved; relative tendon sparing helps distinguish thyroid myopathy from some other restrictive processes.
 
-### 16.3 Compressive optic neuropathy in thyroid eye disease
+##### 16.3 Compressive optic neuropathy in thyroid eye disease
 
 Enlarged muscles at the orbital apex can compress the optic nerve, producing optic neuropathy. This is **compressive optic neuropathy, not optic neuritis**.
 
@@ -950,7 +950,7 @@ For threatened vision, treatment includes:
 - radiation/immunosuppression in appropriate cases
 - orbital decompression when vision is threatened or severe orbital crowding/exposure is present
 
-## 17. Cavernous sinus, superior orbital fissure and orbital apex syndromes
+#### 17. Cavernous sinus, superior orbital fissure and orbital apex syndromes
 
 > **Diagram omitted:** Cavernous sinus, orbital apex and related orbital syndromes.
 Relevant anatomy:
@@ -959,7 +959,7 @@ Relevant anatomy:
 - cranial nerves III, IV, V1, and VI are related to the superior orbital fissure/cavernous sinus region
 - V1 and VI have particularly important relationships to the annulus of Zinn in the orbit
 
-### 17.1 Cavernous sinus thrombosis
+##### 17.1 Cavernous sinus thrombosis
 
 Cavernous sinus thrombosis can arise as a complication of orbital or facial infection and is an ophthalmic/neurosurgical emergency.
 
@@ -973,7 +973,7 @@ Important clinical localization:
 
 Orbital cellulitis requires urgent treatment because of the risk of cavernous sinus thrombosis.
 
-### 17.2 Tolosa-Hunt syndrome
+##### 17.2 Tolosa-Hunt syndrome
 
 Granulomatous inflammation involving the cavernous sinus/superior orbital fissure/orbital apex can produce:
 
@@ -981,11 +981,11 @@ Granulomatous inflammation involving the cavernous sinus/superior orbital fissur
 - involvement of multiple ocular motor nerves
 - V1 sensory involvement in the relevant anatomic compartment
 
-### 17.3 Superior orbital fissure syndrome
+##### 17.3 Superior orbital fissure syndrome
 
 A superior orbital fissure lesion can involve **CN III, IV, VI and V1**, producing ophthalmoplegia with forehead/corneal sensory loss. The optic nerve is not primarily involved; therefore, **vision may be preserved unless the lesion extends to the orbital apex**.
 
-### 17.4 Orbital apex syndrome
+##### 17.4 Orbital apex syndrome
 
 The orbital apex contains the optic nerve plus ocular motor and sensory pathways. A lesion here can produce a combination of:
 
@@ -995,7 +995,7 @@ The orbital apex contains the optic nerve plus ocular motor and sensory pathways
 
 This distinguishes orbital-apex disease from isolated cavernous-sinus disease when the optic nerve is also affected.
 
-### 17.5 Cavernous sinus versus superior orbital fissure versus orbital apex versus orbital cellulitis
+##### 17.5 Cavernous sinus versus superior orbital fissure versus orbital apex versus orbital cellulitis
 
 | Feature | Cavernous sinus thrombosis | Orbital apex syndrome | Orbital cellulitis |
 |---|---|---|---|
@@ -1006,7 +1006,7 @@ This distinguishes orbital-apex disease from isolated cavernous-sinus disease wh
 | Laterality | May begin unilateral and become bilateral | Usually unilateral | Usually unilateral |
 | Proptosis/chemosis | Marked | Less prominent than the ophthalmoplegia/visual loss combination | Marked |
 
-### 17.6 Carotid-cavernous fistula
+##### 17.6 Carotid-cavernous fistula
 
 A carotid-cavernous fistula is a vascular communication between the carotid circulation and cavernous sinus that can produce a distinctly neuro-ophthalmic presentation. Important features include:
 
@@ -1015,9 +1015,9 @@ A carotid-cavernous fistula is a vascular communication between the carotid circ
 - trauma is a common association, particularly with direct high-flow fistulas
 - vascular imaging, particularly **digital-subtraction angiography**, for definitive characterization
 
-## 18. Foster Kennedy and pseudo-Foster Kennedy syndromes
+#### 18. Foster Kennedy and pseudo-Foster Kennedy syndromes
 
-### Foster Kennedy syndrome
+##### Foster Kennedy syndrome
 
 Classically associated with a frontal/olfactory-groove mass and characterized by the classic pattern of:
 
@@ -1025,13 +1025,13 @@ Classically associated with a frontal/olfactory-groove mass and characterized by
 - contralateral papilledema
 - ipsilateral anosmia
 
-### Pseudo-Foster Kennedy syndrome
+##### Pseudo-Foster Kennedy syndrome
 
 A similar asymmetric disc appearance can occur without a mass, particularly when one optic nerve has old optic atrophy and the opposite eye develops a new optic-disc swelling/ischemic event. **Non-arteritic anterior ischemic optic neuropathy** is an important cause.
 
-## 19. Clinical localization patterns that should be recognized immediately
+# 19. Clinical localization patterns that should be recognized immediately
 
-### 19.1 Monocular visual loss + RAPD
+## 19.1 Monocular visual loss + RAPD
 
 Think **optic nerve or severe retinal afferent disease**.
 
@@ -1041,17 +1041,17 @@ Altitudinal defect + sudden painless loss + swollen disc -> ischemic optic neuro
 
 Centrocecal defect + dyschromatopsia -> toxic/nutritional optic neuropathy is a classic pattern.
 
-### 19.2 Bitemporal hemianopia
+## 19.2 Bitemporal hemianopia
 
 Think **optic chiasm** until proven otherwise.
 
 Pituitary macroadenoma is a major exam association.
 
-### 19.3 Monocular loss + contralateral superotemporal quadrantanopia
+## 19.3 Monocular loss + contralateral superotemporal quadrantanopia
 
 Think **junctional scotoma** at the optic-nerve/chiasm junction.
 
-### 19.4 Homonymous hemianopia
+## 19.4 Homonymous hemianopia
 
 Think a **retro-chiasmal lesion**.
 
@@ -1060,7 +1060,7 @@ Think a **retro-chiasmal lesion**.
 - inferior quadrantanopia -> parietal/Baum loop
 - highly congruous hemianopia with macular sparing -> occipital cortex
 
-### 19.5 Visual loss + normal pupils in bilateral symmetric disease
+## 19.5 Visual loss + normal pupils in bilateral symmetric disease
 
 A normal or minimally asymmetric pupillary response does **not** exclude severe bilateral optic neuropathy when both afferent pathways are affected equally. LHON is an important exam example.
 
@@ -1076,28 +1076,28 @@ Distinguish:
 - optic-disc drusen causing pseudopapilledema
 - myelinated nerve fibers
 
-### 19.7 Anisocoria
+#### 19.7 Anisocoria
 
 - greater in dark -> small abnormal pupil -> Horner pathway
 - greater in light -> large abnormal pupil -> CN III/parasympathetic/pharmacologic causes
 
-### 19.8 Ptosis + miosis
+#### 19.8 Ptosis + miosis
 
 Think **Horner syndrome**.
 
-### 19.9 Ptosis + down-and-out eye + mydriasis
+#### 19.9 Ptosis + down-and-out eye + mydriasis
 
 Think **CN III palsy with parasympathetic involvement**, and consider compressive causes urgently.
 
-### 19.10 Abduction failure
+#### 19.10 Abduction failure
 
 Think **CN VI palsy** unless another restrictive or mechanical process explains it.
 
-### 19.11 Adduction failure + abducting-eye nystagmus
+#### 19.11 Adduction failure + abducting-eye nystagmus
 
 Think **internuclear ophthalmoplegia (MLF lesion)**.
 
-### 19.12 Bilateral fluctuating ptosis + diplopia
+#### 19.12 Bilateral fluctuating ptosis + diplopia
 
 Think **ocular myasthenia gravis**.
 
@@ -1138,9 +1138,9 @@ Think **ocular myasthenia gravis**.
 
 **Optic nerve -> monocular; chiasm -> bitemporal; tract/LGN/radiations/cortex -> contralateral homonymous; Meyer -> superior quadrant; Baum -> inferior quadrant; occipital -> congruous hemianopia with macular sparing when PCA territory is involved.**
 
-## 21. Visual-field testing and neuro-ophthalmic examination
+### 21. Visual-field testing and neuro-ophthalmic examination
 
-### 21.1 Formal visual-field examination
+#### 21.1 Formal visual-field examination
 
 Formal perimetry converts the patient's subjective visual field into a reproducible map.
 
@@ -1149,7 +1149,7 @@ Formal perimetry converts the patient's subjective visual field into a reproduci
 - A normal visual field is not perfectly circular; it is broadly oval. The exam figures give approximately **100° temporally, 60° nasally, 50° superiorly, and 70° inferiorly**, with the physiologic blind spot roughly **10°–20° from fixation**. The temporal field is therefore widest and the superior field narrowest, with an inferonasal indentation/notch.
 - Mapping a defect as **central, centrocecal, arcuate/nerve-fiber, sectoral, altitudinal, quadrantic, heteronymous, or homonymous** is often more localizing than the absolute amount of visual loss.
 
-### 21.2 Practical examination sequence
+#### 21.2 Practical examination sequence
 
 A practical neuro-ophthalmic examination sequence is:
 
@@ -1166,7 +1166,7 @@ A practical neuro-ophthalmic examination sequence is:
 11. **Brainstem reflexes** such as corneal and vestibulo-ocular responses when central disease is suspected.
 
 
-## 22. Essential exam mnemonics
+#### 22. Essential exam mnemonics
 
 - **LR6 SO4, rest 3** -> extraocular motor innervation.
 - **TIPS** -> Temporal lobe, Inferior optic radiation, Pie in the Sky.
@@ -1179,9 +1179,9 @@ A practical neuro-ophthalmic examination sequence is:
 - **DOOM** -> deviation opposite the compensatory eye movement on cover testing.
 - **DOOB** -> deviation opposite the prism base direction.
 
-## 23. Rapid localization summary
+#### 23. Rapid localization summary
 
-### Visual loss
+##### Visual loss
 
 **Monocular** -> optic nerve/retina.
 
@@ -1195,7 +1195,7 @@ A practical neuro-ophthalmic examination sequence is:
 
 **Congruous homonymous hemianopia with macular sparing** -> occipital cortex.
 
-### Pupil
+##### Pupil
 
 **RAPD** -> asymmetric afferent pathway disease.
 
@@ -1207,7 +1207,7 @@ A practical neuro-ophthalmic examination sequence is:
 
 **Tonic near response + segmental iris palsy** -> Adie pupil.
 
-### Eye movements
+##### Eye movements
 
 **Abduction failure** -> VI palsy.
 
@@ -1219,7 +1219,7 @@ A practical neuro-ophthalmic examination sequence is:
 
 **Fluctuating ptosis + diplopia** -> myasthenia gravis.
 
-### Optic disc
+##### Optic disc
 
 **Bilateral disc edema + raised ICP context** -> papilledema.
 
@@ -1237,7 +1237,7 @@ A practical neuro-ophthalmic examination sequence is:
 
 ---
 
-### References
+##### References
 
 - Akova U, Yoo H, Launico MV. *Neuroanatomy, Pupillary Light Reflexes and Pathway*. StatPearls/NCBI Bookshelf, updated 2025.
 - Optic Neuritis Treatment Trial research group. Randomized trials of corticosteroids for acute optic neuritis; *New England Journal of Medicine* and long-term ONTT reports.
