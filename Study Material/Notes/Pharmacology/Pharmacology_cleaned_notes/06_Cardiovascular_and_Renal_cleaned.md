@@ -482,6 +482,13 @@ listed examples:
 - Empagliflozin
 Also used in diabetes mellitus.
 Current CKD guidance supports SGLT2 inhibitors for appropriate patients with CKD, with or without diabetes depending on the indication and level of kidney function. They are kidney/cardiovascular risk-reducing therapy, not merely “diabetes drugs.”
+
+1. Dehydration/Hypovolemia/↓ RBF/↓ GFR
+	1. Not good for AKI
+2. ↓ BP, 
+	1. Stop 3 days befor any surgery
+3. Glycosuria/UTI/Vulvovaginitis/Fournier's gangrene/Perineal Fascitis/Weight loss
+4. Euglycemic DKA ↑ 
 #### ACEI/ARB
 Current KDIGO guidance places particular emphasis on **ACEI or ARB in CKD with albuminuria when indicated**, especially in diabetic or non-diabetic albuminuric CKD.
 Do **not** routinely combine ACEI + ARB.
