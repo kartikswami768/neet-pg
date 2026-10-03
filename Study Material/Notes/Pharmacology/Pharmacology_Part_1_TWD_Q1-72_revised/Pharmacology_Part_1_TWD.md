@@ -201,7 +201,11 @@ A 68-year-old woman presents with a 6- month history of a sudden, overwhelming u
 **A** - Oxybutynin
 
 #### Discussion
+Answer: B. Mirabegron
 
+Why: Mirabegron is a β₃-adrenergic agonist → detrusor relaxation during bladder filling → ↑ bladder capacity, treating overactive bladder/urge incontinence.
+
+It is particularly suitable here because she has Sjögren’s + chronic constipation—antimuscarinics like oxybutynin would worsen dryness and constipation.
 
 ### Question 13
 
