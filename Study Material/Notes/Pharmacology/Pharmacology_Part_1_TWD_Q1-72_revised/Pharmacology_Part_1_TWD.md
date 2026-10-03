@@ -179,11 +179,12 @@ A 35-year-old patient with a known history of COPD undergoes orthopaedic surgery
 
 #### My answer
 **B** - Bethanechol
-
-###Dis
-
 #### Discussion
+Answer: A. Neostigmine
 
+Why: Neostigmine is an AChE inhibitor → ↑ ACh at muscarinic receptors → detrusor contraction, promoting bladder emptying.
+
+* COPD: neostigmine can cause bronchospasm, so clinically bethanechol may be considered in some contexts; however, among the given options, neostigmine is the intended answer for postoperative urinary retention.
 
 ### Question 12
 
