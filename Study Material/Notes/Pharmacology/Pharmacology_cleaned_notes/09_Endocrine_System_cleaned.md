@@ -353,6 +353,27 @@ Fracture concerns have been strongest with specific agents/populations rather th
 ADA 2026 advises avoiding SGLT2 inhibitors during severe acute illness, ketonemia/ketonuria, prolonged fasting, and around surgery; scheduled surgery generally warrants holding them in advance according to agent-specific guidance.
 ### Diabetic Complications, Obesity & Additional Agents
 #### Pharmacological Treatment of Selected Diabetic Complications
+#### MacroVascular Complications
+##### CAD
+1. Cholesterol Lowering Drugs
+	1. Statin 
+	2. Bampedoic Acid
+	3. Ezetimide can be used as add on with Statin
+2. Antiplatelet
+	1. Aspirine/Clopidogrel
+	2. Aspirin + Rivaroxaban
+3. Low Dose Colchicine
+4. Anti DM 
+	1. Metformin
+	2. SGLT 2
+	3. GLP 1 analogues
+5. Anti HTN
+	1. ACE inhibitors/ARB
+
+##### CVD
+- Decrease Cholesterol
+- anti platelet
+- 
 ##### Diabetic gastroparesis
 - Erythromycin → motilin receptor → ↑ GI motility.
 This is a pharmacologic option because macrolides can act as motilin agonists and stimulate gastric emptying.
@@ -360,7 +381,8 @@ This is a pharmacologic option because macrolides can act as motilin agonists an
 - Clonidine → α2-receptor mechanism → reduced intestinal secretion.
 ##### Diabetic retinopathy
 abnormal retinal neovascularization associated with VEGF and then gives anti-VEGF drugs.
-##### Anti-VEGF strategy
+- GLP1 analogues except Semaglutide
+###### Anti-VEGF strategy
 - Inhibit VEGF-mediated neovascularization.
 - Intravitreal administration.
 - Bevacizumab
@@ -368,7 +390,9 @@ abnormal retinal neovascularization associated with VEGF and then gives anti-VEG
 - Ranibizumab
 For diabetic macular edema/proliferative diabetic retinopathy, commonly used intravitreal anti-VEGF agents include **ranibizumab, aflibercept, and bevacizumab**. Ramucirumab is not a standard first-line intravitreal anti-VEGF agent for diabetic retinopathy and should not be grouped with the standard ophthalmic agents merely on the basis of VEGF inhibition.
 ##### Diabetic neuropathy
-- Pregabalin.
+- Pregabalin/gabapentin
+- Duloxetin
+- 
 ##### Renal-safe drugs
 - Linagliptin
 - Pioglitazone

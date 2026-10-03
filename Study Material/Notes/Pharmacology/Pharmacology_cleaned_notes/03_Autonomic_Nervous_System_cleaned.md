@@ -1204,21 +1204,28 @@ Effects:
 - Tamsulosin
 - Silodosin
 Used mainly for LUTS/BPH.
+**Adverse Effects:** 
+1. Floppy iris Syndrome (miosis even after administering mydriating agent)
+2. Retrograde Ejaculation
 These agents can still cause adverse effects, particularly **ejaculatory dysfunction** and some degree of orthostatic symptoms; “no risk of hypotension” is too absolute.
 # 58. BENIGN PROSTATIC HYPERPLASIA (BPH)
 ## 58.1 Treatment goals
 ### Goal 1 — improve dynamic obstruction
 Use an **α1 blocker**:
 - Tamsulosin
+- Alfuzosin (Sustained Released form)
+
+Prazosin has short activity → Multiple times → elderly will be less compliant
+
+Drugs that we used to give earlier but don't give them nowadays due to histological changes in prostate:
 - Silodosin
-- Alfuzosin
 - Terazosin
 - Doxazosin
 ### Goal 2 — reduce prostate size / disease progression
 Use a **5α-reductase inhibitor**:
 - Finasteride
 - Dutasteride
-## 58.2 5α-reductase inhibitors
+#### 58.2 5α-reductase inhibitors
 Mechanism:
 ```text
 Testosterone
@@ -1231,14 +1238,17 @@ Androgen-dependent prostate growth
 - ↓ DHT
 - Shrink enlarged prostate over time
 - Reduce risk of BPH progression/urinary retention in suitable patients
-### Finasteride
+#### Finasteride
 - Inhibits predominantly type II 5α-reductase.
-### Dutasteride
+#### Dutasteride
 - Inhibits type I and type II 5α-reductase.
 **Hair loss**
 - Finasteride is a recognized treatment for androgenetic alopecia.
 - Dutasteride is used off-label in many settings.
 5ARIs are most useful when the prostate is demonstrably enlarged. They do **not** produce the immediate symptom relief of α1 blockers.
+### Supportive Treatment
+Mirabegron → Decrease Urge
+PDE-5 Inhibitor; Tadalfil → maintain Penile tone which will prevent falling of urine on cloths
 # 59. SCORPION STING
 - Catecholamine/α1-mediated vasoconstriction
 - Hypertension

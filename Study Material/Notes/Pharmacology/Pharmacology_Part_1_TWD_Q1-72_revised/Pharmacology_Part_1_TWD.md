@@ -239,11 +239,14 @@ A 70-year-old man with a history of hypertension and chronic kidney disease pres
 **D** - Terazosin
 
 #### Discussion
-
+Tamsulosin is best medicine for 
+1. BPH (lifelong)
+2. Urethral Stone
+3. Post operative retention of urine
+answer here is alfuzosin which is approved for BPH in sustained release form
+Terazosin was historically used for such scenario but it is not used now.
 
 ## Cardiovascular & Renal Pharmacology
-
-
 ### Question 15
 
 A 62-year-old patient with type 2 diabetes mellitus and chronic kidney disease (CKD) stage 3a with an albumin-to-creatinine ratio of 450 mg/g is being evaluated for pharmacological therapy to slow the progression of kidney disease and reduce cardiovascular mortality. Which of the following drug classes is NOT considered one of the established "four pillars" of pharmacological management of diabetic kidney disease?
@@ -276,6 +279,7 @@ A person at an altitude of 3,000 m presents with breathlessness and pulmonary ed
 **C** - Tadalafil
 
 #### Discussion
+Answer is Dexamethasone
 
 
 ### Question 17
