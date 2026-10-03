@@ -231,28 +231,28 @@ Shine a torch from the temporal side:
 - More reliable than Goldmann in the material's comparison.
 - Used particularly in post-LASIK cases where a thin cornea may give a falsely low Goldmann reading.
 
-### Rebound tonometry
+#### Rebound tonometry
 
 - Useful for **self-measurement / self-monitoring**.
 
-### Non-contact tonometry
+#### Non-contact tonometry
 
 - Air-puff method.
 - Used for screening, including screening camps.
 
-### Transpalpebral tonometry
+#### Transpalpebral tonometry
 
 - Instruments include **Diaton** and **Proview**.
 - Measurement is obtained through the eyelid and is not commonly used.
 
-### Ocular Response Analyzer
+#### Ocular Response Analyzer
 
 - A non-contact applanation instrument.
 - Based on **corneal hysteresis**.
 
-## 7. Optic Nerve Head and Glaucomatous Optic Neuropathy
+# 7. Optic Nerve Head and Glaucomatous Optic Neuropathy
 
-### Examination of the optic disc
+## Examination of the optic disc
 
 Methods described include:
 - **Direct ophthalmoscopy:** approximately 15× magnification; central fundus is visualized; no binocular depth perception.
@@ -260,7 +260,7 @@ Methods described include:
 - **Confocal scanning laser tomography**.
 - **Spectral-domain OCT**.
 
-### Glaucomatous cupping
+## Glaucomatous cupping
 
 Glaucomatous cupping reflects progressive loss of neural tissue at the optic disc.
 
@@ -288,7 +288,7 @@ Key structural changes:
 > **Diagram omitted:** Retinal nerve fibre defect.
 *Figure 7. Clinical appearance illustrating a retinal nerve fibre defect.*
 
-### Lamina cribrosa
+## Lamina cribrosa
 
 Remodelling of the **lamina cribrosa** contributes to changes in optic disc architecture, including deepening of the cup and nasal displacement of vessels.
 
@@ -369,7 +369,7 @@ POAG is a **chronic** glaucoma with an open anterior chamber angle despite defec
 
 The characteristic sequence follows the glaucomatous pattern described above, beginning with subtle arcuate/paracentral defects and progressing through arcuate and nasal-step defects to advanced loss, while the **temporal island is last to be lost**.
 
-## 10. Normal-Tension Glaucoma
+### 10. Normal-Tension Glaucoma
 
 - IOP remains **constantly <21 mmHg** in the material.
 - Glaucomatous optic disc changes are present.
@@ -378,7 +378,7 @@ The characteristic sequence follows the glaucomatous pattern described above, be
 
 The clinical distinction is therefore structural and functional glaucomatous damage despite an IOP that remains within the quoted normal range.
 
-## 11. Ocular Hypertension
+#### 11. Ocular Hypertension
 
 - IOP is raised, **>21 mmHg**.
 - Fundus/optic disc is described as normal.
@@ -488,7 +488,7 @@ The described emergency treatment includes:
 6. **10% topical glycerine** is listed among medical measures.
 7. Lens extraction may be considered when indicated.
 
-#### Definitive treatment
+##### Definitive treatment
 
 - **Laser peripheral iridotomy** is the treatment of choice.
 - **Nd:YAG laser**.
@@ -509,9 +509,9 @@ The described emergency treatment includes:
 
 Absolute glaucoma appears in the angle-closure classification and is also specifically associated with cyclodestructive treatment when IOP must be controlled by reducing aqueous production.
 
-## 13. Secondary Glaucomas
+# 13. Secondary Glaucomas
 
-### 13.1 Pigmentary glaucoma
+## 13.1 Pigmentary glaucoma
 
 Pigmentary glaucoma is a **secondary open-angle glaucoma**.
 
@@ -529,7 +529,7 @@ Typical associations/features:
 > **Diagram omitted:** Pigmentary and related secondary-glaucoma findings.
 *Figure 12. Clinical appearance associated with pigment dispersion and secondary glaucoma.*
 
-### 13.2 Pseudoexfoliation glaucoma
+## 13.2 Pseudoexfoliation glaucoma
 
 Pseudoexfoliation is described as the **most common cause of secondary open-angle glaucoma**.
 
@@ -543,7 +543,7 @@ Findings:
 > **Diagram omitted:** Posner-Schlossman syndrome.
 *Figure 13. Posner-Schlossman clinical appearance and schematic relationship of inflammation, angle, and pressure elevation.*
 
-### 13.3 Neovascular glaucoma
+## 13.3 Neovascular glaucoma
 
 Neovascular glaucoma begins with **retinal ischaemia/hypoxia**, which stimulates angiogenic factors, especially **VEGF**.
 
@@ -565,9 +565,9 @@ Management:
 > **Diagram omitted:** Neovascular glaucoma.
 *Figure 14. Rubeosis iridis and VEGF-driven neovascularization in neovascular glaucoma.*
 
-### 13.4 Lens-induced glaucoma
+## 13.4 Lens-induced glaucoma
 
-#### Phacomorphic glaucoma
+### Phacomorphic glaucoma
 
 - Usually associated with an **intumescent swollen lens**, particularly in advanced/hypermature cataract.
 - Swollen lens pushes the iris forward.
@@ -575,7 +575,7 @@ Management:
 - Lens is **swollen**.
 - The mechanism is therefore largely angle-closure related.
 
-#### Phacolytic glaucoma
+### Phacolytic glaucoma
 
 - Associated with a **hypermature/Morgagnian cataract**.
 - Lens proteins escape through an intact capsule.
@@ -591,7 +591,7 @@ Management:
 | Anterior chamber | Shallow | Deep |
 | Main mechanism | Lens pushes iris forward | Lens protein leakage → macrophages → trabecular blockage |
 
-### 13.5 Malignant glaucoma / ciliary block glaucoma
+## 13.5 Malignant glaucoma / ciliary block glaucoma
 
 Also called **ciliary block glaucoma**.
 
@@ -607,7 +607,7 @@ Management described:
 - If the response is inadequate, openings can be created in the **anterior hyaloid membrane** by Nd:YAG laser.
 - If this fails, **pars plana vitrectomy** is performed.
 
-### 13.6 Posner-Schlossman syndrome (glaucomatocyclitic crisis)
+## 13.6 Posner-Schlossman syndrome (glaucomatocyclitic crisis)
 
 - Mild anterior uveitis with attacks of raised IOP.
 - The glaucoma component predominates.
@@ -626,11 +626,11 @@ Treatment:
 - Topical steroids are used under antiglaucoma cover.
 - Prostaglandin analogues and pilocarpine are contraindicated in the material because of worsening of the inflammatory component.
 
-## 14. Congenital Glaucoma
+# 14. Congenital Glaucoma
 
 Congenital glaucoma is a **developmental open-angle glaucoma** caused by abnormal development of the trabecular outflow pathway.
 
-### Pathogenesis
+## Pathogenesis
 
 - **Trabeculodysgenesis**.
 - **Barkan's membrane** lies in place of a normally developed trabecular meshwork and blocks aqueous outflow.
@@ -641,7 +641,7 @@ Congenital glaucoma is a **developmental open-angle glaucoma** caused by abnorma
 > **Diagram omitted:** Congenital glaucoma clinical features.
 *Figure 15. Clinical photographs demonstrating buphthalmos, corneal oedema and Haab's striae.*
 
-### Clinical features
+## Clinical features
 
 - **Buphthalmos:** enlarged globe / ox-eye appearance.
 - Deep anterior chamber.
@@ -656,7 +656,7 @@ Congenital glaucoma is a **developmental open-angle glaucoma** caused by abnorma
 
 The horizontal corneal diameter for **megalocornea is given as >11.5 mm** in one congenital-glaucoma description; another clinical sign set uses **corneal diameter >13 mm** for the enlarged cornea of buphthalmos.
 
-### Management
+## Management
 
 Congenital glaucoma is managed primarily by **surgery**; medical treatment is described as temporary/useful until the diagnosis and definitive plan are established.
 
@@ -872,9 +872,9 @@ Devices listed include:
 
 **Minimally invasive glaucoma surgery** is included as a surgical option. **iStent** is specifically listed as a smaller drainage device.
 
-## 18. Important Clinical Comparisons
+# 18. Important Clinical Comparisons
 
-### Ocular hypertension vs POAG vs normal-tension glaucoma
+## Ocular hypertension vs POAG vs normal-tension glaucoma
 
 | Feature | Ocular hypertension | POAG | Normal-tension glaucoma |
 |---|---|---|---|
@@ -883,7 +883,7 @@ Devices listed include:
 | Visual field | Normal | Defect present | Defect present |
 | Key concept | Pressure elevation without damage | Pressure-associated glaucomatous optic neuropathy | Glaucomatous damage despite normal-range IOP |
 
-### Open-angle vs angle-closure glaucoma
+## Open-angle vs angle-closure glaucoma
 
 | Feature | Open-angle | Angle-closure |
 |---|---|---|
@@ -893,7 +893,7 @@ Devices listed include:
 | Laser principle | Trabeculoplasty | Iridotomy/iridoplasty |
 | Typical congenital/acute relationship | Chronic adult disease common | Acute attacks can occur when the angle closes rapidly |
 
-### Phacomorphic vs phacolytic glaucoma
+## Phacomorphic vs phacolytic glaucoma
 
 | Feature | Phacomorphic | Phacolytic |
 |---|---|---|
@@ -902,7 +902,7 @@ Devices listed include:
 | Mechanism | Forward iris displacement/angle crowding | Lens protein + macrophage obstruction of trabecular meshwork |
 | Typical cataract | Intumescent | Morgagnian / hypermature |
 
-### Pseudoexfoliation vs pigmentary glaucoma
+## Pseudoexfoliation vs pigmentary glaucoma
 
 | Feature | Pseudoexfoliation | Pigmentary |
 |---|---|---|
@@ -911,7 +911,7 @@ Devices listed include:
 | Angle sign | Sampaolesi line | Sampaolesi line |
 | Typical demographic clue | Secondary open-angle glaucoma | Young myopes |
 
-### Acute angle closure vs malignant glaucoma
+## Acute angle closure vs malignant glaucoma
 
 | Feature | Acute angle closure | Malignant glaucoma |
 |---|---|---|
@@ -968,9 +968,9 @@ Devices listed include:
 - **Resistant glaucoma:** drainage devices / seton procedures; Ahmed valve and other implants are listed.
 - **MIGS:** iStent is specifically included.
 
-## 20. Management Logic
+### 20. Management Logic
 
-### Open-angle glaucoma
+#### Open-angle glaucoma
 
 1. Establish the diagnosis using IOP, optic disc/structural assessment and visual field testing.
 2. Establish and maintain a **target IOP** intended to stop functional progression.
@@ -980,7 +980,7 @@ Devices listed include:
 6. **Laser trabeculoplasty** is used for an open angle.
 7. Uncontrolled or resistant disease may require **trabeculectomy, non-penetrating surgery, drainage devices or MIGS**.
 
-### Angle-closure glaucoma
+#### Angle-closure glaucoma
 
 1. Determine whether pupillary block, plateau iris or another mechanism is responsible.
 2. Acute attack is an emergency because rapid IOP elevation can cause permanent visual loss.
@@ -990,13 +990,13 @@ Devices listed include:
 6. Persistent plateau iris may require **laser iridoplasty**.
 7. The fellow eye may receive prophylactic iridotomy.
 
-### Congenital glaucoma
+#### Congenital glaucoma
 
 - Definitive treatment is **surgical**.
 - Trabeculotomy/trabeculectomy are emphasized.
 - **Goniotomy** is preferred when the cornea is clear.
 
-## 21. Progression and Follow-up Principles
+### 21. Progression and Follow-up Principles
 
 Glaucoma progression is monitored through the same structural and functional domains that define the disease:
 
@@ -1006,9 +1006,9 @@ Glaucoma progression is monitored through the same structural and functional dom
 - **Visual field progression**, particularly development and enlargement of paracentral, Seidel, arcuate, double-arcuate and nasal-step defects.
 - The practical endpoint is preservation of useful visual field without compromising quality of life.
 
-## 22. Compact Revision Tables
+### 22. Compact Revision Tables
 
-### Angle assessment
+#### Angle assessment
 
 | Test | Key point |
 |---|---|
@@ -1018,7 +1018,7 @@ Glaucoma progression is monitored through the same structural and functional dom
 | **UBM** | Useful for angle/ciliary body configuration, including plateau iris |
 | **ASOCT** | Anterior-segment structural angle imaging |
 
-### Tonometry at a glance
+#### Tonometry at a glance
 
 | Instrument | Main use / distinguishing point |
 |---|---|
@@ -1033,7 +1033,7 @@ Glaucoma progression is monitored through the same structural and functional dom
 | Ocular Response Analyzer | Corneal hysteresis |
 | Transpalpebral | Through eyelid; uncommon |
 
-### Major antiglaucoma drugs
+#### Major antiglaucoma drugs
 
 | Class | Examples | Primary action | Key adverse effects / cautions |
 |---|---|---|---|
@@ -1045,7 +1045,7 @@ Glaucoma progression is monitored through the same structural and functional dom
 | Rho-kinase inhibitors | Netarsudil, ripasudil | ↑ Trabecular outflow | Vortex keratopathy |
 | Hyperosmotics | Mannitol, glycerol, urea, isosorbide | Dehydrate vitreous / rapidly lower IOP | Renal disease, compromised cardiac condition |
 
-### Glaucoma procedures
+#### Glaucoma procedures
 
 | Procedure | Main indication / mechanism |
 |---|---|
@@ -1062,7 +1062,7 @@ Glaucoma progression is monitored through the same structural and functional dom
 | Goniotomy | Congenital glaucoma, especially with clear cornea |
 | Trabeculotomy + trabeculectomy | Congenital glaucoma definitive surgery |
 
-## 23. Core Glaucoma Mental Model
+### 23. Core Glaucoma Mental Model
 
 **Glaucoma = characteristic optic neuropathy + irreversible visual field loss.**
 
