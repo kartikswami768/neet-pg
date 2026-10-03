@@ -145,23 +145,23 @@ Examples:
 ![Yoke muscles and gaze positions](images/E8_52.png)
 ---
 
-## 5. Laws governing binocular motor control
+### 5. Laws governing binocular motor control
 
-### Hering's law of equal innervation
+#### Hering's law of equal innervation
 Equal innervation is supplied to the **yoke muscles** during conjugate eye movements.
 
-### Sherrington's law of reciprocal inhibition
+#### Sherrington's law of reciprocal inhibition
 When an agonist contracts, its antagonist in the same eye receives reciprocal inhibition and relaxes.
 
 Failure or disturbance of these coordinated mechanisms can produce strabismus.
 
 ---
 
-# 6. Binocular vision and sensory adaptation
+### 6. Binocular vision and sensory adaptation
 
 Normal binocular vision depends on the two eyes receiving sufficiently similar images and the visual system combining them.
 
-### Grades of binocular single vision
+#### Grades of binocular single vision
 
 | Grade | Function | Typical test |
 |---|---|---|
@@ -172,38 +172,38 @@ Normal binocular vision depends on the two eyes receiving sufficiently similar i
 **Stereopsis** is the perception of depth produced by binocular disparity and represents the highest grade of binocular single vision.
 
 > **Diagram omitted:** Binocular vision tests.
-### Synoptophore / amblyoscope
+#### Synoptophore / amblyoscope
 Used to demonstrate and assess binocular single vision and its grades.
 
-### Titmus fly test
+#### Titmus fly test
 Tests **stereopsis (Grade 3 binocular single vision)**. Polarized glasses are used; the wings of the fly appear elevated when stereopsis is perceived.
 
 > **Diagram omitted:** Synoptophore and Titmus fly.
 ---
 
-## 7. Suppression, abnormal retinal correspondence and amblyopia
+### 7. Suppression, abnormal retinal correspondence and amblyopia
 
 A persistent manifest deviation may prevent the brain from receiving two conflicting images by adapting to the misalignment.
 
-### Suppression
+#### Suppression
 The image from the deviated eye is actively suppressed.
 
 - Suppression is an adaptation to **confusion**.
 - Persistent suppression can lead to **amblyopia**.
 
-### Anomalous retinal correspondence (ARC)
+#### Anomalous retinal correspondence (ARC)
 A sensory adaptation to persistent diplopia in which retinal points other than the normal corresponding points become functionally associated.
 
 - **Harmonious ARC** can maintain binocular single vision despite a manifest deviation.
 - **Non-harmonious ARC** is associated with diplopia.
 
-### Strabismic amblyopia
+#### Strabismic amblyopia
 Amblyopia is reduced vision without an identifiable organic cause, associated with persistent abnormal visual input.
 
 Large-angle infantile/childhood strabismus can cause:
 **large deviation → suppression of one eye → amblyopia**.
 
-### Occlusion therapy
+#### Occlusion therapy
 The material describes occlusion as prevention/treatment of amblyopia:
 - Patch the **normal/fixing eye** to stimulate the deviating eye.
 - The revision material describes patching the normal eye for a number of days equal to the child's age, followed by patching the deviated eye for 1 day.
@@ -212,7 +212,7 @@ The material describes occlusion as prevention/treatment of amblyopia:
 ![Worth four-dot interpretations](images/HYP_173.jpg)
 ---
 
-# 8. Clinical presentation: comitant vs incomitant strabismus
+## 8. Clinical presentation: comitant vs incomitant strabismus
 
 | Feature | Comitant | Incomitant / paralytic |
 |---|---|---|
@@ -226,7 +226,7 @@ A compensatory head posture places the eyes in a position where the deviation an
 
 ---
 
-# 9. Examination of a patient with squint
+### 9. Examination of a patient with squint
 
 The examination should establish:
 - Type and direction of deviation
@@ -241,13 +241,13 @@ The examination should establish:
 - Amblyopia
 - Refractive error, especially hypermetropia in suspected accommodative esotropia
 
-### Ocular motility
+#### Ocular motility
 
 Eye movements are examined in **all 9 directions of gaze**.
 
 The deviation should be compared in different gaze positions to determine whether it is comitant or incomitant.
 
-### Refraction
+#### Refraction
 
 Retinoscopy is performed to identify refractive errors, particularly hypermetropia.
 
@@ -255,7 +255,7 @@ Retinoscopy is performed to identify refractive errors, particularly hypermetrop
 
 Mnemonic: **SO HYPER**.
 
-### Fusional vergence
+#### Fusional vergence
 
 Fusional vergence is assessed using the **RAF ruler** in the provided material.
 
@@ -263,17 +263,17 @@ It measures the additional fusional power required to prevent a manifest esodevi
 
 ---
 
-# 10. Hirschberg test
+### 10. Hirschberg test
 
 The **Hirschberg corneal light reflex test** estimates ocular deviation from the position of the corneal light reflex.
 
 It uses **Purkinje image 1**, the corneal reflection of the light source.
 
-### Normal
+#### Normal
 
 The reflex lies approximately at the centre of the pupil and is symmetric between the two eyes.
 
-### Direction
+#### Direction
 
 **DOOR — Deviation Opposite Of Reflection**
 
@@ -282,7 +282,7 @@ The reflex lies approximately at the centre of the pupil and is symmetric betwee
 - Inferior displacement corresponds to **hypertropia**.
 - Superior displacement corresponds to **hypotropia**.
 
-### Approximate angle estimation
+#### Approximate angle estimation
 
 | Reflex position | Approximate deviation |
 |---|---:|
@@ -296,9 +296,9 @@ A **1 mm displacement** of the corneal reflex corresponds approximately to **7°
 ![Hirschberg test and angle estimation](images/HYP_164.jpg)
 ---
 
-# 11. Cover and uncover tests
+### 11. Cover and uncover tests
 
-### Cover test
+#### Cover test
 
 Used to detect a **tropia (manifest deviation)**.
 
@@ -309,7 +309,7 @@ Technique:
 
 A refixation movement demonstrates a manifest deviation.
 
-### Uncover test
+#### Uncover test
 
 Used to detect a **phoria (latent deviation)**.
 
@@ -322,9 +322,9 @@ The direction in which the eye moves during refixation is opposite to the direct
 ![Cover and cover-uncover tests](images/HYP_165.png)
 ---
 
-# 12. Prism measurements
+### 12. Prism measurements
 
-### Prism bar cover test
+#### Prism bar cover test
 
 The prism bar cover test is the most accurate objective method among the listed tests for quantifying a manifest deviation.
 
@@ -332,7 +332,7 @@ The prism is increased until the deviation is **neutralized and no refixation mo
 
 **Modern measurement principle:** the amount of deviation equals the prism power required to neutralize the movement.
 
-### Prism orientation
+#### Prism orientation
 
 The prism base is placed **opposite the direction of deviation**.
 
@@ -348,7 +348,7 @@ Mnemonic: **DOOB — Deviation Opposite Of Base.**
 ![Prism bar](images/E8_66.png)
 ---
 
-# 13. Krimsky test
+#### 13. Krimsky test
 
 The **Krimsky test** is a prism-reflection test and is particularly useful when conventional cover testing is difficult, such as in young or poorly cooperative patients.
 
@@ -359,9 +359,9 @@ The material also describes this as the **prism reflection test**.
 > **Diagram omitted:** Krimsky test.
 ---
 
-# 14. Maddox rod and Maddox wing
+### 14. Maddox rod and Maddox wing
 
-### Maddox rod
+#### Maddox rod
 
 A red, striated lens dissociates the two eyes so that one eye perceives a line while the other perceives a point.
 
@@ -371,11 +371,11 @@ Uses:
 - Assess cyclotropia
 - Can be used as a macular function test in the provided material
 
-### Double Maddox rod
+#### Double Maddox rod
 
 Used to quantify **torsional deviation**.
 
-### Maddox wing
+#### Maddox wing
 
 Primarily used for near testing in the provided material.
 
@@ -388,7 +388,7 @@ It creates artificial diplopia:
 ![Maddox rod](images/E8_65.jpg)
 ---
 
-# 15. Hess chart
+### 15. Hess chart
 
 The **Hess chart** is used to chart ocular muscle action and identify:
 - Underacting muscle
@@ -405,7 +405,7 @@ The Hess chart uses **concave grid lines**; an Amsler grid uses straight lines a
 ![Hess chart](images/HYP_171.png)
 ---
 
-# 16. Worth four-dot test
+#### 16. Worth four-dot test
 
 Used to assess:
 - Binocular single vision
@@ -421,7 +421,7 @@ The test uses:
 
 The patient wears red-green glasses, with the **red filter over the right eye** in the provided setup.
 
-### Responses
+##### Responses
 
 | Dots seen | Interpretation |
 |---|---|
@@ -433,7 +433,7 @@ The patient wears red-green glasses, with the **red filter over the right eye** 
 ![Worth four-dot test](images/HYP_173.jpg)
 ---
 
-# 17. Diplopia
+##### 17. Diplopia
 
 Diplopia means double vision.
 
@@ -446,7 +446,7 @@ It may be classified as:
 
 The material identifies **paralytic squint** as the commonest cause of binocular diplopia.
 
-### Relationship to deviation
+###### Relationship to deviation
 
 - **Exotropia** → crossed diplopia
 - **Esotropia** → uncrossed diplopia
@@ -454,7 +454,7 @@ The material identifies **paralytic squint** as the commonest cause of binocular
 
 ---
 
-# 18. Esotropia
+## 18. Esotropia
 
 **Esotropia** is inward deviation and is described as the commonest presentation of concomitant squint in the provided material.
 
@@ -462,9 +462,9 @@ It is broadly divided into:
 1. **Accommodative esotropia**
 2. **Non-accommodative esotropia / infantile esotropia**
 
-## Accommodative esotropia
+### Accommodative esotropia
 
-### Refractive accommodative esotropia
+#### Refractive accommodative esotropia
 
 - Associated with **hypermetropia**.
 - Uncorrected hypermetropia causes increased accommodative effort.
@@ -473,7 +473,7 @@ It is broadly divided into:
 - Deviation is described as **greater at distance than near** in the revision material.
 - **Treatment:** full correction of hypermetropia with convex spectacles.
 
-### Non-refractive / high AC/A accommodative esotropia
+#### Non-refractive / high AC/A accommodative esotropia
 
 - Hypermetropia is not the primary factor.
 - Refractive error may be normal.
@@ -482,12 +482,12 @@ It is broadly divided into:
 - Near correction with bifocals is used in the provided material.
 - Miotic treatment is listed in the revision material: **pilocarpine** and, in another revision, **echothiophate**.
 
-### Mixed accommodative esotropia
+#### Mixed accommodative esotropia
 
 - Hypermetropia is present.
 - AC/A ratio is also increased.
 
-### Infantile esotropia
+#### Infantile esotropia
 
 The material describes essential infantile esotropia as:
 - Large-angle deviation
@@ -505,7 +505,7 @@ Persistent infantile esotropia requires active management rather than observatio
 > **Diagram omitted:** Infantile squint.
 ---
 
-# 19. Exotropia
+### 19. Exotropia
 
 **Exotropia** is outward deviation.
 
@@ -519,25 +519,25 @@ The provided material mainly covers exotropia as:
 
 ---
 
-# 20. Vertical and torsional deviations
+### 20. Vertical and torsional deviations
 
-### Hypertropia
+#### Hypertropia
 One eye is deviated upward.
 
-### Hypotropia
+#### Hypotropia
 One eye is deviated downward.
 
-### Incyclotropia
+#### Incyclotropia
 Inward rotation/intorsion.
 
-### Excyclotropia
+#### Excyclotropia
 Outward rotation/extorsion.
 
 Torsional deviations may be difficult to appreciate clinically and are assessed with **double Maddox rods**.
 
 ---
 
-# 21. Paralytic strabismus
+#### 21. Paralytic strabismus
 
 Paralytic squint results from paralysis of an extraocular muscle, usually due to **CN III, CN IV or CN VI palsy**.
 
@@ -549,7 +549,7 @@ General features:
 
 ---
 
-## 21.1 Third cranial nerve palsy
+##### 21.1 Third cranial nerve palsy
 
 CN III supplies:
 - Medial rectus
@@ -560,7 +560,7 @@ CN III supplies:
 - Sphincter pupillae
 - Ciliary muscle
 
-### Clinical features
+###### Clinical features
 
 | Structure/function lost | Finding |
 |---|---|
@@ -577,11 +577,11 @@ The material describes observation/"wait and watch" for CN III palsy because the
 > **Diagram omitted:** Cranial nerve palsy clinical patterns.
 ---
 
-## 21.2 Fourth cranial nerve palsy
+##### 21.2 Fourth cranial nerve palsy
 
 CN IV supplies the **superior oblique**.
 
-### Findings
+###### Findings
 
 - Failure of intorsion
 - **Excyclotropia**
@@ -592,22 +592,22 @@ CN IV supplies the **superior oblique**.
 - Compensatory **chin depression**
 - Compensatory **head tilt toward the opposite side**
 
-### Bielschowsky head-tilt test
+###### Bielschowsky head-tilt test
 
 The affected eye becomes more hypertropic when the head is tilted toward the side that increases the demand on the affected superior oblique; the provided clinical diagram demonstrates the characteristic change in hypertropia with gaze and head tilt.
 
 ![Bielschowsky head-tilt test](images/HYP_158.jpg)
-### Parks three-step test
+###### Parks three-step test
 
 Used to identify the paretic cyclovertical muscle in vertical incomitant strabismus. The material specifically identifies it as the confirmatory test for fourth-nerve palsy.
 
 ---
 
-## 21.3 Sixth cranial nerve palsy
+##### 21.3 Sixth cranial nerve palsy
 
 CN VI supplies the **lateral rectus**.
 
-### Findings
+###### Findings
 
 - Failure of abduction
 - **Esotropia** from unopposed medial rectus action
@@ -621,18 +621,18 @@ CN VI palsy is described as the **most common ocular motor cranial nerve palsy**
 > **Diagram omitted:** Cranial nerve palsy patterns.
 ---
 
-# 22. Internuclear ophthalmoplegia
+#### 22. Internuclear ophthalmoplegia
 
 Internuclear ophthalmoplegia (INO) results from a lesion of the **medial longitudinal fasciculus (MLF)**.
 
-### Horizontal gaze pathway
+##### Horizontal gaze pathway
 
 - Contralateral frontal eye field initiates the movement.
 - Ipsilateral PPRF acts as the horizontal gaze centre.
 - The ipsilateral sixth nerve nucleus activates the lateral rectus.
 - Signals travel through the MLF to the contralateral third nerve nucleus to activate the medial rectus.
 
-### INO findings
+##### INO findings
 
 - **Failure of adduction on the side of the MLF lesion**
 - **Nystagmus of the abducting opposite eye**
@@ -641,11 +641,11 @@ Internuclear ophthalmoplegia (INO) results from a lesion of the **medial longitu
 ![Internuclear ophthalmoplegia pathway](images/HYP_160.jpg)
 ---
 
-# 23. Restrictive strabismus
+##### 23. Restrictive strabismus
 
 Restrictive squint is caused by mechanical limitation of ocular movement.
 
-### Forced duction test
+###### Forced duction test
 
 - **Positive FDT → restriction**
 - **Negative FDT → paresis/paralysis**
@@ -657,7 +657,7 @@ Causes highlighted in the material include:
 
 ---
 
-# 24. Duane retraction syndrome
+##### 24. Duane retraction syndrome
 
 Duane retraction syndrome is an incomitant ocular motility disorder characterized by:
 - **Globe retraction on attempted adduction**
@@ -668,7 +668,7 @@ Duane retraction syndrome is an incomitant ocular motility disorder characterize
 
 The described mechanism is congenital dysinnervation with abnormal co-contraction of the medial and lateral recti.
 
-### Types
+###### Types
 
 | Type | Main movement deficit |
 |---|---|
@@ -680,11 +680,11 @@ The characteristic globe retraction occurs particularly during attempted adducti
 
 ---
 
-# 25. Myasthenia gravis as a strabismus mimic
+##### 25. Myasthenia gravis as a strabismus mimic
 
 Myasthenia gravis can produce a variable ocular misalignment and mimic almost any pattern of incomitant strabismus.
 
-### Key clinical features
+###### Key clinical features
 
 - **Diplopia**
 - **Bilateral ptosis**
@@ -698,7 +698,7 @@ The revision material lists the **Tensilon/edrophonium test** and demonstrates i
 
 ---
 
-# 26. Differential diagnosis of incomitant strabismus
+##### 26. Differential diagnosis of incomitant strabismus
 
 | Condition | Useful clue |
 |---|---|
@@ -733,7 +733,7 @@ The vertical gaze centre is associated with the **riMLF / nucleus of Cajal in th
 
 ---
 
-# 28. Management principles
+## 28. Management principles
 
 Management is directed toward:
 - Establishing clear retinal images
@@ -756,19 +756,19 @@ Management is directed toward:
 ![General treatment sequence and surgery](images/HYP_177.jpg)
 ---
 
-## 28.1 Optical treatment
+### 28.1 Optical treatment
 
-### Accommodative esotropia
+#### Accommodative esotropia
 - Correct hypermetropia with **convex spectacles**.
 - The goal is to reduce accommodative drive and therefore accommodative convergence.
 - High AC/A or near-predominant residual esotropia may require a near addition/bifocal strategy.
 
-### Prism
+#### Prism
 Prisms can neutralize a residual deviation and relieve diplopia in selected patients.
 
 ---
 
-## 28.2 Occlusion
+### 28.2 Occlusion
 
 Occlusion is primarily used to:
 - Prevent or treat amblyopia
@@ -778,31 +778,31 @@ The supplied revision regimen specifies patching the normal eye for a number of 
 
 ---
 
-## 28.3 Orthoptic exercises
+### 28.3 Orthoptic exercises
 
 Orthoptic treatment is included as a treatment step for improving binocular function and fusional control.
 
 ---
 
-## 28.4 Surgical treatment
+### 28.4 Surgical treatment
 
 Strabismus surgery acts on the extraocular muscles by changing their effective mechanical action.
 
-### Recession
+#### Recession
 
 A **weakening procedure**.
 
 The muscle insertion is moved posteriorly, reducing the muscle's effective force.
 
 ![Muscle recession](images/HYP_177.jpg)
-### Resection
+#### Resection
 
 A **strengthening procedure**.
 
 A segment of the muscle is shortened and the muscle is reattached, increasing its effective tension.
 
 ![Muscle resection](images/HYP_178.jpg)
-### Surgical timing
+#### Surgical timing
 
 - Surgery is considered when significant ocular misalignment persists despite appropriate optical and amblyopia treatment or when alignment is necessary to restore/maintain binocular function.
 - Persistent infantile esotropia is generally treated with **early alignment surgery** when significant deviation remains; early alignment supports development of binocular visual function.
@@ -812,7 +812,7 @@ A segment of the muscle is shortened and the muscle is reattached, increasing it
 
 ---
 
-# 29. Important examination patterns
+## 29. Important examination patterns
 
 ### Esotropia
 
@@ -838,17 +838,17 @@ A segment of the muscle is shortened and the muscle is reattached, increasing it
 
 **Think:** **mechanical restriction + positive FDT**.
 
-### Duane syndrome
+#### Duane syndrome
 
 **Think:** **globe retraction on adduction + narrowed palpebral fissure + horizontal movement limitation**.
 
-### Myasthenia
+#### Myasthenia
 
 **Think:** **variable diplopia/ptosis + fatigability + Cogan lid twitch**.
 
 ---
 
-# 30. High-yield numerical values
+#### 30. High-yield numerical values
 
 | Value | Significance |
 |---|---|
@@ -866,7 +866,7 @@ A segment of the muscle is shortened and the muscle is reattached, increasing it
 
 ---
 
-# 31. Rapid revision table
+#### 31. Rapid revision table
 
 | Condition | Deviation | Key examination clue | Key association |
 |---|---|---|---|
@@ -887,7 +887,7 @@ A segment of the muscle is shortened and the muscle is reattached, increasing it
 
 ---
 
-# 32. One-line test associations
+#### 32. One-line test associations
 
 - **Hirschberg** → corneal light reflex → estimates direction and angle.
 - **Krimsky** → prism-reflection test.
