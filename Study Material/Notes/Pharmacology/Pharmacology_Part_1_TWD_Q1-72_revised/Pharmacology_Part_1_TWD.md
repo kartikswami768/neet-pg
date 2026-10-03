@@ -21,144 +21,85 @@ question_snapshots: false
 > **Answer extraction note:** Answers are transcribed from the filled bubbles on the supplied answer sheet. The initial phone-number grid was excluded from the question answers. Questions with no filled bubble are recorded as **Not marked**.
 
 ## Emergency, Toxicology & Autonomic Pharmacology
-
-
 ### Question 1
-
 A patient is in persistent ventricular fibrillation (VF) despite two shocks and high- quality CPR. You have already administered one dose of epinephrine. Which antiarrhythmic is preferred for the first dose?
-
-
 - a. Atropine 1mg
 - b. Amiodarone 300mg
 - c. Lidocaine 1.5mg/kg
 - d. Adenosine 6mg
-
-
 #### My answer
 **B** - Amiodarone 300mg
-
 #### Discussion
+The role of Epinephrine here is maintain BP in VF, by increasing DBP, EDV
+Purpose of shock is to synchronize the rhythm rather than stimulating the heart.
+Amiodarone is best here for VF. Lidocaine is 2nd line after Adenosine.
+##### Dose of Amiodarone
+1st dose → 300 mg
+2nd dose → 150 mg (because half life is long)
 
-
+##### Lidocaiine
+1st dose 1.5mg/kg
+2nd dose → 0.75 mg/kg (it has high volume distribution)
+usually we go 1 vial (100 mg) → 50 mg (0.5 vial)
 ### Question 2
-
 A 72-year-old patient with septic shock is being managed in the ICU. Despite adequate fluid resuscitation with IV crystalloids, the patient's mean arterial pressure (MAP) remains at 58 mmHg with a heart rate of 160 bpm. Which of the following vasopressors would be most appropriate to initiate in this specific scenario to achieve a target MAP of 65 mmHg?
-
-
 - a. Norepinephrine
 - b. Epinephrine
 - c. Dopamine
 - d. Vasopressin
-
-
-#### My answer
 **D** - Vasopressin
-
 #### Discussion
-
-
-### Question 3
-
+We usually give crystalloids for 3 hours in shock
+since tachycardia is present → we will not give Norepinephrine
+we will give Vasopressin
+### Question 3 Anaphylactic Shock
 A 62-year-old male is brought to the Emergency Department in severe respiratory distress with diffuse urticaria and profound hypotension (BP 68/34 mmHg) shortly after a bee sting. He has a significant past medical history of chronic heart failure and atrial fibrillation, for which he takes carvedilol. He was administered three doses of intramuscular (IM) epinephrine (0.5 mg each), initiated on high-flow oxygen, and given 2 litres of IV crystalloid boluses. Despite these interventions, the patient remains hypotensive (BP 72/38 mmHg) and has developed significant wheezing. Which of the following is the most appropriate next pharmacological intervention?
-
-
 - a. Administer IV Diphenhydramine 50 mg
 - b. Start a Norepinephrine infusion
 - c. Administer IV Glucagon 1-5 mg
 - d. Administer IV Methylprednisolone 125 mg
-
-
-#### My answer
 **D** - Administer IV Methylprednisolone 125 mg
-
 #### Discussion
+There is history of SVT (not PSVT)
+This is β blocker toxicity because of low BP and anaphylaxis.
+Why not antihistamine and steroid → because epinephrine should have improved vitals. and function of antihistamine and steroid is to prevent recurrence of anaphylaxis.
 
+answer is C iv glucagon
 
 ### Question 4
-
 A 9-year-old boy is brought to a rural health centre in Maharashtra 2 hours after being stung by an Indian red scorpion (Mesobuthus tamulus). He is sweating profusely and has cold extremities. His vital signs are: BP 150/110 mmHg, HR 140 bpm, and respiratory rate 34/min. Bilateral fine crepitations are heard in the lower lung zones, and he has persistent, painful priapism and pulmonary edema. Which of the following is the most appropriate first-line pharmacological management to prevent worsening of myocardial damage and resolve pulmonary edema?
-
-
 - a. Administer IV Furosemide (Lasix) 1 mg/kg
 - b. Administer oral prazosin 30 mcg/kg
 - c. Administer IV Atropine 0.6 mg
 - d. Administer IV Nitroprusside immediately
-
-
-#### My answer
 **B** - Administer oral prazosin 30 mcg/kg
-
-#### Discussion
-
-
 ### Question 5
-
 A 22-year-old female with a history of severe peanut allergy presents to her primary care physician and is advised to use epinephrine nasal spray 2 mg by herself whenever needed. According to current guidelines for epinephrine nasal spray, which of the following instructions is correct?
-
-
 - a. If symptoms do not improve after the first dose, a second dose should be administered in the opposite nostril after 5 minutes.
 - b. The patient should be instructed to sniff deeply during administration to ensure the medication reaches the upper nasal cavity.
 - c. If the patient has a common cold with nasal congestion, the spray is contraindicated, and an intramuscular auto-injector must be used instead.
 - d. In the absence of clinical improvement, a second dose may be administered in the same nostril using a new device starting 5 minutes after the first dose.
-
-
-#### My answer
 **A** - If symptoms do not improve after the first dose, a second dose should be administered in the opposite nostril after 5 minutes.
-
-#### Discussion
-
-
 ### Question 6
-
 Which of the following drugs can worsen myasthenia gravis? 1. Phenytoin 2. Meropenem 3. Quinidine 4. Digene Antacids Select the correct answer:
-
-
 - a. 1 and 3 only
 - b. 1 and 2 only
 - c. 1, 2, 3, 4
 - d. 1 only
-
-
-#### My answer
 Not marked
-
-#### Discussion
-
-
 ### Question 7
-
 A patient presents with acute glaucoma and a red eye. The Intraocular pressure is 38 mmHg. Anterior chamber examination shows aqueous flare and keratic precipitates. Which of the following medications should not be given?
-
-
 - a. Timolol
 - b. Mannitol
 - c. Acetazolamide
 - d. Latanoprost
-
-
-#### My answer
-Not marked
-
-#### Discussion
-
-
 ### Question 8
-
 A 45-year-old agricultural worker is being treated for severe organophosphate poisoning. He has received 30 mg of atropine over the past hour. His heart rate has increased to 110/min, and his pupils are now mid-dilated; however, he remains hypoxic (SpO2 88%) with persistent, profuse bronchial secretions and diffuse crackles on lung auscultation. He subsequently develops generalized tonic-clonic seizures. Which of the following is the most appropriate next step in his pharmacological management?
-
-
 - a. Continue escalating atropine doses until the heart rate reaches 140 bpm.
 - b. Administer diazepam 10 mg IV and continue Atropine titration until the lungs are clear.
 - c. Start a glycopyrrolate infusion as it crosses the blood-brain barrier more effectively than Atropine to stop seizures.
 - d. Administer magnesium sulfate to stabilize the neuromuscular junction and stop the seizures.
-
-
-#### My answer
 **B** - Administer diazepam 10 mg IV and continue Atropine titration until the lungs are clear.
-
-#### Discussion
-
-
 ## CNS, Autonomic & Urogenital Pharmacology
 
 
