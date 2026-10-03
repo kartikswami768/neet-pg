@@ -157,3 +157,45 @@ TCA poisoning → we give NaHCO3
 
 Naloxone
 	 IV > Nasal (Self)
+
+
+### Indication of Adrenaline
+1. DOC for anaphylactic shock
+2. DOC rfro cardiac Arrrest
+3. Vasopressor Treatment of Shock
+4. Treatment of Bradycardia
+5. Dipivefrine (treatment of Glaucoxma)
+6. Acute Hyperkalemia
+
+#### Treatment of Hyperkalemia
+1. Adrenaline
+2. Salbutamol
+3. Insulin 
+
+First we give Adrenaline if non responsive → Do not Stop first drug Then give drug that acts by different mecahnism → This rule is not for antimicrobial
+DOC: Insulin + Dextrose
+2nd line DOC: Adrenaline
+
+
+## ANS
+Calcium Channels in Nerve Ending → N/T type
+
+### Drugs to avoid in Myasthenia Gravis
+1. Local Anaesthetic
+2. Smooth Muscle Relaxants
+3. General anaesthetics (use very low dose)
+4. Aminoglycosides → NMJ
+5. Botox → inhibits Syntoxin (SNAP25 protein)(not Synaptobrevin)
+	1. SB is present on vesicle
+	2. Syntoxin is on nerve ending membrane
+	3. Both of these are SNARE proteins and fuse to cause fusion of vesicle with membrane
+6. β blocker → ↓ cAMP → ↓ Ca²⁺ entry
+7. CCB, Antiepileptics
+8. Ciplox, FQ, Macrolides
+9. Quinidine/Quinine
+10. Immune Checkpoint Inhibitors (we dont want to activate immunity in MG)
+11. MgSO4
+
+**DOC in MG is:** Pyridostigmine
+2nd line → Immunosuppresants (Steroids are generally avoided due to chance of muscle atrophy)
+	Azathioprine, Mycophenolate, cyclosporine

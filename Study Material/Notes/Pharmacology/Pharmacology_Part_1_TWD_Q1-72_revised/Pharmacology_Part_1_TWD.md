@@ -73,6 +73,8 @@ A 9-year-old boy is brought to a rural health centre in Maharashtra 2 hours afte
 - c. Administer IV Atropine 0.6 mg
 - d. Administer IV Nitroprusside immediately
 **B** - Administer oral prazosin 30 mcg/kg
+
+#### Correct anwer
 ### Question 5
 A 22-year-old female with a history of severe peanut allergy presents to her primary care physician and is advised to use epinephrine nasal spray 2 mg by herself whenever needed. According to current guidelines for epinephrine nasal spray, which of the following instructions is correct?
 - a. If symptoms do not improve after the first dose, a second dose should be administered in the opposite nostril after 5 minutes.
@@ -80,6 +82,9 @@ A 22-year-old female with a history of severe peanut allergy presents to her pri
 - c. If the patient has a common cold with nasal congestion, the spray is contraindicated, and an intramuscular auto-injector must be used instead.
 - d. In the absence of clinical improvement, a second dose may be administered in the same nostril using a new device starting 5 minutes after the first dose.
 **A** - If symptoms do not improve after the first dose, a second dose should be administered in the opposite nostril after 5 minutes.
+
+#### Discussion
+answer is D
 ### Question 6
 Which of the following drugs can worsen myasthenia gravis? 1. Phenytoin 2. Meropenem 3. Quinidine 4. Digene Antacids Select the correct answer:
 - a. 1 and 3 only
@@ -87,6 +92,16 @@ Which of the following drugs can worsen myasthenia gravis? 1. Phenytoin 2. Merop
 - c. 1, 2, 3, 4
 - d. 1 only
 Not marked
+#### Discussion
+Quinidine is Na⁺ Channel Blocker
+Phenytoin is also Na⁺ Channel Blocker
+Meropenem is antibiotic. Meant only for Microbes
+Digene → Aluminium + Magnesium Hydroxide
+	 Now general rule: Body is confused between Mg and Calcium
+	 MgSO4 if given iv can cause aggravation of MG
+	 but by oral route it is fine because not absorbed very much
+answer is A
+
 ### Question 7
 A patient presents with acute glaucoma and a red eye. The Intraocular pressure is 38 mmHg. Anterior chamber examination shows aqueous flare and keratic precipitates. Which of the following medications should not be given?
 - a. Timolol
