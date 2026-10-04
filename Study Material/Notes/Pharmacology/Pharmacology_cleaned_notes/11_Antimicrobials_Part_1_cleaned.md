@@ -521,33 +521,30 @@ Modern CRE management increasingly relies on active β-lactam/β-lactamase inhib
 - Ornidazole
 - Secnidazole
 - Satranidazole
-- Pretomanid
-- Delamanid
-The labels **secnidazole** as the longest-acting drug group.
+- ==Pretomanid==
+- ==Delamanid==
+**secnidazole** → longest-acting drug group.
 
 ###### Mechanism
 Nitroimidazoles are reduced within susceptible organisms to reactive metabolites that damage DNA.
-> **OCR correction:** The phrase "forms nitric oxide → DNA damage" is an oversimplification/incorrect rendering. The clinically relevant concept is **reduction nitro group to reactive intermediates that produce DNA damage** under anaerobic/protozoal conditions.
+> forms nitric oxide → DNA damage
 
-**Activity**
+###### Activity
 - Strong activity against many **anaerobic bacteria**.
 - Important activity against several protozoa.
 - Lack of efficacy against typical aerobic bacteria reflects the need for intracellular reduction to active metabolites.
-**Major clinical uses**
+###### Major clinical uses
 **Mnemonic:**
 - **G – Giardiasis**
 - **U – ulcers / H. pylori regimens**
-- **P – pseudomembranous colitis** (historical/selected use of metronidazole; current CDI management prefers fidaxomicin or vancomycin in most adult treatment settings)
+- **P – pseudomembranous colitis** (historical/selected use of metronidazole; current CDI management prefers ==fidaxomicin== or ==vancomycin== in most adult treatment settings)
 - **T – Trichomonas vaginalis**
 - **A – amoebic dysentery / liver abscess**
 - **A – anaerobic infections**
 **Alcohol interaction**
-The teaches avoidance of alcohol because of a presumed disulfiram-like reaction.
-- **Current qualification:** The evidence for a clinically meaningful disulfiram-like interaction between metronidazole and ethanol is less convincing than traditionally taught.
-- CDC's current BV guidance notes that available evidence does **not** convincingly demonstrate such an interaction.
-> For exam preparation, remember the traditional "metronidazole + alcohol" warning; for clinical counselling, distinguish historical teaching strength of current evidence.
+Metronidazole is classically associated with Disulfiram like reaction. But current evidence is less convincing.
 
-#### 20. Bacterial Vaginosis vs Trichomoniasis
+##### 20. Bacterial Vaginosis vs Trichomoniasis
 a visual comparison table.
 
 | Feature | Bacterial vaginosis | Trichomoniasis |
@@ -577,13 +574,12 @@ a visual comparison table.
 - Sparfloxacin is referenced adverse-effect comparison
 
 ##### 21.2 Mechanism
-**Fluoroquinolones inhibit bacterial DNA gyrase and topoisomerase IV.**
+**Fluoroquinolones inhibit bacterial DNA gyrase (Topo II) and topoisomerase IV.**
 This produces impaired DNA replication and transcription and is bactericidal.
 
 ##### 21.3 CYP interactions
 - **Ciprofloxacin** → clinically relevant CYP1A2 inhibition → can increase concentrations of selected substrates such as **theophylline** and can affect some anticoagulant therapies.
-- **Levofloxacin** is presented as having relatively little CYP inhibition.
-> Avoid generalizing "all fluoroquinolones are CYP inhibitors" from ciprofloxacin's interaction profile.
+- **Levofloxacin** has relatively little CYP inhibition.
 
 ##### 21.4 Hepatic elimination / renal safety associations
 The highlights:
@@ -608,19 +604,14 @@ associate greater QT risk with **moxifloxacin and sparfloxacin** and least with 
 #### 22. UTI Framework
 
 ##### 22.1 Uncomplicated cystitis
+DOC: Fosfomycin 3g oral sachet > 2g oral single dose 
+Other drugs:
 - Ciprofloxacin
 - Cotrimoxazole
 - Nitrofurantoin
 - Amoxicillin-clavulanate
 It also states that some fluoroquinolones are avoided in pregnancy.
-**Current qualification**
-Modern uncomplicated cystitis treatment is **local antibiogram- and guideline-dependent**, and routine fluoroquinolone use is discouraged when safer alternatives are effective.
-**Fosfomycin correction**
-The opening page lists **"fosfomycin 2 g oral single dose"** for UTI.
-Current oral fosfomycin tromethamine products are typically supplied as a **single-dose 3 g sachet** for uncomplicated cystitis in adult women.
-Thus:
-> **Current verified common oral sachet strength:** 3 g single dose
-
+>These are empirical treatment when Urine culture is not available. Otherwise treatment of UTI is based on Urine Culture Report only
 ##### 22.2 Complicated UTI / kidney involvement
 - β-lactams
 - Amoxicillin-clavulanate
