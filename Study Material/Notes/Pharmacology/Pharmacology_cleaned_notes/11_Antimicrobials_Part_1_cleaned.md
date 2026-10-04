@@ -548,7 +548,7 @@ a visual comparison table.
 **Trichomoniasis:** CDC recommends for women **metronidazole 500 mg PO twice daily for 7 days**, while the traditional 2-g single-dose regimen is used in men and as an alternative strategy in selected situations.
 
 ### Fluoroquinolones
-##### 21.1 Drugs
+##### Drugs
 - Ciprofloxacin
 - Ofloxacin
 - Norfloxacin
@@ -570,10 +570,28 @@ This produces impaired DNA replication and transcription and is bactericidal.
 The highlights:
 - ==**Pefloxacin, moxifloxacin, trovafloxacin** → more hepatic/biliary elimination.==
 - These may require less renal dose adjustment than predominantly renally cleared fluoroquinolones.
-- But these are mostly removed from the market because of hepatotoxic effects.
+- ==But these are mostly removed from the market because of hepatotoxic effects.==
 However, individual dosing must follow the specific drug label.
 
 ##### 21.5 Adverse effects
+```text
+                 FLUOROQUINOLONES
+                        │
+       ┌────────────────┼────────────────┐
+       ↓                ↓                ↓
+ Oxidative/         Ion-channel       Microbiome
+ mitochondrial        effect           disruption
+ injury                 │                 │
+       │                ↓                 ↓
+       ├─ CNS        ↑ QT            Diarrhea
+       ├─ Neuropathy     │                 │
+       ├─ Dysglycemia    ↓              C. difficile
+       ├─ Cartilage   Torsades
+       └─ Tendon
+            │
+            ↓
+     Achilles rupture
+```
 is essentially **HEART–PQRST** plus other toxicities:
 - QT interval prolongation
 - Dysglycemia / hypoglycemia; The specifically notes **gatifloxacin** as an historical example of problematic dysglycemia and its withdrawal/banning in many markets.
@@ -992,7 +1010,14 @@ Additional mechanisms not explicitly tabulated but important conceptually includ
 **MIC = Minimum Inhibitory Concentration**
 MIC: the lowest concentration that inhibits visible bacterial growth.
 
-##### 42.2 Major PK/PD indices
+| Concentration Dependent Killing                                                              | Time Dependent Killing                                                                                                          | Area Under Curve                   |
+| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| Aminoglycoside                                                                               | Penicillin                                                                                                                      | Vancomycin                         |
+|                                                                                              | Cephalosporin                                                                                                                   |                                    |
+|                                                                                              | Vancomycin                                                                                                                      |                                    |
+|                                                                                              | Linezolid                                                                                                                       |                                    |
+| Once Daily Big dose                                                                          | Multiple Doses may be required                                                                                                  |                                    |
+| Effectiveness correlates with achieving a high concentration relative to the organism's MIC. | Effectiveness correlates with the duration for which drug concentration remains above the MIC (**%fT>MIC** for many β-lactams). | Total Exposure relative to the MIC |
 ###### **Concentration-dependent killing**
 Effectiveness correlates with achieving a high concentration relative to the organism's MIC.
 Common exam examples:
