@@ -583,6 +583,23 @@ These are teaching mnemonics, not complete immunological descriptions.
 	- Griseofulvin
 5. Fungal translation
 	 - Tavaborole (leucyl-tRNA synthetase inhibitor)
+#### Important Table
+
+| Disease                                             | DOC            | Other drugs / notes                          |
+| --------------------------------------------------- | -------------- | -------------------------------------------- |
+| Kala-azar                                           | Amphotericin B | —                                            |
+| Mucormycosis                                        | Amphotericin B | —                                            |
+| Cryptococcal meningitis                             | Amphotericin B | Flucytosine, Fluconazole                     |
+| Candida albicans: mucocutaneous infection (vaginal) | Fluconazole    | Except oral candidiasis                      |
+| Vaginal candidiasis (new)                           | Oteseconazole  | Azole; Ibrexafungerp (β-glucan synthase −)   |
+| Oral candidiasis                                    | Clotrimazole   | Lozenge                                      |
+| Candida non-albicans / systemic                     | Echinocandin   | Caspofungin, micafungin, anidulafungin (IV)  |
+| Aspergillosis                                       | Voriconazole   | —                                            |
+| Skin infection / tinea                              | Sertaconazole  | Topical; ==anti-pruritic/anti-inflammatory== |
+| Tinea cruris / tinea corporis                       | Itraconazole   | Terbinafine                                  |
+| T. capitis / dermatophyte infection                 | Griseofulvin   | Oral with fatty food; resistance noted       |
+| Fungal corneal ulcer                                | Natamycin      | —                                            |
+| Onychomycosis                                       | Terbinafine    | Tavaborole; efinaconazole solution           |
 
 #### 13. ECHINOCANDINS
 Examples:
@@ -635,22 +652,15 @@ Fungal cell membrane
 - **Onychomycosis**, particularly dermatophyte nail disease.
 - Oral terbinafine is a major first-line systemic option for dermatophyte onychomycosis.
 
-#### 16. AZOLES
-
+#### 16. IMIDIAZOLE Drugs (AZOLES)
 ##### 16.1 General mechanism
 - Inhibit fungal **14-alpha-demethylase (CYP51)**.
 - ==Reduce conversion of lanosterol to ergosterol.==
 	- And that is why it inhibits steroid metabolism
 - Result: impaired fungal cell membrane synthesis/function.
 **Important examples**
-- Ketoconazole
-- Fluconazole
-- Itraconazole
-- Voriconazole
-- Posaconazole
-- Isavuconazole
+Important points: 
 ##### Pharmacokinetics
-
 | Drug              | Key PK point                                                                    | Exam pearl                                                          |
 | ----------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | **Fluconazole**   | Excellent oral absorption<br>**Excellent CSF penetration**<br>Renal elimination | **Dose ↓ in renal impairment**                                      |
@@ -659,7 +669,6 @@ Fungal cell membrane
 | **Posaconazole**  | Suspension absorption variable<br>DR tablet + IV more reliable                  | DR tablet absorption less dependent on food                         |
 | **Isavuconazole** | Prodrug **isavuconazonium**<br>Excellent oral bioavailability                   | **Shortens QT**                                                     |
 | **Ketoconazole**  | Acid-dependent absorption<br>Extensive hepatic metabolism                       | Oral use largely avoided → **hepatotoxicity + endocrine effects**   |
-
 ##### Pharmacodynamics
 - **Azoles = ergosterol synthesis inhibitors**
 - Inhibit fungal **14-α-demethylase (CYP51)**
@@ -727,22 +736,16 @@ Consequences include:
 - Reduced androgen synthesis → ==decreased testosterone==
 - Reduced adrenal steroid synthesis at systemic toxic/excess exposure
 - **Gynecomastia** and other endocrine effects
-
 **Drug interactions**
 theophylline and warfarin as examples of increased toxicity/exposure through CYP inhibition.
-
 **Important current clinical note**
 - Systemic/oral ketoconazole has a much more restricted role than older pharmacology notes may imply because of hepatotoxicity and endocrine toxicity.
 - **Topical ketoconazole** remains widely used for dermatological indications such as seborrhoeic dermatitis/dandruff.
-
 ##### 16.3 Azole elimination
 > “All azoles are excreted in bile except fluconazole” 
-
 - **Fluconazole** is predominantly renally eliminated and is the clearest high-yield renal-excretion exception; 
 - The other azoles have mixed hepatic/biliary and metabolic elimination patterns.
-
 ##### 16.4 Individual azoles
-
 | Drug          | High-yield association                                                                                                       |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Clotrimazole  | Vaginal/topical azole; commonly used for vulvovaginal candidiasis/oral thrush                                                |
@@ -750,8 +753,6 @@ theophylline and warfarin as examples of increased toxicity/exposure through CYP
 | Ketoconazole  | Topical shampoo; dandruff/seborrhoeic dermatitis; oral use restricted because of toxicity                                    |
 | Voriconazole  | ==**V**isual disturbances; QT prolongation==; major first-line therapy for ==invasive aspergillosis==                        |
 | Isavuconazole | Broad-spectrum triazole; useful for invasive mould disease & ==mucormycosis==; ==**shortens QT rather than prolonging it**== |
-
-
 #### 17. AMPHOTERICIN B
 
 ##### Mechanism

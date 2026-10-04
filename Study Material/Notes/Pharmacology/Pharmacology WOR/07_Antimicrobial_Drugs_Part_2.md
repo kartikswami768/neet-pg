@@ -121,21 +121,21 @@ flowchart TD
 
 ## Antifungal Drugs
 
-| Disease | DOC | Other drugs / notes |
-|---|---|---|
-| Kala-azar | Amphotericin B | — |
-| Mucormycosis | Amphotericin B | — |
-| Cryptococcal meningitis | Amphotericin B | — |
-| Candida albicans: mucocutaneous infection (vaginal) | Fluconazole | Except oral candidiasis |
-| Vaginal candidiasis (new) | Oteseconazole | Azole; Ibrexafungerp (β-glucan synthase −) |
-| Oral candidiasis | Clotrimazole | Lozenge |
-| Candida non-albicans / systemic | Echinocandin | Caspofungin, micafungin, anidulafungin (IV) |
-| Aspergillosis | Voriconazole | — |
-| Skin infection / tinea | Sertaconazole | Topical; anti-pruritic |
-| Tinea cruris / tinea corporis | Itraconazole | Terbinafine |
-| T. capitis / dermatophyte infection | Griseofulvin | Oral with fatty food; resistance noted |
-| Fungal corneal ulcer | Natamycin | — |
-| Onychomycosis | Terbinafine | Tavaborole; efinaconazole solution |
+| Disease                                             | DOC            | Other drugs / notes                         |
+| --------------------------------------------------- | -------------- | ------------------------------------------- |
+| Kala-azar                                           | Amphotericin B | —                                           |
+| Mucormycosis                                        | Amphotericin B | —                                           |
+| Cryptococcal meningitis                             | Amphotericin B | —                                           |
+| Candida albicans: mucocutaneous infection (vaginal) | Fluconazole    | Except oral candidiasis                     |
+| Vaginal candidiasis (new)                           | Oteseconazole  | Azole; Ibrexafungerp (β-glucan synthase −)  |
+| Oral candidiasis                                    | Clotrimazole   | Lozenge                                     |
+| Candida non-albicans / systemic                     | Echinocandin   | Caspofungin, micafungin, anidulafungin (IV) |
+| Aspergillosis                                       | Voriconazole   | —                                           |
+| Skin infection / tinea                              | Sertaconazole  | Topical; anti-pruritic                      |
+| Tinea cruris / tinea corporis                       | Itraconazole   | Terbinafine                                 |
+| T. capitis / dermatophyte infection                 | Griseofulvin   | Oral with fatty food; resistance noted      |
+| Fungal corneal ulcer                                | Natamycin      | —                                           |
+| Onychomycosis                                       | Terbinafine    | Tavaborole; efinaconazole solution          |
 
 ### Amphotericin B
 

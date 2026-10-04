@@ -608,11 +608,6 @@ It also states that some fluoroquinolones are avoided in pregnancy.
 Current treatment should be culture- and syndrome-specific, with agent selection based on renal function, resistance pattern, severity, and local epidemiology.
 
 ## Protein-Synthesis Inhibitors
-
-### Ribosomal overview & 30S agents
-
-#### 23. Protein-Synthesis Inhibitors
-
 ##### 23.1 30S ribosomal inhibitors
 **Tetracyclines**
 	- Bind the **30S ribosomal subunit**.
@@ -643,6 +638,7 @@ Current treatment should be culture- and syndrome-specific, with agent selection
 	- Quinupristin + dalfopristin
 	- Combined formulation is approximately **30% quinupristin + 70% dalfopristin** .
 
+### 30S agents
 #### 25. Tetracyclines
 
 ##### 25.1 Core mechanism
@@ -695,7 +691,7 @@ ingestion of degraded/expired tetracycline with **Fanconi syndrome**. This is a 
 ##### 25.7 Pregnancy and children
 - Avoid in pregnancy due to fetal teeth/bone effects.
 - Avoid in children <8 years.
-#### 26. Newer Tetracyclines / Glycylcyclines
+##### 26. Newer Tetracyclines / Glycylcyclines
 - Sarecycline → severe acne
 - Omadacycline
 - Eravacycline
@@ -769,7 +765,7 @@ This is a classic pharmacology association; modern hepatic encephalopathy treatm
 - Increased concern in **myasthenia gravis**.
 - Calcium can antagonize aminoglycoside-associated neuromuscular blockade in severe cases; definitive management requires airway/ventilatory support and medical treatment.
 
-#### 31. Oral Aminoglycosides
+##### 31. Oral Aminoglycosides
 **Key pharmacology:** oral aminoglycosides are poorly absorbed systemically.
 
 ##### Uses
