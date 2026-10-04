@@ -1334,6 +1334,11 @@ Prophylaxis:
 
 #### 39. HEPATITIS B VIRUS (HBV)
 
+| Drug                                    | Duration — high yield                                                       |
+| --------------------------------------- | --------------------------------------------------------------------------- |
+| **Tenofovir / Entecavir**               | **Long-term / usually indefinite** until specific stopping criteria are met |
+| **Peginterferon-α**                     | **48 weeks**                                                                |
+| **Lamivudine / Adefovir / Telbivudine** | Older agents; generally **not preferred** because of resistance             |
 ##### High-yield drugs
 - **Tenofovir**
 - **Entecavir**
@@ -1342,8 +1347,12 @@ These are high-barrier nucleos(t)ide analogues and key first-line agents for chr
 ##### Lamivudine
 - Potent antiviral activity but has a **low genetic barrier to resistance** when used as HBV monotherapy over prolonged periods.
 - Therefore it is not preferred as a universal first-line long-term HBV monotherapy agent.
-> “Lamivudine = second-line drug” is an oversimplification. Current HBV guidance emphasizes the clinical situation and strongly favours high-barrier agents such as tenofovir or entecavir in most patients requiring treatment.
 
+##### Exam pearl
+> **Peginterferon = 48 weeks (finite)**  
+> **Tenofovir / Entecavir = long-term (often indefinite)**
+
+**Why?** HBV **cccDNA** persists in hepatocytes, so nucleos(t)ide analogues usually suppress rather than eradicate HBV.
 #### 40. HEPATITIS C VIRUS (HCV)
 
 ##### 40.1 Direct-acting antiviral (DAA) classes
