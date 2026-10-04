@@ -915,7 +915,7 @@ Impaired nucleotide synthesis
 - Selected urinary infections
 - Selected *Stenotrophomonas* and other susceptible Gram-negative infections
 - Some skin/soft tissue infections depending on susceptibility
-9# Special Scenarios of Antimicrobials
+# Special Scenarios of Antimicrobials
 
 ## Special Usage
 ### 22. UTI Framework
