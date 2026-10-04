@@ -801,10 +801,27 @@ theophylline and warfarin as examples of increased toxicity/exposure through CYP
 
 ##### Adverse effects
 - **Infusion reactionsfever, chills, rigors, headache, nausea
-- **Nephrotoxicity**
-- Hypokalaemia
-- Hypomagnesaemia
+- ==**Nephrotoxicity**
+- ==Hypokalaemia
+- ==Hypomagnesaemia==
 - Anaemia
+```text
+Amphotericin B
+       ↓
+Binds cholesterol in renal tubular membranes
+       ↓
+Membrane pore formation + tubular epithelial injury
+       ↓
+Tubular ion permeability / dysfunction
+       ↓
+Renal K⁺ and Mg²⁺ wasting
+       ↓
+   ↓ Mg²⁺
+       ↓
+↑ renal K⁺ secretion (ROMK)
+       ↓
+   Hypokalemia
+```
 **Formulations**
 
 | Formulation | Relative toxicity | Key point |
