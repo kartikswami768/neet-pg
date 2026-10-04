@@ -1,0 +1,5 @@
+/* Compact lists — remove the extra top margin in Reading View */
+.markdown-rendered ul,
+.markdown-rendered ol {
+    margin-block-start: 0;
+}
