@@ -385,7 +385,11 @@ The mnemonic “ETH” associates ethionamide with erectile dysfunction and thyr
 | 1-4 months | ==high-dose Isoniazid== + Levofloxacin/Moxifloxacin + Clofazimine + Pyrazinamide + Ethambutol +  + ==Ethionamide== | Yes          |
 | 4-6 months | Levofloxacin/Moxifloxacin + Clofazimine + Pyrazinamide + Ethambutol                                                | Yes          |
 | 6-9 months | Levofloxacin/Moxifloxacin + Clofazimine + Pyrazinamide + Ethambutol                                                | No           |
-
+Eligibility:
+	- MDR/RR-TB
+	* Fluoroquinolone resistance must be excluded
+	* No extensive TB disease / severe extrapulmonary TB for this classic regimen
+	* Prior exposure to key drugs should generally be <1 month, unless resistance to the previously exposed drug has been excluded.
 
 **Duration**
 - Usually **9 months**
