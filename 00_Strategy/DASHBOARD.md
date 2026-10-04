@@ -260,6 +260,17 @@ root.appendChild(quick);
 
 ---
 
+## Subject Dashboards
+
+Use a dedicated subject page when you want the complete progression of one subject in one place.
+
+- [[00_Strategy/Curriculum/Pharmacology Dashboard|Pharmacology]]
+- [[00_Strategy/Curriculum/Forensic Medicine Dashboard|Forensic Medicine]]
+- [[00_Strategy/Curriculum/Pediatrics Dashboard|Pediatrics]]
+- [[00_Strategy/Curriculum/Subject Dashboards|All Subject Dashboards]]
+
+---
+
 ## Syllabus Progress
 
 > This is independent of the current test cycle. Overlap counts: studying a Medicine topic during a Pharmacology cycle can still move Medicine forward.
