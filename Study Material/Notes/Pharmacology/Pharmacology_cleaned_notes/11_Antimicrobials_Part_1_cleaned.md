@@ -548,9 +548,6 @@ a visual comparison table.
 **Trichomoniasis:** CDC recommends for women **metronidazole 500 mg PO twice daily for 7 days**, while the traditional 2-g single-dose regimen is used in men and as an alternative strategy in selected situations.
 
 ### Fluoroquinolones
-
-#### 21. Fluoroquinolones
-
 ##### 21.1 Drugs
 - Ciprofloxacin
 - Ofloxacin
@@ -565,14 +562,15 @@ a visual comparison table.
 **Fluoroquinolones inhibit bacterial DNA gyrase (Topo II) and topoisomerase IV.**
 This produces impaired DNA replication and transcription and is bactericidal.
 
-##### 21.3 CYP interactions
+###### 21.3 CYP interactions
 - **Ciprofloxacin** → clinically relevant CYP1A2 inhibition → can increase concentrations of selected substrates such as **theophylline** and can affect some anticoagulant therapies.
 - **Levofloxacin** has relatively little CYP inhibition.
 
-##### 21.4 Hepatic elimination / renal safety associations
+###### 21.4 Hepatic elimination / renal safety associations
 The highlights:
-- **Pefloxacin, moxifloxacin, trovafloxacin** → more hepatic/biliary elimination.
+- ==**Pefloxacin, moxifloxacin, trovafloxacin** → more hepatic/biliary elimination.==
 - These may require less renal dose adjustment than predominantly renally cleared fluoroquinolones.
+- But these are mostly removed from the market because of hepatotoxic effects.
 However, individual dosing must follow the specific drug label.
 
 ##### 21.5 Adverse effects
@@ -583,8 +581,7 @@ is essentially **HEART–PQRST** plus other toxicities:
 - Photosensitivity
 - Rash
 - Severe cutaneous adverse reactions, including rare SJS/TEN
-- Tendinitis and tendon rupture, especially in higher-risk patients
-associate greater QT risk with **moxifloxacin and sparfloxacin** and least with ciprofloxacin.
+- Tendinitis and tendon rupture, especially in higher-risk patients associate greater QT risk with **moxifloxacin and sparfloxacin** and least with ciprofloxacin.
 **Important clinical safety point**
 - Fluoroquinolone use is increasingly restricted where safer effective alternatives exist because of serious adverse effects and stewardship concerns.
 - FDA labelling for levofloxacin specifically states that for uncomplicated UTI it should be reserved for patients without alternative treatment options.
