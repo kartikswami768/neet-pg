@@ -1461,7 +1461,8 @@ Block the influenza A M2 proton channel and interfere with uncoating/entry-relat
 | CMV                                | Ganciclovir / valganciclovir           |
 | HSV/CMV <br>resistant to Acyclovir | Foscarnet                              |
 ##### Acyclovir and its congeners
-Acyclovir-class drugs inhibit **viral DNA polymerase** after phosphorylation, with selective activation in infected cells for acyclovir-like drugs.
+Acyclovir-class drugs are acyclic guanosine analogue. 
+- They inhibit **viral DNA polymerase** after phosphorylation, with selective activation in infected cells for acyclovir-like drugs.
 - Valacyclovir = prodrug with ==improved oral bioavailability==
 - Famciclovir = oral prodrug related to penciclovir
 - Penciclovir
@@ -1476,9 +1477,9 @@ Acyclovir-class drugs inhibit **viral DNA polymerase** after phosphorylation, wi
 ###### Valganciclovir
 - Oral prodrug of ganciclovir.
 ##### Foscarnet
-- Pyrophosphate analogue.
-- Useful for resistant CMV/HSV where viral thymidine kinase or related activation pathways make acyclovir/ganciclovir ineffective.
-- Important toxicity: **nephrotoxicity and electrolyte abnormalities**.
+- **Pyrophosphate analogue.**
+- ==Useful for resistant CMV/HSV== where viral thymidine kinase or related activation pathways make acyclovir/ganciclovir ineffective.
+- Important toxicity: ==**nephrotoxicity and electrolyte abnormalities**==.
 ##### Cidofovir
 - Nucleotide analogue with antiviral activity independent of viral kinase activation.
 - Used for selected resistant DNA-virus infections like papillomavirus (HPV)
