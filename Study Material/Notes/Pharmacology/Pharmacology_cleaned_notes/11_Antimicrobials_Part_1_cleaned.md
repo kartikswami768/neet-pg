@@ -639,7 +639,7 @@ Current treatment should be culture- and syndrome-specific, with agent selection
 	- Combined formulation is approximately **30% quinupristin + 70% dalfopristin** .
 >These drugs are not going to work against eukaryotes, except:
 >Doxycycline, Azithromycin, Clindamycin on Plasmodium.
->That is because Plasmodium has a prolkaryote derived organalle called apico
+>That is because Plasmodium has a prolkaryote derived organalle called apicoplast, where they act.
 ### 30S agents
 #### 25. Tetracyclines
 
