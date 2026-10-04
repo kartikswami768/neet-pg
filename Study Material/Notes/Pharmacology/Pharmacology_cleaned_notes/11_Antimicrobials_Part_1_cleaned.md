@@ -1023,6 +1023,13 @@ MIC: the lowest concentration that inhibits visible bacterial growth.
 ###### Definition
 > Continued suppression of bacterial growth after the antibiotic concentration falls below the MIC.
 
+| Mechanism                                        | Example                                                                                                      |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| Persistent binding to target                     | Aminoglycosides remain associated with bacterial ribosomes even after extracellular drug concentration falls |
+| Irreversible / slowly reversible cellular damage | Aminoglycoside-induced misreading of mRNA → abnormal proteins → persistent bacterial dysfunction             |
+| Post-exposure cellular dysfunction               | Fluoroquinolone-induced DNA damage → bacteria require time to repair DNA and resume replication              |
+| Immune system clears damaged organisms           | Antibiotic-damaged bacteria become more susceptible to host immune clearance; contributes to PAE             |
+
 | PK/PD category in                              | Drugs listed                                                       |
 | ---------------------------------------------- | ------------------------------------------------------------------ |
 | **Concentration-dependent killing + long PAE** | Metronidazole, ==aminoglycosides==, ==rifampicin==, streptogramins |
