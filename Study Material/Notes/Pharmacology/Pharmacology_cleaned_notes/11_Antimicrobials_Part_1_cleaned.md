@@ -13,13 +13,13 @@ type: Marrow
 
 ##### Major pharmacological targets
 
-| Target | Major classes |
-|---|---|
-| **Cell wall synthesis** | β-lactams, bacitracin, cycloserine, vancomycin, fosfomycin |
-| **Cell membrane** | Daptomycin, colistin/polymyxin E |
-| **DNA / nucleic acid** | Nitroimidazoles, fluoroquinolones |
-| **Protein synthesis** | Tetracyclines, aminoglycosides, macrolides, clindamycin, streptogramins, chloramphenicol, linezolid, tigecycline |
-| **Folate synthesis** | Sulfonamides, dapsone, trimethoprim, pyrimethamine |
+| Target                  | Major classes                                                                                                    |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Cell wall synthesis** | β-lactams, bacitracin, cycloserine, vancomycin, fosfomycin                                                       |
+| **Cell membrane**       | Daptomycin, colistin/polymyxin E                                                                                 |
+| **DNA / nucleic acid**  | Nitroimidazoles, fluoroquinolones                                                                                |
+| **Protein synthesis**   | Tetracyclines, aminoglycosides, macrolides, clindamycin, streptogramins, chloramphenicol, linezolid, tigecycline |
+| **Folate synthesis**    | Sulfonamides, dapsone, trimethoprim, pyrimethamine                                                               |
 
 ##### Cell-wall inhibitor principles
 - β-lactams inhibit **transpeptidation** by binding penicillin-binding proteins (PBPs).
