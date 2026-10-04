@@ -472,7 +472,7 @@ For an initial adult CDI episode:
 - Metronidazole has a more limited role when preferred agents are unavailable, especially in nonsevere disease.
 For recurrent CDI, fidaxomicin (standard or extended-pulsed) is preferred over a standard vancomycin course; additional options include vancomycin taper/pulse, bezlotoxumab in selected patients, and microbiota-based approaches/FMT according to current guidance.
 
-### 18. Cell-Membrane Inhibitors
+### Cell-Membrane Inhibitors
 
 ##### 18.1 Daptomycin
 - **Lipopeptide** antibiotic.
@@ -547,7 +547,7 @@ a visual comparison table.
 **Bacterial vaginosis:** CDC lists **metronidazole 500 mg PO twice daily for 7 days** as a recommended regimen.
 **Trichomoniasis:** CDC recommends for women **metronidazole 500 mg PO twice daily for 7 days**, while the traditional 2-g single-dose regimen is used in men and as an alternative strategy in selected situations.
 
-### Fluoroquinolones & UTI
+### Fluoroquinolones
 
 #### 21. Fluoroquinolones
 
@@ -589,23 +589,6 @@ associate greater QT risk with **moxifloxacin and sparfloxacin** and least with 
 - Fluoroquinolone use is increasingly restricted where safer effective alternatives exist because of serious adverse effects and stewardship concerns.
 - FDA labelling for levofloxacin specifically states that for uncomplicated UTI it should be reserved for patients without alternative treatment options.
 
-#### 22. UTI Framework
-
-##### Uncomplicated cystitis
-DOC: Fosfomycin 3g oral sachet > 2g oral single dose 
-Other drugs:
-- Ciprofloxacin
-- Cotrimoxazole
-- Nitrofurantoin
-- Amoxicillin-clavulanate
-It also states that some fluoroquinolones are avoided in pregnancy.
->These are empirical treatment when Urine culture is not available. Otherwise treatment of UTI is based on Urine Culture Report only
-##### Complicated UTI / kidney involvement
-- β-lactams
-- Amoxicillin-clavulanate
-- Piperacillin-tazobactam
-- Carbapenems for progressive severe infection / sepsis
-Current treatment should be culture- and syndrome-specific, with agent selection based on renal function, resistance pattern, severity, and local epidemiology.
 
 ## Protein-Synthesis Inhibitors
 ##### 23.1 30S ribosomal inhibitors
@@ -840,8 +823,8 @@ Other recognised concerns with prolonged therapy include lactic acidosis and add
 - Protein-synthesis inhibitor acting at the 50S ribosome.
 - Historically important for severe resistant Gram-positive infections, including selected vancomycin-resistant *Enterococcus faecium*.
 - association: **linezolid-resistant staphylococci (LRSA)**.
-## Folate Pathway, Special Uses & Resistance
-### Folate pathway & cotrimoxazole
+
+## Folate pathway & cotrimoxazole
 #### 32. Folate Pathway Inhibitors
 ##### 32.1 Pathway
 ```text
@@ -856,14 +839,14 @@ Tetrahydrofolate (THF)
 Nucleotide synthesis
 ```
 ##### 32.2 Drug targets
-| Drug | Target |
-|---|---|
-| Sulfonamides | **Dihydropteroate synthase / folate synthase pathway** |
-| Dapsone | Dihydropteroate synthase-related folate pathway inhibition |
-| Trimethoprim | **Bacterial dihydrofolate reductase (DHFR)** |
-| Pyrimethamine | Protozoal DHFR |
-| Methotrexate | Human DHFR |
-| Folinic acid / leucovorin | Reduced folate rescue |
+| Drug                      | Target                                                     |
+| ------------------------- | ---------------------------------------------------------- |
+| Sulfonamides              | **Dihydropteroate synthase / folate synthase pathway**     |
+| ==Dapsone==               | Dihydropteroate synthase-related folate pathway inhibition |
+| Trimethoprim              | **Bacterial dihydrofolate reductase (DHFR)**               |
+| Pyrimethamine             | Protozoal DHFR                                             |
+| Methotrexate              | Human DHFR                                                 |
+| Folinic acid / leucovorin | Reduced folate rescue                                      |
 **Important distinction**
 The correctly contrasts:
 - **Trimethoprim → bacterial DHFR**
@@ -906,31 +889,54 @@ Impaired nucleotide synthesis
 - Selected urinary infections
 - Selected *Stenotrophomonas* and other susceptible Gram-negative infections
 - Some skin/soft tissue infections depending on susceptibility
-### Topical/prophylactic applications & pregnancy
-#### 35. Burns – Topical Antimicrobials
+# Special Scenarios of Antimicrobials
+
+## Special Usage
+### 22. UTI Framework
+
+##### Uncomplicated cystitis
+DOC: Fosfomycin 3g oral sachet > 2g oral single dose 
+Other drugs:
+- Ciprofloxacin
+- Cotrimoxazole
+- Nitrofurantoin
+- Amoxicillin-clavulanate
+It also states that some fluoroquinolones are avoided in pregnancy.
+>These are empirical treatment when Urine culture is not available. Otherwise treatment of UTI is based on Urine Culture Report only
+##### Complicated UTI / kidney involvement
+- β-lactams
+- Amoxicillin-clavulanate
+- Piperacillin-tazobactam
+- Carbapenems for progressive severe infection / sepsis
+Current treatment should be culture- and syndrome-specific, with agent selection based on renal function, resistance pattern, severity, and local epidemiology.
+
+### 35. Burns – Topical Antimicrobials
 - **Silver sulfadiazine 1% cream**
 - **Mafenide**
 Silver sulfadiazine → not universally preferred → can delay re-epithelialization in some settings.
-#### 36. Neonatal Ophthalmia / Conjunctivitis Prophylaxis
-The table includes:
+### 36. Neonatal Ophthalmia / Conjunctivitis Prophylaxis
 
 | Agent          | Concentration stated in |
 | -------------- | ----------------------: |
 | Silver nitrate |            1% eye drops |
 | Erythromycin   |          0.5% eye drops |
 | Tetracycline   |            1% eye drops |
-#### 37. Antibiotics in Pregnancy – Table
-##### Listed as comparatively safe
-- Penicillins
-- Cephalosporins
-- Macrolides, especially azithromycin/erythromycin
-##### Listed as avoid / caution
-- Fluoroquinolones → fetal cartilage concern
-- Aminoglycosides → fetal ototoxicity concern
-- Tetracyclines → bone/tooth effects
-- Sulfonamides → kernicterus concern, particularly near delivery/newborn period
-### Renal failure & resistance
-#### 38. Antibiotics and Renal Failure
+### Meningococcal prophylaxis & PK/PD
+
+#### 41. Meningococcal Prophylaxis
+- **Ciprofloxacin > rifampicin** as prophylaxis to eliminate nasopharyngeal carriage.
+- CDC currently lists **rifampin, ciprofloxacin and ceftriaxone** as effective chemoprophylaxis options for close contacts.
+- Selection should account for local ciprofloxacin resistance; CDC has issued specific guidance for settings where resistant meningococcal strains are prevalent.
+
+## Antibiotics in Pregnancy
+
+| Safe          | Unsafe/Avoid       | Reason for unsafe drug                                 |
+| ------------- | ------------------ | ------------------------------------------------------ |
+| Penicillin    | **FQ**             | **Fetal Cartilage concern**                            |
+| Cephalosporin | **Aminoglycoside** | **Ototoxicity**                                        |
+| Macrolides    | **Tetracycline**   | **Teeth/Bone defects**                                 |
+|               | **Sulfonamides**   | **Causes kernicterus** (especially if taken neat term) |
+## Antibiotics and Renal Failure
 ##### 38.1 "renal-safe" list
 identify predominantly biliary-excreted drugs including:
 - Ceftriaxone
@@ -946,6 +952,7 @@ identify predominantly biliary-excreted drugs including:
 - **Aminoglycosides**
 - Many **penicillins / β-lactams**
 Because renal elimination is drug-specific, each agent should be checked individually rather than using a class-wide rule.
+## Resistance in antimicrobials
 #### 39. Inherent Resistance Associations
 ##### 39.1 Aminoglycosides
 intrinsic resistance associations:
@@ -982,15 +989,6 @@ The associations are:
 | Macrolides            | Ribosomal target modification/mutation    |
 | Fluoroquinolones      | DNA gyrase / topoisomerase IV alterations |
 Additional mechanisms not explicitly tabulated but important conceptually include reduced permeability, biofilm formation, target protection and bypass pathways.
-## Prophylaxis, Pharmacodynamics & Rapid Revision
-
-### Meningococcal prophylaxis & PK/PD
-
-#### 41. Meningococcal Prophylaxis
-- **Ciprofloxacin > rifampicin** as prophylaxis to eliminate nasopharyngeal carriage.
-- CDC currently lists **rifampin, ciprofloxacin and ceftriaxone** as effective chemoprophylaxis options for close contacts.
-- Selection should account for local ciprofloxacin resistance; CDC has issued specific guidance for settings where resistant meningococcal strains are prevalent.
-
 ## 42. Antimicrobial Pharmacodynamics – MIC, PK/PD and Dosing
 
 ##### 42.1 MIC
