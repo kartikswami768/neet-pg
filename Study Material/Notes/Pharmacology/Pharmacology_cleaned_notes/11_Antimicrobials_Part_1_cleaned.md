@@ -383,16 +383,6 @@ The highlights:
 ##### 13.4 Oral vancomycin
 - ==Poorly absorbed gastrointestinal tract.==
 - Useful for **intestinal C. difficile infection** because the drug remains gut lumen.
-**
-> [!info] Current Drugs for Pseudomembranous Colitis (C. difficile)
-> - Oral vancomycin
-> - Fidaxomicin
-> - Bezlotoxumab
-> - Metronidazole
-> - Fecal microbiota transplantation
-> Current IDSA/SHEA guidance prefers **fidaxomicin** over a standard course of oral vancomycin for an initial CDI episode when feasible; vancomycin remains an acceptable alternative. For fulminant CDI, oral/NG vancomycin remains central.
-
-
 ##### 13.5 Adverse effects
 **Nephrotoxicity**
 - More likely with high systemic exposure and concurrent nephrotoxins.
@@ -456,26 +446,24 @@ Organism-specific therapy when pathogen identified
 | *Listeria*             | Ampicillin          | High-yield association                                                                         |
 | Rickettsia / Chlamydia | Doxycycline         | Syndrome-specific; doxycycline is a key agent for many rickettsial diseases                    |
 | Herpes simplex         | Acyclovir           | Antiviral, not antibacterial                                                                   |
-
-### C. difficile & membrane inhibitors
-
-#### 17. Clostridioides difficile Infection
-
-##### 17.1 Pathophysiology / risk
+##### 17. Clostridioides difficile Infection
 Broad-spectrum antibiotics can disrupt the normal intestinal microbiome and permit **C. difficile** overgrowth with toxin production.
-high-risk antibiotic associations including:
-- Clindamycin
-- Third-generation cephalosporins
-- Fluoroquinolones
-- Ampicillin
-Current CDC information likewise identifies **clindamycin, fluoroquinolones, third-/fourth-generation cephalosporins and carbapenems** among higher-risk antibiotic groups.
 
-##### 17.2 Treatment agents
-- Oral vancomycin
-- Fidaxomicin
-- Bezlotoxumab
-- Metronidazole
-- Fecal microbiota transplantation / microbiota-based therapy
+> [!note] Antibiotics in Pseudomembranous colitis
+> 
+> High Risk Antibiotic associations including:
+> - Clindamycin
+> - Third/Fourth-generation cephalosporins
+> - Fluoroquinolones
+> - Ampicillin (Aminopenicillins)
+> 
+> Treatment agents
+> - Oral vancomycin
+> - Fidaxomicin
+> - Bezlotoxumab
+> - Metronidazole
+> - Fecal microbiota transplantation / microbiota-based therapy
+
 
 ###### Current update
 For an initial adult CDI episode:
@@ -484,7 +472,7 @@ For an initial adult CDI episode:
 - Metronidazole has a more limited role when preferred agents are unavailable, especially in nonsevere disease.
 For recurrent CDI, fidaxomicin (standard or extended-pulsed) is preferred over a standard vancomycin course; additional options include vancomycin taper/pulse, bezlotoxumab in selected patients, and microbiota-based approaches/FMT according to current guidance.
 
-#### 18. Cell-Membrane Inhibitors
+### 18. Cell-Membrane Inhibitors
 
 ##### 18.1 Daptomycin
 - **Lipopeptide** antibiotic.

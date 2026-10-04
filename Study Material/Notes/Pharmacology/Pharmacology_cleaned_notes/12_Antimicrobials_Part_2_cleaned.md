@@ -1109,19 +1109,18 @@ Mature infectious virions
 
 ##### REVERSE TRANSCRIPTASE INHIBITORS (RTIs)
 ###### 29.1 NRTIs
+# NRTIs — CLASSIFICATION
+
+| Class / Group      | Drugs                                                                    | High-yield point                                   |
+| ------------------ | ------------------------------------------------------------------------ | -------------------------------------------------- |
+| Cytidine analogues | **Zidovudine (AZT)**, **Lamivudine (3TC)**, **Emtricitabine (FTC)**      | Zidovudine → anemia                                |
+| Guanosine analogue | **Abacavir (ABC)**                                                       | **HLA-B*57:01 → hypersensitivity**                 |
+| Purine analogue    | **Didanosine (ddI)** (historical now)                                    | Pancreatitis + peripheral neuropathy               |
+| Adenosine analogue | **Tenofovir disoproxil fumarate (TDF)**, **Tenofovir alafenamide (TAF)** | TDF → renal + bone toxicity                        |
+| Thymidine analogue | **Stavudine (d4T)** (historical now)                                     | Mitochondrial toxicity + pancreatitis + neuropathy |
 **Nucleoside reverse transcriptase inhibitors** require intracellular phosphorylation/activation and inhibit reverse transcriptase by chain termination.
 
-**Important modern examples**
-- Abacavir
-- Zidovudine
-- Lamivudine
-- Emtricitabine
-- Didanosine (historical/rare use)
-- Stavudine (largely historical because of toxicity)
-**High-yield toxicities**
-**Didanosine**
-- **Pancreatitis** is the classic toxicity.
-- Peripheral neuropathy can also occur.
+
 **Zidovudine (ZDV/AZT)**
 - **Bone-marrow suppression**
 - Anaemia
@@ -1131,6 +1130,7 @@ Mature infectious virions
 > The “Hb <9 g/dL = contraindicated” is a programme/clinical threshold rather than a universal pharmacological absolute contraindication.
 
 ###### 29.2 Nucleotide RT inhibitor: Tenofovir
+
 **Forms**
 - TDF = tenofovir disoproxil fumarate
 - TAF = tenofovir alafenamide
