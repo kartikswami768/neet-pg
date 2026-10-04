@@ -379,6 +379,12 @@ The mnemonic “ETH” associates ethionamide with erectile dysfunction and thyr
 - Generally requires **absence of FQ resistance** and no major resistance/contraindication to the regimen drugs.
 
 **Regimen**
+
+|            |                                                                                                         |
+| ---------- | ------------------------------------------------------------------------------------------------------- |
+| 1-4 months | Levofloxacin/Moxifloxacin + Clofazimine + Pyrazinamide + Ethambutol + high-dose Isoniazid + Ethionamide |
+| 4-6 months |                                                                                                         |
+
 - **Initial phase:**  
   **Lzd + Lfx + Cfz + Z + E + high-dose H**
 - Followed by continuation therapy with:
