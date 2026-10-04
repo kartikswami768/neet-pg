@@ -165,7 +165,7 @@ Since it is poorly absorbed, it can be used as a local antibiotic for gut in cas
 >- ==**Pyrazinamide** is the strongest TB-drug association with hyperuricaemia/gout.==
 >- **Ethambutol** can also increase uric acid.
 
-**Continuation phase**
+###### **Continuation phase**
 - omission of pyrazinamide with its hepatotoxicity.
 - In a standard 6-month drug-susceptible regimen, Z is used during the initial 2 months and generally not continued continuation phase.
 
@@ -175,14 +175,15 @@ Since it is poorly absorbed, it can be used as a local antibiotic for gut in cas
 - Decreases synthesis of **arabinogalactan**, an important mycobacterial cell-wall component.
 - Result: impaired ==mycobacterial cell-wall synthesis==.
 
-**Classification**
+###### **Classification**
 - **Bacteriostatic**.
 - Among the classic HRZE drugs, it is the major drug remembered as bacteriostatic.
 
-**Major adverse effect: ocular toxicity**
+###### **Major adverse effect: ocular toxicity**
 - **Optic neuritis**
 - Impaired red-green colour discrimination
 - Reduced visual acuity at clinically important toxicity levels
+- Can also cause hyperuricemia just like pyrazinamide
 
 #### 4. STERILIZING ACTIVITY IN TB
 drugs that retain activity against dormant or slowly replicating bacilli.
@@ -674,14 +675,14 @@ Fungal cell membrane
 - Isavuconazole
 ##### Pharmacokinetics
 
-| Drug | Key PK point | Exam pearl |
-|---|---|---|
-| **Fluconazole** | Excellent oral absorption<br>**Excellent CSF penetration**<br>Renal elimination | **Dose ↓ in renal impairment** |
-| **Itraconazole** | Absorption variable<br>**Capsules: acid-dependent**<br>Solution better absorbed | Capsules ↑ absorption with food/acid<br>Solution preferably fasting |
-| **Voriconazole** | Oral bioavailability ~96%<br>Hepatic metabolism | **Nonlinear PK** → small dose changes can markedly ↑ levels |
-| **Posaconazole** | Suspension absorption variable<br>DR tablet + IV more reliable | DR tablet absorption less dependent on food |
-| **Isavuconazole** | Prodrug **isavuconazonium**<br>Excellent oral bioavailability | **Shortens QT** |
-| **Ketoconazole** | Acid-dependent absorption<br>Extensive hepatic metabolism | Oral use largely avoided → **hepatotoxicity + endocrine effects** |
+| Drug              | Key PK point                                                                    | Exam pearl                                                          |
+| ----------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **Fluconazole**   | Excellent oral absorption<br>**Excellent CSF penetration**<br>Renal elimination | **Dose ↓ in renal impairment**                                      |
+| **Itraconazole**  | Absorption variable<br>**Capsules: acid-dependent**<br>Solution better absorbed | Capsules ↑ absorption with food/acid<br>Solution preferably fasting |
+| **Voriconazole**  | Oral bioavailability ~96%<br>Hepatic metabolism                                 | **Nonlinear PK** → small dose changes can markedly ↑ levels         |
+| **Posaconazole**  | Suspension absorption variable<br>DR tablet + IV more reliable                  | DR tablet absorption less dependent on food                         |
+| **Isavuconazole** | Prodrug **isavuconazonium**<br>Excellent oral bioavailability                   | **Shortens QT**                                                     |
+| **Ketoconazole**  | Acid-dependent absorption<br>Extensive hepatic metabolism                       | Oral use largely avoided → **hepatotoxicity + endocrine effects**   |
 
 ##### Pharmacodynamics
 - **Azoles = ergosterol synthesis inhibitors**
@@ -733,8 +734,7 @@ Fungal cell membrane
 - **Hepatotoxicity**
 - **Endocrine adverse effects**
 - Oral systemic use largely avoided
-##### 
-Memory Hook
+##### Memory Hook
 ###### PK
 - **F**luconazole → **F**lows into CSF
 - **I**traconazole → **I**s acid-dependent
@@ -853,8 +853,6 @@ Examples include:
 - ==Voriconazole== is **not active against mucormycosis as an effective first-line therapy**.
 
 ##### 18.5 Mucormycosis
-
-###### Treatment
 1. **Urgent surgical debridement** when anatomically appropriate.
 2. **Liposomal amphotericin B** as the principal first-line systemic antifungal.
 3. ==Posaconazole== or ==isavuconazole== may be used as step-down/salvage options in appropriate patients.
@@ -865,8 +863,7 @@ Examples include:
 - **Amphotericin B** is the preferred systemic antifungal for many serious fungal infections during pregnancy.
 - Systemic azoles have important pregnancy-related safety concerns and should not be treated as a single homogeneous “absolutely contraindicated” class for every route/indication.
 - Topical azoles are commonly used for some superficial/vaginal infections when appropriate.
-> “Only amphotericin B can be given in pregnancy; all azoles are contraindicated” is too absolute. The clinically correct distinction is **systemic vs topical exposure, dose, trimester, indication and specific azole**.
-
+“Only amphotericin B can be given in pregnancy; all azoles are contraindicated” 
 ### Other antifungal targets
 
 #### 21. OTHER ANTIFUNGAL TARGETS
