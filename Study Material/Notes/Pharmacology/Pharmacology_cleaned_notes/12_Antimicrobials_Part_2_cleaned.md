@@ -311,7 +311,6 @@ The mnemonic “ETH” associates ethionamide with erectile dysfunction and thyr
 - **Avoid in HIV infection** because of serious adverse reactions.
 
 #### 2. DRUG-RESISTANT TB regimens
-##### Overview
 
 | Resistance pattern                                         | Key regimen                        | Duration         |
 | ---------------------------------------------------------- | ---------------------------------- | ---------------- |
@@ -320,6 +319,7 @@ The mnemonic “ETH” associates ethionamide with erectile dysfunction and thyr
 | **MDR/RR-TB, BPaLM unsuitable but short-regimen eligible** | **9–11 month oral regimen**        | **9–11 months**  |
 | **Complex resistance / short regimens unsuitable**         | **Longer oral regimen**            | **18–20 months** |
 | **XDR-TB**                                                 | Longer individualized oral regimen | **~20 months**   |
+###### Important Points
 - **MDR = H + R resistance**
 - **BPaLM = Bdq + Pa + Lzd + Mfx**
 - **BPaLM = 6 months**
@@ -356,46 +356,36 @@ The mnemonic “ETH” associates ethionamide with erectile dysfunction and thyr
 ---
 
 ##### 3. MDR/RR-TB — Short 6-month regimen
-
-###### BPaLM
-
 **BPaLM = Bedaquiline + Pretomanid + Linezolid + Moxifloxacin**
-
 - Preferred short regimen for eligible **MDR/RR-TB patients ≥14 years**.
 - **Duration:** 6 months / 26 weeks.
 - Can be extended to **9 months** in selected cases, especially with linezolid toxicity requiring dose reduction.
 
-###### Important point about FQ resistance
-- Current **NTEP:** BPaLM can be used **irrespective of FQ resistance**.
-- **Moxifloxacin is retained** in the NTEP BPaLM regimen even with FQ resistance.
-
-> **Memory:** **B-Pa-L-M → 6 months**
-
----
-
+>**Important point about FQ resistance**
+	- Current **NTEP:** ==BPaLM can be used **irrespective of FQ resistance**.==
+	- **Moxifloxacin is retained** in the NTEP BPaLM regimen even with FQ resistance.
 ##### 4. MDR/RR-TB — 9–11 month regimen
 **When used**
 - Patient is **not eligible for BPaLM** but meets criteria for the shorter oral regimen.
 - Generally requires **absence of FQ resistance** and no major resistance/contraindication to the regimen drugs.
-
+>Pay attention that BPaLM can be used even in Fluoroquinolone resistance
 **Regimen**
+==For First 6 months → Bedaquilline Irrespective of Phase==
+Other than Bedaquilline: 
 
-|            | Other than Bedaquilline                                                                                            | Bedaquilline |
-| ---------- | ------------------------------------------------------------------------------------------------------------------ | ------------ |
-| 1-4 months | ==high-dose Isoniazid== + Levofloxacin/Moxifloxacin + Clofazimine + Pyrazinamide + Ethambutol +  + ==Ethionamide== | Yes          |
-| 4-6 months | Levofloxacin/Moxifloxacin + Clofazimine + Pyrazinamide + Ethambutol                                                | Yes          |
-| 6-9 months | Levofloxacin/Moxifloxacin + Clofazimine + Pyrazinamide + Ethambutol                                                | No           |
-Eligibility:
+| Phase              | Duration                                                                                         | Other than Bedaquilline                                                                                            |
+| ------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| Extensive Phase    | 4-6 months<br>- Usually 4 months<br>- Can be extended to 6 months based on response to treatment | ==high-dose Isoniazid== + Levofloxacin/Moxifloxacin + Clofazimine + Pyrazinamide + Ethambutol +  + ==Ethionamide== |
+| Continuation Phase | 5 months                                                                                         | Levofloxacin/Moxifloxacin + Clofazimine + Pyrazinamide + Ethambutol                                                |
+>Linezolid can be given instead of Ethionamid in preganancy. But duration of it will be 2 months only.
+
+
+**Eligibility:**
 	- MDR/RR-TB
 	* Fluoroquinolone resistance must be excluded
 	* No extensive TB disease / severe extrapulmonary TB for this classic regimen
 	* Prior exposure to key drugs should generally be <1 month, unless resistance to the previously exposed drug has been excluded.
 
-**Duration**
-- Usually **9 months**
-- May extend to **11 months** depending on treatment response and intensive-phase extension.
-> **Exam trap:** Older regimens commonly show **ethionamide**.  
-> Current NTEP regimen uses **linezolid instead of ethionamide** in the initial phase.
 ---
 ##### 5. Longer oral regimen
 
