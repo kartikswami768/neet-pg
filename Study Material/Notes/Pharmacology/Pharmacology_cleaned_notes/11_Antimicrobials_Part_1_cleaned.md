@@ -719,15 +719,15 @@ Mnemonic given:
 They are dependent on oxygen dependent transporters to transported into microbes. → so they are not effective on anaerobes.
 Aminoglycosides exhibit **concentration-dependent killing** and a clinically useful **post-antibiotic effect**, supporting extended-interval dosing for many indications.
 ##### 30.3 Clinical associations
-| Drug / group            | association                                                          |
-| ----------------------- | -------------------------------------------------------------------- |
-| Streptomycin            | TB; plague; tularemia                                                |
-| Amikacin                | TB; Gram-negative / resistant Gram-negative infections; Pseudomonas  |
-| Gentamicin              | Serious Gram-negative infections; synergy in selected infections     |
-| Tobramycin              | Pseudomonas; topical preparations                                    |
-| Neomycin                | Topical preparations; oral nonabsorbed use for bowel decontamination |
-| Framycetin              | ==Topical preparation; it with the brand **Soframycin**==            |
-| Kanamycin / capreomycin | Historical/selected TB use                                           |
+| Drug / group            | association                                                              |
+| ----------------------- | ------------------------------------------------------------------------ |
+| Streptomycin            | TB; plague; tularemia                                                    |
+| Amikacin                | TB; Gram-negative / resistant Gram-negative infections; Pseudomonas      |
+| ==Gentamicin==          | Serious Gram-negative infections; synergy in selected infections         |
+| Tobramycin              | Pseudomonas; topical preparations                                        |
+| ==Neomycin==            | ==Topical preparations; oral nonabsorbed use for bowel decontamination== |
+| Framycetin              | ==Topical preparation; it with the brand **Soframycin**==                |
+| Kanamycin / capreomycin | Historical/selected TB use                                               |
 **Neomycin and hepatic encephalopathy**
 The explains:
 ```text
