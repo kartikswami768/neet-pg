@@ -268,7 +268,22 @@ Inhibits enzymes involved in peptidoglycan synthesis, classically:
 the “-manid” / “-nanid” sound to associate these drugs with **mycolic-acid-related cell-wall inhibition**.
 ###### Class
 These belong to nitroimidazole group of antimicrobials (like metronidazole, Tinidazole, Secnidazole)
-They act by producing NO
+They are prodrugs which are activated by bacterial. enzymes and then release NO and other nitrogen radicals.
+```text
+                 IMIDAZOLE
+                     │
+          ┌──────────┴──────────┐
+          ↓                     ↓
+     IMIDAZOLE              NITROIMIDAZOLE
+     ANTIFUNGALS                  │
+          │                       │
+          ↓             ┌─────────┴──────────┐
+   ↓ Ergosterol         ↓                    ↓
+   synthesis        Metronidazole etc.    Pretomanid
+          │             │                    │
+          ↓             ↓                    ↓
+       FUNGI       Anaerobes + protozoa     TB
+```
 ###### High-yield point
 Both drugs can contribute to **QT prolongation**, particularly in combination regimens where multiple QT-prolonging agents are present.
 **Pretomanid: eligibility caveats**
@@ -296,6 +311,23 @@ The mnemonic “ETH” associates ethionamide with erectile dysfunction and thyr
 - **Avoid in HIV infection** because of serious adverse reactions.
 
 #### 2. DRUG-RESISTANT TB regimens
+##### Overview
+
+| Resistance pattern                                         | Key regimen                        | Duration         |
+| ---------------------------------------------------------- | ---------------------------------- | ---------------- |
+| **H-resistant, R-sensitive**                               | **Lfx + R + E + Z**                | **6 months**     |
+| **MDR/RR-TB, eligible ≥14 y**                              | **BPaLM**                          | **6 months**     |
+| **MDR/RR-TB, BPaLM unsuitable but short-regimen eligible** | **9–11 month oral regimen**        | **9–11 months**  |
+| **Complex resistance / short regimens unsuitable**         | **Longer oral regimen**            | **18–20 months** |
+| **XDR-TB**                                                 | Longer individualized oral regimen | **~20 months**   |
+- **MDR = H + R resistance**
+- **BPaLM = Bdq + Pa + Lzd + Mfx**
+- **BPaLM = 6 months**
+- Current NTEP uses **BPaLM in eligible patients ≥14 years**.
+- **H-resistant ≠ MDR** if rifampicin remains sensitive.
+- Older 9-month regimens may show **ethionamide**; current NTEP uses **linezolid** in the initial phase.
+- **Pregnancy/breastfeeding → avoid pretomanid-containing BPaLM.**
+- **Injectables are not routine backbone** of modern DR-TB regimens.
 ##### 2.1 Definitions
 
 ###### MDR/RR-TB
@@ -342,27 +374,23 @@ The mnemonic “ETH” associates ethionamide with erectile dysfunction and thyr
 ---
 
 ##### 4. MDR/RR-TB — 9–11 month regimen
-
-###### When used
+**When used**
 - Patient is **not eligible for BPaLM** but meets criteria for the shorter oral regimen.
 - Generally requires **absence of FQ resistance** and no major resistance/contraindication to the regimen drugs.
 
-###### Regimen
+**Regimen**
 - **Initial phase:**  
   **Lzd + Lfx + Cfz + Z + E + high-dose H**
 - Followed by continuation therapy with:
   **Lfx + Cfz + Z + E**
 - **Bedaquiline** is also incorporated for the specified initial/extended period according to NTEP protocol.
 
-###### Duration
+**Duration**
 - Usually **9 months**
 - May extend to **11 months** depending on treatment response and intensive-phase extension.
-
 > **Exam trap:** Older regimens commonly show **ethionamide**.  
 > Current NTEP regimen uses **linezolid instead of ethionamide** in the initial phase.
-
 ---
-
 ##### 5. Longer oral regimen
 
 ###### When used
@@ -395,28 +423,7 @@ The mnemonic “ETH” associates ethionamide with erectile dysfunction and thyr
 
 ---
 
-##### 7. NEET-PG / INI-CET — Must Remember
 
-###### Resistance → regimen
-
-| Resistance pattern | Key regimen | Duration |
-|---|---|---|
-| **H-resistant, R-sensitive** | **Lfx + R + E + Z** | **6 months** |
-| **MDR/RR-TB, eligible ≥14 y** | **BPaLM** | **6 months** |
-| **MDR/RR-TB, BPaLM unsuitable but short-regimen eligible** | **9–11 month oral regimen** | **9–11 months** |
-| **Complex resistance / short regimens unsuitable** | **Longer oral regimen** | **18–20 months** |
-| **XDR-TB** | Longer individualized oral regimen | **~20 months** |
-
-###### Highest-yield facts
-
-- **MDR = H + R resistance**
-- **BPaLM = Bdq + Pa + Lzd + Mfx**
-- **BPaLM = 6 months**
-- Current NTEP uses **BPaLM in eligible patients ≥14 years**.
-- **H-resistant ≠ MDR** if rifampicin remains sensitive.
-- Older 9-month regimens may show **ethionamide**; current NTEP uses **linezolid** in the initial phase.
-- **Pregnancy/breastfeeding → avoid pretomanid-containing BPaLM.**
-- **Injectables are not routine backbone** of modern DR-TB regimens.
 ### TB clinical situations, HIV & prevention
 
 #### 6. SPECIAL CLINICAL SITUATIONS IN TB
