@@ -1471,7 +1471,7 @@ Acyclovir-class drugs inhibit **viral DNA polymerase** after phosphorylation, wi
 **Important adverse effect**
 - **==Nephrotoxicity==**, especially with IV acyclovir if hydration is poor or crystals precipitate in renal tubules.
 ###### Ganciclovir
-- ==Anti-CMV== guanosine analogue.                   
+- ==Anti-CMV== guanosine analogue.
 - Causes ==**bone-marrow suppression**, especially neutropenia and anaemia==.
 ###### Valganciclovir
 - Oral prodrug of ganciclovir.
