@@ -675,6 +675,13 @@ It also labels doxycycline ==**renal safe / hepatobiliary elimination**==, which
 ###### 25.4A Tetracycline and H. pylori
 The specifically lists **tetracycline as an H. pylori treatment component**. In contemporary regimens, tetracycline is most classically encountered as part of **bismuth quadruple therapy**.
 ##### 25.6 Adverse effects
+
+|                                          |                                                                                          |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Chelation of Calcium, iron and magnesium | Reduced absorption<br>Tooth descoloration/enamal defects<br>Problems in developing bones |
+| Mucosal irritant                         | GI irritation, Esophagitis                                                               |
+| p                                        |                                                                                          |
+
 - GI irritation
 - Photosensitivity
 - Esophagitis (especially doxycycline if taken improperly)
