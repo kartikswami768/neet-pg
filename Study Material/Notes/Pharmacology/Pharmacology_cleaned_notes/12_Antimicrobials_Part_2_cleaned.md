@@ -799,7 +799,7 @@ theophylline and warfarin as examples of increased toxicity/exposure through CYP
 **Kala-azar / visceral leishmaniasis**
 - Liposomal amphotericin B is the first-line drug current Indian kala-azar programme pathway.
 
-##### 17.1 Adverse effects
+##### Adverse effects
 - **Infusion reactionsfever, chills, rigors, headache, nausea
 - **Nephrotoxicity**
 - Hypokalaemia
@@ -858,7 +858,6 @@ Examples include:
 3. ==Posaconazole== or ==isavuconazole== may be used as step-down/salvage options in appropriate patients.
 
 #### 20. ANTIFUNGAL USE IN PREGNANCY
-
 ##### High-yield principle
 - **Amphotericin B** is the preferred systemic antifungal for many serious fungal infections during pregnancy.
 - Systemic azoles have important pregnancy-related safety concerns and should not be treated as a single homogeneous “absolutely contraindicated” class for every route/indication.
@@ -1003,7 +1002,6 @@ Levamisole has a much smaller modern therapeutic role than its historical examin
 ### HIV 
 
 #### 1. HIV Virus
-
 ##### HIV structure and entry
 ![[IMG_1221.png]]
 ```text
@@ -1049,22 +1047,6 @@ Integrase → proviral DNA integrates into host genome
 
 ###### First Aid HIV
 ![[Virology#6. HIV & HIV-associated infections]]
-##### HIV ENTRY / ATTACHMENT / CAPSId INHIBITORS
-| Drug            | Target               | HIV tropism      |
-| --------------- | -------------------- | ---------------- |
-| **Ibalizumab**  | **CD4 receptor**     | **CCR5 + CXCR4** |
-| **Maraviroc**   | **CCR5 co-receptor** | **CCR5 only**    |
-| **Enfuvirtide** | **gp41**             | **CCR5 + CXCR4** |
-| **Fostemsavir** | **gp120**            | **CCR5 + CXCR4** |
-###### Mnemonics
-- **-mab** → monoclonal antibody: ibalizumab
-- **-viro / -vir** patterns are not sufficiently specific to identify HIV classes reliably.
-
-##### HIV REPLICATION CYCLE: “RIP”
-- **R** - Reverse transcriptase
-- **I** - Integrase
-- **P** - Protease
-
 ###### Reverse transcription
 ```text
 HIV single-stranded RNA
@@ -1090,7 +1072,18 @@ Viral proteins / polyproteins
 Mature infectious virions
 ```
 
-#### 2. Anti-Retroviral Drugs acting on Replication Cycle
+#### 2. Anti-Retroviral Drugs
+##### HIV ENTRY / ATTACHMENT / CAPSId INHIBITORS
+| Drug            | Target               | HIV tropism      |
+| --------------- | -------------------- | ---------------- |
+| **Ibalizumab**  | **CD4 receptor**     | **CCR5 + CXCR4** |
+| **Maraviroc**   | **CCR5 co-receptor** | **CCR5 only**    |
+| **Enfuvirtide** | **gp41**             | **CCR5 + CXCR4** |
+| **Fostemsavir** | **gp120**            | **CCR5 + CXCR4** |
+###### Mnemonics
+- **-mab** → monoclonal antibody: ibalizumab
+- **-viro / -vir** patterns are not sufficiently specific to identify HIV classes reliably.
+##### Important Replication Cycle Drugs
 
 | N(s)RTI           | N(t)RTI       | NNRTI      | Integrase        | Protease   |
 | ----------------- | ------------- | ---------- | ---------------- | ---------- |
@@ -2178,51 +2171,59 @@ Typical adult prophylaxis examples:
 
 #### 65. MASTER HIGH-YIELD “DON'T CONFUSE” LIST
 
-| Confusion | Correct association |
-|---|---|
-| Isoniazid resistance | **KatG** activation defect is classic |
-| Rifampicin resistance | **rpoB** mutation |
-| Rifampicin | **CYP/P-gp inducer** |
-| Isoniazid | CYP inhibition + B6 deficiency neuropathy |
-| Pyrazinamide | Hyperuricaemia + hepatotoxicity |
-| Ethambutol | Optic neuritis / red-green colour defect |
-| Bedaquiline | QT prolongation |
-| Linezolid | Thrombocytopenia + neuropathy + serotonin syndrome |
-| Clofazimine | Brown skin pigmentation |
-| Cycloserine | Psychosis / depression |
-| Terbinafine | Squalene epoxidase |
-| Azoles | 14-alpha-demethylase |
-| Amphotericin B | Ergosterol pore formation |
-| Echinocandins | Beta-glucan synthase |
-| Griseofulvin | Microtubules |
-| Flucytosine | 5-FU pathway |
-| Praziquantel | Most cestodes + trematodes |
-| Albendazole | Hydatid cyst / many nematodes / neurocysticercosis contexts |
-| Triclabendazole | Fasciola |
-| Ivermectin | Strongyloides / Onchocerca / scabies |
-| DEC | Lymphatic filariasis / Loa loa (selected settings) |
-| Enfuvirtide | gp41 fusion inhibitor |
-| Fostemsavir | gp120 attachment inhibitor |
-| Maraviroc | CCR5 antagonist |
-| Ibalizumab | CD4 post-attachment monoclonal antibody |
-| Lenacapavir | Capsid inhibitor |
-| NRTIs | Reverse transcriptase chain termination |
-| NNRTIs | Allosteric RT inhibition |
-| INSTIs | Integration block; “-gravir” |
-| PIs | Polyprotein cleavage block; “-navir” |
-| Oseltamivir | Oral neuraminidase inhibitor |
-| Zanamivir | Inhaled neuraminidase inhibitor |
-| Peramivir | IV neuraminidase inhibitor |
-| Acyclovir | HSV/VZV |
-| Ganciclovir | CMV |
-| Foscarnet | Resistant herpesviruses |
-| Chloroquine | Blood-stage therapy for sensitive malaria |
-| Primaquine | Hypnozoites + gametocytocidal activity |
-| Tafenoquine | Long-acting vivax radical cure |
-| Artesunate | **Severe malaria - all trimesters** |
-| Quinine | Cinchonism + hypoglycaemia |
-| Metronidazole | Tissue-active amoebicide |
-| Paromomycin | Luminal amebicide |
-| L-AmB | Kala-azar and serious mould disease |
-| Benznidazole | Chagas disease |
-| TMP-SMX | PJP prophylaxis/treatment |
+| Confusion             | Correct association                                         |
+| --------------------- | ----------------------------------------------------------- |
+| Isoniazid resistance  | **KatG** activation defect is classic                       |
+| Rifampicin resistance | **rpoB** mutation                                           |
+| Rifampicin            | **CYP/P-gp inducer**                                        |
+| Isoniazid             | CYP inhibition + B6 deficiency neuropathy                   |
+| Pyrazinamide          | Hyperuricaemia + hepatotoxicity                             |
+| Ethambutol            | Optic neuritis / red-green colour defect                    |
+| Bedaquiline           | QT prolongation                                             |
+| Linezolid             | Thrombocytopenia + neuropathy + serotonin syndrome          |
+| Clofazimine           | Brown skin pigmentation                                     |
+| Cycloserine           | Psychosis / depression                                      |
+| Terbinafine           | Squalene epoxidase                                          |
+| Azoles                | 14-alpha-demethylase                                        |
+| Amphotericin B        | Ergosterol pore formation                                   |
+| Echinocandins         | Beta-glucan synthase                                        |
+| Griseofulvin          | Microtubules                                                |
+| Flucytosine           | 5-FU pathway                                                |
+| Praziquantel          | Most cestodes + trematodes                                  |
+| Albendazole           | Hydatid cyst / many nematodes / neurocysticercosis contexts |
+| Triclabendazole       | Fasciola                                                    |
+| Ivermectin            | Strongyloides / Onchocerca / scabies                        |
+| DEC                   | Lymphatic filariasis / Loa loa (selected settings)          |
+| Enfuvirtide           | gp41 fusion inhibitor                                       |
+| Fostemsavir           | gp120 attachment inhibitor                                  |
+| Maraviroc             | CCR5 antagonist                                             |
+| Ibalizumab            | CD4 post-attachment monoclonal antibody                     |
+| Lenacapavir           | Capsid inhibitor                                            |
+| NRTIs                 | Reverse transcriptase chain termination                     |
+| NNRTIs                | Allosteric RT inhibition                                    |
+| INSTIs                | Integration block; “-gravir”                                |
+| PIs                   | Polyprotein cleavage block; “-navir”                        |
+| Oseltamivir           | Oral neuraminidase inhibitor                                |
+| Zanamivir             | Inhaled neuraminidase inhibitor                             |
+| Peramivir             | IV neuraminidase inhibitor                                  |
+| Acyclovir             | HSV/VZV                                                     |
+| Ganciclovir           | CMV                                                         |
+| Foscarnet             | Resistant herpesviruses                                     |
+| Chloroquine           | Blood-stage therapy for sensitive malaria                   |
+| Primaquine            | Hypnozoites + gametocytocidal activity                      |
+| Tafenoquine           | Long-acting vivax radical cure                              |
+| Artesunate            | **Severe malaria - all trimesters**                         |
+| Quinine               | Cinchonism + hypoglycaemia                                  |
+| Metronidazole         | Tissue-active amoebicide                                    |
+| Paromomycin           | Luminal amebicide                                           |
+| L-AmB                 | Kala-azar and serious mould disease                         |
+| Benznidazole          | Chagas disease                                              |
+| TMP-SMX               | PJP prophylaxis/treatment                                   |
+### Drugs to be avoided in G6PD
+
+| Class         | Drugs                                                                            |
+| ------------- | -------------------------------------------------------------------------------- |
+| Antimalarials | Primaquine > Chloroquine<br>Dapsone                                              |
+| Sulphonamides | Sulfamethoxazole, Sulfasalazine, Sulfisoxazole                                   |
+| Antibiotics   | Cotrimoxazole<br>Ciprofloxacin, Norfloxacin<br>Chloramphenicol<br>Nitrofurantoin |
+| Others        | Naphthalene, Rasburicase, Methylene blue                                         |
