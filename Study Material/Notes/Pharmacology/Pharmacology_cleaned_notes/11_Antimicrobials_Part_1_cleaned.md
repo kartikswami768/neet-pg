@@ -703,7 +703,6 @@ Mnemonic given:
 - Nausea/vomiting are common adverse effects.
 
 #### 30. Aminoglycosides
-
 ##### 30.1 Drugs
 - Streptomycin
 - Gentamicin
@@ -712,26 +711,23 @@ Mnemonic given:
 - Kanamycin
 - Capreomycin
 - Neomycin
-
 ##### 30.2 Mechanism
 - Bind **30S ribosome**.
 - Interfere with initiation and cause **misreading of mRNA**.
-- Bactericidal.
+- ==Bactericidal==.
 **Important PK/PD property**
+They are dependent on oxygen dependent transporters to transported into microbes. → so they are not effective on anaerobes.
 Aminoglycosides exhibit **concentration-dependent killing** and a clinically useful **post-antibiotic effect**, supporting extended-interval dosing for many indications.
-
 ##### 30.3 Clinical associations
-
-| Drug / group | association |
-|---|---|
-| Streptomycin | TB; plague; tularemia |
-| Amikacin | TB; Gram-negative / resistant Gram-negative infections; Pseudomonas |
-| Gentamicin | Serious Gram-negative infections; synergy in selected infections |
-| Tobramycin | Pseudomonas; topical preparations |
-| Neomycin | Topical preparations; oral nonabsorbed use for bowel decontamination |
-| Framycetin | Topical preparation; it with the brand **Soframycin** |
-| Kanamycin / capreomycin | Historical/selected TB use |
-
+| Drug / group            | association                                                          |
+| ----------------------- | -------------------------------------------------------------------- |
+| Streptomycin            | TB; plague; tularemia                                                |
+| Amikacin                | TB; Gram-negative / resistant Gram-negative infections; Pseudomonas  |
+| Gentamicin              | Serious Gram-negative infections; synergy in selected infections     |
+| Tobramycin              | Pseudomonas; topical preparations                                    |
+| Neomycin                | Topical preparations; oral nonabsorbed use for bowel decontamination |
+| Framycetin              | ==Topical preparation; it with the brand **Soframycin**==            |
+| Kanamycin / capreomycin | Historical/selected TB use                                           |
 **Neomycin and hepatic encephalopathy**
 The explains:
 ```text
@@ -744,7 +740,6 @@ Reduced ammonia production
 Potential benefit in hepatic encephalopathy
 ```
 This is a classic pharmacology association; modern hepatic encephalopathy treatment generally prioritizes **lactulose and rifaximin** rather than systemic toxic aminoglycoside exposure.
-
 ##### 30.4 Adverse effects
 **Ototoxicity**
 - Can cause **irreversible** cochlear or vestibular damage.
@@ -753,20 +748,16 @@ This is a classic pharmacology association; modern hepatic encephalopathy treatm
 - Renal tubular injury.
 - Risk increases with cumulative exposure and concurrent nephrotoxins.
 > **OCR correction:** The phrase "reversible RTA" should not be used as a defining aminoglycoside toxicity. The canonical toxicity is **proximal tubular injury / nephrotoxicity**, with potential reduction in kidney function.
-
 **Neuromuscular blockade**
 - Can impair neuromuscular transmission.
 - Increased concern in **myasthenia gravis**.
 - Calcium can antagonize aminoglycoside-associated neuromuscular blockade in severe cases; definitive management requires airway/ventilatory support and medical treatment.
-
 ##### 31. Oral Aminoglycosides
 **Key pharmacology:** oral aminoglycosides are poorly absorbed systemically.
-
 ##### Uses
 - Intestinal bacterial suppression / bowel decontamination
 - Neomycin-containing topical preparations
 This pharmacokinetic property is also why oral vancomycin can be used for luminal CDI therapy, although vancomycin is a glycopeptide rather than an aminoglycoside.
-
 ### 50S agents
 #### 24. Chloramphenicol
 ##### Mechanism
