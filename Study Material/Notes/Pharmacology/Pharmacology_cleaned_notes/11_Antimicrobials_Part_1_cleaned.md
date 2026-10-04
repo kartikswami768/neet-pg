@@ -521,7 +521,8 @@ Modern CRE management increasingly relies on active β-lactam/β-lactamase inhib
 - Ornidazole
 - Secnidazole
 - Satranidazole
-- Preto
+- Pretomanid
+- Delamanid
 The labels **secnidazole** as the longest-acting drug group.
 
 ###### Mechanism
