@@ -21,15 +21,15 @@ tags:
 
 ## Non-retroviral Drugs
 
-| Disease / drug | DOC / use | Side effects / notes |
-|---|---|---|
-| **Oral valacyclovir > acyclovir** | DOC: HSV/VZV | — |
-| **Topical acyclovir** | Orolabial herpes | — |
-| **IV acyclovir** | DOC: HSV encephalitis | Crystalluria, renal failure |
-| **Oral valganciclovir > ganciclovir** | DOC: CMV retinitis | Bone marrow suppression |
-| **IV ganciclovir** | DOC: CMV pneumonia | Bone marrow suppression |
-| **IV foscarnet** | Resistant herpes | Electrolyte imbalance: ↓K⁺, ↓Mg, Ca²⁺ ↑/↓, PO₄ ↑/↓ |
-| **Intralesional cidofovir** | DOC: recurrent laryngeal papillomatosis | — |
+| Disease / drug                        | DOC / use                               | Side effects / notes                               |
+| ------------------------------------- | --------------------------------------- | -------------------------------------------------- |
+| **Oral valacyclovir > acyclovir**     | DOC: HSV/VZV                            | —                                                  |
+| **Topical acyclovir**                 | Orolabial herpes                        | —                                                  |
+| **IV acyclovir**                      | DOC: HSV encephalitis                   | Crystalluria, renal failure                        |
+| **Oral valganciclovir > ganciclovir** | DOC: CMV retinitis                      | Bone marrow suppression                            |
+| **IV ganciclovir**                    | DOC: CMV pneumonia                      | Bone marrow suppression                            |
+| **IV foscarnet**                      | Resistant herpes                        | Electrolyte imbalance: ↓K⁺, ↓Mg, Ca²⁺ ↑/↓, PO₄ ↑/↓ |
+| **Intralesional cidofovir**           | DOC: recurrent laryngeal papillomatosis | —                                                  |
 
 ### Influenza
 
