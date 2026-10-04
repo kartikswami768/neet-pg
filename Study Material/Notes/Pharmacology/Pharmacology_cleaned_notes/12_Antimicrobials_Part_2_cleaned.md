@@ -1420,23 +1420,19 @@ Current WHO prevention options:
 > **Correction:** Palivizumab is a historically important exam drug, but current RSV prevention has moved toward **nirsevimab and maternal vaccination**.
 
 #### 42. INFLUENZA VIRUS
-
 ##### 42.1 Types named
 - Swine influenza: **A(H1N1)pdm09**
 - Avian influenza examples: **H5N1** and other highly pathogenic avian influenza subtypes
-
 ##### 42.2 M2 ion-channel inhibitors
 Examples:
 - Amantadine
 - Rimantadine
-
 ###### Mechanism
 Block the influenza A M2 proton channel and interfere with uncoating/entry-related steps.
 **Current status**
 - Resistance among circulating seasonal influenza A viruses is **very high**.
 - They are **not recommended for treatment of current seasonal influenza viruses**.
-> **Exam pearl:** Amantadine is also an anti-Parkinsonian drug because it increases dopaminergic activity through multiple mechanisms.
-
+> **Exam pearl:** ==Amantadine is also an anti-Parkinsonian drug because it increases dopaminergic activity through multiple mechanisms.==
 ##### 42.3 Neuraminidase inhibitors
 **Suffix**
 **“-mivir”**
@@ -1446,7 +1442,6 @@ Block the influenza A M2 proton channel and interfere with uncoating/entry-relat
 | Oseltamivir | Oral |
 | Zanamivir | Inhaled |
 | Peramivir | IV |
-
 ###### Mechanism
 - Inhibit **neuraminidase**.
 - Reduce release/spread of newly formed virions from infected respiratory cells.
@@ -1454,36 +1449,31 @@ Block the influenza A M2 proton channel and interfere with uncoating/entry-relat
 - Oral **cap-dependent endonuclease inhibitor**.
 - Distinct mechanism from neuraminidase inhibitors.
 - Used in selected influenza treatment settings.
-
-#### 43. HERPESVIRUS GROUP
+#### 43. HERPESVIRUS (HSV/CMV) GROUP
 
 ##### 43.1 Major viruses and classic drugs
 
-| Virus | Classic first-line association |
-|---|---|
-| HSV-1 | Acyclovir / valacyclovir / famciclovir |
-| HSV-2 | Acyclovir / valacyclovir / famciclovir |
-| VZV | Acyclovir / valacyclovir |
-| CMV | Ganciclovir / valganciclovir |
-
-**HSV/VZV mechanism**
+| Virus                              | Classic first-line association         |
+| ---------------------------------- | -------------------------------------- |
+| HSV-1                              | Acyclovir / valacyclovir / famciclovir |
+| HSV-2                              | Acyclovir / valacyclovir / famciclovir |
+| VZV                                | Acyclovir / valacyclovir               |
+| CMV                                | Ganciclovir / valganciclovir           |
+| HSV/CMV <br>resistant to Acyclovir | Foscarnet                              |
+##### Acyclovir and its congeners
 Acyclovir-class drugs inhibit **viral DNA polymerase** after phosphorylation, with selective activation in infected cells for acyclovir-like drugs.
-
-##### 43.2 Acyclovir congeners
-- Valacyclovir = prodrug with improved oral bioavailability
+- Valacyclovir = prodrug with ==improved oral bioavailability==
 - Famciclovir = oral prodrug related to penciclovir
 - Penciclovir
 **Classic clinical use**
 - HSV infections
 - Varicella-zoster infections
 **Important adverse effect**
-- **Nephrotoxicity**, especially with IV acyclovir if hydration is poor or crystals precipitate in renal tubules.
-
-#### 44. CMV DRUGS
-##### Ganciclovir
-- Anti-CMV guanosine analogue.
-- Causes **bone-marrow suppression**, especially neutropenia and anaemia.
-##### Valganciclovir
+- **==Nephrotoxicity==**, especially with IV acyclovir if hydration is poor or crystals precipitate in renal tubules.
+###### Ganciclovir
+- ==Anti-CMV== guanosine analogue.
+- Causes ==**bone-marrow suppression**, especially neutropenia and anaemia==.
+###### Valganciclovir
 - Oral prodrug of ganciclovir.
 ##### Foscarnet
 - Pyrophosphate analogue.
