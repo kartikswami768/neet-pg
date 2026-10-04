@@ -742,19 +742,19 @@ Potential benefit in hepatic encephalopathy
 ```
 This is a classic pharmacology association; modern hepatic encephalopathy treatment generally prioritizes **lactulose and rifaximin** rather than systemic toxic aminoglycoside exposure.
 ##### 30.4 Adverse effects
-**Ototoxicity**
+==**Ototoxicity**==
 - Can cause **irreversible** cochlear or vestibular damage.
 - High-frequency hearing loss is a classic association.
 
-**Nephrotoxicity**
+**==Nephrotoxicity**==
 - Proximal tubular injury.
 - Risk increases with cumulative exposure and concurrent nephrotoxins.
 
-**Neuromuscular blockade**
+==**Neuromuscular blockade**==
 - Can impair neuromuscular transmission.
 - Increased concern in **myasthenia gravis**.
 - Calcium can antagonize aminoglycoside-associated neuromuscular blockade in severe cases; definitive management requires airway/ventilatory support and medical treatment.
-##### 31. Oral Aminoglycosides
+##### Oral Aminoglycosides
 **Key pharmacology:** oral aminoglycosides are poorly absorbed systemically.
 ##### Uses
 - Intestinal bacterial suppression / bowel decontamination
