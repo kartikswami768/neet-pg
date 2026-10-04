@@ -642,11 +642,9 @@ Current treatment should be culture- and syndrome-specific, with agent selection
 >That is because Plasmodium has a prolkaryote derived organalle called apicoplast, where they act.
 ### 30S agents
 #### 25. Tetracyclines
-
 ##### 25.1 Core mechanism
 - Bind **30S**.
 - Prevent aminoacyl-tRNA from entering the **A site**.
-
 ##### 25.2 Drugs
 - Tetracycline
 - Doxycycline
@@ -656,21 +654,15 @@ Current treatment should be culture- and syndrome-specific, with agent selection
 - Omadacycline
 - Eravacycline
 - Tigecycline
-
-##### 25.3 Demeclocycline
+###### 25.3 Demeclocycline
 The highlights:
 - Inhibits ADH action at the kidney.
 - Can cause **nephrogenic diabetes insipidus**.
 - Used historically in selected cases of **SIADH** when other strategies are unsuitable.
-
-##### 25.4 Minocycline
+###### 25.4 Minocycline
 - ==Leprosy==
 - Acne
-
-##### 25.4A Tetracycline and H. pylori
-The specifically lists **tetracycline as an H. pylori treatment component**. In contemporary regimens, tetracycline is most classically encountered as part of **bismuth quadruple therapy**.
-
-##### 25.5 Doxycycline
+###### 25.5 Doxycycline
 Broad utility, including:
 - ==Rickettsial== infections
 - Cholera
@@ -678,8 +670,10 @@ Broad utility, including:
 - ==Leptospirosis==
 - ==Brucellosis==
 - ==Lyme disease== due to *Borrelia*
-It also labels doxycycline ==**renal safe / hepatobiliary elimination**==, which is a high-yield contrast with older tetracycline.
+It also labels doxycycline ==**renal safe / hepatobiliary elimination**==, which is a high-yield ==contrast with older tetracycline.==
 [[Tick Borne Diseases|Pearl for Tick Borne Diseases]]
+###### 25.4A Tetracycline and H. pylori
+The specifically lists **tetracycline as an H. pylori treatment component**. In contemporary regimens, tetracycline is most classically encountered as part of **bismuth quadruple therapy**.
 ##### 25.6 Adverse effects
 - GI irritation
 - Photosensitivity
@@ -687,10 +681,9 @@ It also labels doxycycline ==**renal safe / hepatobiliary elimination**==, which
 - Tooth discoloration / enamel effects in developing teeth
 - Effects on developing bone
 - Chelation with calcium, iron, magnesium and other cations → reduced absorption
-**Expired tetracycline**
+###### Expired tetracycline
 ingestion of degraded/expired tetracycline with **Fanconi syndrome**. This is a classic historical pharmacology association with **old tetracycline preparations** and should not be generalized to doxycycline.
-
-##### 25.7 Pregnancy and children
+###### Pregnancy and children
 - Avoid in pregnancy due to fetal teeth/bone effects.
 - Avoid in children <8 years.
 ##### 26. Newer Tetracyclines / Glycylcyclines
@@ -702,8 +695,7 @@ Mnemonic given:
 > **M – MRSA**
 > **A – abdominal infections**
 > **D – dermis / skin infections**
-
-##### Tigecycline
+###### Tigecycline
 - Broad activity, including many resistant Gram-positive and Gram-negative organisms and anaerobes.
 - Primarily IV.
 - No major renal-dose adjustment advantage is highlighted by The.
