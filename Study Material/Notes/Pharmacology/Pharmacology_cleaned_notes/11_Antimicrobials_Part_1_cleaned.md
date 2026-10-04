@@ -693,7 +693,7 @@ Broad utility, including:
 - ==Brucellosis==
 - ==Lyme disease== due to *Borrelia*
 It also labels doxycycline ==**renal safe / hepatobiliary elimination**==, which is a high-yield contrast with older tetracycline.
-
+[[Tick Borne Diseases|Pearl for Tick Borne Diseases]]
 ##### 25.6 Adverse effects
 - GI irritation
 - Photosensitivity
