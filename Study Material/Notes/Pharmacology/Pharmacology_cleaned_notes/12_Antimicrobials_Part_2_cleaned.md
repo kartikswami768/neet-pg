@@ -386,11 +386,6 @@ The mnemonic “ETH” associates ethionamide with erectile dysfunction and thyr
 | 4-6 months | Levofloxacin/Moxifloxacin + Clofazimine + Pyrazinamide + Ethambutol                                                | Yes          |
 | 6-9 months | Levofloxacin/Moxifloxacin + Clofazimine + Pyrazinamide + Ethambutol                                                | No           |
 
-- **Initial phase:**  
-  **Lzd + Lfx + Cfz + Z + E + high-dose H**
-- Followed by continuation therapy with:
-  **Lfx + Cfz + Z + E**
-- **Bedaquiline** is also incorporated for the specified initial/extended period according to NTEP protocol.
 
 **Duration**
 - Usually **9 months**
