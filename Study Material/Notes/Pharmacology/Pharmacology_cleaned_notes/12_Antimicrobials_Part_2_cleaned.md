@@ -380,10 +380,11 @@ The mnemonic “ETH” associates ethionamide with erectile dysfunction and thyr
 
 **Regimen**
 
-|            |                                                                                                                                        |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 1-4 months | Levofloxacin/Moxifloxacin + Clofazimine + Pyrazinamide + Ethambutol + high-dose Isoniazid + Ethionamide                                |
-| 4-6 months | Levofloxacin/Moxifloxacin + Clofazimine + Pyrazinamide + EthambutolLevofloxacin/Moxifloxacin + Clofazimine + Pyrazinamide + Ethambutol |
+|            | Other than Bedaquilline                                                                                            | Bedaquilline |
+| ---------- | ------------------------------------------------------------------------------------------------------------------ | ------------ |
+| 1-4 months | ==high-dose Isoniazid== + Levofloxacin/Moxifloxacin + Clofazimine + Pyrazinamide + Ethambutol +  + ==Ethionamide== | Yes          |
+| 4-6 months | Levofloxacin/Moxifloxacin + Clofazimine + Pyrazinamide + Ethambutol                                                | Yes          |
+| 6-9 months | Levofloxacin/Moxifloxacin + Clofazimine + Pyrazinamide + Ethambutol                                                | No           |
 
 - **Initial phase:**  
   **Lzd + Lfx + Cfz + Z + E + high-dose H**
