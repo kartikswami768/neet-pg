@@ -1018,28 +1018,10 @@ MIC: the lowest concentration that inhibits visible bacterial growth.
 |                                                                                              |                                                                                                                                 |                                                                                  |
 | Once Daily Big dose                                                                          | Multiple Doses may be required                                                                                                  |                                                                                  |
 | Effectiveness correlates with achieving a high concentration relative to the organism's MIC. | Effectiveness correlates with the duration for which drug concentration remains above the MIC (**%fT>MIC** for many β-lactams). | Total area under curve above the MIC. So both time and concentration contribute. |
-###### **Concentration-dependent killing**
-Effectiveness correlates with achieving a high concentration relative to the organism's MIC.
-Common exam examples:
-- ==Aminoglycosides==
-this with **once-daily dosing** as a typical strategy.
-###### **Time-dependent killing**
-Effectiveness correlates with the duration for which drug concentration remains above the MIC (**%fT>MIC** for many β-lactams).
-this often requires multiple doses per day.
-Examples:
-- Penicillins
-- Cephalosporins
-- Many other β-lactams
-###### **AUC/MIC**
-For some antibiotics, **total exposure relative to MI**C is the principal PK/PD driver.
-Classic example:
-- Vancomycin is commonly monitored using **AUC/MIC-guided exposure** for serious MRSA infections in modern practice.
-
 ##### 43. Post-Antibiotic Effect (PAE)
 
 ###### Definition
 > Continued suppression of bacterial growth after the antibiotic concentration falls below the MIC.
-
 
 | PK/PD category in                              | Drugs listed                                                       |
 | ---------------------------------------------- | ------------------------------------------------------------------ |
