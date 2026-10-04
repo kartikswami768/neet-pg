@@ -260,17 +260,6 @@ root.appendChild(quick);
 
 ---
 
-## Subject Dashboards
-
-Use a dedicated subject page when you want the complete progression of one subject in one place.
-
-- [[00_Strategy/Curriculum/Pharmacology Dashboard|Pharmacology]]
-- [[00_Strategy/Curriculum/Forensic Medicine Dashboard|Forensic Medicine]]
-- [[00_Strategy/Curriculum/Pediatrics Dashboard|Pediatrics]]
-- [[00_Strategy/Curriculum/Subject Dashboards|All Subject Dashboards]]
-
----
-
 ## Syllabus Progress
 
 > This is independent of the current test cycle. Overlap counts: studying a Medicine topic during a Pharmacology cycle can still move Medicine forward.
@@ -283,6 +272,12 @@ const subjectOrder = [
   "Medicine","Surgery","Pediatrics","OBG","Orthopedics","Dermatology",
   "Psychiatry","Radiology","Anesthesia","ENT","Ophthalmology"
 ];
+
+const subjectDashboards = {
+  "Pharmacology": "00_Strategy/Curriculum/Pharmacology Dashboard.md",
+  "Forensic Medicine": "00_Strategy/Curriculum/Forensic Medicine Dashboard.md",
+  "Pediatrics": "00_Strategy/Curriculum/Pediatrics Dashboard.md"
+};
 
 if (pages.length === 0) {
   dv.paragraph("No curriculum units have been created yet. Start with: [[Templates/03 Curriculum Unit]].");
@@ -301,7 +296,10 @@ if (pages.length === 0) {
     const firstPct = total ? Math.round(firstPass / total * 100) : 0;
     const revPct = total ? Math.round(revised / total * 100) : 0;
     const bar = pct => "█".repeat(Math.round(pct / 10)) + "░".repeat(10 - Math.round(pct / 10));
-    return [subject, bar(firstPct) + " " + firstPct + "%", bar(revPct) + " " + revPct + "%", total];
+    const subjectCell = subjectDashboards[subject]
+      ? dv.fileLink(subjectDashboards[subject], false, subject)
+      : subject;
+    return [subjectCell, bar(firstPct) + " " + firstPct + "%", bar(revPct) + " " + revPct + "%", total];
   });
 
   dv.table(["Subject","First pass","Revision","Units"], rows);
