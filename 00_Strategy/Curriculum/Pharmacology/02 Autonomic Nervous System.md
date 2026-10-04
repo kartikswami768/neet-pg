@@ -29,6 +29,12 @@ covered_in:
 
 - WOR and cleaned notes are both available.
 
+## Notes
+
+- Both source versions are available:
+  - [[Study Material/Notes/Pharmacology/Pharmacology WOR/02_Autonomic_Nervous_System.md]]
+  - [[Study Material/Notes/Pharmacology/Pharmacology_cleaned_notes/03_Autonomic_Nervous_System_cleaned.md]]
+
 ## Revision history
 
 | Date | Type | Result | Comment |
