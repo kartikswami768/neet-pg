@@ -311,7 +311,6 @@ The mnemonic “ETH” associates ethionamide with erectile dysfunction and thyr
 - **Avoid in HIV infection** because of serious adverse reactions.
 
 #### 2. DRUG-RESISTANT TB regimens
-
 | Resistance pattern                                         | Key regimen                        | Duration         |
 | ---------------------------------------------------------- | ---------------------------------- | ---------------- |
 | **H-resistant, R-sensitive**                               | **Lfx + R + E + Z**                | **6 months**     |
@@ -329,17 +328,13 @@ The mnemonic “ETH” associates ethionamide with erectile dysfunction and thyr
 - **Pregnancy/breastfeeding → avoid pretomanid-containing BPaLM.**
 - **Injectables are not routine backbone** of modern DR-TB regimens.
 ##### 2.1 Definitions
-
 ###### MDR/RR-TB
 - **RR-TB:** Rifampicin-resistant TB ± resistance to other drugs.
 - **MDR-TB:** Resistance to **Isoniazid (H) + Rifampicin (R)**.
-
 ###### Pre-XDR-TB
 - MDR/RR-TB + **fluoroquinolone resistance**.
-
 ###### XDR-TB
 - MDR/RR-TB + **FQ resistance + resistance to bedaquiline or linezolid (Group A drugs)
-
 ##### 2. Isoniazid-resistant TB
 ###### H mono/poly-drug resistance
 - If **Rifampicin remains susceptible**:
@@ -350,17 +345,13 @@ The mnemonic “ETH” associates ethionamide with erectile dysfunction and thyr
   - Significant comorbidity
   - Severe extrapulmonary TB
   - Persistent smear positivity at month 4
-
 > **Exam pearl:** H-resistant TB ≠ MDR-TB if rifampicin is still susceptible.
-
 ---
-
 ##### 3. MDR/RR-TB — Short 6-month regimen
 **BPaLM = Bedaquiline + Pretomanid + Linezolid + Moxifloxacin**
 - Preferred short regimen for eligible **MDR/RR-TB patients ≥14 years**.
 - **Duration:** 6 months / 26 weeks.
 - Can be extended to **9 months** in selected cases, especially with linezolid toxicity requiring dose reduction.
-
 >**Important point about FQ resistance**
 	- Current **NTEP:** ==BPaLM can be used **irrespective of FQ resistance**.==
 	- **Moxifloxacin is retained** in the NTEP BPaLM regimen even with FQ resistance.
@@ -369,6 +360,7 @@ The mnemonic “ETH” associates ethionamide with erectile dysfunction and thyr
 - Patient is **not eligible for BPaLM** but meets criteria for the shorter oral regimen.
 - Generally requires **absence of FQ resistance** and no major resistance/contraindication to the regimen drugs.
 >Pay attention that BPaLM can be used even in Fluoroquinolone resistance
+
 **Regimen**
 ==For First 6 months → Bedaquilline Irrespective of Phase==
 Other than Bedaquilline: 
@@ -378,8 +370,6 @@ Other than Bedaquilline:
 | Extensive Phase    | 4-6 months<br>- Usually 4 months<br>- Can be extended to 6 months based on response to treatment | ==high-dose Isoniazid== + Levofloxacin/Moxifloxacin + Clofazimine + Pyrazinamide + Ethambutol +  + ==Ethionamide== |
 | Continuation Phase | 5 months                                                                                         | Levofloxacin/Moxifloxacin + Clofazimine + Pyrazinamide + Ethambutol                                                |
 >Linezolid can be given instead of Ethionamid in preganancy. But duration of it will be 2 months only.
-
-
 **Eligibility:**
 	- MDR/RR-TB
 	* Fluoroquinolone resistance must be excluded
@@ -388,41 +378,29 @@ Other than Bedaquilline:
 	* ≥14 year old
 	* Not Pregnant, not Breastfeeding
 	* Not CNS TB
-
 ---
 ##### 5. Longer oral regimen
-
-###### When used
+   **When used**
 - Cannot use BPaLM or the 9–11 month regimen.
 - Extensive resistance, intolerance, contraindications, or other clinical situations requiring individualized therapy.
-
-###### Core regimen
+**Core regimen**
 - **Bdq + Lfx + Lzd + Cfz + Cs**
 - Modify according to resistance pattern and drug intolerance.
-
-###### Duration
+**Duration**
 - **18–20 months**
 - **XDR-TB → usually 20 months** in the NTEP framework.
-
 > Modern NTEP regimens are predominantly **all-oral**; injectables are no longer the routine backbone.
-
 ---
-
 ##### 6. Special situations
-
 ###### Pregnancy / Breastfeeding
 - **Pretomanid is avoided/not recommended** in pregnancy and breastfeeding.
 - Therefore, standard **BPaLM is not used**.
 - An appropriate **Lzd-containing shorter regimen** may be used when eligible.
 - **Second-line injectable aminoglycosides are avoided in pregnancy** because of fetal ototoxicity.
-
 ###### Age <14 years
 - Standard **BPaLM protocol is for ≥14 years**.
 - Younger children require an appropriate pediatric DR-TB regimen.
-
 ---
-
-
 ### TB clinical situations, HIV & prevention
 
 #### 6. SPECIAL CLINICAL SITUATIONS IN TB
