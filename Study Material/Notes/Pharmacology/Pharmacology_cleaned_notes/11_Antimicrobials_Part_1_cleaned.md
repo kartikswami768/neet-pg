@@ -744,10 +744,11 @@ This is a classic pharmacology association; modern hepatic encephalopathy treatm
 **Ototoxicity**
 - Can cause **irreversible** cochlear or vestibular damage.
 - High-frequency hearing loss is a classic association.
+
 **Nephrotoxicity**
-- Renal tubular injury.
+- Proximal tubular injury.
 - Risk increases with cumulative exposure and concurrent nephrotoxins.
-> **OCR correction:** The phrase "reversible RTA" should not be used as a defining aminoglycoside toxicity. The canonical toxicity is **proximal tubular injury / nephrotoxicity**, with potential reduction in kidney function.
+
 **Neuromuscular blockade**
 - Can impair neuromuscular transmission.
 - Increased concern in **myasthenia gravis**.
