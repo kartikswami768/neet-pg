@@ -291,19 +291,19 @@ carbapenems for severe/hospital-acquired infections and particularly for infecti
 - Most are stable to many ESBLs.
 - **Ertapenem** differs from imipenem/meropenem because it does **not** provide reliable coverage for *Pseudomonas aeruginosa* or *Acinetobacter*.
 
-##### 9.3 Imipenem + cilastatin
+###### 9.3 Imipenem + cilastatin
 **Why the combination?**
 **Imipenem** is hydrolyzed by renal **dehydropeptidase-I (DHP-I)**.
 **Cilastatin** inhibits DHP-I → reduces renal degradation of imipenem → increases effective exposure and reduces formation of nephrotoxic metabolites.
 
-###### Adverse effects
+##### Adverse effects
 - GI effects
 - Hypersensitivity
 - **Neurotoxicity / seizures**, especially with imipenem and in patients with CNS disease or renal dysfunction
-- Renal dose adjustment is required for most carbapenems
-**imipenem the most toxic carbapenem** seizure/neurotoxicity context; this is a useful exam association but should not be generalized to every possible toxicity metric.
+- ==Renal dose adjustment is required for most carbapenems==
+==**imipenem the most toxic carbapenem** seizure/neurotoxicity context==; this is a useful exam association but should not be generalized to every possible toxicity metric.
 
-#### 10. ESBL and Carbapenemase Resistance
+#### ==10. ESBL and Carbapenemase Resistance==
 
 ##### 10.1 ESBL
 **Extended-spectrum β-lactamases (ESBLs)** can hydrolyze many:
@@ -1006,7 +1006,7 @@ The associations are:
 Additional mechanisms not explicitly tabulated but important conceptually include reduced permeability, biofilm formation, target protection and bypass pathways.
 ## 42. Antimicrobial Pharmacodynamics – MIC, PK/PD and Dosing
 
-##### 42.1 MIC
+##### MIC
 **MIC = Minimum Inhibitory Concentration**
 MIC: the lowest concentration that inhibits visible bacterial growth.
 
@@ -1018,27 +1018,17 @@ MIC: the lowest concentration that inhibits visible bacterial growth.
 |                                                                                              |                                                                                                                                 |                                                                                  |
 | Once Daily Big dose                                                                          | Multiple Doses may be required                                                                                                  |                                                                                  |
 | Effectiveness correlates with achieving a high concentration relative to the organism's MIC. | Effectiveness correlates with the duration for which drug concentration remains above the MIC (**%fT>MIC** for many β-lactams). | Total area under curve above the MIC. So both time and concentration contribute. |
-##### 43. Post-Antibiotic Effect (PAE)
+##### Post-Antibiotic Effect (PAE)
 
 ###### Definition
 > Continued suppression of bacterial growth after the antibiotic concentration falls below the MIC.
 
-| Mechanism                                        | Example                                                                                                      |
-| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
-| Persistent binding to target                     | Aminoglycosides remain associated with bacterial ribosomes even after extracellular drug concentration falls |
-| Irreversible / slowly reversible cellular damage | Aminoglycoside-induced misreading of mRNA → abnormal proteins → persistent bacterial dysfunction             |
-| Post-exposure cellular dysfunction               | Fluoroquinolone-induced DNA damage → bacteria require time to repair DNA and resume replication              |
-| Immune system clears damaged organisms           | Antibiotic-damaged bacteria become more susceptible to host immune clearance; contributes to PAE             |
-
-| PK/PD category in                              | Drugs listed                                                       |
-| ---------------------------------------------- | ------------------------------------------------------------------ |
-| **Concentration-dependent killing + long PAE** | Metronidazole, ==aminoglycosides==, ==rifampicin==, streptogramins |
-| **Time-dependent killing + long PAE**          | ==Fluoroquinolones==, ==vancomycin==                               |
-| **Time-dependent killing + long PAE**          | Azithromycin, ==tetracyclines==                                    |
-| **Time-dependent killing + short PAE**         | Clindamycin, penicillins, erythromycin, cephalosporins             |
-
-> **Interpretation:** This table is an **exam-oriented simplification **, not a universal PK/PD taxonomy. Real antimicrobial PK/PD relationships vary by organism, site, pathogen susceptibility, free-drug exposure, and drug-specific pharmacology.
-
+| Mechanism                                        | Example                                                                                                          |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| Persistent binding to target                     | ==Aminoglycosides== remain associated with bacterial ribosomes even after extracellular drug concentration falls |
+| Irreversible / slowly reversible cellular damage | ==Aminoglycoside==-induced misreading of mRNA → abnormal proteins → persistent bacterial dysfunction             |
+| Post-exposure cellular dysfunction               | ==Fluoroquinolone==-induced DNA damage → bacteria require time to repair DNA and resume replication              |
+| Immune system clears damaged organisms           | Antibiotic-damaged bacteria become more susceptible to host immune clearance; contributes to PAE                 |
 # High-yield comparison tables & exam pearls
 
 #### 44. High-Yield Comparison Tables
