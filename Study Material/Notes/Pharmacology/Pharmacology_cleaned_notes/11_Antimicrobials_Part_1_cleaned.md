@@ -639,6 +639,13 @@ is essentially **HEART–PQRST** plus other toxicities:
 >These drugs are not going to work against eukaryotes, except:
 >Doxycycline, Azithromycin, Clindamycin on Plasmodium.
 >That is because Plasmodium has a prolkaryote derived organalle called apicoplast, where they act.
+>### Protein Synthesis Inhibitors — One-Line Memory
+
+**30S:** Aminoglycosides → **Misread mRNA** | Tetracyclines/Tigecycline → **tRNA blocked**
+
+**50S:** Macrolides/Clindamycin → **Translocation blocked** | Chloramphenicol → **Peptidyl transferase inhibited** | Linezolid → **Initiation blocked**
+
+**Other:** Mupirocin → **Ile-tRNA synthetase inhibited** | Fusidic acid → **EF-G blocked**
 ### 30S agents
 #### 25. Tetracyclines
 ##### 25.1 Core mechanism
