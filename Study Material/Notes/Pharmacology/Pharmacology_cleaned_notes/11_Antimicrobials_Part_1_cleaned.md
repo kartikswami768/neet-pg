@@ -563,7 +563,7 @@ a visual comparison table.
 This produces impaired DNA replication and transcription and is bactericidal.
 
 ###### 21.3 CYP interactions
-- **Ciprofloxacin** → clinically relevant CYP1A2 inhibition → can increase concentrations of selected substrates such as **theophylline** and can affect some anticoagulant therapies.
+- **==Ciprofloxacin==** → clinically relevant CYP1A2 inhibition → can increase concentrations of selected substrates such as **==theophylline==** and can affect some anticoagulant therapies.
 - **Levofloxacin** has relatively little CYP inhibition.
 
 ###### 21.4 Hepatic elimination / renal safety associations
@@ -600,6 +600,7 @@ is essentially **HEART–PQRST** plus other toxicities:
 - Rash
 - Severe cutaneous adverse reactions, including rare SJS/TEN
 - Tendinitis and tendon rupture, especially in higher-risk patients associate greater QT risk with **moxifloxacin and sparfloxacin** and least with ciprofloxacin.
+
 **Important clinical safety point**
 - Fluoroquinolone use is increasingly restricted where safer effective alternatives exist because of serious adverse effects and stewardship concerns.
 - FDA labelling for levofloxacin specifically states that for uncomplicated UTI it should be reserved for patients without alternative treatment options.
@@ -749,7 +750,7 @@ This is a classic pharmacology association; modern hepatic encephalopathy treatm
 - Risk increases with cumulative exposure and concurrent nephrotoxins.
 
 ==**Neuromuscular blockade**==
-- Can impair neuromuscular transmission.
+- Can impair neuromuscular transmission as they inhibit release of acetylcholine.
 - ==Increased concern in **myasthenia gravis**.==
 - <u>Calcium can antagonize aminoglycoside-associated neuromuscular blockade in severe cases</u>; definitive management requires airway/ventilatory support and medical treatment.
 ##### Oral Aminoglycosides
@@ -960,7 +961,7 @@ identify predominantly biliary-excreted drugs including:
 - Azithromycin
 - Linezolid
 - Doxycycline
-- Selected fluoroquinolones such as moxifloxacin/pefloxacin/trovafloxacin
+- Selected fluoroquinolones such as *moxifloxacin/pefloxacin/trovafloxacin*
 **Important qualification**
 "Renal safe" does **not** mean "no monitoring required" or "no renal considerations." Dosing depends on the specific drug, indication, hepatic function, severity of illness, and product information.
 ##### 38.2 Drugs highlighted as requiring renal dose adjustment
