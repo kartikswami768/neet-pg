@@ -1480,22 +1480,18 @@ Acyclovir-class drugs inhibit **viral DNA polymerase** after phosphorylation, wi
 - **Nephrotoxicity**, especially with IV acyclovir if hydration is poor or crystals precipitate in renal tubules.
 
 #### 44. CMV DRUGS
-
 ##### Ganciclovir
 - Anti-CMV guanosine analogue.
 - Causes **bone-marrow suppression**, especially neutropenia and anaemia.
-
 ##### Valganciclovir
 - Oral prodrug of ganciclovir.
-
 ##### Foscarnet
 - Pyrophosphate analogue.
 - Useful for resistant CMV/HSV where viral thymidine kinase or related activation pathways make acyclovir/ganciclovir ineffective.
 - Important toxicity: **nephrotoxicity and electrolyte abnormalities**.
-
 ##### Cidofovir
 - Nucleotide analogue with antiviral activity independent of viral kinase activation.
-- Used for selected resistant DNA-virus infections.
+- Used for selected resistant DNA-virus infections like papillomavirus (HPV)
 - Major toxicity: **nephrotoxicity**.
 > Cidofovir is not a general “drug of choice for papillomavirus.” Topical cidofovir may be used **off-label** for selected HPV lesions, but standard management of HPV depends on the lesion and is not simply “cidofovir = DOC.”
 
