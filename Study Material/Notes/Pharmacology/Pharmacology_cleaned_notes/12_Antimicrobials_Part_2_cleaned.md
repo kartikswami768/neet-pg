@@ -26,7 +26,7 @@ type: Marrow
 | Drug         | Symbol | High-yield pharmacological point                                                                                      |
 | ------------ | ------ | --------------------------------------------------------------------------------------------------------------------- |
 | Isoniazid    | **H**  | ==Prodrug==; inhibits mycolic-acid synthesis after activation by KatG                                                 |
-| Rifampicin   | **R**  | Inhibits bacterial DNA-dependent RNA polymerase;==strong CYP/P-gp inducer==                                           |
+| Rifampicin   | **R**  | Inhibits bacterial DNA-dependent ==RNA polymerase==;==strong CYP/P-gp inducer==                                       |
 | Pyrazinamide | **Z**  | ==Prodrug==; active against intracellular/slowly replicating organisms; important hepatotoxicity + ==hyperuricaemia== |
 | Ethambutol   | **E**  | Inhibits arabinosyl transferase; **bacteriostatic**; ==optic toxicity==                                               |
 
@@ -2055,7 +2055,7 @@ Typical adult prophylaxis examples:
 | Drug         | Mechanism                                             | Signature toxicity                                       |
 | ------------ | ----------------------------------------------------- | -------------------------------------------------------- |
 | Isoniazid    | Inhibits mycolic-acid synthesis after KatG activation | Hepatotoxicity, peripheral neuropathy                    |
-| Rifampicin   | Inhibits DNA-dependent RNA polymerase                 | Hepatotoxicity, enzyme induction, orange-red body fluids |
+| Rifampicin   | Inhibits DNA-dependent ==RNA polymerase==             | Hepatotoxicity, enzyme induction, orange-red body fluids |
 | Pyrazinamide | Pyrazinoic-acid prodrug; intracellular activity       | Hepatotoxicity, hyperuricaemia/gout                      |
 | Ethambutol   | Inhibits arabinosyl transferase                       | Optic neuritis, red-green colour discrimination loss     |
 | Bedaquiline  | ATP synthase inhibitor                                | QT prolongation                                          |

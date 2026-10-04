@@ -750,8 +750,8 @@ This is a classic pharmacology association; modern hepatic encephalopathy treatm
 
 ==**Neuromuscular blockade**==
 - Can impair neuromuscular transmission.
-- Increased concern in **myasthenia gravis**.
-- Calcium can antagonize aminoglycoside-associated neuromuscular blockade in severe cases; definitive management requires airway/ventilatory support and medical treatment.
+- ==Increased concern in **myasthenia gravis**.==
+- <u>Calcium can antagonize aminoglycoside-associated neuromuscular blockade in severe cases</u>; definitive management requires airway/ventilatory support and medical treatment.
 ##### Oral Aminoglycosides
 **Key pharmacology:** oral aminoglycosides are poorly absorbed systemically.
 ##### Uses
