@@ -585,21 +585,21 @@ These are teaching mnemonics, not complete immunological descriptions.
 	 - Tavaborole (leucyl-tRNA synthetase inhibitor)
 #### Important Table
 
-| Disease                                             | DOC            | Other drugs / notes                          |
-| --------------------------------------------------- | -------------- | -------------------------------------------- |
-| Kala-azar                                           | Amphotericin B | —                                            |
-| Mucormycosis                                        | Amphotericin B | —                                            |
-| Cryptococcal meningitis                             | Amphotericin B | Flucytosine, Fluconazole                     |
-| Candida albicans: mucocutaneous infection (vaginal) | Fluconazole    | Except oral candidiasis                      |
-| Vaginal candidiasis (new)                           | Oteseconazole  | Azole; Ibrexafungerp (β-glucan synthase −)   |
-| Oral candidiasis                                    | Clotrimazole   | Lozenge                                      |
-| Candida non-albicans / systemic                     | Echinocandin   | Caspofungin, micafungin, anidulafungin (IV)  |
-| Aspergillosis                                       | Voriconazole   | —                                            |
-| Skin infection / tinea                              | Sertaconazole  | Topical; ==anti-pruritic/anti-inflammatory== |
-| Tinea cruris / tinea corporis                       | Itraconazole   | Terbinafine                                  |
-| T. capitis / dermatophyte infection                 | Griseofulvin   | Oral with fatty food; resistance noted       |
-| Fungal corneal ulcer                                | Natamycin      | —                                            |
-| Onychomycosis                                       | Terbinafine    | Tavaborole; efinaconazole solution           |
+| Disease                                             | DOC            | Other drugs / notes                          |     |
+| --------------------------------------------------- | -------------- | -------------------------------------------- | --- |
+| Kala-azar                                           | Amphotericin B | —                                            |     |
+| Mucormycosis                                        | Amphotericin B | Posaconazole, isavuconazole                  |     |
+| Cryptococcal meningitis                             | Amphotericin B | Flucytosine, Fluconazole                     |     |
+| Candida albicans: mucocutaneous infection (vaginal) | Fluconazole    | Except oral candidiasis                      |     |
+| Vaginal candidiasis (new)                           | Oteseconazole  | Azole; Ibrexafungerp (β-glucan synthase −)   |     |
+| Oral candidiasis                                    | Clotrimazole   | Lozenge                                      |     |
+| Candida non-albicans / systemic                     | Echinocandin   | Caspofungin, micafungin, anidulafungin (IV)  |     |
+| Aspergillosis                                       | Voriconazole   | Isavuconazole, Amphotericin B                |     |
+| Skin infection / tinea                              | Sertaconazole  | Topical; ==anti-pruritic/anti-inflammatory== |     |
+| Tinea cruris / tinea corporis                       | Itraconazole   | Terbinafine                                  |     |
+| T. capitis / dermatophyte infection                 | Griseofulvin   | Oral with fatty food; resistance noted       |     |
+| Fungal corneal ulcer                                | Natamycin      | —                                            |     |
+| Onychomycosis                                       | Terbinafine    | Tavaborole; efinaconazole solution           |     |
 
 #### 13. ECHINOCANDINS
 Examples:
@@ -1110,7 +1110,6 @@ Mature infectious virions
 
 ##### REVERSE TRANSCRIPTASE INHIBITORS (RTIs)
 ###### 29.1 NRTIs
-# NRTIs — CLASSIFICATION
 
 | Class / Group      | Drugs                                                                    | High-yield point                                   |
 | ------------------ | ------------------------------------------------------------------------ | -------------------------------------------------- |
@@ -1183,25 +1182,19 @@ Bind an allosteric site on HIV reverse transcriptase and inhibit enzyme function
 
 
 ##### 31. INTEGRASE STRAND TRANSFER INHIBITORS (INSTIs)
-
-###### Suffix
 **“-gravir”**
 Examples:
 - Dolutegravir
 - Bictegravir
 - Cabotegravir
 - Raltegravir
-
 ###### Mechanism
 - Inhibit integration of viral DNA into host-cell DNA.
-
 ###### Dolutegravir + rifampicin
 - Rifampicin induces metabolism/transport pathways.
 - NACO: **DTG 50 mg twice daily** during rifampicin-containing ATT and for 2 weeks afterward.
 > It is not correct to say that all integrase inhibitors are simply “degraded by CYP3A4” or that all require the same interaction adjustment. Dolutegravir, bictegravir and raltegravir have different metabolic pathways.
-
 ##### 32. PROTEASE INHIBITORS (PIs)
-
 ###### Suffix
 **“-navir”**
 Examples:
@@ -1212,14 +1205,11 @@ Examples:
 - Saquinavir
 - Ritonavir
 - Tipranavir
-
 ###### Mechanism
 - Inhibit HIV protease.
 - Prevent cleavage of viral polyproteins into mature structural and enzymatic proteins.
 - Result: release of immature/noninfectious virions.
-
 ###### 32.1 High-yield individual adverse effects
-
 | PI | / exam association |
 |---|---|
 | Indinavir | **Renal stones / crystalluria** |
@@ -1227,21 +1217,18 @@ Examples:
 | Atazanavir | Indirect hyperbilirubinaemia / jaundice |
 | Tipranavir | Bleeding risk; hepatotoxicity; intracranial haemorrhage warning in historical prescribing data |
 | Ritonavir | **Potent CYP3A inhibitor**; used mainly as a pharmacokinetic booster rather than as a core PI in many modern regimens |
-
 **PI class adverse effects**
 Older PIs are associated with:
 - Dyslipidaemia
 - Insulin resistance/diabetes
-- Body-fat redistribution/lipodystrophy
+- ==Body-fat redistribution/lipodystrophy==
 These adverse effects are less dominant with newer agents than with older PI regimens.
 
-##### 33. LIPODYSTROPHY AND HIV
+**LIPODYSTROPHY AND HIV**
 - Obesity/body-fat redistribution
 - Breast hypertrophy
 - Diabetes
 - Dyslipidaemia
-###### Pharmacological perspective
-HIV-associated lipodystrophy is multifactorial and is not simply an effect of “eating fatty food.”
 
 ###### Important correction
 **Semaglutide is an anti-obesity/antidiabetic GLP-1 receptor agonist, but it is not appropriately described as a drug specifically approved because of protease-inhibitor-associated HIV lipodystrophy.** It may be clinically used to manage obesity according to its approved indication, but that is different from an HIV-lipodystrophy-specific drug indication.
@@ -1250,20 +1237,16 @@ HIV-associated lipodystrophy is multifactorial and is not simply an effect of �
 - **Tesamorelin** is a [[09_Endocrine_System_cleaned|GHRH analogue]] that has a specific role in reducing excess visceral abdominal fat in adults with HIV-associated lipodystrophy in jurisdictions where it is approved.
 
 ##### 34. BOOSTED PROTEASE INHIBITORS
-
 ###### Concept
 **Ritonavir** and **cobicistat** inhibit metabolism/transport of selected antiretroviral drugs and are used at low doses as pharmacokinetic boosters.
-
 ###### Purpose
 - Increase plasma concentration
 - Increase drug exposure
 - Permit convenient dosing / maintain target concentrations
-
 ###### Examples
 - Lopinavir + ritonavir
 - Darunavir + ritonavir or cobicistat
 > Modern ART increasingly favours integrase-inhibitor-based regimens; boosted PI regimens remain important in selected treatment situations, resistance scenarios and specialist contexts.
-
 #### 3. HIV Treatment in India
 ##### NACP / NACO principles
 - **Universal treatment:** ART is offered to people with HIV according to programme eligibility rather than waiting for an arbitrary low CD4 threshold.
