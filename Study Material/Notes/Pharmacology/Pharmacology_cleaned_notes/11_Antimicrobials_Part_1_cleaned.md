@@ -854,11 +854,8 @@ Other recognised concerns with prolonged therapy include lactic acidosis and add
 - Historically important for severe resistant Gram-positive infections, including selected vancomycin-resistant *Enterococcus faecium*.
 - association: **linezolid-resistant staphylococci (LRSA)**.
 ## Folate Pathway, Special Uses & Resistance
-
 ### Folate pathway & cotrimoxazole
-
 #### 32. Folate Pathway Inhibitors
-
 ##### 32.1 Pathway
 ```text
 PABA
@@ -871,9 +868,7 @@ Tetrahydrofolate (THF)
  ↓
 Nucleotide synthesis
 ```
-
 ##### 32.2 Drug targets
-
 | Drug | Target |
 |---|---|
 | Sulfonamides | **Dihydropteroate synthase / folate synthase pathway** |
@@ -882,31 +877,27 @@ Nucleotide synthesis
 | Pyrimethamine | Protozoal DHFR |
 | Methotrexate | Human DHFR |
 | Folinic acid / leucovorin | Reduced folate rescue |
-
 **Important distinction**
 The correctly contrasts:
 - **Trimethoprim → bacterial DHFR**
 - **Methotrexate → human DHFR**
 Folinic acid (leucovorin) can bypass DHFR blockade in human cells and is used to limit methotrexate toxicity or, in specific combinations, provide folate rescue around antiparasitic DHFR inhibition.
-
 #### 33. Sulfonamides + Pyrimethamine
-
 ##### Toxoplasmosis
 - **Sulfadiazine + pyrimethamine**
 - Described as a synergistic bactericidal/cidal combination.
 More accurately, this combination is **antiparasitic and synergistic against *Toxoplasma gondii***.
+
 **Folinic acid**
 **Leucovorin (folinic acid)** is added to reduce host marrow toxicity associated with pyrimethamine.
+
 **Pregnancy**
 **spiramycin** with reducing fetal transmission when maternal toxoplasmosis is diagnosed during pregnancy.
 Use of spiramycin vs pyrimethamine-based therapy depends on gestational timing, evidence of fetal infection, specialist assessment, and current local protocols.
-
 #### 34. Cotrimoxazole
-
 ##### Composition
 **Trimethoprim + sulfamethoxazole**
 > **5 : 1** by weight of sulfamethoxazole : trimethoprim.
-
 ##### Sequential blockade
 ```text
 Sulfonamide
@@ -923,37 +914,25 @@ Reduced THF
  ↓
 Impaired nucleotide synthesis
 ```
-
 ##### Important uses
 - **Pneumocystis jirovecii pneumonia (PCP)**
 - Selected urinary infections
 - Selected *Stenotrophomonas* and other susceptible Gram-negative infections
 - Some skin/soft tissue infections depending on susceptibility
-
 ### Topical/prophylactic applications & pregnancy
-
 #### 35. Burns – Topical Antimicrobials
 - **Silver sulfadiazine 1% cream**
 - **Mafenide**
-These are classic burn-care pharmacology associations.
-Modern burn practice may preferentially use other topical agents/dressings depending on wound depth, location, microbiology, and institutional protocols; silver sulfadiazine is not universally preferred for every burn wound because it can delay re-epithelialization in some settings.
-
+Silver sulfadiazine → not universally preferred → can delay re-epithelialization in some settings.
 #### 36. Neonatal Ophthalmia / Conjunctivitis Prophylaxis
 The table includes:
 
-| Agent | Concentration stated in |
-|---|---:|
-| Silver nitrate | 1% eye drops |
-| Erythromycin | 0.5% eye drops |
-| Tetracycline | 1% eye drops |
-
-##### Important historical context
-- These concentrations are presented as historical/exam pharmacology content.
-- Actual neonatal prophylaxis practice varies by jurisdiction and guideline.
-- United States, CDC guidance emphasizes **erythromycin ophthalmic ointment** as the standard prophylactic agent for gonococcal ophthalmia neonatorum; silver nitrate and tetracycline formulations are not the current routine U.S. standard.
-
+| Agent          | Concentration stated in |
+| -------------- | ----------------------: |
+| Silver nitrate |            1% eye drops |
+| Erythromycin   |          0.5% eye drops |
+| Tetracycline   |            1% eye drops |
 #### 37. Antibiotics in Pregnancy – Table
-
 ##### Listed as comparatively safe
 - Penicillins
 - Cephalosporins
@@ -963,18 +942,8 @@ The table includes:
 - Aminoglycosides → fetal ototoxicity concern
 - Tetracyclines → bone/tooth effects
 - Sulfonamides → kernicterus concern, particularly near delivery/newborn period
-**Clinical qualification**
-Pregnancy decisions are indication-specific. The strongest general exam associations remain:
-- **Penicillins/cephalosporins:** commonly used when indicated.
-- **Tetracyclines:** generally avoided when suitable alternatives exist, but doxycycline may still be used for certain serious maternal infections when benefits outweigh risks.
-- **Fluoroquinolones:** usually avoided when suitable alternatives exist.
-- **Aminoglycosides:** used when clinically necessary with attention to maternal/fetal risk.
-- **Sulfonamides:** avoid near term when possible because of neonatal hyperbilirubinemia/kernicterus concerns; earlier-pregnancy use is more nuanced.
-
 ### Renal failure & resistance
-
 #### 38. Antibiotics and Renal Failure
-
 ##### 38.1 "renal-safe" list
 identify predominantly biliary-excreted drugs including:
 - Ceftriaxone
@@ -986,14 +955,11 @@ identify predominantly biliary-excreted drugs including:
 - Selected fluoroquinolones such as moxifloxacin/pefloxacin/trovafloxacin
 **Important qualification**
 "Renal safe" does **not** mean "no monitoring required" or "no renal considerations." Dosing depends on the specific drug, indication, hepatic function, severity of illness, and product information.
-
 ##### 38.2 Drugs highlighted as requiring renal dose adjustment
 - **Aminoglycosides**
 - Many **penicillins / β-lactams**
 Because renal elimination is drug-specific, each agent should be checked individually rather than using a class-wide rule.
-
 #### 39. Inherent Resistance Associations
-
 ##### 39.1 Aminoglycosides
 intrinsic resistance associations:
 - **B – Burkholderia**
@@ -1002,41 +968,33 @@ intrinsic resistance associations:
 - **A – Anaerobes**
 **Core principle**
 Aminoglycosides require oxygen-dependent transport into bacterial cells, so they have **poor/no activity against anaerobic organisms**.
-
 ##### 39.2 Colistin
 - **B – Burkholderia**
 - **S – Serratia**
 - **P – Proteus**
 as intrinsic resistance associations.
-
 ##### 39.3 Metronidazole
 - Not effective against typical **aerobic bacteria** because activation depends on reduction pathways characteristic of susceptible anaerobic organisms/protozoa.
-
 #### 40. Acquired Antimicrobial Resistance
-
 ##### 40.1 Enzymatic drug degradation
 The mnemonic:
 - **A – Aminoglycosides** → enzymatic modification
 - **B – β-lactams** → β-lactamases
 - **C – Chloramphenicol** → enzymatic inactivation
-
 ##### 40.2 Drug efflux
 The highlights:
 - Tetracyclines
 - Tigecycline
 - Chloroquine as an antimalarial example
-
 ##### 40.3 Target mutation / target modification
 The associations are:
 
-| Organism / drug class | Target resistance mechanism |
-|---|---|
-| MRSA | Altered PBP2a |
-| Macrolides | Ribosomal target modification/mutation |
-| Fluoroquinolones | DNA gyrase / topoisomerase IV alterations |
-
+| Organism / drug class | Target resistance mechanism               |
+| --------------------- | ----------------------------------------- |
+| MRSA                  | Altered PBP2a                             |
+| Macrolides            | Ribosomal target modification/mutation    |
+| Fluoroquinolones      | DNA gyrase / topoisomerase IV alterations |
 Additional mechanisms not explicitly tabulated but important conceptually include reduced permeability, biofilm formation, target protection and bypass pathways.
-
 ## Prophylaxis, Pharmacodynamics & Rapid Revision
 
 ### Meningococcal prophylaxis & PK/PD
