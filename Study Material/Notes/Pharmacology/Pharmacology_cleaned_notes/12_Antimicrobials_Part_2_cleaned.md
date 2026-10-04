@@ -1353,6 +1353,23 @@ These are high-barrier nucleos(t)ide analogues and key first-line agents for chr
 > **Tenofovir / Entecavir = long-term (often indefinite)**
 
 **Why?** HBV **cccDNA** persists in hepatocytes, so nucleos(t)ide analogues usually suppress rather than eradicate HBV.
+
+##### HBV PROPHYLAXIS — HYPER-CRISP ⭐⭐⭐
+
+| Situation | What to give | Key point |
+|---|---|---|
+| **Routine prevention** | **HBV vaccine** | Active immunity → anti-HBs |
+| **Baby of HBsAg-positive mother** | **HBV vaccine + HBIG** | Give **within 12 h of birth** |
+| **Unvaccinated person + significant exposure** | **HBV vaccine + HBIG** | Post-exposure prophylaxis |
+| **Previously vaccinated + documented adequate anti-HBs** | **No prophylaxis** | Already immune |
+| **Previously vaccinated + inadequate/unknown anti-HBs after exposure** | **HBV vaccine ± HBIG** | Depends on exposure/source status |
+| **HBsAg-positive healthcare worker/patient exposure** | **HBIG ± vaccine** | Depends on vaccination/anti-HBs status |
+
+| Agent | Type | Contains |
+|---|---|---|
+| **HBV vaccine** | Active immunity | Recombinant **HBsAg** |
+| **HBIG** | Passive immunity | Preformed **anti-HBs** |
+
 #### 40. HEPATITIS C VIRUS (HCV)
 
 ##### 40.1 Direct-acting antiviral (DAA) classes
