@@ -676,18 +676,12 @@ It also labels doxycycline ==**renal safe / hepatobiliary elimination**==, which
 The specifically lists **tetracycline as an H. pylori treatment component**. In contemporary regimens, tetracycline is most classically encountered as part of **bismuth quadruple therapy**.
 ##### 25.6 Adverse effects
 
-|                                          |                                                                                          |
+| Mechansim                                | Effects                                                                                  |
 | ---------------------------------------- | ---------------------------------------------------------------------------------------- |
 | Chelation of Calcium, iron and magnesium | Reduced absorption<br>Tooth descoloration/enamal defects<br>Problems in developing bones |
 | Mucosal irritant                         | GI irritation, Esophagitis                                                               |
-| p                                        |                                                                                          |
-
-- GI irritation
-- Photosensitivity
-- Esophagitis (especially doxycycline if taken improperly)
-- Tooth discoloration / enamel effects in developing teeth
-- Effects on developing bone
-- Chelation with calcium, iron, magnesium and other cations → reduced absorption
+|                                          | Photosensitivity                                                                         |
+|                                          | Hepatotoxicity                                                                           |
 ###### Expired tetracycline
 ingestion of degraded/expired tetracycline with **Fanconi syndrome**. This is a classic historical pharmacology association with **old tetracycline preparations** and should not be generalized to doxycycline.
 ###### Pregnancy and children
