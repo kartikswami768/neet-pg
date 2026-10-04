@@ -238,17 +238,7 @@ drugs that retain activity against dormant or slowly replicating bacilli.
 “BED” → reduced energy/ATP.
 
 ##### 9.2 Linezolid
-**Mechanism**
-Protein Synthesis inhibition → 50s Ribosome
-
-**Mnemonic:** POST
-- **P** - Peripheral neuropathy
-- **O** - Optic neuritis
-- **S** - ==Serotonin syndrome== risk because linezolid is a reversible, nonselective MAO inhibitor
-- **T** - ==Thrombocytopenia== / ==bone-marrow suppression==
-
-**Additional high-yield point**
-Risk increases with prolonged therapy; complete blood-count monitoring and neurological/visual assessment are important in prolonged TB courses.
+![[11_Antimicrobials_Part_1_cleaned#28. Linezolid]]
 
 ##### 9.3 Fluoroquinolones
 Examples:
@@ -275,8 +265,10 @@ Inhibits enzymes involved in peptidoglycan synthesis, classically:
 - Suicidal behaviour risk is clinically important in severe neuropsychiatric toxicity
 
 ##### 9.6 Delamanid and ==pretomanid==
-###### Mnemonic
 the “-manid” / “-nanid” sound to associate these drugs with **mycolic-acid-related cell-wall inhibition**.
+###### Class
+These belong to nitroimidazole group of antimicrobials (like metronidazole, Tinidazole, Secnidazole)
+They act by producing NO
 ###### High-yield point
 Both drugs can contribute to **QT prolongation**, particularly in combination regimens where multiple QT-prolonging agents are present.
 **Pretomanid: eligibility caveats**

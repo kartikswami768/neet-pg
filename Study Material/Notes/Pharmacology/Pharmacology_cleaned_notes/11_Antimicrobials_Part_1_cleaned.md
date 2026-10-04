@@ -603,7 +603,7 @@ associate greater QT risk with **moxifloxacin and sparfloxacin** and least with 
 
 #### 22. UTI Framework
 
-##### 22.1 Uncomplicated cystitis
+##### Uncomplicated cystitis
 DOC: Fosfomycin 3g oral sachet > 2g oral single dose 
 Other drugs:
 - Ciprofloxacin
@@ -612,7 +612,7 @@ Other drugs:
 - Amoxicillin-clavulanate
 It also states that some fluoroquinolones are avoided in pregnancy.
 >These are empirical treatment when Urine culture is not available. Otherwise treatment of UTI is based on Urine Culture Report only
-##### 22.2 Complicated UTI / kidney involvement
+##### Complicated UTI / kidney involvement
 - β-lactams
 - Amoxicillin-clavulanate
 - Piperacillin-tazobactam
@@ -790,12 +790,9 @@ This is a classic pharmacology association; modern hepatic encephalopathy treatm
 This pharmacokinetic property is also why oral vancomycin can be used for luminal CDI therapy, although vancomycin is a glycopeptide rather than an aminoglycoside.
 
 ### 50S agents
-
 #### 24. Chloramphenicol
-
 ##### Mechanism
 **Inhibits peptidyl transferase → blocks peptide bond formation.**
-
 ##### High-yield properties
 **Blood-brain barrier**
 - Good CNS penetration.
@@ -808,22 +805,18 @@ This pharmacokinetic property is also why oral vancomycin can be used for lumina
 The mnemonic:
 > **B – Brain entry good**
 > **B – Bone marrow suppression**
-> **B – Baby → gray baby syndrome**
-
+> **B – Baby → gray baby syndrome*
 #### 27. Macrolides
-
 ##### 27.1 Drugs
 - Erythromycin
 - Clarithromycin
 - Azithromycin
-
 ##### 27.2 Uses highlighted by The
 **Community-acquired pneumonia / atypical pathogens**
 **Mnemonic:**
 > **L – Legionella**
 > **A – Atypicals (e.g. Mycoplasma)**
 > **W – Whooping cough (Pertussis)**
-
 Other uses:
 - ==Chancroid==
 	- *Hemophylus ducrei*
@@ -831,23 +824,19 @@ Other uses:
 	- tender lymph nodes
 - Diphtheria
 - Selected sexually transmitted infections
-
 ##### 27.3 CYP inhibition comparison
-
 | Feature                                   | Erythromycin | Clarithromycin |                                                Azithromycin |
 | ----------------------------------------- | -----------: | -------------: | ----------------------------------------------------------: |
 | CYP inhibition                            |         High |       Moderate |                                                       Least |
 | QT prolongation                           |    Important |      Important | Lower relative interaction burden, but QT risk still exists |
 | Hypertrophic pyloric stenosis association |          Yes |            Yes |                                 Not the classic association |
 | Neonatal use in                           |      Caution |        Caution |                                          Presented as safer |
-
 **Hypertrophic Pyloric Stenosis:**
 	Some macrolides cause stronger motilin activation and thus cause strong stomach contractions.
 	If given in initial 2 weeks of life, they can cause hypertrophy of pyloric muscles.
 	
 **Diphtheria**
 **erythromycin/azithromycin + antitoxin**.
-
 ##### 27.4 Gonorrhea / chlamydia correction
 Current CDC adult gonorrhea treatment is:
 - **Ceftriaxone 500 mg IM once** for uncomplicated infection in persons <150 kg.
@@ -856,13 +845,10 @@ Current CDC adult gonorrhea treatment is:
 For uncomplicated chlamydial infection in adults:
 - **Doxycycline 100 mg PO twice daily for 7 days** is the recommended regimen.
 - Azithromycin 1 g once is an alternative in selected situations.
-
 #### 28. Linezolid
-
 ##### Mechanism
 - Binds the **23S rRNA 50S ribosome**.
 - Prevents formation initiation complex.
-
 ##### Important properties
 - Excellent oral bioavailability (~100%).
 - Oral and IV administration achieve comparable systemic exposure.
@@ -870,7 +856,6 @@ For uncomplicated chlamydial infection in adults:
 	 - MRSA
 	 - VRE
 	 - other multidrug-resistant Gram-positive organisms
-
 ##### Adverse effects
 is:
 - **P – Peripheral neuropathy**
@@ -878,15 +863,12 @@ is:
 - **S – Serotonin syndrome** due to MAO-inhibitory activity and serotonergic drugs
 - **T – Thrombocytopenia / bone marrow suppression**
 Other recognised concerns with prolonged therapy include lactic acidosis and additional cytopenias.
-
 #### 29. Streptogramins
-
 ##### Quinupristin + dalfopristin
 - Combination ratio : **30% quinupristin + 70% dalfopristin**.
 - Protein-synthesis inhibitor acting at the 50S ribosome.
 - Historically important for severe resistant Gram-positive infections, including selected vancomycin-resistant *Enterococcus faecium*.
 - association: **linezolid-resistant staphylococci (LRSA)**.
-
 ## Folate Pathway, Special Uses & Resistance
 
 ### Folate pathway & cotrimoxazole
