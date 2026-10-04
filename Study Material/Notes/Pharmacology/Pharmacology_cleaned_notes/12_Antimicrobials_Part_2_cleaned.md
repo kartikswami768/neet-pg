@@ -386,7 +386,7 @@ Other than Bedaquilline:
 	* No extensive TB disease / severe extrapulmonary TB for this classic regimen
 	* Prior exposure to key drugs should generally be <1 month, unless resistance to the previously exposed drug has been excluded.
 	* ≥14 year old
-	* Not Pregnant
+	* Not Pregnant, not Breastfeedi
 
 ---
 ##### 5. Longer oral regimen
