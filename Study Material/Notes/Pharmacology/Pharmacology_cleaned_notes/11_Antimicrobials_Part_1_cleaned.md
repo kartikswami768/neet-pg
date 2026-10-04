@@ -329,14 +329,14 @@ the example:
 - **"Delhi-superbug"**
 This refers conceptually to carbapenemase-producing organisms and the well-known NDM-associated resistance problem identified Indian subcontinent.
 **Important update**
-> **Carbapenemase-resistant strains → colistin (DOC)**
+> **Carbapenemase-resistant strains → ==colistin== (DOC)**
 
 This is **outdated as a universal recommendation**.
 Current IDSA 2026 guidance lists modern β-lactam/β-lactamase inhibitor agents and cefiderocol as important pathogen-specific options. For example:
 - KPC-producing Enterobacterales: ceftazidime-avibactam, imipenem-relebactam, or meropenem-vaborbactam are preferred options.
 - NDM-producing Enterobacterales: aztreonam-avibactam or cefiderocol are preferred options; ceftazidime-avibactam plus aztreonam can be used when appropriate.
 - OXA-48-like producers: ceftazidime-avibactam is a major preferred option.
-- Colistin/polymyxins are no longer a blanket first-line answer for CRE because toxicity and inferior outcome data limit their role.
+- ==Colistin/polymyxins are no longer a blanket first-line answer for CRE because toxicity and inferior outcome data limit their role.==
 > **Exam note:** Keep The historical "carbapenemase → colistin" association in mind as a resistance-class mnemonic, but use current guideline-based therapy clinically.
 
 ### Monobactam
