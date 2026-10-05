@@ -127,9 +127,9 @@ The limbus is the **corneoscleral junction** and contains the **limbal stem-cell
 
 #### 2.1.6 Corneal clinical-anatomical measurements and landmarks
 
-- Normal central corneal thickness by pachymetry: approximately **540 µm / 0.54 mm**.
-- Keratometry measures corneal curvature.
-- Topography examines the corneal surface with a **Placido disc**.
+- Normal central corneal thickness by ==pachymetry==: approximately **540 µm / 0.54 mm**.
+- ==Keratometry== measures corneal curvature.
+- ==Topography== examines the corneal surface with a **Placido disc**.
 
 ---
 
@@ -178,6 +178,7 @@ The ciliary body is divided into:
 - **Pars plana:** posterior, relatively **avascular** part of the ciliary body.
 - It is the preferred entry site for vitreous/posterior-segment procedures.
 - It is repeatedly identified as an important **site for entry into the vitreous**.
+- ![[IMG_1229.webp]]
 
 ### 3.3 Ciliary muscle and accommodation
 
@@ -190,7 +191,7 @@ Accommodation is maintained canonically in the **Optics and Refraction** note.
 
 - **Posteriormost** component of the uvea.
 - Highly **vascular**.
-- On fundus examination, the **choroid appears red-orange** beneath the retina.
+- On fundus examination, the **choroid appears ==red-orange==** beneath the retina.
 - Supplies the retinal pigment epithelium, which in turn supports rods and cones.
 
 ---
