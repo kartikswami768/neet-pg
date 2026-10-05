@@ -242,6 +242,34 @@ root.appendChild(quick);
 
 ---
 
+## Current Week — Ophthalmology
+
+~~~dataviewjs
+const cycles = dv.pages('"00_Strategy/Cycles"')
+  .where(p => p.type === "study-cycle" && p.status === "active" && p.subject === "Ophthalmology");
+
+if (cycles.length === 0) {
+  dv.paragraph("No active Ophthalmology cycle found.");
+} else {
+  const cycle = cycles.sort(p => p.cycle_start, "desc")[0];
+
+  dv.header(3, "Deadline");
+  dv.paragraph("Finish the core Ophthalmology syllabus by Friday, 9 Oct. Saturday, 10 Oct is buffer/test/review time.");
+
+  dv.header(3, "Goals");
+  dv.list([
+    "Complete the core Ophthalmology notes",
+    "Do daily PYQs / incorrects",
+    "Use active recall for classifications, signs, investigations, and management",
+    "Consolidate image-based diagnoses and classic associations",
+    "Repair only gaps exposed by retrieval/PYQs",
+    "Finish a rapid whole-subject recall pass by Friday"
+  ]);
+
+  dv.paragraph("[[00_Strategy/Cycles/2026-10-05 Ophthalmology|Open Ophthalmology cycle]]");
+}
+~~~
+
 ## Active Cycle Data
 
 ![[Views/active-cycles.base]]
@@ -276,7 +304,8 @@ const subjectOrder = [
 const subjectDashboards = {
   "Pharmacology": "00_Strategy/Curriculum/Pharmacology Dashboard.md",
   "Forensic Medicine": "00_Strategy/Curriculum/Forensic Medicine Dashboard.md",
-  "Pediatrics": "00_Strategy/Curriculum/Pediatrics Dashboard.md"
+  "Pediatrics": "00_Strategy/Curriculum/Pediatrics Dashboard.md",
+  "Ophthalmology": "00_Strategy/Curriculum/Ophthalmology Dashboard.md"
 };
 
 if (pages.length === 0) {
