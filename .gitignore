@@ -65,3 +65,12 @@
 /Study Material/PDFs/*.pdf
 /Study Material/PDFs/*/*.pdf
 /Study Material/PDFs/World of revision/
+
+# =========================================================
+# INK ANNOTATION — INTENTIONALLY SYNC PLUGIN CODE
+# =========================================================
+# The English Ink Annotation build is tracked so Git sync can install/update it on other devices.
+!.obsidian/plugins/ink-annotation/main.js
+!.obsidian/plugins/ink-annotation/manifest.json
+!.obsidian/plugins/ink-annotation/styles.css
+!.obsidian/plugins/ink-annotation/LICENSE
