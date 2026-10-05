@@ -18,7 +18,7 @@ Build the core visual framework: eye anatomy, optics/refraction, and cornea/scle
 
 ## Must do
 
-- [ ] [[Study Material/Notes/Ophthalmology/anatomy_of_eye_notes|Anatomy of the Eye]] — first pass
+- [x] [[Study Material/Notes/Ophthalmology/anatomy_of_eye_notes|Anatomy of the Eye]] — first pass
 - [ ] [[Study Material/Notes/Ophthalmology/optics_refraction_notes|Optics and Refraction]] — first pass
 - [ ] [[Study Material/Notes/Ophthalmology/anatomy_cornea_sclera|Cornea and Sclera]] — first pass
 - [ ] Closed-book recall of key anatomy, refractive errors, formulas, and corneal layers/diseases

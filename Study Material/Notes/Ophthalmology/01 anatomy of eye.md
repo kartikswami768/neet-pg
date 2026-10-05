@@ -288,13 +288,10 @@ For cataract, aphakia, IOLs and detailed lens pathology, see [[lens_notes]].
 | **Vitreous base**                                   | **Strongest vitreoretinal attachment** → ora serrata + adjacent pars plana                               |
 | **Bergmeister papilla**                             | **Remnant of hyaloid tissue** over <u>optic disc</u>                                                     |
 | **Persistent hyperplastic primary vitreous (PHPV)** | Persistence of **primary vitreous + hyaloid vasculature** → congenital leukocoria/microphthalmia         |
-
-### Exam memory
-
 > **Hyaloid artery → Cloquet’s canal → optic disc → Bergmeister papilla**  
 > **Persistent primary vitreous → PHPV**
 
-**Retrolental:** **Berger = central**, **Petit = peripheral**, **Wiegert = boundary/attachment**.
+> **Retrolental:** **Berger = central**, **Petit = peripheral**, **Wiegert = boundary/attachment**.
 
 # 7. Retina
 
