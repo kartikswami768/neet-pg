@@ -269,7 +269,7 @@ For cataract, aphakia, IOLs and detailed lens pathology, see [[lens_notes]].
 ### 6.4 Vitreoretinal attachment
 
 - Strongest vitreoretinal attachment is the **vitreous base at the ==ora serrata**==.
-- Vitreous has a high **ascorbate concentration**, approximately **9-fold that of plasma**.
+- Vitreous has a high **ascorbate concentration**, approximately **9-fold that of plasma**
 
 
 ![[Pasted image 20261005130449.jpg|400]]
