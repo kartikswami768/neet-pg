@@ -1,9 +1,9 @@
 {
   "id": "ink-annotation",
   "name": "Ink Annotation (English)",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "minAppVersion": "1.0.0",
-  "description": "English UI for Markdown/PDF handwritten annotation with pen, highlighter, eraser, color, width, undo, redo, save, export, and PDF text annotations.",
+  "description": "English Markdown/PDF annotation with Apple Pencil optimized input, pen, highlighter, eraser, export, and PDF text annotations.",
   "author": "peyote",
   "isDesktopOnly": false
 }
