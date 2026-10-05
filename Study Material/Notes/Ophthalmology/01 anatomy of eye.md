@@ -272,7 +272,7 @@ For cataract, aphakia, IOLs and detailed lens pathology, see [[lens_notes]].
 - Vitreous has a high **ascorbate concentration**, approximately **9-fold that of plasma**.
 - **Bergmeister papilla** is a remnant of hyaloid tissue.
 - **Persistent hyperplastic primary vitreous** represents persistent hyaloid/primary vitreous tissue.
-
+![[Pasted image 20261005130449.jpg]]
 > **Figure 15. Vitreous and hyaloid anatomy.**
 > **Diagram omitted:** Vitreous and hyaloid attachment.
 ---
