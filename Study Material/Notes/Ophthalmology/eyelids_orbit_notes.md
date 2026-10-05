@@ -416,56 +416,11 @@ Watering during the **first month of life** is described as pathological and att
 
 # 15. Embryologic Correlations Relevant to the Eyelids and Orbit
 
-**Ocular embryology and congenital lid abnormalities** relevant to eyelids and orbit include:
+General ocular embryology is maintained canonically in the **Anatomy of the Eye** note.
 
-## Ocular developmental timeline
+![[01 anatomy of eye#15. Ocular developmental anatomy / embryology]]
 
-- Eye development begins from the **forebrain**.
-- The optic grooves develop into the **optic vesicles**.
-- The process begins around the **22nd day of gestation**.
-- The optic vesicle contacts surface ectoderm and induces the early **lens placode**.
-- Invagination produces the **lens pit** and then the **lens vesicle**.
-- The optic stalk contains the **choroid fissure**, which closes around the **6th–7th week**; failure of closure produces **coloboma**.
-- **PAX6** is identified as a key gene in eye development.
-
-## Tissue derivatives
-
-**Surface ectoderm – SLEEK**
-
-- Skin appendages
-- Lens
-- Epithelial lining of conjunctiva
-- Epithelium of cornea
-
-**Neuroectoderm – STORME**
-
-- Secondary vitreous
-- Tertiary vitreous
-- Optic nerve
-- Retina
-- Iris sphincter and dilator pupillae
-- Epithelial lining of iris and ciliary body
-
-**Neural crest**
-
-- Sclera except the temporal part
-- Choroid
-- Corneal stroma and corneal endothelium
-- Trabecular meshwork
-- Ciliary muscles
-
-**Mesoderm – PSME**
-
-- Primary vitreous
-- Temporal part of sclera
-- Extraocular muscles
-- Endothelial lining of blood vessels
-
-A clinical photograph of **lid coloboma** is included among the congenital ocular abnormalities.
-
-> **Diagram omitted:** Lid coloboma.
----
-
+This note retains only eyelid/orbit-specific congenital correlations.
 ## 16. Proptosis / Exophthalmos
 
 **Proptosis** is defined as protrusion of the globe **>21 mm from the lateral orbital rim**. A **difference of >2 mm between the two eyes** is also considered abnormal.
@@ -550,9 +505,9 @@ The first sign is **lid retraction**.
 
 ### Compressive optic neuropathy
 
-- Due to **enlarged extraocular muscles compressing the optic nerve within the muscle cone**.
-- This is **compressive optic neuropathy**, not optic neuritis.
+The optic-nerve localization and neuro-ophthalmic implications are maintained canonically in the **Neuro-ophthalmology** note.
 
+![[neuroophthalmology_notes#16.3 Compressive optic neuropathy in thyroid eye disease]]
 ### Treatment sequence
 
 - **Steroids**
@@ -879,14 +834,9 @@ Enophthalmos is **not a true feature**; the apparent sinking of the eye is relat
 
 ###### Preseptal vs orbital cellulitis
 
-| Feature | Preseptal | Orbital |
-|---|---|---|
-| Septum | Anterior | Posterior |
-| Proptosis | Absent | Present |
-| Eye movements | Normal | Restricted |
-| Vision | Normal | May be affected |
-| Systemic symptoms | Usually absent | Usually present |
+Use the canonical comparison in §18 rather than maintaining a second copy.
 
+![[eyelids_orbit_notes#Preseptal vs orbital cellulitis]]
 ###### Ptosis surgery
 
 | Levator function | Procedure |
