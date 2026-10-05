@@ -76,10 +76,10 @@ The limbus is the **corneoscleral junction** and contains the **limbal stem-cell
 - **Curvature ∝ power.**
 - **Avascular**, except for the peripheral limbal vascular supply.
 - Nourishment comes from the **aqueous humour, tear film and limbal circulation**.
-- The endothelial pump maintains **corneal deturgescence and transparency**, including active ion transport via the **Na⁺/K⁺-ATPase system**.
+- ==The endothelial pump maintains **corneal deturgescence and transparency**, including active ion transport via the **Na⁺/K⁺-ATPase system==**.
 
 > **Figure 2. Corneal layers and thicknesses.**
-> ![Corneal layers](images/E8_5.jpg)
+> .![Corneal layers](images/E8_5.jpg)
 ### 2.1.2 Layers of the cornea — anterior → posterior
 
 | Layer | Key details |
