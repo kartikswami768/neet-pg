@@ -758,108 +758,14 @@ Treatment: **steroids**.
 
 ### 6.1 Ocular development and coloboma
 
-The embryological sequence is:
+The general ocular embryology sequence and germ-layer derivatives are maintained canonically in the **Anatomy of the Eye** note.
 
-- The optic structures develop from the **forebrain**.
-- **PAX6** is identified as an important developmental gene.
-- Development begins around the **22nd day of gestation**.
-- Optic vesicle contacts the surface ectoderm to form the early **lens placode**.
-- The lens placode invaginates to form the **lens pit**, then the lens vesicle and finally the lens.
-- The **choroid fissure** closes around the **6th–7th week of gestation**.
-- Failure of closure produces **coloboma**.
-
-> **Diagram omitted:** Embryology of the optic vesicle, lens placode and choroid fissure.
-#### Tissue derivation mnemonics
-
-**Surface ectoderm — SLEEK**
-
-- Skin appendages
-- Lens
-- Epithelium of conjunctiva
-- Epithelium of cornea
-
-**Neuroectoderm — STORME**
-
-- Secondary vitreous
-- Tertiary vitreous
-- Optic nerve
-- Retina
-- Muscles involved in pupillary function — sphincter and dilator pupillae
-- Epithelium of iris and ciliary body
-
-**Neural crest**
-
-- Sclera except temporal part
-- Choroid
-- Corneal stroma and corneal endothelium
-- Trabecular meshwork
-- Ciliary muscles
-
-**Mesoderm — PSME**
-
-- Primary vitreous
-- Temporal sclera
-- Extraocular muscles
-- Endothelial lining of blood vessels
-
----
-
+![[01 anatomy of eye#15. Ocular developmental anatomy / embryology]]
 ### 6.2 Retinoblastoma
 
-Retinoblastoma is the **most common primary intraocular tumour of childhood**.
+Retinoblastoma is maintained canonically in the **Retina** note.
 
-#### Presentation
-
-- Typical age of presentation: approximately **18 months**.
-- Bilateral disease presents earlier.
-- Most cases present by **5–6 years**.
-- **Most common presentation: leukocoria** (white-pupillary reflex / amaurotic cat's eye).
-- **Second most common presentation: strabismus**.
-- Other presentations: glaucoma, rubeosis iridis and proptosis.
-
-> **Diagram omitted:** Retinoblastoma: leukocoria and characteristic histopathology.
-#### Spread and morphology
-
-- Most common route of spread: **optic nerve**.
-- Other routes include subarachnoid spread, haematogenous spread and anterior spread.
-- Growth may be **mixed**, with both endophytic vitreous growth and exophytic scleral/subretinal growth.
-- Diffuse infiltrating growth has a worse prognosis.
-
-#### Histopathology
-
-| Structure | Finding |
-|---|---|
-| **Flexner–Wintersteiner rosettes** | True lumen; better differentiation |
-| **Homer–Wright rosettes** | No true lumen |
-| **Fleurettes** | Flower-like differentiation |
-| Sheets of immature cells without rosettes | Poor differentiation |
-
-#### Genetics and syndromic association
-
-- **13q14** abnormality is described as the classic retinoblastoma gene region.
-- Mutation outside the 14th band is associated with dysmorphic features and a **13q syndrome**.
-- **Trilateral retinoblastoma** = bilateral retinoblastoma with a **pinealoma**.
-
-#### International grouping: Group A–E
-
-- **Group A:** small tumour (<3 mm) and away from important structures such as the macula and optic disc.
-- **Group B:** other tumours larger than 3 mm or closer to optic disc/fovea but confined to the retina.
-- **Group C:** well-defined tumour with limited subretinal or vitreous seeding.
-- **Group D:** large/poorly defined tumour with widespread vitreous or subretinal seeding; retina may be detached.
-- **Group E:** very large tumour, anterior extension, bleeding, glaucoma or other features associated with poor prognosis.
-
-#### Diagnosis and management
-
-- Clinical examination plus **ultrasound** and, where described, CT to detect **intralesional calcification**.
-- **Biopsy is contraindicated** because of tumour seeding along the tract.
-- Management depends on size and location:
-  - Large tumours: **enucleation**
-  - Smaller tumours: cryotherapy, thermotherapy, radiation, chemotherapy
-- Chemotherapy combination described: **vincristine + etoposide + carboplatin (VEC regimen)**.
-- Most common secondary non-ocular malignancy described: **osteosarcoma**.
-
----
-
+![[retina_notes#19. Retinal tumors]]
 # 7. Community Ophthalmology
 
 ## 7.1 Definitions of visual loss and blindness
@@ -1087,14 +993,9 @@ The clinical classification and treatment of diabetic retinopathy belong to reti
 
 ## 8.6 Community blindness definitions
 
-| Term | Better-eye visual acuity |
-|---|---|
-| Low vision | <6/18 |
-| Economic blindness | <6/60 |
-| Social blindness | <3/60 |
-| Manifest blindness | <1/60 |
-| Absolute blindness | No perception of light |
+For the detailed visual-loss definitions, use the canonical table in §7.1 rather than maintaining a second copy.
 
+![[remaining_ophthalmology_notes#Severity-based definitions]]
 ### 8.7 Lacrimal investigations
 
 | Test | Main use / interpretation |
