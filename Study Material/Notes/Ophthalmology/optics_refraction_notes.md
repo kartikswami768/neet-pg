@@ -49,9 +49,13 @@ Corneal power is approximately **+43 to +44 D**. In the Gullstrand schematic rep
 - Total ocular power = **58.6 D**.
 - All elements are measured from the anterior corneal surface.
 - Major determinants of ocular power are the **curvature of the anterior corneal surface** and **axial length of the eyeball**.
-- Principal point = **1.35 mm** from the anterior corneal surface.
-- Nodal point = **7.08 mm** from the anterior corneal surface.
-- Focal point = **24.13 mm** from the anterior corneal surface.
+
+| Point           | Distance from anterior corneal surface |
+| --------------- | -------------------------------------- |
+| Principal Point | 1.35 mm                                |
+| Nodal Point     | 7.08 mm                                |
+| Focal Point     | 24.13 mm                               |
+
 > ![[IMG_1230.jpeg]]
 >- **Diagram:** Listing reduced eye.
 ### Axes of the eye
