@@ -241,6 +241,9 @@ The lens is a transparent, avascular, biconvex structure behind the iris, suspen
 
 ![[lens_notes#3. Equator, zonules and ciliary body relationship]]
 
+> **Figure: Lens anatomy.**
+> ![Lens anatomy](images/E8_86.jpg)
+
 For cataract, aphakia, IOLs and detailed lens pathology, see [[lens_notes]].
 ## 6. Vitreous body
 
@@ -279,7 +282,16 @@ The retina is the inner nervous tunic of the eye and the principal neural tissue
 
 ![[retina_notes#1. Retina: overview and anatomical relationships]]
 
+> **Figure: Fundus anatomy.**
+> ![Fundus](images/HYP_4.jpg)
+
 ![[retina_notes#2. Microscopic structure of the retina]]
+
+> **Figure: Retinal histology.**
+> ![Retinal histology](images/HYP_6.jpg)
+
+> **Figure: Rod and cone anatomy.**
+> ![Rod and cone anatomy](images/HYP_8.jpg)
 
 # 8. Optic nerve and visual pathway — anatomical organization
 
@@ -300,6 +312,9 @@ The intrinsic muscles are the sphincter pupillae, dilator pupillae and ciliary m
 The orbit is a four-walled pyramidal bony cavity. Detailed orbital anatomy, walls, spaces, foramina and relationships are maintained in the dedicated **Eyelids and Orbit** note.
 
 ![[eyelids_orbit_notes#9. Orbital Anatomy]]
+
+> **Figure: Orbital cone and Annulus of Zinn.**
+> ![Orbital cone and annulus](images/E8_0.png)
 ## 12. Eyelids
 
 The eyelids protect the ocular surface and distribute the tear film. Detailed eyelid architecture, muscles and glands are maintained in the dedicated **Eyelids and Orbit** note.
@@ -309,6 +324,9 @@ The eyelids protect the ocular surface and distribute the tear film. Detailed ey
 ![[eyelids_orbit_notes#2. Eyelid Muscles]]
 
 ![[eyelids_orbit_notes#3. Eyelid Glands]]
+
+> **Figure: Eyelid and orbit anatomy.**
+> ![Eyelid and orbit anatomy](images/HYP_2.jpg)
 ## 13. Conjunctiva
 
 ### 13.1 General organization
