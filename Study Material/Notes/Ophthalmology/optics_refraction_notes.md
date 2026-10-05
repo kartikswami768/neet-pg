@@ -190,7 +190,13 @@ CLC = best spherical focus obtainable when correcting astigmatism with a spheric
 | **Compound hypermetropic** | + | + | Both behind |
 | **Mixed** | − | + | One in front, one behind |
 
-
+| Type                       | Two meridional powers | Focal lines                     | Example     |
+| -------------------------- | --------------------- | ------------------------------- | ----------- |
+| **Simple myopic**          | **− / 0**             | One in front, one on retina     | −2 D / 0 D  |
+| **Simple hypermetropic**   | **+ / 0**             | One behind, one on retina       | +2 D / 0 D  |
+| **Compound myopic**        | **− / −**             | Both in front of retina         | −2 D / −5 D |
+| **Compound hypermetropic** | **+ / +**             | Both behind retina              | +2 D / +5 D |
+| **Mixed**                  | **− / +**             | One in front, one behind retina | −2 D / +3 D |
 
 ### 10. Interpretation of Sphere + Cylinder
 > An astigmatic prescription is simply a way of expressing **two powers in two perpendicular meridians**.
