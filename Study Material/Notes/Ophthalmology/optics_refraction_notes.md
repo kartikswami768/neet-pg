@@ -52,7 +52,8 @@ Corneal power is approximately **+43 to +44 D**. In the Gullstrand schematic rep
 - Principal point = **1.35 mm** from the anterior corneal surface.
 - Nodal point = **7.08 mm** from the anterior corneal surface.
 - Focal point = **24.13 mm** from the anterior corneal surface.
-> **Diagram omitted:** Gullstrand schematic eye, Purkinje surfaces and Listing reduced eye.
+> ![[IMG_1230.jpeg]]
+>- **Diagram:** Listing reduced eye.
 ### Axes of the eye
 - **Anatomical/optical axis:** anatomical axis of the eye.
 - **Visual axis:** line joining the fixation point to the fovea through the nodal point.
