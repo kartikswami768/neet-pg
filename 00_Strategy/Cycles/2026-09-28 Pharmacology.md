@@ -3,7 +3,7 @@ type: study-cycle
 subject: Pharmacology
 test_date: 2026-10-03
 cycle_start: 2026-09-28
-status: active
+status: completed
 exam_window: 2026-10-03 to 2026-10-04
 ---
 
