@@ -70,21 +70,23 @@ Corneal power is approximately **+43 to +44 D**. In the Gullstrand schematic rep
 - The fovea lies slightly temporal to the optic disc, producing these angular relationships.
 - A large positive kappa is associated with pseudoexotropia and is seen in hypermetropia.
 - A large negative kappa is associated with pseudoesotropia and is seen in myopia.
-> **Diagram omitted:** Angle alpha, angle kappa and astigmatism classification.
+
+> ![[IMG_1232.jpeg|300]]![[IMG_1231.webp|300]]
+
 ## 2. Refractive Error: Terminology and Classification
 
 ### Basic terms
 
-| Term | Definition |
-|---|---|
-| **Emmetropia** | Absence of refractive error |
-| **Ametropia** | Presence of refractive error: myopia, hypermetropia or astigmatism |
-| **Anisometropia** | Difference in refractive error between the two eyes |
-| **Aniseikonia** | Difference in image size between the two eyes |
-| **Anisocoria** | Difference in pupil size between the two eyes |
-| **Astigmatism** | Difference in refractive error in different axes of the same eye |
+| Term                  | Definition                                                         |
+| --------------------- | ------------------------------------------------------------------ |
+| **Emmetropia**        | Absence of refractive error                                        |
+| **Ametropia**         | Presence of refractive error: myopia, hypermetropia or astigmatism |
+| **==Anisometropia==** | Difference in refractive error between the two eyes                |
+| **Aniseikonia**       | Difference in image size between the two eyes                      |
+| **Anisocoria**        | Difference in pupil size between the two eyes                      |
+| **Astigmatism**       | Difference in refractive error in different axes of the same eye   |
 
-Clinically significant anisometropia is a difference of **>2.5 D** between the two eyes. A **2.5 D** difference corresponds to approximately **5% difference in image size (aniseikonia)**; fusion is unable to compensate beyond this level.
+==Clinically significant anisometropia is a difference of **>2.5 D** between the two eyes. A **2.5 D** difference corresponds to approximately **5% difference in image size (aniseikonia)**; fusion is unable to compensate beyond this level==
 
 ### Causes of refractive errors
 
@@ -97,7 +99,6 @@ Clinically significant anisometropia is a difference of **>2.5 D** between the t
 
 **Second sight:** a previously presbyopic patient becomes able to read near objects without glasses. Nuclear cataract increases lens refractive index and produces **index myopia**, producing this apparent improvement in near vision.
 
-> **Diagram omitted:** Classification of refractive errors.
 ## 3. Myopia
 
 ### Optical basis
