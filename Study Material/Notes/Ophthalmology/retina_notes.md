@@ -206,53 +206,13 @@ Dark adaptation depends on regeneration of visual pigment after bleaching and on
 
 ## 4. Retinal development and embryology
 
-Retinal development begins early in gestation.
+The general ocular developmental sequence and germ-layer derivatives are maintained canonically in the **Anatomy of the Eye** note.
 
-- The **forebrain neuroectoderm** develops optic grooves that evaginate to form the **optic vesicle**.
-- The process is linked to **PAX6**.
-- Development begins at approximately the **22nd day of gestation**.
-- The optic vesicle contacts the surface ectoderm and induces the early **lens placode**.
-- Invagination forms a lens pit and then a lens vesicle.
-- The optic vesicle invaginates to form the **optic cup**.
+![[01 anatomy of eye#15. Ocular developmental anatomy / embryology]]
 
-> **Diagram omitted:** Optic vesicle and early eye development.
-The optic stalk contains the **choroidal/optic fissure**, which closes at approximately the **6th–7th week of gestation**. Failure of closure produces **coloboma**.
+### Retina-specific developmental point
 
-### Germ-layer derivatives relevant to the retina and vitreoretina
-
-**Surface ectoderm**
-
-- Lens
-- Corneal epithelium
-- Conjunctival epithelium
-- Skin and appendages
-
-**Neuroectoderm**
-
-- Retina
-- Optic nerve
-- Secondary and tertiary vitreous
-- Iris sphincter and dilator muscles
-- Iris epithelium
-- Ciliary-body epithelium
-
-**Neural crest**
-
-- Choroid
-- Most of sclera except the temporal part highlighted in the teaching material
-- Corneal stroma and endothelium
-- Trabecular meshwork
-- Ciliary muscle
-
-**Mesoderm**
-
-- Primary vitreous
-- Temporal sclera
-- Extraocular muscles
-- Vascular endothelium
-
----
-
+The optic cup gives rise to the neural retina and retinal pigment epithelium. The neural retina derives from the inner layer of the optic cup, while the RPE derives from the outer layer.
 ## 5. Vitreoretinal interface and vitreous relationships
 
 ### Types of vitreous
