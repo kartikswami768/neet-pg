@@ -310,7 +310,7 @@ The detailed extraocular-muscle anatomy and action table are maintained in the c
 The intrinsic muscles are the sphincter pupillae, dilator pupillae and ciliary muscle.
 ## 11. Orbit
 
-The orbit is a four-walled pyramidal bony cavity. Detailed orbital anatomy, walls, spaces, foramina and relationships are maintained in the dedicated **Eyelids and Orbit** note.
+The orbit is a four-walled pyramidal bony cavity. Detailed orbital anatomy, walls, spaces, foramina and relationships are maintained in the dedicated **Eyelids and Orbit note.**
 
 ![[eyelids_orbit_notes#9. Orbital Anatomy]]
 
