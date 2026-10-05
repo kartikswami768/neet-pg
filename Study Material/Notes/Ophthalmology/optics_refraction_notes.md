@@ -139,77 +139,404 @@ The retinal manifestations of pathological myopia are maintained in the canonica
 - Optic disc may appear as **pseudopapillitis/pseudopapilledema**.
 - Large positive kappa may produce pseudoexotropia.
 
-## 5. Astigmatism
+## Astigmatism
 
-Astigmatism is a refractive error in which optical power differs between meridians, producing two principal focal lines/points rather than a single point focus.
+> **Core concept:** An astigmatic eye has **two different refractive powers in two perpendicular principal meridians**.
 
-The cornea is normally spherical at birth and becomes more oval with normal lid pressure. Astigmatism is corrected with **cylindrical lenses**, which may be positive or negative, or with toric contact lenses/toric IOLs.
+Instead of:
 
-### Sturm’s conoid
+**Point → point focus** (spherical eye)
 
-When light passes through an astigmatic/toric surface, the two principal meridians have different powers. The rays form two focal lines at different locations, with a **circle of least diffusion** between them. The refractive state changes progressively between the two focal lines.
+we get:
 
-When the vertical meridian is more strongly curved, it has greater power (**Vc > Hc; Vp > Hp**); vertical rays reach focus first and horizontal rays later.
+**Point → two focal lines** (astigmatic eye)
 
-> **Diagram omitted:** Astigmatism and Sturm’s conoid.
-### Regular and irregular astigmatism
+### 1. Principal Meridians
 
-| Type | Principal meridians / foci | Typical cause |
-|---|---|---|
-| **Regular** | Two principal meridians are perpendicular; two primary focal lines are present | Normal lid pressure/corneal shape |
-| **Irregular** | Principal meridians are not perpendicular; multiple/non-primary foci | Corneal scar, keratoconus; corneal/retinal scarring |
+- **Meridian** = plane/line passing through the center of the cornea.
+- In **regular astigmatism**, there are two principal meridians:
+  - **Perpendicular to each other (90° apart)**
+  - Have **maximum and minimum refractive power**
 
-### With-the-rule, against-the-rule and oblique astigmatism
+#### Example
 
-| Type | Steeper meridian | Flatter meridian | Cylindrical notation |
+| Meridian | Power |
+|---|---:|
+| 180° | +2 D |
+| 90° | +4 D |
+
+The **+4 D meridian** has greater converging power → focuses **closer to the eye**.
+
+> Think of astigmatism as **two different powers acting in two perpendicular meridians**.
+
+### 2. Conoid of Sturm
+
+Because the two meridians have different powers, they do **not** focus light at the same point.
+
+Instead, they produce **two focal lines** at different distances.
+
+The three-dimensional region between these focal lines is the:
+
+> **Conoid of Sturm**
+
+Sequence:
+
+**First focal line → Circle of least confusion → Second focal line**
+
+### 3. Focal Lines
+
+#### Key rule
+
+> **The meridian with greater power produces the focal line perpendicular to that meridian.**
+
+If the **vertical meridian** has greater power, it focuses first and produces a **horizontal focal line**.
+
+#### Example
+
+- Vertical meridian = +5 D
+- Horizontal meridian = +2 D
+
+The **vertical meridian** is more powerful → focuses first → produces a:
+
+> **Horizontal focal line**
+
+> **More powerful meridian → focal line perpendicular to it**
+
+### 4. Circle of Least Confusion
+
+Between the two focal lines is a point where the blur is **smallest** and approximately circular.
+
+This is the:
+
+> **Circle of least confusion (CLC)**
+
+It represents the **best spherical focus** obtainable when an astigmatic eye is corrected with only a spherical lens.
+
+#### Overall sequence
+
+**First focal line → CLC → Second focal line**
+
+This region forms the **Conoid of Sturm**.
+
+## Classification of Astigmatism
+
+Classification depends on the position of the **two focal lines relative to the retina**.
+
+The easiest approach is to look at the **two meridional powers**.
+
+### Master Table
+
+| Type | Meridian 1 | Meridian 2 | Focal lines |
 |---|---|---|---|
-| **With-the-rule (WTR)** | Vertical, 90° | Horizontal, 180° | Minus cylinder axis 180° / plus cylinder axis 90° |
-| **Against-the-rule (ATR)** | Horizontal, 180° | Vertical, 90° | Minus cylinder axis 90° / plus cylinder axis 180° |
-| **Oblique** | Principal meridians are neither horizontal nor vertical | — | Oblique axes |
+| **Simple myopic** | − | 0 | One in front, one on retina |
+| **Simple hypermetropic** | + | 0 | One behind, one on retina |
+| **Compound myopic** | − | − | Both in front |
+| **Compound hypermetropic** | + | + | Both behind |
+| **Mixed** | − | + | One in front, one behind |
 
-Mnemonic: **“With CV, against VC.”**
+### 1. Simple Myopic Astigmatism
 
-### Classification by focal position
+One meridian is **myopic**, the other is **emmetropic**.
 
-| Type | Focal point 1 | Focal point 2 |
-|---|---|---|
-| **Simple myopic** | On retina | In front of retina |
-| **Simple hypermetropic** | On retina | Behind retina |
-| **Compound myopic** | In front of retina | In front of retina, at a different point |
-| **Compound hypermetropic** | Behind retina | Behind retina, at a different point |
-| **Mixed** | In front of retina | Behind retina |
+**− / 0**
 
-**High-yield rule:**
-- Simple = one focus on the retina, the other off the retina.
-- Compound = both foci on the same side of the retina.
-- Mixed = one focus in front and one behind the retina.
+#### Example
 
-### Identifying the type from a spectacle prescription
+- Vertical = −2 D
+- Horizontal = 0 D
 
-| Prescription pattern | Type |
-|---|---|
-| 0.00 D sphere / −1.50 D cylinder | Simple myopic astigmatism |
-| −1.00 D sphere / −0.50 D cylinder | Compound myopic astigmatism |
-| 0.00 D sphere / +2.00 D cylinder | Simple hypermetropic astigmatism |
-| +1.50 D sphere / +3.50 D cylinder | Compound hypermetropic astigmatism |
-| +2.00 D sphere / −3.00 D cylinder | Mixed astigmatism |
+→ **Simple myopic astigmatism**
 
-A numerical rule given for mixed astigmatism is: **sphere and cylinder have opposite signs AND the absolute cylinder value is greater than the absolute spherical value**.
+### 2. Simple Hypermetropic Astigmatism
+
+One meridian is **hypermetropic**, the other is **emmetropic**.
+
+**+ / 0**
+
+#### Example
+
+- Vertical = +2 D
+- Horizontal = 0 D
+
+→ **Simple hypermetropic astigmatism**
+
+### 3. Compound Myopic Astigmatism
+
+Both meridians are **myopic**, usually to different degrees.
+
+**− / −**
+
+#### Example
+
+- Vertical = −2 D
+- Horizontal = −5 D
+
+→ **Compound myopic astigmatism**
+
+Both focal lines lie **in front of the retina**.
+
+### 4. Compound Hypermetropic Astigmatism
+
+Both meridians are **hypermetropic**.
+
+**+ / +**
+
+#### Example
+
+- Vertical = +2 D
+- Horizontal = +5 D
+
+→ **Compound hypermetropic astigmatism**
+
+Both focal lines lie **behind the retina**.
+
+### 5. Mixed Astigmatism
+
+One meridian is **myopic** and the other is **hypermetropic**.
+
+**− / +**
+
+#### Example
+
+- Vertical = −2 D
+- Horizontal = +3 D
+
+→ **Mixed astigmatism**
+
+One focal line is **in front of the retina**, the other **behind it**.
+
+## Interpretation of Sphere + Cylinder
+
+An astigmatic prescription is simply another way of expressing:
+
+> **Two different powers in two perpendicular meridians.**
+
+This is the most useful way to understand astigmatic prescriptions.
+
+### Cylinder Axis
+
+A cylindrical lens has:
+
+- **Zero power along its axis**
+- **Maximum power 90° away from its axis**
+
+Therefore:
+
+> **Axis = meridian receiving NO cylinder power**
+
+#### Example
+
+**−2.00 DS / −1.00 DC × 180°**
+
+At **180°**:
+
+- Sphere = −2 D
+- Cylinder = 0
+- Total = **−2 D**
+
+At **90°**:
+
+- Sphere = −2 D
+- Cylinder = −1 D
+- Total = **−3 D**
+
+Therefore:
+
+| Meridian | Power |
+|---|---:|
+| 180° | −2 D |
+| 90° | −3 D |
+
+Both are myopic:
+
+> **Compound myopic astigmatism**
+
+### Mental Algorithm
+
+Whenever you see a prescription:
+
+1. **Axis → sphere only**
+2. **90° away from axis → sphere + cylinder**
+3. Look at the two powers → **classify the astigmatism**
+
+#### Example
+
+**−2 DS / −1 DC × 180°**
+
+- 180° → −2 D
+- 90° → −2 + (−1) = −3 D
+
+Therefore:
+
+**−2 / −3 → both myopic → compound myopic astigmatism**
+
+## Plus vs Minus Cylinder
+
+The same astigmatic correction can be written using either **minus-cylinder** or **plus-cylinder** notation.
 
 Example:
-- −3.00 D sphere / +1.00 D cylinder → not mixed because |cylinder| < |sphere|.
-- −1.00 D sphere / +3.00 D cylinder → mixed because signs are opposite and |cylinder| > |sphere|.
 
-### Worked astigmatism example
+**−2.00 DS / −1.00 DC × 180°**
 
-For **−3 D sphere +2 D cylinder at 180°**:
-1. Convert the prescription into the two principal meridians.
-2. The −3 D spherical component applies in both meridians.
-3. A +2 D cylinder at 180° acts in the meridian 90° away, giving powers of **−1 D and −3 D** in the two principal meridians.
-4. Both focal positions are therefore in front of the retina at different locations.
-5. The error is **compound myopic astigmatism**.
+is optically identical to:
 
-> **Diagram omitted:** Astigmatism classification, focal types and example.
+**−3.00 DS / +1.00 DC × 90°**
+
+### Transposition
+
+To transpose a prescription:
+
+1. **New sphere = old sphere + old cylinder**
+2. **Change the sign of cylinder**
+3. **Change axis by 90°**
+
+#### Example
+
+**−2.00 / −1.00 × 180°**
+
+New sphere:
+
+**−2 + (−1) = −3**
+
+New cylinder:
+
+**+1**
+
+New axis:
+
+**180 + 90 = 270° → 90°**
+
+Therefore:
+
+**−3.00 / +1.00 × 90°**
+
+### Why Does This Work?
+
+Both prescriptions describe the same two meridional powers.
+
+**Original:**
+
+- 180° → −2 D
+- 90° → −3 D
+
+**Transposed:**
+
+- 90° → −3 D
+- 180° → −3 + 1 = −2 D
+
+Therefore:
+
+> **Same two powers → same optical correction**
+
+## With-the-Rule Astigmatism
+
+Ask:
+
+> **Which principal meridian is steeper / has greater power?**
+
+In **with-the-rule (WTR)** astigmatism:
+
+> **Vertical meridian (90°) is steeper → greater power**
+
+#### Example
+
+**−2 DS / −1 DC × 180°**
+
+Meridional powers:
+
+- 180° → −2 D
+- 90° → −3 D
+
+The 90° meridian has greater minus power → **WTR**.
+
+## Against-the-Rule Astigmatism
+
+In **against-the-rule (ATR)** astigmatism:
+
+> **Horizontal meridian (180°) is steeper → greater power**
+
+#### Example
+
+**−2 DS / −1 DC × 90°**
+
+Meridional powers:
+
+- 90° → −2 D
+- 180° → −3 D
+
+The 180° meridian has greater minus power → **ATR**.
+
+## WTR vs ATR — Exam Shortcut
+
+| Type | Stronger / steeper meridian | Typical minus-cylinder axis |
+|---|---|---|
+| **WTR** | **90° (vertical)** | **180°** |
+| **ATR** | **180° (horizontal)** | **90°** |
+| **Oblique** | Oblique meridians | Oblique axis |
+
+### Why Is the Minus-Cylinder Axis Opposite?
+
+Remember:
+
+> **Cylinder axis = weaker meridian**
+
+Therefore:
+
+- **WTR:** 90° is stronger → cylinder axis ≈ 180°
+- **ATR:** 180° is stronger → cylinder axis ≈ 90°
+
+## The Entire Topic in One Mental Model
+
+> **Astigmatism = TWO POWERS in TWO perpendicular meridians.**
+
+### Find the Two Powers
+
+For any astigmatic prescription, determine:
+
+- Power at one principal meridian
+- Power at the perpendicular meridian
+
+Then everything follows.
+
+### Two Powers Determine
+
+#### 1. Focal Lines
+
+> **More powerful meridian → focal line perpendicular to it**
+
+#### 2. Type of Astigmatism
+
+**− / 0 → Simple myopic**
+
+**+ / 0 → Simple hypermetropic**
+
+**− / − → Compound myopic**
+
+**+ / + → Compound hypermetropic**
+
+**− / + → Mixed**
+
+#### 3. Sphere + Cylinder Interpretation
+
+**Axis → sphere only**
+
+**90° away → sphere + cylinder**
+
+#### 4. WTR / ATR
+
+**90° stronger → WTR**
+
+**180° stronger → ATR**
+
+#### 5. Transposition
+
+**New sphere = S + C**
+
+**New cylinder = −C**
+
+**New axis = axis ± 90°**
+
+> **Don't memorize the prescription as "sphere + cylinder." Translate it into the two actual meridional powers. Once you know those two powers, the rest of astigmatism is largely geometry.**
 ## 6. Aphakia and Pseudophakia
 
 Detailed lens anatomy, aphakia, cataract surgery, IOLs and phakic IOLs are maintained in the canonical **Lens** note.
