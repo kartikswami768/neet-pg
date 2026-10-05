@@ -406,16 +406,13 @@ Three anatomical regions:
 #### 15.2 Tissue derivatives — classification
 
 ##### Surface ectoderm
-
 Surface ectoderm derivatives include:
-
 - Skin appendages
 - Lens
 - Epithelial lining of conjunctiva
 - Epithelial lining of cornea
 
 ##### Neuroectoderm — mnemonic: **STORME**
-
 - **Secondary vitreous**
 - **Tertiary vitreous**
 - **Optic nerve**
@@ -424,7 +421,6 @@ Surface ectoderm derivatives include:
 - ==**Epithelium of iris and ciliary body**==
 
 ##### Neural crest
-
 - **Sclera** (with a mesodermal contribution to the temporal scleral region).
 - **Choroid**.
 - **Corneal stroma and endothelium**.
@@ -432,7 +428,6 @@ Surface ectoderm derivatives include:
 - **Ciliary muscle**.
 
 ##### Mesoderm — mnemonic: **PSME**
-
 - **Primary vitreous**.
 - **Temporal sclera**.
 - **Extraocular muscles**.
