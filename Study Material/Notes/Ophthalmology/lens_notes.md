@@ -203,61 +203,9 @@ Sorbitol accumulation is highly hyperosmotic and promotes water entry into the l
 
 ## 8. Accommodation
 
-Accommodation increases the refractive power of the eye for near vision.
+Accommodation, presbyopia and accommodative abnormalities are maintained canonically in **Optics and Refraction**.
 
-### 8.1 Helmholtz mechanism
-
-For **far vision**:
-
-- Ciliary muscle is **relaxed**.
-- Ciliary ring is relatively expanded.
-- Zonules are **tense**.
-- Lens is **thin and relatively flat**, particularly at the anterior surface.
-- Lens power is lower.
-
-For **near vision**:
-
-- Ciliary muscle **contracts**.
-- Ciliary ring becomes smaller.
-- Zonular tension **decreases** and the zonules become slack.
-- The elastic lens becomes **thicker and more convex**.
-- The anterior surface becomes more curved.
-- Lens refractive power **increases**.
-- Pupil constriction accompanies near vision.
-
-> **Diagram omitted:** Accommodation.
-### 8.2 Accommodation sequence
-
-**Ciliary muscle contraction → ciliary ring constriction → zonular relaxation → lens thickening/rounding → increased lens power → near focus.**
-
-This is the **Helmholtz theory of accommodation**.
-
-### 9. Presbyopia and accommodative abnormalities
-
-#### Presbyopia
-
-Presbyopia is the **physiological insufficiency of accommodation with age**, producing difficulty with near work.
-
-- Usually clinically evident **after 40 years**.
-- Corrected with **convex (+) near spectacles**.
-- One exam schedule gives approximately **+1 D at 40 years**, with the required addition increasing by about **0.5 D every 5 years**.
-- Maximum accommodative power/addition is approximately **+3 D**.
-
-#### Spasm of accommodation
-
-- Also called **pseudomyopia**.
-- Persistent ciliary muscle contraction produces excessive accommodation.
-- Distant vision becomes blurred and the condition mimics myopia.
-- Cycloplegics such as **atropine** relax the ciliary muscle.
-
-#### Developmental optical correlation
-
-At birth:
-
-- Axial length ≈ **17 mm**.
-- Refractive error ≈ **2–3 D hypermetropia**.
-- Emmetropia is generally reached by approximately **5–6 years**.
-
+![[optics_refraction_notes#7. Accommodation]]
 # 10. Cataract: definition and classification
 
 A **cataract** is a lens opacity that interferes with the optical homogeneity/transparency of the lens and causes progressive visual impairment.
