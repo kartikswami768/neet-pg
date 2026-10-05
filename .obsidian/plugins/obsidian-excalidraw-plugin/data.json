@@ -159,7 +159,13 @@
     }
   },
   "markdownImageDeletionPreference": "ask",
-  "scriptEngineSettings": {},
+  "scriptEngineSettings": {
+    "Downloaded/Palm Guard": {
+      "Goto fullscreen?": {
+        "value": true
+      }
+    }
+  },
   "autostartScripts": {},
   "autostartScriptFailures": {},
   "previousRelease": "2.28.1",
@@ -172,7 +178,9 @@
   "latexPreambleLocation": "preamble.sty",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
-  "pinnedScripts": [],
+  "pinnedScripts": [
+    "Excalidraw/Scripts/Downloaded/Palm Guard.md"
+  ],
   "sidepanelTabs": [],
   "customPens": [
     {
@@ -521,7 +529,8 @@
     "borderColor": "#fff",
     "borderOpacity": 0,
     "filenameVisible": false,
-    "lockedReadingMode": false
+    "lockedReadingMode": false,
+    "propertiesVisible": true
   },
   "markdownNodeOneClickEditing": false,
   "canvasImmersiveEmbed": true,
