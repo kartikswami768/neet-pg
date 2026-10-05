@@ -63,6 +63,7 @@ Corneal power is approximately **+43 to +44 D**. In the Gullstrand schematic rep
 - **Visual axis:** line joining the fixation point to the fovea through the nodal point.
 - **Pupillary axis:** axis through the centre of the pupil.
 - The visual axis bisects the fovea.
+
 **Angles:**
 - **Angle α (alpha):** between the anatomical/optical axis and visual axis at the nodal point.
 - **Angle κ (kappa):** between the pupillary axis/pupillary line and the visual axis at the cornea.
