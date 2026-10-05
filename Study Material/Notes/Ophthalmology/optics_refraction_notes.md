@@ -122,25 +122,9 @@ Anterior lens displacement producing myopia is associated with **Weill–Marches
 > **Diagram omitted:** Myopia and hypermetropia comparison.
 ### Pathological/degenerative myopia
 
-**Pathological/degenerative myopia: myopia >6 D or axial length >26 mm.**
+The retinal manifestations of pathological myopia are maintained in the canonical **Retina** note.
 
-Fundus and ocular changes include:
-
-- Temporal myopic crescent due to choroidal and retinal/peripapillary atrophy.
-- Posterior staphyloma.
-- Tigroid/tessellated fundus due to chorioretinal thinning with visibility of choroidal vessels.
-- **Lacquer cracks:** breaks/tears in Bruch’s membrane from stretching.
-- Choroidal neovascularization can grow through lacquer cracks.
-- **Foster/Fuchs spots:** macular retinal pigment epithelium change; subretinal/macular haemorrhage can occur in this lesion.
-- Vitreous haemorrhage.
-- Peripheral retinal thinning, including lattice/cobblestone degeneration.
-- Peripheral retinal holes from maximal peripheral stretching, with risk of **rhegmatogenous retinal detachment**.
-- Exophoria/exotropia related to the enlarged globe.
-- Complicated cataract.
-- Normal-tension/open-angle glaucoma associations.
-
-Pathological myopia is the **most common cause of rhegmatogenous retinal detachment**.
-
+![[retina_notes#Retinal changes of pathological myopia]]
 ## 4. Hypermetropia
 
 - The eyeball is shorter than normal.
@@ -227,39 +211,13 @@ For **−3 D sphere +2 D cylinder at 180°**:
 > **Diagram omitted:** Astigmatism classification, focal types and example.
 ## 6. Aphakia and Pseudophakia
 
-**Aphakia** = absence of the crystalline lens in its normal anatomical position. The most common cause is post-surgical aphakia after cataract surgery.
+Detailed lens anatomy, aphakia, cataract surgery, IOLs and phakic IOLs are maintained in the canonical **Lens** note.
 
-### Optical/clinical signs of aphakia
+![[lens_notes#28. Aphakia]]
 
-- Previous limbal cataract-surgery scar.
-- Deep anterior chamber because the iris falls backward without lens support.
-- Iridodonesis.
-- Jet-black pupil because there is no lens behind the pupil to reflect light.
-- High hypermetropia because removal of the crystalline lens removes substantial converging power.
-- Small hypermetropic disc.
-- Only **two Purkinje images**, from the anterior and posterior corneal surfaces; lens reflections are absent.
+![[lens_notes#29. Phakic intraocular lens]]
 
-### Aphakic correction
-
-| Method | Image magnification | Key points |
-|---|---:|---|
-| Aphakic spectacles | ~30% | Least preferred; multiple optical adverse effects |
-| Contact lenses | ~7% | Better optical result, but handling may be difficult for elderly postoperative patients |
-| Posterior chamber IOL, in-the-bag | Minimal | Best choice |
-
-Aphakic spectacles commonly require powers of approximately **+10 to +14 D**. High plus spectacle lenses produce substantial prismatic effects and can cause:
-
-- **Roving/ring scotoma** from peripheral prism effect of a thick lens.
-- **Jack-in-the-box phenomenon:** an object disappears within the peripheral ring scotoma and reappears centrally.
-- Pin-cushion distortion.
-- Chromatic aberration and altered colour perception through thick lenses.
-- Poor cosmetic appearance because of lens thickness.
-
-> **Diagram omitted:** Aphakia and its optical effects.
-### Phakic IOL / Implantable Collamer Lens
-
-A phakic IOL is placed behind the iris and over the natural crystalline lens, between iris and lens. It is used for high refractive errors or when corneal laser surgery is contraindicated. The minimum anterior chamber depth given for ICL surgery is **2.8 mm**. ICL is also listed for refractive power **>8 D**, with implantation in the **sulcus**.
-
+For broader IOL/biometry details, see [[lens_notes#25. Intraocular lenses and biometry]].
 # 7. Accommodation
 
 Accommodation increases ocular power for near vision.
