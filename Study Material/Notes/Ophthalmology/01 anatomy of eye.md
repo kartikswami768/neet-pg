@@ -400,8 +400,9 @@ Three anatomical regions:
 - Lens development begins when the optic vesicle contacts surface ectoderm and induces the **lens placode**.
 - The **choroid fissure** closes during the **6th–7th week**; failure of closure produces **coloboma**.
 
-> **Figure 14. Eye embryology.** Forebrain/optic grooves, optic vesicle, lens placode, lens pit, lens vesicle and choroid fissure.
-> **Diagram omitted:** Eye embryology.
+![[Pasted image 20261005104744.jpg]]
+> ****Figure 14. Eye embryology.** Forebrain/optic grooves, optic vesicle, lens placode, lens pit, lens vesicle and choroid fissure.*
+
 #### 15.2 Tissue derivatives — classification
 
 ##### Surface ectoderm
@@ -419,8 +420,8 @@ Surface ectoderm derivatives include:
 - **Tertiary vitreous**
 - **Optic nerve**
 - **Retina**
-- **Muscles of pupil:** sphincter + dilator
-- **Epithelium of iris and ciliary body**
+- ==**Muscles of pupil:** sphincter + dilator==
+- ==**Epithelium of iris and ciliary body**==
 
 ##### Neural crest
 
