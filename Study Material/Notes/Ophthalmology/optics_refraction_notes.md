@@ -73,6 +73,80 @@ Corneal power is approximately **+43 to +44 D**. In the Gullstrand schematic rep
 
 > ![[IMG_1232.jpeg|300]]![[IMG_1231.webp|300]]
 
+## Visual Acuity & Visual Acuity Charts
+
+### Visual Acuity
+- Ability of the eye to **resolve two closely spaced points as separate**.
+- Fundamentally depends on the **angular separation** between details.
+- Normal resolution ≈ **1 arcminute (1′)**.
+
+### Visual Angle
+- Angle subtended by an object/detail at the eye.
+- **1° = 60′**
+
+### Snellen Chart
+#### Snellen fraction
+$$
+VA = \frac{\text{testing distance}}{\text{distance at which a normal eye can read the same line}}
+$$
+- Standard testing distance = **6 m**
+- Normal vision = **6/6**
+- **6/12** → patient sees at 6 m what a normal eye sees at 12 m.
+#### Snellen optotype
+- Whole letter/optotype subtends **5′**.
+- Critical detail/stroke/gap subtends **1′**.
+- **Critical detail**, not total letter size, determines visual acuity.
+> **5′ = whole letter; 1′ = critical detail → normal resolution**
+
+### Minimum Angle of Resolution (MAR)
+- **MAR = smallest angular separation that the eye can resolve.**
+- Normal eye: **MAR = 1′**
+#### Relationship with visual acuity
+$$
+\boxed{VA = \frac{1}{MAR}}
+$$
+(MAR expressed in arcminutes)
+
+| Vision | MAR | Decimal VA |
+|---|---:|---:|
+| 6/6 | 1′ | 1.0 |
+| 6/12 | 2′ | 0.5 |
+| 6/60 | 10′ | 0.1 |
+> **MAR ↑ → VA ↓**  
+> **MAR ↓ → VA ↑**
+
+### ETDRS Chart
+**ETDRS = Early Treatment Diabetic Retinopathy Study**
+- More standardized and reproducible than conventional Snellen.
+- **5 letters/line**
+- Each line differs by **0.1 logMAR**
+- Standardized letter size progression and spacing.
+> **ETDRS → logMAR-based visual acuity measurement**
+
+### Pelli-Robson Chart
+- Measures **contrast sensitivity**, not primarily visual acuity.
+- Uses large letters with progressively decreasing **contrast**.
+- Detects visual dysfunction despite relatively preserved visual acuity.
+> **Snellen / ETDRS → spatial resolution (visual acuity)**  
+> **Pelli-Robson → contrast sensitivity**
+
+### High-Yield Values
+| Parameter | Normal value |
+|---|---:|
+| Snellen VA | **6/6** |
+| Decimal VA | **1.0** |
+| MAR | **1′** |
+| logMAR | **0** |
+| Whole Snellen letter | **5′** |
+| Critical detail | **1′** |
+
+### Core Relationships
+**Visual acuity → angular resolution → MAR**
+$$
+\boxed{VA = \frac{1}{MAR}}
+$$
+**Snellen / ETDRS → visual acuity**  
+**Pelli-Robson → contrast sensitivity**
 ## 2. Refractive Error: Terminology and Classification
 
 ### Basic terms
@@ -724,3 +798,4 @@ Used for progressive myopia in children/young patients:
 - **Index myopia** is classically associated with nuclear cataract and may produce second sight.
 - **Keratometry** measures corneal curvature and contributes to IOL power calculation.
 - **Prism bar cover test** is used to quantify ocular deviation; prism base is placed opposite the direction of deviation.
+
