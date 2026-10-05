@@ -27,7 +27,7 @@ tags:
 - **Orbital apex:** triangular / conical.
 
 > **Figure 1. Cross-section of the eyeball.** Cornea, iris and pupil, lens, zonules, ciliary body with pars plicata and pars plana, sclera, choroid/uvea, retina, vitreous, aqueous, fovea, optic disc and optic nerve, optic cup and neuroretinal rim, and central retinal vessels.
-> ![Cross-section of eyeball](images/E8_3.jpg)
+> ![[IMG_1228.webp]]
 > **Figure 13. Basic anterior/posterior segment and aqueous outflow anatomy.**
 > **Diagram omitted:** Basic ocular anatomy.
 ### 1.2 Three coats (tunics) of the eyeball
