@@ -615,42 +615,11 @@ Usually X-linked recessive for red-green defects, with males affected more frequ
 
 # 9. Ocular-motor system and extraocular muscles
 
-There are six extraocular muscles:
+The detailed extraocular-muscle anatomy and action table are maintained canonically in the **Squint (Strabismus)** note.
 
-- superior rectus
-- inferior rectus
-- medial rectus
-- lateral rectus
-- superior oblique
-- inferior oblique
+![[squint_notes#3. Extraocular muscles and ocular motility]]
 
-Innervation:
-
-- **CN III:** all except superior oblique and lateral rectus
-- **CN IV:** superior oblique
-- **CN VI:** lateral rectus
-
-Mnemonic: **LR6, SO4, all the rest 3.**
-
-## Superior oblique actions
-
-The mnemonic **SoLID** summarizes:
-
-- **L** - lateral rotation / abduction component
-- **I** - intorsion
-- **D** - depression
-
-The key functional action tested clinically is **depression in adduction**.
-
-## Yoke muscles and Hering law
-
-Yoke muscles are pairs of muscles, one in each eye, that act together to produce a particular gaze direction. For horizontal gaze:
-
-- lateral rectus of one eye pairs with medial rectus of the opposite eye
-
-Hering's law states that equal innervation is directed to yoked extraocular muscles during binocular gaze.
-
-> **Diagram omitted:** Extraocular muscles, cranial-nerve palsies and internuclear ophthalmoplegia.
+![[squint_notes#Yoke muscles / contralateral synergists]]
 ## 10. Cranial-nerve palsies and diplopia
 
 ### 10.1 Third-nerve (oculomotor) palsy
@@ -803,103 +772,15 @@ The pathway is used clinically to assess brainstem function and involves:
 
 ### 14. Diplopia and squint examination
 
-#### 14.1 Comitant versus incomitant deviation
+Detailed strabismus examination is maintained in the canonical **Squint (Strabismus)** note.
 
-**Esotropia is the most common clinical presentation of comitant squint.**
+![[squint_notes#8. Clinical presentation: comitant vs incomitant strabismus]]
 
-| Feature | Comitant | Incomitant / paralytic-restrictive |
-|---|---|---|
-| Angle of deviation | Similar in different gaze positions | Changes with gaze direction |
-| Typical onset | Often childhood | Can be acute/sudden |
-| Diplopia | Usually absent if sensory adaptation is established | Common |
-| Head posture | Usually absent | Compensatory |
+![[squint_notes#10. Hirschberg test]]
 
-#### 14.2 Paralytic versus restrictive disease
+![[squint_notes#11. Cover and uncover tests]]
 
-| Feature | Paralytic | Restrictive |
-|---|---|---|
-| Cause | Nerve or muscle weakness | Mechanical restriction/fibrosis |
-| Forced duction | Eye moves freely | Movement remains restricted |
-| Examples | CN III/IV/VI palsy | Orbital fracture, thyroid eye disease |
-
-#### 14.3 Hirschberg corneal-reflex test
-
-The Hirschberg test uses the position of the corneal light reflex.
-
-A practical reference table:
-
-| Reflex position | Approximate deviation |
-|---|---:|
-| Center of pupil | Normal |
-| Pupillary margin | ~15° / 30 prism diopters |
-| Midway between pupil and limbus | ~30° / 60 prism diopters |
-| Limbus | ~45° / 90 prism diopters |
-
-**1 mm of corneal-reflex displacement ≈ 7° ≈ 14 prism diopters.**
-
-Memory aid: **DOOR** - deviation is opposite the reflex displacement.
-
-#### 14.4 Cover and uncover tests
-
-- **Cover test:** detects a manifest deviation/tropia.
-- **Uncover test:** detects a latent deviation/phoria.
-- The direction of compensatory eye movement indicates the direction of the deviation.
-
-#### 14.5 Prism-bar cover test
-
-A prism-bar cover test is used to quantify the magnitude of tropia.
-
-The exam relationship is:
-
-**Degree of tropia = 2 x the prism power at which the deviated eye becomes straight.**
-
-Prism orientation follows **DOOB** - deviation is opposite the prism base direction.
-
-##### 14.6 Hess and Lees screens
-
-Used to identify the paretic/restricted extraocular muscle responsible for diplopia.
-
-**Hess chart:**
-
-- one of the standard tests for diplopia and ocular-motor palsy
-- uses dissociation of the two eyes
-- uses **concave lines** rather than the straight lines of an Amsler grid
-- a smaller field on the affected side points toward the weak muscle/affected eye
-
-**Lees screen** is another dissociation method for mapping ocular motility defects.
-
-##### 14.7 Maddox rod and Maddox wing
-
-The Maddox rod is a red striated lens used to dissociate the eyes.
-
-Uses include:
-
-- detecting phoria at distance fixation
-- assessing cyclotropia/excyclodeviation or incyclodeviation
-- as an adjunct to assessing macular visual function
-
-The **Maddox wing** uses dissociation at near to assess horizontal, vertical, and torsional deviations. One eye views an arrow while the other views the numbered scale, allowing the perceived deviation to be read directly.
-
-##### 14.8 Worth four-dot test
-
-A four-dot instrument using red-green filters evaluates binocular sensory status.
-
-Typical interpretations:
-
-| Response | Meaning |
-|---|---|
-| 4 dots | Binocular single vision / fusion |
-| 2 dots | Suppression of the eye viewing through the filtered side associated with the missing dots |
-| 3 dots | Suppression of the opposite eye |
-| 5 dots | Diplopia; no fusion |
-
-The test is also used to assess anomalous retinal correspondence and sensory suppression. **Bagolini striated glasses** provide another low-dissociation assessment of simultaneous binocular perception and sensory fusion.
-
-##### 14.9 Titmus fly test
-
-Used to assess stereopsis and grade binocular single vision at a higher sensory level.
-
-> **Diagram omitted:** Strabismus tests: cover test, Hess chart and Worth four-dot.
+![[squint_notes#16. Worth four-dot test]]
 ### 15. Myasthenia gravis as a neuro-ophthalmic disorder
 
 Typical ocular myasthenic features include:
