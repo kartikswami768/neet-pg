@@ -30,7 +30,7 @@ The eye behaves as a converging optical system. The **cornea contributes maximal
 
 Corneal power is approximately **+43 to +44 D**. In the Gullstrand schematic representation, the anterior corneal surface contributes **+48.83 D**, the posterior corneal surface **−5.88 D**, and the lens contributes approximately **+16 to +19 D** depending on the representation.
 
-> **Diagram omitted:** Refractive indices and schematic eye.
+> ![[Pasted image 20261005140045.jpg]] Refractive indices and schematic eye.
 ### Gullstrand schematic eye and Listing reduced eye
 
 **Purkinje images** arise from reflections at four refracting surfaces:
@@ -39,6 +39,7 @@ Corneal power is approximately **+43 to +44 D**. In the Gullstrand schematic rep
 2. Posterior surface of cornea
 3. Anterior surface of lens
 4. Posterior surface of lens — inverted image
+
 
 | Purkinje surface | Site | Power |
 |---|---|---:|
