@@ -1,5 +1,5 @@
 ---
-status: not-started
+status: started
 priority: high
 due: 2026-10-05
 scheduled: 2026-10-05
