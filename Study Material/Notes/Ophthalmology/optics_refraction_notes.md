@@ -162,11 +162,9 @@ Different powers in the two meridians → they do not focus at the same point �
 
 **First focal line → ==Circle of least confusion== → Second focal line**
 
-![[Pasted image 20261005152332.jpg]]
+![[Pasted image 20261005152332.jpg|400]]![[Pasted image 20261005152332 1.jpg|400]]
 
-![[Pasted image 20261005152332 1.jpg]]
 
-![[Pasted image 20261005152332 2.jpg]]
 
 ![[Pasted image 20261005152332 3.jpg]]
 ### 3. Focal Lines
@@ -192,19 +190,19 @@ CLC = best spherical focus obtainable when correcting astigmatism with a spheric
 | **Compound hypermetropic** | + | + | Both behind |
 | **Mixed** | − | + | One in front, one behind |
 
-### 5. Simple Myopic
+1. **Simple Myopic**
 **− / 0** → one myopic + one emmetropic meridian. Example: −2 D / 0 D.
 
-### 6. Simple Hypermetropic
+2. **Simple Hypermetropic**
 **+ / 0** → one hypermetropic + one emmetropic meridian. Example: +2 D / 0 D.
 
-### 7. Compound Myopic
+3. **Compound Myopic**
 **− / −** → both meridians myopic → both focal lines **in front of retina**. Example: −2 D / −5 D.
 
-### 8. Compound Hypermetropic
+4. **Compound Hypermetropic**
 **+ / +** → both meridians hypermetropic → both focal lines **behind retina**. Example: +2 D / +5 D.
 
-### 9. Mixed
+5. **Mixed**
 **− / +** → one meridian myopic + one hypermetropic → one focal line **in front**, one **behind** retina.
 
 ### 10. Interpretation of Sphere + Cylinder
@@ -251,7 +249,8 @@ The same optical correction can be written in either notation.
 
 > Both describe the same two meridional powers: **−2 D @ 180° and −3 D @ 90°**.
 
-### 12. With-the-Rule (WTR) Astigmatism
+### #### WTR vs ATR
+**With the rule Astigmatism**
 > **Vertical meridian (90°) is steeper → greater power.**
 
 Example: **−2 DS / −1 DC × 180°**
@@ -259,7 +258,7 @@ Example: **−2 DS / −1 DC × 180°**
 - 90° → −3 D
 → 90° stronger → **WTR**
 
-### 13. Against-the-Rule (ATR) Astigmatism
+**Against-the-Rule (ATR) Astigmatism**
 > **Horizontal meridian (180°) is steeper → greater power.**
 
 Example: **−2 DS / −1 DC × 90°**
@@ -267,16 +266,13 @@ Example: **−2 DS / −1 DC × 90°**
 - 180° → −3 D
 → 180° stronger → **ATR**
 
-#### WTR vs ATR
-
-| Type | Stronger/steeper meridian | Typical minus-cylinder axis |
-|---|---|---|
-| **WTR** | 90° vertical | 180° |
-| **ATR** | 180° horizontal | 90° |
-| **Oblique** | Oblique | Oblique |
-
+| Type        | Stronger/steeper meridian | Typical minus-cylinder axis |
+| ----------- | ------------------------- | --------------------------- |
+| **WTR**     | 90° vertical              | 180°                        |
+| **ATR**     | 180° horizontal           | 90°                         |
+| **Oblique** | Oblique                   | Oblique                     |
 > **Cylinder axis = weaker meridian.** Therefore: WTR → 90° stronger → axis 180°; ATR → 180° stronger → axis 90°.
-
+![[Pasted image 20261005152332 2.jpg]]
 ### 14. One Mental Model
 > **ASTIGMATISM = TWO POWERS × TWO PERPENDICULAR MERIDIANS**
 
