@@ -5,14 +5,15 @@ status: active
 
 # ACTIVE STUDY CYCLE
 
-> This is the dashboard-facing placeholder for the current test cycle.
-> Replace this with a dated cycle note when starting a new cycle, or keep it as the active cycle note and archive a copy after the test.
+> Current active cycle: **Ophthalmology — 5–9 Oct 2026**. Saturday, 10 Oct is the buffer/test/review boundary.
 
 ## Current cycle
 
-Create the current cycle from:
+[[2026-10-05 Ophthalmology]]
 
-[[Templates/01 Study Cycle]]
+## Week goal
+
+Finish the core Ophthalmology syllabus by **Friday, 9 Oct**, using retrieval + PYQs + targeted repair.
 
 ## Tasks
 
