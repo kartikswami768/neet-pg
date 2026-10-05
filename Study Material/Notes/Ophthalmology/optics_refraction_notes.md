@@ -18,28 +18,26 @@ tags:
 
 The eye behaves as a converging optical system. The **cornea contributes maximally to total ocular refraction** because the largest refractive-index change occurs at the **air–cornea interface**.
 
-| Medium | Refractive index |
-|---|---:|
-| Air | 1.0 |
-| Cornea | 1.376 |
-| Aqueous humour | 1.336 |
-| Lens — average | 1.39 |
-| Lens cortex | 1.38 |
-| Lens nucleus | 1.40 |
-| Vitreous humour | 1.337 |
+| Medium          | Refractive index |
+| --------------- | ---------------: |
+| Air             |              1.0 |
+| Cornea          |            1.376 |
+| Aqueous humour  |            1.336 |
+| Lens — average  |             1.39 |
+| Lens cortex     |             1.38 |
+| Lens nucleus    |             1.40 |
+| Vitreous humour |            1.337 |
 
 Corneal power is approximately **+43 to +44 D**. In the Gullstrand schematic representation, the anterior corneal surface contributes **+48.83 D**, the posterior corneal surface **−5.88 D**, and the lens contributes approximately **+16 to +19 D** depending on the representation.
 
-> ![[Pasted image 20261005140045.jpg]] Refractive indices and schematic eye.
+> ![[Pasted image 20261005140329.jpg|400]] 
+> Refractive indices and schematic eye.
 ### Gullstrand schematic eye and Listing reduced eye
-
 **Purkinje images** arise from reflections at four refracting surfaces:
-
 1. Anterior surface of cornea
 2. Posterior surface of cornea
 3. Anterior surface of lens
 4. Posterior surface of lens — inverted image
-
 
 | Purkinje surface | Site | Power |
 |---|---|---:|
@@ -47,7 +45,6 @@ Corneal power is approximately **+43 to +44 D**. In the Gullstrand schematic rep
 | II | Posterior cornea | −5.88 D |
 | III | Anterior lens | +19 D |
 | IV | Posterior lens | Included in the four-surface system; inverted Purkinje image |
-
 **Listing’s reduced eye:**
 - Total ocular power = **58.6 D**.
 - All elements are measured from the anterior corneal surface.
@@ -55,22 +52,18 @@ Corneal power is approximately **+43 to +44 D**. In the Gullstrand schematic rep
 - Principal point = **1.35 mm** from the anterior corneal surface.
 - Nodal point = **7.08 mm** from the anterior corneal surface.
 - Focal point = **24.13 mm** from the anterior corneal surface.
-
 > **Diagram omitted:** Gullstrand schematic eye, Purkinje surfaces and Listing reduced eye.
 ### Axes of the eye
-
 - **Anatomical/optical axis:** anatomical axis of the eye.
 - **Visual axis:** line joining the fixation point to the fovea through the nodal point.
 - **Pupillary axis:** axis through the centre of the pupil.
 - The visual axis bisects the fovea.
-
 **Angles:**
 - **Angle α (alpha):** between the anatomical/optical axis and visual axis at the nodal point.
 - **Angle κ (kappa):** between the pupillary axis/pupillary line and the visual axis at the cornea.
 - The fovea lies slightly temporal to the optic disc, producing these angular relationships.
 - A large positive kappa is associated with pseudoexotropia and is seen in hypermetropia.
 - A large negative kappa is associated with pseudoesotropia and is seen in myopia.
-
 > **Diagram omitted:** Angle alpha, angle kappa and astigmatism classification.
 ## 2. Refractive Error: Terminology and Classification
 
