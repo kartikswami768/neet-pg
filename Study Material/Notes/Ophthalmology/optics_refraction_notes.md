@@ -162,6 +162,13 @@ Different powers in the two meridians → they do not focus at the same point �
 
 **First focal line → ==Circle of least confusion== → Second focal line**
 
+![[Pasted image 20261005152332.jpg]]
+
+![[Pasted image 20261005152332 1.jpg]]
+
+![[Pasted image 20261005152332 2.jpg]]
+
+![[Pasted image 20261005152332 3.jpg]]
 ### 3. Focal Lines
 > **More powerful meridian → focal line perpendicular to it.**
 
