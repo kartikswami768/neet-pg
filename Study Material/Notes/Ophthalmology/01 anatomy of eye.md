@@ -1,8 +1,8 @@
 ---
-title: "Anatomy of the Eye — Integrated Exam Notes"
-subject: "Ophthalmology"
-topic: "Anatomy of the Eye"
-type: "Notes"
+title: Anatomy of the Eye —Integrated Exam Notes
+subject: Ophthalmology
+topic: Anatomy of the Eye
+type: Notes
 tags:
   - ophthalmology
   - anatomy
