@@ -622,8 +622,12 @@ button.mobile-ink-floating-button {
   box-shadow: var(--shadow-s, 0 2px 8px rgba(0, 0, 0, 0.12));
   transform-origin: 0 0;
   contain: layout paint size;
-  touch-action: none;
+  touch-action: pan-x pan-y pinch-zoom;
   cursor: crosshair;
+}
+
+.mobile-ink-live-canvas {
+  touch-action: pan-x pan-y pinch-zoom;
 }
 
 .mobile-ink-background {
