@@ -268,15 +268,33 @@ For cataract, aphakia, IOLs and detailed lens pathology, see [[lens_notes]].
 
 ### 6.4 Vitreoretinal attachment
 
-- Strongest vitreoretinal attachment is the **vitreous base at the ora serrata**.
+- Strongest vitreoretinal attachment is the **vitreous base at the ==ora serrata**==.
 - Vitreous has a high **ascorbate concentration**, approximately **9-fold that of plasma**.
-- **Bergmeister papilla** is a remnant of hyaloid tissue.
-- **Persistent hyperplastic primary vitreous** represents persistent hyaloid/primary vitreous tissue.
+
 
 ![[Pasted image 20261005130449.jpg|400]]
 > **Figure 15. Vitreous and hyaloid anatomy.**
 > 
----
+## Vitreous — spaces, attachments & embryologic remnants
+
+| Structure                                           | One-liner                                                                                                |
+| --------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **Wiegert’s ligament**                              | Hyaloidocapsular attachment around posterior lens capsule (separating Berger's space and Canal of Petit) |
+| **Berger’s space**                                  | **Central retrolental** potential space                                                                  |
+| **Canal of Petit**                                  | **Peripheral retrolental** potential space                                                               |
+| **Canal of Hannover**                               | Space related to **zonular fibers**                                                                      |
+| **Cloquet’s canal**                                 | Central vitreous canal → remnant/pathway of **hyaloid artery**                                           |
+| **Area of Martegiani**                              | Posterior end of Cloquet’s canal at **optic disc**                                                       |
+| **Vitreous base**                                   | **Strongest vitreoretinal attachment** → ora serrata + adjacent pars plana                               |
+| **Bergmeister papilla**                             | **Remnant of hyaloid tissue** over <u>optic disc</u>                                                     |
+| **Persistent hyperplastic primary vitreous (PHPV)** | Persistence of **primary vitreous + hyaloid vasculature** → congenital leukocoria/microphthalmia         |
+
+### Exam memory
+
+> **Hyaloid artery → Cloquet’s canal → optic disc → Bergmeister papilla**  
+> **Persistent primary vitreous → PHPV**
+
+**Retrolental:** **Berger = central**, **Petit = peripheral**, **Wiegert = boundary/attachment**.
 
 # 7. Retina
 
