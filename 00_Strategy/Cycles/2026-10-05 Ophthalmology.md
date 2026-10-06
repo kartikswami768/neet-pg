@@ -23,13 +23,13 @@ exam_window: 2026-10-10
 
 ## Five-day syllabus
 
-| Day | Date | Focus | Target |
-|---|---|---|---|
-| 1 | 5 Oct | Anatomy + Optics/Refraction + Cornea/Sclera | Build the visual framework and lock core optics/cornea facts |
-| 2 | 6 Oct | Lens + Glaucoma | Cataract/lens pathology and glaucoma diagnosis, mechanisms, and treatment |
-| 3 | 7 Oct | Retina + Neuro-ophthalmology | Retinal disease patterns + visual pathway/nerve/field defects |
-| 4 | 8 Oct | Eyelids/Orbit + Squint/Strabismus | Clinical signs, differentials, examination tests, and management |
-| 5 | 9 Oct | Conjunctiva + Community/Remaining + Whole-subject revision | Finish coverage, PYQs, image recall, and last-look consolidation |
+| Day | Date  | Focus                                                      | Target                                                                    |
+| --- | ----- | ---------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 1   | 5 Oct | Anatomy + Optics/Refraction + Cornea/Sclera                | Build the visual framework and lock core optics/cornea facts              |
+| 2   | 6 Oct | Lens + Glaucoma                                            | Cataract/lens pathology and glaucoma diagnosis, mechanisms, and treatment |
+| 3   | 7 Oct | Retina + Neuro-ophthalmology                               | Retinal disease patterns + visual pathway/nerve/field defects             |
+| 4   | 8 Oct | Eyelids/Orbit + Squint/Strabismus                          | Clinical signs, differentials, examination tests, and management          |
+| 5   | 9 Oct | Conjunctiva + Community/Remaining + Whole-subject revision | Finish coverage, PYQs, image recall, and last-look consolidation          |
 
 ## Daily execution model
 
