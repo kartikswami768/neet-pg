@@ -18,6 +18,11 @@ The retina is the **inner nervous tunic of the eyeball** and is derived from **n
 
 The posterior segment contains the **vitreous**, **retina**, and **choroid**. The choroid appears red on fundus examination because of its vascularity. Outside the choroid lies the sclera; internally, the retinal pigment epithelium (RPE) forms the outer boundary of the neurosensory retina.
 
+![[Pasted image 20261006125714.jpg]]
+
+![[Pasted image 20261006125714 1.jpg]]
+
+![[Pasted image 20261006125714 2.jpg]]
 > **Diagram omitted:** Layers of the retina.
 The **subretinal space** lies between the neurosensory retina and the RPE. It corresponds to the plane of separation in retinal detachment and is embryologically weak because the retina and RPE arise from the invaginated optic cup.
 
@@ -52,7 +57,7 @@ The **fovea** contains the maximum concentration of cones, represents the centre
 - Average cup-to-disc ratio in the supplied teaching material: **0.3**.
 - The optic disc contains **no rods or cones**, producing the physiological blind spot.
 - The **neuroretinal rim** surrounds the optic cup.
-- Retinal ganglion-cell axons converge at the disc and continue as the optic nerve.
+- Retinal ganglion-cell axons converge at the disc and continue as the optic nerve.![[Pasted image 20261006130452.jpg]]
 
 ### Ora serrata and peripheral retina
 
@@ -66,18 +71,18 @@ Peripheral retinal pathology is particularly important because peripheral retina
 
 The retina is arranged as **10 layers**, conventionally described from **inside to outside** as follows:
 
-| No. | Layer | Key content / significance |
-|---:|---|---|
-| 1 | Internal limiting membrane (ILM) | Innermost retinal surface; adjacent to vitreous |
-| 2 | Nerve fibre layer (NFL) | Ganglion-cell axons; fibres converge to form optic nerve |
-| 3 | Ganglion cell layer (GCL) | Ganglion cells; third-order neurons |
-| 4 | Inner plexiform layer (IPL) | Synaptic interactions involving ganglion cells, amacrine cells and bipolar cells |
-| 5 | Inner nuclear layer (INL) | Bipolar, horizontal, amacrine and Müller-cell nuclei |
-| 6 | Outer plexiform layer (OPL) | Synapse between photoreceptor axons and bipolar/horizontal-cell dendrites |
-| 7 | Outer nuclear layer (ONL) | Rod and cone nuclei |
-| 8 | External limiting membrane (ELM) | Outer retinal boundary; not directly visualised as a discrete layer on routine histology/OCT in the source framing |
-| 9 | Photoreceptor layer | Outer segments of rods and cones |
-| 10 | Retinal pigment epithelium (RPE) | Outermost retinal layer; major component of outer blood-retinal barrier |
+| No. | Layer                            | Key content / significance                                                                                         |
+| --: | -------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+|   1 | Internal limiting membrane (ILM) | Innermost retinal surface; adjacent to vitreous                                                                    |
+|   2 | Nerve fibre layer (NFL)          | Ganglion-cell axons; fibres converge to form optic nerve                                                           |
+|   3 | Ganglion cell layer (GCL)        | Ganglion cells; third-order neurons                                                                                |
+|   4 | Inner plexiform layer (IPL)      | Synaptic interactions involving ganglion cells, amacrine cells and bipolar cells                                   |
+|   5 | Inner nuclear layer (INL)        | Bipolar, horizontal, amacrine and Müller-cell nuclei                                                               |
+|   6 | Outer plexiform layer (OPL)      | Synapse between photoreceptor axons and bipolar/horizontal-cell dendrites                                          |
+|   7 | Outer nuclear layer (ONL)        | Rod and cone nuclei                                                                                                |
+|   8 | External limiting membrane (ELM) | Outer retinal boundary; not directly visualised as a discrete layer on routine histology/OCT in the source framing |
+|   9 | Photoreceptor layer              | Outer segments of rods and cones                                                                                   |
+|  10 | Retinal pigment epithelium (RPE) | Outermost retinal layer; major component of outer blood-retinal barrier                                            |
 
 ![Retinal layers on OCT](images/E8_185.jpg)
 #### Retinal neurons and glial cells
