@@ -254,7 +254,7 @@ Persistent hyperplastic primary vitreous represents a remnant of hyaloid tissue.
 
 The eye receives arterial blood from the **ophthalmic artery**, a branch of the internal carotid artery.
 
-> **Diagram omitted:** Blood supply of the retina and eye.
+> ![[IMG_1233.webp]]
 ### Central retinal artery
 
 The **central retinal artery (CRA)** enters through the optic nerve and supplies the **inner 6 retinal layers**. The retinal circulation therefore nourishes the inner retina.
