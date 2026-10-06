@@ -229,7 +229,7 @@ Three vitreous components are described embryologically:
 1. **Primary vitreous**: embryonic, containing hyaloid vessels and mesodermal tissue.
 2. **Secondary vitreous**: adult vitreous, composed principally of **hyaluronic acid and type II collagen**.
 3. **Tertiary vitreous**: the **ciliary zonules/suspensory ligament system** associated with the lens.
-
+![[Pasted image 20261006140755.jpg]]
 
 
 The **vitreous base at the ora serrata** is the strongest attachment of vitreous to retina.
