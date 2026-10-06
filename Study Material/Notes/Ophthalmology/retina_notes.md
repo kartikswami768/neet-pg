@@ -187,7 +187,9 @@ With light:
 
 **11-cis-retinal → all-trans-retinal → closure of Na⁺ channels → decreased/cessation of glutamate release → bipolar-cell excitation.**
 
-> **Diagram omitted:** Phototransduction in dark and light.
+![[Pasted image 20261006140327.jpg]]
+
+![[Pasted image 20261006140327 1.jpg]]> 
 ### Visual cycle
 
 The rhodopsin photochemical cycle proceeds through light-induced intermediates and ultimately separates the visual chromophore from opsin. All-trans-retinal is metabolically processed and converted back toward **11-cis-retinal**, which regenerates visual pigment and restores photoreceptor responsiveness.
