@@ -831,7 +831,7 @@ Features emphasized:
 - Central scotoma.
 - Reduced colour vision/day-vision difficulty.
 - Early visual acuity may already be markedly reduced.
-
+![[Pasted image 20261006142504.jpg]]
 > **Diagram omitted:** Stargardt macular dystrophy and dark choroid pattern.
 ##### Dark/silent choroid sign
 
@@ -849,9 +849,13 @@ Characteristic stages include:
 
 - **Vitelliform / “egg-yolk” lesion**.
 - **Vitelliruptive / “pseudohypopyon” stage**, produced by redistribution of the yellow material.
-- Later atrophic change.
+- Later atrophic change.![[Pasted image 20261006142548.jpg]]
+> Best vitelliform lesion.
 
-> **Diagram omitted:** Best vitelliform lesion.
+![[Pasted image 20261006142701.jpg]]
+>Best Psudohypopyon
+
+
 Typical functional findings:
 
 - Central scotoma.
@@ -1085,10 +1089,12 @@ The teaching material gives threshold disease as:
 
 ##### Retinoblastoma
 
-Retinoblastoma is the major pediatric intraocular tumor discussed in the retinal material.
+Retinoblastoma is the major pediatric intraocular tumor discussed in the retinal material.![[Pasted image 20261006143026.jpg]]
 
 > **Diagram omitted:** Leukocoria in retinoblastoma.
 The characteristic presentation is **leukocoria**, the white pupillary reflex. **Strabismus/squint** is the second common presentation.
+
+![[Pasted image 20261006143041.jpg]]
 
 Other presentations include:
 
@@ -1109,7 +1115,7 @@ The typical age at presentation in the scanned material is approximately **18 mo
 - **Osteosarcoma** is emphasized as the important second malignancy.
 
 ##### Histology
-
+![[Pasted image 20261006143105.jpg]]![[Pasted image 20261006143108.jpg]]![[Pasted image 20261006143126.jpg]]
 > **Diagram omitted:** Retinoblastoma histology.
 - **Flexner–Wintersteiner rosettes**: differentiated tumor cells arranged around a central lumen.
 - **Homer Wright pseudorosettes**: no true central lumen.
