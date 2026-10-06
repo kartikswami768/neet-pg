@@ -647,7 +647,9 @@ The macula is the site of the highest visual acuity and is dominated functionall
 - **Metamorphopsia** produces wavy or distorted lines.
 - The teaching material uses a **20° visual field** and **400 small squares** as the classic test format.
 
-> **Diagram omitted:** Amsler-grid metamorphopsia.
+> **Diagram omitted:** Amsler metamorphsia![[Pasted image 20261006142103.jpg]]![[Pasted image 20261006142054.jpg]]ler-grid Normal and Distorted
+> 
+
 **Photostress test**
 
 - Delayed photostress recovery supports a macular lesion.
@@ -702,7 +704,13 @@ Central serous retinopathy (**CSR/CSCR**) is produced by dysfunction of the **RP
 - Other associations in the teaching material: Cushing syndrome, H. pylori infection, pregnancy and a type-A/stress-prone phenotype.
 - Young males are emphasized; the scanned material gives a male:female ratio of approximately **3:1**.
 
+![[Pasted image 20261006142419.jpg]]
+
+![[Pasted image 20261006142224.jpg]]
+ink blot
+
 ![Central serous FFA](images/E8_182.png)
+smoke stack (mushroom/umbrella)
 ##### Imaging
 
 **OCT**
@@ -716,7 +724,7 @@ Central serous retinopathy (**CSR/CSCR**) is produced by dysfunction of the **RP
 - **Smoke-stack / smokestack** pattern.
 - Umbrella/mushroom descriptions are also used for the focal leak.
 
-> **Diagram omitted:** CSR fundus appearance.
+
 ##### Treatment
 
 - Most acute cases are **self-limiting**.
