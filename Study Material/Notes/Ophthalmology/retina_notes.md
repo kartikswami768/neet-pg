@@ -283,14 +283,14 @@ The choroid is highly vascular and is the principal blood supply of the outer re
 
 Ophthalmoscopy is the **first investigation for direct examination of the fundus**.
 
-| Feature | Direct ophthalmoscopy | Indirect ophthalmoscopy |
-|---|---|---|
-| Image | Erect | Inverted |
-| Viewing | Monocular | Binocular / stereoscopic |
-| Magnification | ~15× | Lower; ~3× with +20 D and ~5× with +14 D in the supplied material |
-| Working distance | Close to the patient's eye, ~5 cm | About arm's length, ~50 cm |
-| Condensing lens | Not required | Required, commonly +20 D or +28 D |
-| Field | Small; posterior pole | Large peripheral field, extending toward the ora serrata |
+| Feature          | Direct ophthalmoscopy             | Indirect ophthalmoscopy                                           |
+| ---------------- | --------------------------------- | ----------------------------------------------------------------- |
+| Image            | Erect                             | Inverted                                                          |
+| Viewing          | Monocular                         | Binocular / stereoscopic                                          |
+| Magnification    | ~15×                              | Lower; ~3× with +20 D and ~5× with +14 D in the supplied material |
+| Working distance | Close to the patient's eye, ~5 cm | About arm's length, ~50 cm                                        |
+| Condensing lens  | Not required                      | Required, commonly +20 D or +28 D                                 |
+| Field            | Small; posterior pole             | Large peripheral field, extending toward the ora serrata          |
 
 The indirect method is particularly useful for **peripheral retinal examination**, retinal tears and retinal detachment.
 

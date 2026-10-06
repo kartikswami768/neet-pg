@@ -28,3 +28,9 @@ GPU available (apple apple) but no GPU-loadable weights are downloaded; using th
 [2026-10-06T08:45:42.064Z] .obsidian/plugins/local-tts-reader: kokoro
 GPU available (apple apple) but no GPU-loadable weights are downloaded; using the CPU
 
+[2026-10-06T09:08:01.281Z] .obsidian/plugins/local-tts-reader: plugin loaded
+
+
+[2026-10-06T09:08:01.529Z] .obsidian/plugins/local-tts-reader: kokoro
+GPU available (apple apple) but no GPU-loadable weights are downloaded; using the CPU
+
