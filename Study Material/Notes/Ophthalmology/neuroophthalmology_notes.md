@@ -999,13 +999,13 @@ Think **ocular myasthenia gravis**.
 
 ### 20.2 Afferent versus efferent pupillary lesions
 
-| Feature | Afferent lesion | Efferent lesion |
-|---|---|---|
-| Resting pupil size | Usually equal | Unequal |
-| Light in normal eye | Both pupils constrict | Normal response of both pathways except the affected efferent output |
-| Light in affected eye | Reduced/bilateral response depending on severity | Ipsilateral constriction fails |
-| RAPD | Present in asymmetric disease | Absent unless an additional afferent lesion exists |
-| Classic examples | Optic neuritis, ischemic optic neuropathy | CN III palsy, Adie, pharmacologic mydriasis |
+| Feature               | Afferent lesion                                  | Efferent lesion                                                      |
+| --------------------- | ------------------------------------------------ | -------------------------------------------------------------------- |
+| Resting pupil size    | Usually equal                                    | Unequal                                                              |
+| Light in normal eye   | Both pupils constrict                            | Normal response of both pathways except the affected efferent output |
+| Light in affected eye | Reduced/bilateral response depending on severity | Ipsilateral constriction fails                                       |
+| RAPD                  | Present in asymmetric disease                    | Absent unless an additional afferent lesion exists                   |
+| Classic examples      | Optic neuritis, ischemic optic neuropathy        | CN III palsy, Adie, pharmacologic mydriasis                          |
 
 ### 20.3 CN III, IV and VI palsies
 
