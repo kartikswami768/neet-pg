@@ -1,5 +1,5 @@
 ---
-status: not-started
+status: done
 priority: high
 due: 2026-10-06
 scheduled: 2026-10-06
@@ -8,6 +8,8 @@ projects:
 cycle: 2026-10-05 Ophthalmology
 tags:
   - task
+dateModified: 2026-10-07T19:25:12.652+05:30
+completedDate: 2026-10-07
 ---
 
 # Ophthalmology — 6 Oct 2026
@@ -18,8 +20,8 @@ Lock lens/cataract concepts and make glaucoma a high-confidence scoring area.
 
 ## Must do
 
-- [ ] [[Study Material/Notes/Ophthalmology/lens_notes|Lens]] — first pass
-- [ ] [[Study Material/Notes/Ophthalmology/glaucoma_notes|Glaucoma]] — first pass
+- [x] [[Study Material/Notes/Ophthalmology/lens_notes|Lens]] — first pass
+- [x] [[Study Material/Notes/Ophthalmology/glaucoma_notes|Glaucoma]] — first pass
 - [ ] Closed-book comparison of cataract types, clinical features, and management
 - [ ] Reproduce glaucoma classification, diagnosis, acute vs chronic management, and major drug mechanisms
 - [ ] Ophthalmology PYQs / incorrects for lens + glaucoma

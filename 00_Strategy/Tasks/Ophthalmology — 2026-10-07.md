@@ -1,5 +1,5 @@
 ---
-status: not-started
+status: done
 priority: high
 due: 2026-10-07
 scheduled: 2026-10-07
@@ -8,6 +8,8 @@ projects:
 cycle: 2026-10-05 Ophthalmology
 tags:
   - task
+dateModified: 2026-10-07T19:25:25.560+05:30
+completedDate: 2026-10-07
 ---
 
 # Ophthalmology — 7 Oct 2026
@@ -18,7 +20,7 @@ Master the classic retinal disease patterns and localize visual pathway/optic ne
 
 ## Must do
 
-- [ ] [[Study Material/Notes/Ophthalmology/retina_notes|Retina]] — first pass
+- [x] [[Study Material/Notes/Ophthalmology/retina_notes|Retina]] — first pass
 - [ ] [[Study Material/Notes/Ophthalmology/neuroophthalmology_notes|Neuro-ophthalmology]] — first pass
 - [ ] Closed-book recall of diabetic/hypertensive/vascular retinal patterns and key imaging associations
 - [ ] Reproduce visual pathway lesions, field defects, pupillary findings, and optic neuropathy differentials

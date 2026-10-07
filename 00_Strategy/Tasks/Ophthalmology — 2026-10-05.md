@@ -29,5 +29,5 @@ Build the core visual framework: eye anatomy, optics/refraction, and cornea/scle
 
 - [ ] Core anatomy recalled
 - [ ] Optics/refraction framework recalled
-- [ ] Corneal layers + hallmark disorders recalled
+- [[Corneal layers + hallmark disorders recalled]]
 - [ ] PYQs / incorrects completed

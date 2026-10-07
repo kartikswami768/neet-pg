@@ -200,18 +200,18 @@ Posterior visual-system lesions can also produce higher cortical manifestations:
 
 ## 4. Visual-field localization: high-yield table
 
-| Lesion | Principal fibers/structure | Typical field defect | Congruity / other clue |
-|---|---|---|---|
-| Optic nerve | All fibers from one eye | Ipsilateral monocular blindness/anopia; central scotoma may occur early | RAPD if asymmetric |
-| Optic chiasm | Crossing nasal retinal fibers | Bitemporal hemianopia | Heteronymous |
-| Optic nerve-chiasm junction | One optic nerve + selected crossed fibers | Ipsilateral anopia + contralateral superotemporal quadrantanopia | Junctional scotoma |
-| Lateral chiasm | Temporal fibers | Binasal hemianopia | Rare/theoretical; bilateral |
-| Optic tract | Ipsilateral temporal + contralateral nasal retinal fibers | Contralateral homonymous hemianopia | Usually incongruous; Wernicke pupil may occur |
-| LGN | Six-layered relay | Contralateral homonymous or sectoral defect | Often incongruous; keyhole/sectoral defects possible |
-| Meyer loop | Inferior temporal radiations | Contralateral superior quadrantanopia | Pie in the sky |
-| Baum loop | Superior parietal radiations | Contralateral inferior quadrantanopia | Pie on the floor |
-| Occipital cortex | Primary visual cortex | Contralateral homonymous hemianopia | Often highly congruous; macular sparing with PCA infarction |
-| Occipital pole | Macular cortex | Contralateral homonymous macular defect | Macular representation |
+| Lesion                      | Principal fibers/structure                                | Typical field defect                                                    | Congruity / other clue                                      |
+| --------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Optic nerve                 | All fibers from one eye                                   | Ipsilateral monocular blindness/anopia; central scotoma may occur early | RAPD if asymmetric                                          |
+| Optic chiasm                | Crossing nasal retinal fibers                             | Bitemporal hemianopia                                                   | Heteronymous                                                |
+| Optic nerve-chiasm junction | One optic nerve + selected crossed fibers                 | Ipsilateral anopia + contralateral superotemporal quadrantanopia        | Junctional scotoma                                          |
+| Lateral chiasm              | Temporal fibers                                           | Binasal hemianopia                                                      | Rare/theoretical; bilateral                                 |
+| Optic tract                 | Ipsilateral temporal + contralateral nasal retinal fibers | Contralateral homonymous hemianopia                                     | Usually incongruous; Wernicke pupil may occur               |
+| LGN                         | Six-layered relay                                         | Contralateral homonymous or sectoral defect                             | Often incongruous; keyhole/sectoral defects possible        |
+| Meyer loop                  | Inferior temporal radiations                              | Contralateral superior quadrantanopia                                   | Pie in the sky                                              |
+| Baum loop                   | Superior parietal radiations                              | Contralateral inferior quadrantanopia                                   | Pie on the floor                                            |
+| Occipital cortex            | Primary visual cortex                                     | Contralateral homonymous hemianopia                                     | Often highly congruous; macular sparing with PCA infarction |
+| Occipital pole              | Macular cortex                                            | Contralateral homonymous macular defect                                 | Macular representation                                      |
 
 Additional field patterns:
 
