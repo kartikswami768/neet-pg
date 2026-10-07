@@ -23,8 +23,9 @@ The crystalline lens is a transparent, avascular, biconvex optical structure sit
 - **Refractive index distribution:** cortex ≈ **1.38**, nucleus ≈ **1.40**; the central lens reaches approximately **1.40–1.41**.
 - **Embryological origin:** surface ectoderm.
 - **Lens is avascular** and depends on diffusion for nutrition.
-
-> **Diagram omitted:** Lens anatomy.
+![[Pasted image 20261007090821.jpg]]
+![[Pasted image 20261007090834.jpg]]
+> **Diagram:** Lens anatomy.
 ## 2. Gross anatomy and microscopic organization
 
 From superficial to deep, the lens consists of:
@@ -92,7 +93,7 @@ Two anatomical spaces associated with the zonules are important:
 - **Canal of Petit:** between the hyaloid/vitreous face and the zonular fibres.
 - **Canal of Hannover:** between the zonular fibres themselves, within the suspensory ligament.
 
-#### 4. Embryology and development
+### 4. Embryology and development
 
 The lens is derived from **surface ectoderm**.
 
@@ -152,13 +153,13 @@ Approximately:
 
 The major crystallin groups are **α-, β- and γ-crystallins**.
 
-| Protein / group | Important features |
-|---|---|
-| **α-crystallins** | Largest crystallins; approximately **600 kDa**; found in lens epithelium; function as heat-shock proteins; help prevent denaturation and insolubilization of other crystallins |
-| **β-crystallins** | Major portion of crystallins, approximately **55%**; urea-soluble |
-| **γ-crystallins** | Major water-soluble crystallin group within the crystallin system |
-| **Vimentin, filensin, phakinin** | Cytoskeletal proteins; form/participate in **beaded filaments**; disruption is associated with cataract formation |
-| **MIP-26 / Aquaporin-0** | Urea-insoluble membrane protein; helps maintain lens transparency |
+| Protein / group                      | Important features                                                                                                                                                                     |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **α-crystallins**                    | ==Largest== crystallins; approximately **600 kDa**; found in lens epithelium; function as ==heat-shock proteins==; help prevent denaturation and insolubilization of other crystallins |
+| **β-crystallins**                    | Major portion of crystallins, approximately **==55==%**; urea-soluble                                                                                                                  |
+| **γ-crystallins**                    | Major water-soluble crystallin group within the crystallin system                                                                                                                      |
+| ==**Vimentin, filensin, phakinin**== | ==Cytoskeletal proteins; form/participate in **beaded filaments**; disruption is associated with cataract formation==                                                                  |
+| ==**MIP-26 / Aquaporin-0**==         | ==Urea-insoluble membrane protein; helps maintain lens transparency==                                                                                                                  |
 
 ### 6.2 Cataract-associated protein changes
 
@@ -184,7 +185,6 @@ The lens is considered relatively **dehydrated** under normal conditions; excess
 
 ### 7.2 Glucose metabolism
 
-> **Diagram omitted:** Lens metabolism.
 The major metabolic pathway is anaerobic because the lens is avascular.
 
 | Pathway | Approximate contribution |
@@ -224,8 +224,13 @@ Typical visual loss is **gradual and painless**.
 - Immature
 - Mature
 - Hypermature
+- ![[Pasted image 20261007091817.jpg|Immature Senile Cataract]]
+![[Pasted image 20261007091825.jpg|Mature Senile Cataract]]
+![[Pasted image 20261007091849.jpg|Mature Senile Cataract]]
+![[Pasted image 20261007091854.jpg|Hypermature Senile Cataract]]
 
-### 10.3 Classification by etiology
+
+## 10.3 Classification by etiology
 
 - Congenital
 - Senile/age-related
@@ -236,41 +241,42 @@ Typical visual loss is **gradual and painless**.
 - Toxic
 
 ## 11. Congenital and developmental cataracts
-
+![[Pasted image 20261007094109.jpg]]
+> Congenital Cataract
 ### 11.1 Blue-dot / cerulean / punctate cataract
 
-> **Diagram omitted:** Congenital cataract patterns.
+>![[Pasted image 20261007091524.jpg]] **Diagram:** Congenital cataract patterns.
 - **Most common congenital cataract**.
 - Usually an incidental finding.
 - Usually causes little or no visual impairment.
 - Associated with **Down syndrome**.
 
 ### 11.2 Lamellar / zonular cataract
-
-- **Most common visually significant congenital cataract**.
+![[Pasted image 20261007091553.jpg]]
+- ==**Most common visually significant congenital cataract**.==
 - Central opacity commonly involves the **fetal nucleus**.
 - Characteristic additional spoke-like opacities are called **Riders**.
 - Associations include:
-  - Vitamin D deficiency
+  - ==Vitamin D deficiency==
   - Autosomal dominant inheritance
-  - Radiation exposure
-  - Congenital rubella
+  - ==Radiation exposure==
+  - ==Congenital rubella==
 - Significant visual deprivation in infancy can produce **stimulus-deprivation amblyopia**.
 
 ### 11.3 Pulverulent cataract
-
+![[Pasted image 20261007091602.jpg]]
 - **Cataracta centralis pulverulenta** produces a powdery central opacity.
 
 ### 11.4 Polar cataracts
-
+![[Pasted image 20261007091612.jpg|anterior polar cataract]]
 - **Anterior polar cataract:** central opacity at the anterior pole.
 - **Posterior polar cataract:** central opacity at the posterior pole.
 - Posterior polar cataract may show an **onion-ring/whorled appearance**.
 - **Mittendorf dots** may be associated with posterior polar cataract; these represent remnants of the hyaloid artery/tunica vasculosa lentis.
 - Posterior polar cataract carries a **high risk of posterior capsular tear during surgery**.
-
+![[Pasted image 20261007094127.jpg|Posterior Pole Cataract]]
 ### 11.5 Sutural cataract
-
+![[Pasted image 20261007091703.jpg]]
 - **Anterior suture:** erect Y.
 - **Posterior suture:** inverted Y.
 
@@ -290,7 +296,7 @@ Ocular/systemic findings include:
 - **Rubella keratitis** may be associated with an angle anomaly, impaired aqueous drainage and glaucoma.
 
 > **Diagram omitted:** Congenital cataract and associated clinical appearances.
-#### 13. Infantile cataract: timing and management principle
+## 13. Infantile cataract: timing and management principle
 
 > **Diagram omitted:** Congenital cataract management.
 Infantile cataract presenting before 1 year may cause severe visual loss because of disruption of visual development and foveal fixation, resulting in amblyopia.
@@ -305,10 +311,10 @@ The management described is:
 
 - Lens aspiration
 - Primary posterior capsulorrhexis
-- Partial anterior vitrectomy
+- ==Partial anterior vitrectomy==
 - Intraocular lens implantation
 
-Primary posterior capsulorrhexis is performed because new lens fibres can subsequently proliferate/deposit on the posterior capsule and cause posterior capsular opacification.
+Primary ==posterior capsulorrhexis== is performed because new lens fibres can subsequently proliferate/deposit on the posterior capsule and cause posterior capsular opacification.
 
 For paediatric IOL power selection:
 
@@ -330,9 +336,8 @@ The major morphological types are:
 - Anterior subcapsular
 
 ### 14.1 Nuclear cataract
-
-> **Diagram omitted:** Senile cataract morphology.
-Nuclear cataract is caused by **nuclear sclerosis** with hardening and increased refractive index of the nucleus.
+![[Pasted image 20261007093322.jpg|Nuclear Cataract]]
+> Nuclear cataract is caused by **nuclear sclerosis** with hardening and increased refractive index of the nucleus.
 
 Clinical features:
 
@@ -340,15 +345,18 @@ Clinical features:
 - **Second-sight phenomenon:** previously presbyopic patients may regain useful near vision because of the myopic shift.
 - Vision may be worse in daylight and relatively better at night when the pupil dilates, because the central opacity is involved.
 - **Xanthopsia:** yellow-coloured vision associated with the discoloured/yellowing nucleus and urochrome pigment.
-- Nuclear sclerosis is associated with increased water-insoluble protein and pigment accumulation, including **melanin and urochrome**, producing hardening and increased refractive power.
+- Nuclear sclerosis is associated with increased ==water-insoluble protein== and pigment accumulation, including ==**melanin and urochrome**==, producing hardening and increased refractive power.
 
 ### 14.2 Cortical cataract
+![[Pasted image 20261007093356.jpg|Cortical cataract]]
+>**Diagram:** Cortical Cataract
+Cortical/cuneiform cataract is associated with **busulfan, steroids and ==chloroquine==**, and can produce marked visual diminution.
 
-Cortical/cuneiform cataract is associated with **busulfan, steroids and chloroquine**, and can produce marked visual diminution.
+Cortical cataract begins with ==**hydration of the lens**== and formation of:
+***Water clefts and vacuoles → ==lamellar separation of lens fibres → wedge-shaped/cuneiform opacities== → persistent hydration and coalescence → intumescence → eventual ==cortical liquefaction.==***
 
-Cortical cataract begins with **hydration of the lens** and formation of:
-
-**Water clefts and vacuoles → lamellar separation of lens fibres → wedge-shaped/cuneiform opacities → persistent hydration and coalescence → intumescence → eventual cortical liquefaction.**
+![[Pasted image 20261007093443.jpg|Cuneiform Cataract]]
+>***Cuneiform Cataract***
 
 Clinical features:
 
@@ -356,23 +364,23 @@ Clinical features:
 - Visual impairment may be more troublesome at night because of the effect of pupil dilation.
 - Progressive hydration may produce an **intumescent cataract**.
 
-### 14.3 Intumescent cataract
-
+#### Intumescent cataract
+![[Pasted image 20261007093420.jpg]]
 - The lens becomes swollen because of hydration.
-- The enlarged lens may produce **phacomorphic glaucoma**, a secondary angle-closure glaucoma.
-- During continuous curvilinear capsulorrhexis, puncturing a tense swollen capsule can produce a characteristic **horizontal linear tear — the Argentinian flag sign**.
-
-### 14.4 Hypermature / Morgagnian cataract
-
+- The enlarged lens may produce ==**phacomorphic glaucoma**,== a secondary angle-closure glaucoma.
+- During continuous curvilinear capsulorrhexis, puncturing a tense swollen capsule can produce a characteristic ==**horizontal linear tear — the Argentinian flag sign**.==
+![[Pasted image 20261007093540.jpg|Argentinian Flag Sign]]
+#### Hypermature / Morgagnian cataract
+![[Pasted image 20261007093520.jpg]]
 - The cortex undergoes **liquefaction**.
 - The nucleus becomes free within the liquefied cortex and **sinks inferiorly under gravity**.
 - Cortex and nucleus become separated.
 - The capsule may become wrinkled.
 - Leakage of lens proteins can produce **phacolytic glaucoma**.
 
-Phacolytic glaucoma is a secondary **open-angle glaucoma** caused by leakage of lens protein from a hypermature cataract, with protein/macrophage material obstructing the trabecular meshwork.
+==Phacolytic glaucoma== is a secondary ==**open-angle glaucoma**== caused by leakage of lens protein from a hypermature cataract, with protein/macrophage material obstructing the trabecular meshwork.
 
-## 15. Posterior subcapsular cataract
+### 14.3 Posterior subcapsular cataract
 
 Posterior subcapsular cataract is located beneath the posterior capsule.
 
@@ -388,7 +396,7 @@ Important associations include:
 
 Clinical features:
 
-- **Glare** is prominent, particularly difficulty driving at night.
+- **Glare** is prominent, particularly ==difficulty driving at night==.
 - Visual loss may be disproportionately severe for the amount of visible opacity.
 - Near vision is often affected more than distance vision.
 - Visual disability may be greater during daytime because of pupillary constriction bringing the central opacity into the visual axis.
@@ -396,26 +404,26 @@ Clinical features:
 **Systemic steroids → cataract; topical steroids → glaucoma** is a useful exam association.
 
 > **Diagram omitted:** Posterior and anterior subcapsular cataract.
-## 16. Anterior subcapsular cataract
+### 14.4 Anterior subcapsular cataract
 
-Anterior subcapsular cataract is the **rarest** of the major senile cataract patterns.
+Anterior subcapsular cataract is the ==**rarest**== of the major senile cataract patterns.
 
 Important associations:
 
-- **A**miodarone
-- **A**topic dermatitis
-- **C**hlorpromazine
+- ==**A**miodarone==
+- ==**A**topic dermatitis==
+- ==**C**hlorpromazine==
 - **G**old deposits
 
-Acute angle-closure glaucoma can produce **glaukomflecken**, which are anterior subcapsular lens opacities/deposits following an acute pressure rise.
+==Acute angle-closure glaucoma== can produce ==**glaukomflecken**==, which are anterior subcapsular lens opacities/deposits following an acute pressure rise.
 
-### 17. Complicated cataract
+## 15. Complicated cataract
 
 Complicated cataract results from associated intraocular disease.
 
 Important causes include:
 
-- **Uveitis** — commonest cause
+- ==**Uveitis** — commonest cause==
 - Myopia
 - Angle-closure glaucoma
 - Retinitis pigmentosa
@@ -426,58 +434,63 @@ Important causes include:
 Typical appearance:
 
 - **Posterior subcapsular location**
-- **Breadcrumb appearance**
-- **Polychromatic lustre**
+- ==**Breadcrumb appearance**==
+- ==**Polychromatic lustre**==
 - **Axial spread**
-
+![[Pasted image 20261007092133.jpg]]
 > **Diagram omitted:** Clinical appearances of complicated and traumatic cataract.
-# 18. Metabolic cataracts
+## 18. Metabolic cataracts
 
-## 18.1 Hypocalcaemia / parathyroid tetany
+### 18.1 Hypocalcaemia / parathyroid tetany
 
 Hypocalcaemia may produce cataract.
 
 - Children: **lamellar cataract**.
 - Adults: **anterior and posterior subcapsular cataract**.
 
-## 18.2 Diabetic / snowflake cataract
+### 18.2 Diabetic / snowflake cataract
+![[Pasted image 20261007092821.jpg]]
+![[Pasted image 20261007092222.jpg]]
 
 - A presenile/metabolic cataract.
 - Also called **snowflake** or **snowstorm cataract**.
-- More common with **type 1 diabetes**.
+- ==More common with **type 1 diabetes**.==
 - Cortical cataract pattern.
 - Associated with crystallin alteration/carbamylation.
-- Sorbitol accumulation contributes to osmotic lens hydration.
+- Sorbitol accumulation contributes to ==osmotic lens hydration.==
 
-Hyperglycaemia can also produce **fluctuating refractive error**, particularly a myopic shift, because lens swelling increases curvature. Hypoglycaemia is associated with a hypermetropic shift as the curvature decreases.
+==Hyperglycaemia can also produce **fluctuating refractive error**, particularly a myopic shift, because lens swelling increases curvature. Hypoglycaemia is associated with a hypermetropic shift as the curvature decreases.==
 
-## 18.3 Oil-droplet cataract
-
+### 18.3 Oil-droplet cataract
+![[Pasted image 20261007092830.jpg]]![[Pasted image 20261007092144.jpg]]
 - Associated with **galactosemia**.
 - Posterior subcapsular appearance.
 - Caused by accumulation of galactose and its metabolite **galactitol**.
 - Associated with deficiency of **galactose-1-phosphate uridyltransferase (GALT)** or galactokinase in the metabolic pathway.
 - It is the **reversible cataract**: treatment of the underlying galactosemia can reverse the lens opacity.
 
-## 18.4 Sunflower cataract
+### 18.4 Sunflower cataract
+![[Pasted image 20261007092846.jpg]]![[Pasted image 20261007092240.jpg]]
+![[Pasted image 20261007092302.jpg]]
+![[Pasted image 20261007092913.jpg]]![[Pasted image 20261007092308.jpg]]
 
 - Associated with **Wilson disease / chalcosis**.
 - Produces a sunflower-like copper deposition pattern in the lens.
 - Wilson disease may also produce a **Kayser–Fleischer ring** from copper deposition in Descemet’s membrane.
 
-## 18.5 Christmas-tree cataract
+### 18.5 Christmas-tree cataract
 
 - Associated with **myotonic dystrophy**.
 - Needle-like, highly coloured/shiny, polychromatic opacities.
 - Typically posterior subcapsular.
 - Myotonic dystrophy may also have ptosis, low intraocular pressure and pigmentary retinopathy.
-
+![[Pasted image 20261007092855.jpg]]![[Pasted image 20261007092201.jpg]]
 > **Diagram omitted:** Metabolic cataracts.
-# 19. Traumatic cataract and lens findings after blunt trauma
+## 19. Traumatic cataract and lens findings after blunt trauma
 
 Blunt trauma can produce characteristic anterior segment and lens findings.
 
-## Lens findings
+### Lens findings
 
 - **Phacodonesis:** trembling/tremulous lens caused by zonular injury.
 - **Rosette-shaped cataract:** flower-shaped opacity, classically following blunt contusion such as a fist or tennis-ball injury.
@@ -486,15 +499,21 @@ Blunt trauma can produce characteristic anterior segment and lens findings.
 - **Ectopia lentis:** subluxation/displacement of the lens following zonular damage.
 - **Zonular dialysis:** disruption of zonules leading to lens subluxation.
 
-Associated traumatic signs include:
+![[Pasted image 20261007093131.jpg|Vossius Ring]]
+![[Pasted image 20261007092926.jpg]]![[Pasted image 20261007092028.jpg]]
+![[Pasted image 20261007093243.jpg|Blowout fracture]]
 
-- Hyphema
+Associated traumatic signs include:
+-  Hyphema
 - Iridodonesis
 - Iridodialysis with a **D-shaped pupil**
 - Angle-recession glaucoma
 - Retinal detachment
 - Commotio retinae/Berlin’s oedema
 - Traumatic optic neuropathy
+- 
+
+![[Pasted image 20261007093009.jpg|iridodialysis]]![[Pasted image 20261007092959.jpg|Hyphema]]
 
 ## Other physical causes of lens opacity
 
@@ -507,7 +526,7 @@ Associated traumatic signs include:
 
 > **Diagram omitted:** Traumatic cataract and associated lens findings.
 ## 20. Ectopia lentis and zonular abnormalities
-
+![[Pasted image 20261007093117.jpg]]
 **Ectopia lentis** is displacement or subluxation of the lens caused by zonular weakness or rupture.
 
 ### Causes and direction of displacement
@@ -534,7 +553,7 @@ Clinical features include:
 Lenticonus is a **congenital abnormality of lens shape** in which the anterior or posterior surface becomes conical.
 
 ### Anterior lenticonus
-
+![[Pasted image 20261007094201.jpg]]
 Associated with:
 
 - **Alport syndrome**
@@ -542,7 +561,7 @@ Associated with:
 - **Waardenburg syndrome**
 
 ### Posterior lenticonus
-
+![[Pasted image 20261007094156.jpg]]
 Associated with:
 
 - **Lowe syndrome / oculocerebrorenal syndrome**
@@ -667,19 +686,22 @@ Typical sequence:
 7. Nuclear fragmentation with the phaco probe.
 8. Irrigation and aspiration.
 9. IOL implantation into the capsular bag when suitable.
-
+![[Pasted image 20261007093651.jpg|Side port incision]]
+![[Pasted image 20261007093748.jpg|Main Corneal Incision]]
+![[Pasted image 20261007093832.jpg|irrigation Aspiration]]
 The phaco probe frequency is approximately **40 kHz**.
 
 Non-foldable IOLs are described as **PMMA (polymethyl methacrylate)**; foldable IOLs are generally made from **silicone, acrylic or hydrogel**. Hydrophobic acrylic is described as having a low likelihood of posterior capsular opacification.
 
 ### 24.4 Femtosecond laser-assisted cataract surgery — FLACS
-
+![[Pasted image 20261007093619.jpg]]
 The femtosecond laser is used for:
 
 - Corneal incision
 - Capsulotomy/capsulorrhexis
 - Lens/nuclear fragmentation
-
+![[Pasted image 20261007093711.jpg|Capsulorhexis]]
+![[Pasted image 20261007093812.jpg|Nuclear Fragmentation]]
 The femtosecond system is described with:
 
 - Pulse duration: approximately **10⁻¹⁵ s**.
@@ -693,16 +715,25 @@ The femtosecond system is described with:
 #### 25.1 IOL types
 
 **Posterior chamber IOL (PCIOL):**
-
+![[Pasted image 20261007093855.jpg|200]]
 - Placed in the capsular bag.
 - Usually has a **C-shaped haptic**.
 - Optic provides the refractive correction.
 
 **Anterior chamber IOL (ACIOL):**
-
+![[Pasted image 20261007093900.jpg|200]]
 - Placed in the anterior chamber when the capsular bag cannot support a posterior chamber lens.
 - The ACIOL has an **S-shaped haptic**.
 - Iris chafing by an ACIOL can produce **UGH syndrome**.
+![[Pasted image 20261007092726.jpg]]
+> Single piece Iol
+![[Pasted image 20261007092731.jpg]]
+>Toric Iol
+![[Pasted image 20261007092734.jpg]]
+>Multifocal iol
+![[Pasted image 20261007092738.jpg]]
+>accomodative iol
+
 
 > **Diagram omitted:** IOL types and phacoemulsification.
 #### 25.2 IOL power calculation — biometry
@@ -712,7 +743,7 @@ Biometry uses:
 1. **Keratometry** — corneal curvature.
 2. **A-scan ultrasonography** — axial length.
 3. IOL calculation formula.
-
+![[Pasted image 20261007093917.jpg|A scan Biometry]]
 Normal axial length is approximately **24 mm**.
 
 Important formula associations:
@@ -741,6 +772,9 @@ Important formula associations:
 The **most common long-term/postoperative complication** is posterior capsular opacification (PCO).
 
 It may occur through proliferation/deposition of residual lens epithelial cells and fibres on the posterior capsule. A typical occurrence is around **6–12 months** after surgery.
+![[Pasted image 20261007093953.jpg|Capsular Opacity]]
+![[Pasted image 20261007094014.jpg|Elschnig Pearls]]
+
 
 Forms include:
 
@@ -772,7 +806,7 @@ Hydrophobic acrylic IOLs have a lower likelihood of posterior capsular opacifica
   - Pupillary-block glaucoma
   - Malignant glaucoma
 - Endophthalmitis.
-
+![[Pasted image 20261007094044.jpg|Endophthalmitis]]
 > **Diagram omitted:** Postoperative cataract complications.
 #### 27. Postoperative endophthalmitis relevant to lens surgery
 

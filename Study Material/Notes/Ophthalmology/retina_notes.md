@@ -440,7 +440,7 @@ FFA demonstrates leakage from neovascular complexes and retinal areas of non-per
 
 Its fundamental effect is reduction of the ischemic retinal drive for VEGF-mediated neovascularisation, thereby reducing the risk of severe visual complications.
 
-The study material associates PRP with **532-nm frequency-doubled Nd:YAG laser** and, in older teaching frameworks, with argon green laser. The source also describes laser as a principal treatment for PDR, with anti-VEGF therapy used in appropriate cases.
+The study material associates PRP with ==**532-nm frequency-doubled Nd:YAG laser**== and, ==in older teaching frameworks, with argon green laser==. The source also describes laser as a principal treatment for PDR, with anti-VEGF therapy used in appropriate cases.
 
 ## Diabetic macular edema / clinically significant macular edema
 
@@ -470,9 +470,9 @@ A useful distinction is that **NPDR alone is not synonymous with an indication f
 
 ### 9. Hypertensive retinopathy
 
-Hypertension produces progressive retinal arteriolar narrowing and arteriovenous-crossing abnormalities, followed by retinal hemorrhage, exudation and, in severe disease, optic-disc edema/papilledema.
+Hypertension produces progressive retinal arteriolar narrowing and ==arteriovenous-crossing abnormalities==, followed by retinal hemorrhage, exudation and, in severe disease, optic-disc edema/papilledema.
 
-Normal retinal artery:vein ratio is described as approximately **2:3**; with arteriolar narrowing it may become **1:3**.
+==Normal retinal artery:vein ratio is described as approximately **2:3**; with arteriolar narrowing it may become **1:3**.==
 
 #### Arteriovenous crossing signs
 
@@ -481,6 +481,8 @@ Normal retinal artery:vein ratio is described as approximately **2:3**; with art
 | Salus sign | Deflection / shifting of the vein at the A-V crossing |
 | Gunn sign | Venous narrowing or nipping at the crossing |
 | Bonnet sign | Banking/curving of the vein |
+![[IMG_1235.jpeg]]![[IMG_1236.jpeg]]![[IMG_1234.webp]]
+
 
 Hypertensive hemorrhages are classically **flame-shaped** because they occur in the superficial nerve-fibre layer.
 
@@ -512,7 +514,7 @@ The distinction from diabetic retinopathy is particularly useful:
 - **Cattle-tracking/cattle-trucking** appearance of the attenuated arterial circulation.
 - If a cilioretinal artery supplies the macula, part of the central field may be relatively spared.
 
-![Cherry-red spot](images/E8_206.jpg)
+![[IMG_1237.jpeg]]![Cherry-red spot](images/E8_206.jpg)
 #### Causes
 
 The common clinical mechanism is **thromboembolic/atherothromboembolic retinal arterial occlusion**, with embolic disease and atherosclerotic vascular disease forming the major substrate.
@@ -1054,7 +1056,7 @@ Additional screening timing given in the study material:
 - **Zone I**: central circle around the optic nerve; approximately **6 mm diameter** in the teaching diagram.
 - **Zone II**: extends tangentially from the nasal edge of zone I.
 - **Zone III**: temporal residual crescent.
-
+![[IMG_1238.webp]]
 ### Staging
 
 | Stage | Finding |
@@ -1129,6 +1131,7 @@ The typical age at presentation in the scanned material is approximately **18 mo
 - The supplied exam material describes **enucleation** as the definitive treatment for advanced/unfavourable disease.
 
 ##### International grouping described in the teaching material
+![[IMG_1239.webp]]
 
 | Group | Pattern |
 |---|---|
