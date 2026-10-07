@@ -65,11 +65,11 @@ The structural and functional damage is irreversible once established. The treat
 
 ### Ocular hypertension, POAG and normal-tension glaucoma
 
-| Condition | IOP | Optic disc changes | Visual field changes |
-|---|---|---|---|
-| **Ocular hypertension** | >21 mmHg | Absent | Absent |
-| **Primary open-angle glaucoma** | Elevated | Present | Present |
-| **Normal-tension glaucoma** | Persistently <21 mmHg | Present | Present |
+| Condition                       | IOP                   | Optic disc changes | Visual field changes |
+| ------------------------------- | --------------------- | ------------------ | -------------------- |
+| **Ocular hypertension**         | >21 mmHg              | Absent             | Absent               |
+| **Primary open-angle glaucoma** | Elevated              | Present            | Present              |
+| **Normal-tension glaucoma**     | Persistently <21 mmHg | Present            | Present              |
 
 - **Normal-tension glaucoma:** perfusion factors other than IOP are emphasized as important.
 
@@ -83,7 +83,6 @@ The structural and functional damage is irreversible once established. The treat
 - High myopia.
 
 ### Features predisposing to angle closure
-
 - Small eye / hypermetropia.
 - Shallow anterior chamber.
 - Narrow angle.
@@ -93,9 +92,7 @@ The structural and functional damage is irreversible once established. The treat
 Hypermetropia predisposes to angle closure because the smaller globe has a shallow anterior chamber and restricted access of aqueous to the trabecular meshwork.
 
 ## 4. Aqueous Humour: Production, Circulation and Outflow
-
 ### Production
-
 Aqueous humour is produced principally by the **ciliary processes**, especially the **non-pigmented ciliary epithelium**.
 
 Mechanisms of formation:
@@ -110,7 +107,6 @@ Rate of aqueous humour formation is approximately **2-3 microlitres/minute**.
 A hypersecretory form of glaucoma is described as occurring because of increased aqueous formation, with **epidemic dropsy** given as an association in the source material.
 
 ### Circulation
-
 Aqueous is formed in the posterior chamber → passes through the pupil → enters the anterior chamber → drains predominantly through the anterior chamber angle.
 
 ### Outflow pathways
@@ -210,50 +206,41 @@ Shine a torch from the temporal side:
 *Figure 5. Tonometry examples used for IOP assessment.*
 
 ### Perkins tonometer
-
 - Hand-held applanation tonometer.
 - Useful in children, operating theatres and anaesthetized patients, including patients who cannot be positioned at a slit lamp.
 
 ### Tonopen
-
 - Portable applanation instrument.
 - Used in children and in scarred or irregular corneas.
 - Based on the **Mackay-Marg principle**.
 
-### Mackay-Marg
-
+#### Mackay-Marg
 - Choice in irregular, oedematous corneas.
 
 ### Pascal tonometer
-
 - Dynamic contour tonometer.
 - Reading is described as not depending on central corneal thickness.
 - More reliable than Goldmann in the material's comparison.
 - Used particularly in post-LASIK cases where a thin cornea may give a falsely low Goldmann reading.
 
 #### Rebound tonometry
-
 - Useful for **self-measurement / self-monitoring**.
 
 #### Non-contact tonometry
-
 - Air-puff method.
 - Used for screening, including screening camps.
 
 #### Transpalpebral tonometry
-
 - Instruments include **Diaton** and **Proview**.
 - Measurement is obtained through the eyelid and is not commonly used.
 
 #### Ocular Response Analyzer
-
 - A non-contact applanation instrument.
 - Based on **corneal hysteresis**.
 
 # 7. Optic Nerve Head and Glaucomatous Optic Neuropathy
 
 ## Examination of the optic disc
-
 Methods described include:
 - **Direct ophthalmoscopy:** approximately 15× magnification; central fundus is visualized; no binocular depth perception.
 - **Slit-lamp biomicroscopy with a +90 D lens**.
@@ -289,13 +276,10 @@ Key structural changes:
 *Figure 7. Clinical appearance illustrating a retinal nerve fibre defect.*
 
 ## Lamina cribrosa
-
 Remodelling of the **lamina cribrosa** contributes to changes in optic disc architecture, including deepening of the cup and nasal displacement of vessels.
 
 ## 8. Visual Field Defects in Glaucoma
-
 ### Normal visual field
-
 The normal visual field is described as **horizontally oval with an inferonasal notch**.
 
 Approximate extents:
@@ -307,7 +291,6 @@ Approximate extents:
 - Distance between the fovea and blind spot: about **2 disc diameters / 3 mm**.
 
 ### Perimetry
-
 Perimetry is the examination of the visual field.
 
 - A visual field can be represented as a **2-dimensional plot of a 3-dimensional visual field**; the contour line is an **isopter**.
@@ -754,21 +737,21 @@ Local adverse effects:
 - **Eyelash lengthening / hypertrichosis**.
 - Periocular or iris hyperpigmentation.
 - Ocular hyperaemia.
-- Cystoid macular oedema.
-- Uveitis.
+- ==Cystoid macular oedema.==
+- ==Uveitis.==
 
 Contraindications/important cautions listed:
 - Uveitis.
 - Postoperative states.
 - Cystoid macular oedema.
-- Risk of herpes simplex reactivation.
+- ==Risk of herpes simplex reactivation.==
 
 #### Miotics
 
 - **Pilocarpine**.
-- Increase **trabecular outflow**.
-- Adverse effects include brow ache and headache.
-- Listed cautions/contraindications include **myopia** because of increased retinal-detachment risk and **uveitis** because inflammation may worsen.
+- ==Increase **trabecular outflow**.==
+- Adverse effects include ==brow ache and headache.==
+- Listed cautions/contraindications include **myopia** because of ==increased retinal-detachment risk== and ==**uveitis** because inflammation may worsen==.
 - In acute angle closure, pilocarpine is given **after the IOP has been lowered**, when the iris can be pulled centrally and the angle reopened.
 
 #### Rho-kinase inhibitors
