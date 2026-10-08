@@ -448,6 +448,7 @@ A positive **Seidel test** demonstrates leakage of aqueous through a corneal or 
 
 ---
 
+# Pathology
 ## 13. Corneal opacity
 
 Corneal opacity becomes progressively denser as deeper and larger portions of the cornea are affected.
@@ -462,11 +463,11 @@ A dense stromal scar is especially damaging when it involves the visual axis. Sc
 
 ---
 
-# 14. Corneal ulcers and keratitis
+## 14. Corneal ulcers and keratitis
 
 A **corneal ulcer** represents epithelial loss associated with inflammatory infiltration and necrosis of the underlying tissue. Because the cornea is highly innervated and structurally thin, progression can be rapid and perforation can threaten the integrity of the globe.
 
-## Bacterial versus fungal ulcer
+### Bacterial versus fungal ulcer
 
 | Feature | Bacterial ulcer | Fungal ulcer |
 |---|---|---|
@@ -606,11 +607,14 @@ Keratoconus is an **ectatic disorder of the cornea** in which a normally more re
 - **Corneal collagen cross-linking (CXL/C3R):** riboflavin with UVA increases collagen cross-linking and is used to **stabilize progressive disease**.
 - **Intracorneal ring segments (INTACS):** PMMA segments placed within the stroma can flatten the cornea.
 - **Keratoplasty:** used for advanced disease when contact lenses and/or stabilization are insufficient.
+![[Pasted image 20261008112846.png]]![[Pasted image 20261008112917.jpg]]
+*Corneal collagen Cross linking*
 
 ![Intracorneal ring segments](images/E8_26.jpg)
 *Intracorneal ring segments used to modify corneal shape in ectatic disease.*
 
----
+![[Pasted image 20261008113117.jpg]]![[Pasted image 20261008113343.jpg|Penetrating Keratoplasty Post Op Sututes]]![[Pasted image 20261008113348.jpg|DALK keratoplasty]]
+*Keratoplasty*
 
 ## 17. Corneal degenerations
 
@@ -622,7 +626,7 @@ Arcus senilis is a **peripheral corneal degeneration caused by lipid deposition*
 - Often begins superiorly and inferiorly before becoming circumferential.
 - A clear interval between the arcus and limbus is the **lucid interval of Vogt**.
 - The opacity remains peripheral and typically does not directly obscure the visual axis.
-
+![[Pasted image 20261008113212.jpg]]
 ### Band-shaped keratopathy
 
 This is a **horizontal band of calcium deposition** in the exposed interpalpebral cornea.
@@ -632,10 +636,7 @@ This is a **horizontal band of calcium deposition** in the exposed interpalpebra
 - Important associations include chronic uveitis in children, juvenile rheumatoid arthritis, hypercalcemia and sarcoidosis.
 - **EDTA chelation** is used to remove the calcium clinically.
 
-> **Diagram omitted:** Band-shaped keratopathy.
-*Interpalpebral corneal calcium deposition in band-shaped keratopathy.*
-
-> **Diagram omitted:** Corneal degenerations and opacity patterns.
+![[Pasted image 20261008113221.jpg]]
 *Representative arcus/band-shaped degeneration and schematic progression of corneal opacity.*
 
 ### Kayser–Fleischer ring
@@ -649,48 +650,104 @@ This is a **horizontal band of calcium deposition** in the exposed interpalpebra
 ---
 
 ## 18. Corneal dystrophies
+```text
+                 CORNEAL DYSTROPHIES
+                         │
+        ┌────────────────┼────────────────┐
+        ↓                ↓                ↓
+    EPITHELIAL        STROMAL         ENDOTHELIAL
+        │                │                │
+        │                │                ├── Fuchs
+        │                │                ├── Posterior
+        │                │                │   polymorphous
+        │                │                └── Congenital
+        │                │                    hereditary
+        │                │                    endothelial
+        │
+        ├── Cogan        ├── Macular
+        ├── Meesmann     ├── Granular
+        ├── Lisch        ├── Lattice
+        ├── Reis–        └── Schnyder
+        │   Bücklers
+        └── Thiel–Behnke
+```
 
 Corneal dystrophies are classically **hereditary, bilateral, non-inflammatory, progressive corneal opacifying disorders**. They are organized according to the principal corneal layer involved.
-
 ### Epithelial dystrophies
-
 Important examples include:
 
-- **Cogan epithelial basement membrane (map-dot-fingerprint) dystrophy** — the commonest epithelial dystrophy emphasized in the material; recurrent corneal erosions are characteristic.
-- **Meesmann epithelial dystrophy** — associated with keratin gene mutations.
-- **Lisch epithelial dystrophy** — described as autosomal dominant, with occasional X-linked-dominant patterns in the study material.
+| Dystrophy         |                              |                                          |
+| ----------------- | ---------------------------- | ---------------------------------------- |
+| ==Cogan/Map Dot== | Epithelial Basement Membrane | Recurrent Corneal Abrasion               |
+| Meesman           |                              | Keratin Gene mutation                    |
+| Lisch             |                              | Autosomal Dominant<br>ccasional X linked |
+| Reis-Bücklers     |                              |                                          |
+| Thiel-Behnke      |                              |                                          |
 
-Other epithelial/anterior limiting layer disorders include **Reis–Bücklers** and **Thiel–Behnke** dystrophies.
+#### **Cogan epithelial basement membrane (map-dot-fingerprint) dystrophy**
+**Also called:**  
+- Map-dot-fingerprint dystrophy
+- Epithelial basement membrane dystrophy
+**Key features:**
+- Most common epithelial dystrophy
+- Abnormal epithelial basement membrane
+- Characteristic **map-dot-fingerprint** appearance
+- **Recurrent corneal erosions** are characteristic
 
+> **Exam pearl:**  
+> **Map-dot-fingerprint → Cogan epithelial basement membrane dystrophy**
+
+#### - **Meesmann epithelial dystrophy** 
+Asociated with keratin gene mutations.
+#### - **Lisch epithelial dystrophy**
+Described as autosomal dominant, with occasional X-linked-dominant patterns in the study material.
+
+#### Other epithelial/anterior limiting layer disorders include 
+**Reis–Bücklers** and **Thiel–Behnke** dystrophies.
 ### Stromal dystrophies
+| Dystrophy       | Principal deposit   | Stain / feature                      | Feature                                                   |
+| --------------- | ------------------- | ------------------------------------ | --------------------------------------------------------- |
+| **Macular**     | Mucopolysaccharides | **Alcian blue**; autosomal recessive | Autosomal Recessive<br>==Least common Stromal Dystrophy== |
+| **Granular**    | Hyaline             | **Masson trichrome**                 |                                                           |
+| **==Lattice==** | ==Amyloid==         | **Congo red**                        | ==Most Common==                                           |
+| **Schnyder**    | Lipid               |                                      |                                                           |
+**Types of Lattice Dystrophy**
 
-| Dystrophy | Principal deposit | Stain / feature |
-|---|---|---|
-| **Macular** | Mucopolysaccharides | **Alcian blue**; autosomal recessive; least common stromal dystrophy |
-| **Granular** | Hyaline | **Masson trichrome** |
-| **Lattice** | Amyloid | **Congo red**; classically the commonest stromal dystrophy |
+| Type                       | Important association                           |
+| -------------------------- | ----------------------------------------------- |
+| **Type 1**                 | Predominantly **localized corneal amyloidosis** |
+| **Type 2 (Meretoja type)** | Associated with **systemic amyloidosis**        |
+> **Exam pearl:**  
+> **Meretoja = Lattice dystrophy type 2 + systemic amyloidosis**
 
-Lattice dystrophy should be separated into subtypes: **type 1** is predominantly a localized corneal amyloidosis, whereas **type 2 (Meretoja type)** is associated with systemic amyloidosis.
-
-> **Diagram omitted:** Stromal corneal dystrophies.
-*Clinical appearances of macular, granular and lattice stromal dystrophies.*
-
-**Schnyder central crystalline dystrophy** is associated with abnormal corneal lipid metabolism.
-
+![[Pasted image 20261008112315.png|300]]
+>Diagram: Granular Dystrophy
 ### Endothelial dystrophies
+#### **Fuchs endothelial dystrophy**
+Fuchs dystrophy is a major endothelial disorder characterized by 
+- progressive endothelial cell dysfunction and 
+- **cornea guttata**.
 
-#### Fuchs endothelial dystrophy
+```text
+Endothelial cell dysfunction / loss
+                ↓
+       ↓ Pump function
+				↓
+      ↑ Stromal hydration
+                ↓
+         Corneal edema
+                ↓
+      ↓ Corneal transparency
+                ↓
+      Progressive visual loss
+                ↓
+        Bullous keratopathy
+```
 
-Fuchs dystrophy is a major endothelial disorder characterized by progressive endothelial cell dysfunction and **cornea guttata**.
-
-**Endothelial cell loss → reduced pump function → stromal hydration → corneal edema → progressive loss of transparency → bullous keratopathy.**
-
-**Cornea guttata** consists of wart-like excrescences/irregularities on the posterior corneal surface associated with Descemet’s membrane/endothelial disease.
-
-Other endothelial disorders listed include **posterior polymorphous corneal dystrophy** and **congenital hereditary endothelial dystrophy**.
-
----
-
+**Cornea guttata** refers to:
+* Wart-like excrescences
+* Irregularities on the posterior corneal surface
+* Associated with abnormalities of Descemet’s membrane/endothelium
 ## 19. Corneal transplantation and surgical anatomy
 
 The cornea is commonly transplanted from a **cadaveric donor**. Corneal tissue can be retrieved soon after death and preserved before transplantation.
@@ -800,6 +857,8 @@ The air–cornea refractive interface makes the cornea the dominant optical elem
 - **LASIK:** an anterior corneal flap is created and stromal tissue is photoablated beneath it.
 - **SMILE:** a stromal lenticule is created and extracted through a small corneal incision.
 - **INTACS:** intracorneal stromal ring segments alter corneal curvature.
+
+
 
 Corneal anatomy therefore directly determines both **optical power** and the biomechanical response to refractive procedures.
 

@@ -401,9 +401,9 @@ Three anatomical regions:
 
 ---
 
-### 15. Ocular developmental anatomy / embryology
+# 15. Ocular developmental anatomy / embryology
 
-#### 15.1 Early eye development
+## 15.1 Early eye development
 
 - The eye develops as an outgrowth of the **forebrain**.
 - **PAX6** is a key developmental transcription factor.
@@ -419,39 +419,19 @@ Three anatomical regions:
 ![[Pasted image 20261005104744.jpg]]
 > ****Figure 14. Eye embryology.** Forebrain/optic grooves, optic vesicle, lens placode, lens pit, lens vesicle and choroid fissure.*
 
-#### 15.2 Tissue derivatives — classification
+## 15.2 Tissue derivatives — classification
 
-##### Surface ectoderm
-Surface ectoderm derivatives include:
-- Skin appendages
-- Lens
-- Epithelial lining of conjunctiva
-- Epithelial lining of cornea
+| **Surface ectoderm**             | **Neuroectoderm**                         | **Neural crest**                                           | **Mesoderm**                        |
+| -------------------------------- | ----------------------------------------- | ---------------------------------------------------------- | ----------------------------------- |
+| Skin appendages                  | Secondary vitreous                        | Sclera *(with mesodermal contribution to temporal sclera)* | Primary vitreous                    |
+| Lens                             | Tertiary vitreous                         | Choroid                                                    | Temporal sclera                     |
+| Epithelial lining of conjunctiva | Optic nerve                               | Corneal stroma and endothelium                             | Extraocular muscles                 |
+| Epithelial lining of cornea      | Retina                                    | Trabecular meshwork                                        | Endothelial lining of blood vessels |
+|                                  | **Muscles of pupil:** sphincter + dilator | Ciliary muscle                                             |                                     |
+|                                  | **Epithelium of iris and ciliary body**   |                                                            |                                     |
+|                                  | **Mnemonic: STORME**                      |                                                            | **Mnemonic: PSME**                  |
 
-##### Neuroectoderm — mnemonic: **STORME**
-- **Secondary vitreous**
-- **Tertiary vitreous**
-- **Optic nerve**
-- **Retina**
-- ==**Muscles of pupil:** sphincter + dilator==
-- ==**Epithelium of iris and ciliary body**==
-
-##### Neural crest
-- **Sclera** (with a mesodermal contribution to the temporal scleral region).
-- **Choroid**.
-- **Corneal stroma and endothelium**.
-- **Trabecular meshwork**.
-- **Ciliary muscle**.
-
-##### Mesoderm — mnemonic: **PSME**
-- **Primary vitreous**.
-- **Temporal sclera**.
-- **Extraocular muscles**.
-- **Endothelial lining of blood vessels**.
-
----
-
-#### 16. Integrated spatial flow of the eye
+# 16. Integrated spatial flow of the eye
 
 A useful continuous anatomical sequence from anterior to posterior is:
 
@@ -477,7 +457,7 @@ Tear flow is:
 
 ---
 
-#### 17. High-yield anatomical measurements and numeric facts
+## 17. High-yield anatomical measurements and numeric facts
 
 | Structure / parameter | value |
 |---|---:|
