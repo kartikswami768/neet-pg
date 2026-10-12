@@ -531,15 +531,15 @@ Associated traumatic signs include:
 
 ### Causes and direction of displacement
 
-| Cause | Typical displacement |
-|---|---|
-| **Blunt trauma** | Commonest acquired cause; direction depends on zonular damage |
-| **Marfan syndrome** | **Superotemporal** subluxation |
-| **Homocystinuria** | **Inferonasal** subluxation |
-| **Weill–Marchesani syndrome** | **Anterior / downward-forward** displacement |
-| **Ehlers–Danlos syndrome** | Associated with ectopia lentis |
-| **Hyperlysinaemia** | Associated with ectopia lentis |
-| **Sulfite oxidase deficiency** | Associated with ectopia lentis |
+| Cause                          | Typical displacement                                          |
+| ------------------------------ | ------------------------------------------------------------- |
+| **Blunt trauma**               | Commonest acquired cause; direction depends on zonular damage |
+| **Marfan syndrome**            | **Superotemporal** subluxation                                |
+| **Homocystinuria**             | **Inferonasal** subluxation                                   |
+| **Weill–Marchesani syndrome**  | **Anterior / downward-forward** displacement                  |
+| **Ehlers–Danlos syndrome**     | Associated with ectopia lentis                                |
+| **Hyperlysinaemia**            | Associated with ectopia lentis                                |
+| **Sulfite oxidase deficiency** | Associated with ectopia lentis                                |
 
 Clinical features include:
 

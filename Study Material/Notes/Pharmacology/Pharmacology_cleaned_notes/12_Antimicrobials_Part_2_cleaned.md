@@ -598,7 +598,7 @@ These are teaching mnemonics, not complete immunological descriptions.
 | Skin infection / tinea                              | Sertaconazole  | Topical; ==anti-pruritic/anti-inflammatory== |     |
 | Tinea cruris / tinea corporis                       | Itraconazole   | Terbinafine                                  |     |
 | T. capitis / dermatophyte infection                 | Griseofulvin   | Oral with fatty food; resistance noted       |     |
-| Fungal corneal ulcer                                | Natamycin      | —                                            |     |
+| ==Fungal corneal ulcer==                            | ==Natamycin==  | —                                            |     |
 | Onychomycosis                                       | Terbinafine    | Tavaborole; efinaconazole solution           |     |
 
 #### 13. ECHINOCANDINS

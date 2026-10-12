@@ -34,18 +34,20 @@ The cornea is transparent but can appear black on gross examination because ligh
 
 The cornea is a **transparent, avascular, convex** structure that forms the anterior refracting surface of the eye. It contributes more to the optical power of the eye than any other individual refracting surface because the largest refractive-index change occurs at the **air–cornea interface**.
 
-| Feature | Important value / relationship |
-|---|---|
-| Position | Anterior 1/6 of fibrous tunic |
-| Shape | Convex, converging |
-| Central thickness | Approximately **540 μm (0.54 mm)**; commonly quoted range about **0.5–0.6 mm** |
-| Optical power | Approximately **+43 to +44 D** |
-| Refractive index | About **1.376** |
-| Anterior corneal surface power | About **+48.8 D** |
-| Posterior corneal surface power | About **−5.9 D** |
-| Net corneal power | About **+43 to +44 D** |
-| Clinical rule | **Greater corneal curvature → greater corneal power** |
-| Vascularity | Avascular except at the peripheral limbal transition zone |
+| Feature                         | Important value / relationship                                                 |
+| ------------------------------- | ------------------------------------------------------------------------------ |
+| Position                        | Anterior 1/6 of fibrous tunic                                                  |
+| Shape                           | Convex, converging                                                             |
+| Diameter                        | Horizontal: **11.7 mm**, Vertical: **11 mm**                                   |
+| Central thickness               | Approximately **540 μm (0.54 mm)**; commonly quoted range about **0.5–0.6 mm** |
+| Peripheral Thickness            | **1 mm-1.2 mm**                                                                |
+| Optical power                   | Approximately **+43 to +44 D**                                                 |
+| Refractive index                | About **1.376**                                                                |
+| Anterior corneal surface power  | About **+48.8 D**                                                              |
+| Posterior corneal surface power | About **−5.9 D**                                                               |
+| Net corneal power               | About **+43 to +44 D**                                                         |
+| Clinical rule                   | **Greater corneal curvature → greater corneal power**                          |
+| Vascularity                     | Avascular except at the peripheral limbal transition zone                      |
 
 The normal cornea is thin enough to remain transparent but strong enough to preserve its curvature. Its transparency depends on the highly ordered arrangement of stromal collagen, controlled hydration of the stroma, an intact epithelium and functioning endothelium.
 
@@ -67,108 +69,27 @@ These are representative layer dimensions rather than additive measurements for 
 
 ---
 
-### 3. Corneal layers — anterior to posterior
+## Corneal Layers (Anterior → Posterior)
 
-Modern anatomical description recognizes **six layers**:
+| Layer | Composition / Thickness | Function | Regeneration | Clinical / Exam Points |
+|---|---|---|---|---|
+| **Epithelium** | Non-keratinized stratified squamous; 5–6 layers | Barrier; tear-film adhesion | Excellent | Abrasion heals without scar |
+| **Bowman’s** | Acellular collagen; 8–12 μm | Structural support | Absent | Injury → scar; PAS-negative |
+| **Stroma** | Type I collagen, keratocytes, keratan sulfate; ~90% thickness | Strength, transparency | Scar formation | Edema → haze; scarring → irregular astigmatism |
+| **Dua’s** | Acellular, multidirectional type I collagen; ~10 μm | Biomechanical strength | Uncertain | Deep corneal surgery; distinct-layer status debated |
+| **Descemet’s** | Endothelial basement membrane; 3 μm at birth, 8–12 μm adult | Posterior support | Regenerates | Ends as Schwalbe’s line; Haab’s striae |
+| **Endothelium** | Single hexagonal cell layer; 4–6 μm | Pump–barrier; deturgescence | Minimal in vivo | Failure → edema, haze, bullous keratopathy |
 
-1. Epithelium
-2. Bowman’s layer
-3. Stroma
-4. Dua’s layer (pre-Descemet layer)
-5. Descemet’s membrane
-6. Endothelium
+## Endothelial Cell Density
 
-> **Diagram omitted:** Six-layer corneal schematic.
-*Six-layer schematic showing the epithelium, Bowman’s layer, stroma, Dua’s layer, Descemet’s membrane and endothelium.*
-
-#### 3.1 Epithelium
-
-The corneal epithelium is a **non-keratinized stratified squamous epithelium**.
-
-Its functional organization is important:
-
-- **Superficial cells:** squamous; possess microvilli that help maintain adhesion of the tear film and the smooth optical surface.
-- **Basal cells:** columnar; undergo mitosis and provide epithelial regeneration.
-- The epithelium can therefore recover from superficial injury much more effectively than the deeper corneal layers.
-
-An isolated epithelial abrasion can heal by epithelial regeneration without leaving a stromal scar. Once deeper layers are involved, the risk of permanent opacity rises sharply.
-
-#### 3.2 Bowman’s layer
-
-Bowman’s layer is an **acellular anterior limiting layer** immediately beneath the epithelium. It is often described as a false basement membrane rather than a true cellular basement membrane.
-
-Key features:
-
-- Dense, collagen-rich and acellular.
-- Does **not regenerate** after significant injury.
-- It is not a true cellular basement membrane; it is an acellular anterior limiting layer and is described as PAS-negative in the histologic characterization used for exam purposes.
-- Injury heals by **scar formation**, producing persistent corneal opacity.
-- It forms an important mechanical interface between the epithelium and stroma.
-
-#### 3.3 Stroma
-
-The stroma accounts for most of corneal thickness and is the **thickest corneal layer**.
-
-It consists predominantly of:
-
-- **Type I collagen** as the major structural collagen.
-- Glycosaminoglycans, particularly **keratan sulfate**.
-- Keratocytes within an extracellular matrix.
-
-The collagen is arranged into **lamellae with highly ordered orientation**. This regularity is crucial to transparency. Stromal hydration is tightly controlled because excessive hydration disrupts the normal optical organization of collagen and produces corneal haze/edema.
-
-The stroma does not regenerate in the same way as the epithelium; significant stromal injury heals with fibrosis and can produce irregular astigmatism and permanent loss of optical quality.
-
-#### 3.4 Dua’s layer (pre-Descemet layer)
-
-Dua’s layer is the strong, acellular layer immediately anterior to Descemet’s membrane and posterior to the deepest stromal lamellae.
-
-- Approximately **10 μm** thick in the original anatomical description, with reported values in the roughly **6.5–14 μm** range.
-- Composed predominantly of **type I collagen bundles** arranged in multiple directions.
-- It is regarded as a **very strong biomechanical layer** of the cornea.
-- Its recognition is particularly important in posterior corneal surgery, deep anterior lamellar keratoplasty and conditions involving deep stromal/Descemet interfaces.
-
-#### 3.5 Descemet’s membrane
-
-Descemet’s membrane is the **basement membrane of the corneal endothelium** and is secreted by endothelial cells.
-
-- It lies between Dua’s layer and the endothelium.
-- It is strong and relatively resistant to injury.
-- It can **regenerate**, unlike Bowman’s layer and the stromal lamellae.
-- Peripherally, it terminates as **Schwalbe’s line** at the iridocorneal angle.
-
-Descemet’s membrane is clinically important in **Haab’s striae** of congenital glaucoma and in endothelial keratoplasty.
-
-#### 3.6 Endothelium
-
-The corneal endothelium is a **single cell layer** of predominantly **hexagonal cells** lining the posterior surface of the cornea.
-
-It is the principal regulator of corneal deturgescence.
-
-Its functions are:
-
-- Maintains the cornea in a relatively **dehydrated state**.
-- Uses the **Na⁺/K⁺-ATPase-dependent pump system** and other ion transport mechanisms to move fluid out of the stroma toward the aqueous.
-- Acts as a selective barrier to fluid movement.
-- Preserves **corneal transparency**.
-- Participates in formation and maintenance of Descemet’s membrane.
-
-Corneal endothelial cells have **very limited proliferative capacity in vivo**. With cell loss, surviving cells enlarge (**polymegathism**) and change shape (**pleomorphism/polymorphism**) to cover the remaining endothelial surface. Progressive cell loss eventually results in failure of stromal deturgescence, corneal edema and loss of transparency.
-
-##### Endothelial cell density
-
-| Density / finding | Clinical significance |
-|---|---|
-| Newborn | Approximately **5000–6000 cells/mm²** |
-| Normal adult | Approximately **2400–3000 cells/mm²** |
-| Progressive loss below the adult range | Compensation by enlargement and alteration of cell shape |
-| **<500 cells/mm²** | Critical exam threshold for severe endothelial failure and corneal decompensation |
-| Endothelial failure | Stromal/epithelial edema → hazy cornea; advanced cases may develop bullous keratopathy |
-
-Endothelial cell density and morphology are assessed by **specular microscopy**.
-
----
-
+| Finding            | Value / Significance        |
+| ------------------ | --------------------------- |
+| Newborn            | 5000–6000 cells/mm²         |
+| Adult              | 2400–3000 cells/mm²         |
+| **Polymegathism**  | Variation in cell size      |
+| **Pleomorphism**   | Variation in cell shape     |
+| **<500 cells/mm²** | High risk of decompensation |
+| Investigation      | Specular microscopy         |
 ## 4. Corneal transparency, metabolism and nutrition
 
 Corneal transparency is maintained by the interaction of several structural and physiological factors:
@@ -277,90 +198,222 @@ The relationship is worth remembering as a continuous anatomical sequence:
 
 ## 8. Sclera
 
-The sclera is the **opaque, white posterior 5/6 of the fibrous tunic**. It forms the principal load-bearing wall of the globe, stabilizes its shape and provides attachment for the extraocular musculature.
+The sclera is the **opaque, white posterior 5/6 of the fibrous tunic**. 
 
 ### Scleral architecture
 
-The sclera is collagen-rich connective tissue. Its microscopic organization can be described in concentric layers:
+The sclera is collagen-rich connective tissue. 
+Its microscopic organization can be described in concentric layers:
 
-1. **Episclera** — superficial vascular connective tissue adjacent to the conjunctiva/Tenon’s tissues.
-2. **Scleral stroma proper** — the major dense collagenous layer; collagen bundles are arranged in interlacing and lamellar patterns.
-3. **Lamina fusca** — the deep pigmented transition zone adjoining the choroid/suprachoroidal tissue.
+| Layer                 | Location & Composition          | Features                                               |
+| --------------------- | ------------------------------- | ------------------------------------------------------ |
+| Episclera             | Superficial and Vascular        | Adjacent to conjunctiva and Tenon's tissues            |
+| Scleral Stroma proper | Major layer, Dense Collagen     | Collagen arranged in Interlacing and Lamellar Patterns |
+| Lamina Fusca          | Deep transition zone, Pigmented | Adjoining Choroid/Suprachoroidal Tissue                |
+- The dominant structural collagens are **type I and type III**, with smaller contributions from types V and VI. 
+- **Proteoglycans** and **glycosaminoglycans** occupy the interfibrillar matrix and influence hydration and biomechanical behavior.
 
-The dominant structural collagens are **type I and type III**, with smaller contributions from types V and VI. Proteoglycans and glycosaminoglycans occupy the interfibrillar matrix and influence hydration and biomechanical behavior.
-
-The sclera is essentially **avascular** as a tissue, although it is traversed and supplied by vascular plexuses in the episclera and adjacent tissues. It receives metabolic support from the **choroidal circulation and episcleral/Tenon vascular plexuses**.
+- The sclera is essentially ==**avascular** as a tissue, although it is traversed and supplied by vascular plexuses in the episclera and adjacent tissues==. 
+- It receives metabolic support from the **choroidal circulation and episcleral/Tenon vascular plexuses**.
 
 ### Scleral thickness
 
-Scleral thickness varies substantially by region rather than remaining uniform.
-
-Typical adult measurements are approximately:
-
-| Region | Approximate thickness |
-|---|---:|
-| Corneoscleral limbus | ~0.5 mm |
-| Equator | ~0.4–0.5 mm |
-| Posterior pole / near optic nerve | ~0.9–1.0 mm |
+| Region                              |     Approximate thickness |
+| ----------------------------------- | ------------------------: |
+| Corneoscleral limbus                |                   ~0.5 mm |
+| Equator                             |               ~0.4–0.5 mm |
+| Posterior pole / near optic nerve   |               ~0.9–1.0 mm |
 | Extraocular muscle insertion region | may be as thin as ~0.3 mm |
-
-The sclera becomes thinner in **axially elongated eyes**, particularly posterior to the equator. This is a major anatomical component of pathologic myopia.
+The sclera becomes thinner in **axially elongated eyes**, particularly posterior to the equator.
 
 ### Attachments and relationships
 
 - Tendons of the **extraocular muscles** insert into the scleral coat.
 - Posteriorly, the sclera forms the wall around the **optic nerve head and scleral canal**.
 - The **lamina cribrosa** is incorporated into the posterior scleral canal and transmits retinal ganglion-cell axons into the optic nerve.
-- At the anterior limbus, the sclera contributes to the structural support of the **trabecular outflow apparatus** and the scleral spur.
-- The ciliary muscle has a major mechanical relationship with the scleral spur and therefore with the trabecular meshwork.
+- At the anterior limbus, the sclera contributes to the structural support of the **trabecular outflow apparatus** and the **scleral spur.**
+- The ==ciliary muscle has a major mechanical relationship with the scleral spur and therefore with the trabecular meshwork.==
 
 ### Blood supply
-
 The scleral circulation is derived principally from the ciliary vascular system:
 
-- **Short posterior ciliary arteries:** supply posterior scleral/choroidal regions and adjacent ocular tissues.
-- **Long posterior ciliary arteries:** contribute to the iris and ciliary body and give rise to the **anterior ciliary arterial circulation**.
-- **Anterior ciliary arteries:** contribute substantially to anterior scleral/episcleral, conjunctival and anterior uveal blood supply.
-
-The sclera therefore remains relatively hypovascular despite being closely associated with richly vascularized episcleral and uveal tissues.
+| Ciliary Arteries | Supply                                                |
+| ---------------- | ----------------------------------------------------- |
+| **Short Posterior**  | Posterior Sclera/choroid                              |
+| **Long Posterior**   | Iris and Ciliary Body                                 |
+| **Anterior**         | Anterior Sclera/Episclera, Conjunctiva, anterior Uvea |
+The ==sclera therefore remains relatively hypovascular== despite being closely associated with richly vascularized episcleral and uveal tissues.
 
 ### Innervation
-
-Scleral sensory innervation is carried predominantly by the **ciliary nerves**, especially the long posterior ciliary nerves, with contributions from the short ciliary pathways. These nerves carry sensory and autonomic fibers and enter the globe through the posterior scleral region.
+Scleral sensory innervation is carried predominantly by the **ciliary nerves**, especially the ==long posterior ciliary nerves==, with contributions from the ==short ciliary pathways==. These nerves carry sensory and autonomic fibers and enter the globe through the posterior scleral region.
 
 ---
 
 ### 9. Clinical anatomy of the sclera
-
 #### Episcleritis versus scleritis
 
-| Feature | Episcleritis | Scleritis |
-|---|---|---|
-| Main vascular layer | Superficial episcleral vessels | Deep scleral vessels |
-| Colour | Reddish | Bluish/violaceous |
-| Pain | Mild/minimal | Deep-seated, severe |
-| Phenylephrine | Vessels blanch | Redness persists |
-| Typical association | Often idiopathic | Frequently associated with systemic inflammatory disease, especially rheumatoid arthritis |
+| Feature             | Episcleritis                   | Scleritis                                                                                 |
+| ------------------- | ------------------------------ | ----------------------------------------------------------------------------------------- |
+| Main vascular layer | Superficial episcleral vessels | Deep scleral vessels                                                                      |
+| Colour              | Reddish                        | Bluish/violaceous                                                                         |
+| Pain                | Mild/minimal                   | Deep-seated, severe                                                                       |
+| Phenylephrine       | Vessels blanch                 | Redness persists                                                                          |
+| Typical association | Often idiopathic               | Frequently associated with systemic inflammatory disease, especially rheumatoid arthritis |
+| Self Limiting       | Yes                            | No                                                                                        |
+| Scleral Edema       | no                             | Yes                                                                                       |
 
 **Scleromalacia perforans** is a severe form of anterior necrotizing scleritis that can occur **without obvious redness or pain** and can progress to scleral thinning and perforation. It has a strong association with **rheumatoid arthritis**.
 
+![[Pasted image 20261011153630.jpg|Scleritis]]![[Pasted image 20261011153625.jpg|Nodular Episcleritis]]![[IMG_1252.jpeg|Scleromalacia perforans]]
 > **Diagram omitted:** Scleral inflammatory disease.
 *Clinical appearance of severe scleral inflammation with deep violaceous/gray discoloration.*
 
-#### Scleral thinning and posterior staphyloma
+#### Scleritis — High-Yield Ophthalmology Notes
+
+##### 1. Definition and Key Features
+- **Scleritis:** Severe, usually immune-mediated inflammation of the sclera.
+- **Pain:** Severe, deep, boring; may radiate to forehead, face, or jaw.
+- Pain worsens at night and with eye movements; may wake patient from sleep.
+- Systemic autoimmune disease associated in approximately 30–50% of cases.
+- Complications: Scleral thinning, perforation, and permanent visual loss.
+
+##### 2. Classification
+
+###### A. Anterior Scleritis
+- Inflammation anterior to the insertion of rectus muscles; visible on examination.
+- **Diffuse:** Most common; widespread scleral inflammation.
+- **Nodular:** Localized, tender scleral nodule.
+- **Necrotizing:** Most severe form; with or without inflammation.
+
+###### B. Necrotizing Scleritis
+- **With inflammation:** Severe pain and scleral necrosis.
+- **Without inflammation (scleromalacia perforans):**
+  - Typically painless, progressive scleral thinning.
+  - Classically associated with longstanding rheumatoid arthritis (RA).
+
+###### C. Posterior Scleritis
+- Inflammation posterior to rectus muscle insertions.
+- May occur without visible anterior redness.
+- Features: Deep pain, reduced vision, choroidal folds, exudative retinal detachment, and optic disc edema.
+
+##### 3. Clinical Features
+
+| Feature | Scleritis |
+|---|---|
+| Pain | Severe, deep, boring |
+| Redness | Deep, violaceous / bluish-red |
+| Tenderness | Present |
+| Vessels | Deep episcleral vessels; do not blanch with phenylephrine |
+| Discharge | Usually absent |
+| Vision | May be reduced |
+| Cornea | May develop peripheral ulcerative keratitis (PUK) |
+| Complications | Uveitis, glaucoma, cataract, scleral thinning, retinal detachment |
+
+##### 4. Systemic Associations
+
+| Disease | Important association / clue |
+|---|---|
+| **Rheumatoid arthritis (RA)** | Most common systemic association |
+| Granulomatosis with polyangiitis (GPA) | Sinusitis, hemoptysis, renal disease |
+| SLE | Connective tissue disease |
+| Polyarteritis nodosa (PAN) | Systemic vasculitis |
+| Relapsing polychondritis | Recurrent cartilage inflammation |
+| Herpes zoster | Infectious scleritis |
+| Syphilis / tuberculosis | Infectious causes |
+| Bacterial infection | Consider especially after ocular surgery |
+| Post-surgical | Especially after pterygium surgery; consider infection |
+
+###### Exam Pearls
+- Necrotizing scleritis has a strong association with RA and systemic vasculitis.
+- Always consider infection in atypical or post-surgical cases.
+
+##### 5. Diagnosis and Investigations
+
+###### Clinical Examination
+- **Slit-lamp examination:** Deep, violaceous scleral injection.
+- **Phenylephrine test:** Deep vessels do not blanch.
+- Assess visual acuity, intraocular pressure, cornea, anterior chamber, and fundus.
+
+###### Imaging
+- **B-scan ultrasonography:** Useful in posterior scleritis.
+- **T-sign:** Fluid in Tenon's space surrounding the optic nerve.
+
+###### Laboratory Investigations
+- CBC, ESR, CRP.
+- RF and anti-CCP: Rheumatoid arthritis.
+- ANCA: GPA and associated vasculitis.
+- ANA and other autoimmune tests when indicated.
+- Renal function and urinalysis.
+- Targeted infectious investigations: TB, syphilis, and others as clinically indicated.
+
+##### 6. Treatment
+
+###### A. Mild, Non-Necrotizing Anterior Scleritis
+- Oral NSAIDs may be sufficient in selected patients.
+
+###### B. Severe, Posterior, Necrotizing, or NSAID-Resistant Disease
+- Systemic corticosteroids.
+- IV corticosteroids may be needed in severe, vision-threatening disease.
+
+###### C. Refractory Disease or Systemic Vasculitis
+- Immunosuppressants: Methotrexate, mycophenolate, or cyclophosphamide.
+- Biologics may be required in refractory cases.
+
+###### D. Infectious Scleritis
+- Targeted antimicrobial therapy.
+- Exclude infection before starting immunosuppression.
+
+###### Important Treatment Pearls
+- Topical steroids alone are generally inadequate for controlling underlying inflammation.
+- Requires ophthalmologist-supervised treatment because vision may be threatened.
+- Necrotizing scleritis may require urgent systemic treatment.
+
+##### 7. Scleritis vs Episcleritis
+
+| Feature | Scleritis | Episcleritis |
+|---|---|---|
+| Pain | Severe, boring | Mild discomfort |
+| Colour | Deep, violaceous | Bright red |
+| Tenderness | Marked | Minimal |
+| Phenylephrine | Deep vessels do not blanch | Superficial vessels blanch |
+| Vision | May decrease | Usually normal |
+| Systemic association | Stronger | Less common |
+| Complications | Scleral thinning, visual loss | Usually benign |
+| Treatment | Often systemic NSAIDs / steroids | Lubricants; NSAIDs if needed |
+
+##### 8. Rapid Revision — NEET PG / INI-CET
+
+###### Must-Know Facts
+- **Most common type:** Diffuse anterior scleritis.
+- **Most severe type:** Necrotizing scleritis with inflammation.
+- **Painless scleral thinning + RA:** Scleromalacia perforans.
+- **Posterior scleritis:** B-scan T-sign.
+- **Deep pain radiating to jaw, worse at night:** Suggests scleritis.
+- **Necrotizing scleritis:** Investigate for systemic vasculitis and infection.
+- **Painful red eye with reduced vision:** Requires urgent ophthalmology assessment.
+
+##### References
+- American Academy of Ophthalmology (AAO) EyeWiki.
+- Merck Manual Professional Edition.
+#### Scleral thinning and **==posterior staphyloma==**
 
 In **pathological myopia**, progressive axial elongation stretches the fibrous coat:
 
 **Globe elongation → scleral thinning → posterior outpouching (posterior staphyloma).**
 
 Associated posterior segment changes include:
+- **Temporal myopic crescent** from peripapillary atrophy.
+- **Tigroid/tessellated fundus** from chorioretinal stretching and atrophy.
+- **Lacquer cracks** from breaks in **Bruch’s membrane**.
+- **Choroidal neovascularization** through lacquer cracks.
+- **Fuchs/Foster-Fuchs spot** at the fovea.
+- Increased risk of peripheral retinal holes and **rhegmatogenous retinal detachment**.
 
-- Temporal myopic crescent from peripapillary atrophy.
-- Tigroid/tessellated fundus from chorioretinal stretching and atrophy.
-- Lacquer cracks from breaks in Bruch’s membrane.
-- Choroidal neovascularization through lacquer cracks.
-- Fuchs/Foster-Fuchs spot at the fovea.
-- Increased risk of peripheral retinal holes and rhegmatogenous retinal detachment.
+![[Pasted image 20261008152514.jpg|Temporal Myopic Crescent]]![[Pasted image 20261008152523.jpg]]![[Pasted image 20261008152517.jpg|Lacquer Cracks]]
+
+>***Features of Scleral Thinning***
+>1. Myopic Crescent: In 1st and 3rd figure look at optic disc. Just at left side of optic disc, their is a crescent moon like structure which is paler than the optic disc and surrounding retina.
+>2. Tigroid Streaks can be easily appreciated in peripheral retina in the 1st figure.
 
 The fibrous coat itself is therefore a major determinant of globe shape and axial biomechanics.
 
@@ -379,71 +432,56 @@ The cornea is closely related to the aqueous drainage apparatus, and several cli
 Raised intraocular pressure in the developing eye can stretch the globe and cornea. Important corneal findings include:
 
 - **Corneal edema/haze:** an important early sign.
-- **Haab’s striae:** characteristic **horizontal breaks/tears in Descemet’s membrane** produced by stretching.
-- Progressive enlargement of the globe produces **buphthalmos** and corneal enlargement.
+- ==**Haab’s striae:**== characteristic **horizontal breaks/tears in Descemet’s membrane** produced by stretching.
+- Progressive enlargement of the globe produces ==**buphthalmos** and corneal enlargement.==
 
+![[Pasted image 20261008154149.jpg]] ***Buphthalmos***
+
+![[Pasted image 20261008153405.jpg]]![[Pasted image 20261008153407.jpg]]
+>**Haab's Striae**
 The corneal changes reflect the mechanical relationship between intraocular pressure, Descemet’s membrane, sclera and the growing ocular coat.
+
 
 ##### Keratic precipitates
 
 Keratic precipitates are aggregates of inflammatory cells and proteins deposited on the **corneal endothelium**, usually most evident inferiorly.
 
 - **Mutton-fat keratic precipitates:** classically associated with granulomatous uveitis.
-- **Fuchs heterochromic uveitis:** typically produces fine stellate, often **diffuse/pan-corneal keratic precipitates**, with little or no posterior synechiae.
+- **==Fuchs heterochromic uveitis==:** typically produces fine stellate, often **diffuse/pan-corneal keratic precipitates**, with little or no posterior synechiae.
 
 ---
 
 #### 11. Corneal investigations and anatomical measurements
-
 ##### Pachymetry
-
 **Pachymetry** measures corneal thickness.
-
 - Normal central thickness: approximately **540 μm**.
 - Published exam range: approximately **0.5–0.6 mm**.
 - Thickness is clinically important when interpreting intraocular pressure measurements and assessing ectatic or edematous corneas.
-
 ##### Keratometry
-
 **Keratometry** measures corneal curvature and is especially useful for assessing the anterior corneal curvature and astigmatic meridians.
-
 - Corneal curvature is directly related to corneal refractive power.
 - In astigmatism, the principal meridians have unequal curvature.
 - **Keratoconus:** curvature becomes steeper while pachymetry shows thinning.
-
 ##### Keratoscopy / Placido disc
-
 Placido-disc examination evaluates corneal surface regularity by observing reflected rings.
-
 ##### Corneal topography
-
 Topography provides a more comprehensive map of **corneal curvature and surface shape**, and modern systems can combine curvature with thickness data. It is the key investigation for **keratoconus**.
-
 ##### Specular microscopy
-
 Specular microscopy evaluates the corneal endothelium, providing:
-
 - Cell density
 - Cell size variation
 - Cell-shape variation
 - Hexagonality
-
 It is useful when judging the endothelial reserve of a diseased or donor cornea.
-
----
-
 ##### 12. Corneal staining
-
 | Dye | What it highlights | Important use |
 |---|---|---|
 | **Fluorescein** | Loss of epithelial continuity | Corneal abrasion/ulcer base; Seidel test; Goldmann applanation; tear-film breakup assessment |
 | **Rose Bengal** | Devitalized/necrotic epithelium and surface tissue | Ocular-surface disease; ulcer margins; less comfortable because it may sting |
 | **Lissamine green** | Damaged/dead surface cells on conjunctiva and cornea | Dry-eye assessment; better tolerated than Rose Bengal |
-
 Fluorescein is applied as an **orange dye** and appears **green under cobalt-blue illumination** where epithelial defects permit dye accumulation.
 
-###### Seidel test
-
+###### ==Seidel test==
 A positive **Seidel test** demonstrates leakage of aqueous through a corneal or surgical wound: fluorescein becomes diluted and streams away from the leak.
 
 ---
@@ -458,99 +496,96 @@ Corneal opacity becomes progressively denser as deeper and larger portions of th
 | **Nebula** | Very superficial, classically **<1/3 thickness** | Iris details remain visible; can produce glare, discomfort and irregular astigmatism |
 | **Macula** | Intermediate, approximately **1/3–2/3 thickness** | Iris details become indistinct or partly obscured |
 | **Leucoma** | Dense, deep opacity, classically **>2/3/full-thickness** | Iris/pupil details cannot be seen; greatest direct loss of transparency and vision |
+>Mnemonic: LMN → L= L\*\*\*e Lag gaye; M= Madhyam; N = nahi lage/Na ke barabar lage
 
 A dense stromal scar is especially damaging when it involves the visual axis. Scar tissue can also induce **irregular astigmatism** even when some light continues to pass through.
 
 ---
 
 ## 14. Corneal ulcers and keratitis
+A **corneal ulcer** represents 
+- epithelial loss associated 
+- with inflammatory infiltration 
+- and necrosis of the underlying tissue. 
 
-A **corneal ulcer** represents epithelial loss associated with inflammatory infiltration and necrosis of the underlying tissue. Because the cornea is highly innervated and structurally thin, progression can be rapid and perforation can threaten the integrity of the globe.
+Because the cornea is highly innervated and structurally thin, progression can be rapid and perforation can threaten the integrity of the globe.
 
 ### Bacterial versus fungal ulcer
 
-| Feature | Bacterial ulcer | Fungal ulcer |
-|---|---|---|
-| Typical morphology | Solitary ulcer | Main ulcer with **satellite lesions** |
-| Margin | Usually well-defined | **Feathery** |
-| Hypopyon | Often mobile and sterile | Often **immobile and unsterile** |
-| Common association | Contact lenses/trauma | Vegetative trauma |
-| Common organism highlighted in the notes | **Pseudomonas** in contact-lens-associated disease; **Pneumococcus** is an important cause in India | **Aspergillus** |
-| Clinical course | Can perforate and produce anterior staphyloma | Hyphae may support the tissue architecture despite marked stromal destruction |
+| Feature                                  | Bacterial ulcer                                                                                     | Fungal ulcer                                                                  |
+| ---------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Typical morphology                       | Solitary ulcer                                                                                      | Main ulcer with **satellite lesions**                                         |
+| Margin                                   | Usually well-defined                                                                                | **Feathery**                                                                  |
+| Hypopyon                                 | Often mobile and ==sterile==                                                                        | Often **immobile and unsterile** → because of Hyphae                          |
+| Common association                       | Contact lenses/trauma                                                                               | Vegetative trauma                                                             |
+| Common organism highlighted in the notes | **Pseudomonas** in contact-lens-associated disease; **Pneumococcus** is an important cause in India | **Aspergillus**                                                               |
+| Clinical course                          | Can perforate and produce anterior staphyloma                                                       | Hyphae may support the tissue architecture despite marked stromal destruction |
+|                                          | ![[Pasted image 20261008160053.jpg]]                                                                | ![[Pasted image 20261008160123.jpg]]                                          |
 
 ### Bacterial ulcer — key anatomy and management principles
-
 - Obtain material by **scraping the ulcer base**.
 - Send for **Gram stain and culture**.
 - Start appropriate fortified topical antibiotics.
 - **Atropine/cycloplegia** can reduce pain from ciliary spasm.
 - Corticosteroids should not be started before appropriate infection assessment and antimicrobial treatment.
+- Important organisms able to penetrate an apparently intact corneal epithelium include:
+	- *Neisseria gonorrhoeae*
+	- *Neisseria meningitidis*
+	- *Haemophilus* species
+	- *Listeria*
+	- *Corynebacterium diphtheriae*
+	- *Shigella*
 
-Important organisms able to penetrate an apparently intact corneal epithelium include:
-
-- *Neisseria gonorrhoeae*
-- *Neisseria meningitidis*
-- *Haemophilus* species
-- *Listeria*
-- *Corynebacterium diphtheriae*
-- *Shigella*
-
-**Nocardia** may produce a characteristic **wreath/pin-head pattern** ulcer, particularly after traumatic inoculation.
+**Pneumococcus** Hypopyon corneal ulcer OR Serpeginous Ulcer
+**Nocardia** may produce a characteristic **wreath/pin-head pattern** ulcer, <u>particularly after traumatic inoculation.</u>
 
 Severe corneal stromal destruction can produce a sloughing **pseudocornea**; perforation may be followed by tissue prolapse, iris adherence to the corneal scar and **anterior staphyloma**.
 
 ### Fungal corneal ulcer
-
 Typical features:
-
 - History of **vegetative/plant trauma**
 - Dry-looking ulcer
 - **Feathery margins**
 - **Satellite lesions**
 - **Wessely immune ring**
 - Thick, relatively immobile, often unsterile hypopyon
-
 A commonly emphasized treatment is **5% natamycin** for filamentous fungal keratitis.
-
 ### Herpetic keratitis
-
 **Herpes simplex virus** classically causes:
-
 - Superficial punctate lesions progressing to a **dendritic ulcer**.
 - Further untreated progression can produce a **geographic ulcer**.
-- Corneal sensation is typically reduced.
+- <u>Corneal sensation is typically reduced.</u>
 - **Topical corticosteroids are contraindicated in active epithelial herpetic keratitis** because they can worsen epithelial viral disease.
+	- Steroids can be needed if it is spreading and has caused **Discoid Ulcer** already
 
 Other herpetic corneal syndromes include:
-
 - **Necrotizing stromal keratitis**
 - **Disciform keratitis / endotheliitis**
 - **Metaherpetic or neurotrophic keratitis** from trigeminal dysfunction → corneal anesthesia → persistent epithelial defect/ulcer
 
-**Herpes zoster ophthalmicus** may involve the cornea and other ocular tissues. **Hutchinson’s sign**—vesicular disease at the tip of the nose—signals a higher risk of ocular involvement.
+**Herpes zoster ophthalmicus** may involve the cornea and other ocular tissues. 
+- ==**Hutchinson’s sign**==—vesicular disease at the tip of the nose—signals a higher risk of ocular involvement.
+
+![[Pasted image 20261008160932.jpg]]Dendritic Ulcer at bottom and Geographic Ulcer at top right
 
 ### Neuroparalytic/exposure keratitis
 
 Facial nerve (CN VII) palsy can reduce orbicularis oculi function, impair blinking and produce **lagophthalmos**. The resulting exposure can cause **exposure keratitis** and a neuroparalytic ulcer pattern. This mechanism is distinct from the trigeminal sensory deficit of neurotrophic keratitis.
 
 ### Acanthamoeba keratitis
-
 Strongly associated with:
-
 - **Contact-lens wear**
 - Exposure to **contaminated/dirty water**, including swimming or cleaning lenses with tap water
 
 Typical findings:
-
 - **Severe pain out of proportion to the visible lesion**
 - **Radial keratoneuritis**
 - **Ring infiltrate/abscess**
 - Pseudodendritic epithelial lesions
 
-Culture is performed on **non-nutrient agar enriched with *E. coli***.
+Culture is performed on **non-nutrient agar enriched with *E. coli*** and **Calcofluor White**
 
 Commonly emphasized treatment agents include:
-
 - **Polyhexamethylene biguanide (PHMB)**
 - **Chlorhexidine**
 - **Propamidine** in appropriate settings
@@ -558,11 +593,9 @@ Commonly emphasized treatment agents include:
 ---
 
 ## 15. Interstitial keratitis and other stromal inflammatory disease
-
 **Interstitial keratitis** involves the **corneal stroma** with relative sparing of the epithelium and endothelium early in the process.
 
 Important associations in the study material include:
-
 - Syphilis
 - Tuberculosis
 - Leprosy
@@ -572,25 +605,45 @@ Important associations in the study material include:
 
 A **salmon patch** refers to stromal hemorrhage and is described in association with syphilitic interstitial keratitis.
 
----
 
 ## 16. Keratoconus
+| Feature | Anterior staphyloma | Keratoconus |
+|---|---|---|
+| Definition | Forward bulging of uveal tissue through a weakened cornea | Progressive, non-inflammatory corneal thinning and conical protrusion |
+| Cornea | Opaque, scarred and thinned | Clear, thinned and conical |
+| Underlying tissue | Uveal tissue (iris/ciliary body) forms the lining of protrusion | No uveal tissue protrusion |
+| Etiology | Usually follows severe corneal ulceration, perforation or trauma | Multifactorial; genetic predisposition and eye rubbing associated |
+| Inflammation | Often follows previous severe inflammation | Non-inflammatory ectasia |
+| Visual acuity | Usually severely impaired | Variable; reduced by irregular astigmatism |
+| Refractive error | Variable | Progressive myopia and irregular astigmatism |
+| Typical signs | Blackish/bluish bulge beneath opaque cornea | Conical cornea, Fleischer ring, Vogt striae |
+| Management | Depends on extent; may require keratoplasty or other surgery | Glasses/contact lenses initially; corneal cross-linking to halt progression |
+
+**Exam pearl:**
+- **Anterior staphyloma:** Corneal damage + uveal tissue underneath → opaque bulge.
+- **Keratoconus:** Thinned cornea + conical shape → irregular astigmatism.
+
 
 Keratoconus is an **ectatic disorder of the cornea** in which a normally more regular corneal contour becomes increasingly **conical**, producing irregular refractive power.
 
+![[Pasted image 20261008121931.jpg]]Keratoconus
 ### Structural consequences
 
-**Corneal thinning + anterior protrusion → increased/irregular curvature → irregular myopic astigmatism → progressive reduction in visual quality.**
+**Corneal thinning + anterior protrusion → increased/irregular curvature → ==irregular myopic astigmatism== → progressive reduction in visual quality.**
 
 ### Investigations
 
-- **Topography:** investigation of choice; maps curvature and surface shape and can assess associated thickness abnormalities.
+- **==Topography==:** investigation of choice; maps curvature and surface shape and can assess associated thickness abnormalities.
 - **Keratometry:** increased/steeper curvature.
 - **Pachymetry:** decreased thickness, particularly in the ectatic region.
 - Retinoscopy may show a **scissoring/yawning reflex**.
 - Direct ophthalmoscopy may show an **oil-droplet reflex**.
 
 ### Signs
+![[Pasted image 20261008121939.jpg|Vogt's Striae]]![[Pasted image 20261008121946.jpg|Munson Sign]]
+
+![[Pasted image 20261008122003.jpg|Fleischer's Sign]]![[Pasted image 20261008122007.jpg|Oil Droplet Reflex]]
+>Corneal ectasia with representative keratoconus signs, including Munson’s sign and Fleischer’s ring.*
 
 - **Vogt’s striae:** vertical stress lines produced by corneal stretching.
 - **Munson’s sign:** V-shaped deformation of the lower lid on downgaze.
@@ -598,8 +651,6 @@ Keratoconus is an **ectatic disorder of the cornea** in which a normally more re
 - **Fleischer’s ring:** iron deposition near the base of the cone, predominantly associated with the epithelial region.
 - Prominent corneal nerves can become visible because of stromal thinning.
 
-> **Diagram omitted:** Keratoconus and characteristic clinical signs.
-*Corneal ectasia with representative keratoconus signs, including Munson’s sign and Fleischer’s ring.*
 
 ### Management anatomy
 
@@ -608,12 +659,15 @@ Keratoconus is an **ectatic disorder of the cornea** in which a normally more re
 - **Intracorneal ring segments (INTACS):** PMMA segments placed within the stroma can flatten the cornea.
 - **Keratoplasty:** used for advanced disease when contact lenses and/or stabilization are insufficient.
 ![[Pasted image 20261008112846.png]]![[Pasted image 20261008112917.jpg]]
+
 *Corneal collagen Cross linking*
 
 ![Intracorneal ring segments](images/E8_26.jpg)
 *Intracorneal ring segments used to modify corneal shape in ectatic disease.*
 
-![[Pasted image 20261008113117.jpg]]![[Pasted image 20261008113343.jpg|Penetrating Keratoplasty Post Op Sututes]]![[Pasted image 20261008113348.jpg|DALK keratoplasty]]
+![[Pasted image 20261008113117.jpg]]![[Pasted image 20261008113343.jpg|Penetrating Keratoplasty Post Op Sututes]]
+
+![[Pasted image 20261008113348.jpg|DALK keratoplasty]]
 *Keratoplasty*
 
 ## 17. Corneal degenerations
@@ -632,7 +686,7 @@ Arcus senilis is a **peripheral corneal degeneration caused by lipid deposition*
 This is a **horizontal band of calcium deposition** in the exposed interpalpebral cornea.
 
 - Usually most prominent in the **subepithelial/Bowman region** and may extend into the anterior stroma.
-- Can be idiopathic or associated with chronic ocular inflammation, phthisis bulbi and systemic calcium disorders.
+- ==Can be idiopathic or associated with chronic ocular inflammation, phthisis bulbi and systemic calcium disorders.==
 - Important associations include chronic uveitis in children, juvenile rheumatoid arthritis, hypercalcemia and sarcoidosis.
 - **EDTA chelation** is used to remove the calcium clinically.
 
@@ -728,6 +782,12 @@ Fuchs dystrophy is a major endothelial disorder characterized by
 - progressive endothelial cell dysfunction and 
 - **cornea guttata**.
 
+
+
+![[Pasted image 20261008123447.jpg]]
+![[Pasted image 20261008123447 1.jpg]]
+
+
 ```text
 Endothelial cell dysfunction / loss
                 ↓
@@ -748,18 +808,23 @@ Endothelial cell dysfunction / loss
 * Wart-like excrescences
 * Irregularities on the posterior corneal surface
 * Associated with abnormalities of Descemet’s membrane/endothelium
+
+![[Pasted image 20261008123708.jpg]]
+![[Pasted image 20261008123708 1.jpg]]
+
+>Bullous Keratopathy and Corneal Guttata
 ## 19. Corneal transplantation and surgical anatomy
 
 The cornea is commonly transplanted from a **cadaveric donor**. Corneal tissue can be retrieved soon after death and preserved before transplantation.
 
 ### Important graft principles
 
-- Donor tissue is selected for adequate endothelial quality because endothelial failure is a major cause of graft dysfunction.
+- Donor tissue is selected for adequate ==endothelial quality== because endothelial failure is a major cause of graft dysfunction.
 - **Human leukocyte antigen matching is not required.**
 - **ABO blood-group matching is not required.**
-- **10-0 monofilament nylon** is used for penetrating keratoplasty suturing.
+- **10-0 monofilament nylon** is used for ==penetrating keratoplasty suturing==.
 - A common major postoperative issue is **astigmatism**, related to graft geometry and the tension/placement of multiple sutures.
-- Donor graft diameter is commonly around **7.5 mm** in the surgical material.
+- Donor ==graft diameter is commonly around **7.5 mm**== in the surgical material.
 - Adequate donor endothelial density is important; a threshold of roughly **1500–2000 cells/mm² or higher** is commonly used for donor assessment depending on indication and preservation conditions.
 - The **cornea is the most commonly transplanted human tissue/organ** in routine transplantation practice.
 
@@ -785,17 +850,15 @@ A donor cornea is ideally harvested promptly after death; a commonly quoted prac
 
 ### Types of keratoplasty
 
-| Procedure | Tissue transplanted | Main anatomical concept |
-|---|---|---|
-| **Penetrating keratoplasty (PK)** | Full-thickness cornea | Entire corneal thickness is replaced |
-| **DALK** | Anterior cornea | Host endothelium is retained; reduces endothelial-rejection risk |
-| **DSEK / DSAEK** | Endothelium + posterior stroma | Posterior lamellar endothelial graft with a small amount of stroma |
-| **DMEK** | Descemet’s membrane + endothelium | Very thin posterior graft; no stromal graft is transferred |
+| Procedure                                                                | Tissue transplanted                                   | Main anatomical concept                                            |
+| ------------------------------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------------------------ |
+| **Penetrating keratoplasty (PK)**                                        | Full-thickness cornea                                 | Entire corneal thickness is replaced                               |
+| **DALK** (Deep Anterior Lamellar)                                        | Anterior cornea                                       | Host endothelium is retained; reduces endothelial-rejection risk   |
+| **DSEK / DSAEK** (Descemet Stripping Automated Endothelial Keratoplasty) | Endothelium + Descement's membrane + posterior stroma | Posterior lamellar endothelial graft with a small amount of stroma |
+| **DMEK** (Descemet Membrane Endothelial Keratoplasty)                    | Descemet’s membrane + endothelium                     | Very thin posterior graft; no stromal graft is transferred         |
 
-Earlier lamellar terminology also includes superficial anterior lamellar keratoplasty and deep endothelial/lamellar techniques.
+Earlier lamellar terminology also includes superficial anterior lamellar keratoplasty and deep endothelial/lamellar techniques.![[Pasted image 20261008162046.jpg]]
 
-> **Diagram omitted:** Keratoplasty tissue planes.
-*Comparison of penetrating and lamellar corneal graft planes.*
 
 ### Corneal surgical entry points
 
@@ -816,7 +879,8 @@ This reflects the different mechanical properties of the corneal and scleral par
 Chronic trachomatous disease can damage the cornea through **pannus, recurrent inflammation and scarring**. Important limbal findings include **Herbert’s pits**, which represent healed limbal follicles. The major long-term visual threat is corneal scarring and vascularization.
 
 ## Vernal keratoconjunctivitis with corneal involvement
-
+==Type 1 Hypersensitivity==
+Exogenous allergy
 Severe vernal disease may produce a **sterile shield ulcer** of the cornea. The limbal manifestation is the **Horner–Trantas spot**, an eosinophilic collection at the limbus; upper-limbal gelatinous thickening may also occur.
 
 ## Corneal chemical injury

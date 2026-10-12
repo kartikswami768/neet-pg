@@ -204,7 +204,7 @@ Shine a torch from the temporal side:
 
 > **Diagram omitted:** Tonometry instruments.
 *Figure 5. Tonometry examples used for IOP assessment.*
-
+0
 ### Perkins tonometer
 - Hand-held applanation tonometer.
 - Useful in children, operating theatres and anaesthetized patients, including patients who cannot be positioned at a slit lamp.
@@ -576,7 +576,7 @@ Management:
 
 ## 13.5 Malignant glaucoma / ciliary block glaucoma
 
-Also called **ciliary block glaucoma**.
+Also called **ciliary block glaucoma** or **Inverse Glaucoma**
 
 Mechanism:
 - Usually follows **intraocular surgery**.
@@ -591,7 +591,7 @@ Management described:
 - If this fails, **pars plana vitrectomy** is performed.
 
 ## 13.6 Posner-Schlossman syndrome (glaucomatocyclitic crisis)
-
+- Unilateral ↑ IOP males of middle age due to Trabeculitis
 - Mild anterior uveitis with attacks of raised IOP.
 - The glaucoma component predominates.
 - Gonioscopy shows an **open angle**.

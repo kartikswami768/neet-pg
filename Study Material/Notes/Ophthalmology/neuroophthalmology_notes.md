@@ -457,24 +457,76 @@ AION is an ischemic infarction of the optic nerve head and is divided into:
 The major cause emphasized is **giant cell arteritis (GCA)**.
 
 Typical pattern:
-
-- sudden, severe visual loss
-- optic-disc edema that may be pale/chalky
-- altitudinal field defect is common
-- RAPD when unilateral/asymmetric
+- **sudden, severe** visual loss
+- optic-disc ==edema== that may be ==pale/chalky==
+- **altitudinal field** defect is common → usually caused due to vascular/ischemic defects including glaucoma which occur at retina levels
+- **RAPD** when unilateral/asymmetric
 - can be accompanied by transient visual loss (amaurosis)
 
 AAION is a visual emergency because the fellow eye can become involved.
 
 When GCA is suspected, immediate corticosteroid treatment is required; laboratory and vascular evaluation is performed urgently.
 
-### NAION
+#### Identifying Features
+1. Scalp tenderness
+2. Jaw claudication → Ischemia to Messeter (TIA)
 
+#### Giant Cell Arteritis (GCA) — High-Yield Summary
+
+###### 1. Pathology → Disease Mechanism
+- Immune-mediated granulomatous vasculitis of medium- and large-sized arteries, typically in patients aged >50 years.
+- Dendritic cell activation → CD4+ T cells → macrophages and multinucleated giant cells.
+- Transmural inflammation → intimal hyperplasia and fragmentation of internal elastic lamina → luminal narrowing → ischemia.
+
+###### 2. Clinical Presentation
+
+| System | Features |
+|---|---|
+| Constitutional | Fever, fatigue, weight loss |
+| Cranial | New temporal headache, scalp tenderness, tender/thickened temporal artery |
+| Jaw | Jaw claudication while chewing |
+| Ocular | Amaurosis fugax, diplopia, sudden painless visual loss |
+| Musculoskeletal | Polymyalgia rheumatica (PMR): shoulder and hip-girdle pain with morning stiffness |
+| Large vessels | Limb claudication, reduced pulses, aortic aneurysm |
+
+###### 3. Ocular Pathology
+- Inflammation of posterior ciliary arteries → ischemia of the optic nerve head → **arteritic anterior ischemic optic neuropathy (AAION)**.
+- Fundoscopy: pallid optic disc edema.
+- Visual field: often an altitudinal defect.
+- Visual loss is frequently irreversible; the fellow eye is at risk without prompt treatment.
+
+###### 4. Investigations
+
+| Investigation | Finding / Role |
+|---|---|
+| ESR, CRP | Usually elevated |
+| CBC | Normocytic anemia, thrombocytosis |
+| Temporal artery biopsy | Granulomatous inflammation, giant cells, fragmented internal elastic lamina |
+| Temporal artery ultrasound | Halo sign |
+| CTA/MRA/PET | Large-vessel involvement |
+
+**Investigation of choice for confirmation (classic exam answer): Temporal artery biopsy.**
+
+- Obtain a sufficiently long arterial segment because involvement is patchy.
+- A negative biopsy does not completely exclude GCA.
+- Ultrasound is an important first-line diagnostic test where experienced operators are available.
+
+###### 5. Treatment
+- **Without visual ischemia:** Oral prednisolone, typically 40–60 mg/day.
+- **Threatened or established acute visual loss:** Emergency specialist management; consider IV methylprednisolone 500–1,000 mg/day for 3 days, followed by oral glucocorticoids.
+- Do not delay treatment for biopsy or imaging.
+- Taper glucocorticoids gradually; consider **tocilizumab** as a steroid-sparing agent.
+
+###### NEET PG Pearl
+Age >50 + new headache + jaw claudication + sudden visual loss = suspect GCA.
+Start glucocorticoids immediately and arrange urgent confirmation to prevent blindness in the other eye.
+### NAION
+Caused due to metabolic and cardiovascular diseases (DM, HTN, atherosclerosis)
 Typical pattern:
 
 - sudden, usually painless visual loss
 - often noticed on awakening or in the early morning
-- altitudinal field defect is strongly associated
+- **altitudinal field** defect is strongly associated
 - RAPD if unilateral/asymmetric
 - reduced color saturation and brightness perception
 - blurred/swollen optic disc

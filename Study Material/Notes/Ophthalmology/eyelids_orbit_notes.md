@@ -297,12 +297,12 @@ Lid retraction is a prominent feature of **thyroid eye disease** and widens the 
 ![Orbital walls](images/HYP_224.jpg)
 #### Walls
 
-| Wall | Key point |
-|---|---|
-| **Medial wall** | Thinnest; lamina papyracea of the ethmoid is the classic thin component |
-| **Lateral wall** | Thickest |
-| **Floor** | Shortest and weakest; classically involved in blowout fracture |
-| **Roof** | Formed by the superior wall of the orbit; contributes to the orbital apex relationships |
+| Wall             | Key point                                                                               |
+| ---------------- | --------------------------------------------------------------------------------------- |
+| **Medial wall**  | Thinnest; lamina papyracea of the ethmoid is the classic thin component                 |
+| **Lateral wall** | Thickest                                                                                |
+| **Floor**        | Shortest and weakest; classically involved in blowout fracture                          |
+| **Roof**         | Formed by the superior wall of the orbit; contributes to the orbital apex relationships |
 
 The **posteromedial part of the orbital floor** is specifically identified as its weakest portion.
 
@@ -377,7 +377,7 @@ Key orbital nerve relationships include:
 ### 13. Orbital Septum, Preseptal and Postseptal Spaces
 
 The orbital septum runs from the orbital rim/bone to the tarsal plate and separates:
-
+![[IMG_1257.png]]![[IMG_1260.jpeg]]
 - **Preseptal space:** infection → preseptal cellulitis.
 - **Postseptal space:** infection → orbital cellulitis.
 
@@ -397,11 +397,11 @@ The lacrimal system and related operations are important orbital relationships:
 
 ##### Congenital nasolacrimal duct obstruction
 
-| Age / stage | Management |
-|---|---|
-| **1–6 months** | **Crigler massage**, using hydrostatic pressure to push secretions down the nasolacrimal duct and open the valve of Hasner |
-| **>9 months** | Probing |
-| **>18–21 months when probing fails** | Surgery; delayed surgery beyond 4 years is described as giving a larger skull and more operating space |
+| Age / stage                          | Management                                                                                                                 |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| **1–6 months**                       | **Crigler massage**, using hydrostatic pressure to push secretions down the nasolacrimal duct and open the valve of Hasner |
+| **>9 months**                        | Probing                                                                                                                    |
+| **>18–21 months when probing fails** | Surgery; delayed surgery beyond 4 years is described as giving a larger skull and more operating space                     |
 
 Watering during the **first month of life** is described as pathological and attributed to **ophthalmia neonatorum**, rather than congenital nasolacrimal duct obstruction.
 

@@ -40,13 +40,39 @@ The principal fundus landmarks are:
 
 The dimensions emphasized in the study material are:
 
-| Structure | Approximate dimension |
-|---|---:|
-| Macula | **5.5 mm** diameter |
-| Fovea | **1.5 mm** diameter |
-| Foveola | **350 µm** |
-| Umbo | **150 µm**; centre of the fovea |
-| Foveal avascular zone | **~500 µm** |
+| Structure                                                   |           Approximate dimension |
+| ----------------------------------------------------------- | ------------------------------: |
+| Macula                                                      |             **5.5 mm** diameter |
+| Fovea and optic Disc                                        |             **1.5 mm** diameter |
+| Foveola                                                     |                      **350 µm** |
+| Umbo                                                        | **150 µm**; centre of the fovea |
+| Foveal avascular zone                                       |                     **~500 µm** |
+| Distance between boundary of optic disc and center of fovea |                            3 mm |
+#### Retinal Layers: Macula vs Fovea vs Foveola
+
+| Feature                          | Macula                                     | Fovea                                              | Foveola                                |
+| -------------------------------- | ------------------------------------------ | -------------------------------------------------- | -------------------------------------- |
+| Retinal layers                   | All 10 layers present                      | Inner retinal layers displaced laterally           | Innermost retinal layers absent        |
+| Internal limiting membrane (ILM) | Present                                    | Present                                            | Present                                |
+| Nerve fiber layer (NFL)          | Present                                    | Displaced laterally                                | Absent centrally                       |
+| Ganglion cell layer (GCL)        | Present                                    | Displaced laterally                                | Absent centrally                       |
+| Inner plexiform layer (IPL)      | Present                                    | Displaced laterally                                | Absent centrally                       |
+| Inner nuclear layer (INL)        | Present                                    | Displaced laterally                                | Absent centrally                       |
+| Outer plexiform layer (OPL)      | Present                                    | Present (Henle's fiber layer)                      | Present (Henle's fiber layer)          |
+| Outer nuclear layer (ONL)        | Present                                    | Thickened                                          | Very thick; densely packed cone nuclei |
+| External limiting membrane (ELM) | Present                                    | Present                                            | Present                                |
+| Photoreceptor layer              | Rods and cones                             | Cone-rich                                          | Predominantly cones                    |
+| Retinal pigment epithelium (RPE) | Present                                    | Present                                            | Present                                |
+| Rods                             | Present                                    | Present, decreasing centrally                      | Absent at the very center              |
+| Cones                            | Present                                    | Highly concentrated                                | Maximum density                        |
+| Special feature                  | Central retinal region for detailed vision | Central depression; inner retinal layers displaced | Center of fovea; highest visual acuity |
+
+
+- Macula: All 10 retinal layers are present.
+- Fovea: Inner retinal layers are displaced laterally.
+- Foveola: Inner retinal layers are absent centrally; cones predominate.
+- Henle's fiber layer = obliquely oriented photoreceptor axons within the OPL.
+- Foveal avascular zone (FAZ): Capillary-free region around the foveal center.
 
 The **fovea** contains the maximum concentration of cones, represents the centre of the visual field, and provides the best image quality. Foveal fixation develops at approximately **3–4 months of age**.
 
@@ -76,9 +102,9 @@ The retina is arranged as **10 layers**, conventionally described from **inside 
 |   1 | Internal limiting membrane (ILM) | Innermost retinal surface; adjacent to vitreous                                                                    |
 |   2 | Nerve fibre layer (NFL)          | Ganglion-cell axons; fibres converge to form optic nerve                                                           |
 |   3 | Ganglion cell layer (GCL)        | Ganglion cells; third-order neurons                                                                                |
-|   4 | Inner plexiform layer (IPL)      | Synaptic interactions involving ganglion cells, amacrine cells and bipolar cells                                   |
-|   5 | Inner nuclear layer (INL)        | Bipolar, horizontal, amacrine and Müller-cell nuclei                                                               |
-|   6 | Outer plexiform layer (OPL)      | Synapse between photoreceptor axons and bipolar/horizontal-cell dendrites                                          |
+|   4 | Inner plexiform layer (IPL)      | Synaptic interactions involving ganglion cells, ==amacrine cells== and bipolar cells                               |
+|   5 | Inner nuclear layer (INL)        | Bipolar, ==horizontal, amacrine and Müller-cell nuclei==                                                           |
+|   6 | Outer plexiform layer (OPL)      | Synapse between photoreceptor axons and bipolar/==horizontal-cel==l dendrites                                      |
 |   7 | Outer nuclear layer (ONL)        | Rod and cone nuclei                                                                                                |
 |   8 | External limiting membrane (ELM) | Outer retinal boundary; not directly visualised as a discrete layer on routine histology/OCT in the source framing |
 |   9 | Photoreceptor layer              | Outer segments of rods and cones                                                                                   |
@@ -488,12 +514,12 @@ Hypertensive hemorrhages are classically **flame-shaped** because they occur in 
 
 #### Keith–Wagener pattern used in the notes
 
-| Grade | Retinal findings |
-|---:|---|
-| 1 | Arteriolar attenuation; A:V ratio around **1:3** |
-| 2 | Salus sign / A-V crossing change |
-| 3 | Copper wiring / advanced A-V crossing changes, flame hemorrhages and cotton-wool spots |
-| 4 | **Papilledema** with silver wiring / severe vascular sclerosis |
+| Grade | Retinal findings                                                                       |
+| ----: | -------------------------------------------------------------------------------------- |
+|     1 | Arteriolar attenuation; A:V ratio around **1:3**                                       |
+|     2 | Salus sign / A-V crossing change                                                       |
+|     3 | Copper wiring / advanced A-V crossing changes, flame hemorrhages and cotton-wool spots |
+|     4 | **Papilledema** with silver wiring / severe vascular sclerosis                         |
 
 The distinction from diabetic retinopathy is particularly useful:
 
@@ -659,7 +685,7 @@ The macula is the site of the highest visual acuity and is dominated functionall
 
 #### Cystoid macular edema
 
-CME is an accumulation of cyst-like intraretinal fluid spaces, classically in the **outer plexiform layer (Henle layer)** in the supplied teaching framework.
+CME is an accumulation of cyst-like intraretinal fluid spaces, classically in the **==outer plexiform layer (Henle layer==)** → Patelloid fibers are present there
 
 ![Cystoid macular edema on OCT](images/E8_199.jpg)
 ##### Causes / associations — RUN PRIDE
@@ -680,6 +706,10 @@ CME is an accumulation of cyst-like intraretinal fluid spaces, classically in th
 - More common with uveitis and uncontrolled diabetes.
 
 ##### Investigations
+**Amsler Grid Test**: Wavy pattern
+> Missing lines are present in optic nerve disease
+> amsler grid test is another test besides photostress test to distinguish between macular and optic nerve disease
+
 
 **OCT**: multiple intraretinal cystoid spaces and retinal thickening.
 
@@ -697,16 +727,17 @@ CME is an accumulation of cyst-like intraretinal fluid spaces, classically in th
 
 Central serous retinopathy (**CSR/CSCR**) is produced by dysfunction of the **RPE/outer blood-retinal barrier**, allowing **subretinal fluid** to accumulate.
 
-![Central serous retinopathy on OCT](images/E8_202.jpg)
+![Central serous retinopathy on OCT](images/E8_202.jpg)![[IMG_1251.jpeg]]
 ##### Clinical pattern
 
 - Metamorphopsia / distorted central vision.
-- Shallow serous detachment at the posterior pole.
+- Shallow serous detachment at the posterior pole. → Circular Ring Sign
 - Strong association with **exogenous corticosteroids**.
 - Other associations in the teaching material: Cushing syndrome, H. pylori infection, pregnancy and a type-A/stress-prone phenotype.
 - Young males are emphasized; the scanned material gives a male:female ratio of approximately **3:1**.
 
 ![[Pasted image 20261006142419.jpg]]
+> Circular Ring Sign, ink blot, Mushroom/umbrella/Smoke Stack
 
 ![[Pasted image 20261006142224.jpg]]
 ink blot
@@ -833,8 +864,10 @@ Features emphasized:
 - Central scotoma.
 - Reduced colour vision/day-vision difficulty.
 - Early visual acuity may already be markedly reduced.
-![[Pasted image 20261006142504.jpg]]
-> **Diagram omitted:** Stargardt macular dystrophy and dark choroid pattern.
+
+
+![[Pasted image 20261006142504.jpg]]![[IMG_1255.webp]]![[IMG_1256.jpeg]]
+> **Diagram:** Stargardt macular dystrophy and dark choroid pattern (Silent Choroid), Beaten Bronze appearance of retina
 ##### Dark/silent choroid sign
 
 FFA in Stargardt disease shows the classic **dark/silent choroid** because accumulated lipofuscin in the RPE reduces visualization of the underlying choroidal fluorescence.
@@ -1046,10 +1079,13 @@ Retinopathy of prematurity (**ROP**) develops because the retinal vasculature is
 - Infants at **34–36 weeks** with important risk factors such as respiratory distress.
 
 Additional screening timing given in the study material:
+- Infants **≥28 weeks and ≥1200 g** → 4 weekds
+- Infants **≥28 weeks and ≥1200 g** →  **3 weeks** of chronological age.
+- Infants **<28 weeks or <1200 g** →  **2–3 weeks**.
 
-- Infants **≥28 weeks and ≥1200 g**: screen after approximately **4 weeks** of chronological age.
-- Infants **<28 weeks or <1200 g**: screen within approximately **2–3 weeks**.
 - A broader practical rule in the scanned material is to perform the first examination at **4 weeks after birth or at 31–33 weeks postmenstrual age, whichever is later**.
+
+
 
 ### ROP zones
 
@@ -1072,9 +1108,7 @@ Additional screening timing given in the study material:
 Plus disease is severe disease characterised by **arterial and venous tortuosity**, particularly in the posterior retina. It indicates increased disease activity and higher risk of progression.
 
 ### Threshold disease
-
-The teaching material gives threshold disease as:
-
+Threshold Disease means that this patient needs treatment
 - **Stage 3** disease in **zones I or II**,
 - with **plus disease**,
 - involving **5 contiguous clock hours or 8 non-contiguous clock hours**.
@@ -1124,6 +1158,10 @@ The typical age at presentation in the scanned material is approximately **18 mo
 - **Fleurettes** represent photoreceptor differentiation.
 
 ##### Spread and investigation
+==Investigation of choice → MRI not CT==
+>	why?
+>	Because we will not do high level of radiation exposure in a child of such small age
+
 
 - The principal route of local extension emphasised is **direct spread through the optic nerve**.
 - **CT/X-ray** can demonstrate calcification and is used in diagnosis.
@@ -1255,6 +1293,23 @@ The typical age at presentation in the scanned material is approximately **18 mo
 - **ROP: 1 line → 2 ridge → 3 vessels → 4 subtotal RD → 5 total RD.**
 - **Plus disease = posterior vascular tortuosity.**
 - **Retinoblastoma = leukocoria; osteosarcoma = key second malignancy; 13q14/RB1.**
+### Retinal Exudates — High-Yield Ophthalmology
+
+| Type                                         | Composition / Content                                                     | Common Diseases                                                         | Location / Characteristics                                                              |
+| -------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| **Hard exudates**                            | Lipoproteins, ==lipids==, cholesterol                                     | Diabetic retinopathy, hypertensive retinopathy, retinal vein occlusion  | ==Outer plexiform layer (OPL)==; yellow, waxy, well-defined; may form circinate pattern |
+| **Soft exudates (cotton-wool spots)**        | Axoplasmic debris due to nerve fiber layer infarction                     | Hypertension, diabetes, HIV, severe anemia                              | Nerve fiber layer (NFL); fluffy white lesions                                           |
+| **Subretinal exudates**                      | Lipid-rich material and proteinaceous deposits                            | Coats disease, chronic retinal detachment, inflammatory disorders       | Subretinal space; yellow deposits                                                       |
+| **Macular star**                             | ==Lipid==-rich hard exudates                                              | Hypertensive neuroretinopathy, neuroretinitis                           | ==Outer plexiform layer (OPL)==; radial arrangement around fovea                        |
+| **Drusen (not true exudates)**               | Extracellular deposits containing lipids, proteins, complement components | Age-related macular degeneration (AMD)                                  | Between retinal pigment epithelium (RPE) and Bruch's membrane                           |
+| **Subretinal fluid (not an exudate itself)** | Fluid accumulating beneath neurosensory retina                            | Central serous chorioretinopathy (CSCR), inflammatory choroidal disease | Subretinal space                                                                        |
+
+**Exam Pearls:**
+- **Hard exudates:** OPL (Henle fiber layer in the macula).
+- **Cotton-wool spots:** NFL; caused by focal ischemia.
+- **Macular star:** Radial arrangement of hard exudates in OPL.
+- **Drusen:** Between RPE and Bruch's membrane; not true exudates.
+- **Coats disease:** Massive lipid exudation, often with subretinal deposits and exudative retinal detachment.
 
 ---
 

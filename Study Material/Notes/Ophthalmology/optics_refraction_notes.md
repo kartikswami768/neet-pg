@@ -405,7 +405,8 @@ Therefore:
 - Physiological insufficiency of accommodation causing difficulty with near vision.
 - Typically becomes clinically relevant after **40 years**.
 - Corrected with **convex/positive near addition or reading spectacles**.
-- A near add of approximately **+1 D around 40–45 years** is given; one age-based scheme increases the add by **0.5 D every 5 years**.
+- ==A near add of approximately **+1 D around 40–45 years** is given; one age-based scheme increases the add by **0.5 D every 5 years**.==
+- If asked for 45 years, and options include both +1 D and +1.5 D → choose the lesser correction
 
 ## Spasm of accommodation / pseudomyopia
 
@@ -667,6 +668,7 @@ After crystalline-lens removal, a posterior chamber IOL restores the missing opt
 Criteria include:
 - Age **>18 years**.
 - Stable refraction for at least **1 year**.
+- normal Corneal thickness
 - No major ocular comorbidity such as keratoconus, herpetic keratitis, corneal dystrophy/degeneration, cataract, glaucoma, uveitis, lagophthalmos, dry eye or blepharitis.
 - No major systemic contraindication such as diabetes mellitus, keloid tendency, pregnancy/lactation, autoimmune disease or immunosuppression.
 - **Keratoconus** is a strict contraindication.

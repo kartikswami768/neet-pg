@@ -143,7 +143,7 @@ Examples:
 - Levodepression → left IR + right SO
 
 ![Yoke muscles and gaze positions](images/E8_52.png)
----
+
 
 ### 5. Laws governing binocular motor control
 
@@ -163,11 +163,12 @@ Normal binocular vision depends on the two eyes receiving sufficiently similar i
 
 #### Grades of binocular single vision
 
-| Grade | Function | Typical test |
-|---|---|---|
-| **Grade 1** | Simultaneous macular perception | Synoptophore |
-| **Grade 2** | Fusion | Synoptophore / Worth 4-dot |
-| **Grade 3** | Stereopsis | Synoptophore / Titmus fly |
+| Grade       | Function                        | Typical test               |                                |
+| ----------- | ------------------------------- | -------------------------- | ------------------------------ |
+| **Grade 1** | Simultaneous macular perception | Synoptophore               | Will occur in different images |
+| **Grade 2** | Fusion                          | Synoptophore / Worth 4-dot | Only in Similar images         |
+| **Grade 3** | Stereopsis                      | Synoptophore / Titmus fly  |                                |
+![[IMG_1254.jpeg]]
 
 **Stereopsis** is the perception of depth produced by binocular disparity and represents the highest grade of binocular single vision.
 
@@ -177,11 +178,9 @@ Used to demonstrate and assess binocular single vision and its grades.
 
 #### Titmus fly test
 Tests **stereopsis (Grade 3 binocular single vision)**. Polarized glasses are used; the wings of the fly appear elevated when stereopsis is perceived.
+![[Pasted image 20261011154814.png]]> **Diagram omitted:** Synoptophore and Titmus fly.
 
-> **Diagram omitted:** Synoptophore and Titmus fly.
----
-
-### 7. Suppression, abnormal retinal correspondence and amblyopia
+## 7. Suppression, abnormal retinal correspondence and amblyopia
 
 A persistent manifest deviation may prevent the brain from receiving two conflicting images by adapting to the misalignment.
 
@@ -210,21 +209,20 @@ The material describes occlusion as prevention/treatment of amblyopia:
 - The stated age range for this regimen is up to approximately **6 years**.
 
 ![Worth four-dot interpretations](images/HYP_173.jpg)
----
 
 ## 8. Clinical presentation: comitant vs incomitant strabismus
 
-| Feature | Comitant | Incomitant / paralytic |
-|---|---|---|
-| Deviation | Same in different gazes | Changes with gaze |
-| Typical onset | Usually childhood | Often sudden when acquired |
-| Diplopia | Usually absent because of sensory adaptation/suppression | Common |
-| Head posture | Usually absent | Compensatory abnormal head posture |
-| Primary vs secondary deviation | Equal | Secondary > primary |
+| Feature                        | Comitant                                                 | Incomitant / paralytic             |
+| ------------------------------ | -------------------------------------------------------- | ---------------------------------- |
+| Deviation                      | Same in different gazes                                  | Changes with gaze                  |
+| Typical onset                  | Usually childhood                                        | Often sudden when acquired         |
+| Diplopia                       | Usually absent because of sensory adaptation/suppression | Common                             |
+| Head posture                   | Usually absent                                           | Compensatory abnormal head posture |
+| Primary vs secondary deviation | Equal                                                    | Secondary > primary                |
+| Causes                         | Non Paralytic                                            | Paralytic and Restrictive          |
+| Ocular Motility                | Normal                                                   | Limited                            |
 
-A compensatory head posture places the eyes in a position where the deviation and diplopia are reduced.
-
----
+A compensatory head posture places the eyes in a position where the deviation and diplopia are reduced
 
 ### 9. Examination of a patient with squint
 
@@ -294,7 +292,7 @@ The reflex lies approximately at the centre of the pupil and is symmetric betwee
 A **1 mm displacement** of the corneal reflex corresponds approximately to **7° or about 14–15 prism diopters**.
 
 ![Hirschberg test and angle estimation](images/HYP_164.jpg)
----
+
 
 ### 11. Cover and uncover tests
 
@@ -320,7 +318,7 @@ Cover either eye and then uncover it while observing the recovery movement.
 The direction in which the eye moves during refixation is opposite to the direction of the deviation.
 
 ![Cover and cover-uncover tests](images/HYP_165.png)
----
+
 
 ### 12. Prism measurements
 
@@ -346,7 +344,6 @@ The prism base is placed **opposite the direction of deviation**.
 Mnemonic: **DOOB — Deviation Opposite Of Base.**
 
 ![Prism bar](images/E8_66.png)
----
 
 #### 13. Krimsky test
 
@@ -386,7 +383,7 @@ It creates artificial diplopia:
 - Vertical displacement → hyperphoria
 
 ![Maddox rod](images/E8_65.jpg)
----
+
 
 ### 15. Hess chart
 
@@ -403,7 +400,7 @@ The normal charts of the two eyes are approximately similar in size and shape. W
 The Hess chart uses **concave grid lines**; an Amsler grid uses straight lines and is used for macular function.
 
 ![Hess chart](images/HYP_171.png)
----
+
 
 #### 16. Worth four-dot test
 
@@ -431,8 +428,6 @@ The patient wears red-green glasses, with the **red filter over the right eye** 
 | **5 dots** | Diplopia / no fusion |
 
 ![Worth four-dot test](images/HYP_173.jpg)
----
-
 ##### 17. Diplopia
 
 Diplopia means double vision.
@@ -639,7 +634,7 @@ Internuclear ophthalmoplegia (INO) results from a lesion of the **medial longitu
 - Commonly associated with **multiple sclerosis**, particularly bilateral INO.
 
 ![Internuclear ophthalmoplegia pathway](images/HYP_160.jpg)
----
+
 
 ##### 23. Restrictive strabismus
 
@@ -754,7 +749,7 @@ Management is directed toward:
 5. **Surgical correction**
 
 ![General treatment sequence and surgery](images/HYP_177.jpg)
----
+
 
 ### 28.1 Optical treatment
 

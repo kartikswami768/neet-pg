@@ -24,10 +24,10 @@ These notes cover the major ophthalmology material outside the dedicated section
 
 #### Parts of conjunctiva
 
-| Part | Location |
-|---|---|
-| **Bulbar conjunctiva** | Lines the sclera |
-| **Palpebral conjunctiva** | Lines the inner surface of the eyelids |
+| Part                      | Location                                      |
+| ------------------------- | --------------------------------------------- |
+| **Bulbar conjunctiva**    | Lines the sclera                              |
+| **Palpebral conjunctiva** | Lines the inner surface of the eyelids        |
 | **Forniceal conjunctiva** | Lies between bulbar and palpebral conjunctiva |
 
 #### Histology and tear-film role
@@ -37,6 +37,15 @@ These notes cover the major ophthalmology material outside the dedicated section
 - Conjunctival lymphatics are an important distinguishing feature:
   - **Medial conjunctiva → submandibular lymph nodes**
   - **Lateral conjunctiva → preauricular lymph nodes**
+- Layers of Conjunctivis
+	- Epithelium → Non keratinised stratifies
+		- Goblet cells
+		- Melanocytes
+		- Langerhans cells
+	- Adenoid
+		- Develops after 3 months of age
+	- Fibrous
+		- Degeneration occurs in this layer
 
 #### Clinical surface reactions
 
@@ -79,13 +88,14 @@ Morning crusting/sticking of the lids is characteristic of the discharge pattern
 
 #### Acute bacterial conjunctivitis
 
-| Type | Key features |
-|---|---|
-| **Acute mucopurulent** | Most commonly **Staphylococcus aureus** |
-| **Acute purulent / hyperacute / blennorrhoea** | **Neisseria gonorrhoeae**; overhanging lids, copious discharge, preauricular lymphadenopathy |
-| **Acute membranous** | True membrane; **bleeds on removal** |
-| **Acute pseudomembranous** | Pseudomembrane; **does not bleed on removal** |
-| **Angular / diplobacillary conjunctivitis** | **Moraxella axenfeld**; affects lateral canthi; tetracycline ointment + zinc/boric-acid drops are described |
+| Type                                           | Key features                                                                                                |
+| ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Acute mucopurulent**                         | Most commonly **Staphylococcus aureus**                                                                     |
+| **Acute purulent / hyperacute / blennorrhoea** | **Neisseria gonorrhoeae**; overhanging lids, copious discharge, preauricular lymphadenopathy                |
+| **Acute membranous**                           | True membrane; **bleeds on removal**                                                                        |
+| **Acute pseudomembranous**                     | Pseudomembrane; **does not bleed on removal**                                                               |
+| **Angular / diplobacillary conjunctivitis**    | **Moraxella axenfeld**; affects lateral canthi; tetracycline ointment + zinc/boric-acid drops are described |
+| Subconjuntival Hemorrhage                      | Pneumococcus (onlty bacteria besides virus)                                                                 |
 
 #### Membrane distinction
 
@@ -167,7 +177,6 @@ The grading system is also referred to as **FISTO**.
 ---
 
 ### 1.5 Ophthalmia neonatorum
-
 Any discharge or watering from the eye during the first **4 weeks of life** is treated as pathological/infective.
 
 #### Cause according to onset
@@ -201,7 +210,7 @@ Other organisms described include **Staphylococcus aureus, Streptococcus, Pseudo
 - **Epidemic keratoconjunctivitis (EKC)**
 - **Pharyngoconjunctival fever (PCF)**
 
-#### Acute haemorrhagic / Apollo conjunctivitis
+#### ==Acute haemorrhagic== / Apollo conjunctivitis
 
 Mnemonic **PACE**:
 
@@ -212,7 +221,7 @@ Mnemonic **PACE**:
 
 **HSV conjunctivitis** and **molluscum contagiosum conjunctivitis** are also recognised viral conjunctival infections.
 
----
+
 
 #### 1.7 Allergic conjunctivitis
 
@@ -225,31 +234,30 @@ Mnemonic **PACE**:
 - **Phlyctenular conjunctivitis**
 
 ##### Vernal keratoconjunctivitis
-
 - Most common in **boys aged 5–15 years**; another description gives the typical age around **10 years**.
 - Hypersensitivity: **Type I > Type II**.
 - Often associated with exogenous allergens such as **dust and pollen**.
 - Seasonal/summer predominance is described; “spring catarrh” is a traditional but imperfect name.
 - Symptoms: intense itching, irritation, redness, watering.
 
-##### Signs
+###### Signs
 
-| Sign | Key finding |
-|---|---|
-| **Giant papillae** | Cobblestone appearance on upper tarsal conjunctiva |
-| **Horner–Trantas dots** | Eosinophilic deposits at the limbus |
-| **Maxwell–Lyon sign** | Thick, ropey/stringy discharge |
+| Sign                               | Key finding                                                                   |
+| ---------------------------------- | ----------------------------------------------------------------------------- |
+| **Giant papillae**                 | Cobblestone appearance on upper tarsal conjunctiva                            |
+| **Horner–Trantas dots**            | Eosinophilic deposits at the limbus                                           |
+| **Maxwell–Lyon sign**              | Thick, ropey/stringy discharge                                                |
 | **Pseudogerontoxon / Cupid's bow** | White/gelatinous limbal appearance, especially superiorly; may resemble arcus |
-| **Shield ulcer** | Sterile, shield-shaped corneal ulcer; not an infectious ulcer |
-
-> **Diagram omitted:** Vernal keratoconjunctivitis: cobblestone papillae and limbal Horner–Trantas dots.
-##### Treatment
-
-- Antihistamines
-- Mast-cell stabilisers for prevention/control
-- **Olopatadine** is the drug of choice because of combined antihistamine + mast-cell stabilising action.
+| **Shield ulcer**                   | Sterile, shield-shaped corneal ulcer; not an infectious ulcer                 |
+ >**Diagram omitted:** Vernal keratoconjunctivitis: cobblestone papillae and limbal Horner–Trantas dots.
+ 
+ >Shield ulcer vs shield cataract
+###### Treatment
+- ==Antihistamines== (Steroids are not 1st line here unlike PKC)
+	- Mast-cell stabilisers for prevention/control
+	- **==Olopatadine==** is the drug of choice because of combined antihistamine + mast-cell stabilising action.
 - Topical corticosteroids are used for acute exacerbations/severe disease.
-- Low-dose steroids described: **loteprednol** and **fluorometholone**.
+	- Low-dose steroids described: **loteprednol** and **fluorometholone**.
 - Immunomodulators are used in refractory disease.
 
 ##### Phlyctenular keratoconjunctivitis
@@ -258,16 +266,14 @@ Mnemonic **PACE**:
 - **Type IV hypersensitivity**.
 - Itching and watering.
 - Corneal involvement may produce **fascicular ulcer**, which may progress into a ring ulcer.
-- Treatment: **steroids**.
+- Treatment: **steroids** along with other disease specific antimicrobial drugs
 
 ---
 
 #### 1.8 Subconjunctival haemorrhage and other acute surface findings
 
 ##### Subconjunctival haemorrhage
-
 Subconjunctival haemorrhage is associated with:
-
 - Trauma
 - Hypertension
 - Bleeding diathesis
@@ -296,21 +302,34 @@ Haemorrhagic conjunctivitis may also accompany bacterial or viral conjunctival i
 - **Elastotic degeneration** of conjunctival tissue.
 - Triangular/wing-shaped fibrovascular growth of conjunctiva extending **across the limbus onto the cornea**.
 - Predisposing factors described:
-  - Ultraviolet exposure, especially **UV-B**
-  - Dust
-  - Heat
-  - Limbal stem-cell deficiency
+	- Ultraviolet exposure, especially **UV-B**
+	- Dust
+	- Heat
+	- Limbal stem-cell deficiency
 - Nasal predominance is described.
 - Can obstruct the visual axis and can cause visual loss.
 - Can cause **with-the-rule astigmatism** from corneal flattening/tensional pull.
 
 > **Diagram omitted:** Pterygium: triangular conjunctival growth crossing the limbus.
 ##### Pterygium versus pseudopterygium
-
 **Glass rod test:**
 - Glass rod does **not** pass beneath a true pterygium.
 - In **pseudopterygium**, the glass rod can pass underneath.
 
+| Feature                                         | Pinguecula                         | Pterygium                                           | Pseudopterygium                           |
+| ----------------------------------------------- | ---------------------------------- | --------------------------------------------------- | ----------------------------------------- |
+| Definition                                      | Conjunctival degeneration          | Fibrovascular conjunctival growth onto cornea       | Conjunctival adhesion to damaged cornea   |
+| Site                                            | Bulbar conjunctiva, usually nasal  | Usually nasal limbus                                | Any corneal quadrant                      |
+| Corneal involvement                             | Absent                             | Present                                             | Present, focal adhesion                   |
+| Shape                                           | Yellow-white, elevated, round/oval | Triangular, wing-shaped                             | Irregular fold/bridge                     |
+| Vessels                                         | Minimal                            | Prominent                                           | Variable                                  |
+| Histology/pathology                             | Elastotic degeneration             | Fibrovascular proliferation, elastotic degeneration | Scar-related adhesion                     |
+| Etiology                                        | UV, wind, dust, age                | UV, wind, dust                                      | Trauma, chemical/thermal burn, ulceration |
+| Progression                                     | Usually stationary                 | May progressively invade cornea                     | Depends on underlying scar                |
+| Probe test                                      | Not applicable                     | Cannot pass beneath head at limbus                  | **Probe can pass beneath free edge**      |
+| Stocker's line (Yellowish brown iron depostion) | Absent                             | May be present                                      | Usually absent                            |
+| Effect on vision                                | Rarely affects vision              | Astigmatism; visual-axis involvement                | Irregular astigmatism/scarring            |
+| Treatment                                       | Lubricants; excision rarely        | Lubricants; excision ± conjunctival autograft       | Treat cause; surgical release if needed   |
 ##### Treatment of pterygium
 
 - Excision alone has a high recurrence rate.
@@ -543,7 +562,7 @@ Aggregates of inflammatory cells and proteins deposited on the corneal endotheli
 #### Posterior synechiae
 
 - Adhesion between the **pupillary margin and the lens**.
-- Produces an **irregular/festooned pupil** on dilatation.
+- Produces an **irregular/festooned pupil** on dilatation
 - Severe uveitis may produce a membrane over the pupil (**occlusio pupillae**).
 - Synechiae can produce **secondary angle-closure glaucoma**.
 
@@ -551,52 +570,93 @@ Aggregates of inflammatory cells and proteins deposited on the corneal endotheli
 
 - **Topical corticosteroids**, with tapering.
 - **Atropine** as mydriatic and cycloplegic.
+	- It will also help in preventing Synechiae (not steroids)
+	- Onset of action Atropine: 3 days
+	- Duration of action: 3 weeks
 
 ### Complications
 
-1. Band-shaped keratopathy
+1. ==Band-shaped keratopathy==
 2. Complicated cataract
 3. Glaucoma
    - Secondary angle closure from posterior synechiae
    - Secondary open-angle glaucoma from trabeculitis
-   - Latanoprost is described as contraindicated in active uveitic secondary open-angle glaucoma
-   - Alpha agonists/dipivefrine are listed as preferred pressure-lowering agents in the source
+   - ==Latanoprost is described as contraindicated== in active uveitic secondary open-angle glaucoma
+   - ==Alpha agonists/dipivefrine are listed as preferred pressure-lowering agents== in the source
 4. Phthisis bulbi
 
 ---
 
-## 4.3 Systemic associations of anterior uveitis
+### 4.3 Systemic associations of anterior uveitis
 
-### Ankylosing spondylitis
+#### 1. Systemic Associations
+
+| Systemic disease                        | Exam-relevant association / clue                                                                       |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Ankylosing spondylitis (AS)**         | Classic association; acute, recurrent, unilateral, nongranulomatous uveitis; HLA-B27                   |
+| Reactive arthritis                      | Arthritis + urethritis + conjunctivitis; HLA-B27                                                       |
+| Psoriatic arthritis                     | Spondyloarthritis-associated uveitis                                                                   |
+| IBD (Crohn disease, ulcerative colitis) | Recurrent uveitis with bowel symptoms                                                                  |
+| **Juvenile idiopathic arthritis (JIA)** | Chronic, often bilateral, asymptomatic anterior uveitis; ANA positivity, especially oligoarticular JIA |
+| **Sarcoidosis**                         | Granulomatous uveitis; mutton-fat KPs, iris nodules; bilateral disease possible                        |
+| **Tuberculosis**                        | Granulomatous anterior uveitis; consider in endemic settings                                           |
+| **Syphilis**                            | Can cause almost any type of uveitis; important treatable mimic                                        |
+| Behçet disease                          | Recurrent uveitis, ==oral/genital ulcers==; hypopyon may occur                                         |
+| Vogt–Koyanagi–Harada (VKH)              | Usually bilateral panuveitis rather than isolated anterior uveitis                                     |
+| Herpes simplex / zoster                 | Usually unilateral; raised IOP, reduced corneal sensation or iris atrophy may occur                    |
+| Fuchs uveitis syndrome                  | Chronic unilateral low-grade inflammation, heterochromia, diffuse stellate KPs; cataract and glaucoma  |
+###### 2. Must-Remember Exam Distinctions
+- **Acute, recurrent, unilateral** → HLA-B27-associated disease.
+- **Chronic, bilateral, asymptomatic child** → JIA-associated uveitis.
+- **Granulomatous uveitis** → Sarcoidosis, TB, syphilis; consider other causes.
+- **Hypopyon + recurrent oral/genital ulcers** → Behçet disease.
+- **Unilateral uveitis + raised IOP + iris atrophy** → Herpetic uveitis.
+- **Heterochromia + diffuse stellate KPs + little vitritis** → Fuchs uveitis syndrome.
+
+#### Ankylosing spondylitis
 
 - **HLA-B27 positive**.
 - Sacroiliitis and “bamboo spine”/dagger sign.
 - Young adult males, early morning stiffness.
 - Characteristic eye disease: **acute recurrent non-granulomatous anterior uveitis**.
 
-### Juvenile rheumatoid arthritis / juvenile chronic arthritis
+#### Reiter Syndrome (Reactive Arthritis)
+
+| Feature            | Key Point                                                                                                        |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| Classic triad      | **Arthritis + urethritis + conjunctivitis**                                                                      |
+| Trigger            | Usually *Chlamydia trachomatis* or gastrointestinal infections (*Salmonella, Shigella, Campylobacter, Yersinia*) |
+| Joint involvement  | Asymmetric oligoarthritis, predominantly lower limbs                                                             |
+| Eye manifestations | Conjunctivitis; **acute anterior uveitis** can also occur                                                        |
+| Other clues        | Enthesitis, dactylitis, circinate balanitis, keratoderma blennorrhagicum                                         |
+| HLA association    | HLA-B27; associated with more severe or chronic disease                                                          |
+
+>***Exam Pearl***
+- Reiter syndrome is the older eponym for reactive arthritis.
+- Mnemonic: **"Can't see, can't pee, can't climb a tree."**
+#### Juvenile rheumatoid arthritis / juvenile chronic arthritis
 
 - Age **<15 years**.
 - More common in females.
 - **Pauciarticular disease (<5 joints)** carries the highest risk of uveitis.
 - Uveitis: **painless, chronic, bilateral, non-granulomatous anterior uveitis**.
-- Complications: glaucoma, complicated cataract, band-shaped keratopathy.
-- Cataract surgery with IOL is described as contraindicated because of severe postoperative inflammation in active disease.
+- ==Complications: glaucoma, complicated cataract, band-shaped keratopathy.==
+- ==**Cataract surgery** with IOL is described as **contraindicated** because of severe postoperative inflammation in active disease.==
 
-### Fuchs heterochromic iridocyclitis
+#### Fuchs heterochromic iridocyclitis
 
-| Feature | Finding |
-|---|---|
-| Laterality | Usually unilateral in the described classic presentation |
-| Iris | Affected eye becomes lighter; heterochromia |
-| KPs | Small, stellate, pan-corneal |
-| Synechiae | **Absent** — highlighted as characteristic |
-| Amsler sign | Bleeding in the anterior chamber from pressure change |
-| Cataract | Posterior subcapsular/complicated cataract |
-| Association | **Rubella** |
-| Steroids | Often ineffective because the uveitis is mild |
+| Feature     | Finding                                                  |
+| ----------- | -------------------------------------------------------- |
+| Laterality  | Usually unilateral in the described classic presentation |
+| Iris        | Affected eye becomes lighter; heterochromia              |
+| KPs         | Small, stellate, pan-corneal                             |
+| Synechiae   | ==**Absent** — highlighted as characteristic==*+         |
+| Amsler sign | Bleeding in the anterior chamber from pressure change    |
+| Cataract    | Posterior subcapsular/complicated cataract               |
+| Association | **==Rubella==**                                          |
+| Steroids    | Often ineffective because the uveitis is mild            |
 
-### Posner–Schlossman syndrome (glaucomatocyclitic crisis)
+#### Posner–Schlossman syndrome (glaucomatocyclitic crisis)
 
 - Recurrent attacks of **markedly elevated IOP** with mild anterior uveitis.
 - **Open angle** on gonioscopy.
@@ -627,7 +687,7 @@ Aggregates of inflammatory cells and proteins deposited on the corneal endotheli
 
 > **Diagram omitted:** Toxoplasma retinochoroiditis: active lesion and healed scar.
 ### Sarcoidosis
-
+>Panuveitis + Candle wax Drippings
 - Can produce panuveitis with conjunctival, anterior-uveal and vitreous involvement.
 - Classic fundus appearance: **candle-wax drippings**, reflecting periphlebitis along retinal veins.
 
@@ -664,7 +724,7 @@ Treatment: **steroids**.
 
 - Recurrent **hypopyon** may occur; this is also termed a transient hypopyon syndrome in the visual review.
 - Association with **HLA-B5/HLA-B51**.
-- Oral ulcers and genital ulcers.
+- ==Oral ulcers and genital ulcers.==
 - Positive skin testing is described.
 - Eye disease includes **non-granulomatous anterior and posterior uveitis**.
 - Obliterative vasculitis related to circulating immune complexes is described.
@@ -891,16 +951,16 @@ Vitamin A deficiency is a major preventable cause of childhood blindness.
 
 #### WHO-style xerophthalmia stages
 
-| Stage | Finding |
-|---|---|
-| **XN** | **Night blindness** — first symptom |
-| **X1A** | **Conjunctival xerosis** — first sign |
-| **X1B** | **Bitot spot** — foamy conjunctival lesion, usually temporal |
-| **X2** | Corneal xerosis |
-| **X3A** | Keratomalacia involving **<1/3** of corneal surface |
-| **X3B** | Keratomalacia involving **>1/3** of corneal surface |
-| **XS** | Corneal scar |
-| **XF** | Xerophthalmic fundus; RPE/fundus changes, including **Uyemura spots / white-spotted fundus** |
+| Stage   | Finding                                                                                      |
+| ------- | -------------------------------------------------------------------------------------------- |
+| **XN**  | **Night blindness** — ==first symptom==                                                      |
+| **X1A** | **Conjunctival xerosis** — ==first sign==                                                    |
+| **X1B** | **Bitot spot** — foamy conjunctival lesion, usually temporal                                 |
+| **X2**  | Corneal xerosis → Hyperkeratosis (Metaplasia)                                                |
+| **X3A** | corneal ulcer/Keratomalacia involving **<1/3** of corneal surface                            |
+| **X3B** | Corneal Ulcer/Keratomalacia involving **>1/3** of corneal surface                            |
+| **XS**  | Corneal scar                                                                                 |
+| **XF**  | Xerophthalmic fundus; RPE/fundus changes, including **Uyemura spots / white-spotted fundus** |
 
 > **Diagram omitted:** Xerophthalmia spectrum: Bitot spot and corneal involvement.
 #### High-yield sequence
@@ -959,16 +1019,16 @@ The clinical classification and treatment of diabetic retinopathy belong to reti
 
 ## 8.3 Trachoma: must-know distinctions
 
-| Finding | Meaning |
-|---|---|
-| Herbert follicles | Limbus follicles |
-| Herbert pits | Depressions after resolution of limbal follicles |
-| Arlt line | Sulcus subtarsalis scar |
-| Pannus | Corneal vascularisation |
-| Trichiasis | In-turning/misdirection of lashes |
-| Final blinding mechanism | Repeated trauma → corneal opacity |
-| Public-health strategy | **SAFE** |
-| Drug highlighted | **Azithromycin 1 g single dose** |
+| Finding                    | Meaning                                          |
+| -------------------------- | ------------------------------------------------ |
+| Herbert follicles          | Limbus follicles                                 |
+| Herbert pits               | Depressions after resolution of limbal follicles |
+| Arlt line                  | Sulcus subtarsalis scar                          |
+| Pannus                     | Corneal vascularisation                          |
+| ==Trichiasis==                 | ==In-turning/misdirection of lashes==                |
+| Final blinding mechanism   | Repeated trauma → corneal opacity                |
+| ==Public-health strategy== | ==**SAFE**==                                     |
+| Drug highlighted           | **Azithromycin 1 g single dose**                 |
 
 ## 8.4 Uveitis: important KPs and nodules
 
