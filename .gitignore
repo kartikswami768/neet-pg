@@ -60,7 +60,9 @@
 # Templater
 !.obsidian/plugins/templater-obsidian/data.json
 # Spaced Repetition — sync plugin settings and review/scheduling data
-!.obsidian/plugins/obsidian-spaced-repetition/data.jsonStudy Material/PDFs/Tao Le and Vikas Bhushan – First Aid for the USMLE Step 1 (2025, McGraw Hill) – libgen.li-1.pdf
+!.obsidian/plugins/obsidian-spaced-repetition/data.json
+
+Study Material/PDFs/Tao Le and Vikas Bhushan – First Aid for the USMLE Step 1 (2025, McGraw Hill) – libgen.li-1.pdf
 
 /Study Material/PDFs/*.pdf
 /Study Material/PDFs/*/*.pdf
@@ -74,3 +76,8 @@
 !.obsidian/plugins/ink-annotation/manifest.json
 !.obsidian/plugins/ink-annotation/styles.css
 !.obsidian/plugins/ink-annotation/LICENSE
+
+
+# Tap Heading to Fold — intentionally sync plugin code to other devices
+!.obsidian/plugins/tap-heading-to-fold/main.js
+!.obsidian/plugins/tap-heading-to-fold/manifest.json
