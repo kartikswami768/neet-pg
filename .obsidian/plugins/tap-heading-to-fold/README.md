@@ -6,15 +6,15 @@ A small Obsidian community plugin for touchscreens. In **Live Preview**, tap the
 
 1. Sync or pull the latest `main` branch from this vault repository.
 2. In Obsidian, open **Settings → Community plugins**.
-3. Toggle **Tap Heading to Fold** off and on again, or restart Obsidian. Confirm the plugin version is **1.0.2** if shown.
+3. Toggle **Tap Heading to Fold** off and on again, or restart Obsidian. Confirm the plugin version is **1.0.3** if shown.
 4. Make sure **Settings → Editor → Fold heading** is enabled.
 5. Open a Markdown note in **Live Preview** and tap the text of a heading that has content beneath it.
 
-## Version 1.0.2
+## Version 1.0.3
 
-- Loosened the Live Preview selector so detection no longer depends on the placement of the `is-live-preview` class.
-- Matches the tapped heading to its Markdown leaf by DOM containment.
-- Uses coordinate mapping with a DOM-position fallback.
+- Detects the clicked CodeMirror line first, then checks the actual Markdown source text to determine whether it is a heading. This avoids depending on a heading-specific CSS class.
+- Matches the clicked line to its Markdown leaf by DOM containment.
+- Uses coordinate mapping with clicked-element and line-element fallbacks.
 - Displays a diagnostic notice if the tap is detected but the editor/position cannot be resolved.
 
 ## Notes
