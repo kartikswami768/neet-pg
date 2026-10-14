@@ -214,31 +214,31 @@ The page's clinical flowchart describes a child with nasal blockage, hearing los
   - Otoscopy under a microscope: whitish keratinous plaque (hallmark).
   - Investigation of choice: ==CT scan of the temporal bone to assess disease extent and bone erosion==; no contrast, as stated in the source.
   - Audiological tests: CHL.
-- **Treatment:** medical therapy does not cure it; the source lists modified radical mastoidectomy (MRM) as the surgery of choice.
+- **Treatment:** medical therapy does not cure it; the source lists ==modified radical mastoidectomy (MRM)== as the surgery of choice.
 
 > [!example]- Source page visual — PDF page 45
 > ![[images/chunk02_p045_source_page.jpeg]]
 
 ### Cholesteatoma hearer and round-window shielding effect
 
-- **Cholesteatoma hearer — mechanism:** cholesteatoma first erodes the incus (usually its long process), but can bridge the ossicular gap and allow sound conduction.
-- **Clinical significance:** hearing may be relatively preserved before surgery; after removal of the cholesteatoma, the gap appears and postoperative hearing may worsen.
+- **Cholesteatoma hearer — mechanism:** cholesteatoma first e==rodes the incus (usually its long process)==, but ==can bridge the ossicular gap and allow sound conduction.==
+- **Clinical significance:** hearing may be relatively preserved before surgery; a==fter removal of the cholesteatoma, the gap appears and postoperative hearing may worsen.==
 - **Normal sound transmission (source sequence):** TM → malleus → incus → stapes → oval window → scala vestibuli → scala tympani → round window.
 - **Sequential vibration:** oval window first, round window later.
-- **Effect of TM perforation (as stated):** sound reaches both windows simultaneously; vibrations cancel each other, causing hearing loss.
+- ==**Effect of TM perforation (as stated):** sound reaches both windows simultaneously; vibrations cancel each other, causing hearing loss.==
 
 | Ear state | Discharge effect on hearing (as stated in the source) |
 |---|---|
-| Dry ear | Worse hearing: sound hits both windows simultaneously. |
-| Ear with discharge | Better hearing: discharge shields the round window. |
+| Dry ear | ==Worse hearing==: sound hits both windows simultaneously. |
+| Ear with discharge | ==Better hearing:== discharge shields the round window. |
 
 ### High-yield cholesteatoma points
 
 | Feature | Detail |
 |---|---|
-| Most common site of origin | Prussak's space (between pars flaccida and the neck of the malleus) |
-| Most common site of recurrence | Sinus tympani (also called the infrapyramidal space) |
-| Most commonly eroded ossicle | Long process of incus (lenticular process, as written in the source) |
+| Mos==t common site of origin== | ==Prussak's space== (between pars flaccida and the neck of the malleus) |
+| Most ==common site of recurrence== | Sinus tympani (also called the infrapyramidal space) |
+| Most commonly ==eroded ossicle== | Long process of incus (==lenticular process==, as written in the source) |
 | Canal involved | Lateral semicircular canal |
 
 ### Mastoidectomy
