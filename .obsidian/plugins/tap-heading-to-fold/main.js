@@ -57,7 +57,7 @@ module.exports = class TapHeadingToFoldPlugin extends Plugin {
       const line = cm.state.doc.lineAt(position);
 
       // Ensure the position resolves to a Markdown heading before consuming the tap.
-      if (!/^ {0,3}#{1,6}(?:\\s|$)/.test(line.text)) return;
+      if (!/^ {0,3}#{1,6}(?:\s|$)/.test(line.text)) return;
 
       // Obsidian's public Editor API supports toggleFold on mobile and desktop.
       // Place the cursor on the heading so the command folds the intended section.
