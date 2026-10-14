@@ -75,7 +75,7 @@ Nasal / nasopharyngeal / palatal pathology → Eustachian tube obstruction → n
 | **4. Resolution** | TM ruptures with release of pus. | — | TM perforation in the anteroinferior quadrant. |
 | **5. Complications** | — | — | The source lists the preceding clinical features as key findings. |
 
-- **Most common organism (MC):** *Streptococcus pneumoniae*.
+- **Most common organism (MC):** ==*Streptococcus pneumoniae*==.
 - **Symptoms:** child with a history of URTI, ear pain, fever and hearing loss.
 - **Signs:** TM retraction, cartwheel appearance, bulging drum, pulsatile otorrhoea and lighthouse sign.
 - **Investigations:** usually not required.
@@ -88,12 +88,24 @@ Nasal / nasopharyngeal / palatal pathology → Eustachian tube obstruction → n
 
 - **Antibiotic:** amoxicillin / ampicillin for 8–10 days.
 - **Supportive treatment:** nasal/oral decongestants, analgesics and antipyretics.
-- **Myringotomy — indications listed in the source:**
-  - Excruciating pain with a bulging drum.
-  - Incomplete resolution despite antibiotics.
-  - Persistent effusion for more than 12 weeks.
-  - ASOM with facial palsy.
-- **Incision:** curvilinear incision in the posteroinferior quadrant.
+- **Myringotomy**
+	- **Indications listed in the source:**
+		- Excruciating pain with a bulging drum.
+		- Incomplete resolution despite antibiotics.
+		- Persistent effusion for more than 12 weeks.
+		- ASOM with facial palsy.
+	- **Incision:** curvilinear incision in the posteroinferior quadrant.
+
+>[!info]- Anteroinferior vs Posteroinferior Incision
+>
+>| Feature | ASOM | SOM/OME |
+|---|---|---|
+| Pathology | Acute infection with suppurative effusion | Persistent middle-ear effusion |
+| Main objective | Drainage and decompression | Drainage plus sustained ventilation |
+| Classical incision site | **Posteroinferior quadrant** | **Anteroinferior quadrant** |
+| Classical incision type | Curvilinear/J-shaped or circumferential | Radial |
+| Grommet insertion | Not routinely required in uncomplicated ASOM | Commonly performed when indicated |
+| Desired outcome | Drainage, followed by healing of the incision | Continued ventilation until the tube extrudes |
 
 #### Clinical pathway shown in the source
 
@@ -118,7 +130,7 @@ Patient presents with acute-onset ear pain, without URTI → examination shows c
 
 - Tubal occlusion due to nasopharyngeal causes, such as adenoids and benign or malignant tumours.
 - Allergy: mucosal oedema of the Eustachian tube orifice.
-- Hypogammaglobulinaemia predisposes to an inflammatory response in the middle-ear cavity.
+- ==Hypogammaglobulinaemia== predisposes to an inflammatory response in the middle-ear cavity.
 - Sterile effusion in the middle ear; the fluid is non-infective and there is no pus formation.
 
 ### Clinical features
@@ -134,10 +146,10 @@ Patient presents with acute-onset ear pain, without URTI → examination shows c
 
 **Signs**
 
-- Dull, lustreless TM with absent light reflex.
-- Retracted TM.
+- Dull, lustreless TM with ==absent light reflex.==
+- ==Retracted TM.==
 - Fluid level.
-- Air bubbles.
+- ==Air bubbles.==
 - Decreased mobility of the TM.
 
 ### Hearing tests
@@ -146,19 +158,29 @@ Patient presents with acute-onset ear pain, without URTI → examination shows c
 |---|---|
 | Tuning-fork test | Rinne negative; Weber lateralised to the affected ear; indicates conductive hearing loss. |
 | Pure-tone audiometry | Conductive hearing loss. |
-| Tympanometry (IOC, as labelled in the source) | Type B tympanogram indicates middle-ear effusion. The source also illustrates Type A, B, C, As and Ad tympanograms. |
+| ==Tympanometry (IOC==, as labelled in the source) | Type B tympanogram indicates middle-ear effusion. The source also illustrates Type A, B, C, As and Ad tympanograms. |
 
 > [!example]- Source page visual — PDF page 43
 > ![[images/chunk02_p043_source_page.jpeg]]
 
 ### Treatment
 
-| Situation | Management |
-|---|---|
-| Hearing loss only | Wait and watch for 3 months. |
-| Persistent effusion (no change after 3 months) | Myringotomy with or without grommet insertion; radial incision in the anteroinferior quadrant. |
-| Adenoid hypertrophy present (mouth breathing, snoring, high-arched palate, failure to thrive) | Myringotomy + grommet + adenoidectomy. |
+| Situation                                                                                     | Management                                                                                                                               |
+| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Hearing loss only                                                                             | Wait and watch for 3 months.                                                                                                             |
+| Persistent effusion (no change after 3 months)                                                | Myringotomy with or without grommet insertion; radial incision in the ==anteroinferior quadrant== (and not in posteroinferior quadrant). |
+| Adenoid hypertrophy present (mouth breathing, snoring, high-arched palate, failure to thrive) | Myringotomy + grommet + adenoidectomy.                                                                                                   |
 
+---
+
+| Question stem | Best answer |
+|---|---|
+| Preferred site of myringotomy in ASOM | **Posteroinferior quadrant** |
+| Preferred site of myringotomy with grommet insertion in SOM/OME | **Anteroinferior quadrant** |
+| Incision classically described for ASOM | Curvilinear/J-shaped |
+| Incision classically described for grommet insertion | Radial |
+| Quadrant avoided because of risk of ossicular injury | Posterosuperior |
+| Long-term ventilation tube placement | May use a different site, classically anterosuperior, depending on the tube and indication |
 **Prevention of secretory otitis media (as listed):** anti-allergy treatment; decongestants; middle-ear aeration by repeated Valsalva or Politzerisation.
 
 The page's clinical flowchart describes a child with nasal blockage, hearing loss, no pain or fever, mouth breathing/snoring, high-arched palate, dull/elongated facial appearance and crowded teeth. It lists air bubbles/air-fluid level on examination, conductive hearing loss on audiogram, Type B tympanometry and possible X-ray showing adenoid hypertrophy. The pathway says to wait and watch for 12 weeks; if the condition persists, perform myringotomy with grommet insertion, with or without adenoidectomy.
@@ -186,11 +208,11 @@ The page's clinical flowchart describes a child with nasal blockage, hearing los
 - The source calls cholesteatoma **unsafe** because it spreads like a tumour and destroys bone.
 - Collagenase, alkaline phosphatase and proteolytic enzymes cause bone erosion.
 - It spreads along the path of least resistance.
-- The source lists the lateral semicircular canal as the most commonly involved canal.
-- **Symptoms:** hearing loss (most common); scanty, foul-smelling discharge.
+- The source lists the ==lateral semicircular canal== as the most commonly involved canal.
+- **Symptoms:** hearing loss (most common); scanty, ==foul-smelling discharge.==
 - **Diagnosis:**
   - Otoscopy under a microscope: whitish keratinous plaque (hallmark).
-  - Investigation of choice: CT scan of the temporal bone to assess disease extent and bone erosion; no contrast, as stated in the source.
+  - Investigation of choice: ==CT scan of the temporal bone to assess disease extent and bone erosion==; no contrast, as stated in the source.
   - Audiological tests: CHL.
 - **Treatment:** medical therapy does not cure it; the source lists modified radical mastoidectomy (MRM) as the surgery of choice.
 
