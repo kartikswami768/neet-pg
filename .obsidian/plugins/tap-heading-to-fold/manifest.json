@@ -1,7 +1,7 @@
 {
   "id": "tap-heading-to-fold",
   "name": "Tap Heading to Fold",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minAppVersion": "1.4.0",
   "description": "Tap a heading's text in Live Preview to fold or unfold its section. Designed for touch devices.",
   "author": "ChatGPT",
