@@ -1,66 +1,80 @@
-const { Plugin } = require('obsidian');
+const { Plugin, Notice } = require('obsidian');
 
 module.exports = class TapHeadingToFoldPlugin extends Plugin {
   onload() {
     this.registerDomEvent(document, 'click', (event) => {
-      if (event.defaultPrevented || event.button !== 0) return;
+      // Touch taps on iOS/Android are delivered as click events with button 0.
+      if (event.button !== 0) return;
 
       const target = event.target;
       if (!(target instanceof Element)) return;
 
-      // Let links, controls, formatting markers, and the native fold arrow behave normally.
+      // Do not interfere with links, controls, Markdown markers, or the native fold arrow.
       if (target.closest(
         'a, button, input, textarea, select, [role="button"], ' +
         '.cm-fold-indicator, .cm-formatting-header, .cm-widgetBuffer'
       )) return;
 
-      // A heading in the CM6 Live Preview editor only.
-      const headingLine = target.closest(
-        '.markdown-source-view.mod-cm6.is-live-preview .cm-line.HyperMD-header'
-      );
+      // Do not require the is-live-preview class here: mobile/version/theme DOM
+      // class placement can vary. A HyperMD header inside the CM6 source editor
+      // is enough to identify the editing heading and excludes Reading view.
+      const headingLine = target.closest('.cm-line.HyperMD-header');
       if (!headingLine) return;
 
-      const sourceView = headingLine.closest(
-        '.markdown-source-view.mod-cm6.is-live-preview'
-      );
+      const sourceView = headingLine.closest('.markdown-source-view.mod-cm6');
       if (!sourceView) return;
 
-      // Match the clicked DOM editor to its Obsidian MarkdownView.
-      // Do not assume the fold-arrow widget exists as a child of the heading row:
-      // on mobile and across themes/versions, that DOM assumption is brittle.
+      // Match the exact Markdown leaf containing the tapped line.
       const leaf = this.app.workspace.getLeavesOfType('markdown').find((candidate) => {
         const view = candidate.view;
-        const cm = view && view.editor && view.editor.cm;
-        return !!(cm && cm.dom && sourceView.contains(cm.dom));
+        return !!(view && view.containerEl && view.containerEl.contains(headingLine));
       });
-      if (!leaf) return;
+
+      if (!leaf) {
+        new Notice('Tap Heading to Fold: could not identify the editor for this heading.');
+        return;
+      }
 
       const editor = leaf.view.editor;
-      const cm = editor.cm;
-      let position = null;
-
-      // Use the actual tap coordinates first; fall back to the target DOM node.
-      try {
-        position = cm.posAtCoords({ x: event.clientX, y: event.clientY });
-      } catch (_) {
-        // Some older Obsidian/CodeMirror builds may not expose posAtCoords as expected.
+      const cm = editor && editor.cm;
+      if (!editor || !cm || !cm.state || !cm.state.doc) {
+        new Notice('Tap Heading to Fold: editor API unavailable. Try reloading the plugin.');
+        return;
       }
-      if (position == null) {
+
+      // Resolve the tapped position, with a DOM-based fallback for mobile.
+      let position = null;
+      if (typeof cm.posAtCoords === 'function') {
         try {
-          position = cm.posAtDOM(target);
+          position = cm.posAtCoords({ x: event.clientX, y: event.clientY });
         } catch (_) {
-          return;
+          // Use the heading DOM below if coordinate mapping fails.
         }
       }
-      if (position == null) return;
+
+      if (position == null && typeof cm.posAtDOM === 'function') {
+        try {
+          position = cm.posAtDOM(headingLine);
+        } catch (_) {
+          position = null;
+        }
+      }
+
+      if (position == null) {
+        new Notice('Tap Heading to Fold: could not map the tap to editor text.');
+        return;
+      }
 
       const line = cm.state.doc.lineAt(position);
 
-      // Ensure the position resolves to a Markdown heading before consuming the tap.
-      if (!/^ {0,3}#{1,6}(?:\s|$)/.test(line.text)) return;
+      // The actual source line must be a Markdown heading.
+      if (!/^ {0,3}#{1,6}(?:\\s|$)/.test(line.text)) {
+        new Notice('Tap Heading to Fold: tap the heading text itself, not the # marker.');
+        return;
+      }
 
-      // Obsidian's public Editor API supports toggleFold on mobile and desktop.
-      // Place the cursor on the heading so the command folds the intended section.
+      // Move the cursor to the start of that heading and call Obsidian's
+      // documented EditorCommandName "toggleFold".
       editor.setCursor({ line: line.number - 1, ch: 0 });
       event.preventDefault();
       event.stopPropagation();
