@@ -229,6 +229,7 @@ module.exports = class ReadingHighlighterExtendedPlugin extends Plugin {
 
     for (const [id, button] of this.buttons) {
       button.disabled = id === "undo" ? !canUndo : !canFormat;
+      button.style.display = id === "undo" || canFormat ? "" : "none";
     }
     if (canFormat || canUndo) this.toolbarEl.addClass("is-visible");
     else this.toolbarEl.removeClass("is-visible");
@@ -370,8 +371,7 @@ module.exports = class ReadingHighlighterExtendedPlugin extends Plugin {
         }
 
         const selectedSource = raw.slice(currentStart, currentEnd);
-        if (selectedSource.split("\n").some((line) =>
-          line.includes("|") && /(^|\s)\|/.test(line))) {
+        if (selectedSource.split("\n").some((line) => line.includes("|"))) {
           blockedReason = "table syntax";
           return raw;
         }
