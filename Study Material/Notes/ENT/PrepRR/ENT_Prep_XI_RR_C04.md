@@ -24,7 +24,7 @@ tags:
 
 ## Choanal atresia (00:00:01; FMGE 2023)
 
-- Due to persistence of the bucconasal membrane.
+- Due to <strong>persistence of the bucconasal membrane.</strong>
 - Associated with **CHARGE syndrome**:
   - **C** — Coloboma.
   - **H** — Heart defect.
@@ -34,15 +34,17 @@ tags:
   - **E** — Ear abnormalities.
 - Can be unilateral or bilateral.
 - Bilateral atresia is an emergency.
-
+###### Illustrations
+![[p107_choanal-atresia-ct-imaging-axial-and-sagittal.jpg]]
+![[p106_choanal-atresia-nasal-endoscopy-clinical-images.jpg]]
 ### Bilateral choanal atresia
 
 - Presents as an emergency at birth.
 - Infants are obligate nasal breathers until 3 months of age, as stated in the source.
 - The choana fails to communicate with the nasopharynx; the patient is unable to breathe.
 - **Cyclical cyanosis:** cyanosis is present at rest and disappears on crying.
-  - Mechanism: at rest, the nose and mouth are blocked, causing cyanosis.
-  - On crying, negative intrathoracic pressure opens the mouth; air enters the lungs and cyanosis improves.
+	- Mechanism: at rest, the nose and mouth are blocked, causing cyanosis.
+	- On crying, negative intrathoracic pressure opens the mouth; air enters the lungs and cyanosis improves.
 - Crying improves stridor.
 
 ### Unilateral choanal atresia
@@ -50,44 +52,42 @@ tags:
 - Not an emergency; presents later in life.
 - A cold or upper respiratory tract infection (URTI) may trigger difficulty breathing and stridor.
 - Constant unilateral rhinorrhea:
-  - Secretions on the normal side drain into the nasopharynx.
-  - Secretions on the atretic side cannot drain posteriorly and therefore come anteriorly.
-  - This results in constant unilateral rhinorrhea, crusting and skin excoriation.
+	- Secretions on the normal side drain into the nasopharynx.
+	- Secretions on the atretic side cannot drain posteriorly and therefore come anteriorly.
+	- This results in constant unilateral rhinorrhea, crusting and skin excoriation.
 - Crusting and excoriation of the skin may be present.
 
 ### Diagnosis
 
 - **Simple bedside test:** pass a Foley catheter through the nose.
-  - Normal: it passes into the nasopharynx and down to the oropharynx.
-  - Resistance or inability to pass it indicates choanal atresia.
+	- Normal: it passes into the nasopharynx and down to the oropharynx.
+	- Resistance or inability to pass it indicates choanal atresia.
 - Endoscopic examination under anaesthesia.
 - CT scan confirms the diagnosis by showing no communication between the nose and nasopharynx.
 
 > [!example]- Source page visual — PDF page 106
 > ![[images/chunk04_p106_source_page.jpeg]]
 
-## Treatment of choanal atresia
+### Treatment of choanal atresia
 
-### Bilateral choanal atresia
-
+#### Bilateral choanal atresia
 1. **McGovern's technique:** provide a feeding nipple (McGovern's nipple) to allow simultaneous breathing and feeding; this temporarily restores the airway.
 2. **Tracheostomy:** bypass the upper airway and secure it for a longer period.
 3. **Definitive repair:** at 1 to 1.5 years of age.
 
-### Unilateral choanal atresia
-
+#### Unilateral choanal atresia
 - Requires no intervention at birth.
 - Direct surgical repair is performed at 1 to 1.5 years of age.
 
 ### Error files
 
 - Choanal atresia:
-  - Cyclical cyanosis — cyanosis that gets better on crying.
-  - Crying improves stridor.
-- Crying worsens stridor in:
-  - Acute epiglottitis.
-  - Croup.
-  - Laryngomalacia.
+	- Cyclical cyanosis — cyanosis that gets better on crying.
+	- Crying improves stridor.
+- ==Crying worsens stridor in:==
+	- ==Acute epiglottitis.==
+	- ==Croup.==
+	- ==Laryngomalacia.==
 
 > [!example]- Source page visual — PDF page 107
 > ![[images/chunk04_p107_source_page.jpeg]]
@@ -95,58 +95,61 @@ tags:
 ## Septal diseases
 
 ### Deviated nasal septum (DNS) (NEET PG 2022; FMGE 2023)
-
 - The septum does not lie in the midline and fails to divide the nasal cavities into equal halves.
 - Described in the source as extremely common, affecting approximately 95% of patients.
 
 ### Indications for surgery
-
 - Presence of symptoms not resolving with medical therapy.
 - Symptoms include:
-  - Nasal blockade.
-  - Headache.
-  - Sinusitis.
-  - Smell abnormalities.
-  - Facial pain.
-  - External deformities of the nose.
+	- Nasal blockade.
+	- Headache.
+	- Sinusitis.
+	- Smell abnormalities.
+	- Facial pain.
+	- External deformities of the nose.
 - Types of surgery:
-  - Septoplasty — described as a very conservative type of surgery.
-  - Submucous resection (SMR).
-  - No septal surgery is preferred until 17 years of age, according to the source.
+	- Septoplasty — described as a very conservative type of surgery.
+	- ==Submucous resection (SMR).==
+	- <u>No septal surgery is preferred until 17 years of age, according to the source.</u>
 
 ### Cottle's line
+![[IMG_1276.jpeg]]
 
 - An imaginary line drawn from the frontal spine to the anterior nasal spine.
-- Anterior deviations (anterior to the line) → treated only with septoplasty.
-- Posterior deviations (posterior to the line) → treated with either septoplasty or SMR.
+- <strong>Anterior deviations (anterior to the line)</strong> → treated only with <u>septoplasty.</u>
+- <strong>Posterior deviations (posterior to the line)</strong> → treated with ==either septoplasty or SMR.==
 
 | Feature | Septoplasty | SMR |
 |---|---|---|
 | Children | Yes | No |
 | Elevation of flap | Single | Both |
 | Anterior deviation | Preferred | — |
-| Risk of complication | Very less | High |
-| Risk of recurrence | High | Less |
+| ==Risk of complication== | Very less | High |
+| ==Risk of recurrence== | High | Less |
 
 ### Septal abscess versus septal haematoma
 
-Both present with bilateral septal swelling, nasal blockade, pain and breathing difficulty.
+Both present with:
+1. bilateral septal swelling, 
+2. nasal blockade, 
+3. pain and 
+4. breathing difficulty.
 
 **Septal haematoma**
 - History of trauma.
 - Accumulation of blood between cartilage/bone and the overlying perichondrium/mucosa.
 
 **Septal abscess**
-- History of infection or untreated septal haematoma.
+- History of infection or <u>untreated septal haematoma</u>.
 - Accumulation of pus between the septum and overlying mucosa.
 
-| Feature | Septal abscess | Septal haematoma |
-|---|---|---|
-| Presentation | Nasal blockade | Nasal blockade |
-| Headache | Yes | No |
-| Lymphadenopathy | Yes | No |
-| Fever | Yes | No |
-| Early intervention | Incision and drainage; early intervention is strictly required. It is in a dangerous area of the face; infection can travel retrograde into the cavernous sinus, causing cavernous sinus thrombosis. Abscess → necrosis of underlying cartilage → saddle-nose deformity. | Incision and drainage plus pressure packing. |
+| Feature            | Septal abscess                                                                                                                                                                                                                                                                           | Septal haematoma                             |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| Presentation       | Nasal blockade                                                                                                                                                                                                                                                                           | Nasal blockade                               |
+| Headache           | Yes                                                                                                                                                                                                                                                                                      | No                                           |
+| Lymphadenopathy    | Yes                                                                                                                                                                                                                                                                                      | No                                           |
+| Fever              | Yes                                                                                                                                                                                                                                                                                      | No                                           |
+| Early intervention | Incision and drainage; early intervention is strictly required. <br>- It is in a dangerous area of the face; infection can travel retrograde into the cavernous sinus, causing cavernous sinus thrombosis. <br>- Abscess → necrosis of underlying cartilage → ==saddle-nose deformity.== | Incision and drainage plus pressure packing. |
 
 > [!example]- Source page visual — PDF page 108
 > ![[images/chunk04_p108_source_page.jpeg]]
@@ -160,27 +163,27 @@ Both present with bilateral septal swelling, nasal blockade, pain and breathing 
 - Most common site.
 - Causes:
   - Trauma (finger, nose rings).
-  - Inhalation of fumes (asbestos, mustard gas).
+  - ==Inhalation of fumes== (asbestos, mustard gas).
   - Cocaine sniffing.
-  - Diseases (tuberculosis, leprosy, sarcoidosis).
+  - Diseases (==tuberculosis, leprosy==, sarcoidosis).
 
 ### Bony portion perforations
 
-- Typically seen in syphilis.
+- Typically seen in <strong><mark style="background-color: #ffd1e4; color: #5c203d;">syphilis.</mark></strong>
 
 ### Total septal perforations
 
-- Typically seen in Wegener's granulomatosis.
+- Typically seen in <mark style="background-color: #ffd1e4; color: #5c203d;"><strong>Wegener's granulomatosis</strong>.</mark> (granulomatosis with polyangitis)
 
 ### Presentation
 
-- Small perforation — whistling sound during respiration.
-- Large perforation — airflow dries the edges → crusting; removal of crusts leads to bleeding.
+- Small perforation — <em>whistling</em> sound during respiration.
+- Large perforation — airflow dries the edges → <em>crusting;</em> removal of crusts leads to *bleeding*.
 
 ### Treatment
 
-- Most are asymptomatic and require no intervention.
-- If symptomatic, insert a Silastic button.
+- Most are asymptomatic and <strong>require no intervention</strong>.
+- If symptomatic, insert a <u>Silastic button.</u>
 
 ### MCQ
 
@@ -213,35 +216,50 @@ D. Rhinoscleroma
 - Aetiology listed: infection (commonly *Streptococcus pneumoniae*).
 - Young age group; male predominant.
 
-### Presentation
+#### Presentation
 
 - Unilateral nasal blockade.
 - Nasal obstruction and discharge.
 - Widening of the nose.
 - Hyposmia.
 
-### Diagnosis
+#### Diagnosis
 
-- On examination: greyish-white polypoidal mass growing posteriorly.
+- On examination: greyish-white polypoidal mass ==growing posteriorly.==
 - Next step: CT scan — shows unilateral haziness.
 
-### Treatment
+#### Treatment
 
 - No role for medical therapy, according to the source.
 - Surgery → FESS (functional endoscopic sinus surgery).
 
-### FESS
+#### FESS (Functional Endoscopic Sinus Surgery)
 
 - The bulla ethmoidalis lies behind the uncinate process.
 - Sequence of FESS:
-  1. Uncinectomy.
-  2. Maxillary sinusotomy.
-  3. Anterior ethmoidectomy.
-  4. Posterior ethmoidectomy.
-  5. Sphenoidotomy.
-  6. Frontal sinusotomy.
+	1. Uncinectomy.
+	2. Maxillary sinusotomy.
+	3. Anterior ethmoidectomy.
+	4. Posterior ethmoidectomy.
+	5. Sphenoidotomy.
+	6. Frontal sinusotomy.
 - FESS has largely replaced the Caldwell–Luc procedure.
 
+
+> [!note]- Why do ethmoidectomy when we are only doing "sinusotomy" for other sinuses?
+>Imagine the ethmoid labyrinth as a honeycomb.
+Each cell has its own walls, and the cells communicate through relatively narrow openings.
+>
+>In chronic rhinosinusitis, inflammation may involve multiple cells, producing:
+>- Edematous mucosa that narrows the drainage pathways.
+>- Polyps or inflammatory tissue obstructing the labyrinth.
+>- Persistent disease within multiple interconnected cells.
+>Simply enlarging one entrance would not necessarily address disease in the individual cells behind it.
+>
+>Therefore, ethmoidectomy opens the affected ethmoid compartments by removing selected intercellular bony partitions and diseased tissue, creating a more accessible, interconnected cavity.
+>
+>Importantly, the surgeon does not routinely remove every ethmoid air cell in every patient. The extent of ethmoidectomy depends on disease distribution and the intended surgical outcome.
+>![[IMG_1280.webp]]
 ### Ethmoidal polyp (NEET PG 2022; FMGE 2023)
 
 - Arises from ethmoidal air cells.
@@ -249,43 +267,41 @@ D. Rhinoscleroma
 - Affects both sides of the nose.
 - Multiple masses/polypoidal tissue grow anteriorly to the vestibule of the nose.
 - Bilateral.
+- **Bunch-of-grapes appearance** on examination.
+- Associated syndromes/conditions:
+	- Chronic rhinosinusitis.
+	- Asthma.
+	- Cystic fibrosis.
+	- **==Kartagener's syndrome==:** bronchiectasis, sinusitis, situs inversus.
+	- **==Young syndrome==:** bronchiectasis, sinusitis and obstructive azoospermia.
+	- **Churg–Strauss syndrome**: asthma, fever, eosinophilia, vasculitis and granuloma.
+	- ==**Samter's triad:**== asthma, nasal polyps and aspirin intolerance.
 
 > [!example]- Source page visual — PDF page 110
 > ![[images/chunk04_p110_source_page.jpeg]]
 
-### Ethmoidal polyp — continuation
 
-- Bunch-of-grapes appearance on examination.
-- Associated syndromes/conditions:
-  - Chronic rhinosinusitis.
-  - Asthma.
-  - Cystic fibrosis.
-  - Kartagener's syndrome: bronchiectasis, sinusitis, situs inversus.
-  - Young syndrome: sinopulmonary syndrome and azoospermia.
-  - Churg–Strauss syndrome: asthma, fever, eosinophilia, vasculitis and granuloma.
-  - Samter's triad: nasal polyps, asthma and aspirin intolerance.
 
-### Treatment
-
+#### Treatment
 1. Medical therapy:
-   - Steroid — primary treatment.
-   - Antiallergics.
-   - Mast-cell stabiliser.
+	- Steroid — primary treatment.
+	- Antiallergics.
+	- Mast-cell stabiliser.
 2. If medical therapy fails → CT scan → FESS.
 
-### Antrochoanal versus ethmoidal polyp
+### ==Antrochoanal versus ethmoidal polyp==
 
-| Feature | Antrochoanal polyp (AC polyp) | Ethmoidal polyp |
-|---|---|---|
-| Age | Young | Older |
-| Aetiology | Infection (*Strep. pneumoniae*) | Allergy |
-| Number | Single | Multiple |
-| Laterality | Unilateral | Bilateral |
-| Origin | Maxillary sinus | Ethmoidal air cells |
-| Growth | Posteriorly | Anteriorly |
-| Medical treatment | No role | Yes |
-| Surgery | FESS | FESS |
-| Recurrence | Low | High |
+| Feature           | Antrochoanal polyp (AC polyp)   | Ethmoidal polyp     |
+| ----------------- | ------------------------------- | ------------------- |
+| Age               | Young                           | Older               |
+| Aetiology         | Infection (*Strep. pneumoniae*) | Allergy             |
+| Number            | Single                          | Multiple            |
+| Laterality        | Unilateral                      | Bilateral           |
+| Origin            | Maxillary sinus                 | Ethmoidal air cells |
+| Growth            | Posteriorly                     | Anteriorly          |
+| Medical treatment | No role                         | Yes                 |
+| Surgery           | FESS                            | FESS                |
+| Recurrence        | Low                             | High                |
 
 ### MCQ
 
@@ -309,33 +325,36 @@ D. Adenoid hypertrophy
 ### Rhinosporidiosis (NEET PG 2018)
 
 - Caused by the protozoan *Rhinosporidium seeberi*.
-  - Aquatic protozoan.
-  - Endemic in South India.
-  - Transmission: waterborne route (contact with contaminated ponds).
+	- Aquatic protozoan.
+	- Endemic in South India.
+	- Transmission: waterborne route (contact with contaminated ponds).
 - Presentation: nasal blockade and bleeding.
-- On examination: red mass with whitish dots on the surface — “strawberry” mass.
+- On examination: red mass with whitish dots on the surface — <strong>“strawberry” mass</strong>.
 - CT scan can be done.
-- Treatment: cauterise the base and excise the mass.
-- HPE: shows multiple sporangia with spores inside.
+- Treatment: c<u>auterise the base and excise the mass.</u>
+- ==<strong>HPE: shows multiple sporangia with spores inside.</strong>==
+
+![[p113_rhinosporidiosis-clinical-nasal-mass-and-sporangia-histopathology.jpg]]![[p112_rhinoscleroma-nasal-lesion-and-histopathology.jpg]]
 
 ### Rhinoscleroma
 
-- Granulomatous condition caused by the bacterium *Klebsiella rhinoscleromatis* (Frisch bacillus).
-- Endemic in North India.
+- Granulomatous condition caused by the bacterium ***Klebsiella rhinoscleromatis*** (Frisch bacillus).
+- Endemic in ==North India.==
 - Transmission: air droplets.
 
 **Stages of disease**
 
 1. **Atrophic stage:** bacteria destroy mucin-producing cells → nose becomes dry, with crusting and foul smell.
-2. **Granulomatous stage:** immune response creates a central necrotic area surrounded by inflammatory cells → “woody hard granuloma” → “Hebra nose” deformity.
-3. **Stage of cicatrisation:** healing by fibrosis with stenosis/narrowing of the nose → “Tapir nose” deformity.
+2. **Granulomatous stage:** immune response creates a central necrotic area surrounded by inflammatory cells → <strong><mark style="background: #ADCCFFA6;">“woody hard granuloma”</mark></strong> → <mark style="background-color: #c6e3ff; color: #173653;"><strong>“Hebra nose” deformity.</strong></mark>
+3. **Stage of cicatrisation:** healing by fibrosis with stenosis/narrowing of the nose → ==“Tapir nose” deformity.==
 
-- Histopathology: Mikulicz cells and Russell bodies.
-- Culture on MacConkey agar.
-- Management:
-  - Medical therapy: streptomycin, tetracycline and rifampicin for 4–6 weeks.
-  - Therapy is stopped only after two consecutive cultures, 4 weeks apart, are negative.
+- Histopathology: **Mikulicz cells** and **Russell bodies**.
+- Culture on **MacConkey agar**.
+- **Management:**
+	- Medical therapy: ==streptomycin, tetracycline and **rifampicin**== for *4–6 weeks*.
+	- ==Therapy is stopped only after two consecutive cultures, 4 weeks apart, are negative.==
 
+### Comparison between Rhinosporidiosis and Rhinoscleroma
 | Feature | Rhinosporidiosis | Rhinoscleroma |
 |---|---|---|
 | Causative organism | *Rhinosporidium seeberi* (aquatic protozoan-like organism) | *Klebsiella rhinoscleromatis* |
@@ -344,16 +363,12 @@ D. Adenoid hypertrophy
 | Symptoms | Nasal blockage and bleeding | Crusting, foul smell, granuloma, narrowing/stenosis of the nose |
 | Characteristic appearance | Strawberry-like mass | Hebra nose, Tapir nose |
 | Nasal deformity | — | Hebra nose, Tapir nose |
+| Diagnosis | HPE — final diagnosis                                             | Culture positive on MacConkey agar; Mikulicz cells and Russell bodies on HPE |
+| Treatment | Excision and cauterisation of base; dapsone to prevent recurrence | Tetracycline, streptomycin and rifampicin; debridement of mass if needed     |
 
 > [!example]- Source page visual — PDF page 112
 > ![[images/chunk04_p112_source_page.jpeg]]
 
-### Diagnosis and treatment comparison
-
-| Item | Rhinosporidiosis | Rhinoscleroma |
-|---|---|---|
-| Diagnosis | HPE — final diagnosis | Culture positive on MacConkey agar; Mikulicz cells and Russell bodies on HPE |
-| Treatment | Excision and cauterisation of base; dapsone to prevent recurrence | Tetracycline, streptomycin and rifampicin; debridement of mass if needed |
 
 ### MCQ
 

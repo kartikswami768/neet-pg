@@ -9,6 +9,7 @@ tags:
   - ENT
   - PDF-extraction
   - OCR-proofread
+handwriting-page-id: 88008310-fbc1-494e-931c-2f26f7600a5c
 ---
 
 # PREP XI RR - ENT Study Notes
@@ -253,15 +254,15 @@ The page's clinical flowchart describes a child with nasal blockage, hearing los
 - Mastoid air cells are removed.
 - Mastoid is converted into a single cavity.
 - Posterior canal wall is kept intact.
-- Also called intact-canal-wall / Schwartze operation.
+- Also called ==**intact-canal-wall / Schwartze operation**==.
 
 **Modified radical mastoidectomy (MRM)**
 
 - Mastoid air cells are removed.
 - Posterior canal wall is removed.
 - Mastoid, middle ear and external auditory canal are connected into a single cavity.
-- Also called canal-wall-down surgery.
-- After MRM, meatoplasty is done to reshape the external auditory canal.
+- Also called ==**canal-wall-down surgery**==.
+- After MRM, **meatoplasty** is done to reshape the external auditory canal.
 
 > [!example]- Source page visual — PDF page 46
 > ![[images/chunk02_p046_source_page.jpeg]]
@@ -272,40 +273,40 @@ The page's clinical flowchart describes a child with nasal blockage, hearing los
 - **Characteristic feature:** permanent TM perforation; the perforation edges are lined by squamous epithelium, preventing healing.
 
 | Old classification | New classification |
-|---|---|
-| Tubotympanic | Mucosal type |
-| Atticoantral | Squamosal type |
+| ------------------ | ------------------ |
+| Tubotympanic       | Mucosal type       |
+| Atticoantral       | Squamosal type     |
 
 ### Mucosal and squamosal types
 
 - **Mucosal CSOM:**
-  - Inactive mucosal: dry, no pus.
-  - Active mucosal: pus present.
+	- Inactive mucosal: dry, no pus.
+	- ==Active mucosal==: ==pus present.==
 - **Squamosal type (atticoantral):**
-  - Inactive: dry, with cholesteatoma associated.
-  - Active: pus present.
+	- Inactive: dry, with cholesteatoma associated.
+	- ==Active==: ==pus present.==
 
-| Feature | Mucosal type (tubotympanic / safe) | Squamosal type (atticoantral / unsafe) |
-|---|---|---|
-| Old/new classification | Tubotympanic / mucosal | Atticoantral / squamosal |
-| Age | Children | Adult |
-| Site of perforation | Pars tensa (central perforation) | Pars flaccida / posterosuperior pars tensa |
-| Etiology | Eustachian tube dysfunction; nasopharyngeal pathology | Cholesteatoma formation |
-| Clinical features | Profuse mucoid discharge; non-foul-smelling; non-blood-stained | Scanty foul-smelling, blood-stained discharge |
-| Disease area | Anteroinferior middle ear | Posterosuperior middle ear |
-| Subtypes | Inactive: dry perforation; active: discharging ear | Inactive: cholesteatoma without discharge; active: discharging ear |
-| Amount of discharge | Profuse | Scanty |
-| Discharge smell | Odourless and mucoid | Foul and purulent |
-| Safety | Safe | Unsafe |
-| Bone erosion | Rare | Common |
-| Cholesteatoma | Absent | Present |
-| Ossicular necrosis | Rare | Common (most commonly long process of incus) |
-| Hearing loss | Mild–moderate | Moderate–severe |
-| Tegmen tympani erosion | Rare | Common |
-| Intracranial complication | Rare | Common |
-| Polyp | Pale | Red, fleshy |
-| Tympanosclerosis | Common | Rare |
-| Cholesterol granuloma | Rare | Common |
+| Feature                   | Mucosal type (tubotympanic / safe)                                 | Squamosal type (atticoantral / unsafe)                             |
+| ------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| Old/new classification    | Tubotympanic / mucosal                                             | Atticoantral / squamosal                                           |
+| Age                       | Children                                                           | Adult                                                              |
+| Site of perforation       | Pars tensa (central perforation)                                   | Pars flaccida / posterosuperior pars tensa                         |
+| Etiology                  | Eustachian tube dysfunction; nasopharyngeal pathology              | Cholesteatoma formation                                            |
+| Clinical features         | ==Profuse== mucoid discharge; non-foul-smelling; non-blood-stained | Scanty ==foul-smelling, blood-stained discharge==                  |
+| Disease area              | ==Anteroinferior== middle ear                                      | ==Posterosuperior== middle ear                                     |
+| Subtypes                  | Inactive: dry perforation; active: discharging ear                 | Inactive: cholesteatoma without discharge; active: discharging ear |
+| Amount of discharge       | Profuse                                                            | Scanty                                                             |
+| Discharge smell           | Odourless and mucoid                                               | Foul and purulent                                                  |
+| Safety                    | Safe                                                               | Unsafe                                                             |
+| Bone erosion              | Rare                                                               | Common                                                             |
+| Cholesteatoma             | Absent                                                             | Present                                                            |
+| Ossicular necrosis        | Rare                                                               | Common (most commonly long process of incus)                       |
+| Hearing loss              | Mild–moderate                                                      | Moderate–severe                                                    |
+| Tegmen tympani erosion    | Rare                                                               | Common                                                             |
+| Intracranial complication | Rare                                                               | Common                                                             |
+| Polyp                     | Pale                                                               | Red, fleshy                                                        |
+| Tympanosclerosis          | Common                                                             | Rare                                                               |
+| Cholesterol granuloma     | Rare                                                               | Common                                                             |
 
 > [!example]- Source page visual — PDF page 47
 > ![[images/chunk02_p047_source_page.jpeg]]
@@ -316,16 +317,14 @@ The page's clinical flowchart describes a child with nasal blockage, hearing los
 |---|---|
 | Treatment of the primary pathology is the mainstay, followed by reconstruction surgery (myringoplasty / tympanoplasty). | Ear surgery depends on disease extent, followed by reconstruction surgery (myringoplasty / tympanoplasty / reconstruction of the ossicular chain). |
 
-| Investigation | Purpose |
-|---|---|
-| Otoscopy | Detect perforation |
-| Audiometry | Assess degree of hearing loss |
-| Culture and sensitivity | Ear discharge |
-| Mastoid X-ray | Sclerosis and extent of bone destruction (as stated in source) |
-| CT temporal bone | Disease extent |
-
-**Medical treatment**
-
+| Investigation           | Purpose                                                        |
+| ----------------------- | -------------------------------------------------------------- |
+| Otoscopy                | Detect perforation                                             |
+| Audiometry              | Assess degree of hearing loss                                  |
+| Culture and sensitivity | Ear discharge                                                  |
+| Mastoid X-ray           | Sclerosis and extent of bone destruction (as stated in source) |
+| CT temporal bone        | Disease extent                                                 |
+**Medical treatment
 - **Aural toilet:** remove debris and an aural polyp before local treatment. Do not avulse an aural polyp.
 - **Ear drops:** neomycin + polymyxin + chloromycetin, or gentamicin, as listed.
 - **Systemic antibiotics:** limited use, only in acute exacerbation.
@@ -337,10 +336,10 @@ A patient has profuse, mucoid/mucopurulent, painless, non-foul-smelling ear disc
 
 ### Tubercular otitis media
 
-- Painless, foul-smelling discharge.
-- Multiple TM perforations.
+- ==Painless, foul-smelling discharge==.
+- ==Multiple TM perforations.==
 - Facial nerve paralysis is possible.
-- Severe hearing loss out of proportion to symptoms.
+- Severe hearing loss ==out of proportion to symptoms.==
 
 > [!example]- Source page visual — PDF page 48
 > ![[images/chunk02_p048_source_page.jpeg]]
@@ -375,8 +374,8 @@ D. Glomus tumour
 - Excessive bony deposition around:
   - **Footplate of stapes:** stapedial type.
   - **Round window:** cochlear type.
-- **Stapedial type:** most common site is the fistula ante fenestrum (anterior to the footplate of the stapes).
-- **Cochlear type:** most common site starts at the round window and extends to the scala tympani.
+- **Stapedial type:** most common site is the ==fistula ante fenestrum== (anterior to the footplate of the stapes).
+- **Cochlear type:** most common site starts at the ==round window and extends to the scala tympani.==.
 
 ### Stapedial type — etiology
 
@@ -573,28 +572,16 @@ Increased endolymphatic pressure is attributed to increased production or reduce
 
 ### Cardinal features
 
-| Feature | Description in the source |
-|---|---|
-| Vertigo | Lasts minutes to hours. Severe, sudden vertigo with nystagmus, nausea, vomiting and vagal disturbances such as diarrhoea, cold sweat, pallor and bradycardia. |
-| Hearing loss | Sensorineural; low-frequency hearing loss; distortion of sound (**diplacusis**); intolerance to loud sounds due to recruitment → **Tullio phenomenon** (as stated); typically fluctuating. |
-| Tinnitus | Low-pitched roaring type. |
-| Sense of fullness of ear | Aural fullness. |
+| Feature                  | Description in the source                                                                                                                                                                  |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Vertigo                  | Lasts minutes to hours. Severe, sudden vertigo with nystagmus, nausea, vomiting and vagal disturbances such as diarrhoea, cold sweat, pallor and bradycardia.                              |
+| Hearing loss             | Sensorineural; low-frequency hearing loss; distortion of sound (**diplacusis**); intolerance to loud sounds due to recruitment → **Tullio phenomenon** (as stated); typically fluctuating. |
+| Tinnitus                 | Low-pitched roaring type.                                                                                                                                                                  |
+| Sense of fullness of ear | Aural fullness.                                                                                                                                                                            |
 
 > [!example]- Source page visual — PDF page 54
 > ![[images/chunk02_p054_source_page.jpeg]]
 
-## Meniere's disease — examination, investigations and management
-
-### Examination and investigations
-
-- Otoscopy: normal.
-- Tuning-fork tests: in favour of sensorineural hearing loss.
-- Nystagmus is seen only during an attack; the source states that the fast component is towards the diseased ear.
-- Pure-tone audiometry: upsloping, low-frequency SNHL.
-- Recruitment: positive.
-- **Glycerol test:** oral dehydrating agent that reduces endolymphatic pressure and improves hearing.
-- Caloric tests: canal paresis.
-- **Diagnostic test labelled in the source:** electrocochleography (ECoG), with SP/AP ratio >30%.
 
 ### Variants
 
@@ -608,9 +595,9 @@ Increased endolymphatic pressure is attributed to increased production or reduce
 
 **Conservative**
 
-- Low-salt diet (<1.5–2 g/day, as printed).
+- ==Low-salt diet (<1.5–2 g/day, as printed).==
 - Stop smoking because nicotine causes vasospasm.
-- Avoid excessive intake of water.
+- ==Avoid excessive intake of water.==
 - Correct hormonal imbalances such as hypothyroidism and hypopituitarism.
 - Eliminate allergens (the source says allergens are found in 50%).
 
@@ -620,20 +607,20 @@ Increased endolymphatic pressure is attributed to increased production or reduce
 
 **Surgery if medical management fails:** labyrinthectomy.
 
-| Conservative procedures (preserve hearing) | Destructive procedure (destroy hearing) |
-|---|---|
-| Decompression of endolymphatic sac | Labyrinthectomy |
-| Endolymphatic shunt | Intermittent low-pressure pulse therapy with Meniett device (placed under the destructive-procedure column in the source) |
-| Sacculotomy (Fick's procedure) | — |
-| Cody tack procedure | — |
-| Cochleosacculostomy (cochlear duct is punctured) | — |
+| Conservative procedures (preserve hearing)       | Destructive procedure (destroy hearing)                                                                                   |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| Decompression of endolymphatic sac               | Labyrinthectomy                                                                                                           |
+| Endolymphatic shunt                              | Intermittent low-pressure pulse therapy with Meniett device (placed under the destructive-procedure column in the source) |
+| Sacculotomy (Fick's procedure)                   | —                                                                                                                         |
+| Cody tack procedure                              | —                                                                                                                         |
+| Cochleosacculostomy (cochlear duct is punctured) | —                                                                                                                         |
 
 > [!example]- Source page visual — PDF page 55
 > ![[images/chunk02_p055_source_page.jpeg]]
 
-## Management of intractable vertigo and labyrinthitis
+### Management of intractable vertigo and labyrinthitis
 
-### When medical therapy fails
+#### When medical therapy fails
 
 **If useful hearing is still present:**
 
@@ -644,18 +631,18 @@ Increased endolymphatic pressure is attributed to increased production or reduce
 
 **If no serviceable hearing remains:** surgical labyrinthectomy.
 
-### Labyrinthitis
+## Labyrinthitis
 
 - Inflammation of the entire labyrinth.
 - Vertigo lasts for days to weeks.
 
-| Feature | Circumscribed labyrinthitis | Diffuse serous labyrinthitis | Diffuse suppurative labyrinthitis |
-|---|---|---|---|
-| Pathology | Thinning or erosion of the bony capsule of the labyrinth; labyrinth exposed to external stimuli | Diffuse inflammation of the labyrinth without pus; labyrinth inflamed and irritable | Pus/infection of the labyrinth; loss of vestibular and cochlear functions |
-| Reversibility | Reversible | Reversible | Irreversible |
-| Fistula test | Positive (communication between middle and inner ear) | Negative | Negative |
-| Nystagmus | Positive pressure: towards same side; negative pressure: towards opposite side | Towards same side | Towards opposite side |
-| Other features | Transient vertigo on applying pressure to the tragus | Vestibular and cochlear symptoms | Toxic symptoms and severe symptoms of serous labyrinthitis (as stated in source) |
+| Feature        | Circumscribed labyrinthitis                                                                     | Diffuse serous labyrinthitis                                                        | Diffuse suppurative labyrinthitis                                                |
+| -------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Pathology      | Thinning or erosion of the bony capsule of the labyrinth; labyrinth exposed to external stimuli | Diffuse inflammation of the labyrinth without pus; labyrinth inflamed and irritable | Pus/infection of the labyrinth; loss of vestibular and cochlear functions        |
+| Reversibility  | Reversible                                                                                      | Reversible                                                                          | Irreversible                                                                     |
+| Fistula test   | Positive (communication between middle and inner ear)                                           | Negative                                                                            | Negative                                                                         |
+| Nystagmus      | Positive pressure: towards same side; negative pressure: towards opposite side                  | Towards same side                                                                   | Towards opposite side                                                            |
+| Other features | Transient vertigo on applying pressure to the tragus                                            | Vestibular and cochlear symptoms                                                    | Toxic symptoms and severe symptoms of serous labyrinthitis (as stated in source) |
 
 > [!example]- Source page visual — PDF page 56
 > ![[images/chunk02_p056_source_page.jpeg]]

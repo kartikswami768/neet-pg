@@ -7,6 +7,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "00_inbox",
   "mobileToolbarCommands": [
+    "editor:toggle-highlight",
     "editor:insert-wikilink",
     "editor:insert-embed",
     "editor:toggle-code",
@@ -23,7 +24,8 @@
     "editor:toggle-fold",
     "editor:unfold-all",
     "editor:fold-less",
-    "editor:fold-more"
+    "editor:fold-more",
+    "editor:context-menu"
   ],
   "showUnsupportedFiles": true,
   "autoConvertHtml": false,
