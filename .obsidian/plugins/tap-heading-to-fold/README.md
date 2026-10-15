@@ -1,18 +1,27 @@
 # Tap Heading to Fold
 
-A small Obsidian community plugin for touchscreens. In **Live Preview**, tap a heading's text to fold or unfold its section instead of needing to hit the arrow.
+A small Obsidian community plugin for touchscreens. Tap a heading's text to fold or unfold its section in **Live Preview** and **Reading view**.
 
-## Enable on Android and iPad
+## Install / update
 
-1. Sync/pull the repository so the plugin folder is present in your vault.
-2. In Obsidian, open **Settings → Community plugins** and reload plugins if needed.
-3. Enable **Tap Heading to Fold**. If Restricted Mode is on, disable it first.
-4. Open a note in **Live Preview** and tap the text of a heading with a foldable section.
+1. Sync or pull the latest `main` branch from this vault repository.
+2. In Obsidian, open **Settings → Community plugins**.
+3. Toggle **Tap Heading to Fold** off and on again, or restart Obsidian. Current version: **1.1.0**.
+4. Make sure **Settings → Editor → Fold heading** is enabled.
+5. Test in Live Preview, then switch the same note to Reading view and tap a heading that has content beneath it.
 
-## Notes
+## Version 1.1.0
 
-- The plugin code and manifest are intentionally tracked by the vault repository so Git sync can deliver them to devices.
-- The enabled-plugin list remains device-specific and is not synced by this repository's ignore rules; enable the plugin once on each device.
-- No note text is changed, and no CSS snippet is required.
-- Links and interactive controls within headings are not intercepted.
-- The plugin uses Obsidian's existing folding control. Obsidian's internal editor DOM can change between versions; this build has not been device-tested on this vault.
+- Adds Reading view support by locating Obsidian's native `.heading-collapse-indicator` in the rendered heading and invoking it.
+- Keeps the Live Preview handler, which identifies the editor line, maps the tap to Markdown text, and calls Obsidian's `toggleFold` command.
+- Leaves links, controls, Markdown markers, and native fold indicators alone.
+- No note contents are changed and no CSS snippet is required.
+
+## Troubleshooting
+
+- If the plugin is not updating, sync/pull the repository, then toggle it off and on or restart Obsidian.
+- Verify the plugin is enabled and **Fold heading** is enabled in Obsidian's Editor settings.
+- In Reading view, tapping a heading requires Obsidian to render its native heading-collapse indicator. If a theme or Obsidian version does not provide that indicator, the plugin will not have a native control to trigger.
+- Plugin files are tracked by this vault repository, but the enabled-plugin list is device-specific; enable the plugin separately on each device.
+
+Obsidian's internal DOM can change between versions. This build has not been device-tested on this vault.
