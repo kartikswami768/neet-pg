@@ -1,0 +1,9 @@
+{
+  "id": "reading-highlighter-extended",
+  "name": "Reading Highlighter Extended",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Adds colored highlights, bold, italic, underline and undo actions to Reading Highlighter's selection toolbar.",
+  "author": "Local vault customization",
+  "isDesktopOnly": false
+}
