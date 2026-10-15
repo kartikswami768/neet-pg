@@ -9,6 +9,7 @@ tags:
   - ENT
   - PDF-extraction
   - OCR-proofread
+handwriting-page-id: 8be37779-0154-4566-9aa0-3b4b8fb49d61
 ---
 
 # PREP XI RR - ENT Study Notes
@@ -397,6 +398,77 @@ D. Nasal polyp
 | If unresolved | Skin-prick test/radioallergosorbent test to identify the specific allergen → immunotherapy (subcutaneous or sublingual); immunotherapy types: SCIT, SLIT | If medical therapy fails → surgical reduction of inferior turbinates; final surgical option → Vidian neurectomy |
 | Specific signs | Allergic shiners: dark circles around the eyes. Allergic salute: constant upward rubbing of the nose. Darier's line/crease: dark transverse crease on the nasal dorsum. | — |
 
+### Atrophic rhinitis
+- Atrophy of the entire sinus mucosa, nasal mucosal glands and olfactory epithelium.
+- Results in a dry nose, greenish foul-smelling crusts and merciful anosmia.
+- **Merciful anosmia:** the patient does not perceive the foul smell because of olfactory epithelium atrophy, but people around them do.
+- **Paradoxical symptom:** the patient complains of nasal blockade despite wide, roomy chambers (loss of sensation of airflow).
+
+**Causes — mnemonic HENIA + R (as printed)**
+- H → Hereditary.
+- E → Endocrinological problems.
+- R → Racial.
+- N → Nutritional deficiencies (vitamins A, D and E).
+- I → Infective causes (*Klebsiella ozaenae*, most common cause, also called ==Perez bacillus==).
+- A → Autoimmune causes.
+
+**Treatment**
+
+1. **Medical therapy:**
+	- Irrigate the nose to keep it clean and moist.
+	- Solution: <u>alkaline nasal douching solution</u>.
+		- Composition, 
+			- mixed in 280 mL water
+			- 2 parts sodium chloride 
+			- 1 part sodium bicarbonate 
+			- 1 part sodium biborate.
+	- Other options: 
+		- placental extracts, 
+		- oestrogen/estradiol spray, 
+		- ==**Kemecetine** anti-ozaena solutions.==
+2. **Surgery if medical therapy fails:**
+   - Young's operation: complete surgical closure of the nasal cavity (elevating mucosa on the septum, lateral wall and floor).
+   - Modified Young's operation: leaves a 10 mm gap for breathing.
+   - Lautenschlager's operation: medialisation of the lateral wall of the nose.
+### Other rhinitis conditions
+
+#### **Rhinitis sicca**
+- <u>Similar to atrophic rhinitis but limited to the anterior one-third of the nose</u>.
+- **Aetiology**: <u>constant exposure to dry air currents, hot/humid environments.</u>
+- Symptoms: nasal crusting, foul smell and nasal blockade.
+- Treatment: saline irrigation spray and changing profession.
+
+#### **Rhinitis caseosa**
+- Accumulation of cheesy material within the sinuses.
+- Aetiology: chronic obstruction of the nose/sinuses (e.g., polyp, foreign body, DNS) → retention of secretions.
+- Symptoms: cheesy, thick, mucoid, foul-smelling discharge with crusting.
+- Treatment: surgical removal of the obstruction to clear secretions and restore a patent airway.
+
+#### **Tuberculosis**
+- Primary TB: occurs directly inside the nose.
+- Secondary TB: occurs secondary to an active pulmonary TB focus.
+- Presentation: granuloma, usually affecting the cartilaginous portion of the nose.
+- Complication: septal perforation.
+- Diagnosis: GeneXpert or growth on Lowenstein–Jensen (LJ) medium.
+- Treatment: antitubercular therapy (ATT).
+
+#### **Lupus vulgaris**
+- Low-grade, <u>indolent ==tubercular== infection of the nos</u>e.
+- Usually ==not associated with active pulmonary TB.==
+- Specific sign: ==apple-jelly nodule==; <u>the nodule blanches on application of pressure.</u>
+- Treatment: ==ATT==.
+
+#### **Sarcoidosis**
+- Non-caseating granuloma inside the nose or sinuses.
+- Specific sign: “**strawberry mucosa**”.
+	- ==Differential note: “**strawberry polyp**” indicates rhinosporidiosis.==
+- Complications: destructive lesions affecting the cartilaginous septum → saddle-nose deformity and chronic sinusitis.
+- Can be associated with systemic sarcoidosis manifestations.
+
+> [!example]- Source page visual — PDF page 114
+> ![[images/chunk04_p114_source_page.jpeg]]
+
+
 ### MCQ — atrophic rhinitis
 
 **Question:** A patient presents to the OPD with greenish black matter in the nose and “merciful smelling” (wording as printed). What is the diagnosis?
@@ -408,79 +480,6 @@ D. Rhinitis sicca
 
 **Printed answer: B**
 
-### Atrophic rhinitis
-
-- Atrophy of the entire sinus mucosa, nasal mucosal glands and olfactory epithelium.
-- Results in a dry nose, greenish foul-smelling crusts and merciful anosmia.
-- **Merciful anosmia:** the patient does not perceive the foul smell because of olfactory epithelium atrophy, but people around them do.
-
-### Other rhinitis conditions
-
-**Rhinitis sicca**
-- Similar to atrophic rhinitis but limited to the anterior one-third of the nose.
-- Aetiology: constant exposure to dry air currents, hot/humid environments.
-- Symptoms: nasal crusting, foul smell and nasal blockade.
-- Treatment: saline irrigation spray and changing profession.
-
-**Rhinitis caseosa**
-- Accumulation of cheesy material within the sinuses.
-- Aetiology: chronic obstruction of the nose/sinuses (e.g., polyp, foreign body, DNS) → retention of secretions.
-- Symptoms: cheesy, thick, mucoid, foul-smelling discharge with crusting.
-- Treatment: surgical removal of the obstruction to clear secretions and restore a patent airway.
-
-**Tuberculosis**
-- Primary TB: occurs directly inside the nose.
-- Secondary TB: occurs secondary to an active pulmonary TB focus.
-- Presentation: granuloma, usually affecting the cartilaginous portion of the nose.
-- Complication: septal perforation.
-- Diagnosis: GeneXpert or growth on Lowenstein–Jensen (LJ) medium.
-- Treatment: antitubercular therapy (ATT).
-
-**Lupus vulgaris**
-- Low-grade, indolent tubercular infection of the nose.
-- Usually not associated with active pulmonary TB.
-- Specific sign: apple-jelly nodule; the nodule blanches on application of pressure.
-- Treatment: ATT.
-
-**Sarcoidosis**
-- Non-caseating granuloma inside the nose or sinuses.
-- Specific sign: “strawberry mucosa”.
-  - Differential note: “strawberry polyp” indicates rhinosporidiosis.
-- Complications: destructive lesions affecting the cartilaginous septum → saddle-nose deformity and chronic sinusitis.
-- Can be associated with systemic sarcoidosis manifestations.
-
-> [!example]- Source page visual — PDF page 114
-> ![[images/chunk04_p114_source_page.jpeg]]
-
-### Atrophic rhinitis — findings, causes and treatment (00:56:22)
-
-- Atrophy of all nasal structures (mucosa, sinus mucosa, olfactory epithelium and mucus-producing cells).
-- Symptoms: dry nose, crusting and foul smell.
-- Examination findings:
-  - Dry crusting visible.
-  - Nasal cavity appears wide and roomy due to shrinkage.
-- **Paradoxical symptom:** the patient complains of nasal blockade despite wide, roomy chambers (loss of sensation of airflow).
-- Merciful anosmia is present.
-
-**Causes — mnemonic HENIA + R (as printed)**
-- H → Hereditary.
-- E → Endocrinological problems.
-- R → Racial.
-- N → Nutritional deficiencies (vitamins A, D and E).
-- I → Infective causes (*Klebsiella ozaenae*, most common cause, also called Perez bacillus).
-- A → Autoimmune causes.
-
-**Treatment**
-
-1. **Medical therapy:**
-   - Irrigate the nose to keep it clean and moist.
-   - Solution: alkaline nasal douching solution.
-   - Composition, mixed in 280 mL water: 2 parts sodium chloride + 1 part sodium bicarbonate + 1 part sodium biborate.
-   - Other options: placental extracts, oestrogen/estradiol spray, Kemecetine anti-ozaena solutions.
-2. **Surgery if medical therapy fails:**
-   - Young's operation: complete surgical closure of the nasal cavity (elevating mucosa on the septum, lateral wall and floor).
-   - Modified Young's operation: leaves a 10 mm gap for breathing.
-   - Lautenschlager's operation: medialisation of the lateral wall of the nose.
 
 > [!example]- Source page visual — PDF page 115
 > ![[images/chunk04_p115_source_page.jpeg]]
@@ -523,8 +522,8 @@ D. Rhinitis sicca
 
 - Internal maxillary artery branches run within the pterygopalatine fossa (behind the posterior wall of the maxillary sinus).
 - Ligation of the internal maxillary artery is done in the pterygopalatine fossa.
-- Sphenopalatine artery: ligated approximately 8–10 mm behind the middle turbinate.
-- Greater palatine artery: dips down to the palate; ligated near the third molar.
+- <strong>Sphenopalatine artery:</strong> <u>ligated approximately 8–10 mm</u> behind the <u>middle turbinate.</u>
+- <strong>Greater palatine artery:</strong> dips down to the palate; <u>ligated near the third molar</u>.
 
 ### Causes of epistaxis
 
@@ -543,40 +542,40 @@ D. Rhinitis sicca
 
 ### Anterior epistaxis versus posterior epistaxis
 
-| Feature | Anterior epistaxis | Posterior epistaxis |
-|---|---|---|
-| Incidence | More common | Less common |
-| Site | Little's area | Woodruff's plexus/SPA |
-| Age | Children | Age greater than 40 years |
-| Cause | Trauma | HTN |
-| Bleeding | Mild; can be controlled by local pressure or anterior pack | Severe; requires hospitalisation and postnasal pack |
+| Feature   | Anterior epistaxis                                         | Posterior epistaxis                                 |
+| --------- | ---------------------------------------------------------- | --------------------------------------------------- |
+| Incidence | More common                                                | Less common                                         |
+| Site      | Little's area                                              | Woodruff's plexus/==SPA==                           |
+| Age       | Children                                                   | Age greater than 40 years                           |
+| Cause     | Trauma                                                     | HTN                                                 |
+| Bleeding  | Mild; can be controlled by local pressure or anterior pack | Severe; requires hospitalisation and postnasal pack |
 
 ### Protocol for epistaxis (01:10:20)
-
+![[p117_epistaxis-assessment-and-management-algorithm.jpg]]
 The original flowchart is preserved in the source-page embed. The accompanying steps are:
 
-1. **Trotter's method:** pinch the nose and bend forward for approximately 15 minutes.
+1. ==**Trotter's method:**== pinch the nose and <u>bend forward</u> for approximately 15 minutes.
 2. **Initial medical review and resuscitation.**
-3. **Nasal preparation for endoscopy:** spray Xylocaine (numbing) and adrenaline (reduces bleeding).
-4. **Endoscopic cauterisation:** if a single bleeding point is seen, use chemical cautery (silver nitrate solution) or electrical cautery (monopolar/bipolar).
+3. **Nasal preparation for endoscopy:** spray ==Xylocaine (numbing) and adrenaline (reduces bleeding).==
+4. **Endoscopic cauterisation:** if a single bleeding point is seen, use ==chemical cautery (silver nitrate solution==) or electrical cautery (monopolar/bipolar).
 5. **Anterior nasal packing:** done if no bleeding point is seen, endoscopy is unavailable, or cautery fails.
-
-> [!example]- Source page visual — PDF page 117
-> ![[images/chunk04_p117_source_page.jpeg]]
-
-### Epistaxis — continued management
-
 6. **Posterior nasal packing:** done if anterior packing fails.
 7. **Surgical ligation of an artery (last resort):**
-   1. Sphenopalatine artery.
-   2. Internal maxillary artery.
-   3. External carotid artery (if bleeding is from the lower half).
-   4. Ethmoidal artery (if bleeding is from the upper half).
+   8. Sphenopalatine artery.
+   9. Internal maxillary artery.
+   10. External carotid artery (if bleeding is from the lower half).
+   11. Ethmoidal artery (if bleeding is from the upper half).
 
 **Posterior nasal packing — procedure**
 - Pass a Ryle's/infant feeding tube through the nose to the mouth.
 - Attach threaded ribbon gauze.
 - Retract the tube from the nose; the gauze sits in the nasopharynx, then block the anterior nose.
+
+> [!example]- Source page visual — PDF page 117
+> ![[images/chunk04_p117_source_page.jpeg]]
+
+
+
 
 ### MCQ — ligation of artery
 
@@ -593,14 +592,14 @@ D. External carotid artery
 
 - Most common cause of epistaxis: trauma.
 - Most common cause of epistaxis in children: finger trauma.
-- Most common cause of epistaxis with foul-smelling unilateral nasal discharge in children: foreign body.
-- Most common cause of recurrent, unprovoked, profuse epistaxis in an adolescent male: JNA.
+- Most common cause of epistaxis with foul-smelling unilateral nasal discharge in children: ==foreign body.==
+- <mark style="background: #BBFABBA6;">Most common cause of recurrent, unprovoked, profuse epistaxis in an adolescent male:</mark> ==JNA==.
 - Most common cause of epistaxis in the elderly: HTN.
-- Most common site/source of epistaxis listed: sphenopalatine artery.
-- Anterior epistaxis, if venous, occurs from the Reterocolumella vein (source spelling is retained in the image; see QA note).
+- <mark style="background: #BBFABBA6;">Most common site/source of epistaxis listed</mark>: ==sphenopalatine artery.==
+- Anterior epistaxis, if venous, occurs from the ==Reterocolumella vein== (source spelling is retained in the image; see QA note).
 - The artery of epistaxis is the sphenopalatine artery.
 - Posterior epistaxis occurs from Woodruff's plexus or the sphenopalatine artery.
-- **TESPAL:** transnasal endoscopic sphenopalatine artery ligation.
+- ==**TESPAL:** transnasal endoscopic sphenopalatine artery ligation.==
 
 > [!example]- Source page visual — PDF page 118
 > ![[images/chunk04_p118_source_page.jpeg]]
@@ -654,19 +653,19 @@ E. A central venous pressure line is mandatory.
 ## Fractures of the face (01:20:58)
 
 - Source wording: “Middle third and lower thyroid mostly”. This wording is unclear in the scan and is not silently replaced.
-- Fracture frequency sequence as printed: nasal fracture (most common) > zygomatic fractures > maxillary fractures > floor-of-orbit fractures.
+- Fracture frequency sequence as printed: ==nasal fracture (most common)== > zygomatic fractures > maxillary fractures > ==floor-of-orbit fractures.==
 
 ### Nasal fractures
 
 - **Class 1 — Chevallet fracture:**
-  - Vertical fracture line.
-  - Direction of injury from below.
+	- Vertical fracture line.
+	- Direction of injury from below.
 - **Class 2 — Jarjaway fracture:**
-  - Horizontal fracture line.
-  - Direction of injury from the front.
+	- Horizontal fracture line.
+	- Direction of injury from the front.
 - **Class 3 — naso-orbito-ethmoid fracture:**
-  - Entire component gets crushed and rotated; nasal part points upwards → pig-nose deformity.
-  - High risk of CSF leak.
+	- Entire component gets crushed and rotated; nasal part points upwards → **pig-nose deformity.**
+	- ==High risk of CSF leak.==
 
 ### Zygomatic fracture
 
@@ -681,34 +680,34 @@ E. A central venous pressure line is mandatory.
 
 - Floor of the orbit has no support inferiorly because of the maxillary sinus.
 - Called a **blow-out fracture**.
-- Orbital contents herniate into the maxillary sinus → tear-drop sign.
+- Orbital contents herniate into the maxillary sinus → ==tear-drop sign.==
 - Inferior rectus and inferior oblique may become entrapped → diplopia.
 
 ### Maxillary fracture — Le Fort fractures
-
+![[p120_le-fort-midface-fracture-lines.jpg]]
 **Le Fort I**
 - Fracture through the floor of the nose and floor of the maxilla.
-- Also called transverse fracture/Guerin's fracture.
-- Greater palatine artery rupture → bluish discolouration of palate called **Guerin's sign**.
-- Hanging palate and hanging teeth are seen.
+- Also called transverse fracture/**Guerin's fracture**.
+- **Greater palatine artery rupture** → bluish discolouration of palate called **==Guerin's sign==**.
+- ==Hanging palate and hanging teeth== are seen.
 
 **Le Fort II**
 - Pyramidal or pyramid-shaped fracture.
 - Course: nasion → lacrimal bone → medial wall of orbit → floor of orbit → maxilla.
-- Key feature: hanging maxilla.
+- Key feature: ==hanging maxilla.==
 
 **Le Fort III**
 - Course: nasion → lacrimal bone → medial wall of orbit → floor of orbit → lateral wall of orbit → zygoma.
-- Key feature: disconnects the cranial cavity from the facial skeleton.
-- Also called craniofacial disjunction.
-- Associated with a high risk of CSF leak (CSF rhinorrhea).
+- Key feature: <u>disconnects the cranial cavity from the facial skeleton.</u>
+- Also called **craniofacial disjunction.**
+- Associated with a **==high risk of CSF leak (CSF rhinorrhea).==**
 
 > [!example]- Source page visual — PDF page 120
 > ![[images/chunk04_p120_source_page.jpeg]]
 
 ### Fracture of mandible
 
-- Most common site: subcondylar region.
+- Most common site: **==subcondylar region.==**
 - Fractures rarely occur at the direct site of trauma; impact forces are transmitted to the opposite side (counter-coup effect), resulting in an opposite subcondylar fracture.
 
 **Guardsman fracture/parade-ground fracture**
@@ -717,8 +716,10 @@ E. A central venous pressure line is mandatory.
 
 **Management of mandibular fractures**
 - Closed reduction with internal fixation or open reduction with internal fixation.
-- Do not immobilise the mandible for more than 3–4 weeks.
-- Prolonged immobilisation (>4 weeks) can lead to permanent TMJ ankylosis and inability to open the mouth.
+- <u>Do not immobilise the mandible for more than 3–4 weeks.</u>
+- <u>Prolonged immobilisation (>4 weeks) can lead to permanent <strong><mark style="background-color: #ffd1e4; color: #5c203d;">TMJ ankylosis</mark></strong> and inability to open the mouth.</u>
+
+![[IMG_1281.jpeg]]
 
 ### One-liners
 
@@ -749,10 +750,12 @@ D. After 6 weeks
 
 ### Forceps
 
-| Instrument | Source description/use |
-|---|---|
-| Asch's septum forceps | Has an angle; used for the nasal septum. |
-| Walsham septum forceps | Used for nasal bone reduction. |
+| Instrument             | Source description/use                   |
+| ---------------------- | ---------------------------------------- |
+| Asch's septum forceps  | Has an angle; used for the nasal septum. |
+| Walsham septum forceps | Used for nasal bone reduction.           |
+
+![[p121_asch-and-walsham-forceps-nasal-bone-reduction.jpg]]
 
 > [!example]- Source page visual — PDF page 121
 > ![[images/chunk04_p121_source_page.jpeg]]
@@ -801,7 +804,7 @@ D. Infraorbital nerve
 
 ### Confirmatory laboratory investigations
 
-- Investigation of choice (IOC): beta-2 transferrin test (protein specific to CSF, aqueous humour and perilymph).
+- <strong>Investigation of choice (IOC):</strong> ==beta-2 transferrin test== (protein specific to CSF, aqueous humour and perilymph).
 - Newer highly selective test: beta-trace protein (specific only to CSF).
 
 ### Radiological investigations
