@@ -1,28 +1,38 @@
 # Tap Heading to Fold
 
-A small Obsidian community plugin for touchscreens. Tap a heading's text to fold or unfold its section in **Live Preview** and **Reading view**.
+Tap a heading's text to fold or unfold its section in **Live Preview** and **Reading view**. This version adds gesture filtering to avoid folding when selecting text.
 
 ## Install / update
 
 1. Sync or pull the latest `main` branch from this vault repository.
 2. In Obsidian, open **Settings → Community plugins**.
-3. Toggle **Tap Heading to Fold** off and on again, or restart Obsidian. Current version: **1.1.1**.
+3. Toggle **Tap Heading to Fold** off and on again, or restart Obsidian. Current version: **1.2.0**.
 4. Make sure **Settings → Editor → Fold heading** is enabled.
-5. Test in Live Preview, then switch the same note to Reading view and tap a heading that has content beneath it.
+5. Test in Live Preview and Reading view.
 
-## Version 1.1.1
+## Version 1.2.0
 
-- Adds Reading view support by locating Obsidian's native `.heading-collapse-indicator` in the rendered heading and invoking it.
-- Keeps the Live Preview handler, which identifies the editor line, maps the tap to Markdown text, and calls Obsidian's `toggleFold` command.
-- Fixes the Live Preview heading regex so ordinary heading text is correctly recognized.
-- Leaves links, controls, Markdown markers, and native fold indicators alone.
-- No note contents are changed and no CSS snippet is required.
+- Detects pointer gestures before acting: long presses, drags, and cancelled gestures do not trigger folding.
+- Checks browser text selection and CodeMirror's selection state before folding.
+- Delays the fold by 350 ms so a nearby second tap can be treated as a possible double-tap-to-select gesture.
+- Keeps both Reading view and Live Preview support.
+- Does not change note contents or require CSS.
+
+## Expected behavior
+
+| Interaction | Result |
+| --- | --- |
+| Brief tap on heading text | Fold/unfold after a short delay |
+| Long press to select text | Select text; do not fold |
+| Drag to select text | Select text; do not fold |
+| Double tap on the same heading area | Cancel pending fold to allow word selection |
+| Tap a link or native fold arrow | Normal Obsidian behavior |
 
 ## Troubleshooting
 
-- If the plugin is not updating, sync/pull the repository, then toggle it off and on or restart Obsidian.
-- Verify the plugin is enabled and **Fold heading** is enabled in Obsidian's Editor settings.
-- In Reading view, tapping a heading requires Obsidian to render its native heading-collapse indicator. If a theme or Obsidian version does not provide that indicator, the plugin will not have a native control to trigger.
-- Plugin files are tracked by this vault repository, but the enabled-plugin list is device-specific; enable the plugin separately on each device.
+- Sync/pull the repository, then toggle the plugin off and on or restart Obsidian.
+- Verify the plugin is enabled and **Fold heading** is enabled in Editor settings.
+- Plugin files are tracked by the vault repository, but the enabled-plugin list is device-specific; enable the plugin separately on each device.
+- Obsidian's internal editor DOM can change between versions. Test after major Obsidian updates.
 
-Obsidian's internal DOM can change between versions. This build has not been device-tested on this vault.
+This build has passed a JavaScript syntax check, but should still be tested on the actual iPad and Android devices.
