@@ -1108,7 +1108,7 @@ D. Sphenoethmoidal recess
 > [!example]- Source page visual — PDF page 129
 > ![[images/chunk04_p129_source_page.jpeg]]
 
-## Allergic fungal rhinosinusitis and ==🔵mucormycosis==
+## Allergic fungal rhinosinusitis and ==mucormycosis==
 
 ### Bent and Kuhn criteria for AFRS
 
