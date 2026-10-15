@@ -1221,11 +1221,11 @@ Nasal infection can spread to:
 
 ### Other syndromes similar to cavernous sinus thrombosis
 
-| Condition | Cranial nerves involved | Cranial nerves not involved |
+| Condition | Cranial nerves involved | ==Cranial nerves not involved== |
 |---|---|---|
 | Orbital apex syndrome | II, III, IV, VI + V1 + V2 | — |
 | Superior orbital fissure syndrome | III, IV, VI + V1 + V2 | II |
-| Cavernous sinus syndrome | III, IV, VI | II, V2 |
+| <strong>==Cavernous sinus syndrome==</strong> | III, IV, VI | <strong>==II, V2==</strong> |
 
 ### PYQs (00:24:07)
 
