@@ -841,8 +841,9 @@ D. Glomus tympanicum
 - Site: frontal > frontoethmoid region.
 - HPE: dense lamellar bone lacking Haversian canals.
 - Associated condition: Gardner syndrome (osteomas + colorectal polyps).
-- Management: Lynch–Howarth external frontoethmoidectomy.
+- Management: <strong>Lynch–Howarth external frontoethmoidectomy.</strong>
   - The Lynch–Howarth incision starts at the medial edge of the eyebrow, curves down midway between the nasal dorsum and medial canthus, and extends downwards to access the frontal and ethmoid sinuses.
+- ![[p123_danger-triangle-of-face-nasal-infection-spread.jpg|Lynch Howarth Incision]]
 
 ### Sinonasal malignancies
 
@@ -852,12 +853,14 @@ D. Glomus tympanicum
 
 **Prognostic classifications**
 
-- **Ohngren's line:** imaginary line from the medial canthus to the angle of the mandible.
+- **==Ohngren's line==:** imaginary line from the medial canthus to the angle of the mandible.
   - Tumours below the line → good prognosis.
   - Tumours above the line → poor prognosis.
-- **Lederman's classification:** two imaginary lines from the medial wall of the orbit and two from the floor of the maxillary sinus.
+- ==**Lederman's classification:**== two imaginary lines from the medial wall of the orbit and two from the floor of the maxillary sinus.
   - Higher tumour location → poorer prognosis.
   - Lower tumour location → better prognosis.
+
+![[p123_external-nose-surgical-landmarks-profile.jpg]]![[p123_nose-suprastructure-mesostructure-and-infrastructure.jpg]]
 
 **Presentation**
 - Dull pain over the maxillary sinus.
@@ -875,8 +878,8 @@ D. Glomus tympanicum
 
 **Management — surgical management**
 - Total maxillectomy is performed to achieve negative margins.
-- Structures removed: maxilla, ipsilateral palate, ipsilateral eyeball, lateral wall of the nose, ethmoidal air cells.
-- Incision used: Weber–Fergusson incision.
+- Structures removed: maxilla, ipsilateral palate, <u>ipsilateral eyeball</u>, lateral wall of the nose, ethmoidal air cells.
+- Incision used: <strong>==Weber–Fergusson incision==.</strong>
 - Course of Weber–Fergusson: lower eyelid → nasofacial sulcus → winds around the nasal ala → crosses the philtrum to the upper lip.
 
 
@@ -888,8 +891,8 @@ D. Glomus tympanicum
 - The superior turbinate cannot be seen on anterior rhinoscopy.
 - Medial wall is the septum.
 - Instruments for rhinoscopy:
-  - Thudicum's or Killian's nasal speculum → anterior rhinoscopy.
-  - St. Clair Thomson mirror → posterior rhinoscopy.
+  - <strong>Thudicum's or Killian's nasal speculum</strong> → anterior rhinoscopy.
+  - <strong>St. Clair Thomson mirror</strong> → posterior rhinoscopy.
 - Endoscopic nasal view: the superior turbinate is only visible endoscopically after decongestion and xylocaine application.
 - The adjacent circular image is labelled “Peripheral halo” in the source.
 
@@ -916,7 +919,7 @@ D. Glomus tympanicum
 - **Pneumatocele:** air-filled frontal sinus.
 - **Orbital cellulitis:** secondary to ethmoid sinus infection.
 - **Rhinitis sicca and atrophic rhinitis:**
-  - Green crust seen in rhinitis sicca → anterior one-third of nose.
+  - <u>Green crust seen in rhinitis sicca</u> → anterior one-third of nose.
   - Atrophic rhinitis → entire nose.
 - **Target sign:** see source image.
 
@@ -988,19 +991,19 @@ D. Sphenoethmoidal recess
 - Duration 3 to 12 weeks → **subacute sinusitis**.
 - Duration more than 12 weeks → **chronic sinusitis**.
 - **Recurrent sinusitis:**
-  - Four or more episodes per year.
-  - Each episode lasts 7–10 days.
-- Most common sinus affected in adults: maxillary sinus.
-- Most common sinus affected in children: ethmoid.
+  - <u>Four or more episodes per year</u>.
+  - <u>Each episode lasts 7–10 days</u>.
+- Most common sinus affected in <strong>adults: maxillary sinus.</strong>
+- Most common sinus affected in <strong>children: ethmoid.</strong>
 - Least common sinus affected: sphenoid sinus.
 
 ### Aetiology
 
 **Exciting factors**
-- Nasal infection: most acute sinusitis starts as viral infection followed by bacterial invasion.
+- Nasal infection: <u>most acute sinusitis starts as viral infection followed by bacterial invasion.</u>
 - Swimming and diving.
 - Trauma.
-- Dental infection (especially because the maxillary sinus is close to the first and second molars).
+- <u>Dental infection</u> (especially because the maxillary sinus is close to the first and second molars).
 
 **Predisposing factors**
 - Obstruction to ventilation of sinuses (polyp, oedema, rhinitis).
@@ -1008,25 +1011,25 @@ D. Sphenoethmoidal recess
 - Allergy.
 
 **Systemic factors**
-- Attack of exanthematous fever (measles, chickenpox, whooping cough).
+- Attack of ==exanthematous fever== (measles, chickenpox, whooping cough).
 - Nutritional causes.
 - Immune deficiencies.
 
 ### Bacteriology
 
 - Bacteria listed:
-  - *Streptococcus pneumoniae* (most common organism).
-  - H. influenza (spelling as printed in the source).
-  - *Moraxella*.
-  - *Streptococcus pyogenes*.
-  - *Staphylococcus aureus*.
-- Anaerobic organisms and mixed infections are seen in sinusitis of dental origin.
+	- *Streptococcus <u>pneumoniae</u> (most common organism).
+	- H. influenza (spelling as printed in the source).
+	- *<u>Moraxella</u>*.
+	- *Streptococcus <u>pyogenes</u>*.
+	- *Staphylococcus aureus*.
+- <u>Anaerobic organisms and mixed infections</u> are seen in sinusitis of dental origin.
 
 ### Clinical features of acute sinusitis
 
-| Major | Minor |
-|---|---|
-| Nasal obstruction<br>Facial pain or pressure<br>Purulent nasal discharge<br>Fever<br>Nasal congestion<br>Hyposmia or anosmia<br>Facial congestion or fullness | Headache<br>Cough<br>Halitosis<br>Ear pain and pressure<br>Dental pain |
+| Major                                                                                                                                                                       | Minor                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Nasal obstruction<br><u>Facial pain or pressure</u><br>Purulent nasal discharge<br>Fever<br>Nasal congestion<br>Hyposmia or anosmia<br><u>Facial congestion or fullness</u> | <u>Headache</u><br>Cough<br>Halitosis<br><u>Ear pain and pressure</u><br><u>Dental pain</u> |
 
 - For diagnosis: **2 major symptoms OR 1 major + 2 minor symptoms.**
 
@@ -1035,28 +1038,28 @@ D. Sphenoethmoidal recess
 
 ### Features by sinus involved
 
-| Feature | Maxillary | Frontal | Ethmoid | Sphenoid |
-|---|---|---|---|---|
-| Headache | Usually seen over cheeks and forehead and can be confused with frontal sinusitis | Localised to frontal sinuses above medial canthus | Localised over bridge of nose, medial and deep to the eye | Occiput or vertex |
-| Tenderness | Cheek | Over frontal sinus | Bridge of nose | Nil |
-| Redness and oedema | Cheek | Upper-eyelid puffiness | Both eyelids become puffy | Nil |
-| Site of nasal discharge | Middle meatus | Vertical streak of mucopus high up in anterior portion of middle meatus | Seen in middle or superior meatus depending on involvement of anterior or posterior group | Seen on posterior rhinoscopy on the roof and posterior wall of the nasopharynx |
-| Early complications | Orbital cellulitis, osteomyelitis, frontal sinusitis | Orbital cellulitis, osteomyelitis, intracranial abscess | Orbital cellulitis, vision loss, cavernous sinus thrombosis, intracranial abscess | Not listed in the source table |
+| Feature                 | Maxillary                                                                                   | Frontal                                                                 | Ethmoid                                                                                   | Sphenoid                                                                       |
+| ----------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| Headache                | Usually seen over cheeks <u>and forehead </u>and ==can be confused with frontal sinusitis== | Localised to frontal sinuses above medial canthus                       | Localised over bridge of nose, medial and deep to the eye                                 | Occiput or vertex                                                              |
+| Tenderness              | Cheek                                                                                       | Over frontal sinus                                                      | Bridge of nose                                                                            | Nil                                                                            |
+| Redness and oedema      | Cheek                                                                                       | Upper-eyelid puffiness                                                  | Both eyelids become puffy                                                                 | Nil                                                                            |
+| Site of nasal discharge | Middle meatus                                                                               | Vertical streak of mucopus high up in anterior portion of middle meatus | Seen in middle or superior meatus depending on involvement of anterior or posterior group | Seen on posterior rhinoscopy on the roof and posterior wall of the nasopharynx |
+| Early complications     | Orbital cellulitis, osteomyelitis, frontal sinusitis                                        | Orbital cellulitis, osteomyelitis, intracranial abscess                 | Orbital cellulitis, vision loss, cavernous sinus thrombosis, intracranial abscess         | Not listed in the source table                                                 |
 
 ### Diagnosis
 
 **Acute sinusitis**
 - Clinical.
 - Diagnostic nasal endoscopy.
-- X-ray is listed as the first investigation.
+- X-ray is listed as the ==first investigation.==
 - CT scan:
   - No role in uncomplicated acute sinusitis.
   - Done only if a complication is suspected.
-- Gold standard for diagnosis: sinus puncture and bacterial culture.
+- **Gold standard for diagnosis: sinus puncture and bacterial culture.**
 - Accurate method of diagnosis: sinuscopy and biopsy.
 
 **Chronic sinusitis**
-- NCCT of the nose and paranasal sinuses is done for diagnosis.
+- ==NCCT== of the nose and paranasal sinuses is done for diagnosis.
 
 > [!example]- Source page visual — PDF page 128
 > ![[images/chunk04_p128_source_page.jpeg]]
@@ -1095,17 +1098,17 @@ D. Sphenoethmoidal recess
 
 ### Fungal sinusitis (INI CET July 2021; 00:10:44)
 
-| Non-invasive fungal sinusitis | Invasive fungal sinusitis |
-|---|---|
-| Occurs in immunocompetent patients | Occurs in immunocompromised patients |
-| Caused by *Aspergillus* and dematiaceous species | Caused by *Aspergillus fumigatus*, *Rhizopus* and *Mucor* |
-| Presents as fungal ball or allergic fungal rhinosinusitis | Presents as invasive aspergillosis or mucormycosis; source also lists chronic invasive sinusitis under presentations |
-| Antifungals usually not required | Antifungals are required along with radical debridement |
+| Non-invasive fungal sinusitis                                     | Invasive fungal sinusitis                                                                                                                                                            |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Occurs in immunocompetent patients                                | Occurs in immunocompromised patients                                                                                                                                                 |
+| Caused by *Aspergillus* and dematiaceous species                  | Caused by *Aspergillus fumigatus*, *Rhizopus* and *Mucor*                                                                                                                            |
+| Presents as ==fungal ball== or ==allergic fungal rhinosinusitis== | Presents as ==invasive aspergillosis== or ==[[12_Antimicrobials_Part_2_cleaned#18.5 Mucormycosis\|mucormycosis]]==; source also lists chronic invasive sinusitis under presentations |
+| Antifungals usually not required                                  | Antifungals are required along with radical debridement                                                                                                                              |
 
 > [!example]- Source page visual — PDF page 129
 > ![[images/chunk04_p129_source_page.jpeg]]
 
-## Allergic fungal rhinosinusitis and mucormycosis
+## Allergic fungal rhinosinusitis and ==🔵mucormycosis==
 
 ### Bent and Kuhn criteria for AFRS
 
