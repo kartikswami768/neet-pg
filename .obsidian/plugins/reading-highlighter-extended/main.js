@@ -249,33 +249,21 @@ module.exports = class ReadingHighlighterExtendedPlugin extends Plugin {
       return;
     }
 
-    if (action === "yellow") {
-      try {
-        // Keep the original plugin's yellow-highlight implementation unchanged.
-        await base.highlightSelection(view);
-      } finally {
-        this.pendingAction = false;
-        this.selectionReady = false;
-        base.hideFloatingButton?.();
-        base.hideUndoButton?.();
-        this.refreshToolbar();
-      }
-      return;
-    }
-
     const spec = COLOR_ACTIONS[action];
-    const opening = action === "green" || action === "blue" || action === "pink"
-      ? '<mark style="background-color: ' + spec.background + '; color: ' + spec.foreground + ';">'
-      : action === "bold" ? "<strong>"
-      : action === "italic" ? "<em>"
-      : action === "underline" ? "<u>"
-      : null;
-    const closing = action === "green" || action === "blue" || action === "pink"
-      ? "</mark>"
-      : action === "bold" ? "</strong>"
-      : action === "italic" ? "</em>"
-      : action === "underline" ? "</u>"
-      : null;
+    const opening = action === "yellow" ? "==" :
+      action === "green" || action === "blue" || action === "pink"
+        ? '<mark style="background-color: ' + spec.background + '; color: ' + spec.foreground + ';">'
+        : action === "bold" ? "<strong>"
+        : action === "italic" ? "<em>"
+        : action === "underline" ? "<u>"
+        : null;
+    const closing = action === "yellow" ? "==" :
+      action === "green" || action === "blue" || action === "pink"
+        ? "</mark>"
+        : action === "bold" ? "</strong>"
+        : action === "italic" ? "</em>"
+        : action === "underline" ? "</u>"
+        : null;
 
     if (!opening || !closing) {
       this.pendingAction = false;
@@ -388,13 +376,15 @@ module.exports = class ReadingHighlighterExtendedPlugin extends Plugin {
           return raw;
         }
 
-        if ((action === "green" || action === "blue" || action === "pink") &&
+        if (["yellow", "green", "blue", "pink"].includes(action) &&
             this.isAlreadyHighlighted(selectedSource)) {
           blockedReason = "existing highlight";
           return raw;
         }
 
-        const updatedSource = this.wrapByLine(selectedSource, opening, closing, action);
+        const updatedSource = action === "yellow"
+          ? base.addHighlightsByParagraph(selectedSource)
+          : this.wrapByLine(selectedSource, opening, closing, action);
         if (updatedSource === selectedSource) {
           noChange = true;
           return raw;
@@ -506,20 +496,14 @@ module.exports = class ReadingHighlighterExtendedPlugin extends Plugin {
   }
 
   isAlreadyHighlighted(text) {
-    const lines = text.split("\n").filter((line) => line.trim());
-    if (!lines.length) return false;
-    return lines.some((line) => {
-      const value = line.trim();
-      return (/^==[\s\S]*==$/.test(value) && value.length >= 4) ||
-        (/^<mark(?:\s[^>]*)?>[\s\S]*<\/mark>$/i.test(value));
-    });
+    return text.includes("==") || /<\/?mark\b/i.test(text);
   }
 
   isInsideFencedCode(raw, position) {
     const before = raw.slice(0, position).split("\n");
     let activeFence = null;
     let fenceLength = 0;
-    const fencePattern = new RegExp("^\\\\s{0,3}(" + String.fromCharCode(96) + "{3,}|~{3,})");
+    const fencePattern = new RegExp("^\\s{0,3}(" + String.fromCharCode(96) + "{3,}|~{3,})");
     for (const line of before) {
       const match = line.match(fencePattern);
       if (!match) continue;
