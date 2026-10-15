@@ -87,7 +87,7 @@ module.exports = class TapHeadingToFoldPlugin extends Plugin {
       }
 
       const line = cm.state.doc.lineAt(position);
-      if (!/^ {0,3}#{1,6}(?:\\s|$)/.test(line.text)) return;
+      if (!/^ {0,3}#{1,6}(?:\s|$)/.test(line.text)) return;
 
       // Toggle native folding for the heading that was tapped.
       editor.setCursor({ line: line.number - 1, ch: 0 });
