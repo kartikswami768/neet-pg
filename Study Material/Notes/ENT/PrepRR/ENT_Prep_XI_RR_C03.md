@@ -651,8 +651,8 @@ D. Uncinate process.
 
 - **Agger nasi:** anteriormost ethmoidal cell.
 - **Bulla ethmoidalis:** the biggest ethmoidal air cell.
-- **Haller cell:** ethmoidal cell in relation to the floor of the orbit.
-- **Onodi cells:** posterior ethmoidal cells extending into the sphenoid sinus; may have the optic nerve and internal carotid artery.
+- **Haller cell:** ethmoidal cell in ==relation to the floor of the orbit.==
+- **Onodi cells:** posterior ethmoidal cells extending into the sphenoid sinus; ==may have the optic nerve and internal carotid artery.==
 
 ![[p096_coronal-nasal-cavity-orbit-and-ethmoidal-cells.jpg]]![[p096_frontal-ethmoid-and-sphenoid-sinus-sagittal-anatomy.jpg]]
 ![[p096_nose-nasal-cavities-and-nasopharynx-anatomy.jpg]]
@@ -669,12 +669,12 @@ D. Uncinate process.
 
 - Anterior — posterior ethmoid cells.
 - Posterior — sphenoid bone.
-- Lateral — optic nerve, cavernous sinus (CN III, IV, VI, V1, V2) and internal carotid artery (ICA).
-- Floor — foramen rotundum above and vidian canal below.
-
+- Lateral — ==optic nerve, cavernous sinus (CN III, IV, VI, V1, V2)== and internal carotid artery (ICA).
+- Floor — ==foramen rotundum above and vidian canal below.==
+![[p097_pterygopalatine-fossa-skull-base-foramina-and-nerves.jpg]]![[IMG_1270.png]]![[IMG_1271.jpeg|50%]]![[IMG_1272.webp]]
 ### Lining membrane of the nose
 
-- Schneidarian membrane / respiratory epithelium / pseudostratified ciliated columnar epithelium lines the entire nasal cavity.
+- ==Schneidarian membrane== / respiratory epithelium / pseudostratified ciliated columnar epithelium lines the entire nasal cavity.
 - **Exceptions:**
   - Vestibule — stratified squamous epithelium with hair follicles.
   - Roof of the nose — olfactory epithelium.
