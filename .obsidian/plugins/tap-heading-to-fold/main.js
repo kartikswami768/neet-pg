@@ -170,7 +170,7 @@ module.exports = class TapHeadingToFoldPlugin extends Plugin {
       }
 
       const line = cm.state.doc.lineAt(position);
-      if (!/^ {0,3}#{1,6}(?:\\s|$)/.test(line.text)) return;
+      if (!/^ {0,3}#{1,6}(?:\s|$)/.test(line.text)) return;
       const headingLineNumber = line.number - 1;
 
       this.queueFoldAction(event, () => {
@@ -181,7 +181,7 @@ module.exports = class TapHeadingToFoldPlugin extends Plugin {
         if (headingLineNumber < 0 || headingLineNumber >= currentCm.state.doc.lines) return;
 
         const currentLine = currentCm.state.doc.line(headingLineNumber + 1);
-        if (!/^ {0,3}#{1,6}(?:\\s|$)/.test(currentLine.text)) return;
+        if (!/^ {0,3}#{1,6}(?:\s|$)/.test(currentLine.text)) return;
 
         editor.setCursor({ line: headingLineNumber, ch: 0 });
         editor.exec('toggleFold');
