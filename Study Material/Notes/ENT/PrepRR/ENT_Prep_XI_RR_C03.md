@@ -610,6 +610,8 @@ D. Uncinate process.
 
 - Four sinus groups are listed.
 
+![[IMG_1278.png]]![[IMG_1279.png]]
+
 ### Maxillary sinus
 
 - Also called the **antrum of Highmore**.
@@ -693,7 +695,7 @@ D. Uncinate process.
 4. Sinus draining into the <u>superior meatus: posterior ethmoid.</u>
 5. The sphenoid sinus drains <u>into the sphenoethmoidal recess.</u>
 6. Sinus absent at birth: frontal sinus.
-7. Sinus whose development coincides with secondary dentition: maxillary sinus.
+7. Sinus whose development <u>coincides with <strong>secondary dentition: maxillary sinus</strong>.</u>
 8. Earliest sinus to develop and become visible radiologically: maxillary sinus.
 9. Largest sinus: maxillary sinus.
 10. Last sinus to develop: frontal sinus.
@@ -705,7 +707,7 @@ D. Uncinate process.
 
 ## Extra edge — medial wall of the orbit
 
-The source labels the following structures on the medial orbital wall: anterior ethmoidal artery, posterior ethmoidal artery, anterior lacrimal crest and optic foramen/canal.
+The source labels the following structures on the medial orbital wall: anterior ethmoidal artery, posterior ethmoidal artery<strong>, anterior lacrimal crest</strong> and optic foramen/canal.
 
 - Three important structures on the medial wall:
   - Anterior ethmoidal foramen.
@@ -714,6 +716,7 @@ The source labels the following structures on the medial orbital wall: anterior 
 - The anterior lacrimal crest is 24 mm from the anterior ethmoidal foramen.
 - 12 mm between the anterior and posterior ethmoidal foramina.
 - 6 mm posterior to the ethmoidal foramen to the optic canal.
+![[p098_ophthalmic-artery-anterior-posterior-ethmoidal-arteries.jpg]]
 
 **Nerve blocks shown**
 
@@ -742,7 +745,7 @@ D. Inferior turbinate.
 
 A. Maxillary.  
 B. Anterior ethmoid.  
-C. Posterior ethmoid.  
+C. <strong>Posterior ethmoid.</strong>  
 D. Frontal.  
 E. Sphenoid.
 
@@ -909,7 +912,7 @@ D. Has no physiological role.
 
 - Formed by fibres of the palatopharyngeus muscle.
 - Clinical significance stated: if these are incompetent, they could increase vocal resonance by increasing airflow, leading to **rhinolalia aperta**.
-
+![[p103_soft-palate-passavants-ridge-and-pharyngeal-muscles.jpg|250]] ![[p103_soft-palate-muscles-lateral-anatomy.jpg|250]]
 ### Inspiratory and expiratory current
 - Maximum inspiratory current goes in a parabolic curve in the middle meatus.
 The page repeats the Passavant’s ridge illustration and text on formation by palatopharyngeus fibres and the stated relationship to rhinolalia aperta.
