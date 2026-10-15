@@ -345,14 +345,14 @@ D. Adenoid hypertrophy
 **Stages of disease**
 
 1. **Atrophic stage:** bacteria destroy mucin-producing cells → nose becomes dry, with crusting and foul smell.
-2. **Granulomatous stage:** immune response creates a central necrotic area surrounded by inflammatory cells → “woody hard granuloma” → “Hebra nose” deformity.
+2. **Granulomatous stage:** immune response creates a central necrotic area surrounded by inflammatory cells → <strong><mark style="background: #ADCCFFA6;">“woody hard granuloma”</mark></strong> → <mark style="background-color: #c6e3ff; color: #173653;"><strong>“Hebra nose” deformity.</strong></mark>
 3. **Stage of cicatrisation:** healing by fibrosis with stenosis/narrowing of the nose → ==“Tapir nose” deformity.==
 
-- Histopathology: Mikulicz cells and Russell bodies.
-- Culture on MacConkey agar.
-- Management:
-  - Medical therapy: streptomycin, tetracycline and rifampicin for 4–6 weeks.
-  - Therapy is stopped only after two consecutive cultures, 4 weeks apart, are negative.
+- Histopathology: **Mikulicz cells** and **Russell bodies**.
+- Culture on **MacConkey agar**.
+- **Management:**
+	- Medical therapy: ==streptomycin, tetracycline and **rifampicin**== for *4–6 weeks*.
+	- ==Therapy is stopped only after two consecutive cultures, 4 weeks apart, are negative.==
 
 ### Comparison between Rhinosporidiosis and Rhinoscleroma
 | Feature | Rhinosporidiosis | Rhinoscleroma |
