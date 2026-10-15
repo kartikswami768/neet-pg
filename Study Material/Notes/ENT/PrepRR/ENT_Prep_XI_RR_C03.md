@@ -684,13 +684,14 @@ D. Uncinate process.
 - The area bounded between the nasion and the angle of the lips is described as a region where infection can spread retrogradely and cause cavernous sinus thrombosis.
 - The pterygoid venous plexus is described as valveless, allowing retrograde spread of infection towards the cavernous sinus; the source states that infections are therefore better treated with antibiotics.
 
+![[p097_danger-triangle-of-face-cavernous-sinus-connection.jpg]]
 ### One-liners
 
 1. Turbinate not part of the ethmoid bone: inferior turbinate.
 2. Sinuses draining into the hiatus semilunaris: frontal sinus and anterior ethmoidal sinus.
 3. Sinus draining into the infundibulum: maxillary sinus.
-4. Sinus draining into the superior meatus: posterior ethmoid.
-5. The sphenoid sinus drains into the sphenoethmoidal recess.
+4. Sinus draining into the <u>superior meatus: posterior ethmoid.</u>
+5. The sphenoid sinus drains <u>into the sphenoethmoidal recess.</u>
 6. Sinus absent at birth: frontal sinus.
 7. Sinus whose development coincides with secondary dentition: maxillary sinus.
 8. Earliest sinus to develop and become visible radiologically: maxillary sinus.
