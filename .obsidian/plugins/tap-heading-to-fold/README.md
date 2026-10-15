@@ -6,14 +6,15 @@ A small Obsidian community plugin for touchscreens. Tap a heading's text to fold
 
 1. Sync or pull the latest `main` branch from this vault repository.
 2. In Obsidian, open **Settings → Community plugins**.
-3. Toggle **Tap Heading to Fold** off and on again, or restart Obsidian. Current version: **1.1.0**.
+3. Toggle **Tap Heading to Fold** off and on again, or restart Obsidian. Current version: **1.1.1**.
 4. Make sure **Settings → Editor → Fold heading** is enabled.
 5. Test in Live Preview, then switch the same note to Reading view and tap a heading that has content beneath it.
 
-## Version 1.1.0
+## Version 1.1.1
 
 - Adds Reading view support by locating Obsidian's native `.heading-collapse-indicator` in the rendered heading and invoking it.
 - Keeps the Live Preview handler, which identifies the editor line, maps the tap to Markdown text, and calls Obsidian's `toggleFold` command.
+- Fixes the Live Preview heading regex so ordinary heading text is correctly recognized.
 - Leaves links, controls, Markdown markers, and native fold indicators alone.
 - No note contents are changed and no CSS snippet is required.
 
