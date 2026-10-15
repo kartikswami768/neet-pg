@@ -1,14 +1,15 @@
 ---
-title: "PREP XI RR - ENT Study Notes (Chunk C03)"
-source: "Ent Prep Xi RR.pdf"
-source_pages: "78-105"
-subject: ENT
+title: PREP XI RR - ENT Study Notes (Chunk C03)
+source: Ent Prep Xi RR.pdf
+source_pages: 78-105
+subject: . ENT
 stage: 5
 chunk: C03
 tags:
   - ENT
   - PDF-extraction
   - OCR-proofread
+handwriting-page-id: 18660dae-3923-4659-a3a9-b4c374e5c432
 ---
 
 # PREP XI RR - ENT Study Notes
@@ -37,9 +38,9 @@ tags:
 
 ### Classification of complications
 
-| Type | Complications listed in the source |
-|---|---|
-| **Extracranial complications** | Mastoiditis; labyrinthitis; petrositis; osteomyelitis; septicaemia; facial nerve palsy |
+| Type                           | Complications listed in the source                                                                              |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| **Extracranial complications** | Mastoiditis; labyrinthitis; petrositis; osteomyelitis; septicaemia; facial nerve palsy                          |
 | **Intracranial complications** | Meningitis; extradural abscess; subdural abscess; brain abscess; otitic hydrocephalus; lateral sinus thrombosis |
 
 | Feature | Acute otitis media | Chronic otitis media |
@@ -91,15 +92,13 @@ Spread of infection is described as follows:
 - Disease reaches the sigmoid sinus → thrombosis of the sigmoid sinus → **lateral sinus thrombosis**.
 - Sigmoid sinus thrombosis → impaired cranial venous drainage → fluid retention in the ventricles → **otitic hydrocephalus**.
 
-### Acute mastoiditis
-
-- Most common extracranial complication of acute otitis media.
-- Causative organism listed: *Streptococcus pneumoniae* (same as AOM).
 
 > [!example]- Source page visual — PDF page 79
 > ![[images/chunk03_p079_source_page.jpeg]]
 
 ## Acute mastoiditis
+- Most common extracranial complication of acute otitis media.
+- Causative organism listed: *Streptococcus pneumoniae* (same as AOM).
 
 ### Pathophysiology
 
@@ -110,22 +109,25 @@ Eustachian tube blockage → pus collects in the middle ear (AOM) → pus travel
 - Pain, more severe and also behind the pinna.
 - Fever.
 - Hearing loss.
-- Ear discharge, which may be profuse, persistent and pulsatile.
-- Lighthouse sign.
+- <u>Ear discharge, which may be profuse, persistent and pulsatile.</u>
+- <mark style="background: #ADCCFFA6;">Lighthouse sign.</mark>
 - Mastoid tenderness.
 
 ### Signs
 
-- **“Ironed-out appearance” of the mastoid:** stretched, red, oedematous skin; identified in the source as the first sign of acute mastoiditis.
+- **“Ironed-out appearance” of the mastoid:** stretched, red, oedematous skin; identified in the source as the first sign of acute mastoiditis. 
 - **Pinna changes:** pinna pushed outwards and forwards.
 - Sagging of the posterior meatal wall.
-- Tenderness over the mastoid region at MacEwen’s triangle.
+- <u>Tenderness over the mastoid region at <mark style="background: #ADCCFFA6;">MacEwen’s triangle.</mark></u>
 - **Retroauricular groove:** the source describes deepening of the groove associated with swollen, oedematous mastoid and an apparent deepening of the groove.
 - Discharge on otoscopy reflects light and is pulsatile:
-  - Pulsatile otorrhoea.
-  - Called the **lighthouse sign**.
-  - Also seen in ASOM; the source labels it a non-specific sign.
-- **Reservoir sign (specific sign stated for mastoiditis):** mucopurulent pus is present in the external auditory canal; after the pus is removed, the canal immediately fills again. If it takes time to reappear, the source says this is more likely AOM than mastoiditis.
+	- Pulsatile otorrhoea.
+	- Called the **<mark style="background: #FF5582A6;">lighthouse sign</mark>**.
+	- Also seen in ASOM; the source labels it a <mark style="background: #FF5582A6;">non-specific sign.</mark>
+- **==Reservoir sign== (specific sign stated for mastoiditis):** 
+	- mucopurulent pus is present in the external auditory canal; 
+	- after the pus is removed, the canal immediately fills again. 
+	- If it takes time to reappear, this is more likely AOM than mastoiditis.
 
 ### Diagnosis
 
@@ -134,12 +136,12 @@ Clinical findings listed:
 - Ironed-out appearance.
 - Pinna pushed outwards and forwards.
 - Deepening of the retroauricular groove.
+- Lighthouse sign
 - Positive reservoir sign.
 
 **Imaging — X-ray or CT scan**
 
-CT findings listed:
-
+CT findings listed
 - Coalescence of air cells.
 - Destruction/defect in the roof of the mastoid.
 - Haziness in the mastoid.
@@ -148,26 +150,26 @@ CT findings listed:
 ### Treatment
 
 - **Surgery:** cortical mastoidectomy.
-- Delineate the entire mastoid from:
-  - Roof (superiorly).
-  - Sigmoid sinus (posteriorly).
-  - Tip cells (inferiorly).
-  - Posterior wall of the external auditory canal (anteriorly).
-- Remove all diseased air cells.
+	- Delineate the entire mastoid from:
+		- Roof (superiorly).
+		- Sigmoid sinus (posteriorly).
+		- Tip cells (inferiorly).
+		- Posterior wall of the external auditory canal (anteriorly).
+	- Remove all diseased air cells.
 - **Medical treatment:** IV antibiotics.
 
 ### Local abscesses related to the mastoid
 
 - **Bezold’s abscess**
   - Pus breaks through the tip of the mastoid.
-  - Extends into the sternocleidomastoid muscle.
-  - Presents in the upper part of the neck.
+  - Extends into the ==sternocleidomastoid muscle.==
+  - Presents in the <u>upper part of the neck.</u>
 - **Post-auricular abscess**
-  - Described as the most common abscess.
-  - Pus breaks through the outer cortex of the mastoid.
+  - Described as the ==most common abscess.==
+  - <u>Pus breaks through the outer cortex of the mastoid.</u>
   - Presents behind the pinna.
 - **Luc’s abscess**
-  - Pus breaks into the external auditory meatus.
+  - ==Pus breaks into the external auditory meatus.==
   - Memory aid: “L follows M” — Luc’s = meatus.
 - **Citelli’s abscess (digastric abscess)**
   - At the tip of the mastoid, related to the posterior belly of the digastric muscle.
@@ -180,6 +182,8 @@ CT findings listed:
   - Near the angle of the mandible → digastric/Citelli’s abscess.
   - In the external auditory meatus → Luc’s abscess.
 
+![[IMG_1266.webp]]
+
 > [!example]- Source page visuals — PDF pages 80–81
 > ![[images/chunk03_p080_source_page.jpeg]]
 > ![[images/chunk03_p081_source_page.jpeg]]
@@ -188,8 +192,8 @@ CT findings listed:
 
 - **Definition:** inflammation of petrous apex cells.
 - **Anatomy:** the petrous bone is described as leaf-like. At the apex are two cranial nerves:
-  - CN V — trigeminal nerve.
-  - CN VI — abducens nerve.
+  - ==CN V — trigeminal nerve.==
+  - CN VI — ==abducens nerve.==
 
 ### Pathophysiology
 
@@ -197,9 +201,9 @@ Infection spreads from the middle ear to the petrous apex → pus/inflammation a
 
 ### Clinical features — Gradenigo’s triad
 
-- **Persistent ear discharge:** constant otorrhoea from middle-ear disease.
-- **Deep-seated retro-orbital pain:** due to fifth-nerve (trigeminal) involvement; pain around the eye.
-- **Lateral rectus palsy (diplopia):** due to sixth-nerve (abducens) involvement.
+- **==Persistent ear discharge==:** constant otorrhoea from middle-ear disease.
+- **Deep-seated ==retro-orbital pain==:** due to fifth-nerve (<u>trigeminal</u>) involvement; pain around the eye.
+- **Lateral rectus palsy (diplopia):** due to sixth-nerve (<u>abducens</u>) involvement.
 
 > [!example]- Source page visual — PDF page 82
 > ![[images/chunk03_p082_source_page.jpeg]]
@@ -220,7 +224,7 @@ Infection spreads from the middle ear to the petrous apex → pus/inflammation a
 **Clinical features**
 
 - Fistula sign: positive.
-- Mechanism shown: increased pressure in the external auditory canal → pressure reaches the middle ear → through the erosion area, infection reaches the inner ear.
+	- increased pressure in the external auditory canal → pressure reaches the middle ear → through the erosion area, infection reaches the inner ear.
 - Transient vertigo occurs when pressure is applied.
 
 **Prognosis:** localised; the source states that it can be managed.
@@ -480,15 +484,20 @@ D. Retro-orbital pain, diplopia, and hearing loss.
 
 The external nose is shown as a **bony pyramid** (upper one-third) and a **cartilaginous pyramid** (lower two-thirds; marked PYQ).
 
-| Bony pyramid | Cartilaginous pyramid |
-|---|---|
-| Upper 1/3 | Lower 2/3 (PYQ) |
-| **Paired bones:** nasal bone; ascending process of the maxilla | **Paired cartilage:** upper lateral cartilage; lower lateral cartilage; small sesamoid cartilage |
-| **Unpaired bone:** frontal bone | **Unpaired cartilage:** septal cartilage, which comes from below and supports the dorsum of the nose |
+| Bony pyramid                                                   | Cartilaginous pyramid                                                                                |
+| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Upper 1/3                                                      | Lower 2/3 (PYQ)                                                                                      |
+| **Paired bones:** nasal bone; ascending process of the maxilla | **Paired cartilage:** upper lateral cartilage; lower lateral cartilage; small sesamoid cartilage     |
+| **Unpaired bone:** frontal bone                                | **Unpaired cartilage:** septal cartilage, which comes from below and supports the dorsum of the nose |
 
 - **Nasion:** point where the frontal bone meets the nasal bone in the midline.
 - **Rhinion:** the nasal bone unites with the upper lateral cartilage in the midline (PYQ).
-- **Limen nasi:** lower border of the upper lateral cartilage; site of incision in internal rhinoplasty; forms the boundary of the internal nasal valve, described as the narrowest portion of the nasal cavity.
+- **Limen nasi:** 
+	- <u>lower border of the upper lateral cartilage</u>; 
+	- *site of incision in internal rhinoplasty*; 
+	- forms the ==boundary of the internal nasal valve, described as the narrowest portion of the nasal cavity.==
+
+![[IMG_1267.jpeg]]
 
 > **Important information:** site of incision for external rhinoplasty — incision on the outside of the columella of the nose.
 
@@ -502,49 +511,43 @@ The nasal cavity proper has six walls.
 ### Walls of the nasal cavity
 
 #### Inlet — vestibule
-
-- The only area in the nose lined by stratified squamous epithelium with hair follicles and sebaceous glands; the rest is lined by pseudostratified ciliated columnar epithelium.
+- The ==only area in the nose lined by stratified squamous epithelium with hair follicles and sebaceous glands==; the rest is lined by pseudostratified ciliated columnar epithelium.
 - Folliculitis is stated to be most common in this region.
-- Contains an internal nasal valve.
+- <u>Contains an internal nasal valve.</u>
 - **Formed by:**
-  - Medially — septum.
-  - Superiorly — lower border of the upper lateral cartilage.
-  - Laterally — inferior turbinates.
+	- Medially — septum.
+	- Superiorly — lower border of the upper lateral cartilage.
+	- Laterally — inferior turbinates.
 
 #### Outlet — choana
-
 - Communication between the nose and nasopharynx.
 
 #### Superiorly — roof
-
 - Has specialised sensory olfactory epithelium (perceives smell).
 - Separates the nasal cavity from the cranial cavity.
 - **Formed by:**
-  - Anterior 1/3 — nasal bone and frontal bone.
-  - Middle 1/3 — cribriform plate of the ethmoid bone.
-  - Posterior 1/3 — sphenoid bone.
+	- Anterior 1/3 — <u>nasal bone and frontal bone.</u>
+	- Middle 1/3 — cribriform plate of the <u>ethmoid bone.</u>
+	- Posterior 1/3 — <u>sphenoid bone</u>.
 
 #### Inferiorly — floor
-
 - Separates the nasal cavity from the oral cavity.
-- Formed by the crest of the maxilla and the crest of the palatine bone.
+- Formed by the <u>crest of the maxilla</u> and the <u>crest of the palatine bone.</u>
 
 #### Medially — septum
-
 - Separates the right and left halves of the nose.
 - Made of cartilaginous and bony parts:
-  - Cartilage — septal cartilage / quadrangular cartilage.
-  - Bone — perpendicular plate of the ethmoid and vomer.
-  - Other small contributions — nasal spine of the frontal bone, rostrum of the sphenoid bone, and crest of the maxilla and palatine bone.
+	- Cartilage — septal cartilage / quadrangular cartilage.
+	- Bone — perpendicular plate of the ethmoid and vomer.
+	- Other small contributions — nasal spine of the frontal bone, rostrum of the sphenoid bone, and crest of the maxilla and palatine bone.
 
 #### Blood supply to the septum
-
 - **Internal carotid artery — upper half:**
-  - Anterior ethmoidal artery — anterosuperior part of the septum.
-  - Posterior ethmoidal artery — posterosuperior part of the septum.
+	- Anterior ethmoidal artery — anterosuperior part of the septum.
+	- Posterior ethmoidal artery — posterosuperior part of the septum.
 - **External carotid artery — lower half:**
-  - Superior labial artery — anteroinferior part of the septum.
-  - Sphenopalatine and greater palatine arteries — posteroinferior part of the septum.
+	- Superior labial artery — anteroinferior part of the septum.
+	- Sphenopalatine and greater palatine arteries — posteroinferior part of the septum.
 
 > [!example]- Source page visual — PDF page 92
 > ![[images/chunk03_p092_source_page.jpeg]]
@@ -561,15 +564,15 @@ The nasal cavity proper has six walls.
 
 ## Meatuses, uncinate process and osteomeatal complex
 
-| Structure | Description in the source |
-|---|---|
-| **Inferior meatus** | Receives the opening of the nasolacrimal duct, guarded by the valve of Hasner. |
-| **Middle meatus** | Receives the opening of the anterior group of sinuses (frontal, maxillary and anterior ethmoidal sinuses). Area to operate for FESS, sinusitis and polyps. |
-| **Uncinate process** | Boomerang-shaped bone present anteriorly. The bulla ethmoidalis lies behind it. The space between the uncinate and bulla is the hiatus semilunaris; it receives drainage of the frontal and anterior ethmoidal sinuses and leads inferiorly to the infundibulum, which receives drainage of the maxillary sinus. |
-| **Osteomeatal complex / Picardy Circle** | Described as the final common point of drainage of the frontal, anterior ethmoidal and maxillary sinuses. |
-| **Superior meatus** | Receives the opening of the posterior ethmoid. |
+| Structure                                | Description in the source                                                                                                                                                                                                                                                                                        |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Inferior meatus**                      | Receives the opening of the ==<u>nasolacrimal duct</u>==, guarded by the ==valve of Hasner.==                                                                                                                                                                                                                    |
+| **Middle meatus**                        | Receives the opening of the ==anterior group of sinuses== (frontal, maxillary and anterior ethmoidal sinuses). Area to operate for ==FESS==, sinusitis and polyps.                                                                                                                                               |
+| **Uncinate process**                     | Boomerang-shaped bone present anteriorly. The bulla ethmoidalis lies behind it. The space between the uncinate and bulla is the hiatus semilunaris; it receives drainage of the frontal and anterior ethmoidal sinuses and leads inferiorly to the infundibulum, which receives drainage of the maxillary sinus. |
+| **Osteomeatal complex / Picardy Circle** | Described as the final common point of drainage of the frontal, anterior ethmoidal and maxillary sinuses.                                                                                                                                                                                                        |
+| **Superior meatus**                      | Receives the opening of the ==posterior ethmoid.==                                                                                                                                                                                                                                                               |
 
-**Note:** the sphenoid sinus drains into the sphenoethmoidal recess.
+**Note:** the ==sphenoid sinus drains into the sphenoethmoidal recess==.
 
 ### MCQs
 
@@ -610,24 +613,24 @@ D. Uncinate process.
 ### Maxillary sinus
 
 - Also called the **antrum of Highmore**.
-- The source describes it as the first sinus to develop and be visible radiologically, the largest sinus, and the most common sinus affected in adults.
+- The source describes it as the ==first sinus to develop and be visible radiologically==, the largest sinus, and the most common sinus affected in adults.
 
 **Boundaries**
 
 - **Base:** separates the maxillary sinus from the lateral wall of the nose.
 - **Apex:** at the level of the zygoma.
 - **Roof:** formed by the floor of the orbit; fracture of the floor of the orbit results in a tear-drop sign.
-- **Floor:** related to the second premolar and first molar tooth.
+- **Floor:** related to the ==second premolar and first molar tooth.==
 - **Anterior wall:** skin and subcutaneous tissue.
-- **Posterior wall:** pterygopalatine fossa, containing the internal maxillary artery, which divides into the sphenopalatine artery (through the sphenopalatine foramen) and the greater palatine artery (through the greater palatine foramen).
+- **Posterior wall:** ==pterygopalatine fossa, containing the internal maxillary artery,== which divides into the sphenopalatine artery (through the sphenopalatine foramen) and the greater palatine artery (through the greater palatine foramen).
 
 > [!example]- Source page visual — PDF page 95
 > ![[images/chunk03_p095_source_page.jpeg]]
 
 ### Frontal sinus
 
-- Last sinus to develop.
-- Absent at birth; therefore not visible radiologically at birth.
+- ==Last sinus to develop.==
+- ==Absent at birth==; therefore not visible radiologically at birth.
 - An air-filled cavity within the frontal bone.
 - Pyramidal in shape, with anterior and posterior walls:
   - Anterior wall — anterior table of the frontal bone.
@@ -638,11 +641,11 @@ D. Uncinate process.
 
 ### Ethmoid sinus
 
-- Described as the most pneumatized sinuses at birth.
+- Described as the ==most pneumatized sinuses at birth.==
 - Sandwiched between the frontal sinus anteriorly and the sphenoid sinus posteriorly.
 - **Roof:** a thin plate separating it from the anterior cranial fossa, called the fovea ethmoidalis.
-- Medially related to the middle turbinate. The anterior and posterior ethmoids are divided by the basal lamella of the middle turbinate.
-- Laterally related to the medial wall of the orbit.
+- ==Medially related to the middle turbinate.== <u>The anterior and posterior ethmoids are divided by the basal lamella of the middle turbinate.</u>
+- ==Laterally related to the medial wall of the orbit.==
 
 **Air cells**
 
@@ -650,6 +653,9 @@ D. Uncinate process.
 - **Bulla ethmoidalis:** the biggest ethmoidal air cell.
 - **Haller cell:** ethmoidal cell in relation to the floor of the orbit.
 - **Onodi cells:** posterior ethmoidal cells extending into the sphenoid sinus; may have the optic nerve and internal carotid artery.
+
+![[p096_coronal-nasal-cavity-orbit-and-ethmoidal-cells.jpg]]![[p096_frontal-ethmoid-and-sphenoid-sinus-sagittal-anatomy.jpg]]
+![[p096_nose-nasal-cavities-and-nasopharynx-anatomy.jpg]]
 
 > [!example]- Source page visual — PDF page 96
 > ![[images/chunk03_p096_source_page.jpeg]]
@@ -898,6 +904,17 @@ D. Has no physiological role.
 > ![[images/chunk03_p102_source_page.jpeg]]
 
 ## Passavant’s ridge and nasal airflow
+### Passavant’s ridge
+
+- Formed by fibres of the palatopharyngeus muscle.
+- Clinical significance stated: if these are incompetent, they could increase vocal resonance by increasing airflow, leading to **rhinolalia aperta**.
+
+### Inspiratory and expiratory current
+- Maximum inspiratory current goes in a parabolic curve in the middle meatus.
+The page repeats the Passavant’s ridge illustration and text on formation by palatopharyngeus fibres and the stated relationship to rhinolalia aperta.
+
+> [!example]- Source page visual — PDF page 103
+> ![[images/chunk03_p103_source_page.jpeg]]
 
 **MCQ:** Haller cells are present in:
 
@@ -915,19 +932,6 @@ B. Rhinolalia clausa.
 
 **Answer printed: B.**
 
-### Passavant’s ridge
-
-- Formed by fibres of the palatopharyngeus muscle.
-- Clinical significance stated: if these are incompetent, they could increase vocal resonance by increasing airflow, leading to **rhinolalia aperta**.
-
-### Inspiratory and expiratory current
-
-- Maximum inspiratory current goes in a parabolic curve in the middle meatus.
-
-The page repeats the Passavant’s ridge illustration and text on formation by palatopharyngeus fibres and the stated relationship to rhinolalia aperta.
-
-> [!example]- Source page visual — PDF page 103
-> ![[images/chunk03_p103_source_page.jpeg]]
 
 ## One-liners and remaining MCQs
 
