@@ -8,14 +8,37 @@ module.exports = class TapHeadingToFoldPlugin extends Plugin {
       const target = event.target;
       if (!(target instanceof Element)) return;
 
-      // Preserve normal behavior for links, controls, markers, and the native fold arrow.
+      // Preserve normal behavior for links, controls, markers, and native fold arrows.
       if (target.closest(
         'a, button, input, textarea, select, [role="button"], ' +
-        '.cm-fold-indicator, .cm-formatting-header, .cm-widgetBuffer'
+        '.cm-fold-indicator, .heading-collapse-indicator, .cm-formatting-header, .cm-widgetBuffer'
       )) return;
 
-      // Work from the editor line, not a heading-specific class that can vary with
-      // Obsidian versions, mobile layouts, or themes.
+      // READING VIEW: when the tap is on a rendered heading, invoke Obsidian's
+      // own heading-collapse indicator. The indicator is part of Obsidian's
+      // rendered Markdown DOM and performs the native section-fold operation.
+      const previewHeading = target.closest(
+        '.markdown-preview-view :is(h1, h2, h3, h4, h5, h6)'
+      );
+      if (previewHeading) {
+        const previewRoot = previewHeading.closest('.markdown-preview-view');
+        if (!previewRoot) return;
+
+        const indicator =
+          previewHeading.querySelector('.heading-collapse-indicator') ||
+          previewHeading.querySelector('.collapse-indicator') ||
+          previewHeading.parentElement?.querySelector(':scope > .heading-collapse-indicator');
+
+        if (indicator instanceof HTMLElement) {
+          event.preventDefault();
+          event.stopPropagation();
+          indicator.click();
+        }
+        return;
+      }
+
+      // LIVE PREVIEW: work from the editor line, not a heading-specific class
+      // that can vary with Obsidian versions, mobile layouts, or themes.
       const editorLine = target.closest('.cm-line');
       if (!editorLine) return;
 
