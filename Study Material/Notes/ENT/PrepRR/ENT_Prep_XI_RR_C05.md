@@ -32,7 +32,7 @@ tags:
   - Hypopharynx.
 
 ### Nasopharynx
-[[Thieme_Atlas_of_Anatomy,_Anne_M.pdf]]
+[[Thieme_Atlas_of_Anatomy,_Anne_M.pdf#page=]]
 - Extends superiorly from the base of the skull and inferiorly to the imaginary line passing through the palate.
 - Corresponding vertebra: C1.
 
