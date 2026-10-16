@@ -242,7 +242,7 @@ The source diagram labels the pharyngobasilar fascia, base of skull, sinus of Mo
 
 ## Adenoid hypertrophy (00:41:45; FMGE 2020, 2021)
 
-- **Age of presentation:** “19–14 yrs” (as printed; likely a source typo, flagged in `QA_REPORT.md`).
+- **Age of presentation:** 5-10 years (with peak around 6-7 years)
 
 ### Presentation
 
@@ -251,7 +251,7 @@ The source diagram labels the pharyngobasilar fascia, base of skull, sinus of Mo
 - Sinusitis.
 - Middle-ear disease due to Eustachian-tube obstruction from adenoid hypertrophy.
 - Sleep apnoea due to adenoid and tonsillar hypertrophy.
-- Rhinolalia clausa (nasal twang).
+- **Rhinolalia clausa (nasal twang).**
 
 ### Diagnosis
 
@@ -268,25 +268,25 @@ The source diagram labels the pharyngobasilar fascia, base of skull, sinus of Mo
 
 - Grade 1 and 2: conservative treatment with intranasal corticosteroids and antihistamines.
 - Grade 3 and 4: surgery.
-- Adenoid hypertrophy with serous otitis media: adenoidectomy plus myringotomy with grommet.
+- Adenoid hypertrophy with serous otitis media: adenoidectomy plus <u>myringotomy with grommet.</u>
 
 ### Indications for surgery
 
 **Absolute indications**
 
-- Obstructive sleep apnoea.
+- <u>Obstructive sleep apnoea.</u>
 - Grade 3 and 4 hypertrophy.
 
 **Relative indications**
 
-- Recurrent infections.
+- <u>Recurrent infections.</u>
 - Recurrent colds.
-- Acute otitis media.
+- ==Acute otitis media.== (weird that it is not an absolute contraindication)
 
 ### Contraindications for surgery, as listed in the source
 
-- Age below 3 years (source rationale: “compromises the immunity”).
-- Cleft palate (source rationale: “causes lifetime nasal regurgitation”).
+- <u>Age below 3 years</u> (source rationale: “compromises the immunity”).
+- <strong>Cleft palate</strong> (source rationale: “causes lifetime nasal regurgitation”).
 - Hb below 10 mg/dL (unit reproduced as printed).
 - Active URTI.
 - Bleeding disorder.
@@ -308,7 +308,7 @@ The source diagram labels the pharyngobasilar fascia, base of skull, sinus of Mo
 
 - Endoscopy to assess size.
 - Lateral X-ray of the nose and nasopharynx.
-- Dodd/crescent sign: negative (PYQ); a crescent of air is not present between the mass and pharyngeal wall because the mass arises from the pharyngeal wall itself, as stated in the figure.
+- <strong>==Dodd/crescent sign==</strong>: negative (PYQ); a crescent of air is not present between the mass and pharyngeal wall because the mass arises from the pharyngeal wall itself, as stated in the figure.
 - Type B tympanogram (PYQ).
 
 **Initial management**
@@ -318,16 +318,16 @@ The source diagram labels the pharyngobasilar fascia, base of skull, sinus of Mo
 **Surgical management**
 
 - Adenoidectomy with grommet insertion (PYQ).
-- Position: Rose's.
+- Position: <strong>Rose's.</strong>
 - Cold: blind curettage, microdebrider.
 - Hot: monopolar suction diathermy, coblation.
 
 **Indications for surgery (PYQ)**
 
 - Sleep apnoea.
-- Chronic SOM.
+- <u>Chronic SOM.</u>
 - Recurrent infections (sinusitis, AOM).
-- Dental malocclusion.
+- <u>Dental malocclusion</u>.
 
 **Contraindications for surgery below 3 years (as shown in the source flowchart)**
 
@@ -339,7 +339,7 @@ The source diagram labels the pharyngobasilar fascia, base of skull, sinus of Mo
 
 - Haemorrhage (most common).
 - Unmasking velopharyngeal insufficiency.
-- Grisel syndrome — non-traumatic inflammatory atlantoaxial subluxation.
+- <strong>Grisel syndrome</strong> — non-traumatic inflammatory atlantoaxial subluxation.
 
 ## Tonsillitis
 
