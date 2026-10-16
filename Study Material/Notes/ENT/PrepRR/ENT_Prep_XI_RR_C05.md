@@ -569,28 +569,22 @@ D. Biopsy under anaesthesia to diagnose
 **Printed answer: D**
 
 ## Ranula (00:18:34)
-
 - Extravasated cyst from the sublingual salivary gland.
 - Location: paramedian.
 - Due to injury to the duct of the sublingual salivary gland.
 - A ranula may pierce the mylohyoid muscle, enter the neck and become a **plunging ranula**, as shown in the source diagram.
-
 ### Features of swelling
-
 - Translucent.
 - Bluish, cystic swelling in the floor of the mouth.
 - Transillumination test: positive.
-
 ### Investigation
-
 - History and examination.
 - USG.
-
 ### Treatment
-
 - Marsupialization with excision of the sublingual gland.
-
 ## Pharyngeal spaces (00:20:48)
+
+![[p148_peritonsillar-space-and-pharyngobasilar-fascia.jpg]]![[p148_neck-neurovascular-anatomy-carotid-sheath-and-cranial-nerves.jpg]]![[p148_deep-neck-spaces-retropharyngeal-parapharyngeal-and-danger-space.jpg]]
 
 ### Peritonsillar space
 
@@ -610,13 +604,13 @@ D. Biopsy under anaesthesia to diagnose
 - Throat pain.
 - Difficulty swallowing.
 - Drooling of saliva.
-- Hot-potato or muffled voice.
+- <strong>Hot-potato or muffled voice.</strong>
 - Unilateral bulge of the tonsil with the uvula pushed to the opposite side.
 
 **Treatment**
 
-- Hot tonsillectomy: I&D plus tonsillectomy, as represented in the source.
-- Interval tonsillectomy: I&D, wait 4–6 weeks, then tonsillectomy; marked as preferred.
+- <strong>Hot tonsillectomy</strong>: I&D plus tonsillectomy, as represented in the source.
+- <strong>I==nterval tonsillectomy:==</strong> I&D, wait 4–6 weeks, then tonsillectomy; marked as preferred.
 
 ### Parapharyngeal space
 
@@ -631,9 +625,9 @@ D. Biopsy under anaesthesia to diagnose
   - Masseter and medial pterygoid.
   - Parotid.
   - Sternocleidomastoid.
-- Anteriorly and medially: buccopharyngeal space, as labelled in the source.
+- Anteriorly and medially: <strong>buccopharyngeal space</strong>, as labelled in the source.
 - Posteriorly: carotid sheath and its contents.
-- Posteromedially communicates with the retropharyngeal space.
+- Posteromedially <strong>communicates with the retropharyngeal space.</strong>
 - Divided by the styloid process into:
   - Pre-styloid compartment.
   - Post-styloid compartment.
