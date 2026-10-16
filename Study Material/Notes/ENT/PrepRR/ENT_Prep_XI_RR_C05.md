@@ -663,9 +663,7 @@ D. Biopsy under anaesthesia to diagnose
   - **Anterior compartment / ==true retropharyngeal space==:** between <font color="#31859b">buccopharyngeal fascia</font> and <font color="#e36c09">alar fascia</font>; extends to T4. The source also calls it the true retropharyngeal fascia/space of Gillette and states that it contains the node of Rouvier, which drains the tonsil and adenoids.
   - **Posterior compartment / ==danger space==:** between alar fascia and prevertebral fascia; extends to the diaphragm and can cause 
 
-![[IMG_1290.jpeg]]
-
-![[ENT_Prep_XI_RR_C05 2026-10-16 15.25.31.excalidraw]]
+![[IMG_1290.jpeg]]![[Pasted image 20261016153826.png]]
 
 | Term                  | Strict three-space classification                                                                      | Broader or alternative usage                                           |
 | --------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- |
@@ -777,20 +775,18 @@ E. It forms due to suppuration in the retropharyngeal lymph node.
 
 ### Goldring's criteria
 
-- Cellulitis, not an abscess.
-- Always bilateral in presentation.
-- Serosanguinous fluid, not pus.
+- **Cellulitis, not an abscess.**
+- A**lways bilateral** in presentation.
+- **Serosanguinous fluid**, not pus.
 - Spread via tissue spaces, not lymphatics.
 - Sparing of the submandibular gland.
 
 ### Source of infection
-
 - Infections from the teeth, gums, buccal mucosa, submandibular gland and sublingual salivary glands.
-- Mixed infection.
+- **Mixed infection.**
 - *Borrelia Vincenti* (spelling/capitalization as printed).
 
-### Treatment listed in the source
-
+### Treatment listed in the sourc
 - **With stridor:** tracheostomy, I&D, IV antibiotics.
 - **Without features of stridor:** the source page ends at this heading; the continuation on the next page lists fibreoptic intubation, I&D and IV antibiotics.
 
