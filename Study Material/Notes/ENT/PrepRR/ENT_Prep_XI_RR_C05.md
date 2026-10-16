@@ -630,7 +630,9 @@ D. Biopsy under anaesthesia to diagnose
 	- Pre-styloid compartment.
 	- Post-styloid compartment.
 
-![[IMG_1286.jpeg]]![[IMG_1287.jpeg]]
+![[IMG_1289.png]]![[IMG_1288.webp]]
+
+
 
 **Pre-styloid compartment abscess**
 
