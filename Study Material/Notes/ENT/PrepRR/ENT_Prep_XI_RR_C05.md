@@ -201,6 +201,7 @@ The source diagram labels the pharyngobasilar fascia, base of skull, sinus of Mo
 > [!example]- Source page visual — PDF page 138
 > ![[images/chunk05_p138_source_page.jpeg]]
 
+![[p138_pharyngeal-constrictors-fossa-of-rosenmuller-and-nerves.jpg]]
 
 | Area                                            | Structures passing through / source notes                                                                                                                                                                                                                                                                                                                                      |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
