@@ -351,16 +351,16 @@ The source diagram labels the pharyngobasilar fascia, base of skull, sinus of Mo
 
 ### Types
 
-| Type | Features given in the source |
-|---|---|
-| Acute superficial | Duration of infection under 4 weeks; tonsils are red, without enlargement. |
-| Acute follicular | Yellowish-white dots appear as infection spreads into the crypts. |
-| Acute parenchymal | Tonsils are red and enlarged, and touch each other at the midline. |
-| Acute membranous | Dead bacteria and tonsillar tissue form a true membrane over the tonsils; no bleeding on peeling; membrane is limited to the tonsils. |
-| Chronic follicular | Duration over 12 weeks; yellowish-white dots. |
-| Chronic parenchymal | Tonsils are red and enlarged. |
-| Chronic fibroid | Tonsils are small due to a prolonged antigen–antibody reaction leading to fibrosis. |
-| Subacute | Duration of infection 4–12 weeks. |
+| Type                | Features given in the source                                                                                                                     |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Acute superficial   | Duration of infection **under 4 weeks**; <u>tonsils are red, <mark style="background: #ADCCFFA6;">without enlargement</mark>.</u>                |
+| Acute follicular    | ==Yellowish-white dots== appear as <u>infection spreads into the **crypts**.</u>                                                                 |
+| Acute parenchymal   | Tonsils are <mark style="background: #ADCCFFA6;">red and enlarged</mark>, and touch each other at the midline.                                   |
+| Acute membranous    | Dead bacteria and tonsillar tissue form a ==true membrane== over the tonsils; <u>no bleeding on peeling</u>; membrane is limited to the tonsils. |
+| Chronic follicular  | Duration <u>over 12 weeks</u>; ==yellowish-white dots.==                                                                                         |
+| Chronic parenchymal | Tonsils are <mark style="background: #ADCCFFA6;">red and enlarged.</mark>                                                                        |
+| Chronic fibroid     | Tonsils are small; **Irwin Moore Sign** is positive                                                                                              |
+| Subacute            | Duration of infection 4–12 weeks.                                                                                                                |
 
 **Irwin Moore sign**
 
