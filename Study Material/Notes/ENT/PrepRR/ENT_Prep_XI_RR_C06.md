@@ -456,92 +456,88 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 - Embryological cause: incomplete canalisation of the larynx at the level of the vocal cords.
 - Most common site: glottis.
 - **Partial web:** occupies only the anterior 2/3 of the vocal cord; weak cry, noisy/difficult breathing.
-- **Complete web:** occupies the vocal cord completely; presents with no cry; crying increases stridor.
+- **Complete web:** occupies the vocal cord completely; **presents with no cry; crying increases stridor.**
 
 > [!quote]- Original source page (PDF p. 166)
 > ![[images/chunk06_p166_source_page.jpeg]]
 
-### Page 167 — Laryngeal web summary and acute epiglottitis
-
-**Laryngeal web treatment**
-
-- Partial web: not an emergency; eventually release the web.
-- Complete web: emergency; tracheostomy to access the airway, followed by release of the web.
+#### Laryngeal web treatment
+- **Partial web:** not an emergency; eventually release the web.
+- **Complete web:** emergency; tracheostomy to access the airway, followed by release of the web.
 
 **Common error files** *(lecture timestamp 01:05:08)*
 
 - Conditions presenting at birth:
-  - Laryngomalacia.
-  - Congenital vocal cord paralysis.
-  - Complete laryngeal web.
+	- Laryngomalacia.
+	- Congenital vocal cord paralysis.
+	- Complete laryngeal web.
 - Stridor types:
-  - Inspiratory: laryngomalacia.
-  - Biphasic: congenital vocal cord paralysis and laryngeal web.
+	- Inspiratory: laryngomalacia.
+	- Biphasic: congenital vocal cord paralysis and laryngeal web.
 - Cry status:
-  - Normal: laryngomalacia, subglottic stenosis.
-  - Weak or absent: congenital vocal cord paralysis, laryngeal web.
+	- Normal: laryngomalacia, subglottic stenosis.
+	- Weak or absent: congenital vocal cord paralysis, laryngeal web.
 - Effect of crying on stridor:
-  - Increases: laryngomalacia, vocal cord paralysis, laryngeal web, epiglottitis.
-  - No effect: subglottic stenosis.
-  - Improves: croup/laryngotracheitis.
+	- Increases: laryngomalacia, vocal cord paralysis, laryngeal web, epiglottitis.
+	- No effect: subglottic stenosis.
+	- Improves: croup/laryngotracheitis.
 - Effect of position (laryngomalacia): supine worsens; prone improves.
 - Cotton–Myer's classification is used for subglottic stenosis.
 
-**Inflammatory conditions of the larynx: acute epiglottitis** *(lecture timestamp 01:09:54)*
+### **Inflammatory conditions of the larynx: acute epiglottitis** *(lecture timestamp 01:09:54)*
 
 - Most common age group: 3–7 years.
 - Causative organisms:
-  - *Streptococcus pneumoniae* — most common (as stated).
-  - *Haemophilus influenzae* — incidence reduced due to vaccination.
+	- *Streptococcus pneumoniae* — most common (as stated).
+	- *Haemophilus influenzae* — incidence reduced due to vaccination.
 - Clinical presentation:
-  - Dysphagia.
-  - Odynophagia with drooling of saliva and dehydration.
-  - Absence of cough / hoarseness of voice.
-  - Dyspnoea and inspiratory stridor due to supraglottic obstruction.
-  - Increased chance of laryngospasm on examination.
-  - Child sits in the tripod position.
+	- Dysphagia.
+	- Odynophagia with drooling of saliva and dehydration.
+	- Absence of cough / hoarseness of voice.
+	- Dyspnoea and **inspiratory stridor due to supraglottic obstruction.**
+	- Increased chance of laryngospasm on examination.
+	- **Child sits in the tripod position.**
 
 > [!quote]- Original source page (PDF p. 167)
 > ![[images/chunk06_p167_source_page.jpeg]]
 
-### Page 168 — Epiglottitis and croup
 
-**Acute epiglottitis: investigations and treatment**
+#### **Acute epiglottitis: investigations and treatment**
 
 - Investigation: lateral X-ray view — **thumb sign**, indicating inflammation of the epiglottis.
 - Treatment:
-  - Secure the airway.
-  - Antibiotics against the specific organisms.
-  - Steroids may be given to reduce oedema and prevent airway obstruction.
-  - Voice rest and cough suppressants are not required (as stated).
-  - Racemic adrenaline nebulisation or injection — bronchodilator (as stated).
-  - Hydration is important.
-  - Intubation or tracheostomy may be required.
+	- Secure the airway.
+	- Antibiotics against the specific organisms.
+	- Steroids may be given to reduce oedema and prevent airway obstruction.
+	- Voice rest and cough suppressants are not required (as stated).
+	- **Racemic adrenaline nebulisation or injection** — bronchodilator (as stated).
+	- Hydration is important.
+	- Intubation or tracheostomy may be required.
 
-**Croup** *(also called laryngotracheobronchitis)*
-
+### **Croup** *(also called laryngotracheobronchitis)*
 - Most common age group: 3 months–3 years.
 - Causative organisms:
-  - Parainfluenza virus types I and II (most common); the notes add “secondary infection by bacteria”.
-  - Respiratory syncytial virus.
-  - Rhinovirus.
-  - Influenza virus.
+	- Parainfluenza virus types I and II (most common); the notes add “secondary infection by bacteria”.
+	- Respiratory syncytial virus.
+	- Rhinovirus.
+	- Influenza virus.
 - Clinical presentation:
-  - History of cold / URTI.
-  - Barking, seal-like cough.
-  - Hoarseness of voice / change in cry.
-  - Sore throat absent.
-  - Dyspnoea and biphasic stridor due to subglottic obstruction.
-  - Increased chance of laryngospasm on examination.
+	- History of cold / URTI.
+	- Barking, seal-like cough.
+	- Hoarseness of voice / change in cry.
+	- **Sore throat absent.**
+	- **Dyspnoea and biphasic stridor** due to ==subglottic obstruction==.
+	- Increased chance of laryngospasm on examination.
 - Investigations: AP X-ray — **steeple sign**, narrowing of the subglottis.
 - Treatment (as listed in the source):
-  - Secure the airway.
-  - Antibiotics for secondary infections.
-  - Steroids may be given to reduce oedema.
-  - Racemic adrenaline nebulisation with helium and oxygen — bronchodilator.
-  - Voice rest and cough suppressants are required.
-  - Hydration is important.
-  - Intubation or tracheostomy may be required.
+	- Secure the airway.
+	- **Antibiotics** for secondary infections.
+	- Steroids may be given to reduce oedema.
+	- **Racemic adrenaline nebulisation** with **==helium and oxygen==** — bronchodilator.
+	- Voice rest and cough suppressants are required.
+	- Hydration is important.
+	- Intubation or tracheostomy may be required.
+
 
 **MCQ:** In acute epiglottitis in children, death occurs due to:
 
@@ -575,94 +571,83 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 
 **Answer: d.**
 
-**Benign lesions of the larynx** *(lecture timestamp 01:18:33)*
+### **Benign lesions of the larynx** *(lecture timestamp 01:18:33)*
 
-**Vocal nodule**
-
+#### **Vocal nodule**
 - Also called teacher's nodule / singer's nodule.
 - Bilateral, symmetrical lesions on the vocal cords.
 - Location: junction of the anterior 1/3 and middle 1/3.
 - Occurs due to gradual or chronic voice abuse.
 - Treatment: voice rest; microlaryngeal surgery (MLS), as listed.
 
-**Vocal polyp**
-
+#### **Vocal polyp**
 - Unilateral lesion on the vocal cords.
 - Location: junction of the anterior 1/3 and middle 1/3.
 - Occurs due to sudden voice abuse.
 - Presents with diplophonia.
 - Treatment: microlaryngeal surgery.
 
-**Reinke's oedema**
-
+#### **Reinke's oedema**
 - Bilateral, symmetrical swelling of the vocal cords.
 - Location: membranous or anterior 2/3 of the vocal cords.
 - Cause: smoking and GERD.
 - Presents with diplophonia and low-pitched voice.
 - Appears as a bag of water.
-- Treatment begins on page 169 and continues on page 170.
+
+**Treatment:**
+- Voice rest.
+- Antireflux therapy.
+- Decortication / stripping of the vocal cord epithelium.
+	- Initially, one vocal cord is treated; the other is treated after 4–6 weeks.
+	- Stripping of both vocal cords is not done simultaneously because it can lead to adhesions.
+
+
 
 > [!quote]- Original source page (PDF p. 169)
 > ![[images/chunk06_p169_source_page.jpeg]]
 
-### Page 170 — Reinke's oedema, contact ulcer, keratosis and TB larynx
 
-**Reinke's oedema: treatment (continued)**
+> [!info] **Important information**
+>- Hoarseness is a rough/harsh quality of voice.
+>- Dysphonia is difficulty speaking or any impairment of voice.
+>
+>**Hoarseness of voice — source flowchart transcription**
+>
+>| History / pattern                                                                                                         | Suggested condition                  | Treatment listed                             |
+>| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | -------------------------------------------- |
+>| **Gradual** voice abuse; bilateral symmetrical swellings at the junction of the anterior and middle 1/3 of the vocal cord | Vocal nodule                         | Voice rest; MLS                              |
+>| **Sudden** voice abuse; pedunculated lesion at the junction of the anterior and middle 1/3                                | Vocal polyp                          | MLS                                          |
+>| Smoking / LPR (reflux); bilateral “bag of water” appearance                                                               | Reinke's oedema                      | Voice rest; MLS as shown in the source chart |
+>| Voice abuse / trauma / intubation; unilateral or bilateral nodular mass at the arytenoid                                  | Contact ulcer / intubation granuloma | MLS                                          |
 
-- Voice rest.
-- Antireflux therapy.
-- Decortication / stripping of the vocal cord epithelium.
-  - Initially, one vocal cord is treated; the other is treated after 4–6 weeks.
-  - Stripping of both vocal cords is not done simultaneously because it can lead to adhesions.
-
-**Important information**
-
-- Hoarseness is a rough/harsh quality of voice.
-- Dysphonia is difficulty speaking or any impairment of voice.
-
-**Hoarseness of voice — source flowchart transcription**
-
-| History / pattern | Suggested condition | Treatment listed |
-|---|---|---|
-| Gradual voice abuse; bilateral symmetrical swellings at the junction of the anterior and middle 1/3 of the vocal cord | Vocal nodule | Voice rest; MLS |
-| Sudden voice abuse; pedunculated lesion at the junction of the anterior and middle 1/3 | Vocal polyp | MLS |
-| Smoking / LPR (reflux); bilateral “bag of water” appearance | Reinke's oedema | Voice rest; MLS as shown in the source chart |
-| Voice abuse / trauma / intubation; unilateral or bilateral nodular mass at the arytenoid | Contact ulcer / intubation granuloma | MLS |
-
-**Contact ulcer** *(also called pachyderma laryngitis)*
-
+#### **Contact ulcer** *(also called pachyderma laryngitis)*
 - Cause: trauma, reflux and voice abuse.
 - Hypertrophy of epithelium on one side with depression of the opposite epithelium.
 - “Pseudoulcer”.
 - Affects the posterior part of the vocal cord.
 
-**Keratosis of the larynx** *(also called leukoplakia)*
-
+#### **Keratosis of the larynx** *(also called leukoplakia)*
 - Smoking / tobacco chewing → chronic irritation → transformation of epithelium to white plaque-like lesions.
 - Treatment:
-  - Stop offending agents.
-  - Decortication / stripping of the vocal cord or excisional biopsy of the vocal cord.
+	- Stop offending agents.
+	- Decortication / stripping of the vocal cord or excisional biopsy of the vocal cord.
 
-**TB larynx** *(lecture timestamp 01:24:37)*
-
+#### **TB larynx** *(lecture timestamp 01:24:37)
 - Can occur along with pulmonary tuberculosis.
 - Can also occur as a low-grade, indolent form: lupus larynx.
 - Symptoms:
-  - Painful ulcer → odynophagia.
-  - Low-grade fever, cough and weight loss.
+	- Painful ulcer → odynophagia.
+	- Low-grade fever, cough and weight loss.
 
 > [!quote]- Original source page (PDF p. 170)
 > ![[images/chunk06_p170_source_page.jpeg]]
 
-### Page 171 — TB larynx, lupus larynx and hoarseness work-up
-
 **TB larynx: signs**
-
 - Starts in the posterior part of the vocal cord.
 - Hyperaemia / redness of the vocal cord with sluggish vocal-cord movement.
-- Discontinuous ulcer: “moth-eaten” / “mouse-nibbled”.
-- Swelling of arytenoids: “mamillated arytenoids”.
-- Swelling of epiglottis: “turban epiglottis”.
+- ==**Discontinuous ulcer: “moth-eaten” / “mouse-nibbled”.**==
+- Swelling of arytenoids: **==“mamillated arytenoids”.==**
+- Swelling of epiglottis: **==“turban epiglottis”.==**
 
 **Investigations**
 
@@ -673,12 +658,12 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 
 **Treatment:** antitubercular drugs.
 
-| Feature | TB larynx | Lupus larynx |
-|---|---|---|
-| Pulmonary TB | Yes | No |
-| Activity of TB | Active | No |
-| Parts affected | Posterior | Anterior |
-| Symptomatic | Yes | No |
+| Feature        | TB larynx | Lupus larynx |
+| -------------- | --------- | ------------ |
+| Pulmonary TB   | Yes       | No           |
+| Activity of TB | Active    | No           |
+| Parts affected | Posterior | Anterior     |
+| Symptomatic    | Yes       | No           |
 
 **Conditions of the larynx presenting with hoarseness — source algorithm**
 
@@ -717,104 +702,93 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 - Unilateral lesions: vocal polyp, vocal cyst, contact ulcer, leukoplakia (as listed).
 - Condition involving the posterior part of the larynx: pachyderma laryngitis / contact ulcer.
 
-**Laryngeal papilloma** *(lecture timestamp 01:32:49; NEET PG 2019; FMGE 2023)*
+### **Laryngeal papilloma** *(lecture timestamp 01:32:49; NEET PG 2019; FMGE 2023)*
 
 - Causative organisms: HPV 6 and 11.
 - Two types:
-  - Juvenile onset.
-  - Adult onset.
+	- Juvenile onset.
+	- Adult onset.
 
 > [!quote]- Original source page (PDF p. 172)
 > ![[images/chunk06_p172_source_page.jpeg]]
 
-### Page 173 — Papilloma and voice/speech disorders
 
 **Juvenile versus adult-onset papilloma**
 
-| Feature | Juvenile papilloma | Adult-onset papilloma |
-|---|---|---|
-| Age | Infants and young children | 30–50 years |
-| Sex | Twice more common in males (source wording) | — |
-| Number | Multiple lesions | Single lesion |
-| Location | Multiple subsites: true and false vocal cords and epiglottis | Single subsite: anterior half of vocal cord or anterior commissure |
-| Aggressiveness | Aggressive; recurrence common after surgical excision | Less aggressive; does not recur after excision (as stated) |
-| Recurrence | High | Less |
+| 	Feature       | Juvenile papilloma                                           | Adult-onset papilloma                                              |
+| -------------- | ------------------------------------------------------------ | ------------------------------------------------------------------ |
+| Age            | Infants and young children                                   | 30–50 years                                                        |
+| Sex            | Twice more common in males (source wording)                  | —                                                                  |
+| Number         | Multiple lesions                                             | Single lesion                                                      |
+| Location       | Multiple subsites: true and false vocal cords and epiglottis | Single subsite: anterior half of vocal cord or anterior commissure |
+| Aggressiveness | Aggressive; recurrence common after surgical excision        | Less aggressive; does not recur after excision (as stated)         |
+| 		Recurrence   | High                                                         | Less                                                               |
 
 **Treatment**
-
 - Surgical excision using microdebrider or coblation.
 - Surgical excision with laser is not done, according to the notes, because it generates fumes that mix with papilloma virus and form plumes; these can move to the lower trachea and cause distal seeding → tracheal and bronchial papilloma.
 
-**Voice and speech disorders**
+### **Voice and speech disorders**
 
-**Dysphonia plica ventricularis**
+#### **Dysphonia plica ventricularis**
 
 - Voice is generated by the false vocal cords.
 - Causes:
-  - True vocal cord pathology — inability of true vocal cords to adduct.
-  - Psychological condition.
-  - Voice abuse.
+	- True vocal cord pathology — inability of true vocal cords to adduct.
+	- Psychological condition.
+	- Voice abuse.
 - Hypertrophy of the false vocal cords.
 - Treatment: speech therapy; reduction of the false vocal cord.
 
-**Spasmodic dysphonia**
-
+#### **Spasmodic dysphonia**
 - Spasm of the phonatory muscles.
 - Causes / associations listed:
-  - Neurological disorders: Parkinsonism and Alzheimer's disease.
-  - Other dystonias such as oromandibular dystonia and blepharospasm.
+	- Neurological disorders: Parkinsonism and Alzheimer's disease.
+	- Other dystonias such as oromandibular dystonia and blepharospasm.
 
 > [!quote]- Original source page (PDF p. 173)
 > ![[images/chunk06_p173_source_page.jpeg]]
 
-### Page 174 — Types of dysphonia and puberphonia
+##### **Types of dysphonia**
 
-**Types of dysphonia**
-
-| Type | Source description |
-|---|---|
+| Type               | Source description                                                                              |
+| ------------------ | ----------------------------------------------------------------------------------------------- |
 | Adductor dysphonia | Spasm of vocalis muscle (medial fibres of thyroarytenoid); scratchy, croaky, strangulated voice |
-| Abductor dysphonia | Spasm of posterior cricoarytenoid; breathy voice |
-| Mixed dysphonia | Adductor + abductor dystonia |
+| Abductor dysphonia | Spasm of posterior cricoarytenoid; breathy voice                                                |
+| Mixed dysphonia    | Adductor + abductor dystonia                                                                    |
 
 **Treatment**
-
 - Adductor dysphonia: botulinum toxin injection in the thyroarytenoid muscle.
 - Abductor dysphonia: botulinum toxin injection in the cricoarytenoid muscle (as stated in the source).
 
-**Puberphonia**
-
+#### **Puberphonia**
 - Normally, in males during puberty, the voice transforms to produce an adult, low-pitched quality.
 - In puberphonia, the voice remains high-pitched.
 - The source describes a lack of correlation between thyroid-cartilage and vocal-cord development: the thyroid cartilage develops faster, pulling and stretching the vocal cord and producing a female-quality voice.
 - Diagnosis: **Gutzmann pressure test**.
-  - Applying pressure on the thyroid cartilage relaxes the vocal cord.
-  - Improvement in voice is seen → male-quality voice is produced.
+	- Applying pressure on the thyroid cartilage relaxes the vocal cord.
+	- Improvement in voice is seen → male-quality voice is produced.
 - Treatment:
-  - Speech therapy.
-  - Type III thyroplasty: shortens the vocal cord and releases tension.
+	- Speech therapy.
+	- Type III thyroplasty: shortens the vocal cord and releases tension.
 
-> [!quote]- Original source page (PDF p. 174)
-> ![[images/chunk06_p174_source_page.jpeg]]
 
-### Page 175 — Thyroplasty, phonasthenia and functional aphonia
+> [!quote] **Important information: types of thyroplasty**
+> - Type I: medialisation of the vocal cord.
+> - Type II: lateralisation of the vocal cord.
+> - Type III: shortening of the vocal cord.
+> - Type IV: lengthening of the vocal cord.
+> 
 
-**Important information: types of thyroplasty**
-
-- Type I: medialisation of the vocal cord.
-- Type II: lateralisation of the vocal cord.
-- Type III: shortening of the vocal cord.
-- Type IV: lengthening of the vocal cord.
-
-**Phonasthenia**
+#### **Phonasthenia**
 
 - Means weakness of the phonatory muscle.
 - The vocal cord lies between the thyroid cartilage and arytenoid cartilage.
 - Muscle between thyroid and arytenoid cartilages: thyroarytenoid.
 - Muscle between the two arytenoid cartilages: interarytenoid.
 - Keyhole appearance of the glottis:
-  - Weak thyroarytenoid → anterior bowing of the vocal cord.
-  - Weak interarytenoid → posterior bowing of the vocal cord.
+	- Weak thyroarytenoid → anterior bowing of the vocal cord.
+	- Weak interarytenoid → posterior bowing of the vocal cord.
 
 **Functional aphonia** *(also called hysterical aphonia)*
 
@@ -886,13 +860,13 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
   - All muscles except cricothyroid: RLN.
   - Cricothyroid: external branch of the laryngeal nerve / SLN.
 
-| Nerve | Supply | Effect of injury / palsy |
-|---|---|---|
-| ILN | Sensory to supraglottis | Aspiration |
-| ELN | Cricothyroid muscle (tensor and adductor of vocal cord) | Inability to raise pitch |
-| SLN (ILN + ELN) | Sensory and motor functions above | Aspiration; inability to raise pitch |
-| RLN | All muscles except cricothyroid | Vocal cord median/paramedian (Wagner and Grossman theory); abductor/incomplete palsy; unilateral palsy may be asymptomatic or cause hoarseness; bilateral palsy causes stridor |
-| SLN + RLN | Complete palsy | Complete/adductor palsy; vocal cords in cadaveric/intermediate position |
+| Nerve           | Supply                                                  | Effect of injury / palsy                                                                                                                                                       |
+| --------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ILN             | Sensory to supraglottis                                 | Aspiration                                                                                                                                                                     |
+| ELN             | Cricothyroid muscle (tensor and adductor of vocal cord) | Inability to raise pitch                                                                                                                                                       |
+| SLN (ILN + ELN) | Sensory and motor functions above                       | Aspiration; inability to raise pitch                                                                                                                                           |
+| RLN             | All muscles except cricothyroid                         | Vocal cord median/paramedian (Wagner and Grossman theory); abductor/incomplete palsy; unilateral palsy may be asymptomatic or cause hoarseness; bilateral palsy causes stridor |
+| SLN + RLN       | Complete palsy                                          | Complete/adductor palsy; vocal cords in cadaveric/intermediate position                                                                                                        |
 
 > [!quote]- Original source page (PDF p. 177)
 > ![[images/chunk06_p177_source_page.jpeg]]
