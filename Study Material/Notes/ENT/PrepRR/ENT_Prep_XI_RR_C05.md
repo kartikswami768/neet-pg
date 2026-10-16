@@ -32,7 +32,7 @@ tags:
   - Hypopharynx.
 
 ### Nasopharynx
-[[Thieme_Atlas_of_Anatomy,_Anne_M.pdf#page=]]
+[[Thieme_Atlas_of_Anatomy,_Anne_M.pdf#page=600]]
 - Extends superiorly from the base of the skull and inferiorly to the imaginary line passing through the palate.
 - Corresponding vertebra: C1.
 
@@ -46,12 +46,12 @@ tags:
 
 - Opening of the Eustachian tube.
 - Torus tubarius (TT).
-- <strong>Fossa of Rosenmüller</strong> — the most common site of origin for nasopharyngeal cancer, as stated in the source.
+- <strong>Fossa of Rosenmüller</strong> — ==the most common site of origin for nasopharyngeal cancer, as stated in the source.==
 - <strong>Sphenopalatine foramen —</strong> communication between the nasopharynx and the pterygopalatine fossa, as stated in the source.
 
 ### Adenoids
 
-- Lymphoid tissue in the midline of the medial wall of the nasopharynx.
+- Lymphoid tissue in the midline of the posterior wall of the nasopharynx.
 - Especially seen in children.
 - Can be identified by endoscopy or X-ray/portable endoscopy, as stated in the notes.
 
@@ -96,7 +96,7 @@ Based on the choanal space occupied:
 **Contents listed in the source**
 
 - Tonsil.
-- Posterior one-third of the tongue (base).
+- ==Posterior one-third of the tongue (base).==
 - Median glossoepiglottic fold.
 - Lateral glossoepiglottic fold.
 - Vallecula — the space between the median and lateral glossoepiglottic folds.
@@ -111,7 +111,7 @@ Based on the choanal space occupied:
 - Anteriorly: lips.
 - Posteriorly: anterior pillar.
 - Superiorly: hard palate.
-- Inferiorly: anterior two-thirds of the tongue (presses on the floor of the mouth).
+- Inferiorly: anterior <u>two-thirds of the tongue (presses on the floor of the mouth).</u>
 
 ## Tongue development and nerve supply (00:16:36)
 
