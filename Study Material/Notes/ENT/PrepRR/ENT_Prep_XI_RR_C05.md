@@ -530,17 +530,16 @@ D. Breathing exercise and symptomatic treatment
   - Fifth-nerve palsy: pain along the distribution of the fifth nerve.
   - Tenth-nerve palsy: palatal paralysis.
 - **“HO'S triangle”** aka Subclavian Triangle or Supraclavicular fossa or Omohyoid Triangle: 
-- site for lymphadenopathy, formed by:
-  - Superiorly: Inferior belly of omohyoid
-  - Inferiorly: Clavicle
-Anteriorly: Posterior border of sternocleidomastoid
+	site for lymphadenopathy, formed by:
+	  - Superiorly: Inferior belly of omohyoid
+	  - Inferiorly: Clavicle 
+	  - Anteriorly: Posterior border of sternocleidomastoid
 ### Classification
 
 - WHO.
 - HO'S.
 
 **Variants**
-
 - Well differentiated.
 - Moderately differentiated.
 - Anaplastic — poor prognosis.
