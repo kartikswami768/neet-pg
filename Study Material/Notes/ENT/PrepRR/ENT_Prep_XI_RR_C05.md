@@ -529,7 +529,7 @@ D. Breathing exercise and symptomatic treatment
   - Conductive hearing loss due to SOM.
   - Fifth-nerve palsy: pain along the distribution of the fifth nerve.
   - Tenth-nerve palsy: palatal paralysis.
-- **“HO'S triangle”** (as printed): site for lymphadenopathy, formed by:
+- **“HO'S triangle”** aka Subclavian Triangle or Supraclavicular fossa: site for lymphadenopathy, formed by:
   - Medial end of the clavicle.
   - Lateral end of the clavicle.
   - Junction of the neck and shoulder.
