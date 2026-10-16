@@ -583,10 +583,9 @@ D. Biopsy under anaesthesia to diagnose
 ### Treatment
 - Marsupialization with excision of the sublingual gland.
 ## Pharyngeal spaces (00:20:48)
+### Peritonsillar space
 
 ![[p148_peritonsillar-space-and-pharyngobasilar-fascia.jpg]]![[p148_neck-neurovascular-anatomy-carotid-sheath-and-cranial-nerves.jpg]]![[p148_deep-neck-spaces-retropharyngeal-parapharyngeal-and-danger-space.jpg]]
-
-### Peritonsillar space
 
 - The source diagram shows: tonsil is encapsulated → formed by pharyngobasilar fascia → superior constrictor muscle → buccopharyngeal fascia.
 - Space between the pharyngobasilar fascia and the superior constrictor muscle.
@@ -668,25 +667,25 @@ D. Biopsy under anaesthesia to diagnose
 
 **True retropharyngeal space abscess**
 
-- Aetiology: infection from tonsil and adenoid.
-- Common in children.
-- Acute condition.
+- Aetiology: ==infection from tonsil and adenoid.==
+- Common in **children**.
+- **Acute** condition.
 - Clinical presentation: bulge on one side of the midline.
 
 **Danger-space abscess**
 
-- Aetiology: TB spine.
-- Common in adults.
-- Chronic condition.
+- Aetiology: ==TB spine.==
+- Common in **adults**.
+- **Chronic** condition.
 - Clinical presentation: bulge on one side of the midline, as stated in the source.
 
 **Prevertebral space**
 
 - Boundaries listed in the source:
-  - Anteriorly: buccopharyngeal fascia.
-  - Posteriorly: body of a vertebra.
-  - Superiorly: base of skull.
-  - Inferiorly: coccyx.
+	- Anteriorly: buccopharyngeal fascia.
+	- Posteriorly: body of a vertebra.
+	- Superiorly: base of skull.
+	- Inferiorly: coccyx.
 - Unpaired/single/midline space.
 
 **Prevertebral abscess**
