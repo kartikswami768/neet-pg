@@ -5,6 +5,7 @@ source: "Ent Prep Xi RR.pdf"
 chunk: C06
 source_pages: "155-191"
 status: transcribed-and-proofread
+handwriting-page-id: 9df49035-2553-4831-9302-a33a5bd49e65
 ---
 
 # 17. Larynx
@@ -275,8 +276,8 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 - Larynx develops from the 4th and 6th arches.
 - Supraglottis develops from the 4th arch; glottis and subglottis develop from the 6th arch.
 - Larynx lies against C3–C6.
-- Laryngeal crepitus occurs due to movement of the cricoid against the vertebrae.
-- Laryngeal crepitus is absent in post-cricoid cancer, prevertebral abscess and retropharyngeal abscess.
+- **==Laryngeal crepitus occurs due to movement of the cricoid against the vertebrae.**==
+- ==**Laryngeal crepitus is absent in post-cricoid cancer, prevertebral abscess and retropharyngeal abscess.==**
 - Hyaline cartilages of the larynx: thyroid, cricoid and arytenoid.
 - Elastic cartilages: epiglottis, cuneiform and corniculate.
 - Largest laryngeal cartilage: thyroid.
@@ -284,21 +285,21 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 - Angle at which the thyroid cartilage alae meet:
   - Male: 90°.
   - Female: 120°.
-- Oblique line of thyroid cartilage gives attachment to sternothyroid, thyrohyoid and thyropharyngeus.
+- **Oblique line of thyroid cartilage** gives attachment to sternothyroid, thyrohyoid and thyropharyngeus.
 - Two surfaces of the epiglottis: lingual and laryngeal.
   - Parts: suprahyoid and infrahyoid.
 - Only complete cartilaginous ring in the airway: cricoid cartilage.
 - Narrowest portion of the adult larynx: glottis; in the paediatric larynx: subglottis.
 - Cartilage of Santorini: corniculate.
 - Cartilage of Wrisberg: cuneiform.
-- Membranous portion: 2/3; cartilaginous portion: 1/3.
-- Sinus of Morgagni of the larynx: ventricles.
+- ==Membranous portion: 2/3; cartilaginous portion: 1/3.==
+- **Sinus of Morgagni of the larynx**: ventricles.
 - Rima vestibuli: space between the false cords.
 - Rima glottidis: space between the true cords.
-- Space of Tucker: paraglottic space.
-- Space of Boyer: pre-epiglottic space.
+- **==Space of Tucker==**: paraglottic space.
+- **==Space of Boyer:==** pre-epiglottic space.
 - Only unpaired laryngeal muscle: interarytenoid / transverse arytenoid.
-- Only muscle said here to receive dual innervation: interarytenoid / transverse arytenoid.
+- Only muscle said here to receive **==dual innervation:==** **interarytenoid / transverse arytenoid.**
 - Only abductor of the vocal cord: posterior cricoarytenoid.
 - Tensor: cricothyroid.
 
@@ -310,7 +311,7 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
   - Motor supply: all muscles by RLN except cricothyroid, supplied by the external branch of SLN.
 - Muscles:
   - Cricothyroid: only muscle with two bellies, lying outside; adducts and lengthens the vocal cord (as stated in the source).
-  - Vocalis: shortens and adducts the vocal cord.
+  - Vocalis: shortens and adducts the vocal cord. (relieving the tension of mucosa and effectively the vocal cord)
   - Posterior cricoarytenoid: only abductor of the vocal cord.
 
 > [!quote]- Original source page (PDF p. 162)
@@ -323,45 +324,43 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 **Congenital anomalies of the larynx**
 
 - Most common congenital anomaly of the larynx:
-  1. Laryngomalacia.
-  2. Congenital vocal cord paralysis.
-  3. Subglottic stenosis.
+  1. 1st most common: Laryngomalacia.
+  2. 2nd most common: Congenital vocal cord paralysis.
+  3. 3rd. most common: Subglottic stenosis.
 
 **Laryngomalacia** *(lecture timestamp 00:51:44; FMGE 2020)*
 
-- Definition: condition with excessive flaccidity of the epiglottis or supraglottis.
+- Definition: condition with <u>excessive flaccidity of the epiglottis or supraglottis.</u>
 - Supraglottis: part of the larynx above the vocal cords.
 
 **Mechanism of obstruction**
-
 - During inspiration:
-  - Air is sucked in.
-  - Epiglottis falls onto the airway and obstructs it.
-  - Inspiratory stridor results.
+	- Air is sucked in.
+	- Epiglottis falls onto the airway and obstructs it.
+	- Inspiratory stridor results.
 - During expiration:
-  - Air comes from below (from the trachea) and pushes the epiglottis away.
-  - No stridor during expiration.
+	- Air comes from below (from the trachea) and pushes the epiglottis away.
+	- No stridor during expiration.
 
 **Clinical findings and presentation**
 
 - Inspiratory stridor at birth.
 - No expiratory stridor.
 - Crying increases stridor:
-  - Crying causes negative intrathoracic pressure and pulls air in; the epiglottis is sucked in, increasing stridor.
-  - Cry/voice at birth is normal because the epiglottis, not the vocal cords, is involved.
+	- ==Crying causes negative intrathoracic pressure and pulls air in; the epiglottis is sucked in, increasing stridor.==
+	- ==Cry/voice at birth is normal because the epiglottis, not the vocal cords, is involved.==
 - Position:
-  - Supine: epiglottis collapses over the laryngeal inlet, obstructing the glottis and worsening stridor.
-  - Prone: epiglottis falls away from the larynx, relieving stridor.
+	- Supine: epiglottis collapses over the laryngeal inlet, obstructing the glottis and worsening stridor.
+	- Prone: epiglottis falls away from the larynx, relieving stridor.
 
 **Laryngoscopic examination**
 
 - Done under short general anaesthesia or sedation.
-- Finding: collapsed, omega-shaped epiglottis.
+- Finding: collapsed, **omega-shaped epiglottis.**
 
 > [!quote]- Original source page (PDF p. 163)
 > ![[images/chunk06_p163_source_page.jpeg]]
 
-### Page 164 — Congenital vocal cord palsy and subglottic stenosis
 
 **Laryngomalacia treatment**
 
@@ -369,49 +368,41 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 - Spontaneous resolution occurs at 1–2 years of age.
 - Epiglottic surgery may be needed if it does not resolve.
 
-**Congenital vocal cord palsy**
+### **Congenital vocal cord palsy**
 
-- Most common congenital CNS abnormality causing vocal cord palsy: Arnold–Chiari malformation.
+- Most common congenital CNS abnormality causing vocal cord palsy: **Arnold–Chiari malformation.**
 
 *Clinical presentation*
 
 - **Unilateral vocal cord paralysis:** usually asymptomatic or may cause a weak cry.
 - **Bilateral vocal cord paralysis:**
-  - Stridor at birth; biphasic stridor because the lesion is at the level of the vocal cords.
-  - Difficulty breathing, cyanosis and respiratory distress at birth.
-  - Weak cry or aphonia/no cry.
-  - Crying increases stridor.
+	- Stridor at birth; **biphasic stridor** because the lesion is at the level of the vocal cords.
+	- Difficulty breathing, cyanosis and respiratory distress at birth.
+	- Weak cry or aphonia/no cry.
+	- **Crying increases stridor.**
 
 *Treatment*
 
 - Unilateral: wait and watch; one cord is paralysed while the other still works.
 - Bilateral:
-  - Tracheostomy to access the airway.
-  - Vocal cord lateralisation to create airway space for respiration.
+	- Tracheostomy to access the airway.
+	- Vocal cord lateralisation to create airway space for respiration.
 
-**Subglottic stenosis**
+### **Subglottic stenosis**
 
 - Definition: excessive thickening of the cricoid cartilage, narrowing the subglottic lumen.
 - The subglottis lies at the level of the cricoid cartilage and is the narrowest part of the larynx in children.
-- Abnormal subglottic diameter:
-  - Less than 4 mm in full-term neonates.
-  - Less than 3 mm in premature neonates (NEET PG 2021).
+- Abnormal subglottic **diameter**:
+	- Less than ==4 mm== in full-term neonates.
+	- Less than ==3 mm== in premature neonates (NEET PG 2021).
 
 **Cotton–Myer classification**
 
 - Used for acquired subglottic stenosis; also applicable to congenital stenosis.
-  - Grade 1: obstruction up to 50%.
-  - Grade 2: 51–70% obstruction.
-  - Grade 3: 71–99% obstruction.
-
-> [!quote]- Original source page (PDF p. 164)
-> ![[images/chunk06_p164_source_page.jpeg]]
-
-### Page 165 — Subglottic stenosis grading and effect of crying
-
-**Cotton–Myer classification (continued)**
-
-- Grade 4: complete obstruction (100%).
+	- Grade 1: obstruction up to 50%.
+	- Grade 2: 51–70% obstruction.
+	- Grade 3: 71–99% obstruction.
+	- Grade 4: complete obstruction (100%).
 
 | Grade | From | To | Endoscopic appearance |
 |---|---|---|---|
@@ -419,6 +410,11 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 | Grade II | 51% | 70% | Source image retained |
 | Grade III | 71% | 99% | Source image retained |
 | Grade IV | No detectable lumen | — | Source image retained |
+
+
+> [!quote]- Original source page (PDF p. 164)
+> ![[images/chunk06_p164_source_page.jpeg]]
+
 
 **Clinical presentation**
 
@@ -429,23 +425,16 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 
 **Effect of crying**
 
-| Condition | Effect on stridor when crying |
-|---|---|
-| Laryngomalacia | Increases / worsens |
-| Acute epiglottitis | Source table leaves result blank |
-| Congenital vocal cord paralysis | Source table leaves result blank |
-
+| Condition                       | Effect on stridor when crying |
+| ------------------------------- | ----------------------------- |
+| Laryngomalacia                  | Increases / worsens           |
+| Acute epiglottitis              | increases / worsens           |
+| Congenital vocal cord paralysis | increases / worsens           |
+| Subglottic stenosis             | No effect                     |
+| Bilateral choanal atresia       | Improves                      |
 > [!quote]- Original source page (PDF p. 165)
 > ![[images/chunk06_p165_source_page.jpeg]]
 
-### Page 166 — Stenosis treatment and laryngeal web
-
-**Effect of crying (continued)**
-
-| Condition | Effect on stridor when crying |
-|---|---|
-| Subglottic stenosis | No effect |
-| Bilateral choanal atresia | Improves |
 
 **Treatment based on grade**
 
@@ -459,10 +448,10 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 *Post-surgery*
 
 - Montgomery T-tube (stent): used in Grade 3 and Grade 4 reconstructions.
-- Prevents further stenosis after surgery.
+	- Prevents further stenosis after surgery.
 - Mitomycin-C (antiproliferative drug): prevents fibrosis and adhesions.
 
-**Laryngeal web**
+### **Laryngeal web**
 
 - Embryological cause: incomplete canalisation of the larynx at the level of the vocal cords.
 - Most common site: glottis.
