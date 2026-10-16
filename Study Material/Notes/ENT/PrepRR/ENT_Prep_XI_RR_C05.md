@@ -49,7 +49,7 @@ tags:
 - <strong>Fossa of Rosenmüller</strong> — ==the most common site of origin for nasopharyngeal cancer, as stated in the source.==
 - <strong>Sphenopalatine foramen —</strong> communication between the nasopharynx and the pterygopalatine fossa, as stated in the source.
 
-### Adenoids
+#### Adenoids
 
 - Lymphoid tissue in the midline of the posterior wall of the nasopharynx.
 - Especially seen in children.
@@ -58,7 +58,7 @@ tags:
 > [!example]- Source page visual — PDF page 135
 > ![[images/chunk05_p135_source_page.jpeg]]
 
-### Grading of adenoids
+##### Grading of adenoids
 
 Based on the choanal space occupied:
 
@@ -67,7 +67,7 @@ Based on the choanal space occupied:
 - Grade 3: 50–75%.
 - Grade 4: >75%.
 
-### Passavant's ridge
+#### Passavant's ridge
 
 - Present between the nasopharynx and oropharynx.
 - Formed by fibres of the palatopharyngeus muscle.
@@ -104,7 +104,7 @@ Based on the choanal space occupied:
 > [!example]- Source page visual — PDF page 136
 > ![[images/chunk05_p136_source_page.jpeg]]
 
-## Oral cavity (00:16:05)
+### Oral cavity (00:16:05)
 
 **Boundaries of the oral cavity**
 
@@ -113,39 +113,39 @@ Based on the choanal space occupied:
 - Superiorly: hard palate.
 - Inferiorly: anterior <u>two-thirds of the tongue (presses on the floor of the mouth).</u>
 
-## Tongue development and nerve supply (00:16:36)
-
-### Anterior two-thirds
+#### Tongue development and nerve supply (00:16:36)
+[[Netter's Atlas of Human Embryology, Updated Edition.pdf#page=268]]
+##### Anterior two-thirds
 
 - Derived from the first pharyngeal arch.
 - Formed by fusion of:
   - Two lingual swellings.
   - Tuberculum impar.
 - **Nerve supply (first arch):**
-  - General sensation: lingual nerve, a branch of the mandibular division of the trigeminal nerve.
-  - Taste (special sensation): chorda tympani, a branch of the facial nerve.
-- Pathology in the anterior two-thirds (ulcer, cancer) may cause referred otalgia:
+  - General sensation: ==lingual nerve,== a branch of the <u>mandibular division of the trigeminal nerve.</u>
+  - Taste (special sensation): ==chorda tympani==, a branch of the facial nerve.
+- Pathology in the <u>anterior two-thirds</u> (ulcer, cancer) may cause <u>referred otalgia:</u>
   - Mediated via the lingual nerve (branch of the trigeminal nerve).
-  - The trigeminal nerve supplies the ear via the auriculotemporal nerve.
+  - The <u>trigeminal nerve supplies the ear</u> via the <u>auriculotemporal nerve</u>.
 
-### Posterior one-third
+##### Posterior one-third
 
-- Develops from the hypobranchial eminence, which has cranial and caudal parts.
+- Develops from the <strong>hypobranchial eminence</strong>, which has cranial and caudal parts.
 - **Cranial part:**
   - Derived from the third arch.
   - Forms most of the posterior one-third (base of tongue).
   - General sensation: glossopharyngeal nerve.
 - **Caudal part:**
   - Derived from the fourth arch.
-  - Forms the vallecula.
+  - Forms the ==vallecula==.
   - General sensation: vagus nerve.
 
-### Motor nerve supply of the tongue
+##### Motor nerve supply of the tongue
 
-- All muscles of the tongue are supplied by the hypoglossal nerve.
-- Exception: palatoglossus.
+- All muscles of the tongue are supplied by the ==hypoglossal nerve.==
+- <strong>Exception: palatoglossus</strong>.
 
-## Hypopharynx (00:21:50)
+### Hypopharynx (00:21:50)
 
 - Also called the laryngopharynx.
 - Lies behind the larynx.
@@ -155,27 +155,27 @@ Based on the choanal space occupied:
 - Superiorly: an imaginary line through the tip of the epiglottis.
 - Inferiorly: lower border of the cricoid cartilage, corresponding to C6.
 - Anteriorly: related to the larynx.
-- Posteriorly: related to vertebrae C3, C4, C5 and C6.
+- Posteriorly: related to vertebrae <u>C3, C4, C5 and C6</u>.
 
 > [!example]- Source page visual — PDF page 137
 > ![[images/chunk05_p137_source_page.jpeg]]
 
-### Subdivisions of the hypopharynx
+#### Subdivisions of the hypopharynx
 
 - Pyriform fossa.
 - Post-cricoid region.
 - Posterior pharyngeal wall.
 
-### Pyriform fossa
+##### Pyriform fossa
 
-- The internal branch of the superior laryngeal nerve (ILN, as abbreviated in the source) traverses the pyriform fossa.
+- The <u>internal branch of the superior laryngeal nerve</u> (ILN, as abbreviated in the source) <u>traverses the pyriform fossa.</u>
 - The source gives the example of a patient with a fish bone impacted in the pyriform fossa: the superior laryngeal nerve may be injured during extraction.
 - The ILN is sensory to the larynx above the level of the vocal cord; injury leads to loss of sensation.
 - Also called **Smuggler's pouch**.
 
-### Post-cricoid region
+##### Post-cricoid region
 
-- Most common site for carcinoma in Plummer–Vinson syndrome, according to the source.
+- Most common site for <strong>carcinoma in Plummer–Vinson syndrome</strong>, according to the source.
 
 ### Waldeyer's ring (00:27:03)
 
@@ -195,14 +195,13 @@ Based on the choanal space occupied:
 3. Third layer: muscular layer; external row includes the superior, middle and inferior constrictors.
 4. Fourth layer: buccopharyngeal fascia.
 
-### Structures passing through the pharyngeal wall
+#### Structures passing through the pharyngeal wall
 
 The source diagram labels the pharyngobasilar fascia, base of skull, sinus of Morgagni, pharyngeal recess (fossa of Rosenmüller), glossopharyngeal nerve and stylopharyngeal muscle, middle constrictor, internal laryngeal nerve and superior laryngeal vessels, inferior constrictor, and recurrent laryngeal nerve and inferior laryngeal vessels.
 
 > [!example]- Source page visual — PDF page 138
 > ![[images/chunk05_p138_source_page.jpeg]]
 
-### Areas and structures passing through
 
 | Area | Structures passing through / source notes |
 |---|---|
