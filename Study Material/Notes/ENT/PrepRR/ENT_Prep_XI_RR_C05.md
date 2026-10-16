@@ -25,7 +25,7 @@ tags:
 ## Anatomy of the pharynx (00:01:50)
 
 - The pharynx is a fibromuscular tube.
-- It extends superiorly from the base of the skull and inferiorly to the lower border of the cricoid cartilage, corresponding to the C6 vertebra.
+- It extends superiorly from the base of the skull and inferiorly to the lower border of the cricoid cartilage, corresponding to the ==C6 vertebra==.
 - Three subsegments of the pharynx:
   - Nasopharynx.
   - Oropharynx.
@@ -46,8 +46,8 @@ tags:
 
 - Opening of the Eustachian tube.
 - Torus tubarius (TT).
-- Fossa of Rosenmüller — the most common site of origin for nasopharyngeal cancer, as stated in the source.
-- Sphenopalatine foramen — communication between the nasopharynx and the pterygopalatine fossa, as stated in the source.
+- <strong>Fossa of Rosenmüller</strong> — the most common site of origin for nasopharyngeal cancer, as stated in the source.
+- <strong>Sphenopalatine foramen —</strong> communication between the nasopharynx and the pterygopalatine fossa, as stated in the source.
 
 ### Adenoids
 
