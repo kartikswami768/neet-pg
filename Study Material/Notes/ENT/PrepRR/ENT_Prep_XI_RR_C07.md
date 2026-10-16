@@ -29,7 +29,7 @@ status: transcribed-and-proofread
 	- The source then states: **UMN palsy → forehead involved** and **LMN palsy → forehead spared**. These statements are retained as printed and flagged in the QA report because they conflict with the preceding explanation and appear internally inconsistent.
 
 ### **Anatomy of the facial nerve** *(lecture timestamp 00:02:01)*
-![[Thieme_Atlas_of_Anatomy,_Anne_M.pdf#page=583]]
+[[Thieme_Atlas_of_Anatomy,_Anne_M.pdf#page=523]]
 
 | Subsegment    | Course described in the source                                                              |
 | ------------- | ------------------------------------------------------------------------------------------- |
