@@ -665,6 +665,8 @@ D. Biopsy under anaesthesia to diagnose
 
 ![[IMG_1290.jpeg]]
 
+![[ENT_Prep_XI_RR_C05 2026-10-16 15.25.31.excalidraw]]
+
 | Term                  | Strict three-space classification                                                                      | Broader or alternative usage                                           |
 | --------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- |
 | Retropharyngeal space | Between the buccopharyngeal fascia anteriorly and alar fascia posteriorly                              | May include the danger space as well                                   |
