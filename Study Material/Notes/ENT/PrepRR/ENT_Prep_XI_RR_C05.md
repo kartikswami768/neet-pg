@@ -531,10 +531,9 @@ D. Breathing exercise and symptomatic treatment
   - Tenth-nerve palsy: palatal paralysis.
 - **“HO'S triangle”** aka Subclavian Triangle or Supraclavicular fossa or Omohyoid Triangle: 
 - site for lymphadenopathy, formed by:
-  - Medial end of the clavicle.
-  - Lateral end of the clavicle.
-  - Junction of the neck and shoulder.
-
+  - Superiorly: Inferior belly of omohyoid
+  - Inferiorly: Clavicle
+Anteriorly: Posterior border of sternocleidomastoid
 ### Classification
 
 - WHO.
