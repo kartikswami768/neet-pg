@@ -487,7 +487,7 @@ D. Breathing exercise and symptomatic treatment
   - **Holman–Miller sign:** anterior bowing of the posterior maxillary sinus.
   - “**Hondousa sign**” (spelling as printed): widening of the gap between the maxilla and mandible.
 - Axial CT:
-  - **Chopstick sign:** erosion of the pterygoid base.
+  - **Chopstick sign:** postoperative sign after drilling of 
 - MRI: to assess intracranial extension.
 - Angiography: to identify the feeding vessel.
   - Most common feeding artery listed: internal maxillary artery.
