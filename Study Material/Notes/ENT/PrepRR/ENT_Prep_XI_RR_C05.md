@@ -254,7 +254,7 @@ The source diagram labels the pharyngobasilar fascia, base of skull, sinus of Mo
 - **Rhinolalia clausa (nasal twang).**
 
 ### Diagnosis
-
+![[p140_lateral-neck-radiograph-adenoid-hypertrophy.jpg]]
 - Endoscopy.
 - Lateral X-ray view of the nasopharynx:
   - Draw two imaginary lines: one along the base of the skull and one along the hard palate.
@@ -465,7 +465,7 @@ D. Breathing exercise and symptomatic treatment
 
 - Bleeding.
 - Unilateral SOM → conductive hearing loss (CHL).
-- “Frog face” → proptosis and widening of the nasal bridge.
+- “**==Frog face==**” → proptosis and widening of the nasal bridge.
 - Superior spread: sphenoid sinus → cavernous sinus → nerve involvement/palsy:
   - Cranial nerve II: at the roof of the sphenoid, as stated in the source.
   - Cranial nerves III, IV, V and VI: cavernous sinus.
@@ -484,10 +484,10 @@ D. Breathing exercise and symptomatic treatment
 - Biopsy, FNAC, probe test and digital palpation are marked **contraindicated (C/I)** in the source.
 - HPE: the source states “JNA is a vascular tumour — lacks tunica media”; retained as printed and flagged in `QA_REPORT.md`.
 - CECT: investigation of choice (IOC), with:
-  - Holman–Miller sign: anterior bowing of the posterior maxillary sinus.
-  - “Hondousa sign” (spelling as printed): widening of the gap between the maxilla and mandible.
+  - **Holman–Miller sign:** anterior bowing of the posterior maxillary sinus.
+  - “**Hondousa sign**” (spelling as printed): widening of the gap between the maxilla and mandible.
 - Axial CT:
-  - Chopstick sign: erosion of the pterygoid base.
+  - **Chopstick sign:** erosion of the pterygoid base.
 - MRI: to assess intracranial extension.
 - Angiography: to identify the feeding vessel.
   - Most common feeding artery listed: internal maxillary artery.
@@ -501,8 +501,8 @@ D. Breathing exercise and symptomatic treatment
 
 ## Nasopharyngeal carcinoma (00:06:20)
 
-- Bimodal age distribution; the source notes it mostly affects the older population.
-- Males > females.
+- **Bimodal** age distribution; the source notes it **mostly affects the older population.**
+- **Males** > females.
 
 ### Etiology/risk factors and EBV screening
 
@@ -515,7 +515,7 @@ D. Breathing exercise and symptomatic treatment
 
 ### Site of origin
 
-- Fossa of Rosenmüller, behind the torus tubarius in the lateral wall of the nasopharynx.
+- **Fossa of Rosenmüller**, behind the torus tubarius in the lateral wall of the nasopharynx.
 
 ### Clinical presentation
 
@@ -523,7 +523,7 @@ D. Breathing exercise and symptomatic treatment
 - Blood-stained nasal discharge.
 - Unilateral SOM → CHL.
 - Nerve palsies listed: cranial nerves II, III, IV, V, VI, IX, X and XI.
-  - The tumour invades the base of the skull and skull foramina.
+	- The tumour invades the base of the skull and skull foramina.
 - Horner's syndrome.
 - **Trotter's triad:**
   - Conductive hearing loss due to SOM.
