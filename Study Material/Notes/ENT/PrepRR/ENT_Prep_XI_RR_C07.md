@@ -13,28 +13,28 @@ status: transcribed-and-proofread
 
 ## Facial nerve anatomy and lesions
 
-### Page 192 — Introduction, brainstem and facial colliculus
+### Introduction
 
-- Is it a sensory, motor, or mixed nerve?
-  - Mixed nerve (sensory, motor and secretomotor root).
-- What is the sensory root called?
-  - Nerve of Wrisberg (*nervus intermedius*).
-- Where is the facial nerve nucleus present?
-  - Pons.
-- What is the meaning of supranuclear and infranuclear palsy?
-  - **Supranuclear:** lesion in the cerebral cortex above the pons.
-  - **Infranuclear:** lesion below the level of the nucleus in the pons.
-- Why is the forehead spared?
-  - Due to bilateral innervation from the cerebral cortex.
-  - The source then states: **UMN palsy → forehead involved** and **LMN palsy → forehead spared**. These statements are retained as printed and flagged in the QA report because they conflict with the preceding explanation and appear internally inconsistent.
+- **Is it a sensory, motor, or mixed nerve?**
+	- Mixed nerve (sensory, motor and secretomotor root).
+- **What is the sensory root called?**
+	- ==Nerve of Wrisberg (*nervus intermedius*).==
+- **Where is the facial nerve nucleus present?**
+	- Pons.
+- **What is the meaning of supranuclear and infranuclear palsy?**
+	- **Supranuclear:** lesion in the cerebral cortex above the pons.
+	- **Infranuclear:** lesion below the level of the nucleus in the pons.
+- **Why is the forehead spared?**
+	- Due to bilateral innervation from the cerebral cortex.
+	- The source then states: **UMN palsy → forehead involved** and **LMN palsy → forehead spared**. These statements are retained as printed and flagged in the QA report because they conflict with the preceding explanation and appear internally inconsistent.
 
-**Anatomy of the facial nerve** *(lecture timestamp 00:02:01)*
+### **Anatomy of the facial nerve** *(lecture timestamp 00:02:01)*
 
-| Subsegment | Course described in the source |
-|---|---|
-| Intracranial | Nucleus in the pons → internal auditory meatus (IAM) |
-| Intratemporal | IAM → inner ear (labyrinthine segment) → middle ear (tympanic segment) → mastoid |
-| Extracranial | Exits the mastoid through the stylomastoid foramen → parotid gland → five terminal branches |
+| Subsegment    | Course described in the source                                                              |
+| ------------- | ------------------------------------------------------------------------------------------- |
+| Intracranial  | Nucleus in the pons → internal auditory meatus (IAM)                                        |
+| Intratemporal | IAM → inner ear (labyrinthine segment) → middle ear (tympanic segment) → mastoid            |
+| Extracranial  | Exits the mastoid through the stylomastoid foramen → parotid gland → five terminal branches |
 
 **Facial nerve in the brainstem — facial colliculus**
 
