@@ -380,13 +380,13 @@ The source diagram labels the pharyngobasilar fascia, base of skull, sinus of Mo
 
 ### Treatment and indications for tonsillectomy
 
-| Treatment category | Indications/details listed in the source |
-|---|---|
-| Medical treatment | Acute tonsillitis. |
-| Absolute indications for tonsillectomy | Obstructive sleep apnoea; carcinoma of the tonsil. |
-| Relative indications for tonsillectomy | Chronic/recurrent tonsillitis (≥7 episodes in 1 year, ≥5 episodes in 2 years, or ≥3 episodes per year for 3 consecutive years); second episode of quinsy; streptococcal infections. |
-| Non-tonsillar indication for tonsillectomy | Excision of the styloid process. The source explains that elongation of the styloid process due to calcification of the stylohyoid ligament causes Eagle syndrome; the styloid process is approached externally or intra-orally, with the tonsil removed to access it by the intra-oral route. |
-| Palatal surgery | Uvulopalatopharyngoplasty (UPPP): reshapes the uvula, palate and pharynx in obese patients to treat sleep apnoea; the tonsil is removed as part of the surgery. |
+| Treatment category                         | Indications/details listed in the source                                                                                                                                                                                                                                                                 |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Medical treatment                          | Acute tonsillitis.                                                                                                                                                                                                                                                                                       |
+| Absolute indications for tonsillectomy     | Obstructive sleep apnoea; carcinoma of the tonsil.                                                                                                                                                                                                                                                       |
+| Relative indications for tonsillectomy     | Chronic/recurrent tonsillitis <br>≥7 episodes in 1 year, <br>≥5 episodes per year for 2 consecutive years, or <br>≥3 episodes per year for 3 consecutive years <br><br>second episode of quinsy (Peritonsillar abscess); <br>streptococcal infections.                                                   |
+| Non-tonsillar indication for tonsillectomy | Excision of the styloid process. <br>The source explains that elongation of the styloid process due to calcification of the stylohyoid ligament causes **Eagle syndrome**; the styloid process is approached externally or intra-orally, with the *tonsil removed to access it by the intra-oral route*. |
+| Palatal surgery                            | Uvulopalatopharyngoplasty (UPPP): reshapes the uvula, palate and pharynx in obese patients to treat sleep apnoea; the tonsil is removed as part of the surgery.                                                                                                                                          |
 
 > [!example]- Source page visual — PDF page 141
 > ![[images/chunk05_p141_source_page.jpeg]]
@@ -415,14 +415,14 @@ The source diagram labels the pharyngobasilar fascia, base of skull, sinus of Mo
 
 ### Membrane over tonsil: tonsillitis versus diphtheria (01:11:15)
 
-| Feature | Tonsillitis | Diphtheria |
-|---|---|---|
-| Colour | Pearly white | Greyish white |
-| Membrane | True membrane | Pseudomembrane |
-| Vascularity | Avascular (from dead bacteria and tonsillar tissue) | Vascular (from exotoxin liberated by the bacteria), as stated in the source |
-| Peeling | No bleeding on peeling | Bleeds on peeling |
-| Spread | Limited to tonsils | Spreads |
-| Neck/systemic findings | No bull neck or toxemia | Bull neck, toxemia |
+| Feature                | Tonsillitis                                             | Diphtheria                                                                      |
+| ---------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Colour                 | Pearly white                                            | Greyish white                                                                   |
+| ==Membrane==           | ==True membrane==                                       | ==Pseudomembrane==                                                              |
+| Vascularity            | **Avascular** (from dead bacteria and tonsillar tissue) | **Vascular** (from exotoxin liberated by the bacteria), as stated in the source |
+| Peeling                | No bleeding on peeling                                  | Bleeds on peeling                                                               |
+| Spread                 | Limited to tonsils                                      | Spreads                                                                         |
+| Neck/systemic findings | No bull neck or toxemia                                 | Bull neck, toxemia                                                              |
 
 > [!example]- Source page visual — PDF page 143
 > ![[images/chunk05_p143_source_page.jpeg]]
@@ -451,15 +451,14 @@ D. Breathing exercise and symptomatic treatment
 # 16. Pharynx Part 2
 
 ## Juvenile nasopharyngeal angiofibroma (JNA) (00:00:01)
-
 - Most common benign tumour of the nasopharynx.
-- Benign but locally invasive.
+- **Benign but locally invasive.**
 - Most commonly seen in the juvenile age group.
-- The source states that JNA occurs only in males because the tumour is dependent on testosterone for growth.
+- The source states that JNA <u>occurs only in males because the tumour is dependent on testosterone for growth.</u>
 
 ### Site of origin
 
-- Sphenopalatine foramen, located 8–10 mm behind the posterior end of the middle turbinate.
+- **Sphenopalatine foramen**, located 8–10 mm behind the posterior end of the middle turbinate.
 - The sphenopalatine foramen is related to the posterior wall of the maxillary sinus.
 
 ### Clinical presentation
