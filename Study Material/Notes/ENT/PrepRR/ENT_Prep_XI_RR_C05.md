@@ -665,6 +665,11 @@ D. Biopsy under anaesthesia to diagnose
 
 ![[IMG_1290.jpeg]]
 
+| Term                  | Strict three-space classification                                                                      | Broader or alternative usage                                           |
+| --------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- |
+| Retropharyngeal space | Between the buccopharyngeal fascia anteriorly and alar fascia posteriorly                              | May include the danger space as well                                   |
+| Danger space          | Between the alar fascia anteriorly and prevertebral fascia posteriorly                                 | Sometimes called the prevertebral or alar space                        |
+| Prevertebral space    | Between the prevertebral fascia and vertebral bodies; contains prevertebral muscles and associated fat | May be used imprecisely for a broader posterior pharyngeal compartment |
 **True retropharyngeal space abscess**
 
 - Aetiology: ==infection from tonsil and adenoid.==
@@ -682,7 +687,7 @@ D. Biopsy under anaesthesia to diagnose
 **Prevertebral space**
 
 - Boundaries listed in the source:
-	- Anteriorly: buccopharyngeal fascia.
+	- Anteriorly: prevertebral fascia
 	- Posteriorly: body of a vertebra.
 	- Superiorly: base of skull.
 	- Inferiorly: coccyx.
