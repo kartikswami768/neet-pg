@@ -490,7 +490,11 @@ D. Breathing exercise and symptomatic treatment
   - **Chopstick sign:** postoperative sign after drilling out of pterygoid wedge
 - MRI: to assess intracranial extension.
 - Angiography: to identify the feeding vessel.
-  - Most common feeding artery listed: internal maxillary artery.
+	- Most common feeding artery listed: **internal maxillary artery.**
+
+![[IMG_1284.jpeg]]![[IMG_1285.png]]
+
+>Handousa Sign and Holman Miller Sign
 
 ### Treatment
 
