@@ -632,7 +632,7 @@ D. Biopsy under anaesthesia to diagnose
 
 ![[IMG_1289.png]]![[IMG_1288.webp]]
 
-[[Thieme_Atlas_of_Anatomy,_Anne_M.pdf#page=]]
+[[Thieme_Atlas_of_Anatomy,_Anne_M.pdf#page=604]]
 
 **Pre-styloid compartment abscess**
 
