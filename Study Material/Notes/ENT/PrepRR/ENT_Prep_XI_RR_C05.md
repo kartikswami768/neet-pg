@@ -613,24 +613,24 @@ D. Biopsy under anaesthesia to diagnose
 - <strong>I==nterval tonsillectomy:==</strong> I&D, wait 4–6 weeks, then tonsillectomy; marked as preferred.
 
 ### Parapharyngeal space
-
 - Described as the largest space.
 
 **Boundaries and relations listed in the source**
-
-- Superiorly: base of skull.
-- Inferiorly: hyoid bone.
-- Laterally:
-  - Angle of mandible.
-  - Masseter and medial pterygoid.
-  - Parotid.
-  - Sternocleidomastoid.
-- Anteriorly and medially: <strong>buccopharyngeal space</strong>, as labelled in the source.
-- Posteriorly: carotid sheath and its contents.
+- **Superiorly:** base of skull.
+- **Inferiorly:** hyoid bone.
+- **Laterally:**
+	- Angle of mandible.
+	- Masseter and medial pterygoid.
+	- Parotid.
+	- Sternocleidomastoid.
+- **Anteriorly and medially:** <strong>buccopharyngeal space</strong>, as labelled in the source.
+- **Posteriorly:** carotid sheath and its contents.
 - Posteromedially <strong>communicates with the retropharyngeal space.</strong>
 - Divided by the styloid process into:
-  - Pre-styloid compartment.
-  - Post-styloid compartment.
+	- Pre-styloid compartment.
+	- Post-styloid compartment.
+
+![[IMG_1286.jpeg]]![[IMG_1287.jpeg]]
 
 **Pre-styloid compartment abscess**
 
