@@ -184,16 +184,15 @@ Based on the choanal space occupied:
 
 **Composition of Waldeyer's ring**
 
-- Superiorly: adenoids (also called Luschka's tonsil).
-- Lateral wall: tubal tonsil (lymphoid tissue around the Eustachian tube; also called Gerlach's tonsil) and palatine tonsil.
+- Superiorly: adenoids (also called <strong>Luschka's tonsil or Pharyngeal tonsil)</strong>.
+- Lateral wall: **tubal tonsil** (lymphoid tissue around the Eustachian tube; also called **Gerlach's tonsil**) and **palatine tonsil**.
 - Base of tongue: lingual tonsil.
 
 ### Pharyngeal wall layers (00:28:56)
-
 1. Innermost layer: mucosa.
-2. Second layer: pharyngobasilar fascia.
-3. Third layer: muscular layer; external row includes the superior, middle and inferior constrictors.
-4. Fourth layer: buccopharyngeal fascia.
+2. Second layer: pharyngobasilar **fascia**.
+3. Third layer: **muscular layer**; external row includes the superior, middle and inferior constrictors.
+4. Fourth layer: buccopharyngeal **fascia**.
 
 #### Structures passing through the pharyngeal wall
 
@@ -203,12 +202,12 @@ The source diagram labels the pharyngobasilar fascia, base of skull, sinus of Mo
 > ![[images/chunk05_p138_source_page.jpeg]]
 
 
-| Area | Structures passing through / source notes |
-|---|---|
-| Sinus of Morgagni (mnemonic: LATA) | Gap between the base of the skull and superior constrictor muscle, at the level of the nasopharynx. Levator veli palatini (helps open the Eustachian tube); auditory tube (Eustachian tube); tensor veli palatini (helps open the Eustachian tube); ascending palatine artery. |
-| Between superior and middle constrictor muscles | At the level of the oropharynx: glossopharyngeal nerve and stylopharyngeal muscle. |
-| Between middle and inferior constrictor muscles | At the level of the hypopharynx: internal laryngeal nerve and superior laryngeal vessels. |
-| Below the inferior constrictor muscle | At the level of the larynx: recurrent laryngeal nerve and inferior laryngeal vessels. |
+| Area                                            | Structures passing through / source notes                                                                                                                                                                                                                                                                                                                                      |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Sinus of Morgagni (mnemonic: LATA)              | Gap between the base of the skull and superior constrictor muscle, at the level of the nasopharynx. <br>1. <strong>Levator veli palatini</strong> (helps open the Eustachian tube); <br>2. <strong>auditory tube (Eustachian tube</strong>); <br>3. <strong>tensor veli palatini</strong> (helps open the Eustachian tube); <br>4. <strong>ascending palatine artery</strong>. |
+| Between superior and middle constrictor muscles | At the level of the oropharynx: <br>**glossopharyngeal nerve** and <br>**stylopharyngeal muscle.**                                                                                                                                                                                                                                                                             |
+| Between middle and inferior constrictor muscles | At the level of the hypopharynx: **<br>internal laryngeal nerve** and <br>**superior laryngeal vessels.**                                                                                                                                                                                                                                                                      |
+| Below the inferior constrictor muscle           | At the level of the larynx: <br>**recurrent laryngeal nerve** and **<br>inferior laryngeal vessels.**                                                                                                                                                                                                                                                                          |
 
 ### One-liners (00:35:10)
 
