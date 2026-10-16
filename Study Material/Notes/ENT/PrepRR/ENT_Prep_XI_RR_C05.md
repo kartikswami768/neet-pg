@@ -656,13 +656,13 @@ D. Biopsy under anaesthesia to diagnose
 **Retropharyngeal space**
 
 - Boundaries listed in the source:
-  - Anteriorly: buccopharyngeal fascia.
+  - Anteriorly: buccopharyngeal fascia (The fascia covering the Superior Constrictor and buccinator muscles)
   - Posteriorly: prevertebral fascia.
   - Superiorly: base of skull.
   - Inferiorly: T4.
 - Divided into two spaces by the alar fascia:
-  - **Anterior compartment / true retropharyngeal space:** between buccopharyngeal fascia and alar fascia; extends to T4. The source also calls it the true retropharyngeal fascia/space of Gillette and states that it contains the node of Rouvier, which drains the tonsil and adenoids.
-  - **Posterior compartment / danger space:** between alar fascia and prevertebral fascia; extends to the diaphragm and can cause mediastinitis.
+  - **Anterior compartment / ==true retropharyngeal space==:** between buccopharyngeal fascia and alar fascia; extends to T4. The source also calls it the true retropharyngeal fascia/space of Gillette and states that it contains the node of Rouvier, which drains the tonsil and adenoids.
+  - **Posterior compartment / ==danger space==:** between alar fascia and prevertebral fascia; extends to the diaphragm and can cause mediastinitis.
 
 **True retropharyngeal space abscess**
 
