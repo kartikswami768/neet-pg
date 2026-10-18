@@ -1232,7 +1232,6 @@ Named triangles as listed in the notes:
   - If a small epiglottic lesion just reaches the pre-epiglottic space with no nodal spread → partial laryngectomy.
 
 **Voice rehabilitation after total laryngectomy** *(lecture timestamp 02:36:49)*
-
 - Oesophageal speech: can speak only a few words.
 - Tracheoesophageal speech: serviceable speech; can speak sentences.
 - Electrolarynx: artificial larynx; not commonly used.
