@@ -511,6 +511,16 @@ Total transformer ratio = areal ratio × lever ratio.
 	- **==speech discrimination is affected==** → differentiating feature between Cochlear and Retrocochlear. Diseases
 	- phonetically similar sounds may be difficult to distinguish. The source examples include “Fat, Bat, Rat” and “Fa, Ba, Ma”.
 
+
+| Cochlear    | Retrocochlear                  |
+| ----------- | ------------------------------ |
+| Bera Normal | Bera ↑ Latency (Abnormal)      |
+| OAE absent  | OAE present                    |
+| Recruiement | Tone Decay                     |
+| SIS         | Roll over Cutve                |
+|             | Speech Discrimination Affected |
+
+
 ## Transduction and hair cells
 
 ### Transduction

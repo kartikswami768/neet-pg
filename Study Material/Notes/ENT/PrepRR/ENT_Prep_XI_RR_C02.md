@@ -329,7 +329,15 @@ The page's clinical flowchart describes a child with nasal blockage, hearing los
 - **Ear drops:** neomycin + polymyxin + chloromycetin, or gentamicin, as listed.
 - **Systemic antibiotics:** limited use, only in acute exacerbation.
 - Keep the ear dry.
+### Types of Tympanoplasty
 
+| Type     | Ossicular status                                                              | Graft is connected to                                              | Important terms / points                                                                                   |
+| -------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| Type I   | Ossicular chain intact and mobile                                             | Intact ossicular chain                                             | Myringoplasty; tympanic membrane repair alone; normal ossicular conduction                                 |
+| Type II  | Partial erosion of ossicles, classically malleus damage                       | Remaining ossicle, usually incus or malleus remnant                | Partial ossicular damage; incudostapedial connection may be preserved                                      |
+| Type III | Malleus and incus absent or unusable; stapes superstructure intact and mobile | Stapes head                                                        | Myringostapediopexy; columella effect; sound transmitted directly to stapes                                |
+| Type IV  | Stapes superstructure absent; footplate mobile                                | Mobile stapes footplate, with round window protection              | Round window shielding; reduced sound-conducting mechanism; round window must remain acoustically isolated |
+| Type V   | Stapes footplate fixed                                                        | Historically, a new fenestration in the lateral semicircular canal | Fenestration operation; obsolete; historically used for conductive hearing loss due to stapes fixation     |
 ### History-based pathway shown in the source
 
 A patient has profuse, mucoid/mucopurulent, painless, non-foul-smelling ear discharge on and off for six months following URTI or water entering the ear. Examination shows a central perforation and pale granulations. Diagnosis: active chronic mucosal/tubotympanic/safe otitis media. The next step is PTA/patch test to assess ossicular status. If active (discharging), use medical management to make the ear dry; when the ear has been dry for more than six weeks, perform myringoplasty/tympanoplasty. The source diagram adds a microscope-related note that is preserved in the page image.
