@@ -54,17 +54,17 @@ status: transcribed-and-proofread
 - The source illustration labels the longitudinal fracture plane, greater superficial petrosal nerve, carotid artery, cochlea, internal auditory canal, jugular vein, external auditory canal (EAC), geniculate ganglion, facial nerve, labyrinthine segment, perigeniculate region, tympanic segment, vertical segment and related temporal-bone structures.
 - The facial-nerve-lesion diagram lists 15 cases and labels the labyrinthine segment (3), geniculate ganglion (4), tympanic segment (7) and vertical segment (1). The visual layout of the percentages is ambiguous in the source; see the embedded image.
 
-##### **Intratemporal segment of the facial nerve**
+### **Intratemporal segment of the facial nerve**
 
 - The intratemporal segment is the longest.
 - It is the only cranial nerve to run most of its course through a bony canal (Fallopian canal).
-  - The bony canal is described as dehiscent in 50%.
-  - The most common site of dehiscence is the horizontal part.
+		  - The bony canal is described as dehiscent in 50%.
+		  - The most common site of dehiscence is the horizontal part.
 - It is divided into:
-  - Meatal segment.
-  - Labyrinthine segment.
-  - Tympanic segment.
-  - Mastoid segment.
+	- Meatal segment.
+	- Labyrinthine segment.
+	- Tympanic segment.
+	- Mastoid segment.
 
 ##### **Meatal segment**
 
@@ -86,7 +86,7 @@ status: transcribed-and-proofread
 > [!quote]- Original source page (PDF p. 193)
 > ![[images/chunk07_p193_source_page.jpeg]]
 
-##### **Tympanic segment**
+##### **Tympanic segment / Horizontal part**
 
 - Horizontal segment: 11 mm; vertical segment: 13 mm, as stated in the source.
 - From the inner ear, the nerve enters the medial wall of the middle ear, making a turn at the **first genu / geniculate ganglion**.
@@ -95,7 +95,7 @@ status: transcribed-and-proofread
 - It goes to the mastoid to make the second turn, the **second genu**.
   - Landmark: **pyramidal process**.
 
-##### **Mastoid segment**
+##### **Mastoid segment / Vertical Part**
 
 - The nerve runs vertically; this is also called the mastoid segment.
 - Landmark: **tympanomastoid suture**.

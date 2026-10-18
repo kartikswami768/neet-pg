@@ -319,16 +319,14 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 
 ## Congenital anomalies of the larynx
 
-### Page 163 — Laryngomalacia
 
-**Congenital anomalies of the larynx**
 
 - Most common congenital anomaly of the larynx:
   1. 1st most common: Laryngomalacia.
   2. 2nd most common: Congenital vocal cord paralysis.
   3. 3rd. most common: Subglottic stenosis.
 
-**Laryngomalacia** *(lecture timestamp 00:51:44; FMGE 2020)*
+### **Laryngomalacia** *(lecture timestamp 00:51:44; FMGE 2020)*
 
 - Definition: condition with <u>excessive flaccidity of the epiglottis or supraglottis.</u>
 - Supraglottis: part of the larynx above the vocal cords.
@@ -484,9 +482,10 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 - Effect of position (laryngomalacia): supine worsens; prone improves.
 - Cotton–Myer's classification is used for subglottic stenosis.
 
-### **Inflammatory conditions of the larynx: acute epiglottitis** *(lecture timestamp 01:09:54)*
+## **Inflammatory conditions of the larynx: 
+### acute epiglottitis** 
 
-- Most common age group: 3–7 years.
+- Most common age group: **3–7 years.** → never infants
 - Causative organisms:
 	- *Streptococcus pneumoniae* — most common (as stated).
 	- *Haemophilus influenzae* — incidence reduced due to vaccination.
@@ -574,7 +573,7 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 
 **Answer: d.**
 
-### **Benign lesions of the larynx** *(lecture timestamp 01:18:33)*
+## **Benign lesions of the larynx** *(lecture timestamp 01:18:33)*
 
 #### **Vocal nodule**
 - Also called teacher's nodule / singer's nodule.
@@ -679,9 +678,9 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 > [!quote]- Original source page (PDF p. 171)
 > ![[images/chunk06_p171_source_page.jpeg]]
 
-### Page 172 — One-liners, error files and laryngeal papilloma
 
-**One-liners**
+
+### **One-liners**
 
 - Vocal nodules and polyps occur at the junction of the anterior 1/3 and middle 1/3.
 - Sessile = nodule; pedunculated = polyp.
@@ -697,7 +696,7 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 - Premalignant condition: keratosis.
 - Stripping of the vocal cord is done in Reinke's oedema.
 
-**Error files**
+### **Error files**
 
 - Diplophonia — vocal polyp.
 - Low-pitched voice — Reinke's oedema.
@@ -731,7 +730,7 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 - Surgical excision using microdebrider or coblation.
 - Surgical excision with laser is not done, according to the notes, because it generates fumes that mix with papilloma virus and form plumes; these can move to the lower trachea and cause distal seeding → tracheal and bronchial papilloma.
 
-### **Voice and speech disorders**
+## **Voice and speech disorders**
 
 #### **Dysphonia plica ventricularis**
 
