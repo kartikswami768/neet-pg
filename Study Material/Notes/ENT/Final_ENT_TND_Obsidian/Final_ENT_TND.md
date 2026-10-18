@@ -525,6 +525,10 @@ D. Adhesion formation
 
 **Marked on answer sheet:** D *(The B bubble has a light pen outline/scribble; D is clearly filled.)*
 
+#### Discussion
+answer is B
+Because inferior turbinate is not part of osteomeatal complex
+
 ### 49. This is an image of a postoperative patient after total laryngectomy with permanent tracheostomy. This surgery is primarily done for which of the following?
 
 ![[images/q49_laryngectomy_stoma.jpg]]

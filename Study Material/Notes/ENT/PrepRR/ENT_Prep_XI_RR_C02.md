@@ -32,8 +32,48 @@ Paraganglioma
 		4. Fontane SIgn
 ### Glomus tumor
 Two Types
-1. G. Jugulare
-2. G. Tympanicum
+1. G. Jugulare → Jugular Fossa
+	- Can involve IX, X, XI passing through Jugular foramen
+	- **Can also involve XII nerve** → which do not pass through jugular foramen
+2. G. Tympanicum → HypoTympanic
+ 
+
+
+- **Nature:** Slow-growing, benign, highly vascular tumour.
+- **Epidemiology:** 5–8 times more common in females; usually presents at 40–60 years of age.
+
+#### Clinical Features
+
+- Conductive hearing loss (CHL)
+- **Pulsatile tinnitus** — most common presenting symptom
+- Ear bleeding (otalgia? no, recorded separately)
+- Cranial nerve involvement
+- Otalgia
+
+#### Four Important Signs
+
+1. **Rising sun sign**
+2. **Brown's sign:** Blanching of the tumour on Siegle's speculum compression.
+3. **Phelps' sign**
+4. **Aquino's sign**
+
+#### Investigations
+
+- **Investigation of choice:** CECT
+- **MRI:** Salt-and-pepper appearance
+- **DSA (digital subtraction angiography):** Before surgery
+  - Most common feeding vessel: Ascending pharyngeal artery
+- **Secretory tumour (~5%):** 24-hour urinary VMA
+- **Biopsy:** Contraindicated due to risk of severe haemorrhage.
+
+#### Treatment
+
+- **Treatment of choice:** Preoperative embolisation followed by surgical excision.
+  - Embolisation is guided by DSA.
+  - Surgical excision may involve laser or bipolar cautery.
+  - **HPE:** Zellballen pattern of cells.
+- **Radiotherapy (RT) and chemotherapy (CT):** Other treatment modalities.
+- **Secretory tumour (~5%):** Alpha-blocker followed by beta-blocker, when indicated.
 ## Pathogenesis of middle-ear diseases
 
 All middle-ear diseases occur due to Eustachian tube obstruction.
