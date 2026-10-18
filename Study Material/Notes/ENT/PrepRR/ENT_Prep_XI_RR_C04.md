@@ -769,10 +769,13 @@ D. After 6 weeks
 
 ### Forceps
 
-| Instrument             | Source description/use                   |
-| ---------------------- | ---------------------------------------- |
-| Asch's septum forceps  | Has an angle; used for the nasal septum. |
-| Walsham septum forceps | Used for nasal bone reduction.           |
+| Instrument             | Source description/use                      |
+| ---------------------- | ------------------------------------------- |
+| Asch's septum forceps  | Has an angle; used for the== nasal septum== |
+| Walsham septum forceps | Used for ==nasal bone reduction==.          |
+| Luc's forceps          |                                             |
+| Tulley                 |                                             |
+| Dennis brown           |                                             |
 
 ![[p121_asch-and-walsham-forceps-nasal-bone-reduction.jpg]]
 

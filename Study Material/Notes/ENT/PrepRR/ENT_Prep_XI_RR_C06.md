@@ -603,7 +603,13 @@ Because only this portion of VC produces voice
 	- Initially, one vocal cord is treated; the other is treated after 4–6 weeks.
 	- Stripping of both vocal cords is not done simultaneously because it can lead to adhesions.
 
-
+| Type     | Name          | Extent of Resection                                                                                     |
+| -------- | ------------- | ------------------------------------------------------------------------------------------------------- |
+| Type I   | Subepithelial | Epithelium                                                                                              |
+| Type II  | Subligamental | Epithelium + lamina propria + vocal ligament                                                            |
+| Type III | Transmuscular | Extends into vocbalis muscle                                                                            |
+| Type IV  | Total         | Entire vocal fold up to inner perichondrium of thyroid cartilage                                        |
+| Type V   | Extended      | Extends to adjacent structures (Va: opposite cord; Vb: arytenoid; Vc: ventricular fold; Vd: subglottis) |
 
 > [!quote]- Original source page (PDF p. 169)
 > ![[images/chunk06_p169_source_page.jpeg]]
