@@ -364,6 +364,9 @@ D. Adenoid hypertrophy
 2. **Granulomatous stage:** immune response creates a central necrotic area surrounded by inflammatory cells → <strong><mark style="background: #ADCCFFA6;">“woody hard granuloma”</mark></strong> → <mark style="background-color: #c6e3ff; color: #173653;"><strong>“Hebra nose” deformity.</strong></mark>
 3. **Stage of cicatrisation:** healing by fibrosis with stenosis/narrowing of the nose → ==“Tapir nose” deformity.==
 
+'**Complications**'
+- can cause Sugglottic Stenosis (Laryngoscleroma)
+
 - Histopathology: **Mikulicz cells** and **Russell bodies**.
 - Culture on **MacConkey agar**.
 - **Management:**
@@ -1087,6 +1090,8 @@ D. Sphenoethmoidal recess
 | **Caldwell's view** (Occipitofrontal) | Frontal and anterior ethmoid sinuses | Frontal sinusitis |
 | **Lateral view** | Sphenoid and frontal sinuses | Sphenoid sinusitis; air-fluid level |
 | **Submentovertex (SMV) view** | Sphenoid sinus | Limited diagnostic use |
+![[IMG_1297.png]]![[IMG_1298.png]]![[IMG_1299.png]]![[IMG_1300.png]]
+
 
 **X-ray findings of sinusitis:** Mucosal thickening, sinus opacification and air-fluid level.
 

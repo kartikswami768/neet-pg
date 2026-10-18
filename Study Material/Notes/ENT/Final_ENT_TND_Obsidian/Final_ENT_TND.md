@@ -416,6 +416,9 @@ D. External auditory canal
 
 **Marked on answer sheet:** A
 
+
+
+
 ### 39. This patient is undergoing mastoidectomy surgery. Identify the instrument and pick the most appropriate statement.
 
 ![[images/q39_mastoid_retractor.jpg]]
