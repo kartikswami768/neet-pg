@@ -249,6 +249,8 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
   - Vocal ligament
   - Vocalis muscle
 - Space between the epithelium and superficial lamina propria **in anterior 2/3rd of VC)** : Reinke's space.
+**Why is it present in only anteriror 2/3rd?**
+Because only this portion of VC produces voice
 
 **Functions of the larynx** *(lecture timestamp 00:44:44)*
 
@@ -886,7 +888,7 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 **Management**
 
 - Unilateral RLN palsy: conservative management.
-- Bilateral RLN palsy with stridor: tracheostomy followed by lateralisation by cordectomy, Woodman's procedure or Kashima thyroplasty Type II.
+- Bilateral RLN palsy with stridor: tracheostomy followed by lateralisation by **cordectomy**, **Woodman's procedure or Kashima thyroplasty Type II.**
 - Complete palsy with aphonia and aspiration: medialisation by Teflon, fat or hydroxyapatite injection; thyroplasty Type I.
 
 **Position of vocal cord in health and disease**
