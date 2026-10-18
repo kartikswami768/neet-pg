@@ -440,6 +440,8 @@ C. This is the most common site of a foreign body in the airway
 D. All are true
 
 **Marked on answer sheet:** B
+#### Discussion
+Internal Laryngeal nerve is related to pyriform fossa not External Laryngeal nerve
 
 ### 41. Which of these sentences is **not true** in a patient with Samter's triad?
 
