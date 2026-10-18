@@ -1157,47 +1157,43 @@ Named triangles as listed in the notes:
 
 **TNM staging** *(lecture timestamp 02:24:50; NEET PG 2024; INI-CET 2020)*
 
-| Stage | Criteria as printed |
-|---|---|
-| Stage 1 | T1, N0, M0 |
-| Stage 2 | T2, N0, M0 |
-| Stage 3 | T3, N0, M0 or T1/T2/T3 + N1, M0. Rule: N1 → Stage 3 |
-| Stage 4a | T4a, N0, M0 or T1/T2/T3/T4a + N2, M0. Rule: N2 → Stage 4A |
-| Stage 4b | T4b, N0, M0 or T1/T2/T3/T4a/T4b + N3, M0. Rule: N3 → Stage 4B |
-| Stage 4c | Any T, any N, M1. Rule: any metastasis → Stage 4C |
+| Stage    | Criteria as printed                                                   |
+| -------- | --------------------------------------------------------------------- |
+| Stage 1  | T1, N0, M0                                                            |
+| Stage 2  | T2, N0, M0                                                            |
+| Stage 3  | **T3**, N0, M0 or T1/T2/T3 + N1, M0. **Rule: N1 → Stage 3**           |
+| Stage 4a | **T4a**, N0, M0 or T1/T2/T3/T4a + N2, M0. **Rule: N2 → Stage 4A**     |
+| Stage 4b | **T4b**, N0, M0 or T1/T2/T3/T4a/T4b + N3, M0. **Rule: N3 → Stage 4B** |
+| Stage 4c | Any T, any N, M1. Rule: any metastasis → Stage 4C                     |
 
 **T stage**
 
-| T stage | Description as printed |
-|---|---|
-| T1 | Tumour in one subsite of the larynx (glottis/supraglottis/subglottis); vocal cord fully mobile |
-| T2 | Tumour in more than one subsite of the larynx; vocal cord completely or partially mobile |
-| T3 | Tumour in more than one subsite; any of: vocal cord fixed; involves pre-epiglottic/paraglottic space; involves inner perichondrium |
-| T4a (local spread) | Tumour breaks inner and outer perichondrium and extends outside the larynx: anterior → strap muscles; superior → base of tongue; posterior → hypopharynx; inferior → trachea |
+| T stage                         | Description as printed                                                                                                                                                                           |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| T1                              | Tumour in **one subsite of the larynx** (glottis/supraglottis/subglottis); vocal cord fully mobile                                                                                               |
+| T2                              | Tumour in **more than one subsite of the larynx**; vocal cord completely or partially mobile                                                                                                     |
+| T3                              | Tumour in more than one subsite; any of: **vocal cord fixed**; **involves pre-epiglottic/paraglottic space**; involves **inner perichondrium**                                                   |
+| T4a (local spread)              | Tumour breaks inner and outer perichondrium and **extends outside the larynx**: <br>anterior → strap muscles; <br>superior → base of tongue; <br>posterior → hypopharynx; <br>inferior → trachea |
+| T4b (advanced / distant Spread) | - Extends to **retropharyngeal/prevertebral space** (Bony Metastasis → spine ) via the hypopharynx.<br>- Advanced unresectable spread.                                                           |
 
 > [!quote]- Original source page (PDF p. 186)
 > ![[images/chunk06_p186_source_page.jpeg]]
 
-### Page 187 — T4b, N/M stages, investigations and treatment
 
-**T4b (advanced/distant spread)**
-
-- Extends to retropharyngeal/prevertebral space via the hypopharynx.
-- Advanced unresectable spread.
 
 **N stage**
 
-| N stage | Description as printed |
-|---|---|
-| N0 | No neck nodes |
-| N1 | Node less than 3 cm |
-| N2 | Nodes 3–6 cm |
-| N2a | Single ipsilateral node |
-| N2b | Multiple ipsilateral nodes |
-| N2c | Contralateral nodes |
-| N3 | Node greater than 6 cm |
-| N3a | No extranodal spread |
-| N3b | Extranodal spread present |
+| N stage | Description as printed     |
+| ------- | -------------------------- |
+| N0      | No neck nodes              |
+| **N1**  | **Node less than 3 cm**    |
+| **N2**  | **Nodes 3–6 cm**           |
+| N2a     | Single ipsilateral node    |
+| N2b     | Multiple ipsilateral nodes |
+| N2c     | Contralateral nodes        |
+| **N3**      | **Node greater than 6 cm**     |
+| N3a     | No extranodal spread       |
+| N3b     | Extranodal spread present  |
 
 **M stage**
 
@@ -1214,25 +1210,22 @@ Named triangles as listed in the notes:
 
 **Treatment**
 
-*Stage 1 and Stage 2 (primary patient)*
-
+##### *Stage 1 and Stage 2 (primary patient)*
+###### Old answers
 - First-line treatment: radiotherapy; voice preserved.
 - Exception: carcinoma of the middle 1/3 of the vocal cord → microlaryngeal surgery.
 - Recurrence in Stage 1 and 2: radiation cannot be given again; conservative surgery → partial laryngectomy (based on lesion).
-
-*Stage 3 or early 4A (primary)*
-
-- Concurrent chemoradiotherapy.
+###### 
+Transoral Laser microsurgery (TLM)
+##### *Stage 3 or early 4A (primary)*
+###### New
+- Concurrent chemo-radiotherapy.
 - Cisplatin / carboplatin / cetuximab.
 
 > [!quote]- Original source page (PDF p. 187)
 > ![[images/chunk06_p187_source_page.jpeg]]
 
-### Page 188 — Laryngectomy, voice rehabilitation and neck dissection
-
-**Treatment (continued)**
-
-- Large T3 or T4a with one arytenoid spared → near-total laryngectomy; remove the entire larynx except the arytenoid not involved in disease.
+- **Large T3 or T4a with one arytenoid spared** → near-total laryngectomy; remove the entire larynx except the arytenoid not involved in disease.
 - Advanced disease with bilateral arytenoid involvement → total laryngectomy.
 - Stage T3 or T4a with recurrence → total laryngectomy.
 - Patient cannot take chemoradiotherapy (e.g. prior chemoradiation) → total laryngectomy.

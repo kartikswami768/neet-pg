@@ -677,6 +677,7 @@ C. Fontain sign
 D. All are true
 
 **Marked on answer sheet:** Not marked
+#### This is Glomus tumour 
 
 ### 63. A 12-year-old child presents with long-standing Eustachian tube dysfunction and hearing loss. The otoscopic image shows the tympanic membrane retracted deeply onto the promontory but not adherent. According to Sade's classification, what is the correct grade of retraction?
 
