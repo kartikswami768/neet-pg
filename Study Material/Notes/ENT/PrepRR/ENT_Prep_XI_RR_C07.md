@@ -192,8 +192,8 @@ D. **Lesion outside the temporal bone**
 - Diagnosis is by exclusion.
 - Supportive treatment: eye care and physiotherapy.
 - Medical management: prednisolone (1 mg/kg/day).
-  - 10 days for recovery.
-  - 20 days if recovery is incomplete.
+	- 10 days for recovery.
+	- 20 days if recovery is incomplete.
 - Surgical management: decompression of the vertical, tympanic, with or without labyrinthine, segments.
 - Prognosis: 90% recover; good recovery is noted in incomplete Bell’s palsy.
 
@@ -231,8 +231,8 @@ D. **Lesion outside the temporal bone**
 
 **Electrophysiological tests** *(lecture timestamp 00:21:30)*
 
-| Electroneuronography | Electromyography |
-|---|---|
+| Electroneuronography                                                                                                                                            | Electromyography                                                                                                                                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | If there is a >90 decrease in CMAP within 14 days of paralysis, the chance of spontaneous recovery is described as negligible; consider surgical decompression. | If motor-unit potentials are present, the source says the nerve is regenerating. If fibrillation potentials are present, the chance of spontaneous recovery is described as negligible. If there is no electrical output, facial reanimation may be considered. |
 
 **Tests for facial nerve palsy** *(lecture timestamp 00:22:35)*
@@ -242,8 +242,8 @@ D. **Lesion outside the temporal bone**
   - Stapedial reflex: the source associates its absence with hyperacusis.
   - Evaluation of taste and salivation.
 - **Electrophysiological tests** — helpful in assessing prognosis:
-  - Electroneuronography (ENoG): should not be performed before 3 days, as Wallerian degeneration begins after this period.
-  - Electromyography (EMG): usually performed after more than 3 weeks.
+	- Electroneuronography (ENoG): should not be performed before 3 days, as Wallerian degeneration begins after this period.
+	- Electromyography (EMG): usually performed after more than 3 weeks.
 
 **One-liners**
 

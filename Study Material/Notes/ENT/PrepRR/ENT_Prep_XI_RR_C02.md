@@ -625,7 +625,7 @@ Increased endolymphatic pressure is attributed to increased production or reduce
 
 **Interventional sequence shown:** 
 
-first line — **intratympanic steroids**; 
+first line — **6**; 
 next — **intratympanic gentamicin**.
 
 **Surgery if medical management fails:** labyrinthectomy.
