@@ -787,6 +787,37 @@ D. Labyrinthitis
 > [!example]- Source page visual — PDF page 60
 > ![[images/chunk02_p060_source_page.jpeg]]
 
+## Superior semicircular canal dehiscence (SSCD) 
+- Also known as Superior Canal Dehiscence Syndrome (SCDS) and Minor's Disease
+- It is a rare inner ear condition where the protective layer of bone covering the superior semicircular canal is missing or unusually thin. 
+
+![[IMG_1295.jpeg]]![[IMG_1294.jpeg]]
+
+### What Happens in SSCD
+* **Third Window Effect:** Normally, the inner ear has only two pressure-release points (the oval window and the round window). A bony gap creates an abnormal "third window," which allows sound and pressure changes to improperly leak into or out of the balance and hearing systems.
+* **Causes:** It can be congenital (incomplete bone development from birth), triggered by head trauma, or caused by progressive bone thinning over time.
+
+### Common Symptoms
+* **Balance & Vestibular Issues:** 
+  * *Tullio phenomenon:* Vertigo, dizziness, or eye movements (nystagmus) triggered by loud noises.
+  * *Hennebert's sign:* Vertigo or unsteadiness brought on by pressure changes, such as coughing, sneezing, straining, or blowing your nose.
+  * Chronic unsteadiness or a feeling of "brain fog" and fatigue.
+* **Hearing & Sound Issues:**
+  * *Autophony:* Hearing your own voice, footsteps, eye movements, or heartbeat extremely loudly inside your head.
+  * Conductive hearing loss (feeling like your ear is plugged).
+  * Pulsatile tinnitus (a rhythmic whooshing sound matching your pulse).
+
+### Diagnosis
+* **High-Resolution CT Scan:** A specialized thin-slice CT scan of the temporal bone is the primary imaging test used to visualize the bony defect.
+* **Clinical & Audiometric Tests:** Specialists use hearing tests and specialized balance evaluations (such as cVEMP — cervical vestibular evoked myogenic potentials) to confirm how the inner ear responds to sound and pressure.
+
+### Treatment Options
+* **Observation:** Mild or asymptomatic cases often require no intervention other than avoiding known triggers (like excessively loud environments).
+* **Surgical Repair:** For debilitating symptoms, an otologist or neurotologist may recommend surgery. Common techniques include:
+  * *Canal Plugging:* Sealing the canal to stop abnormal fluid and pressure shifting.
+  * *Resurfacing:* Covering or rebuilding the thin or missing bone area.
+  * *Approaches:* These are typically performed via a minimally invasive middle cranial fossa craniotomy or a transmastoid approach. Learn more about evaluation and treatment pathways at [Johns Hopkins Medicine](https://hopkinsmedicine.org) and the [Cleveland Clinic](https://clevelandclinic.org).
+
 # 9. External Ear Diseases
 
 ## Congenital abnormalities of the pinna

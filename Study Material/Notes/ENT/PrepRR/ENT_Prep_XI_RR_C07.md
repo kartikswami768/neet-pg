@@ -536,3 +536,10 @@ Which diagnosis is most likely for a patient with painful vesicles in the extern
 
 > [!warning] ENT-A059 — Forehead involvement in UMN versus LMN facial palsy (PDF p. 192)
 > The source line reverses the usual exam teaching and conflicts with its own explanation. A unilateral supranuclear/UMN lesion typically causes contralateral lower facial weakness with **relative forehead sparing** due to bilateral corticobulbar input; a peripheral/nuclear LMN facial palsy typically causes ipsilateral weakness involving both upper and lower face. This is the standard pattern, with clinical exceptions (e.g. bilateral lesions) possible. The source transcription remains unchanged; this note is the correction layer. Reference: [StatPearls: Facial Nerve Palsy](https://www.ncbi.nlm.nih.gov/books/NBK549815/).
+
+
+#review 
+# Tracheostomy detailed
+Ring 2 + 3
+Ring 1 → High Tracheostomy → Ca Larynx → because Laryngectomy is to be done
+	- we have to eliminate Tracheostomy along with laryngectomy because of fear of microinfiltrations (metastasis)
