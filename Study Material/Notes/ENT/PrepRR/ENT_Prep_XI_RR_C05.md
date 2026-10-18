@@ -482,15 +482,16 @@ D. Breathing exercise and symptomatic treatment
 
 ### Investigation
 
-- Biopsy, FNAC, probe test and digital palpation are marked **contraindicated (C/I)** in the source.
-- HPE: the source states “JNA is a vascular tumour — lacks tunica media”; retained as printed and flagged in `QA_REPORT.md`.
+- **Biopsy**, FNAC, probe test and digital palpation 
+	- **contraindicated (C/I)** 
+	- On *HPE* JNAis a vascular tumour — lacks tunica media → and that is why it bleeds profusely
 - CECT: investigation of choice (IOC), with:
-  - **Holman–Miller sign/Antral Sign:** anterior bowing of the posterior maxillary sinus.
-  - “**Hondousa sign**” (spelling as printed): widening of the gap between the maxilla and mandible.
+	- **Holman–Miller sign/Antral Sign:** anterior bowing of the posterior maxillary sinus.
+	- “**Hondousa sign**” (spelling as printed): widening of the gap between the maxilla and mandible.
 - Axial CT:
-  - **Chopstick sign:** postoperative sign after drilling out of pterygoid wedge
+	- **Chopstick sign:** postoperative sign after drilling out of pterygoid wedge
 - MRI: to assess intracranial extension.
-- Angiography: to identify the feeding vessel.
+- **Digital Subtraction Angiography**: to identify the feeding vessel.
 	- Most common feeding artery listed: **internal maxillary artery.**
 
 ![[IMG_1284.jpeg]]![[IMG_1285.png]]
@@ -499,7 +500,13 @@ D. Breathing exercise and symptomatic treatment
 
 ### Treatment
 
-- Angioembolization and surgical resection.
+1. Angioembolization and surgical resection
+	- Surgical excision → Laser or Bipolar Cautery
+	- **Approaches:**
+		- Endoscopic Excision (Rigid)
+		- Lateral Rhinotomy (Weber Ferguson's Incision)
+2. Radiotherapy, Chemotherapy
+3. Hormonal Therapy
 
 > [!example]- Source page visual — PDF page 145
 > ![[images/chunk05_p145_source_page.jpeg]]

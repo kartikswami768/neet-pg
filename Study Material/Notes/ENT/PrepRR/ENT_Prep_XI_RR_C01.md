@@ -567,19 +567,19 @@ Total transformer ratio = areal ratio × lever ratio.
 
 ### Rinne test and degree of hearing loss
 
-| 256 Hz | 512 Hz | 1024 Hz | Degree of hearing loss |
-|---|---|---|---|
-| − | + | + | Mild (15-30 dB) |
-| − | − | + | Moderate (30-45 dB) |
-| − | − | − | Severe (>45 dB) |
+| 256 Hz | 512 Hz | 1024 Hz | Degree of hearing loss | Threshold |
+| ------ | ------ | ------- | ---------------------- | --------- |
+| −      | +      | +       | Mild (15-30 dB)        | 40-55 dB  |
+| −      | −      | +       | Moderate (30-45 dB)    | 55-70 dB  |
+| −      | −      | −       | Severe (>45 dB)        | >70 dB    |
 
 ### Weber test
 
 - **Method:** tuning fork placed in the midline.
 - **Normal:** sound distributed equally to both ears.
 - **Lateralization:**
-  - Sound goes towards the diseased ear → conductive hearing loss.
-  - Sound goes towards the normal/opposite ear → SNHL.
+	- Sound goes towards the diseased ear → conductive hearing loss.
+	- Sound goes towards the normal/opposite ear → SNHL.
 
 > [!example]- Source page visual (PDF page 16)
 > ![[images/chunk01_p016_source_page.jpeg]]
@@ -616,9 +616,12 @@ Total transformer ratio = areal ratio × lever ratio.
 
 ### Interpreting the audiogram
 
+![[p017_normal-audiogram-air-and-bone-conduction.jpg]]
+>There should be 2 lines for each side.
+
 **Normal hearing**
 
-- AC and BC curves lie between 0 and 20 dB.
+- AC and BC curves lie between 0 and 25 dB.
 - No air-bone (AB) gap, or gap <20 dB.
 
 > [!example]- Source page visual (PDF page 17)
@@ -647,6 +650,13 @@ Total transformer ratio = areal ratio × lever ratio.
 
 > [!example]- Source page visual (PDF page 18)
 > ![[images/chunk01_p018_source_page.jpeg]]
+
+
+![[p018_conductive-hearing-loss-audiogram-air-bone-gap.jpg]]![[p018_sensorineural-hearing-loss-audiogram.jpg]]![[p018_mixed-hearing-loss-audiogram.jpg]]
+
+
+>Conductive, SNHL and Mixed 
+
 
 ### Presbycusis
 
