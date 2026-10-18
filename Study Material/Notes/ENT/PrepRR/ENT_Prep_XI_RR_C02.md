@@ -616,11 +616,11 @@ Overproduction or malabsorption leads to endolymphatic hypertension, gross enlar
 - **Tumarkin's otolith crisis:** sudden drop attack without loss of consciousness.
 - **Secondary Meniere's:** congenital/acquired syphilis, Paget's disease, post-stapedectomy.
 ### Investigations
-Eletrocochleography is Investigation of Choice
+**Eletrocochleography** is Investigation of Choice
 
 | Investigation               | Findings                                                     |
 | --------------------------- | ------------------------------------------------------------ |
-| Pure-tone audiometry (PTA)  | Low-frequency, fluctuating SNHL                              |
+| Pure-tone audiometry (PTA)  | Low-frequency (Rising Graph), fluctuating SNHL               |
 | Glycerol dehydration test   | Improvement in hearing thresholds                            |
 | Electrocochleography (ECoG) | Increased SP/AP ratio                                        |
 | VNG / Caloric test          | Unilateral vestibular hypofunction; reduced caloric response |
@@ -636,14 +636,13 @@ Eletrocochleography is Investigation of Choice
 - Correct hormonal imbalances such as hypothyroidism and hypopituitarism.
 - Eliminate allergens (the source says allergens are found in 50%).
 
-**Medical:** vestibular sedatives.
+**Medical:** vestibular sedatives
 
 **Interventional sequence shown:** 
+first line — **==Intratympanic Steroids==**; 
+next — **==intratympanic gentamicin==**.
 
-first line — **6**; 
-next — **intratympanic gentamicin**.
-
-**Surgery if medical management fails:** labyrinthectomy.
+**Surgery if medical management fails:** labyrinthectomy → Labyrinthectomy is replaced by ==Vestibulectomy== nowadays everywhere
 
 | Conservative procedures (preserve hearing)       | Destructive procedure (destroy hearing)                                                                                   |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
