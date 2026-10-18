@@ -319,8 +319,6 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 
 ## Congenital anomalies of the larynx
 
-
-
 - Most common congenital anomaly of the larynx:
   1. 1st most common: Laryngomalacia.
   2. 2nd most common: Congenital vocal cord paralysis.
