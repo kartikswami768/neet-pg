@@ -630,19 +630,14 @@ Overproduction or malabsorption leads to endolymphatic hypertension, gross enlar
 
 **Conservative**
 
-- ==Low-salt diet (<1.5–2 g/day, as printed).==
-- Stop smoking because nicotine causes vasospasm.
-- ==Avoid excessive intake of water.==
-- Correct hormonal imbalances such as hypothyroidism and hypopituitarism.
-- Eliminate allergens (the source says allergens are found in 50%).
-
-**Medical:** vestibular sedatives
-
-**Interventional sequence shown:** 
-first line — **==Intratympanic Steroids==**; 
-next — **==intratympanic gentamicin==**.
-
-**Surgery if medical management fails:** labyrinthectomy → Labyrinthectomy is replaced by ==Vestibulectomy== nowadays everywhere
+| Investigation               | Findings                                                     |
+| --------------------------- | ------------------------------------------------------------ |
+| Pure-tone audiometry (PTA)  | Low-frequency, fluctuating SNHL                              |
+| Glycerol dehydration test   | Improvement in hearing thresholds                            |
+| Electrocochleography (ECoG) | Increased SP/AP ratio                                        |
+| VNG / Caloric test          | Unilateral vestibular hypofunction; reduced caloric response |
+| MRI brain + IAC             | Exclude vestibular schwannoma                                |
+| VEMP                        | May show abnormal vestibular responses                       |
 
 | Conservative procedures (preserve hearing)       | Destructive procedure (destroy hearing)                                                                                   |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
