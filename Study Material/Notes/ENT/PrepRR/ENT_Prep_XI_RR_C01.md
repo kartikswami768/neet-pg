@@ -627,27 +627,11 @@ Total transformer ratio = areal ratio × lever ratio.
 > [!example]- Source page visual (PDF page 17)
 > ![[images/chunk01_p017_source_page.jpeg]]
 
-### Conductive hearing loss
-
-- BC curve: normal range (0-20 dB).
-- AC curve: abnormal.
-- AB gap: present (>20 dB, as stated in this section of the source).
-- Reason given: a conductive-pathway problem affects AC but spares BC because of direct cochlear stimulation.
-
-### Sensorineural hearing loss (SNHL)
-
-- AC curve: abnormal.
-- BC curve: abnormal.
-- AB gap: absent (gap <20 dB, as stated in this section of the source).
-- Reason given: both AC and BC involve the damaged sensory-neural pathway.
-
-### Mixed hearing loss
-
-- AC curve: abnormal.
-- BC curve: abnormal.
-- AB gap: present (>20 dB, as stated in this section of the source).
-- Reason given: combination of conductive and sensory-neural components.
-
+| Type of Hearing Loss                  | AC Curve | BC Curve               | Air-Bone (AB) Gap | Reason                                                                                  |
+| ------------------------------------- | -------- | ---------------------- | ----------------- | --------------------------------------------------------------------------------------- |
+| **Conductive hearing loss**           | Abnormal | Normal range (0–20 dB) | Present (>20 dB)  | Conductive pathway problem affects AC but spares BC due to direct cochlear stimulation. |
+| **Sensorineural hearing loss (SNHL)** | Abnormal | Abnormal               | Absent (<20 dB)   | Both AC and BC involve the damaged sensory-neural pathway.                              |
+| **Mixed hearing loss**                | Abnormal | Abnormal               | Present (>20 dB)  | Combination of conductive and sensory-neural components.                                |
 > [!example]- Source page visual (PDF page 18)
 > ![[images/chunk01_p018_source_page.jpeg]]
 
