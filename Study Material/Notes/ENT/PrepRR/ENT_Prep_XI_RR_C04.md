@@ -308,6 +308,17 @@ Each cell has its own walls, and the cells communicate through relatively narrow
 | Surgery           | FESS                                | FESS                                     |
 | Recurrence        | Low                                 | **High** → Ethmoidectomy may be required |
 
+### Inverted Papilloma
+
+- **Definition:** Benign epithelial tumour of the sinonasal tract with endophytic (inward) growth into the underlying stroma, arising from Schneiderian epithelium.
+- **Common site:** Lateral nasal wall, especially middle meatus; commonly involves the maxillary and ethmoid sinuses.
+- **Clinical features:** Unilateral nasal obstruction, unilateral nasal discharge and epistaxis; typically occurs in middle-aged males.
+- **CT:** Focal hyperostosis indicates the site of tumour attachment.
+- **MRI:** Convoluted cerebriform pattern.
+- **Histopathology:** Inward proliferation of epithelium into the underlying stroma.
+- **Malignant potential:** Associated with squamous cell carcinoma (SCC).
+- **Recurrence:** High risk if incompletely excised.
+- **Treatment:** Endoscopic surgical excision with complete removal of the tumour attachment site.
 ### MCQ
 
 **Question:** A 54-year-old male presented with nasal obstruction. On examination, there was an irregular mass protruding from the choanae. What is the possible diagnosis?
