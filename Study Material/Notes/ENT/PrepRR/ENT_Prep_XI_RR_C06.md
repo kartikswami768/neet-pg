@@ -927,26 +927,37 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 	- Cricothyroid will act
 		- it is weak adductor → **Paramedian Position** → Hoarseness
 
-### Page 179 — Unilateral and bilateral recurrent laryngeal nerve palsy
+
+>Abductor Palsy → RLN palsy
+>Adductor Palsy → both/Mixed palsy
+
+| Unilateral abductor Palsy    | Partial Bilateral Abductor                                                              | Complete Bilateral Palsy           | Unilateral Adductor                | Bilateral Adductor Palsy |
+| ---------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------- | ---------------------------------- | ------------------------ |
+| One median → Then Paramedian | Dyspnoea with Good voice                                                                | Hoarseness                         | Hoarseness+- Aspiration            | Aphonea +- aspiration    |
+| Hoarseness → Normal          | Tracheostomy <br>Kashima's Surgery<br>Cordotomy<br>Type II Thryoplasty / Lateralisation | Type I Thyroplasty (Medialisation) | Type I Thyroplasty (Medialisation) |                          |
+
+| Abductor Palsy (RLN) | Adductor palsy (Both nerves/Vagus) | External Nerve | Internal nerve |     |
+| -------------------- | ---------------------------------- | -------------- | -------------- | --- |
+|                      |                                    |                |                |     |
 
 ### **Unilateral recurrent laryngeal nerve (RLN) palsy** *(lecture timestamp 02:00:00)*
 
 *Example: right RLN palsy*
 
 - Sensory loss:
-  - Right side of larynx below the vocal cords (RLN is sensory below the vocal cords).
-  - Left side has no sensory loss because palsy is unilateral.
+	- Right side of larynx below the vocal cords (RLN is sensory below the vocal cords).
+	- Left side has no sensory loss because palsy is unilateral.
 - Motor loss:
-  - Right side: all muscles paralysed except cricothyroid, supplied by the external branch of SLN.
-  - Left side: all muscles functional.
+	- Right side: all muscles paralysed except cricothyroid, supplied by the external branch of SLN.
+	- Left side: all muscles functional.
 - Vocal cord position:
-  - Normal position: intermediate (cadaveric) position.
-  - In RLN palsy, posterior cricoarytenoid is paralysed, so abduction is lost; adduction and tension are retained; cord lies in median or paramedian position.
+	- Normal position: intermediate (cadaveric) position.
+	- In RLN palsy, posterior cricoarytenoid is paralysed, so abduction is lost; adduction and tension are retained; cord lies in median or paramedian position.
 - Phonation: no major change because the paralysed cord is already median/paramedian, the opposite cord can reach the midline, both cricothyroids remain functional, and adduction occurs; mild voice change may arise from paralysis of other adductors.
 - Respiration: paralysed cord cannot move away from midline, but normal cord can; no stridor, although dyspnoea on exertion may occur.
 - Treatment: wait and watch.
 
-**Bilateral recurrent laryngeal nerve palsy**
+### **Bilateral recurrent laryngeal nerve palsy**
 
 - Sensory loss: bilateral loss below the vocal cords.
 - Motor loss: both posterior cricoarytenoids are paralysed; all muscles except cricothyroid are paralysed bilaterally.
@@ -956,9 +967,9 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 > [!quote]- Original source page (PDF p. 179)
 > ![[images/chunk06_p179_source_page.jpeg]]
 
-### Page 180 — Bilateral RLN palsy and unilateral SLN palsy
 
-**Bilateral RLN palsy (continued)**
+
+### **Bilateral RLN palsy (continued)**
 
 - Respiration: both vocal cords cannot move away from the midline → stridor, because both posterior cricoarytenoids are paralysed.
 - Stridor is a feature of bilateral RLN palsy.
@@ -970,7 +981,7 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
     - Cordectomy: remove only the posterior 2/3 of the vocal cord.
     - Kashima operation: remove arytenoid + posterior 2/3 of the cord.
 
-**Unilateral superior laryngeal nerve (SLN) palsy**
+### **Unilateral superior laryngeal nerve (SLN) palsy**
 
 - The SLN gives rise to the internal laryngeal nerve, which supplies sensation above the vocal cords.
 - Example: right SLN palsy.
@@ -987,13 +998,13 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 
 ### Page 181 — Bilateral SLN palsy and combined palsy
 
-**Unilateral SLN palsy: treatment (continued)**
+**Treatment**
 
 - Moderate risk of aspiration.
 - Aim: reduce aspiration.
 - Procedure: medialise the cord using Type I thyroplasty; place a fat graft in the paraglottic space to push the cord medially; fat injection in the vocal cord.
 
-**Bilateral superior laryngeal nerve (SLN) palsy**
+### **Bilateral superior laryngeal nerve (SLN) palsy**
 
 - Sensory loss: bilateral loss above the vocal cords.
 - Motor loss: both cricothyroid muscles paralysed; other muscles functional.
@@ -1006,7 +1017,7 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
   - For intractable aspiration: tracheoesophageal diversion + permanent tracheostomy.
   - Divert the first tracheal ring with the upper oesophagus; aspiration through the larynx passes through the first tracheal ring into the oesophagus; the second tracheal ring is brought out as a permanent tracheostomy.
 
-**Unilateral combined palsy (SLN + RLN on one side)**
+### **Unilateral combined palsy (SLN + RLN on one side)**
 
 - Example: right SLN + RLN palsy.
 - Sensory loss: right hemilarynx anaesthetised; left hemilarynx completely functional.
@@ -1017,16 +1028,14 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 > [!quote]- Original source page (PDF p. 181)
 > ![[images/chunk06_p181_source_page.jpeg]]
 
-### Page 182 — Combined palsy and anatomical relations
 
-**Unilateral combined palsy (continued)**
 
 - Phonation: difficulty speaking; mild voice change.
 - Respiration: no stridor; dyspnoea on exertion.
 - Moderate risk of aspiration.
 - Treatment: tracheostomy to protect airway; Type I thyroplasty to medialise the paralysed cord after tracheostomy.
 
-**Bilateral combined palsy (bilateral SLN + RLN)** *(lecture timestamp 02:15:28)*
+### **Bilateral combined palsy (bilateral SLN + RLN)** *(lecture timestamp 02:15:28)*
 
 - Sensory loss: sensation lost in the complete larynx.
 - Motor loss: all muscles paralysed bilaterally.
