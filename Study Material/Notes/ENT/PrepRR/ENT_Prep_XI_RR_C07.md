@@ -543,3 +543,8 @@ Which diagnosis is most likely for a patient with painful vesicles in the extern
 Ring 2 + 3
 Ring 1 → High Tracheostomy → Ca Larynx → because Laryngectomy is to be done
 	- we have to eliminate Tracheostomy along with laryngectomy because of fear of microinfiltrations (metastasis)
+
+**Cricothyrotomy:**
+- always avoided in children
+- not preferred in adults also
+- Can cause stenosis due to cricoid cartilage fibrosis because it is the only complete ring in complete airway.
