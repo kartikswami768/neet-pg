@@ -22,7 +22,18 @@ handwriting-page-id: 88008310-fbc1-494e-931c-2f26f7600a5c
 > The supplied PDF pages are raster scans. Text below was extracted with OCR and proofread against the original page images. Each page's full-resolution source image is embedded at the end of its corresponding subsection so that original diagrams, labels, flowchart connections, audiograms, and image-based MCQ material remain available. Any unresolved ambiguity or apparent source inconsistency is listed in `QA_REPORT.md` rather than silently corrected.
 
 # 6. Middle Ear Disorder
-
+## Tumor of Middle Ear
+Paraganglioma
+	1. Glomus Tumor
+	2. Chemodectoma
+		1. Tumor of Carotid tumor
+		2. Pulsarile swelling of neck
+		3. Lyre Sign
+		4. Fontane SIgn
+### Glomus tumor
+Two Types
+1. G. Jugulare
+2. G. Tympanicum
 ## Pathogenesis of middle-ear diseases
 
 All middle-ear diseases occur due to Eustachian tube obstruction.
