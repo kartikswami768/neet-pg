@@ -226,7 +226,10 @@ C. Left acoustic neuroma
 D. Left Minor's syndrome
 
 **Marked on answer sheet:** A
-
+#review 
+#### Discussion
+answer is left Minor's disease → Superior Semicircular canal Dehiscence
+Only middle year disease that also causes SNHL
 ### 21. A 10-year-old child presented with bilateral hearing loss that was moderate to severe in intensity. Otoscopy and tympanometry were normal. The child was put on a hearing aid, but there was no improvement. What is the next best thing to do from among the following?
 
 A. BERA

@@ -536,7 +536,10 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 	- **Racemic adrenaline nebulisation** with **==helium and oxygen==** — bronchodilator.
 	- Voice rest and cough suppressants are required.
 	- Hydration is important.
-	- Intubation or tracheostomy may be required → BUT not effective
+	- **Intubation** or **tracheostomy** may be required 
+		→ BUT not effective because of mucosal edema in bronchus and trachea
+		- Intubation can be tried if necessary
+		- Tracheostomy is not preferred as bleeding during tracheostomy (as this tissue is already inflamed) can cause aspiration
 
 
 **MCQ:** In acute epiglottitis in children, death occurs due to:
