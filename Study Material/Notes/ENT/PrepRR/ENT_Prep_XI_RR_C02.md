@@ -628,16 +628,24 @@ Overproduction or malabsorption leads to endolymphatic hypertension, gross enlar
 | VEMP                        | May show abnormal vestibular responses                       |
 ### Treatment
 
-**Conservative**
-
-| Investigation               | Findings                                                     |
-| --------------------------- | ------------------------------------------------------------ |
-| Pure-tone audiometry (PTA)  | Low-frequency, fluctuating SNHL                              |
-| Glycerol dehydration test   | Improvement in hearing thresholds                            |
-| Electrocochleography (ECoG) | Increased SP/AP ratio                                        |
-| VNG / Caloric test          | Unilateral vestibular hypofunction; reduced caloric response |
-| MRI brain + IAC             | Exclude vestibular schwannoma                                |
-| VEMP                        | May show abnormal vestibular responses                       |
+## Treatment Protocol of Ménière's Disease
+### Step 1: Lifestyle Modification
+- Dietary sodium restriction (avoid excessive salt).
+- Identify triggers; maintain regular sleep and hydration.
+- Avoid caffeine/alcohol if they trigger symptoms.
+### Step 2: Medical Management
+- **Acute attack:** Vestibular suppressants (e.g., meclizine) + antiemetics.
+- **Maintenance:** Betahistine ± diuretic (e.g., thiazide).
+### Step 3: Intratympanic Therapy
+- **Intratympanic corticosteroids:** Persistent symptoms; hearing-preserving option.
+- **Intratympanic gentamicin:** Refractory vertigo despite nonablative treatment; risk of hearing loss.
+### Step 4: Surgery (Refractory Disease)
+- **Serviceable hearing:** Vestibular nerve section in selected patients.
+- **Non-serviceable hearing:** Labyrinthectomy.
+### Important Points
+- Vestibular rehabilitation: Chronic imbalance between attacks.
+- Labyrinthectomy: Vertigo control with permanent ipsilateral hearing loss.
+- Betahistine/diuretics: Maintenance options; evidence of benefit is limited.
 
 | Conservative procedures (preserve hearing)       | Destructive procedure (destroy hearing)                                                                                   |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
