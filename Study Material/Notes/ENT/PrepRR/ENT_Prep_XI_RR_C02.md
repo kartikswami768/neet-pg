@@ -434,6 +434,26 @@ The page's clinical flowchart describes a child with nasal blockage, hearing los
 | Type IV    | Stapes superstructure absent; footplate mobile                                |                         | Mobile stapes footplate, with round window protection                        | Round window shielding; reduced sound-conducting mechanism; round window must remain acoustically isolated |
 | Type <br>V | Stapes footplate fixed                                                        |                         | Historically, a new fenestration / fistula in the lateral semicircular canal | Fenestration operation; obsolete; historically used for conductive hearing loss due to stapes fixation     |
 ![[IMG_1293.jpeg]]
+
+### Ossicular Prosthesis in Tympanoplasty (Ossiculoplasty)
+
+Ossicular prostheses are used to reconstruct the ossicular chain when it is damaged or discontinuous.
+
+| Type | Indication | Connection |
+|---|---|---|
+| **PORP** (Partial Ossicular Replacement Prosthesis) | Stapes superstructure present | Tympanic membrane/malleus → Stapes head |
+| **TORP** (Total Ossicular Replacement Prosthesis) | Stapes superstructure absent, mobile footplate present | Tympanic membrane/malleus → Stapes footplate |
+
+#### Materials
+- **Autologous:** Incus, malleus, cartilage, cortical bone.
+- **Synthetic:** Titanium, Teflon, hydroxyapatite, Plastipore.
+
+>[!note]
+>- Stapes superstructure present → **PORP**
+>- Stapes superstructure absent + mobile footplate → **TORP**
+>- Fixed footplate → Standard ossicular reconstruction alone is insufficient.
+
+**Mnemonic:** PORP = Partial replacement; TORP = Total replacement.
 ### History-based pathway shown in the source
 
 A patient has profuse, mucoid/mucopurulent, painless, non-foul-smelling ear discharge on and off for six months following URTI or water entering the ear. Examination shows a central perforation and pale granulations. Diagnosis: active chronic mucosal/tubotympanic/safe otitis media. The next step is PTA/patch test to assess ossicular status. If active (discharging), use medical management to make the ear dry; when the ear has been dry for more than six weeks, perform myringoplasty/tympanoplasty. The source diagram adds a microscope-related note that is preserved in the page image.

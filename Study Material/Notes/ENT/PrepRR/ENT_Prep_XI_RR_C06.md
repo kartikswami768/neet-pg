@@ -791,15 +791,15 @@ Because only this portion of VC produces voice
 
 #### **Phonasthenia**
 
-- Means weakness of the phonatory muscle.
+- Means <strong>weakness of the phonatory muscle</strong> → easily fatigue 
 - The vocal cord lies between the thyroid cartilage and arytenoid cartilage.
 - Muscle between thyroid and arytenoid cartilages: thyroarytenoid.
 - Muscle between the two arytenoid cartilages: interarytenoid.
-- Keyhole appearance of the glottis:
+- <strong>Keyhole appearance of the glottis:</strong>
 	- Weak thyroarytenoid → anterior bowing of the vocal cord.
 	- Weak interarytenoid → posterior bowing of the vocal cord.
 
-**Functional aphonia** *(also called hysterical aphonia)*
+#### **Functional aphonia** *(also called hysterical aphonia)*
 
 - Seen in emotionally labile individuals.
 - Predisposing factors: stress/anxiety and sudden emotional shock.
