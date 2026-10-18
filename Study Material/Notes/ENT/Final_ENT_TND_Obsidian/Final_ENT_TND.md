@@ -742,6 +742,9 @@ C. Both are true
 D. None are true
 
 **Marked on answer sheet:** D
+#### Discussion
+This is subglottic stenosis
+there is history of intubation which is very important cause of this
 
 ### 69. A 52-year-old woman presents with left-sided pulsatile tinnitus and progressive conductive hearing loss. Otoscopy reveals a vascular retrotympanic mass that blanches on pneumatic otoscopy. MRI reveals a “salt and pepper” appearance lesion in the jugular foramen extending into the hypotympanum. Over the next few weeks, she develops uvular deviation to the right, loss of taste on the posterior third of the tongue, and hoarseness. Which of the following best explains the pattern of cranial nerve involvement in this patient?
 

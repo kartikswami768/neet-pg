@@ -435,18 +435,18 @@ Because only this portion of VC produces voice
 
 **Treatment based on grade**
 
-| Grade | Management | Key concept / procedure |
-|---|---|---|
-| Grade 1 | Observation | Usually resolves with growth; cartilages enlarge/expand with age |
-| Grade 2 | Endoscopic dilatation | Dilatation of narrowed airway using endoscopic techniques |
-| Grade 3 | Laryngotracheal reconstruction | Rib cartilage graft used to expand the subglottic region |
+| Grade   | Management                      | Key concept / procedure                                                       |
+| ------- | ------------------------------- | ----------------------------------------------------------------------------- |
+| Grade 1 | Observation                     | Usually resolves with growth; cartilages enlarge/expand with age              |
+| Grade 2 | Endoscopic dilatation           | Dilatation of narrowed airway using endoscopic techniques                     |
+| Grade 3 | Laryngotracheal reconstruction  | Rib cartilage graft used to expand the subglottic region                      |
 | Grade 4 | Partial cricotracheal resection | Remove cricoid cartilage and first tracheal ring; connect larynx with trachea |
 
 *Post-surgery*
 
 - Montgomery T-tube (stent): used in Grade 3 and Grade 4 reconstructions.
 	- Prevents further stenosis after surgery.
-- Mitomycin-C (antiproliferative drug): prevents fibrosis and adhesions.
+- **Mitomycin-C (antiproliferative drug):** prevents fibrosis and adhesions.
 
 ### **Laryngeal web**
 
