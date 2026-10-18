@@ -5,6 +5,7 @@ tags:
   - ENT
   - exam-questions
   - answer-sheet
+handwriting-page-id: 4ab1dc45-8b5e-4401-aaa2-478daa13ff0c
 ---
 
 # ENT Test & Discussion - Questions 1-72
@@ -120,6 +121,11 @@ C. Tympanostomy
 D. Atticotomy
 
 **Marked on answer sheet:** C
+#### Discussion
+A → done for Safe CSOM
+B → Done for active Otosclerosis
+C → aka Myringotomy (opening TM)
+D → Correct answer
 
 ### 11. A child with bifid uvula cannot say “dada” and instead says “nana”. Which is the likely finding?
 

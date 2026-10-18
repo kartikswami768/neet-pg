@@ -517,7 +517,7 @@ Total transformer ratio = areal ratio × lever ratio.
 | Bera Normal | Bera ↑ Latency (Abnormal)      |
 | OAE absent  | OAE present                    |
 | Recruiement | Tone Decay                     |
-| SIS         | Roll over Cutve                |
+| SIS         | Roll over Curve                |
 |             | Speech Discrimination Affected |
 
 
@@ -776,15 +776,14 @@ Two tests are listed: **Speech Reception Threshold (SRT)** and **Speech Discrimi
 
 - Emissions coming from outer hair cells of the cochlea.
 - **Significance:**
-  - Best audiometric screening test for neonates.
-  - Non-invasive, repeatable, easily applicable and cost-effective.
-  - Screening investigation of choice in the neonatal hearing-screening programme.
+	- Best audiometric screening
+natal hearing-screening programme.
 - **Uses** (continued on the following page):
 
 > [!example]- Source page visual (PDF page 22)
 > ![[images/chunk01_p022_source_page.jpeg]]
 
-- Differentiate cochlear from retrocochlear pathology.
+- **Differentiate cochlear from retrocochlear pathology.**
 - Early detection of noise-induced hearing loss (NIHL) in high-risk professions (factory, airline).
 - Testing is done in awake babies using a probe in the external auditory canal.
 
