@@ -581,13 +581,17 @@ D. Serous otitis media
 
 Meniere's disease is characterised by:
 
-- Vertigo (for hours)
+- Vertigo (for 20 minutes to 24 hours)
 - Sensorineural hearing loss.
 - Tinnitus and aural fullness.
-
+>Vertigo < 20 minutes is BPPV
 ### Pathogenesis shown in the source
+**Causes:**
+1. Mutation of Short arm of Chromosome 6
+2. Earlier → it was thought *Idiopathic*
 
-Increased endolymphatic pressure is attributed to increased production or reduced reabsorption of endolymph at the stria vascularis. Overproduction or malabsorption leads to endolymphatic hypertension, gross enlargement of the membranous labyrinth and endolymphatic hydrops. The diagram contrasts a healthy inner ear with Meniere's disease and labels swelling/distortion of balance and sound information.
+Increased endolymphatic pressure is attributed to increased production or reduced reabsorption of endolymph at the stria vascularis.
+Overproduction or malabsorption leads to endolymphatic hypertension, gross enlargement of the membranous labyrinth and endolymphatic hydrops.
 
 **Other predisposing factors listed:** allergy; sodium and water retention; hypoadrenalism and hypopituitarism; hypothyroidism.
 
@@ -611,7 +615,8 @@ Increased endolymphatic pressure is attributed to increased production or reduce
 - **Lermoyez syndrome:** tinnitus followed by hearing loss and vertigo.
 - **Tumarkin's otolith crisis:** sudden drop attack without loss of consciousness.
 - **Secondary Meniere's:** congenital/acquired syphilis, Paget's disease, post-stapedectomy.
-
+### Investigations
+Eletrocochleography
 ### Treatment
 
 **Conservative**
