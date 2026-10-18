@@ -616,7 +616,7 @@ Overproduction or malabsorption leads to endolymphatic hypertension, gross enlar
 - **Tumarkin's otolith crisis:** sudden drop attack without loss of consciousness.
 - **Secondary Meniere's:** congenital/acquired syphilis, Paget's disease, post-stapedectomy.
 ### Investigations
-Eletrocochleography
+Eletrocochleography is Investigation of Choice
 ### Treatment
 
 **Conservative**
