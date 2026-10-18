@@ -313,9 +313,9 @@ The page's clinical flowchart describes a child with nasal blockage, hearing los
 
 ### Treatment, investigations and medical treatment
 
-| Mucosal type                                                                                                            | Squamosal type                                                                                                                                       |
-| ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Treatment of the primary pathology is the mainstay, followed by reconstruction surgery (myringoplasty / tympanoplasty). | Ear surgery depends on disease extent, followed by reconstruction surgery (myringoplasty / tympanoplasty / *reconstruction of the ossicular chain*). |
+| Mucosal type                                                                                               | Squamosal type                                                                                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Treatment of the primary pathology <br>followed by reconstruction surgery (myringoplasty / tympanoplasty). | Ear surgery depends on disease extent → Surgical removal of Cholesteatoma<br>Followed by reconstruction surgery (myringoplasty / tympanoplasty / *reconstruction of the ossicular chain*). |
 
 | Investigation           | Purpose                                                        |
 | ----------------------- | -------------------------------------------------------------- |
@@ -333,9 +333,9 @@ The page's clinical flowchart describes a child with nasal blockage, hearing los
 ### Types of TM perforation
 | Type                         | Key anatomical feature                      | Important association                                                      |
 | ---------------------------- | ------------------------------------------- | -------------------------------------------------------------------------- |
-| **Central**                  | Intact annulus around perforation           | Mucosal CSOM; usually no cholesteatoma                                     |
-| **Attic**                    | Pars flaccida                               | Retraction pocket, cholesteatoma                                           |
-| **Posterosuperior marginal** | Reaches annulus in posterosuperior quadrant | Strong suspicion for cholesteatoma                                         |
+| **Central**                  | Intact annulus around perforation           | **Mucosal CSOM**; usually no cholesteatoma                                 |
+| **Attic**                    | Pars flaccida                               | Retraction pocket, **cholesteatoma**                                       |
+| **Posterosuperior marginal** | Reaches annulus in posterosuperior quadrant | Strong suspicion for **cholesteatoma**                                     |
 | **Other marginal**           | Reaches annulus elsewhere                   | Raises concern for squamous disease; assess location and clinical findings |
 | **Subtotal**                 | Most of pars tensa absent                   | Extensive mucosal disease; possible ossicular damage                       |
 | **Traumatic**                | Irregular or slit-like tear                 | Direct trauma, barotrauma, blast injury                                    |
