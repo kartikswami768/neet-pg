@@ -313,9 +313,9 @@ The page's clinical flowchart describes a child with nasal blockage, hearing los
 
 ### Treatment, investigations and medical treatment
 
-| Mucosal type | Squamosal type |
-|---|---|
-| Treatment of the primary pathology is the mainstay, followed by reconstruction surgery (myringoplasty / tympanoplasty). | Ear surgery depends on disease extent, followed by reconstruction surgery (myringoplasty / tympanoplasty / reconstruction of the ossicular chain). |
+| Mucosal type                                                                                                            | Squamosal type                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Treatment of the primary pathology is the mainstay, followed by reconstruction surgery (myringoplasty / tympanoplasty). | Ear surgery depends on disease extent, followed by reconstruction surgery (myringoplasty / tympanoplasty / *reconstruction of the ossicular chain*). |
 
 | Investigation           | Purpose                                                        |
 | ----------------------- | -------------------------------------------------------------- |
@@ -325,10 +325,10 @@ The page's clinical flowchart describes a child with nasal blockage, hearing los
 | Mastoid X-ray           | Sclerosis and extent of bone destruction (as stated in source) |
 | CT temporal bone        | Disease extent                                                 |
 **Medical treatment
-- **Aural toilet:** remove debris and an aural polyp before local treatment. Do not avulse an aural polyp.
-- **Ear drops:** neomycin + polymyxin + chloromycetin, or gentamicin, as listed.
-- **Systemic antibiotics:** limited use, only in acute exacerbation.
-- Keep the ear dry.
+	- **Aural toilet:** remove debris and an aural polyp before local treatment. Do not avulse an aural polyp.
+	- **Ear drops:** neomycin + polymyxin + chloromycetin, or gentamicin, as listed.
+	- **Systemic antibiotics:** limited use, only in acute exacerbation.
+	- Keep the ear dry.
 
 ### Types of TM perforation
 | Type                         | Key anatomical feature                      | Important association                                                      |
@@ -340,6 +340,7 @@ The page's clinical flowchart describes a child with nasal blockage, hearing los
 | **Subtotal**                 | Most of pars tensa absent                   | Extensive mucosal disease; possible ossicular damage                       |
 | **Traumatic**                | Irregular or slit-like tear                 | Direct trauma, barotrauma, blast injury                                    |
 | **Small central/pinhole**    | Tiny defect with intact surrounding rim     | Acute otitis media or chronic infection                                    |
+![[IMG_1296.jpeg]]
 ### Types of Tympanoplasty
 
 | Type       | Ossicular status                                                              | Graft is connected to                                              | Important terms / points                                                                                   |
