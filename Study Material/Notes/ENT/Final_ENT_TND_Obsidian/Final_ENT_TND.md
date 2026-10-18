@@ -350,6 +350,9 @@ D. Maximum obstruction is always at the nasal valve
 
 **Marked on answer sheet:** Not marked
 
+#### Discussion 
+This is DNS
+
 ### 33. A 35-year-old woman presents with nasal congestion, purulent nasal discharge, facial pain, and low-grade fever for 5 days. Which of the following findings would most strongly support bacterial sinusitis?
 
 A. Facial pressure that worsens when leaning forward
@@ -358,6 +361,7 @@ C. CT scan showing haziness in the sinus
 D. Mild fever (38 °C) with sore throat and cough
 
 **Marked on answer sheet:** C
+##### 
 
 ### 34. A patient who was being treated for CSOM presented with vertigo. On examination, there was nystagmus and a positive fistula test. The patient was advised immediate mastoid exploration but refused. The following week, the patient returned with increased hearing loss and a negative fistula test. Which of these could be the Rinne test finding now?
 

@@ -99,12 +99,13 @@ handwriting-page-id: 8be37779-0154-4566-9aa0-3b4b8fb49d61
 - The septum does not lie in the midline and fails to divide the nasal cavities into equal halves.
 - Described in the source as extremely common, affecting approximately 95% of patients.
 
-### Indications for surgery
+#### Indications for surgery
 - Presence of symptoms not resolving with medical therapy.
 - Symptoms include:
 	- Nasal blockade.
 	- Headache.
-	- Sinusitis.
+		- Sinusitis
+		- Anterior Ethmoidal Syndrome / Sluder's Neuralgia
 	- Smell abnormalities.
 	- Facial pain.
 	- External deformities of the nose.
@@ -113,20 +114,21 @@ handwriting-page-id: 8be37779-0154-4566-9aa0-3b4b8fb49d61
 	- ==Submucous resection (SMR).==
 	- <u>No septal surgery is preferred until 17 years of age, according to the source.</u>
 
-### Cottle's line
+#### Cottle's line
 ![[IMG_1276.jpeg]]
 
 - An imaginary line drawn from the frontal spine to the anterior nasal spine.
 - <strong>Anterior deviations (anterior to the line)</strong> → treated only with <u>septoplasty.</u>
 - <strong>Posterior deviations (posterior to the line)</strong> → treated with ==either septoplasty or SMR.==
 
-| Feature | Septoplasty | SMR |
-|---|---|---|
-| Children | Yes | No |
-| Elevation of flap | Single | Both |
-| Anterior deviation | Preferred | — |
-| ==Risk of complication== | Very less | High |
-| ==Risk of recurrence== | High | Less |
+| Feature                  | Septoplasty | SMR       |
+| ------------------------ | ----------- | --------- |
+| Children                 | Yes         | No        |
+| Elevation of flap        | Single      | Both      |
+| Anterior deviation       | Preferred   | —         |
+| ==Risk of complication== | Very less   | High      |
+| ==Risk of recurrence==   | High        | Less      |
+| Incision                 | Freer's     | Killian's |
 
 ### Septal abscess versus septal haematoma
 
@@ -358,16 +360,16 @@ D. Adenoid hypertrophy
 	- ==Therapy is stopped only after two consecutive cultures, 4 weeks apart, are negative.==
 
 ### Comparison between Rhinosporidiosis and Rhinoscleroma
-| Feature | Rhinosporidiosis | Rhinoscleroma |
-|---|---|---|
-| Causative organism | *Rhinosporidium seeberi* (aquatic protozoan-like organism) | *Klebsiella rhinoscleromatis* |
-| Mode of transmission | Water exposure | Air droplets |
-| Common region | South India | North India |
-| Symptoms | Nasal blockage and bleeding | Crusting, foul smell, granuloma, narrowing/stenosis of the nose |
-| Characteristic appearance | Strawberry-like mass | Hebra nose, Tapir nose |
-| Nasal deformity | — | Hebra nose, Tapir nose |
-| Diagnosis | HPE — final diagnosis                                             | Culture positive on MacConkey agar; Mikulicz cells and Russell bodies on HPE |
-| Treatment | Excision and cauterisation of base; dapsone to prevent recurrence | Tetracycline, streptomycin and rifampicin; debridement of mass if needed     |
+| Feature                   | Rhinosporidiosis                                                  | Rhinoscleroma                                                                |
+| ------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Causative organism        | *Rhinosporidium seeberi* (aquatic protozoan-like organism)        | *Klebsiella rhinoscleromatis*                                                |
+| Mode of transmission      | Water exposure                                                    | Air droplets                                                                 |
+| Common region             | South India                                                       | North India                                                                  |
+| Symptoms                  | Nasal blockage and bleeding                                       | Crusting, foul smell, granuloma, narrowing/stenosis of the nose              |
+| Characteristic appearance | Strawberry-like mass                                              | Woody hard granuloma, Hebra nose, Tapir nose                                 |
+| Nasal deformity           | —                                                                 | Hebra nose, Tapir nose                                                       |
+| Diagnosis                 | HPE — final diagnosis                                             | Culture positive on MacConkey agar; Mikulicz cells and Russell bodies on HPE |
+| Treatment                 | Excision and cauterisation of base; dapsone to prevent recurrence | Tetracycline, streptomycin and rifampicin; debridement of mass if needed     |
 
 > [!example]- Source page visual — PDF page 112
 > ![[images/chunk04_p112_source_page.jpeg]]
@@ -408,17 +410,17 @@ D. Nasal polyp
 
 **Causes — mnemonic HENIA + R (as printed)**
 - H → Hereditary.
-- E → Endocrinological problems.
+- E → Endocrinological problems (↓ Estrogen)
 - R → Racial.
-- N → Nutritional deficiencies (vitamins A, D and E).
-- I → Infective causes (*Klebsiella ozaenae*, most common cause, also called ==Perez bacillus==).
+- N → Nutritional deficiencies (vitamins A, **==D==** and E).
+- I → Infective causes (***Klebsiella ozaenae***, most common cause, also called ==Perez bacillus==).
 - A → Autoimmune causes.
 
 **Treatment**
 
 1. **Medical therapy:**
 	- Irrigate the nose to keep it clean and moist.
-	- Solution: <u>alkaline nasal douching solution</u>.
+	- Solution: <strong><u>alkaline nasal douching solution</u></strong>
 		- Composition, 
 			- mixed in 280 mL water
 			- 2 parts sodium chloride 
@@ -429,9 +431,9 @@ D. Nasal polyp
 		- oestrogen/estradiol spray, 
 		- ==**Kemecetine** anti-ozaena solutions.==
 2. **Surgery if medical therapy fails:**
-   - Young's operation: complete surgical closure of the nasal cavity (elevating mucosa on the septum, lateral wall and floor).
-   - Modified Young's operation: leaves a 10 mm gap for breathing.
-   - Lautenschlager's operation: medialisation of the lateral wall of the nose.
+   - **Young's operation:** complete surgical closure of the nasal cavity (elevating mucosa on the septum, lateral wall and floor).
+   - **Modified Young's operation:** leaves a 10 mm gap for breathing.
+   - **Lautenschlager's operation:** medialisation of the lateral wall of the nose.
 ### Other rhinitis conditions
 
 #### **Rhinitis sicca**
@@ -1052,11 +1054,11 @@ D. Sphenoethmoidal recess
 
 **Acute sinusitis**
 - Clinical.
-- Diagnostic nasal endoscopy.
+- Diagnostic nasal endoscopy → Purulent discharge in middle meatus → Diagnostic
 - X-ray is listed as the ==first investigation.==
 - CT scan:
-  - No role in uncomplicated acute sinusitis.
-  - Done only if a complication is suspected.
+	- No role in uncomplicated acute sinusitis.
+	- ==Done only if a complication is suspected.==
 - **Gold standard for diagnosis: sinus puncture and bacterial culture.**
 - Accurate method of diagnosis: sinuscopy and biopsy.
 
