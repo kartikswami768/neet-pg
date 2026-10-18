@@ -329,6 +329,17 @@ The page's clinical flowchart describes a child with nasal blockage, hearing los
 - **Ear drops:** neomycin + polymyxin + chloromycetin, or gentamicin, as listed.
 - **Systemic antibiotics:** limited use, only in acute exacerbation.
 - Keep the ear dry.
+
+### Types of TM perforation
+| Type                         | Key anatomical feature                      | Important association                                                      |
+| ---------------------------- | ------------------------------------------- | -------------------------------------------------------------------------- |
+| **Central**                  | Intact annulus around perforation           | Mucosal CSOM; usually no cholesteatoma                                     |
+| **Attic**                    | Pars flaccida                               | Retraction pocket, cholesteatoma                                           |
+| **Posterosuperior marginal** | Reaches annulus in posterosuperior quadrant | Strong suspicion for cholesteatoma                                         |
+| **Other marginal**           | Reaches annulus elsewhere                   | Raises concern for squamous disease; assess location and clinical findings |
+| **Subtotal**                 | Most of pars tensa absent                   | Extensive mucosal disease; possible ossicular damage                       |
+| **Traumatic**                | Irregular or slit-like tear                 | Direct trauma, barotrauma, blast injury                                    |
+| **Small central/pinhole**    | Tiny defect with intact surrounding rim     | Acute otitis media or chronic infection                                    |
 ### Types of Tympanoplasty
 
 | Type       | Ossicular status                                                              | Graft is connected to                                              | Important terms / points                                                                                   |
@@ -389,11 +400,11 @@ D. Glomus tumour
 ### Stapedial type — etiology
 
 - Hereditary: autosomal dominant with incomplete penetrance.
-- Sex: female > male; the source notes male predominance in India.
+- Sex: **female** > male; the source notes male predominance in India.
 - Age of onset: 20–40 years.
-- Increases in pregnancy and during menopause.
-- Measles is a provocative factor.
-- **Van der Hoeve syndrome:** otosclerosis + blue sclera + osteogenesis imperfecta.
+- Increases in **==pregnancy==** and during **menopause.**
+- **Measles** is a provocative factor.
+- ==**Van der Hoeve syndrome==:** otosclerosis + blue sclera + osteogenesis imperfecta.
 
 ### Symptoms
 
