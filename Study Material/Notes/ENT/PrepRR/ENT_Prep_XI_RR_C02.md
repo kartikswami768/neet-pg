@@ -623,7 +623,10 @@ Increased endolymphatic pressure is attributed to increased production or reduce
 
 **Medical:** vestibular sedatives.
 
-**Interventional sequence shown:** first line — intratympanic steroids; next — intratympanic gentamicin.
+**Interventional sequence shown:** 
+
+first line — **intratympanic steroids**; 
+next — **intratympanic gentamicin**.
 
 **Surgery if medical management fails:** labyrinthectomy.
 
@@ -1101,11 +1104,15 @@ D. Labyrinthitis
 
 - **Definition:** >30 dB hearing loss at three consecutive frequencies within 3 days (72 hours).
 - **Causes listed:** viral, autoimmune, post-infection; tumours such as acoustic neuroma; exposure to loud sounds.
-  - Conductive: wax in the ear.
-  - Sensorineural: cochlear or retrocochlear.
+	- Conductive: wax in the ear.
+	- Sensorineural: cochlear or retrocochlear.
 - **Diagnosis:** audiometry → MRI with contrast, used to rule out intracranial pathology compressing the nerve.
 - The source audiogram shows a right-ear drop in hearing level to 50, 60 and 70 dB at 500, 1000 and 2000 Hz, respectively.
-- **Treatment:** the earlier the diagnosis and treatment, the better the prognosis; steroids are the main treatment; intratympanic and systemic steroids are listed.
+- **Treatment:** 
+	- the earlier the diagnosis and treatment, the better the prognosis; 
+	- **steroids** are the main treatment; 
+		- **intratympanic and systemic steroids** are listed.
+		- Systemic steroids are generally preferred because of less hassle and same results in both.
 
 ### Audiogram symbol key reproduced from the source
 

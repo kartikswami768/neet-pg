@@ -169,12 +169,14 @@ CT findings listed
   - <u>Pus breaks through the outer cortex of the mastoid.</u>
   - Presents behind the pinna.
 - **Luc’s abscess**
-  - ==Pus breaks into the external auditory meatus.==
-  - Memory aid: “L follows M” — Luc’s = meatus.
-- **Citelli’s abscess (digastric abscess)**
-  - At the tip of the mastoid, related to the posterior belly of the digastric muscle.
-  - Abscess in the digastric region.
-  - Memory aid: “C follows D” — Citelli’s = digastric.
+	- Not seen from outside
+	- ==Pus breaks into the external auditory meatus.==
+	- Memory aid: “L follows M” — Luc’s = meatus.
+- **Citelli’s abscess (digastric abscess)
+	- Not seen from outside
+	- At the tip of the mastoid, related to the posterior belly of the digastric muscle.
+	- Abscess in the digastric region.
+	- Memory aid: “C follows D” — Citelli’s = digastric.
 - Image-based location clues:
   - Near the zygomatic bone → zygomatic abscess.
   - Behind the pinna → post-auricular abscess (MC).
