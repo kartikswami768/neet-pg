@@ -484,7 +484,7 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 
 - Most common age group: **3–7 years.** → never infants
 - Causative organisms:
-	- *Streptococcus pneumoniae* — most common (as stated).
+	- *Streptococcus pyogens > pneumoniae* — most common (as stated).
 	- *Haemophilus influenzae* — incidence reduced due to vaccination.
 - Clinical presentation:
 	- Dysphagia.
@@ -493,6 +493,7 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 	- Dyspnoea and **inspiratory stridor due to supraglottic obstruction.**
 	- Increased chance of laryngospasm on examination.
 	- **Child sits in the tripod position.**
+		- Bending forwards / Prone position improves stridor.
 
 > [!quote]- Original source page (PDF p. 167)
 > ![[images/chunk06_p167_source_page.jpeg]]
@@ -503,7 +504,7 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 - Investigation: lateral X-ray view — **thumb sign**, indicating inflammation of the epiglottis.
 - Treatment:
 	- Secure the airway.
-	- Antibiotics against the specific organisms.
+	- Antibiotics against the specific organisms → Cephalosporin
 	- Steroids may be given to reduce oedema and prevent airway obstruction.
 	- Voice rest and cough suppressants are not required (as stated).
 	- **Racemic adrenaline nebulisation or injection** — bronchodilator (as stated).

@@ -280,6 +280,7 @@ Each cell has its own walls, and the cells communicate through relatively narrow
 	- **==Young syndrome==:** bronchiectasis, sinusitis and obstructive azoospermia.
 	- **Churg–Strauss syndrome**: asthma, fever, eosinophilia, vasculitis and granuloma.
 	- ==**Samter's triad:**== asthma, nasal polyps and aspirin intolerance.
+		- Not only aspirin but other COX1 inhibitors also. 
 
 > [!example]- Source page visual — PDF page 110
 > ![[images/chunk04_p110_source_page.jpeg]]
