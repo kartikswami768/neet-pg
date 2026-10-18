@@ -123,12 +123,12 @@ The source diagrams label the facial canal, geniculate ganglion, stapes/oval win
 
 **Subsegments and features**
 
-| Part | Special feature | Landmarks | Branches |
-|---|---|---|---|
-| Meatal segment | Present within the internal auditory meatus (IAM) | Separated from the superior vestibular nerve by a bony ridge called Bill’s bar | None listed |
-| Labyrinthine segment | Located in the inner ear; shortest and narrowest segment of the facial nerve canal | None listed | None listed |
-| Tympanic / horizontal segment | Runs along the medial wall of the middle ear; common site for congenital dehiscence of the Fallopian canal | Processus cochleariformis; between the bulge of the lateral SCC above and oval window below | **1st branch — Greater superficial petrosal nerve:** arises from the geniculate ganglion; controls lacrimation and nasal/palatal secretions via the sphenopalatine ganglion; assessed by Schirmer’s test |
-| Mastoid / vertical segment | Located on the posterior wall of the middle ear; prone to iatrogenic injury during mastoid surgery | Nerve lies laterally and posterior to the pyramid | **2nd branch — Nerve to stapedius:** mediates stapedial reflex; lesion causes hyperacusis. **3rd branch — Chorda tympani:** taste from anterior 2/3 of tongue and parasympathetic supply to submandibular/sublingual glands; tested by electrogustometry and salivary flow. **4th branch — Sensory auricular branch:** supplies pinna and EAC; involved in Hitzelberger sign (acoustic neuroma). |
+| Part                          | Special feature                                                                                            | Landmarks                                                                                   | Branches                                                                                                                                                                                                                                                                                                                                                                                         |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Meatal segment                | Present within the internal auditory meatus (IAM)                                                          | Separated from the superior vestibular nerve by a bony ridge called Bill’s bar              | None listed                                                                                                                                                                                                                                                                                                                                                                                      |
+| Labyrinthine segment          | Located in the inner ear; shortest and narrowest segment of the facial nerve canal                         | None listed                                                                                 | None listed                                                                                                                                                                                                                                                                                                                                                                                      |
+| Tympanic / horizontal segment | Runs along the medial wall of the middle ear; common site for congenital dehiscence of the Fallopian canal | Processus cochleariformis; between the bulge of the lateral SCC above and oval window below | **1st branch — Greater superficial petrosal nerve:** arises from the geniculate ganglion; controls lacrimation and nasal/palatal secretions via the sphenopalatine ganglion; assessed by Schirmer’s test                                                                                                                                                                                         |
+| Mastoid / vertical segment    | Located on the posterior wall of the middle ear; prone to iatrogenic injury during mastoid surgery         | Nerve lies laterally and posterior to the pyramid                                           | **2nd branch — Nerve to stapedius:** mediates stapedial reflex; lesion causes hyperacusis. **3rd branch — Chorda tympani:** taste from anterior 2/3 of tongue and parasympathetic supply to submandibular/sublingual glands; tested by electrogustometry and salivary flow. **4th branch — Sensory auricular branch:** supplies pinna and EAC; involved in Hitzelberger sign (acoustic neuroma). |
 
 > [!quote]- Original source page (PDF p. 195)
 > ![[images/chunk07_p195_source_page.jpeg]]
@@ -234,7 +234,70 @@ D. **Lesion outside the temporal bone**
 | Electroneuronography                                                                                                                                            | Electromyography                                                                                                                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | If there is a >90 decrease in CMAP within 14 days of paralysis, the chance of spontaneous recovery is described as negligible; consider surgical decompression. | If motor-unit potentials are present, the source says the nerve is regenerating. If fibrillation potentials are present, the chance of spontaneous recovery is described as negligible. If there is no electrical output, facial reanimation may be considered. |
+## Classification of Facial Nerve Palsy
 
+### 1. Medical (Clinical) Classification — House–Brackmann Grading
+
+House–Brackmann (HB) scale: Grades I–VI.
+
+| Grade | Severity                      | Clinical Findings                                                                  |
+| ----- | ----------------------------- | ---------------------------------------------------------------------------------- |
+| I     | Normal                        | Normal facial function                                                             |
+| II    | Mild dysfunction              | Slight weakness; normal symmetry at rest; complete eye closure with minimal effort |
+| III   | Moderate dysfunction          | Obvious but not disfiguring asymmetry; complete eye closure with effort            |
+| IV    | Moderately severe dysfunction | Obvious weakness; incomplete eye closure                                           |
+| V     | Severe dysfunction            | Barely perceptible movement; incomplete eye closure                                |
+| VI    | Total paralysis               | No movement                                                                        |
+
+**Exam pearl:** House–Brackmann is the most widely used overall grading system for facial nerve function.
+
+### 2. Electrical (Electrophysiological) Classification
+
+Electrical tests assess the degree of facial nerve degeneration and help estimate prognosis, particularly in severe facial palsy.
+
+#### A. Electroneuronography (ENoG)
+
+ENoG compares the compound muscle action potential (CMAP) amplitude on the affected side with that on the normal side.
+
+**Formula:**
+
+% Degeneration = (1 − Affected CMAP amplitude / Normal CMAP amplitude) × 100
+
+| Degeneration | Interpretation |
+|---|---|
+| <25% | Mild degeneration |
+| 25–50% | Moderate degeneration |
+| 50–75% | Severe degeneration |
+| >90% | Very severe degeneration; traditionally associated with a poorer prognosis |
+
+**Important points:**
+- Usually most useful from approximately 72 hours after onset, when Wallerian degeneration has had time to develop.
+- Serial measurements are often more informative than a single measurement.
+- In Bell palsy, >90% degeneration within 14 days has traditionally been used as a poor-prognosis criterion.
+
+#### B. Electromyography (EMG)
+
+| Finding | Significance |
+|---|---|
+| Normal voluntary motor-unit activity | Preserved innervation |
+| Reduced recruitment | Axonal loss or reduced motor-unit activation |
+| Fibrillation potentials and positive sharp waves | Denervation |
+| Polyphasic motor-unit potentials | May indicate reinnervation |
+
+Needle EMG is particularly useful after sufficient time has elapsed for denervation changes to appear, often around 10–14 days or later.
+
+---
+
+#### 3. Quick Comparison
+
+| Feature     | Clinical Classification        | Electrical Classification                               |
+| ----------- | ------------------------------ | ------------------------------------------------------- |
+| Main system | House–Brackmann                | ENoG and EMG                                            |
+| Assesses    | Observable facial function     | Nerve degeneration and muscle denervation/reinnervation |
+| Result      | Grades I–VI                    | CMAP amplitude loss and EMG findings                    |
+| Main use    | Severity grading and follow-up | Prognostic assessment in selected severe cases          |
+
+**Important distinction:** The House–Brackmann scale and ENoG degeneration percentages are complementary. Electrical tests do not directly replace clinical grading.
 **Tests for facial nerve palsy** *(lecture timestamp 00:22:35)*
 
 - **Topodiagnostic tests** — used to determine the site of the nerve lesion:
@@ -244,6 +307,7 @@ D. **Lesion outside the temporal bone**
 - **Electrophysiological tests** — helpful in assessing prognosis:
 	- Electroneuronography (ENoG): should not be performed before 3 days, as Wallerian degeneration begins after this period.
 	- Electromyography (EMG): usually performed after more than 3 weeks.
+
 
 **One-liners**
 
