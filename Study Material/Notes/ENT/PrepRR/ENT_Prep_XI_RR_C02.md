@@ -617,6 +617,15 @@ Overproduction or malabsorption leads to endolymphatic hypertension, gross enlar
 - **Secondary Meniere's:** congenital/acquired syphilis, Paget's disease, post-stapedectomy.
 ### Investigations
 Eletrocochleography is Investigation of Choice
+
+| Investigation               | Findings                                                     |
+| --------------------------- | ------------------------------------------------------------ |
+| Pure-tone audiometry (PTA)  | Low-frequency, fluctuating SNHL                              |
+| Glycerol dehydration test   | Improvement in hearing thresholds                            |
+| Electrocochleography (ECoG) | Increased SP/AP ratio                                        |
+| VNG / Caloric test          | Unilateral vestibular hypofunction; reduced caloric response |
+| MRI brain + IAC             | Exclude vestibular schwannoma                                |
+| VEMP                        | May show abnormal vestibular responses                       |
 ### Treatment
 
 **Conservative**
