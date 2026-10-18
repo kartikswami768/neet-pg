@@ -704,7 +704,7 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 
 ### **Laryngeal papilloma** *(lecture timestamp 01:32:49; NEET PG 2019; FMGE 2023)*
 
-- Causative organisms: HPV 6 and 11.
+==- **Causative organisms: HPV 6 and 11.==**
 - Two types:
 	- Juvenile onset.
 	- Adult onset.

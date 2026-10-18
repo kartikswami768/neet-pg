@@ -455,6 +455,7 @@ D. Breathing exercise and symptomatic treatment
 - **Benign but locally invasive.**
 - Most commonly seen in the juvenile age group.
 - The source states that JNA <u>occurs only in males because the tumour is dependent on testosterone for growth.</u>
+- It "CAN" be die to HPV
 
 ### Site of origin
 
@@ -464,18 +465,18 @@ D. Breathing exercise and symptomatic treatment
 ### Clinical presentation
 
 - Bleeding.
-- Unilateral SOM → conductive hearing loss (CHL).
+- Unilateral SOM → <em>conductive hearing loss (CHL).</em>
 - “**==Frog face==**” → proptosis and widening of the nasal bridge.
 - Superior spread: sphenoid sinus → cavernous sinus → nerve involvement/palsy:
-  - Cranial nerve II: at the roof of the sphenoid, as stated in the source.
-  - Cranial nerves III, IV, V and VI: cavernous sinus.
+	- <u>Cranial nerve II:</u> at the roof of the sphenoid, as stated in the source.
+	- Cranial nerves <u>III, IV, V and VI: cavernous sinus.</u>
 
 ### Classification systems
 
 - **Radkowski:**
-  - Stage 1: limited to the nose, nasopharynx and sinuses.
-  - Stage 2: orbital, pterygopalatine fossa or infratemporal fossa involvement.
-  - Stage 3: cranial involvement.
+	- Stage 1: limited to the nose, nasopharynx and sinuses.
+	- Stage 2: orbital, pterygopalatine fossa or infratemporal fossa involvement.
+	- Stage 3: cranial involvement.
 - FISCH.
 - SESSIONS.
 
@@ -484,7 +485,7 @@ D. Breathing exercise and symptomatic treatment
 - Biopsy, FNAC, probe test and digital palpation are marked **contraindicated (C/I)** in the source.
 - HPE: the source states “JNA is a vascular tumour — lacks tunica media”; retained as printed and flagged in `QA_REPORT.md`.
 - CECT: investigation of choice (IOC), with:
-  - **Holman–Miller sign:** anterior bowing of the posterior maxillary sinus.
+  - **Holman–Miller sign/Antral Sign:** anterior bowing of the posterior maxillary sinus.
   - “**Hondousa sign**” (spelling as printed): widening of the gap between the maxilla and mandible.
 - Axial CT:
   - **Chopstick sign:** postoperative sign after drilling out of pterygoid wedge
@@ -510,10 +511,10 @@ D. Breathing exercise and symptomatic treatment
 
 ### Etiology/risk factors and EBV screening
 
-- Chinese/Mongoloid population (source wording).
+- **Chinese/Mongoloid** population (source wording).
 - Smoking and tobacco.
 - Smoke from an incense stick.
-- EBV screening:
+- **EBV** screening:
   - IgA viral capsid antigen: most widely used.
   - IgA against early antigen: most specific.
 
@@ -523,16 +524,16 @@ D. Breathing exercise and symptomatic treatment
 
 ### Clinical presentation
 
-- Cervical lymphadenopathy (neck nodes).
+- **Most common presentation: ==Cervical lymphadenopathy (neck nodes).==**
 - Blood-stained nasal discharge.
 - Unilateral SOM → CHL.
 - Nerve palsies listed: cranial nerves II, III, IV, V, VI, IX, X and XI.
 	- The tumour invades the base of the skull and skull foramina.
 - Horner's syndrome.
-- **Trotter's triad:**
-  - Conductive hearing loss due to SOM.
-  - Fifth-nerve palsy: pain along the distribution of the fifth nerve.
-  - Tenth-nerve palsy: palatal paralysis.
+- ==**Trotter's triad:**==
+	- **Conductive hearing loss** due to SOM.
+	- Fifth-nerve (V3) palsy: **Facial pain** along the distribution of the **Mandibular Branch** of fifth nerve.
+	- Tenth-nerve palsy: **Soft palatal paralysis**
 - **“HO'S triangle”** aka Subclavian Triangle or Supraclavicular fossa or Omohyoid Triangle: 
 	site for lymphadenopathy, formed by:
 	  - Superiorly: Inferior belly of omohyoid
@@ -551,8 +552,8 @@ D. Breathing exercise and symptomatic treatment
 ### Investigation and treatment
 
 - Investigation: biopsy (IOC).
-- Early stage: radiotherapy.
-- Late stage: chemoradiation.
+- Early stage: **radiotherapy**.
+- Late stage: **chemoradiation**.
 
 > [!example]- Source page visual — PDF page 146
 > ![[images/chunk05_p146_source_page.jpeg]]
