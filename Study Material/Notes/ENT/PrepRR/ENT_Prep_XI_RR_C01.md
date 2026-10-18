@@ -642,59 +642,41 @@ Total transformer ratio = areal ratio × lever ratio.
 >Conductive, SNHL and Mixed 
 
 
-### Presbycusis
+| Condition                             | Type of Hearing Loss              | AC Curve | BC Curve                                                    | Audiogram Pattern                                                                                       | Characteristic Finding                                                     |
+| ------------------------------------- | --------------------------------- | -------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **Presbycusis**                       | Sensorineural hearing loss (SNHL) | Abnormal | Abnormal                                                    | Down-sloping; hearing loss worsens as frequency increases                                               | Age-related SNHL                                                           |
+| **Ménière's disease**                 | Sensorineural hearing loss (SNHL) | Abnormal | Abnormal                                                    | Up-sloping; greater hearing loss at lower frequencies, with relatively preserved high-frequency hearing | Low-frequency hearing loss                                                 |
+| **Otosclerosis**                      | Conductive hearing loss (CHL)     | Abnormal | Normal range (0–20 dB), except for the characteristic notch | Air-bone gap present                                                                                    | **Carhart's notch:** dip in the BC curve at 2000 Hz                        |
+| **Noise-induced hearing loss (NIHL)** | Sensorineural hearing loss (SNHL) | Abnormal | Abnormal                                                    | Notch-shaped pattern                                                                                    | **Boiler's notch / acoustic dip:** dip in both AC and BC curves at 4000 Hz |
 
-- Definition: age-related SNHL.
-- Audiogram findings:
-  - AC is abnormal.
-  - BC is abnormal.
-  - Neither curve is in the 0-20 dB range.
-  - Down-sloping graph pattern, typical of presbycusis.
-  - Hearing loss worsens as frequency increases.
+![[p019_low-frequency-hearing-loss-audiogram-meniere-pattern.jpg]]![[p018_sensorineural-hearing-loss-audiogram.jpg]]
 
-### Ménière's disease
+>Meniere's and Sensorinueral
 
-- Pathology: inner-ear condition causing SNHL.
-- Audiogram findings:
-  - AC abnormal; BC abnormal.
-  - Up-sloping graph pattern.
-  - More hearing loss at lower frequencies; hearing sensitivity at higher frequencies is described as almost normal.
-- Low-frequency hearing loss is characteristic of Ménière's disease.
 
-### Otosclerosis
+![[p019_otosclerosis-audiogram-carhart-notch.jpg]]
+![[p020_noise-induced-hearing-loss-4-khz-notch-audiogram.jpg]]
 
-- Pathology: conductive-pathway problem → conductive hearing loss (CHL).
-- Audiogram findings:
-  - BC is in the normal range (0-20 dB).
-  - AC is abnormal.
-  - Air-bone gap is present.
-  - **Carhart's notch:** a specific dip in the BC curve at 2000 Hz.
+>Otosclerosis and NIHL
 
 *FMGE 2018, 2025; NEET PG 2024; INICET 2019, 2022, 2024, 2025 (as labelled in the source).* 
 
 > [!example]- Source page visual (PDF page 19)
 > ![[images/chunk01_p019_source_page.jpeg]]
 
-### Noise-induced hearing loss (NIHL)
-
-- Pathology: noise causes damage → SNHL.
-- Audiogram findings:
-  - AC and BC are both abnormal.
-  - **Boiler's notch / acoustic dip:** a dip in both AC and BC curves at 4000 Hz.
-
 ### Summary table: hearing loss / disease and PTA findings
 
-| Type of hearing loss / disease | PTA findings (as stated in the source table) |
-|---|---|
-| Conductive hearing loss | BC normal; AC abnormal; AB gap present (>15 dB) |
-| Otosclerosis | AB gap + dip at 2 kHz in BC (Carhart's notch) |
-| Sensorineural hearing loss | Both BC and AC abnormal and AB gap <15 dB |
-| Presbycusis | No AB gap / <15 dB; down-sloping audiogram (high-frequency hearing loss) |
-| Ototoxicity | Down-sloping audiogram (high-frequency hearing loss) |
-| Noise-induced hearing loss | Dip at 4 kHz (acoustic dip) in both AC and BC |
-| Early Ménière's disease | No AB gap + up-sloping audiogram (low-frequency hearing loss) |
-| Cochlear otosclerosis | No AB gap + U-shaped / trough / cookie-bite audiogram |
-| Mixed hearing loss | Both BC and AC abnormal; AB gap present (>15 dB) |
+| Type of hearing loss / disease | PTA findings (as stated in the source table)                             |
+| ------------------------------ | ------------------------------------------------------------------------ |
+| Conductive hearing loss        | BC normal; AC abnormal; AB gap present (>15 dB)                          |
+| Otosclerosis                   | AB gap + dip at 2 kHz in BC (Carhart's notch)                            |
+| Sensorineural hearing loss     | Both BC and AC abnormal and AB gap <15 dB                                |
+| Presbycusis                    | No AB gap / <15 dB; down-sloping audiogram (high-frequency hearing loss) |
+| Ototoxicity                    | Down-sloping audiogram (high-frequency hearing loss)                     |
+| Noise-induced hearing loss     | Dip at 4 kHz (acoustic dip) in both AC and BC                            |
+| Early Ménière's disease        | No AB gap + up-sloping audiogram (low-frequency hearing loss)            |
+| Cochlear otosclerosis          | No AB gap + U-shaped / trough / cookie-bite audiogram                    |
+| Mixed hearing loss             | Both BC and AC abnormal; AB gap present (>15 dB)                         |
 
 > [!note] Source inconsistency retained
 > The detailed audiogram descriptions on PDF pages 18-19 use an AB-gap threshold of **20 dB**, while the summary table on PDF page 20 uses **15 dB**. Both values are preserved as printed; this is flagged for review rather than silently reconciled.
