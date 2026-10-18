@@ -128,8 +128,10 @@ Patient presents with acute-onset ear pain, without URTI → examination shows c
 > ![[images/chunk02_p042_source_page.jpeg]]
 
 ### Etiology and pathology
-
-- Tubal occlusion due to nasopharyngeal causes, such as adenoids and benign or malignant tumours.
+**Most common cause: 
+In Children: Adenoid Hypertrophy in children (Bilateral SOM)
+In adults: Nasopharyngeal Carcinoma (Unilateral)**
+- Tubal occlusion due to nasopharyngeal causes, such as **adenoids** and benign or malignant tumours.
 - Allergy: mucosal oedema of the Eustachian tube orifice.
 - ==Hypogammaglobulinaemia== predisposes to an inflammatory response in the middle-ear cavity.
 - Sterile effusion in the middle ear; the fluid is non-infective and there is no pus formation.
@@ -152,6 +154,7 @@ Patient presents with acute-onset ear pain, without URTI → examination shows c
 - Fluid level.
 - ==Air bubbles.==
 - Decreased mobility of the TM.
+- Foreshortened handle of malleus
 
 ### Hearing tests
 
@@ -170,7 +173,7 @@ Patient presents with acute-onset ear pain, without URTI → examination shows c
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | Hearing loss only                                                                             | Wait and watch for 3 months.                                                                                                             |
 | Persistent effusion (no change after 3 months)                                                | Myringotomy with or without grommet insertion; radial incision in the ==anteroinferior quadrant== (and not in posteroinferior quadrant). |
-| Adenoid hypertrophy present (mouth breathing, snoring, high-arched palate, failure to thrive) | Myringotomy + grommet + adenoidectomy.                                                                                                   |
+| Adenoid hypertrophy present (mouth breathing, snoring, high-arched palate, failure to thrive) | Myringotomy + grommet + **==adenoidectomy==**.                                                                                           |
 
 ---
 
@@ -627,25 +630,21 @@ Overproduction or malabsorption leads to endolymphatic hypertension, gross enlar
 | MRI brain + IAC             | Exclude vestibular schwannoma                                |
 | VEMP                        | May show abnormal vestibular responses                       |
 ### Treatment
-
 ## Treatment Protocol of Ménière's Disease
-### Step 1: Lifestyle Modification
-- Dietary sodium restriction (avoid excessive salt).
+#### Step 1: Lifestyle Modification
+- Dietary sodium restriction < 1.5-2 g/day(avoid excessive salt).
 - Identify triggers; maintain regular sleep and hydration.
 - Avoid caffeine/alcohol if they trigger symptoms.
-### Step 2: Medical Management
+#### Step 2: Medical Management
 - **Acute attack:** Vestibular suppressants (e.g., meclizine) + antiemetics.
 - **Maintenance:** Betahistine ± diuretic (e.g., thiazide).
-### Step 3: Intratympanic Therapy
+#### Step 3: Intratympanic Therapy
 - **Intratympanic corticosteroids:** Persistent symptoms; hearing-preserving option.
 - **Intratympanic gentamicin:** Refractory vertigo despite nonablative treatment; risk of hearing loss.
-### Step 4: Surgery (Refractory Disease)
+#### Step 4: Surgery (Refractory Disease)
 - **Serviceable hearing:** Vestibular nerve section in selected patients.
 - **Non-serviceable hearing:** Labyrinthectomy.
-### Important Points
-- Vestibular rehabilitation: Chronic imbalance between attacks.
-- Labyrinthectomy: Vertigo control with permanent ipsilateral hearing loss.
-- Betahistine/diuretics: Maintenance options; evidence of benefit is limited.
+
 
 | Conservative procedures (preserve hearing)       | Destructive procedure (destroy hearing)                                                                                   |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |

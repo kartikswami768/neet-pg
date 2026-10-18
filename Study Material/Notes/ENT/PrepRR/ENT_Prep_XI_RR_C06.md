@@ -645,6 +645,7 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 **TB larynx: signs**
 - Starts in the posterior part of the vocal cord.
 - Hyperaemia / redness of the vocal cord with sluggish vocal-cord movement.
+- **Cobblestone Appearance of Glottis**
 - ==**Discontinuous ulcer: “moth-eaten” / “mouse-nibbled”.**==
 - Swelling of arytenoids: **==“mamillated arytenoids”.==**
 - Swelling of epiglottis: **==“turban epiglottis”.==**
