@@ -264,9 +264,10 @@ Each cell has its own walls, and the cells communicate through relatively narrow
 ### Ethmoidal polyp (NEET PG 2022; FMGE 2023)
 
 - Arises from ethmoidal air cells.
-- Occurs secondary to allergy.
-- Affects both sides of the nose.
+- Occurs secondary to **allergy**.
+- Affects **both sides of the nose** → **==Bilateral==** → Both sides of ethmoid air cells are connected
 - Multiple masses/polypoidal tissue grow anteriorly to the vestibule of the nose.
+	- Remember that Ethmoidal sinus itself has multiple cells, so its polyp will also be like that. 
 - Bilateral.
 - **Bunch-of-grapes appearance** on examination.
 - Associated syndromes/conditions:
@@ -286,23 +287,24 @@ Each cell has its own walls, and the cells communicate through relatively narrow
 #### Treatment
 1. Medical therapy:
 	- Steroid — primary treatment.
+		- Since Ethmoid polyp is due to allergy sometimes steroid can cause *Medical Polypectomy*
 	- Antiallergics.
 	- Mast-cell stabiliser.
-2. If medical therapy fails → CT scan → FESS.
+2. If medical therapy fails → CT scan → FESS → if even FESS fails → Ethmoidectomy
 
 ### ==Antrochoanal versus ethmoidal polyp==
 
-| Feature           | Antrochoanal polyp (AC polyp)   | Ethmoidal polyp     |
-| ----------------- | ------------------------------- | ------------------- |
-| Age               | Young                           | Older               |
-| Aetiology         | Infection (*Strep. pneumoniae*) | Allergy             |
-| Number            | Single                          | Multiple            |
-| Laterality        | Unilateral                      | Bilateral           |
-| Origin            | Maxillary sinus                 | Ethmoidal air cells |
-| Growth            | Posteriorly                     | Anteriorly          |
-| Medical treatment | No role                         | Yes                 |
-| Surgery           | FESS                            | FESS                |
-| Recurrence        | Low                             | High                |
+| 			Feature        | Antrochoanal polyp (AC polyp)       | Ethmoidal polyp                          |
+| ----------------- | ----------------------------------- | ---------------------------------------- |
+| Age               | Young                               | Older                                    |
+| Aetiology         | **Infection (*Strep. pneumoniae*)** | **Allergy**                              |
+| Number            | Single                              | Multiple                                 |
+| Laterality        | Unilateral                          | Bilateral                                |
+| Origin            | Maxillary sinus                     | Ethmoidal air cells                      |
+| Growth            | Posteriorly                         | Anteriorly                               |
+| Medical treatment | **Antibiotics**                     | **Steroid**                              |
+| Surgery           | FESS                                | FESS                                     |
+| Recurrence        | Low                                 | **High** → Ethmoidectomy may be required |
 
 ### MCQ
 
@@ -1090,7 +1092,7 @@ D. Sphenoethmoidal recess
 **Steps as shown in the source flowchart**
 
 1. Uncinectomy.
-2. Middle meatal antrostomy.
+2. Middle meatal antrostomy → Widening of ostia 
 3. Remove anterior ethmoidal cells.
 4. Remove posterior ethmoidal cells.
 5. Sphenoidotomy.
