@@ -507,7 +507,9 @@ Total transformer ratio = areal ratio × lever ratio.
 | Localization of sound | Higher auditory centres | Detects direction (right/left/front/back) |
 
 - **Tonotopic organization:** the base of the cochlea is responsible for recognizing high-frequency sounds, while the apex is responsible for recognizing low-frequency sounds.
-- **Retrocochlear pathway defect:** speech discrimination is affected; phonetically similar sounds may be difficult to distinguish. The source examples include “Fat, Bat, Rat” and “Fa, Ba, Ma”.
+- **Retrocochlear pathway defect:**
+	- **==speech discrimination is affected==** → differentiating feature between Cochlear and Retrocochlear. Diseases
+	- phonetically similar sounds may be difficult to distinguish. The source examples include “Fat, Bat, Rat” and “Fa, Ba, Ma”.
 
 ## Transduction and hair cells
 
