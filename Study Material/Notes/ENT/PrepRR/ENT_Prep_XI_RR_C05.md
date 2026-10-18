@@ -308,7 +308,7 @@ The source diagram labels the pharyngobasilar fascia, base of skull, sinus of Mo
 
 - Endoscopy to assess size.
 - Lateral X-ray of the nose and nasopharynx.
-- <strong>==Dodd/crescent sign==</strong>: negative (PYQ); a crescent of air is not present between the mass and pharyngeal wall because the mass arises from the pharyngeal wall itself, as stated in the figure.
+- ==Dodd/crescent sign==: negative (PYQ); a crescent of air is not present between the mass and pharyngeal wall because the mass arises from the pharyngeal wall itself, as stated in the figure.
 - Type B tympanogram (PYQ).
 
 **Initial management**

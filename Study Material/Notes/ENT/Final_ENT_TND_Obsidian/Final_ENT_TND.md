@@ -374,7 +374,7 @@ C. True positive
 D. False positive
 
 **Marked on answer sheet:** B
-
+#### This is intended to be unilateral because Bilateral Fistula due to CSOM further developing into SNHL is very rare. And that is why it is B. if it was given Bilateral answer would be D
 ### 35. A male presents to the ENT outpatient department with progressive unilateral nasal obstruction and recurrent episodes of epistaxis. On anterior rhinoscopy, a smooth, purplish-red mass is visualized in the nasal cavity. The mass bleeds profusely upon probing. CT scan showed some bony remodelling. Which is the **least likely** diagnosis?
 
 A. Antrochoanal polyp
@@ -383,7 +383,8 @@ C. Esthesioneuroblastoma (olfactory neuroblastoma)
 D. Inverted papilloma
 
 **Marked on answer sheet:** C
-
+#### Discussion
+Polyp cannot bleed and cannot remodel the bone. These are features of a malignancy.
 ### 36. Identify the X-ray view in the image and pick the correct answer.
 
 ![[images/q36_pns_xray.jpg]]
