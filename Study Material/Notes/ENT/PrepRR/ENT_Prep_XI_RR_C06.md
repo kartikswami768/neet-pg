@@ -1226,9 +1226,9 @@ Transoral Laser microsurgery (TLM)
 > ![[images/chunk06_p187_source_page.jpeg]]
 
 - **Large T3 or T4a with one arytenoid spared** → near-total laryngectomy; remove the entire larynx except the arytenoid not involved in disease.
-- Advanced disease with bilateral arytenoid involvement → total laryngectomy.
-- Stage T3 or T4a with recurrence → total laryngectomy.
-- Patient cannot take chemoradiotherapy (e.g. prior chemoradiation) → total laryngectomy.
+- **Advanced disease with bilateral arytenoid involvement** → total laryngectomy.
+- **Stage T3 or T4a with recurrence** → total laryngectomy.
+- **Patient cannot take chemoradiotherapy** (e.g. prior chemoradiation) → total laryngectomy.
 - Carcinoma of the epiglottis spreading to the pre-epiglottic space:
   - If a small epiglottic lesion just reaches the pre-epiglottic space with no nodal spread → partial laryngectomy.
 
