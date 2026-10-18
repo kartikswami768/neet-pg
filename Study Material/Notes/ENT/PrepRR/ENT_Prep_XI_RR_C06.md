@@ -248,7 +248,7 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
   - Superficial lamina propria
   - Vocal ligament
   - Vocalis muscle
-- Space between the epithelium and superficial lamina propria: Reinke's space.
+- Space between the epithelium and superficial lamina propria **in anterior 2/3rd of VC)** : Reinke's space.
 
 **Functions of the larynx** *(lecture timestamp 00:44:44)*
 
@@ -591,10 +591,10 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 
 #### **Reinke's oedema**
 - Bilateral, symmetrical swelling of the vocal cords.
-- Location: membranous or anterior 2/3 of the vocal cords.
+- Location: membranous or **anterior 2/3 of the vocal cords.**
 - Cause: smoking and GERD.
 - Presents with diplophonia and low-pitched voice.
-- Appears as a bag of water.
+- Appears as a **bag of water**
 
 **Treatment:**
 - Voice rest.

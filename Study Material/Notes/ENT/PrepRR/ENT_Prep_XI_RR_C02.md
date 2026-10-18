@@ -313,9 +313,9 @@ The page's clinical flowchart describes a child with nasal blockage, hearing los
 
 ### Treatment, investigations and medical treatment
 
-| Mucosal type                                                                                               | Squamosal type                                                                                                                                                                             |
-| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Treatment of the primary pathology <br>followed by reconstruction surgery (myringoplasty / tympanoplasty). | Ear surgery depends on disease extent → Surgical removal of Cholesteatoma<br>Followed by reconstruction surgery (myringoplasty / tympanoplasty / *reconstruction of the ossicular chain*). |
+| Mucosal type                                                                                                   | Squamosal type                                                                                                                               |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Treatment of the primary pathology <br>followed by **reconstruction surgery** (myringoplasty / tympanoplasty). | Ear surgery depends on disease extent → Surgical removal of Cholesteatoma<br>Followed by reconstruction surgery (only if Conditions are met) |
 
 | Investigation           | Purpose                                                        |
 | ----------------------- | -------------------------------------------------------------- |
@@ -581,7 +581,7 @@ D. Serous otitis media
 
 Meniere's disease is characterised by:
 
-- Vertigo.
+- Vertigo (for hours)
 - Sensorineural hearing loss.
 - Tinnitus and aural fullness.
 
@@ -692,17 +692,17 @@ next — **intratympanic gentamicin**.
 
 ### Clinical features
 
-- Sudden vertigo lasting a few seconds to minutes.
+- Sudden vertigo lasting < 20 seconds
 - Nystagmus.
 - As the cochlea is not involved, there is no hearing loss or tinnitus.
-
+>Momentoary Vertigo (like 1 or 2 seconds) → psychogenic
 ### Diagnosis and treatment
 
 - **Dix–Hallpike test.**
 - Nystagmus pattern:
-  - Posterior canal: upbeating + torsional.
-  - Lateral canal: horizontal.
-  - Superior canal: downbeating.
+	- Posterior canal: upbeating + torsional.
+	- Lateral canal: horizontal.
+	- Superior canal: downbeating.
 - **Treatment:** Epley manoeuvre (canalith-repositioning manoeuvre) for posterior-canal involvement.
 
 ## Vestibular neuritis and differential diagnosis of vertigo without hearing loss
