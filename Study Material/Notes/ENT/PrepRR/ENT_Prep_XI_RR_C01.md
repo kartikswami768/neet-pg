@@ -776,15 +776,16 @@ Two tests are listed: **Speech Reception Threshold (SRT)** and **Speech Discrimi
 
 ## Otoacoustic emissions (OAE)
 
-- Emissions coming from outer hair cells of the cochlea.
+- Emissions coming from **==outer==** hair cells of the cochlea.
 - **Significance:**
 	- Best audiometric screening
-natal hearing-screening programme.
-- **Uses** (continued on the following page):
+
+
 
 > [!example]- Source page visual (PDF page 22)
 > ![[images/chunk01_p022_source_page.jpeg]]
 
+Neonatal hearing-screening programme.
 - **Differentiate cochlear from retrocochlear pathology.**
 - Early detection of noise-induced hearing loss (NIHL) in high-risk professions (factory, airline).
 - Testing is done in awake babies using a probe in the external auditory canal.
