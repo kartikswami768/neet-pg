@@ -1079,6 +1079,18 @@ D. Sphenoethmoidal recess
 > [!example]- Source page visual — PDF page 128
 > ![[images/chunk04_p128_source_page.jpeg]]
 
+#### X-ray Views for Diagnosis of Sinusitis
+
+| View | Sinuses Best Visualized | Important Point |
+|---|---|---|
+| **Waters' view** (Occipitomental) | Maxillary sinuses | Best for maxillary sinusitis |
+| **Caldwell's view** (Occipitofrontal) | Frontal and anterior ethmoid sinuses | Frontal sinusitis |
+| **Lateral view** | Sphenoid and frontal sinuses | Sphenoid sinusitis; air-fluid level |
+| **Submentovertex (SMV) view** | Sphenoid sinus | Limited diagnostic use |
+
+**X-ray findings of sinusitis:** Mucosal thickening, sinus opacification and air-fluid level.
+
+**Clinical note:** Plain X-rays have limited sensitivity and are not routinely recommended for diagnosing sinusitis. **CT of the paranasal sinuses (PNS)** is preferred when imaging is indicated.
 ## Treatment of sinusitis
 
 ### Acute sinusitis (NEET PG 2022)
