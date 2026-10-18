@@ -1453,7 +1453,7 @@ Behavioural observation audiometry assesses a child's hearing by observing chang
 > ![[images/chunk02_p075_source_page.jpeg]]
 
 ### Cochlear implant diagram; auditory brainstem implant
-
+![[IMG_1309.jpeg]]
 - The source's cochlear-implant diagram labels the external transmitter, microphone/speech processor/battery pack, implanted receiver/stimulator, reference electrode, intracochlear electrodes and electrode array.
 - **Auditory brainstem implant:** used in patients with bilateral acoustic neuroma who have undergone surgery, or when the eighth nerve is absent or dysfunctional (as stated in the source).
 
