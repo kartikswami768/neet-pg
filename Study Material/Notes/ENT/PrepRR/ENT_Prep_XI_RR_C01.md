@@ -714,11 +714,13 @@ Total transformer ratio = areal ratio × lever ratio.
 
 ### Tympanogram interpretation
 
-- **Type A:** ascending and descending curve with a peak at 0; peak occupies approximately half the length of the Y-axis; seen in a normal middle ear.
-- **Type As:** peak at 0 but height is less than half of the Y-axis; seen in otosclerosis.
-- **Type Ad:** peak at or near 0 but very high/open (off the chart); seen in ossicular discontinuity, for example after head injury/trauma.
-- **Type B:** single flat line with no peak; seen with fluid or effusion in the middle ear (OME).
-- **Type C:** curve with peak shifted to negative pressure (−200 to −300 daPa); seen in Eustachian tube dysfunction/negative middle-ear pressure.
+| Type | Tympanogram appearance | Important association |
+|---|---|---|
+| **Type A** | Ascending and descending curve with a peak at 0 daPa; peak occupies approximately half the height of the Y-axis | Normal middle ear |
+| **Type As** | Peak at 0 daPa, but reduced height (shallow peak) | ==Otosclerosis;== reduced tympanic membrane/ossicular mobility |
+| **Type Ad** | Peak at or near 0 daPa, but very high or open (off the chart) | Ossicular discontinuity, e.g., after head injury or trauma |
+| **Type B** | Flat curve with no identifiable peak | Middle-ear effusion (OME); interpret with ear-canal volume to differentiate other causes |
+| **Type C** | Peak shifted toward negative pressure (approximately −200 to −300 daPa) | Eustachian tube dysfunction and negative middle-ear pressure |
 
 ### Stapedial reflex
 
