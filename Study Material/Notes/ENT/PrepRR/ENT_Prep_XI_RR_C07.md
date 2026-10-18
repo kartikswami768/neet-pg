@@ -37,7 +37,7 @@ status: transcribed-and-proofread
 | Intratemporal | IAM → inner ear (labyrinthine segment) → middle ear (tympanic segment) → mastoid            |
 | Extracranial  | Exits the mastoid through the stylomastoid foramen → parotid gland → five terminal branches |
 
-**Facial nerve in the brainstem — facial colliculus**
+#### **Facial nerve in the brainstem — facial colliculus**
 
 - The facial nerve winds around the nucleus of the abducens, forming the facial colliculus, and exits at the cerebellopontine junction.
 - A brainstem lesion is associated in the notes with:
@@ -48,15 +48,13 @@ status: transcribed-and-proofread
 > [!quote]- Original source page (PDF p. 192)
 > ![[images/chunk07_p192_source_page.jpeg]]
 
-### Page 193 — Intracranial course; intratemporal, meatal and labyrinthine segments
-
-**Intracranial course of the facial nerve**
+#### **Intracranial course of the facial nerve**
 
 - Pons → internal auditory meatus.
 - The source illustration labels the longitudinal fracture plane, greater superficial petrosal nerve, carotid artery, cochlea, internal auditory canal, jugular vein, external auditory canal (EAC), geniculate ganglion, facial nerve, labyrinthine segment, perigeniculate region, tympanic segment, vertical segment and related temporal-bone structures.
 - The facial-nerve-lesion diagram lists 15 cases and labels the labyrinthine segment (3), geniculate ganglion (4), tympanic segment (7) and vertical segment (1). The visual layout of the percentages is ambiguous in the source; see the embedded image.
 
-**Intratemporal segment of the facial nerve**
+##### **Intratemporal segment of the facial nerve**
 
 - The intratemporal segment is the longest.
 - It is the only cranial nerve to run most of its course through a bony canal (Fallopian canal).
@@ -68,7 +66,7 @@ status: transcribed-and-proofread
   - Tympanic segment.
   - Mastoid segment.
 
-**Meatal segment**
+##### **Meatal segment**
 
 - Length: 8–10 mm.
 - Seen in the IAM, with the facial nerve travelling with the cochlear nerve.
@@ -77,7 +75,7 @@ status: transcribed-and-proofread
 - Anterosuperior quadrant: facial nerve.
 - Inferior quadrant: cochlear nerve.
 
-**Labyrinthine segment**
+##### **Labyrinthine segment**
 
 - Inner-ear segment.
 - Length 3–4 mm and diameter 0.7 mm; described as the shortest and narrowest segment and therefore prone to ischaemia and oedema in Bell’s palsy.
@@ -88,9 +86,7 @@ status: transcribed-and-proofread
 > [!quote]- Original source page (PDF p. 193)
 > ![[images/chunk07_p193_source_page.jpeg]]
 
-### Page 194 — Tympanic and mastoid segments
-
-**Tympanic segment**
+##### **Tympanic segment**
 
 - Horizontal segment: 11 mm; vertical segment: 13 mm, as stated in the source.
 - From the inner ear, the nerve enters the medial wall of the middle ear, making a turn at the **first genu / geniculate ganglion**.
@@ -99,7 +95,7 @@ status: transcribed-and-proofread
 - It goes to the mastoid to make the second turn, the **second genu**.
   - Landmark: **pyramidal process**.
 
-**Mastoid segment**
+##### **Mastoid segment**
 
 - The nerve runs vertically; this is also called the mastoid segment.
 - Landmark: **tympanomastoid suture**.
@@ -109,9 +105,9 @@ The source diagrams label the facial canal, geniculate ganglion, stapes/oval win
 > [!quote]- Original source page (PDF p. 194)
 > ![[images/chunk07_p194_source_page.jpeg]]
 
-### Page 195 — Extracranial course and subsegments/features table
 
-**Extracranial segment of the facial nerve** *(lecture timestamp 00:10:07)*
+
+#### **Extracranial segment of the facial nerve** *(lecture timestamp 00:10:07)*
 
 - Exits through the stylomastoid foramen.
 - Passes between the superficial and deep lobes of the parotid gland and gives five terminal branches:
@@ -121,7 +117,7 @@ The source diagrams label the facial canal, geniculate ganglion, stapes/oval win
   - Marginal mandibular.
   - Cervical.
 
-**Subsegments and features**
+##### **Subsegments and features**
 
 | Part                          | Special feature                                                                                            | Landmarks                                                                                   | Branches                                                                                                                                                                                                                                                                                                                                                                                         |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -133,9 +129,8 @@ The source diagrams label the facial canal, geniculate ganglion, stapes/oval win
 > [!quote]- Original source page (PDF p. 195)
 > ![[images/chunk07_p195_source_page.jpeg]]
 
-### Page 196 — Branches, topodiagnosis and surgical landmarks
 
-**Branches of the facial nerve** *(lecture timestamp 00:12:46)*
+##### **Branches of the facial nerve** *(lecture timestamp 00:12:46)*
 
 - Greater superficial petrosal nerve (GSPN): lacrimation; assessed by Schirmer’s test.
 - Nerve to stapedius: stapedial reflex.
@@ -144,7 +139,7 @@ The source diagrams label the facial canal, geniculate ganglion, stapes/oval win
 - Branches to submandibular and sublingual glands.
 - Five terminal branches: motor supply to muscles of facial expression.
 
-**Topodiagnosis**
+### **Topodiagnosis**
 
 A. **Lesion above the first genu — suprageniculate lesion**
    - Loss of lacrimation, stapedial reflex and taste from the anterior 2/3 of the tongue; dry mouth and LMN-type facial palsy.
@@ -155,7 +150,7 @@ C. **Lesion at the vertical / mastoid segment**
 D. **Lesion outside the temporal bone**
    - Motor paralysis of the face, along with sparing of all the nerves/branches, as stated in the source.
 
-**Surgical landmarks** *(lecture timestamp 00:16:38)*
+### **Surgical landmarks** *(lecture timestamp 00:16:38)*
 
 - Processus cochleariformis: the geniculate ganglion lies in front of it.
 - Oval window and horizontal canal: the facial nerve lies between them.
@@ -167,7 +162,7 @@ D. **Lesion outside the temporal bone**
 
 ### Page 197 — Bell’s palsy, Melkersson–Rosenthal syndrome and Ramsay Hunt syndrome
 
-**Bell’s palsy** *(lecture timestamp 00:16:59)*
+### **Bell’s palsy** *(lecture timestamp 00:16:59)*
 
 - Idiopathic facial nerve palsy.
 - Peripheral facial lesions are more common than central lesions; about 2/3 of peripheral lesions are Bell’s palsy, according to the source.
@@ -197,20 +192,20 @@ D. **Lesion outside the temporal bone**
 - Surgical management: decompression of the vertical, tympanic, with or without labyrinthine, segments.
 - Prognosis: 90% recover; good recovery is noted in incomplete Bell’s palsy.
 
-**Merkelson Rosenthal Syndrome** *(spelling as printed on page 197)*
+### **Merkelson Rosenthal Syndrome** *(spelling as printed on page 197)*
 
 - Recurrent facial nerve palsy.
 - Swelling of the lips.
 - Fissured tongue.
 
-**Recurrent facial nerve palsy — listed causes**
+### **Recurrent facial nerve palsy — listed causes**
 
 - Melkersson syndrome.
 - Diabetes.
 - Sarcoidosis.
 - Tumours.
 
-**Ramsay Hunt syndrome / herpes zoster oticus**
+### **Ramsay Hunt syndrome / herpes zoster oticus**
 
 - Treatment: acyclovir/valacyclovir plus steroids.
 - Prognosis is poorer than Bell’s palsy.
@@ -218,7 +213,7 @@ D. **Lesion outside the temporal bone**
 > [!quote]- Original source page (PDF p. 197)
 > ![[images/chunk07_p197_source_page.jpeg]]
 
-### Page 198 — Temporal-bone fractures and electrophysiological tests
+### Temporal-bone fractures and electrophysiological tests
 
 **Fractures of the temporal bone** *(lecture timestamp 00:19:38)*
 
@@ -229,7 +224,7 @@ D. **Lesion outside the temporal bone**
 - Sensorineural hearing loss (SNHL): transverse.
 - CSF rhinorrhoea: both longitudinal and transverse.
 
-**Electrophysiological tests** *(lecture timestamp 00:21:30)*
+### **Electrophysiological tests** *(lecture timestamp 00:21:30)*
 
 | Electroneuronography                                                                                                                                            | Electromyography                                                                                                                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -277,16 +272,14 @@ ENoG compares the compound muscle action potential (CMAP) amplitude on the affec
 
 #### B. Electromyography (EMG)
 
-| Finding | Significance |
-|---|---|
-| Normal voluntary motor-unit activity | Preserved innervation |
-| Reduced recruitment | Axonal loss or reduced motor-unit activation |
-| Fibrillation potentials and positive sharp waves | Denervation |
-| Polyphasic motor-unit potentials | May indicate reinnervation |
+| Finding                                          | Significance                                 |
+| ------------------------------------------------ | -------------------------------------------- |
+| Normal voluntary motor-unit activity             | Preserved innervation                        |
+| Reduced recruitment                              | Axonal loss or reduced motor-unit activation |
+| Fibrillation potentials and positive sharp waves | Denervation                                  |
+| Polyphasic motor-unit potentials                 | May indicate reinnervation                   |
 
 Needle EMG is particularly useful after sufficient time has elapsed for denervation changes to appear, often around 10–14 days or later.
-
----
 
 #### 3. Quick Comparison
 
@@ -325,9 +318,9 @@ Needle EMG is particularly useful after sufficient time has elapsed for denervat
 > [!quote]- Original source page (PDF p. 198)
 > ![[images/chunk07_p198_source_page.jpeg]]
 
-### Page 199 — Traumatic facial nerve palsy, syndromes and PYQ
 
-**Important PYQs on traumatic facial nerve palsy**
+
+#### **Important PYQs on traumatic facial nerve palsy**
 
 - Most common iatrogenic cause — parotid surgery.
 - Second most common iatrogenic cause — mastoid surgery.
@@ -340,14 +333,14 @@ Needle EMG is particularly useful after sufficient time has elapsed for denervat
 - Following trauma, sudden-onset palsy management — re-exploration and repair.
 - Aberrant regeneration of the facial nerve can lead to crocodile tears and synkinesis.
 
-**Syndromes associated with the facial nerve**
+##### **Syndromes associated with the facial nerve**
 
 - Millard–Gubler syndrome.
 - Melkerson-Rosenthal syndrome.
 - Heerfordt syndrome.
 - Ramsay Hunt syndrome.
 
-**Faulty innervation**
+##### **Faulty innervation**
 
 - **Crocodile tears:** injury is before the geniculate ganglion; reinnervating fibres anastomose with the chorda tympani (CT) nerve.
 - **Frey’s syndrome:** gustatory sweating; faulty reinnervation with the AT nerve, as stated in the source.
