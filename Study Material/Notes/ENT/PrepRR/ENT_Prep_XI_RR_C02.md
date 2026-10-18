@@ -74,6 +74,30 @@ Two Types
   - **HPE:** Zellballen pattern of cells.
 - **Radiotherapy (RT) and chemotherapy (CT):** Other treatment modalities.
 - **Secretory tumour (~5%):** Alpha-blocker followed by beta-blocker, when indicated.
+- 
+## Tuberculous Otitis Media (TB Middle Ear)
+
+- **Etiology:** *Mycobacterium tuberculosis*; usually secondary to pulmonary TB or spread via the Eustachian tube.
+- **Classical features:**
+	- **Painless otorrhea**
+	- **Multiple** tympanic membrane (TM) **perforations**
+	- **Pale granulation** tissue
+	- Early, severe hearing loss (conductive/mixed)
+	- Facial nerve palsy
+	- Mastoid involvement with bone destruction
+- **Investigations:**
+  - Ear discharge/granulation biopsy: AFB, granulomas ± caseation
+  - CBNAAT/Xpert MTB/RIF: Detects MTB and rifampicin resistance
+  - Mycobacterial culture: Confirmation and drug susceptibility
+  - HRCT temporal bone: Soft tissue with possible bony erosion
+  - Chest X-ray and sputum testing: Assess associated pulmonary TB
+  - **Note:** Negative AFB smear does not exclude TB.
+- **Treatment:**
+  - Standard multidrug anti-TB treatment as per current NTEP guidelines and drug susceptibility
+  - Aural toilet and management of discharge
+  - Surgery only for complications, diagnostic uncertainty, persistent disease, or associated cholesteatoma
+- **Classical exam triad:** Painless otorrhea + multiple TM perforations + facial nerve palsy.
+- **Differentiation from CSOM:** TB classically causes multiple perforations, potentially severe/mixed hearing loss, and facial nerve palsy; CSOM usually has a single perforation and initially conductive hearing loss.
 ## Pathogenesis of middle-ear diseases
 
 All middle-ear diseases occur due to Eustachian tube obstruction.
@@ -358,9 +382,14 @@ The page's clinical flowchart describes a child with nasal blockage, hearing los
 | Hearing loss              | Mild–moderate                                                      | Moderate–severe                                                    |
 | Tegmen tympani erosion    | Rare                                                               | Common                                                             |
 | Intracranial complication | Rare                                                               | Common                                                             |
-| Polyp                     | Pale                                                               | Red, fleshy                                                        |
+| **Polyp**                 | Pale                                                               | Red, fleshy                                                        |
+| Granulation               | No                                                                 | Red                                                                |
 | Tympanosclerosis          | Common                                                             | Rare                                                               |
 | Cholesterol granuloma     | Rare                                                               | Common                                                             |
+
+
+>Pale Granulation is present in case of TB middle ear not Mucosal CSOM
+>Granulation in External Ear is malignant otitis externa
 
 > [!example]- Source page visual — PDF page 47
 > ![[images/chunk02_p047_source_page.jpeg]]
@@ -1029,6 +1058,7 @@ D. Labyrinthitis
 - Purulent discharge.
 - Hearing loss (HOH, as abbreviated in the source).
 - Sometimes fever.
+- Granulation tissue is present
 
 ### Examination
 
