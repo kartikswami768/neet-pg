@@ -912,10 +912,24 @@ The source page includes labelled muscle illustrations for the cricothyroid, thy
 > ![[images/chunk06_p178_source_page.jpeg]]
 
 ## Laryngeal nerve palsies
+### Semon's Law
+1. Recurrent Laryngeal Nerve
+	- Adduction → Central Fibers
+	- Abduction → Peripheral fibers in the nerve
+	- Normally both have equal activiry → cadaveric/normal position of vocal cord
+2. Most of the disease come from outside to inside in the nerve 
+	→ this causes **==partial palsy==**
+	- Only abductors are gone 
+	- **Median Postion** → Dyspnoea with good voice
+	- **==Kashima surgery is done==**
+	→ Later in disease → **==Complete palsy==**
+	- Both are gone
+	- Cricothyroid will act
+		- it is weak adductor → **Paramedian Position** → Hoarseness
 
 ### Page 179 — Unilateral and bilateral recurrent laryngeal nerve palsy
 
-**Unilateral recurrent laryngeal nerve (RLN) palsy** *(lecture timestamp 02:00:00)*
+### **Unilateral recurrent laryngeal nerve (RLN) palsy** *(lecture timestamp 02:00:00)*
 
 *Example: right RLN palsy*
 
