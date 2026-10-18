@@ -332,7 +332,7 @@ D. Adenoid hypertrophy
 	- Endemic in South India.
 	- Transmission: waterborne route (contact with contaminated ponds).
 - Presentation: nasal blockade and bleeding.
-- On examination: red mass with whitish dots on the surface — <strong>“strawberry” mass</strong>.
+- On examination: <u>red hanging mass</u> with whitish dots on the surface — <strong>“strawberry” mass</strong>.
 - CT scan can be done.
 - Treatment: c<u>auterise the base and excise the mass.</u>
 - ==<strong>HPE: shows multiple sporangia with spores inside.</strong>==
