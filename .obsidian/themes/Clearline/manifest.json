@@ -1,8 +1,8 @@
 {
   "name": "Clearline",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "minAppVersion": "1.5.0",
   "author": "Personal",
   "authorUrl": "https://obsidian.md",
-  "description": "An Apple-inspired, spacious Obsidian theme with compact heading rhythm, configurable typography, light/dark modes, and study-media support."
+  "description": "A lightweight, Apple-inspired Obsidian theme with native scrolling, no blur or theme shadows/transitions, responsive study media, and configurable typography."
 }
