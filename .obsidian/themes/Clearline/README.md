@@ -11,16 +11,16 @@ A custom, Apple-inspired Obsidian theme designed around quiet surfaces, crisp sy
 
 The theme contains only `theme.css` and `manifest.json` (plus this README). It does not install plugins, change vault content, fetch remote fonts, or require an internet connection.
 
-## Version 1.0.4 — editor/reading parity and performance
+## Version 1.0.5 — unified typography
 
-- Live Preview heading text now targets the actual CodeMirror `.cm-header-1` through `.cm-header-6` spans as well as their containing heading lines. This corrects the earlier mismatch where styling only the parent line did not override the text span's own font size.
-- Heading sizes, weight, line-height, letter spacing, and section spacing reuse Clearline's shared variables across both modes.
-- The note's inline title receives a consistent typography treatment in editor and reading views.
-- List-line spacing is defined once for Live Preview.
-- Removed superseded duplicate editor-heading CSS rules to keep the stylesheet easier to maintain.
-- Retains the version 1.0.3 performance changes: no backdrop blur, theme-added transitions, positive box shadows, custom scrollbar painting, or dynamic `color-mix()` rules.
+- Replaced overlapping heading declarations with a single H1–H6 scale, using Obsidian-style `--h1-size`, `--h1-weight`, and `--h1-font` variables shared across Reading View and Live Preview.
+- Applied each level's shared font family, size, weight, line height, and letter spacing to both the rendered heading and the CodeMirror heading span.
+- Removed superseded fixed-size editor rules and the duplicate appendix of CSS overrides.
+- Removed the large editor padding stack around headings. Blank Markdown source lines already contribute vertical space; H2 adds only the calculated difference needed to approach Reading View's section spacing.
+- Moved tablet heading-size adjustments to the shared variables so both views respond together.
+- Retained the lightweight rendering changes from 1.0.3: no backdrop blur, theme-added transitions, dynamic `color-mix()`, or custom scrollbar painting.
 
-The editor and reading view will still differ in native editing affordances (for example, fold markers and properties editing). This update aligns typography and spacing; visual verification on the user's iPad is still required.
+This revision is intended to align typography and reduce exaggerated spacing differences. Final visual confirmation still needs to be performed in Obsidian on the target iPad.
 
 ## Design intent
 
