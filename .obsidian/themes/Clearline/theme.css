@@ -1,9 +1,104 @@
 /*
   CLEARLINE — a quiet, typography-first Obsidian theme
-  Version: 1.0.0
+  Version: 1.0.2
   Philosophy: white space, clear hierarchy, soft chrome, full-res study media.
   No external fonts or remote assets are required.
 */
+
+/* @settings
+name: Clearline
+id: clearline-theme
+settings:
+  -
+    id: typography
+    title: Typography
+    type: heading
+    level: 2
+  -
+    id: font-text-size
+    title: Body text size
+    description: Adjust the main note text size.
+    type: variable-number-slider
+    default: 16.5
+    min: 14
+    max: 22
+    step: 0.5
+    format: px
+  -
+    id: line-height-normal
+    title: Body line height
+    description: Increase this for more vertical breathing room.
+    type: variable-number-slider
+    default: 1.65
+    min: 1.35
+    max: 1.9
+    step: 0.05
+  -
+    id: clearline-heading-weight
+    title: Heading weight
+    type: variable-number-slider
+    default: 720
+    min: 600
+    max: 850
+    step: 10
+  -
+    id: clearline-h1-size
+    title: Main heading size
+    type: variable-number-slider
+    default: 2.48
+    min: 1.9
+    max: 2.8
+    step: 0.05
+    format: rem
+  -
+    id: clearline-h2-size
+    title: Section heading size
+    type: variable-number-slider
+    default: 1.72
+    min: 1.4
+    max: 2
+    step: 0.05
+    format: rem
+  -
+    id: clearline-h3-size
+    title: Subsection heading size
+    type: variable-number-slider
+    default: 1.42
+    min: 1.2
+    max: 1.65
+    step: 0.05
+    format: rem
+  -
+    id: clearline-h2-gap-top
+    title: Space before sections
+    description: Reduce this to make folded outlines more compact.
+    type: variable-number-slider
+    default: 1.45
+    min: 0.6
+    max: 2.2
+    step: 0.1
+    format: em
+  -
+    id: clearline-h3-gap-top
+    title: Space before subsections
+    type: variable-number-slider
+    default: 1.25
+    min: 0.5
+    max: 1.8
+    step: 0.1
+    format: em
+  -
+    id: clearline-reading-width
+    title: Desktop reading width
+    description: Maximum note width; tablets and phones still use the available width.
+    type: variable-number-slider
+    default: 78
+    min: 48
+    max: 92
+    step: 2
+    format: rem
+*/
+
 
 /* ──────────────────────────────────────────────────────────────────────────
    1. SHARED DESIGN TOKENS
@@ -21,8 +116,9 @@ body {
   --line-height-normal: 1.65;
   --line-height-tight: 1.32;
 
-  --file-line-width: 78rem;
-  --line-width: 78rem;
+  --clearline-reading-width: 78rem;
+  --file-line-width: var(--clearline-reading-width);
+  --line-width: var(--clearline-reading-width);
   --line-width-wide: 92rem;
   --file-margins: clamp(22px, 4.2vw, 68px);
 
@@ -49,10 +145,16 @@ body {
   --clearline-space-7: 42px;
   --clearline-space-8: 56px;
 
-  --clearline-heading-weight: 760;
+  --clearline-heading-weight: 720;
   --clearline-text-weight: 430;
   --clearline-strong-weight: 680;
   --clearline-media-radius: 5px;
+
+  --clearline-h1-size: 2.48rem;
+  --clearline-h2-size: 1.72rem;
+  --clearline-h3-size: 1.42rem;
+  --clearline-h2-gap-top: 1.45em;
+  --clearline-h3-gap-top: 1.25em;
 
   --titlebar-height: 38px;
   --header-height: 42px;
@@ -503,7 +605,7 @@ input.prompt-input {
   line-height: 1.72;
 }
 .markdown-rendered p {
-  margin-block: 0.85em 1.05em;
+  margin-block: 0.7em 0.85em;
 }
 .markdown-rendered p:last-child {
   margin-bottom: 0;
@@ -533,29 +635,29 @@ input.prompt-input {
   scroll-margin-top: 84px;
 }
 .markdown-rendered h1 {
-  font-size: clamp(2rem, 3.3vw, 2.65rem);
-  letter-spacing: -0.045em;
-  margin: 0.1em 0 0.7em;
+  font-size: clamp(1.85rem, 3.15vw, var(--clearline-h1-size));
+  letter-spacing: -0.03em;
+  margin: 0.1em 0 0.62em;
 }
 .markdown-rendered h2 {
-  font-size: clamp(1.55rem, 2.25vw, 1.95rem);
-  margin: 2.25em 0 0.72em;
-  padding-top: 0.12em;
+  font-size: clamp(1.42rem, 2.2vw, var(--clearline-h2-size));
+  margin: var(--clearline-h2-gap-top) 0 0.58em;
+  padding-top: 0.08em;
 }
 .markdown-rendered h3 {
-  font-size: clamp(1.25rem, 1.7vw, 1.48rem);
-  margin: 1.8em 0 0.62em;
-  letter-spacing: -0.027em;
+  font-size: clamp(1.2rem, 1.75vw, var(--clearline-h3-size));
+  margin: var(--clearline-h3-gap-top) 0 0.5em;
+  letter-spacing: -0.02em;
 }
 .markdown-rendered h4 {
   font-size: 1.11rem;
-  margin: 1.55em 0 0.5em;
+  margin: 1.2em 0 0.45em;
   letter-spacing: -0.018em;
 }
 .markdown-rendered h5,
 .markdown-rendered h6 {
   font-size: 0.98rem;
-  margin: 1.4em 0 0.45em;
+  margin: 1.05em 0 0.4em;
   letter-spacing: -0.01em;
 }
 .markdown-rendered h1 + p,
@@ -796,7 +898,7 @@ input.prompt-input {
   padding: 0.04em 0.16em;
 }
 .markdown-rendered .callout {
-  margin: 1.4em 0 1.7em;
+  margin: 1em 0 1.2em;
   border: 1px solid var(--background-modifier-border);
   border-left: 3px solid var(--callout-color, var(--interactive-accent));
   border-radius: var(--radius-m);
@@ -806,8 +908,8 @@ input.prompt-input {
 }
 .markdown-rendered .callout-title {
   gap: 8px;
-  padding: 11px 15px 3px;
-  font-size: 0.94em;
+  padding: 9px 13px 4px;
+  font-size: 0.92em;
   font-weight: 680;
 }
 .markdown-rendered .callout-icon {
@@ -819,6 +921,15 @@ input.prompt-input {
 }
 .markdown-rendered .callout-content p:last-child {
   margin-bottom: 0;
+}
+
+/* Folded source-page callouts should read like compact disclosure rows. */
+.markdown-rendered .callout.is-collapsed {
+  margin-block: 0.75em 0.95em;
+  background: var(--background-primary-alt);
+}
+.markdown-rendered .callout.is-collapsed .callout-title {
+  padding: 8px 13px;
 }
 
 /* ──────────────────────────────────────────────────────────────────────────
