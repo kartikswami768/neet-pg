@@ -11,9 +11,9 @@ A custom, Apple-inspired Obsidian theme designed around quiet surfaces, crisp sy
 
 The theme contains only `theme.css` and `manifest.json` (plus this README). It does not install plugins, change vault content, fetch remote fonts, or require an internet connection.
 
-## Version 1.0.1
+## Version 1.0.2
 
-Fixes CodeMirror editor sizing on iPad and other narrow panes. The maximum reading width is now applied to the editor sizing layer rather than the measured content container, preventing the one-character-per-line collapse shown in the iPad screenshots. Preview-view margins remain unchanged, and both editor and reading view keep responsive widths.
+Fixes CodeMirror editor sizing on iPad and other narrow panes. The maximum reading width is applied to the editor sizing layer rather than the measured content container, preventing the one-character-per-line collapse shown in the iPad screenshots. This update also reduces oversized gaps between headings, refines collapsed source-page callouts, and adds Style Settings controls for body size, line height, heading scale/weight, section spacing, and desktop reading width.
 
 ## Design intent
 
