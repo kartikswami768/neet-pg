@@ -1,0 +1,225 @@
+/*
+Minimalist's Paradise — Editorial Study Notes
+Designed to approximate the supplied Obsidian screenshots:
+- heavy, tightly tracked sans-serif headings
+- generous side margins with a broad reading area
+- comfortable body text and nested-list spacing
+- plain, near-black headings in light mode
+
+Install as a CSS snippet; do not replace the theme's theme.css.
+Font note: Inter is used if installed; Apple system fonts are the fallback.
+*/
+
+/* ---------- Typography defaults ---------- */
+body {
+  --font-text: "Inter", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+  --font-interface: "Inter", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+  --font-text-size: 18px;
+  --line-height-normal: 1.52;
+  --line-height-tight: 1.18;
+
+  /* Obsidian heading variables, for theme components that use them */
+  --h1-size: 2.2em;
+  --h2-size: 1.72em;
+  --h3-size: 1.36em;
+  --h4-size: 1.16em;
+  --h5-size: 1.04em;
+  --h6-size: 1em;
+  --h1-weight: 850;
+  --h2-weight: 820;
+  --h3-weight: 800;
+  --h4-weight: 750;
+  --h5-weight: 700;
+  --h6-weight: 700;
+}
+
+/* ---------- Broad page with editorial margins: Reading View ---------- */
+.markdown-preview-view .markdown-preview-sizer,
+.markdown-reading-view .markdown-preview-sizer,
+.markdown-preview-sizer {
+  width: 100% !important;
+  max-width: none !important;
+  margin-inline: auto !important;
+  padding-left: clamp(24px, 8vw, 120px) !important;
+  padding-right: clamp(24px, 8vw, 120px) !important;
+  box-sizing: border-box !important;
+}
+
+/* ---------- Broad page with matching margins: Live Preview / Editor ---------- */
+.markdown-source-view.mod-cm6 .cm-contentContainer {
+  width: 100% !important;
+  max-width: none !important;
+  margin-inline: auto !important;
+  box-sizing: border-box !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-content {
+  width: 100% !important;
+  max-width: none !important;
+  padding-left: clamp(24px, 8vw, 120px) !important;
+  padding-right: clamp(24px, 8vw, 120px) !important;
+  box-sizing: border-box !important;
+}
+
+/* ---------- File title ---------- */
+.inline-title {
+  font-family: var(--font-text) !important;
+  font-size: clamp(2rem, 3.2vw, 2.55rem) !important;
+  font-weight: 850 !important;
+  line-height: 1.12 !important;
+  letter-spacing: -0.045em !important;
+  color: var(--text-normal) !important;
+  margin-bottom: 1.05em !important;
+}
+
+/* ---------- Reading View headings ---------- */
+.markdown-rendered h1,
+.markdown-preview-view h1 {
+  font-size: var(--h1-size) !important;
+  font-weight: var(--h1-weight) !important;
+  line-height: 1.12 !important;
+  letter-spacing: -0.045em !important;
+  color: var(--text-normal) !important;
+  margin-top: 1.15em !important;
+  margin-bottom: 0.55em !important;
+  border-bottom: none !important;
+}
+
+.markdown-rendered h2,
+.markdown-preview-view h2 {
+  font-size: var(--h2-size) !important;
+  font-weight: var(--h2-weight) !important;
+  line-height: 1.17 !important;
+  letter-spacing: -0.035em !important;
+  color: var(--text-normal) !important;
+  margin-top: 1.35em !important;
+  margin-bottom: 0.55em !important;
+}
+
+.markdown-rendered h3,
+.markdown-preview-view h3 {
+  font-size: var(--h3-size) !important;
+  font-weight: var(--h3-weight) !important;
+  line-height: 1.22 !important;
+  letter-spacing: -0.025em !important;
+  color: var(--text-normal) !important;
+  margin-top: 1.2em !important;
+  margin-bottom: 0.5em !important;
+}
+
+.markdown-rendered h4,
+.markdown-preview-view h4 {
+  font-size: var(--h4-size) !important;
+  font-weight: var(--h4-weight) !important;
+  line-height: 1.25 !important;
+  letter-spacing: -0.015em !important;
+  color: var(--text-normal) !important;
+}
+
+.markdown-rendered h5,
+.markdown-preview-view h5,
+.markdown-rendered h6,
+.markdown-preview-view h6 {
+  color: var(--text-normal) !important;
+  letter-spacing: -0.01em !important;
+}
+
+/* ---------- Live Preview heading lines and heading text ---------- */
+.markdown-source-view.mod-cm6 .HyperMD-header-1,
+.markdown-source-view.mod-cm6 .cm-header-1 {
+  font-size: var(--h1-size) !important;
+  font-weight: var(--h1-weight) !important;
+  line-height: 1.12 !important;
+  letter-spacing: -0.045em !important;
+  color: var(--text-normal) !important;
+}
+
+.markdown-source-view.mod-cm6 .HyperMD-header-2,
+.markdown-source-view.mod-cm6 .cm-header-2 {
+  font-size: var(--h2-size) !important;
+  font-weight: var(--h2-weight) !important;
+  line-height: 1.17 !important;
+  letter-spacing: -0.035em !important;
+  color: var(--text-normal) !important;
+}
+
+.markdown-source-view.mod-cm6 .HyperMD-header-3,
+.markdown-source-view.mod-cm6 .cm-header-3 {
+  font-size: var(--h3-size) !important;
+  font-weight: var(--h3-weight) !important;
+  line-height: 1.22 !important;
+  letter-spacing: -0.025em !important;
+  color: var(--text-normal) !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-header-4 {
+  font-size: var(--h4-size) !important;
+  font-weight: var(--h4-weight) !important;
+  letter-spacing: -0.015em !important;
+  color: var(--text-normal) !important;
+}
+
+/* Remove the theme's H1 underline/divider for the cleaner screenshot look. */
+.markdown-preview-view h1,
+.markdown-source-view.is-live-preview .HyperMD-header.HyperMD-header-1.cm-line {
+  border-bottom: none !important;
+}
+
+/* ---------- Body text, lists, and emphasis ---------- */
+.markdown-rendered,
+.markdown-source-view.mod-cm6 .cm-content {
+  font-family: var(--font-text) !important;
+  font-size: var(--font-text-size) !important;
+  line-height: var(--line-height-normal) !important;
+}
+
+.markdown-rendered p {
+  line-height: var(--line-height-normal) !important;
+  margin-block: 0.62em !important;
+}
+
+.markdown-rendered ul,
+.markdown-rendered ol {
+  padding-inline-start: 1.7em !important;
+  margin-block: 0.45em !important;
+}
+
+.markdown-rendered li {
+  margin-block: 0.22em !important;
+  line-height: var(--line-height-normal) !important;
+}
+
+.markdown-rendered li > ul,
+.markdown-rendered li > ol {
+  margin-top: 0.2em !important;
+  margin-bottom: 0.35em !important;
+}
+
+.markdown-rendered strong,
+.markdown-source-view.mod-cm6 .cm-strong {
+  font-weight: 800 !important;
+}
+
+/* Keep blockquotes subtle and readable. */
+.markdown-rendered blockquote {
+  line-height: 1.48 !important;
+  padding-left: 0.8em !important;
+}
+
+/* Slightly reduce margins on smaller screens while preserving the wide-page feel. */
+@media (max-width: 700px) {
+  .markdown-preview-view .markdown-preview-sizer,
+  .markdown-reading-view .markdown-preview-sizer,
+  .markdown-preview-sizer,
+  .markdown-source-view.mod-cm6 .cm-content {
+    padding-left: 22px !important;
+    padding-right: 22px !important;
+  }
+
+  body {
+    --font-text-size: 17px;
+    --h1-size: 2em;
+    --h2-size: 1.58em;
+    --h3-size: 1.28em;
+  }
+}
