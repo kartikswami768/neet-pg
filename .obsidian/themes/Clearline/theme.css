@@ -1204,3 +1204,29 @@ a.tag:hover {
 .is-mobile .modal {
   border-radius: var(--radius-l);
 }
+
+/* Live Preview / Reading View parity: match heading scale and breathing room. */
+.markdown-source-view.mod-cm6 .HyperMD-header-1 {
+  font-size: clamp(1.85rem, 3.15vw, var(--clearline-h1-size));
+  line-height: 1.17;
+  padding-block: 0.1em 0.62em;
+}
+.markdown-source-view.mod-cm6 .HyperMD-header-2 {
+  font-size: clamp(1.42rem, 2.2vw, var(--clearline-h2-size));
+  line-height: 1.17;
+  padding-block: var(--clearline-h2-gap-top) 0.58em;
+}
+.markdown-source-view.mod-cm6 .HyperMD-header-3 {
+  font-size: clamp(1.2rem, 1.75vw, var(--clearline-h3-size));
+  line-height: 1.17;
+  padding-block: var(--clearline-h3-gap-top) 0.5em;
+}
+.markdown-source-view.mod-cm6 .HyperMD-header-4 {
+  font-size: 1.11rem;
+  padding-block: 1.2em 0.45em;
+}
+.markdown-source-view.mod-cm6 .HyperMD-header-5,
+.markdown-source-view.mod-cm6 .HyperMD-header-6 {
+  font-size: 0.98rem;
+  padding-block: 1.05em 0.4em;
+}
