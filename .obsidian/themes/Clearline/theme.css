@@ -1230,3 +1230,9 @@ a.tag:hover {
   font-size: 0.98rem;
   padding-block: 1.05em 0.4em;
 }
+
+.markdown-source-view.mod-cm6 .HyperMD-list-line {
+  line-height: 1.64;
+  padding-top: 0.12em;
+  padding-bottom: 0.12em;
+}
