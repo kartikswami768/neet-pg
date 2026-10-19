@@ -58,16 +58,16 @@ Gibbs and Donnan formulated mathematical equations to describe this phenomenon:
 
 1. Total positive charges in each compartment equal total negative charges in that compartment:
 
-   \[
+   $$
    [\text{Total}^+]_A=[\text{Total}^-]_A,\qquad
    [\text{Total}^+]_B=[\text{Total}^-]_B
-   \]
+   $$
 
 2. Considering only permeant ions and neglecting protein:
 
-   \[
+   $$
    [\mathrm{Na}^+]_A\,[\mathrm{Cl}^-]_A=[\mathrm{Na}^+]_B\,[\mathrm{Cl}^-]_B
-   \]
+   $$
 
 3. After equilibrium, the total number of ions in the two compartments is not equal; the source states **osmotic pressure A ≫ osmotic pressure B**.
 
@@ -96,19 +96,19 @@ The source also states that ICF and ECF are electroneutral.
 
 **Aim:** calculate the equilibrium potential of an ion.
 
-\[
+$$
 E_X=\frac{RT}{zF}\ln\!\left(\frac{[X]_{\mathrm{outside}}}{[X]_{\mathrm{inside}}}\right)
-\]
+$$
 
-\[
+$$
 E_X=\frac{2.3RT}{zF}\log_{10}\!\left(\frac{[X]_{\mathrm{outside}}}{[X]_{\mathrm{inside}}}\right)
-\]
+$$
 
 The simplified version given for 37°C is:
 
-\[
+$$
 E_X=\frac{61\ \mathrm{mV}}{z}\log_{10}\!\left(\frac{[X]_{\mathrm{outside}}}{[X]_{\mathrm{inside}}}\right)
-\]
+$$
 
 - \(X\): concentration of the ion inside and outside.
 - \(RT/F\): constant, given as 26.7 mV at 37°C.
@@ -121,18 +121,18 @@ E_X=\frac{61\ \mathrm{mV}}{z}\log_{10}\!\left(\frac{[X]_{\mathrm{outside}}}{[X]_
 - Inside concentration: 140 mEq/L.
 - Outside concentration: 14 mEq/L.
 
-\[
+$$
 E_K=\frac{+61}{+1}\log_{10}(14/140)=-61\ \mathrm{mV}
-\]
+$$
 
 **Example 2 — Cl⁻**
 
 - Inside concentration: 11 mEq/L.
 - Outside concentration: 110 mEq/L.
 
-\[
+$$
 E_{Cl}=\frac{+61}{-1}\log_{10}(110/11)=-61\ \mathrm{mV}
-\]
+$$
 
 ## Equilibrium potentials of ions in normal mammalian cells
 
@@ -159,12 +159,12 @@ Calculated using the Nernst equation at 37°C.
 
 **Aim:** calculate RMP when the cell membrane is permeable to more than one ion. The source says the Nernst equation cannot be used when the membrane is permeable to more than one ion.
 
-\[
+$$
 V_m=\frac{RT}{F}\ln\!\left(
 \frac{P_K[K^+]_o+P_{Na}[Na^+]_o+P_{Cl}[Cl^-]_i}
 {P_K[K^+]_i+P_{Na}[Na^+]_i+P_{Cl}[Cl^-]_o}
 \right)
-\]
+$$
 
 - \(V_m\): membrane voltage/RMP.
 - \(RT/F\): constant.
