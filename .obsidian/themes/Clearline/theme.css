@@ -206,7 +206,7 @@ body {
   --background-modifier-border-hover: #c8c8c3;
   --background-modifier-form-field: #f8f8f6;
   --background-modifier-form-field-highlighted: #ffffff;
-  --background-modifier-box-shadow: rgba(0, 0, 0, 0.055);
+  --background-modifier-box-shadow: transparent;
   --background-modifier-success: #e8f2e9;
   --background-modifier-error: #f8e9e8;
   --background-modifier-error-hover: #f3dddb;
@@ -291,7 +291,7 @@ body {
   --background-modifier-border-hover: #4a4b46;
   --background-modifier-form-field: #222322;
   --background-modifier-form-field-highlighted: #282927;
-  --background-modifier-box-shadow: rgba(0, 0, 0, 0.2);
+  --background-modifier-box-shadow: transparent;
   --background-modifier-success: #26362b;
   --background-modifier-error: #402927;
   --background-modifier-error-hover: #52332f;
@@ -642,7 +642,6 @@ input.prompt-input {
   font-weight: var(--clearline-heading-weight);
   line-height: 1.17;
   letter-spacing: -0.035em;
-  text-wrap: pretty;
   scroll-margin-top: 84px;
 }
 .markdown-rendered h1 {
@@ -745,13 +744,11 @@ input.prompt-input {
 }
 .markdown-rendered .image-embed,
 .markdown-rendered .internal-embed.image-embed {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: block;
   max-width: 100%;
   margin: 1.55em auto 1.8em;
-  overflow: visible;
   background: transparent;
+  text-align: center;
 }
 .markdown-rendered .image-embed img,
 .markdown-rendered .internal-embed.image-embed img {
