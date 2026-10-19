@@ -1236,3 +1236,81 @@ a.tag:hover {
   padding-top: 0.12em;
   padding-bottom: 0.12em;
 }
+
+
+/* ── Cross-mode typography correction ──────────────────────────────────────
+   In Live Preview, CodeMirror renders heading text inside .cm-header-N spans.
+   Styling only the parent HyperMD-header line does not override those spans'
+   own font sizes, so target both layers to match Reading View.
+*/
+.markdown-source-view.mod-cm6 .HyperMD-header-1,
+.markdown-source-view.mod-cm6 .cm-header-1 {
+  font-size: clamp(1.85rem, 3.15vw, var(--clearline-h1-size)) !important;
+  font-weight: var(--clearline-heading-weight) !important;
+  line-height: 1.17 !important;
+  letter-spacing: -0.03em !important;
+}
+.markdown-source-view.mod-cm6 .HyperMD-header-2,
+.markdown-source-view.mod-cm6 .cm-header-2 {
+  font-size: clamp(1.42rem, 2.2vw, var(--clearline-h2-size)) !important;
+  font-weight: var(--clearline-heading-weight) !important;
+  line-height: 1.17 !important;
+  letter-spacing: -0.035em !important;
+}
+.markdown-source-view.mod-cm6 .HyperMD-header-3,
+.markdown-source-view.mod-cm6 .cm-header-3 {
+  font-size: clamp(1.2rem, 1.75vw, var(--clearline-h3-size)) !important;
+  font-weight: var(--clearline-heading-weight) !important;
+  line-height: 1.17 !important;
+  letter-spacing: -0.02em !important;
+}
+.markdown-source-view.mod-cm6 .HyperMD-header-4,
+.markdown-source-view.mod-cm6 .cm-header-4 {
+  font-size: 1.11rem !important;
+  font-weight: var(--clearline-heading-weight) !important;
+  line-height: 1.2 !important;
+  letter-spacing: -0.018em !important;
+}
+.markdown-source-view.mod-cm6 .HyperMD-header-5,
+.markdown-source-view.mod-cm6 .cm-header-5,
+.markdown-source-view.mod-cm6 .HyperMD-header-6,
+.markdown-source-view.mod-cm6 .cm-header-6 {
+  font-size: 0.98rem !important;
+  font-weight: var(--clearline-heading-weight) !important;
+  line-height: 1.2 !important;
+  letter-spacing: -0.01em !important;
+}
+
+/* Match Reading View's title treatment in both edit and preview modes. */
+.inline-title {
+  color: var(--text-normal);
+  font-family: var(--font-text-theme);
+  font-size: clamp(1.8rem, 2.5vw, 2.1rem);
+  font-weight: 650;
+  line-height: 1.2;
+  letter-spacing: -0.025em;
+  margin: 0 0 0.65em;
+}
+
+/* Use the rendered-view vertical rhythm on Live Preview heading lines. */
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-header-1 {
+  padding-top: 0.1em !important;
+  padding-bottom: 0.62em !important;
+}
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-header-2 {
+  padding-top: var(--clearline-h2-gap-top) !important;
+  padding-bottom: 0.58em !important;
+}
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-header-3 {
+  padding-top: var(--clearline-h3-gap-top) !important;
+  padding-bottom: 0.5em !important;
+}
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-header-4 {
+  padding-top: 1.2em !important;
+  padding-bottom: 0.45em !important;
+}
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-header-5,
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-header-6 {
+  padding-top: 1.05em !important;
+  padding-bottom: 0.4em !important;
+}
