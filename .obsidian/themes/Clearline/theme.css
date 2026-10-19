@@ -453,20 +453,36 @@ input.prompt-input {
   text-rendering: optimizeLegibility;
 }
 
-.markdown-preview-view .markdown-preview-sizer,
-.markdown-source-view.mod-cm6 .cm-contentContainer {
+.markdown-preview-view .markdown-preview-sizer {
+  width: 100%;
   max-width: var(--file-line-width);
   margin-inline: auto;
-}
-.markdown-preview-view .markdown-preview-sizer {
   padding: 42px var(--file-margins) 96px;
+  box-sizing: border-box;
 }
-.markdown-source-view.mod-cm6 .cm-content {
-  padding-top: 38px;
-  padding-bottom: 90px;
+
+/*
+  Keep the CodeMirror sizing layer full-width. Constraining .cm-contentContainer
+  directly can collapse the editor's measured width on iPad/mobile, wrapping
+  each character onto its own line. Apply the reading width to .cm-sizer instead.
+*/
+.markdown-source-view.mod-cm6 .cm-sizer {
+  width: 100%;
+  max-width: var(--file-line-width);
+  margin-inline: auto;
+  box-sizing: border-box;
 }
 .markdown-source-view.mod-cm6 .cm-contentContainer {
+  width: 100%;
+  max-width: none;
+  margin: 0;
   padding-inline: var(--file-margins);
+  box-sizing: border-box;
+}
+.markdown-source-view.mod-cm6 .cm-content {
+  box-sizing: border-box;
+  padding-top: 38px;
+  padding-bottom: 90px;
 }
 .markdown-source-view.mod-cm6 .cm-line {
   padding-inline: 0;
