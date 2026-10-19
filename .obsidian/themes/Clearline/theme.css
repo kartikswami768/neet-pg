@@ -1278,3 +1278,15 @@ a.tag:hover {
   padding-top: 0.12em;
   padding-bottom: 0.12em;
 }
+
+/* Preserve the same responsive heading scale used by Reading View on tablets. */
+@media (max-width: 900px) {
+  .markdown-source-view.mod-cm6 .HyperMD-header-1,
+  .markdown-source-view.mod-cm6 .cm-header-1 {
+    font-size: clamp(1.9rem, 5vw, 2.4rem) !important;
+  }
+  .markdown-source-view.mod-cm6 .HyperMD-header-2,
+  .markdown-source-view.mod-cm6 .cm-header-2 {
+    font-size: clamp(1.5rem, 4vw, 1.8rem) !important;
+  }
+}
