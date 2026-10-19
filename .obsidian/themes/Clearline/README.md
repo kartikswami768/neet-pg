@@ -11,18 +11,16 @@ A custom, Apple-inspired Obsidian theme designed around quiet surfaces, crisp sy
 
 The theme contains only `theme.css` and `manifest.json` (plus this README). It does not install plugins, change vault content, fetch remote fonts, or require an internet connection.
 
-## Version 1.0.3 — performance pass
+## Version 1.0.4 — editor/reading parity and performance
 
-- Removed backdrop blur, theme-added shadows, hover transitions, and custom WebKit scrollbar painting.
-- Returned text rendering to the platform's native defaults.
-- Replaced dynamic `color-mix()` values with fixed light/dark tokens.
-- Simplified standard image-embed wrappers from flex layout to block layout, while retaining image sizing and centering.
-- Restricted the `70vh` minimum height to PDF embeds rather than applying it to every iframe/video embed.
-- Removed an advanced heading-wrap rule and fixed the mobile section-gap override.
-- Kept the reduced-motion accessibility override.
-- The stylesheet is now approximately 32 KB. CSS file size itself was not the main performance issue; the changes above mainly remove paint/compositing effects and unnecessary layout work.
+- Live Preview heading text now targets the actual CodeMirror `.cm-header-1` through `.cm-header-6` spans as well as their containing heading lines. This corrects the earlier mismatch where styling only the parent line did not override the text span's own font size.
+- Heading sizes, weight, line-height, letter spacing, and section spacing reuse Clearline's shared variables across both modes.
+- The note's inline title receives a consistent typography treatment in editor and reading views.
+- List-line spacing is defined once for Live Preview.
+- Removed superseded duplicate editor-heading CSS rules to keep the stylesheet easier to maintain.
+- Retains the version 1.0.3 performance changes: no backdrop blur, theme-added transitions, positive box shadows, custom scrollbar painting, or dynamic `color-mix()` rules.
 
-The scroll-flash issue cannot be confirmed as fixed from CSS inspection alone. If it persists, compare the same note while using Obsidian's Default theme with CSS snippets disabled; that isolates theme styling from Obsidian/iPad rendering behaviour.
+The editor and reading view will still differ in native editing affordances (for example, fold markers and properties editing). This update aligns typography and spacing; visual verification on the user's iPad is still required.
 
 ## Design intent
 
