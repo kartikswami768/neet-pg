@@ -11,6 +11,10 @@ A custom, Apple-inspired Obsidian theme designed around quiet surfaces, crisp sy
 
 The theme contains only `theme.css` and `manifest.json` (plus this README). It does not install plugins, change vault content, fetch remote fonts, or require an internet connection.
 
+## Version 1.0.1
+
+Fixes CodeMirror editor sizing on iPad and other narrow panes. The maximum reading width is now applied to the editor sizing layer rather than the measured content container, preventing the one-character-per-line collapse shown in the iPad screenshots. Preview-view margins remain unchanged, and both editor and reading view keep responsive widths.
+
 ## Design intent
 
 - Near-white light mode and soft-charcoal dark mode.
