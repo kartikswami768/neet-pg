@@ -1179,7 +1179,6 @@ a.tag:hover {
     overflow-x: auto;
     white-space: normal;
   }
-  .markdown-rendered iframe,
   .markdown-rendered .pdf-embed,
   .markdown-rendered .internal-embed[src$=".pdf"] {
     min-height: 58vh;
