@@ -22,11 +22,11 @@ A nerve consists of bundles of nerve fibres (neurons/axons), called **fascicles*
 
 ### Blood-neuron barrier and blood-brain barrier
 
-| Blood-neuron barrier | Blood-brain barrier (BBB) |
-|---|---|
-| **Function:** protects neurons from toxins and blood products. | Formed by endothelial cells of brain capillaries. |
-| Formed by the perineurium. | Continuous brain capillaries have endothelial gaps of less than 2 nm bridged by tight junctions, forming a continuous barrier. |
-| Connective-tissue cells of the perineurium, with tight junctions, form a continuous blood-neuron barrier. | The source states that the BBB is **not formed by astrocytes**. Astrocytes regulate BBB permeability. |
+| Blood-neuron barrier                                                                                      | Blood-brain barrier (BBB)                                                                                                      |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Function:** protects neurons from toxins and blood products.                                            | Formed by endothelial cells of brain capillaries.                                                                              |
+| Formed by the perineurium and endothelium                                                                 | Continuous brain capillaries have endothelial gaps of less than 2 nm bridged by tight junctions, forming a continuous barrier. |
+| Connective-tissue cells of the perineurium, with tight junctions, form a continuous blood-neuron barrier. | BBB is **not formed by astrocytes**. Astrocytes regulate BBB permeability.                                                     |
 
 ![[images/ch05_p032_blood_neuron_barrier.png]]
 
