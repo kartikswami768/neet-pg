@@ -48,31 +48,31 @@ The embedded views below use the default TaskNotes Bases files.
 
 ### Task list
 
-![[tasks-default.base]]
+![[00_Strategy/Views/tasks-default.base]]
 
 Use this when you want a straightforward list of everything open.
 
 ### Agenda
 
-![[agenda-default.base]]
+![[00_Strategy/Views/agenda-default.base]]
 
 Use this when you care about due dates, scheduled dates, and what needs attention soon.
 
 ### Mini calendar
 
-![[mini-calendar-default.base]]
+![[00_Strategy/Views/mini-calendar-default.base]]
 
 Use this when you want a compact calendar alongside your notes.
 
 ### Calendar
 
-![[calendar-default.base]]
+![[00_Strategy/Views/calendar-default.base]]
 
 Use this when you want a larger calendar for scheduled work, due dates, timeblocks, and calendar events.
 
 ### Kanban
 
-![[kanban-default.base]]
+![[00_Strategy/Views/kanban-default.base]]
 
 Use this when you want to move work through statuses like open, in progress, and done.
 
