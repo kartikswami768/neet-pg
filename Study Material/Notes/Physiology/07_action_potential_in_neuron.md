@@ -56,7 +56,6 @@ tags:
 - **Length constant (λ):** distance at which a local potential is reduced to 37% of its original voltage.
 - **Time constant (τ):** time at which a local potential is reduced to 37% of its original voltage.
 
-![[images/ch07_p044_action_potential_plot.png]]
 
 ## Summation of local potential
 
