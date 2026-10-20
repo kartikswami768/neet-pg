@@ -44,14 +44,14 @@ tags:
 
 ## Local potential and action potential
 
-| Feature | Local potential | Action potential |
-|---|---|---|
-| Propagation | Non-propagated | Propagated |
-| Amplitude | Depends on stimulus strength | Does not depend on stimulus strength once generated |
-| Change with distance/time | Decremental: decreases with length and time | Non-decremental |
-| All-or-none law | Does not follow | Follows the “all or none” law |
-| Summation | Has summation property | No summation property |
-| Threshold response | — | When a local potential reaches −55 mV, an action potential is generated and membrane potential rises to +35 mV. Increasing stimulation strength after the AP is generated does not affect its amplitude. |
+| Feature                   | Local potential                             | Action potential                                                                                                                                                                                         |
+| ------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Propagation               | Non-propagated                              | Propagated                                                                                                                                                                                               |
+| Amplitude                 | Depends on stimulus strength                | Does not depend on stimulus strength once generated                                                                                                                                                      |
+| Change with distance/time | Decremental: decreases with length and time | Non-decremental                                                                                                                                                                                          |
+| All-or-none law           | Does not follow                             | Follows the “all or none” law                                                                                                                                                                            |
+| Summation                 | Has summation property                      | No summation property                                                                                                                                                                                    |
+| Threshold response        | —                                           | When a local potential reaches −55 mV, an action potential is generated and membrane potential rises to +35 mV. Increasing stimulation strength after the AP is generated does not affect its amplitude. |
 
 - **Length constant (λ):** distance at which a local potential is reduced to 37% of its original voltage.
 - **Time constant (τ):** time at which a local potential is reduced to 37% of its original voltage.
