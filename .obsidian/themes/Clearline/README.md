@@ -11,16 +11,14 @@ A custom, Apple-inspired Obsidian theme designed around quiet surfaces, crisp sy
 
 The theme contains only `theme.css` and `manifest.json` (plus this README). It does not install plugins, change vault content, fetch remote fonts, or require an internet connection.
 
-## Version 1.0.5 — unified typography
+## Version 1.0.6 — remove scroll and motion overrides
 
-- Replaced overlapping heading declarations with a single H1–H6 scale, using Obsidian-style `--h1-size`, `--h1-weight`, and `--h1-font` variables shared across Reading View and Live Preview.
-- Applied each level's shared font family, size, weight, line height, and letter spacing to both the rendered heading and the CodeMirror heading span.
-- Removed superseded fixed-size editor rules and the duplicate appendix of CSS overrides.
-- Removed the large editor padding stack around headings. Blank Markdown source lines already contribute vertical space; H2 adds only the calculated difference needed to approach Reading View's section spacing.
-- Moved tablet heading-size adjustments to the shared variables so both views respond together.
-- Retained the lightweight rendering changes from 1.0.3: no backdrop blur, theme-added transitions, dynamic `color-mix()`, or custom scrollbar painting.
+- Removed the `prefers-reduced-motion` block that forced `scroll-behavior: auto` and shortened animation/transition durations.
+- Removed all other theme declarations related to scrolling: heading `scroll-margin-top` and the light/dark scrollbar colour variables.
+- Confirmed that no CSS declarations for `scroll-behavior`, `scroll-margin`, scrollbar variables, animation, or transition remain in `theme.css`.
+- Kept layout-related `overflow` rules for tables, images, callouts, code blocks, and PDF/media embeds because these govern clipping and embedded-content layout, rather than global scroll animation or scroll smoothness.
 
-This revision is intended to align typography and reduce exaggerated spacing differences. Final visual confirmation still needs to be performed in Obsidian on the target iPad.
+This leaves global scrolling behaviour to Obsidian and the platform. It does not guarantee that an iPad scroll glitch is fixed; the change removes Clearline's explicit scroll/motion overrides so the behaviour can be tested without them.
 
 ## Design intent
 
