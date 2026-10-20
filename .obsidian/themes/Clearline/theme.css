@@ -813,9 +813,6 @@ select:focus {
   max-height: none;
   margin-inline: auto;
 }
-.markdown-rendered img[alt],
-.markdown-rendered .image-embed img {
-}
 .markdown-rendered figure {
   margin: 1.7em 0 2em;
   text-align: center;
