@@ -11,14 +11,16 @@ A custom, Apple-inspired Obsidian theme designed around quiet surfaces, crisp sy
 
 The theme contains only `theme.css` and `manifest.json` (plus this README). It does not install plugins, change vault content, fetch remote fonts, or require an internet connection.
 
-## Version 1.0.6 — remove scroll and motion overrides
+## Version 1.0.7 — conservative CSS cleanup
 
-- Removed the `prefers-reduced-motion` block that forced `scroll-behavior: auto` and shortened animation/transition durations.
-- Removed all other theme declarations related to scrolling: heading `scroll-margin-top` and the light/dark scrollbar colour variables.
-- Confirmed that no CSS declarations for `scroll-behavior`, `scroll-margin`, scrollbar variables, animation, or transition remain in `theme.css`.
-- Kept layout-related `overflow` rules for tables, images, callouts, code blocks, and PDF/media embeds because these govern clipping and embedded-content layout, rather than global scroll animation or scroll smoothness.
+- Removed theme overrides for Obsidian's app-level text size, UI font sizes, normal/tight UI line heights, global icon dimensions, titlebar/header height, and mobile touch-target geometry. Obsidian's Appearance settings and native control sizing are authoritative again.
+- Removed custom file/folder tree indentation and unnecessary padding/gaps on navigation, tabs, menus, prompts, settings rows, outline rows, and status bar.
+- Removed global transparent shadow-variable overrides, unused custom spacing tokens, an unused radius token, a duplicate light-mode table row token, a redundant table display declaration, an inert image cursor hint, and an empty selector block.
+- Replaced the app-level body line-height setting with Clearline's own `--clearline-body-line-height`, used only in note text and lists.
+- Removed the theme's body-text-size slider because it overrode Obsidian's global text-size preference; use **Settings → Appearance → Font size** instead.
+- Preserved the light/dark palette, note reading width and margins, heading hierarchy, image and PDF support, table/callout styling, and the no-scroll/animation-override behaviour from 1.0.6.
 
-This leaves global scrolling behaviour to Obsidian and the platform. It does not guarantee that an iPad scroll glitch is fixed; the change removes Clearline's explicit scroll/motion overrides so the behaviour can be tested without them.
+This is intended to make Clearline less invasive while keeping the approved note appearance. The stylesheet has been checked structurally, but final verification should be done in the running iPad app.
 
 ## Design intent
 
