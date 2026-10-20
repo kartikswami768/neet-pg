@@ -34,8 +34,8 @@ tags:
 ## Local potential
 
 - Stimulation from an excitatory neuron affects the postsynaptic membrane, with an RMP of −70 mV.
-- The membrane gradually depolarizes and crosses the neuronal membrane threshold voltage of **−55 mV**.
-- At threshold, voltage-gated Na⁺ channels in the initial segment open; Na⁺ influx causes a rapid rise in membrane voltage from −55 mV to +35 mV and generates an action potential.
+- The membrane gradually depolarizes and crosses the <u>neuronal membrane threshold voltage of **−55 mV**.</u>
+- At threshold, voltage-gated Na⁺ channels in the initial segment open; Na⁺ influx causes a rapid rise in membrane voltage ==from −55 mV to +35 mV and generates an action potential.==
 - A gradual change (depolarization or hyperpolarization) in membrane voltage at the synapse is a **local potential/graded potential**. Synapses are formed at dendrites or soma.
 - With stimulation, membrane voltage becomes more positive and approaches −55 mV. If the stimulus stops, voltage returns to RMP.
 - The change does not propagate over a long distance; it decreases in the region where it was generated, hence “local potential.”
