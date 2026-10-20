@@ -60,7 +60,7 @@ These proteins provide tensile strength to the muscle membrane. Mutation of thes
 The sarcotubular system combines T-tubules and L-tubules.
 
 - The **L-tubule** contains a calcium-release channel: **RyR** (ryanodine receptor channel).
-- The **T-tubule** contains an L-type voltage-gated calcium channel (**CaV**), identified as the **DHPR** (dihydropyridine receptor).
+- The **T-tubule** contains an ==L-type voltage-gated calcium channel (**CaV**)==, identified as the **DHPR** (dihydropyridine receptor).
 - Interaction between CaV and RyR produces **excitation–contraction coupling**; its described function is to pull cisternal calcium into the cytoplasm and cause contraction.
 
 ![[images/ch09_p061_sarcotubular_system.png]]
@@ -72,10 +72,10 @@ The sarcotubular system combines T-tubules and L-tubules.
 | RyR1 | Skeletal muscle |
 | RyR2 | Myocardial cells |
 | RyR3 | Smooth muscle and epithelial cells |
-| L-type/DHP receptor | CaV1.1 is present in skeletal muscle; CaV1.2 is present in myocardium and smooth muscle |
+| L-type/DHP receptor | CaV1.1 is present in skeletal muscle; CaV1.2 is present in ==myocardium and smooth muscle== |
 | P/Q-type | CaV2.1; neuronal |
 | N-type | CaV2.2; neuronal |
-| T-type | CaV3.1, CaV3.2 and CaV3.3; pacemaker tissue and osteocyte |
+| T-type | CaV3.1, CaV3.2 and CaV3.3; ==pacemaker tissue== and osteocyte |
 
 ## DHPR–RyR coupling: skeletal versus cardiac muscle
 
