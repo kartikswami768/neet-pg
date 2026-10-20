@@ -14,8 +14,8 @@ tags:
 - **Resting:** the cell remains in equilibrium without external stimulation.
 - **Potential:** voltage/charge of the cell.
 - **Resting membrane potential (RMP):** voltage difference between the inside and outside of the cell membrane.
-  - Voltage inside the cell membrane: resting membrane voltage.
-  - Voltage outside the cell membrane: reference voltage.
+	- Voltage inside the cell membrane: resting membrane voltage.
+	- Voltage outside the cell membrane: reference voltage.
 - The source gives the range of RMP as **−10 mV to −100 mV**.
 
 ![[images/ch06_p037_rmp_measurement.png]]
