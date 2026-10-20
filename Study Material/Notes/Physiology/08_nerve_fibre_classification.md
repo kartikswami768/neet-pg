@@ -22,7 +22,7 @@ In a myelinated axon:
 
 ![[images/ch08_p052_saltatory_conduction.png]]
 
-The source notes that Na⁺ moving along the neuron can leak out through different channels. To generate an action potential at the next node, Na⁺ loss has to be prevented. The insulating lipid covering, **myelination**, prevents Na⁺ from leaking out across the membrane.
+The source notes that ==Na⁺ moving along the neuron can leak out through different channels. To generate an action potential at the next node, Na⁺ loss has to be prevented. The insulating lipid covering, **myelination**, prevents Na⁺ from leaking out across the membrane.==
 
 ## Conduction velocity of the action potential
 
@@ -33,9 +33,9 @@ The source notes that Na⁺ moving along the neuron can leak out through differe
 - The source states that increasing myelination increases the thickness of the plates and decreases capacitance.
 - Conduction velocity is stated to be inversely proportional to resistance multiplied by capacitance:
 
-\[
+$$
 CV\propto\frac{1}{RC}
-\]
+$$
 
 where \(C\) is membrane capacitance and \(R\) is axoplasmic resistance (as named in the source). Decreased membrane capacitance is stated to increase conduction velocity; decreasing the product of \(R\) and \(C\) increases conduction velocity.
 
