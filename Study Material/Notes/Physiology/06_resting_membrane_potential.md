@@ -136,12 +136,12 @@ $$
 
 ## Equilibrium potentials of ions in normal mammalian cells
 
-| Ion | Equilibrium potential (mV) |
-|---|---:|
-| Sodium | +63 |
-| Chloride | −70 |
-| Potassium | −90 |
-| Calcium | +132 |
+| Ion       | Equilibrium potential (mV) |
+| --------- | -------------------------: |
+| Sodium    |                        +63 |
+| Chloride  |                        −70 |
+| Potassium |                        −90 |
+| Calcium   |                       +132 |
 
 Calculated using the Nernst equation at 37°C.
 
