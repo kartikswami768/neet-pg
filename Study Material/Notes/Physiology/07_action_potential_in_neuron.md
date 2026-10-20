@@ -247,3 +247,28 @@ Which statements are correct regarding depolarization, repolarization and hyperp
 - e. Hyperpolarization is due to efflux of K⁺.
 
 **Answers as marked in the source:** A — True; B — False; C — True; D — False; E — True.
+
+>[!note] Two Channels at the Neuromuscular Junction
+>
+>**1. Nicotinic ACh receptor (Ligand-gated channel)**
+>
+>* **Location:** Motor end plate of the skeletal muscle fibre.
+>* **Opening stimulus:** Acetylcholine (ACh) binds to the receptor.
+>* **Mechanism:** Non-selective cation channel; Na⁺ enters and K⁺ leaves, producing a net inward positive current.
+>* **Result:** Local, graded depolarization called the end-plate potential (EPP).
+>
+>**2. Voltage-gated Na⁺ channel**
+>
+>* **Location:** Muscle membrane adjacent to the motor end plate, particularly the perijunctional region.
+>* **Opening stimulus:** Membrane depolarization reaching threshold.
+>* **Mechanism:** Rapid Na⁺ influx generates the regenerative upstroke of the action potential.
+>* **Result:** Skeletal-muscle action potential, which propagates along the sarcolemma and into the T-tubules.
+>
+**Key distinction**
+>
+>* **Ligand-gated**: Opens when a chemical ligand (ACh) binds to it.
+>* **Voltage-gated:** Opens in response to a sufficient change in membrane potential.
+>
+>Both channels permit Na⁺ entry, but they have different activation mechanisms and roles.
+>
+>**Sequence:** ACh binds to nicotinic receptors → EPP develops → threshold is reached in the adjacent membrane → voltage-gated Na⁺ channels open → muscle action potential is generated.
