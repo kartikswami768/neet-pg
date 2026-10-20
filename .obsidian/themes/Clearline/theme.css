@@ -1,6 +1,6 @@
 /*
   CLEARLINE — a quiet, typography-first Obsidian theme
-  Version: 1.0.5
+  Version: 1.0.6
   Philosophy: white space, clear hierarchy, soft chrome, full-res study media.
   No external fonts or remote assets are required.
 */
@@ -267,9 +267,6 @@ body {
   --interactive-accent: #496b59;
   --interactive-accent-hover: #3d5b4b;
   --interactive-success: #4c7b5a;
-  --scrollbar-bg: transparent;
-  --scrollbar-thumb-bg: rgba(70, 70, 62, 0.18);
-  --scrollbar-active-thumb-bg: rgba(70, 70, 62, 0.32);
 
   --accent-h: 145;
   --accent-s: 19%;
@@ -352,9 +349,6 @@ body {
   --interactive-accent: #86ad95;
   --interactive-accent-hover: #a0c5ae;
   --interactive-success: #83b991;
-  --scrollbar-bg: transparent;
-  --scrollbar-thumb-bg: rgba(225, 225, 215, 0.16);
-  --scrollbar-active-thumb-bg: rgba(225, 225, 215, 0.29);
 
   --accent-h: 140;
   --accent-s: 20%;
@@ -674,7 +668,6 @@ input.prompt-input {
 .markdown-rendered h5,
 .markdown-rendered h6 {
   color: var(--text-normal);
-  scroll-margin-top: 84px;
 }
 .markdown-rendered h1 {
   font-family: var(--h1-font);
@@ -1247,18 +1240,6 @@ a.tag:hover {
   background: var(--background-primary);
   color: var(--text-muted);
   font-size: 11px;
-}
-
-/* Respect the device's reduced-motion accessibility preference. */
-@media (prefers-reduced-motion: reduce) {
-  *,
-  *::before,
-  *::after {
-    scroll-behavior: auto !important;
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.01ms !important;
-  }
 }
 
 /* ──────────────────────────────────────────────────────────────────────────
