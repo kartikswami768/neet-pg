@@ -5,6 +5,7 @@ chapter: 09
 tags:
   - physiology
   - muscle-physiology
+handwriting-page-id: 9fea0e71-3a0e-41f8-ae7d-6a7daf565ee8
 ---
 
 # 09. Functional Anatomy of Skeletal Muscle
@@ -84,13 +85,13 @@ The sarcotubular system combines T-tubules and L-tubules.
 
 ![[images/ch09_p063_dhpr_ryr_coupling.png]]
 
-| Feature | Skeletal muscle | Cardiac muscle |
-|---|---|---|
-| Junction | **Triadic junction** between the T-tubule and L-tubule | **Dyadic junction** between the T-tubule and L-tubule |
-| Cisternae | Present on both sides of the T-tubule | Present on only one side of the T-tubule |
-| Channels | CaV1.1 (DHPR) and RyR1 | CaV1.2 and RyR2 |
-| Sequence described | Action-potential generation → membrane depolarisation → T-tubule depolarisation → DHPR (CaV1.1) conformational change → mechanical DHPR–RyR1 interaction → RyR opening → calcium enters the cytoplasm from the SR → contraction | Action-potential generation → membrane depolarisation → T-tubule depolarisation → DHPR (CaV1.2) activation/opening → extracellular-fluid Ca²⁺ enters the cell → RyR2 stimulation/opening → further calcium enters the cytoplasm from the SR → contraction |
-| Coupling/calcium source | Electromechanical coupling between DHPR and RyR; 100% of the calcium for contraction is cisternal calcium from the SR | Electrochemical coupling between DHPR and RyR; calcium sources are ECF 20% (described as essential) and ICF/SR 80%. Calcium-induced calcium release (CICR) occurs. |
+| Feature                 | Skeletal muscle                                                                                                                                                                                                                         | Cardiac muscle                                                                                                                                                                                                                                                    |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Junction                | **Triadic junction** between the T-tubule and L-tubule                                                                                                                                                                                  | **Dyadic junction** between the T-tubule and L-tubule                                                                                                                                                                                                             |
+| Cisternae               | Present on both sides of the T-tubule                                                                                                                                                                                                   | Present on only one side of the T-tubule                                                                                                                                                                                                                          |
+| Channels                | CaV1.1 (DHPR) and RyR1                                                                                                                                                                                                                  | CaV1.2 and RyR2                                                                                                                                                                                                                                                   |
+| Sequence described      | Action-potential generation → membrane depolarisation → T-tubule depolarisation → DHPR (CaV1.1) conformational change → **==mechanical DHPR–RyR1 interaction → RyR opening==** → calcium enters the cytoplasm from the SR → contraction | Action-potential generation → membrane depolarisation → T-tubule depolarisation → DHPR (CaV1.2) activation/opening → **==extracellular-fluid Ca²⁺ enters the cell → RyR2 stimulation/opening==** → further calcium enters the cytoplasm from the SR → contraction |
+| Coupling/calcium source | Electromechanical coupling between DHPR and RyR; 100% of the calcium for contraction is cisternal calcium from the SR                                                                                                                   | Electrochemical coupling between DHPR and RyR; calcium sources are **ECF 20%** (described as essential) and **ICF/SR 80%**. Calcium-induced calcium release (CICR) occurs.                                                                                        |
 
 Additional details:
 
