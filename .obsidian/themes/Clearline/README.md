@@ -11,14 +11,15 @@ A custom, Apple-inspired Obsidian theme designed around quiet surfaces, crisp sy
 
 The theme contains only `theme.css` and `manifest.json` (plus this README). It does not install plugins, change vault content, fetch remote fonts, or require an internet connection.
 
-## Version 1.0.6 — remove scroll and motion overrides
+## Version 1.0.8 — lower-specificity native-layout cleanup
 
-- Removed the `prefers-reduced-motion` block that forced `scroll-behavior: auto` and shortened animation/transition durations.
-- Removed all other theme declarations related to scrolling: heading `scroll-margin-top` and the light/dark scrollbar colour variables.
-- Confirmed that no CSS declarations for `scroll-behavior`, `scroll-margin`, scrollbar variables, animation, or transition remain in `theme.css`.
-- Kept layout-related `overflow` rules for tables, images, callouts, code blocks, and PDF/media embeds because these govern clipping and embedded-content layout, rather than global scroll animation or scroll smoothness.
+- Further reduced heading CSS specificity by removing the 36 `!important` flags from heading text and editor-padding declarations. The editor selectors remain scoped to CodeMirror's heading lines and spans, without unnecessarily forcing precedence over other styles.
+- Version 1.0.7 changes remain: native Obsidian font sizes, UI line heights, icon sizing, header height, menu/settings spacing, folder indentation and mobile touch targets are no longer overridden by Clearline.
+- Note body and list line height are controlled by Clearline's own `--clearline-body-line-height`; Obsidian's app-wide typography variables remain untouched.
+- Preserved intentional content styling for headings, reading width, margins, tables, callouts, images and PDF embeds.
+- No theme-level scroll, animation, transition or smooth-scroll rules were reintroduced.
 
-This leaves global scrolling behaviour to Obsidian and the platform. It does not guarantee that an iPad scroll glitch is fixed; the change removes Clearline's explicit scroll/motion overrides so the behaviour can be tested without them.
+The stylesheet has passed structural checks, but the reduced heading specificity and restored native UI dimensions should be visually checked on the iPad after sync.
 
 ## Design intent
 
