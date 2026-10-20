@@ -11,16 +11,15 @@ A custom, Apple-inspired Obsidian theme designed around quiet surfaces, crisp sy
 
 The theme contains only `theme.css` and `manifest.json` (plus this README). It does not install plugins, change vault content, fetch remote fonts, or require an internet connection.
 
-## Version 1.0.7 — conservative CSS cleanup
+## Version 1.0.8 — lower-specificity native-layout cleanup
 
-- Removed theme overrides for Obsidian's app-level text size, UI font sizes, normal/tight UI line heights, global icon dimensions, titlebar/header height, and mobile touch-target geometry. Obsidian's Appearance settings and native control sizing are authoritative again.
-- Removed custom file/folder tree indentation and unnecessary padding/gaps on navigation, tabs, menus, prompts, settings rows, outline rows, and status bar.
-- Removed global transparent shadow-variable overrides, unused custom spacing tokens, an unused radius token, a duplicate light-mode table row token, a redundant table display declaration, an inert image cursor hint, and an empty selector block.
-- Replaced the app-level body line-height setting with Clearline's own `--clearline-body-line-height`, used only in note text and lists.
-- Removed the theme's body-text-size slider because it overrode Obsidian's global text-size preference; use **Settings → Appearance → Font size** instead.
-- Preserved the light/dark palette, note reading width and margins, heading hierarchy, image and PDF support, table/callout styling, and the no-scroll/animation-override behaviour from 1.0.6.
+- Further reduced heading CSS specificity by removing the 36 `!important` flags from heading text and editor-padding declarations. The editor selectors remain scoped to CodeMirror's heading lines and spans, without unnecessarily forcing precedence over other styles.
+- Version 1.0.7 changes remain: native Obsidian font sizes, UI line heights, icon sizing, header height, menu/settings spacing, folder indentation and mobile touch targets are no longer overridden by Clearline.
+- Note body and list line height are controlled by Clearline's own `--clearline-body-line-height`; Obsidian's app-wide typography variables remain untouched.
+- Preserved intentional content styling for headings, reading width, margins, tables, callouts, images and PDF embeds.
+- No theme-level scroll, animation, transition or smooth-scroll rules were reintroduced.
 
-This is intended to make Clearline less invasive while keeping the approved note appearance. The stylesheet has been checked structurally, but final verification should be done in the running iPad app.
+The stylesheet has passed structural checks, but the reduced heading specificity and restored native UI dimensions should be visually checked on the iPad after sync.
 
 ## Design intent
 
