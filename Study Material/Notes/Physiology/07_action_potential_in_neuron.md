@@ -97,7 +97,6 @@ Summation is the addition of two local potentials. There are two types: temporal
 | Repolarization | Inactivation of Na⁺ channels and slow exit of K⁺. |
 | After-hyperpolarization | Slow closure of K⁺ channels, allowing extra K⁺ to exit. |
 
-![[images/ch07_p045_action_potential_phases.png]]
 
 ### Feedback during the action potential
 
@@ -151,7 +150,7 @@ The **refractory period** is the period during an action potential when a second
 |---|---|
 | Total depolarization period plus the first one-third of the repolarization period. | Last two-thirds of the repolarization period. |
 | A second action potential is not possible. | A second action potential is possible with a stronger stimulus. |
-| Most voltage-gated Na⁺ channels are in the open or inactivation stage. | Most voltage-gated Na⁺ channels change from the inactive stage to the closed stage. |
+| ==Most voltage-gated Na⁺ channels are in the open or inactivation stage.== | ==Most voltage-gated Na⁺ channels change from the inactive stage to the closed stage.== |
 
 ## Different stages of the voltage-gated sodium channel
 
