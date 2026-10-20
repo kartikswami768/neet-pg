@@ -39,6 +39,9 @@ $$
 
 where \(C\) is membrane capacitance and \(R\) is axoplasmic resistance (as named in the source). Decreased membrane capacitance is stated to increase conduction velocity; decreasing the product of \(R\) and \(C\) increases conduction velocity.
 
+> [!quote]
+> Basically, the greater the distance between two charges, greater is the distance that electrical field can travel. And electrical field is the real thing behind voltage difference. So greater the separation between two charges → greater the voltage difference → higher voltage difference achieved with lesser amount of charge to be separated.
+
 ### Increased axon diameter
 
 - Increased diameter is described as decreasing axoplasmic resistance and increasing membrane capacitance.
