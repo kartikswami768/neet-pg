@@ -236,7 +236,7 @@ Conduction of two ions during different phases of an action potential is denoted
 
 ![[images/ch07_p050_ion_conductance_mcq.png]]
 
-### Mechanisms in skeletal-muscle action potentials
+### ==Mechanisms in skeletal-muscle action potentials==
 
 Which statements are correct regarding depolarization, repolarization and hyperpolarization in a skeletal-muscle action potential? (INI-CET, November 2020)
 
