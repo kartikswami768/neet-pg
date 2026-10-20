@@ -20,7 +20,12 @@ tags:
 
 ![[images/ch06_p037_rmp_measurement.png]]
 
-To measure RMP, place the reference electrode outside the cell membrane and the active/recording electrode (a glass micro-electrode) inside. Connect both electrodes to a sensitive voltmeter to measure the voltage difference.
+To measure RMP, 
+- place the reference electrode outside the cell membrane and 
+- the active/recording electrode (a glass micro-electrode) inside. 
+	- The glass electrode is hollow and is kind of wedge shaped
+	- it contains KCl solution inside
+- Connect both electrodes to a sensitive voltmeter to measure the voltage difference.
 
 ## Origin of resting membrane potential
 
