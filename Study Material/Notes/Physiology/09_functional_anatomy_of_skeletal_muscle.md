@@ -38,10 +38,10 @@ The muscle fibre is longitudinal in structure.
 
 Sarcolemmal components are grouped into integral/transmembrane and peripheral proteins.
 
-| Component | Description |
-|---|---|
-| Integral/transmembrane proteins | Extend through the cell membrane; examples listed are dystroglycan (alpha and beta) and sarcoglycan. They remain attached to laminin, described as part of the extracellular-matrix protein. |
-| Peripheral proteins | Attach to integral proteins; examples listed are dystrophin (long) and syntrophin (small). They remain attached to the skeletal-muscle cytoskeleton (actin). |
+| Component                       | Description                                                                                                                                                                                                           |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Integral/transmembrane proteins | Extend through the cell membrane; examples listed are <strong>dystroglycan</strong> (alpha and beta) and **sarcoglycan**. They remain attached to **laminin**, described as part of the extracellular-matrix protein. |
+| Peripheral proteins             | Attach to integral proteins; examples listed are **dystrophin** (long) and <strong>syntrophin</strong> (small). ==They remain attached to the skeletal-muscle cytoskeleton (actin).==                                 |
 
 These proteins provide tensile strength to the muscle membrane. Mutation of these proteins can cause muscle-fibre weakness.
 
