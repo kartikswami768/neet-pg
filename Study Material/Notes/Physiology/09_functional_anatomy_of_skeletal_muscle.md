@@ -21,7 +21,7 @@ Skeletal muscle is composed of multiple bundles of muscle fibres. The structural
 4. **Myofibrils** — contain contractile protein molecules, actin and myosin.
 5. **Sarcomere** — structural repeating unit containing thick and thin filaments (myofilaments).
 
-![[images/ch09_p059_muscle_hierarchy.png]]
+![[images/ch09_p059_muscle_hierarchy.png]]![[IMG_1344.webp]]
 
 Each myosin is surrounded by six actin molecules, forming a hexagonal pattern. Under a compound microscope, alternating dark and light bands are seen, producing the striated appearance due to the arrangement of actin and myosin.
 
@@ -29,8 +29,8 @@ Each myosin is surrounded by six actin molecules, forming a hexagonal pattern. U
 
 The muscle fibre is longitudinal in structure.
 
-- **Sarcolemma:** plasma membrane of the muscle fibre. It invaginates into the cytoplasm at certain points, creating **T-tubules** (transverse tubules).
-- **Sarcoplasmic reticulum (SR):** calcium store associated with the tubular system. The terminal portions of the SR store the maximum calcium and are called **cisternae**. The SR surrounds T-tubules along the length of the muscle cell and are also called L-tubules (longitudinal tubules).
+- **Sarcolemma:** plasma membrane of the muscle fibre. It invaginates into the cytoplasm at certain points, creating <strong>**T-tubules** (transverse tubules).</strong>
+- **Sarcoplasmic reticulum (SR):** calcium store associated with the tubular system. The terminal portions of the SR store the maximum calcium and are called **cisternae**. The SR surrounds T-tubules along the length of the muscle cell and are also called <strong>L-tubules (longitudinal tubules).</strong>
 - **Sarcotubular system:** combination of T-tubules and L-tubules.
 - **Myofibrils:** multiple fibrillar structures present in the cytoplasm along with multiple nuclei. Their alternating dark and light bands are due to the particular arrangement of actin and myosin and give skeletal muscle its striated appearance.
 
@@ -45,7 +45,10 @@ Sarcolemmal components are grouped into integral/transmembrane and peripheral pr
 
 These proteins provide tensile strength to the muscle membrane. Mutation of these proteins can cause muscle-fibre weakness.
 
-![[images/ch09_p060_dystrophin_glycoprotein_complex.png]]
+
+
+![[images/ch09_p060_dystrophin_glycoprotein_complex.png]]![[IMG_1343.webp]]
+
 
 ### Muscular dystrophies
 
@@ -60,7 +63,7 @@ These proteins provide tensile strength to the muscle membrane. Mutation of thes
 The sarcotubular system combines T-tubules and L-tubules.
 
 - The **L-tubule** contains a calcium-release channel: **RyR** (ryanodine receptor channel).
-- The **T-tubule** contains an ==L-type voltage-gated calcium channel (**CaV**)==, identified as the **DHPR** (dihydropyridine receptor).
+- The **T-tubule** contains an ==L-type voltage-gated calcium channel (**CaV**)==, identified as the ==**DHPR** (dihydropyridine receptor).==
 - Interaction between CaV and RyR produces **excitation–contraction coupling**; its described function is to pull cisternal calcium into the cytoplasm and cause contraction.
 
 ![[images/ch09_p061_sarcotubular_system.png]]
