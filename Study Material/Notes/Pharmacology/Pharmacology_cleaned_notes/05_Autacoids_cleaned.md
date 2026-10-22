@@ -5,11 +5,11 @@ type: Marrow
 
 # Autacoids
 
-## HISTAMINE
+## 1. Histamine and antihistamines
 
 The autacoid chapter begins with histamine: synthesis, H1 receptor actions in the CNS and periphery, and classification of H1 antihistamines.
 
-### Production of histamine
+### 1.1 Production of histamine
 
 - **Precursor:** L-histidine.
 - **Enzyme:** **Histidine decarboxylase** converts histidine to histamine.
@@ -27,7 +27,7 @@ The autacoid chapter begins with histamine: synthesis, H1 receptor actions in th
 
 The focuses almost entirely on **H1** and does not develop the H2–H4 pharmacology. Modern receptor coupling is summarized here so that the basic receptor map is not lost.
 
-### H1 receptor — CNS actions
+### 1.2 H1 receptor — CNS actions
 
 Histaminergic neurons brain contribute to:
 - **Wakefulness/arousal**
@@ -46,7 +46,7 @@ First-generation H1 antihistamines cross the blood–brain barrier and block cen
 
 CNS penetration and sedation are characteristic of first-generation H1 antihistamines. First-generation agents also commonly have antimuscarinic and other off-target effects.
 
-### H1 receptor — peripheral actions
+### 1.3 H1 receptor — peripheral actions
 
 - Histamine is stored predominantly in **mast cells** in peripheral tissues.
 - Mast-cell histamine contributes to **type I hypersensitivity/allergic reactions**.
@@ -57,7 +57,7 @@ CNS penetration and sedation are characteristic of first-generation H1 antihista
 
 ** H1 = major receptor for many immediate allergic manifestations.
 
-### H1 antihistamines — two generations
+### 1.4 H1 antihistamines — two generations
 
 | Feature | 1st generation | 2nd generation |
 |---|---|---|
@@ -69,7 +69,7 @@ CNS penetration and sedation are characteristic of first-generation H1 antihista
 
 **Important nuance:** second-generation drugs “do NOT cross the BBB” and identifies **cetirizine as an exception**. A more accurate statement is that most second-generation agents have **limited CNS penetration**; cetirizine and levocetirizine can still cause somnolence in some patients.
 
-### First-generation antihistamines
+### 1.5 First-generation antihistamines
 
 #### General features
 
@@ -108,7 +108,7 @@ first-generation antihistamines as anticholinergic drugs. This explains adverse 
 - Constipation
 - Tachycardia in susceptible patients
 
-### Second-generation antihistamines
+### 1.6 Second-generation antihistamines
 
 Examples :
 - **Fexofenadine**
@@ -148,7 +148,7 @@ Examples :
 - H1-antagonist activity plus **mast-cell stabilizing** properties.
 - Used in allergic conjunctivitis and related allergic disease depending on formulation.
 
-### Special antihistamine: Betahistine
+### 1.7 Special antihistamine: Betahistine
 
 - Brand mentioned: **Vertin**.
 - Used for vertigo; benign positional vertigo and Ménière disease.
@@ -157,7 +157,7 @@ Examples :
 Betahistine is often memorized as a “histamine analogue” used for vertigo.
 Mechanistic descriptions are more nuanced than the simplified “partial H1 agonist” statement; betahistine has histaminergic activity involving H1/H3 receptors and is used variably by jurisdiction. Do not extrapolate wording into a universal evidence hierarchy for all causes of vertigo.
 
-### Pitolisant
+### 1.8 Pitolisant
 
 - **H3 receptor inverse agonist/antagonist**.
 - Increases wakefulness.
@@ -166,7 +166,7 @@ Mechanistic descriptions are more nuanced than the simplified “partial H1 agon
 
 Pitolisant is an H3-receptor inverse agonist used for excessive daytime sleepiness/cataplexy in adult narcolepsy in jurisdictions where approved. It is not an H1 antihistamine despite broader histamine section.
 
-### Motion sickness and seasickness
+### 1.9 Motion sickness and seasickness
 
 #### Commonly listed drugs
 
@@ -183,7 +183,7 @@ Pitolisant is an H3-receptor inverse agonist used for excessive daytime sleepine
 
 **Key pharmacologic principle:** Drugs acting centrally on H1 and/or muscarinic pathways are useful; peripheral second-generation H1 blockers are not appropriate substitutes for this vestibular indication.
 
-### Morning sickness
+### 1.10 Morning sickness
 
 - Definition in source: vomiting associated with pregnancy.
 - First non-drug advice: **small, frequent meals**.
@@ -191,7 +191,7 @@ Pitolisant is an H3-receptor inverse agonist used for excessive daytime sleepine
 
 Doxylamine/pyridoxine is a well-established treatment approach for nausea/vomiting of pregnancy in appropriate patients and formulations.
 
-### High-altitude illness / “Mountain sickness”
+### 1.11 High-altitude illness / “Mountain sickness”
 
 The has a boxed section titled **Mountain Sickness** immediately before the serotonin section. It notes:
 - Respiratory compromise can occur at very high altitude.
@@ -203,11 +203,11 @@ Acetazolamide is used for prevention and treatment of **acute mountain sickness 
 
 > **Exam pearl:** High altitude + prevention/treatment of AMS → **acetazolamide**; deterioration → **descent is definitive rescue therapy**.
 
-## SEROTONIN (5-HYDROXYTRYPTAMINE; 5-HT)
+## 2. Serotonin (5-hydroxytryptamine; 5-HT)
 
 The page 4 contains a synthesis diagram and a receptor classification table.
 
-### Synthesis of serotonin
+### 2.1 Synthesis of serotonin
 
 ```text
 L-Tryptophan
@@ -223,7 +223,7 @@ Serotonin (5-HT)
 
 The explicitly presents tryptophan → 5-HTP → serotonin.
 
-### Serotonin receptors
+### 2.2 Serotonin receptors
 
 - **7 receptor families:** 5-HT1 through 5-HT7.
 - **Most are GPCRs.**
@@ -239,20 +239,20 @@ The explicitly presents tryptophan → 5-HTP → serotonin.
 | **5-HT6** | Gs; CNS |
 | **5-HT7** | Gs; CNS/vascular/GI roles |
 
-## SEROTONIN AND MIGRAINE
-
-### 5-HT1A — Buspirone
+### 2.3 5-HT1A — Buspirone
 
 - **Buspirone** = partial agonist at **5-HT1A** receptors.
 - Use: **generalized anxiety disorder**.
 
 **Exam point:** Buspirone is an anxiolytic without the pharmacologic profile of a classical benzodiazepine.
 
-### 5-HT1B / 5-HT1D — Triptans and ergotamine
+### 2.4 Serotonin and migraine
+
+#### 5-HT1B / 5-HT1D — Triptans and ergotamine
 
 The links migraine to trigeminal neurons and release of inflammatory/neuropeptide mediators, especially **CGRP (calcitonin gene-related peptide)**.
 
-#### Migraine concept map
+##### Migraine concept map
 
 ```text
 Trigeminovascular activation
@@ -270,7 +270,7 @@ Reduced trigeminal neuropeptide release
 Migraine relief
 ```
 
-### Triptans
+#### Triptans
 
 Examples :
 - **Sumatriptan**
@@ -279,13 +279,13 @@ Examples :
 - **Frovatriptan**
 - **Zolmitriptan**
 
-#### Core mechanism
+##### Core mechanism
 
 - **Selective 5-HT1B/1D receptor agonists**.
 - Reduce release of **CGRP and other neuropeptides** from trigeminal pathways.
 - Produce cranial vasoconstrictive effects.
 
-#### Routes and source-specific pearls
+##### Routes and source-specific pearls
 
 | Drug | pearl |
 |---|---|
@@ -297,13 +297,13 @@ Examples :
 
 “Most effective,” “fastest,” and similar labels depend on formulation, endpoint and comparator; they are retained here because they are explicitly taught , not as universal treatment rankings.
 
-#### Triptan contraindication — important correction
+##### Triptan contraindication — important correction
 
 hypertension, heart disease, angina and MI as contraindications because of vasoconstriction.
 
 The clinically important distinction is especially **uncontrolled hypertension and established ischemic/cerebrovascular/peripheral vascular disease or other labeling-specific vascular contraindications**. Controlled hypertension is not equivalent to uncontrolled hypertension. Always apply the individual triptan's current prescribing information.
 
-### Lasmiditan — 5-HT1F agonist
+#### Lasmiditan — 5-HT1F agonist
 
 - **5-HT1F agonist**.
 - Developed for **acute treatment of migraine**.
@@ -311,13 +311,13 @@ The clinically important distinction is especially **uncontrolled hypertension a
 
 **Clinical implication:** It may be considered when vasoconstrictor triptans are unsuitable, but “safe in heart disease” should not be interpreted as permission to ignore the drug's own adverse effects, interactions or driving restrictions.
 
-### Ergotamine and dihydroergotamine
+#### Ergotamine and dihydroergotamine
 
 - **Ergotamine** is a non-selective serotonergic/adrenergic/other receptor agonist with vasoconstrictive properties.
 - **Dihydroergotamine (DHE)** is obtained by hydrogenation of ergotamine and has modified receptor selectivity/pharmacology.
 - 5-HT1B/1D effects and additional adrenergic activity.
 
-#### Ergotism
+##### Ergotism
 
 **Definition in source:** ischemic **dry gangrene**, classically affecting distal digits after excessive ergot exposure.
 
@@ -335,7 +335,7 @@ Dry gangrene
 
 Ergotism is a medical emergency requiring removal offending drug and restoration of perfusion; vasodilator selection is individualized and depends on severity/local protocol. Do not treat “nitroprusside” as the sole universal antidote.
 
-## MIGRAINE PREVENTION
+### 2.5 Migraine prevention
 
 - **Propranolol** as its traditional drug of choice.
 - If asthma limits β-blocker use, mnemonic **A-C-T
@@ -344,9 +344,9 @@ Ergotism is a medical emergency requiring removal offending drug and restoration
  - **T — tricyclic antidepressants:** amitriptyline, nortriptyline.
 - Newer class: **CGRP-targeted drugs**.
 
-### CGRP-targeted therapy
+#### CGRP-targeted therapy
 
-#### Acute migraine — gepants
+##### Acute migraine — gepants
 
 - **Ubrogepant**
 - **Rimegepant**
@@ -355,7 +355,7 @@ Ergotism is a medical emergency requiring removal offending drug and restoration
 
 **Atogepant is a preventive gepant, not an acute-treatment gepant.** Ubrogepant and rimegepant are established acute options; rimegepant and other agents may also have preventive indications depending on country/label.
 
-#### Prevention
+##### Prevention
 
 - **Erenumab** — CGRP receptor monoclonal antibody.
 
@@ -363,7 +363,7 @@ Other CGRP-targeted monoclonal antibodies exist, including ligand-directed agent
 
 A September 2026 AHS/AAN guideline update incorporates many newer migraine-prevention therapies, including CGRP-targeted options, and emphasizes discussing evidence, adverse effects, access and patient priorities rather than relying on a single universal “drug of choice.” [Ref 1]
 
-### Migraine in pregnancy
+#### Migraine in pregnancy
 
 - “Never give any drug for prophylaxis.”
 - Treat only the acute attack.
@@ -376,9 +376,9 @@ For analgesic/antipyretic use, ACOG reaffirmed in September 2025 that **acetamin
 **Exam-safe phrasing:**
 > **Paracetamol/acetaminophen is a key acute option in pregnancy; preventive therapy is not universally prohibited and should be individualized.**
 
-## 5-HT2 RECEPTOR PHARMACOLOGY
+### 2.6 5-HT2 receptor pharmacology
 
-### 5-HT2C
+#### 5-HT2C
 
 - **5-HT2C agonism** → suppresses appetite.
 - Drug named: **lorcaserin**.
@@ -386,7 +386,7 @@ For analgesic/antipyretic use, ACOG reaffirmed in September 2025 that **acetamin
 
 Lorcaserin was withdrawn U.S. market in 2020 after FDA review found an increased occurrence of cancer in a safety trial. The FDA wording was broader than a specific claim of “GI cancers.” [Ref 4]
 
-### 5-HT2A/2B/2C antagonism
+#### 5-HT2A/2B/2C antagonism
 
 - **Olanzapine**
 - **Clozapine**
@@ -395,7 +395,7 @@ and links 5-HT2 antagonism with increased appetite and obesity risk.
 
 This is a useful exam association, although antipsychotic-associated weight gain is multifactorial and should not be attributed to a single receptor alone.
 
-### 5-HT2–5-HT4 antagonists / anti-serotonergic drugs
+#### 5-HT2–5-HT4 antagonists / anti-serotonergic drugs
 
 - **Ketanserin**
 - **Ritanserin**
@@ -405,15 +405,15 @@ The specifically gives **cyproheptadine** as the treatment of choice for seroton
 
 Cyproheptadine is a recognized oral serotonin antagonist used in serotonin syndrome when oral/enteral administration is possible, but serotonin-syndrome management also requires withdrawal of serotonergic agents and supportive/acute management.
 
-## 5-HT3 ANTAGONISTS (“SETRONS”)
+### 2.7 5-HT3 antagonists (“setrons”)
 
-### Receptor and mechanism
+#### Receptor and mechanism
 
 - **5-HT3** is the only major serotonin receptor family in this chapter that is **ionotropic**.
 - Antagonism reduces nausea/vomiting signaling.
 - Source places the action at the **chemoreceptor trigger zone (CTZ)**.
 
-#### Drugs
+##### Drugs
 
 - **Ondansetron**
 - **Granisetron**
@@ -421,18 +421,18 @@ Cyproheptadine is a recognized oral serotonin antagonist used in serotonin syndr
 - **Ramosetron**
 - **Palonosetron**
 
-#### Key adverse effects
+##### Key adverse effects
 
 - **Constipation** / reduced GI motility.
 - **QT prolongation** can occur, particularly with certain 5-HT3 antagonists and susceptible patients.
 
-#### Motion sickness
+##### Motion sickness
 
 Setron drugs are not effective for classic motion sickness; first-generation antihistamines and/or antimuscarinic drugs are used instead.
 
 The distinction is pharmacologically sensible: motion sickness is strongly vestibular and involves pathways not adequately controlled by isolated 5-HT3 antagonism.
 
-### Alosetron
+#### Alosetron
 
 - Selective **5-HT3 receptor antagonist**.
 - Reduces GI motility.
@@ -441,16 +441,16 @@ The distinction is pharmacologically sensible: motion sickness is strongly vesti
 
 Current U.S. prescribing information restricts alosetron to **women with severe chronic IBS-D who have not responded adequately to conventional therapy**. It carries a boxed warning for serious GI adverse reactions, including **ischemic colitis** and serious constipation complications. [Ref 17]
 
-#### Exam association
+##### Exam association
 
 > **5-HT3 blockade → ↓ GI motility → selected severe IBS-D therapy**
 
 The important adverse-effect pair is:
 **Constipation + ischemic colitis.**
 
-## CHEMOTHERAPY-INDUCED NAUSEA AND VOMITING (CINV)
+### 2.8 Chemotherapy-induced nausea and vomiting (CINV)
 
-### Source mechanism
+#### Source mechanism
 
 ```text
 Cytotoxic chemotherapy
@@ -468,14 +468,14 @@ Nausea + vomiting
 
 **cisplatin** as having a very high emetogenic risk.
 
-### Source's early/late framework
+#### Source's early/late framework
 
 The uploaded note divides treatment into:
 1. **Early phase** — 5-HT3 antagonists such as ondansetron, granisetron, palonosetron.
 2. **Delayed phase** — NK1 antagonists such as aprepitant/fosaprepitant.
 3. Resistant cases — add **dexamethasone**; source then adds cannabinoids.
 
-#### Current clinical correction
+##### Current clinical correction
 
 Modern CINV prophylaxis is **risk-based and combination-based**, not simply “setron for 24 h, then aprepitant.” ASCO guidance supports combinations incorporating:
 - **5-HT3 antagonist**
@@ -485,7 +485,7 @@ Modern CINV prophylaxis is **risk-based and combination-based**, not simply “s
 
 For cisplatin/high-emetic-risk chemotherapy, current guideline-based prophylaxis uses a multi-drug regimen rather than single-agent ondansetron followed by delayed aprepitant. [Ref 5]
 
-### NK1 receptor antagonists (“-pitants”)
+#### NK1 receptor antagonists (“-pitants”)
 
 - **Aprepitant**
 - **Fosaprepitant**
@@ -496,27 +496,27 @@ Mechanism:
 - **NK1 receptor antagonism**
 - NK1 is the receptor for **substance P**.
 
-### Cannabinoids
+#### Cannabinoids
 
 - **Dronabinol**
 - **Nabilone**
-- Cannabinoid receptor **agonism**
+kin- Cannabinoid receptor **agonism**
 - Antiemetic effect
-- Appetite stimulation
-- Use in **cachexia** / severe weight loss, including cancer- and AIDS-related contexts.
+etic- Appetite stimulation
+- Use in effect **cachexia** / severe weight loss, with including cancer- and AIDS-related contexts.
 
-Cannabinoid antiemetics are generally reserved for selected refractory situations because adverse effects, drug interactions and neuropsychiatric effects limit routine use.
+Cannabinoid increased antiemetics are generally reserved for selected refractory acetylcholine situations because adverse effects, drug interactions and neuropsychiatric effects limit routine use.
 
-### Palonosetron
+#### Palonosetron
 
 - Long-acting 5-HT3 antagonist.
 - that it can be used in delayed-phase CINV and lasts longer than first-generation setrons.
 
 Palonosetron's prolonged half-life and receptor kinetics make it particularly useful in CINV prophylaxis; however, overall regimen design still depends on emetogenic risk and combination therapy.
 
-## PROKINETIC DRUGS
+## 3. Prokinetic drugs
 
-### Definition
+### 3.1 Definition
 
 **Prokinetic drugs** increase GI motility and facilitate forward propulsion of gastric/intestinal contents.
 
@@ -535,7 +535,7 @@ Dopamine signalling → ↓ GI motility
 
 This is a useful conceptual simplification.
 
-### 5-HT4 agonists
+### 3.2 5-HT4 agonists
 
 the suffix clue **“-pride”** and lists:
 - **Cisapride**
@@ -555,14 +555,14 @@ the suffix clue **“-pride”** and lists:
 
 Regulatory status differs by country and indication. Cisapride was withdrawn from broad routine use because of serious ventricular arrhythmias; tegaserod has had restricted/reintroduced use for selected populations in some jurisdictions. Avoid memorizing “banned everywhere” as a universal legal statement.
 
-### Dopamine D2 antagonists
+### 3.3 Dopamine D2 antagonists
 
 #### Domperidone
 
 - D2 antagonist.
 - Increases GI motility.
 - Does **not significantly cross the BBB**, so extrapyramidal effects are less frequent than with metoclopramide.
-- Source links its peripheral prokinetic effect with increased acetylcholine signaling.
+- Source links its peripheral pro signaling.
 
 Domperidone has clinically important cardiac safety concerns, including **QT prolongation, torsades de pointes and other serious arrhythmias**. It is not FDA-approved for human use United States; availability and restrictions differ by country. [Ref 6]
 
@@ -599,37 +599,44 @@ Domperidone has clinically important cardiac safety concerns, including **QT pro
 
 Anticholinergic agents can be used for acute drug-induced dystonia/parkinsonism, with choice depending on the specific syndrome. Current practice distinguishes acute dystonia, akathisia and tardive syndromes rather than treating every EPS manifestation identically.
 
-### Erythromycin
+### 3.4 Erythromycin
 
-- Antibiotic with **prokinetic activity**.
-- Acts as a **motilin receptor agonist** at prokinetic doses.
-- Source mentions use in **gastroparesis**.
+- Antibiotic with **
+prokinetic activity**.
+- Acts as a **   motilin receptor agonist** at prokin Betic doses.
+- Source mentions use in **gastrop -->aresis**.
 
-**Clinical pearl:** Tachyphylaxis commonly limits sustained prokinetic benefit; QT and drug-interaction issues also matter.
+**Clinical pearl:** T Dachyphylaxis commonly limits sustained prokinetic
+ benefit; QT and drug-interaction issues also    matter.
 
-### Neostigmine
+### 3.5 Neostigm Cine
 
-- Acetylcholinesterase inhibitor.
+- Acetylcholinesterase inhibitor -->.
 - Raises acetylcholine.
-- Source associates it with **post-operative paralytic ileus**.
+- Source associates E it with **post-operative paralytic ileus**.
 
-Neostigmine has a particularly important role in **acute colonic pseudo-obstruction (Ogilvie syndrome)** after conservative measures fail and after contraindications are assessed.
 
-## PROSTAGLANDINS AND OTHER EICOSANOIDS
+Neostigmine has a particularly important role in    **acute colonic pseudo-obstruction ( DOgilvie syndrome)** after conservative measures fail and after contraind -->ications are assessed.
 
-### Core prostanoid map
+## 4. Pro Fstaglandins and other eicosanoids
 
-| Mediator | Key action / high-yield association |
+
+### 4   .1 Core prostanoid map
+
+ E| Mediator | Key action / high-yield association |
 |---|---|
-| **PGE1** | Vasodilation, gastric mucosal effects, cervical/uterine pharmacology; PDA patency |
-| **PGE2** | Cervical ripening and uterine effects |
-| **PGF2α** | Uterine contraction; ophthalmic prostaglandins reduce IOP via uveoscleral outflow |
-| **PGI2 (prostacyclin)** | Vasodilation + inhibition of platelet aggregation |
+| ** -->PGE1** | Vasodilation, gastric G mucosal effects, cervical/uterine pharmacology; PDA pat
+ency |
+| **PGE2** | Cerv   ical ripening and uterine effects |
+| **PGF2 Fα** | Uterine contraction; ophthal -->mic prostaglandins reduce IOP via uveos Hcleral outflow |
+| **PGI2 (pro
+    
+stacyclin)** | Vasodilation + inhibition	 of platelet aggregation |
 | **TXA2** | Vasoconstriction + platelet aggregation |
 
 **Physiologic antagonism:** PGI2 and TXA2 exert broadly opposing vascular/platelet actions.
 
-### Prostaglandin E1 analogues
+### 4.2 Prostaglandin E1 analogues
 
 #### Misoprostol
 
@@ -653,7 +660,7 @@ Modern abortion regimens are better represented by WHO guidance than the simplif
 - Chloride-channel activator used as a laxative.
 - Source mentions **constipation-predominant IBS**.
 
-### Prostaglandin E2 — Dinoprostone
+### 4.3 Prostaglandin E2 — Dinoprostone
 
 - **Dinoprostone = PGE2**.
 - Source emphasizes **vaginal** use.
@@ -662,7 +669,7 @@ Modern abortion regimens are better represented by WHO guidance than the simplif
 **Exam distinction:**
 > **Dinoprostone (PGE2) → cervix/cervical ripening**
 
-### Prostaglandin F2α drugs
+### 4.4 Prostaglandin F2α drugs
 
 - **Dinoprost**
 - **Carboprost**
@@ -689,7 +696,7 @@ Use:
 - **Glaucoma / ocular hypertension**
 - Reduce IOP primarily by increasing aqueous humor outflow through the uveoscleral pathway.
 
-### Prostacyclin (PGI2)
+### 4.5 Prostacyclin (PGI2)
 
 Drugs :
 - **Treprostinil**
@@ -703,7 +710,7 @@ Mechanism:
 - **Vasodilation**
 - **Inhibition of platelet aggregation**
 
-### Thromboxane A2
+### 4.6 Thromboxane A2
 
 TXA2 is as opposite to PGI2.
 - **Vasoconstriction**
@@ -718,9 +725,9 @@ TXA2 is as opposite to PGI2.
 | Platelets | Inhibits aggregation | Promotes aggregation |
 | Net effect | Anti-thrombotic tendency | Pro-thrombotic tendency |
 
-## MEDICAL ABORTION — SOURCE NOTES + CURRENT GUIDELINE CORRECTION
+### 4.7 Medical abortion — source notes + current guideline correction
 
-### What The teaches
+#### What The teaches
 
 a two-visit concept:
 
@@ -743,7 +750,7 @@ a simplified gestational-age split:
 - Up to 49 days: 400 micrograms misoprostol.
 - 49–63 days: 800 micrograms.
 
-### Current guideline correction
+#### Current guideline correction
 
 For **medical abortion at <12 weeks**, WHO recommends **mifepristone 200 mg orally followed 1–2 days later by misoprostol 800 micrograms**, administered by vaginal, sublingual or buccal route. Repeat misoprostol doses may be considered where clinically appropriate. [Ref 7]
 
@@ -752,15 +759,15 @@ Therefore:
 
 Clinical abortion care also requires pregnancy dating, ectopic-pregnancy assessment when indicated, informed consent and appropriate follow-up/safety-netting.
 
-## DUCTUS ARTERIOSUS
+### 4.8 Ductus arteriosus
 
-### Maintaining PDA patency
+#### Maintaining PDA patency
 
 **Drug:** **Alprostadil (PGE1)**
 
 **Use:** Maintain ductal patency in neonates with **ductal-dependent congenital heart disease** pending definitive management.
 
-### Closing a PDA
+#### Closing a PDA
 
 - **Ibuprofen**
 - **Indomethacin**
@@ -769,15 +776,17 @@ and explains the mechanism as inhibition of prostaglandin synthesis.
 
 NSAIDs can promote PDA closure by reducing prostaglandin synthesis, especially in preterm infants. Current neonatal protocols differ by gestational age, hemodynamics and local practice.
 
-## UTERINE STIMULANTS (UTEROTONICS)
+## 5. Uterine pharmacology — uterotonics and tocolytics
 
-### Oxytocin
+### 5.1 Uterine stimulants (uterotonics)
+
+#### Oxytocin
 
 - Uterotonic peptide hormone analogue.
 - Causes uterine contraction.
 - Used for **induction/augmentation of labour** and **prevention/treatment of postpartum hemorrhage (PPH)**.
 
-### Carbetocin
+#### Carbetocin
 
 carbetocin as:
 - Longer-acting than oxytocin.
@@ -786,44 +795,44 @@ carbetocin as:
 
 Carbetocin is principally a **long-acting oxytocin receptor agonist used for prevention of PPH**, not a routine “drug of choice for induction of labour.” Its exact role depends on setting and guideline. WHO's 2025 PPH guideline recommends a quality-assured uterotonic for prevention, with oxytocin preferred and heat-stable carbetocin as an alternative in specified contexts. [Ref 8]
 
-### Other uterotonics
+#### Other uterotonics
 
-#### Carboprost
+##### Carboprost
 
 - PGF2α analogue.
 - Used when PPH persists despite first-line management.
 - **Avoid in asthma.**
 
-#### Misoprostol
+##### Misoprostol
 
 - PGE1 analogue.
 - Can be used in PPH, particularly where injectable uterotonics are unavailable or where protocols specify it.
 
-#### Ergometrine / methylergometrine
+##### Ergometrine / methylergometrine
 
 these are “not used” for PPH.
 
 That is too absolute. WHO guidance includes **ergometrine/methylergometrine in selected contexts**, particularly when hypertensive disorders can be safely excluded. They are not universally appropriate because of vasoconstrictive effects and hypertension risk. [Ref 8]
 
-#### Current PPH concept
+##### Current PPH concept
 
 WHO's 2025 consolidated PPH guideline emphasizes rapid recognition and a bundled approach including uterotonics and tranexamic acid rather than relying on one drug alone. [Ref 8]
 
-## TOCOLYTIC DRUGS (UTERINE RELAXANTS)
+### 5.2 Tocolytic drugs (uterine relaxants)
 
-### Definition and purpose
+#### Definition and purpose
 
 - Drugs that **relax the uterus**.
 - Source indication: **preterm labour** (<37 weeks).
 - Purpose: delay birth long enough for **fetal maturation and/or transfer for definitive care** when appropriate.
 
-### Source mnemonic: ABC
+#### Source mnemonic: ABC
 
-#### A — Atosiban
+##### A — Atosiban
 
 - Oxytocin receptor antagonist.
 
-#### B — β2 agonists
+##### B — β2 agonists
 
 - **Ritodrine**
 - **Isoxsuprine**
@@ -831,27 +840,27 @@ WHO's 2025 consolidated PPH guideline emphasizes rapid recognition and a bundled
 Mechanism:
 - β2 stimulation → smooth-muscle relaxation.
 
-#### C — Calcium-channel blocker
+##### C — Calcium-channel blocker
 
 - **Nifedipine**.
 - Reduced calcium entry → reduced smooth-muscle contraction.
 
-#### Halothane
+##### Halothane
 
 halothane because of its uterine-relaxant effect.
 
 This is historically relevant pharmacology rather than a standard modern tocolytic regimen.
 
-### Current clinical correction
+#### Current clinical correction
 
 Current NICE guidance recommends **nifedipine** for tocolysis relevant preterm-labour gestational window; if nifedipine is contraindicated, an **oxytocin-receptor antagonist such as atosiban** can be offered. NICE explicitly states **not to offer betamimetics for tocolysis**. [Ref 9]
 
 Thus:
 > **Exam mnemonic ABC ≠ current universal clinical algorithm.**
 
-## ANTI-INFLAMMATORY DRUGS AND THE ARACHIDONIC-ACID PATHWAY
+## 6. Anti-inflammatory drugs and the arachidonic-acid pathway
 
-### Core pathway
+### 6.1 Core pathway
 
 a pathway from membrane phospholipids to arachidonic acid and then divides it into COX and LOX branches.
 
@@ -867,14 +876,7 @@ flowchart TD
     H["Inflammation,<br>bronchoconstriction,<br>chemotaxis etc."]
 
     A -->|"phospholipase A2"| B
-    B --> C
-    B --> D
-    C --> E
-    D --> F
-    E --> G
-    F --> H
-    
-	style A fill:#f9e79f,stroke:#b7950b
+    B --> Cstyle A fill:#f9e79f,stroke:#b7950b
     style B fill:#f5b7b1,stroke:#c0392b
     style C fill:#aed6f1,stroke:#2874a6
     style D fill:#aed6f1,stroke:#2874a6
@@ -884,7 +886,7 @@ flowchart TD
     style H fill:#f5cba7,stroke:#ca6f1e
 ```
 
-### Drug classes by pathway
+### 6.2 Drug classes by pathway
 
 | Target | Drug/class from | Main consequence |
 |---|---|---|
@@ -897,9 +899,9 @@ Corticosteroids reduce inflammatory mediator production through genomic effects 
 
 Licofelone is not a routine widely approved anti-inflammatory drug in major current guidelines; retain it mainly as a pharmacology/research example.
 
-## NSAIDs (NON-STEROIDAL ANTI-INFLAMMATORY DRUGS)
+### 6.3 NSAIDs (non-steroidal anti-inflammatory drugs)
 
-### Mechanism
+#### Mechanism
 
 - Inhibit **cyclooxygenase (COX)** enzymes.
 - Reduce prostaglandin and thromboxane synthesis.
@@ -909,9 +911,9 @@ Licofelone is not a routine widely approved anti-inflammatory drug in major curr
  - anti-inflammatory effect
  - antiplatelet effect for aspirin specifically
 
-### Aspirin
+#### Aspirin
 
-#### Unique property
+##### Unique property
 
 Aspirin is the classic **irreversible COX inhibitor** because it acetylates COX.
 - “Suicide inhibitor”
@@ -919,7 +921,7 @@ Aspirin is the classic **irreversible COX inhibitor** because it acetylates COX.
 
 These are useful memory aids.
 
-#### Dose framework
+##### Dose framework
 
 | Dose range taught in | Intended effect in source |
 |---|---|
@@ -929,20 +931,20 @@ These are useful memory aids.
 
 Historical dose-response teaching is retained, but exact dosing in current practice is indication-specific and should not be inferred from this table for prescribing.
 
-#### Antiplatelet mechanism
+##### Antiplatelet mechanism
 
 - Platelets have no nucleus and cannot efficiently resynthesize COX-1.
 - Aspirin therefore causes persistent suppression of platelet **TXA2** synthesis for the life of affected platelets.
 
-#### Acute coronary/cerebrovascular disease
+##### Acute coronary/cerebrovascular disease
 
 aspirin the drug of choice for MI and stroke.
 
 Aspirin is a key antiplatelet drug in acute coronary syndromes and selected ischemic cerebrovascular settings, but timing, dose, contraindications and combination with other antithrombotic therapy depend on the specific diagnosis. It should not be generalized to all “stroke” or all chest pain.
 
-### NSAID adverse effects
+#### NSAID adverse effects
 
-#### Gastrointestinal toxicity
+##### Gastrointestinal toxicity
 
 - Dyspepsia
 - Gastritis
@@ -953,13 +955,13 @@ The recommends **PPI or misoprostol** for NSAID-related ulcer contexts.
 
 Current NICE guidance supports a **PPI** (or, depending on context, H2-receptor antagonist) when gastroprotection is indicated; choice depends on GI and cardiovascular risk. [Ref 10]
 
-#### Renal effects
+##### Renal effects
 
 - Reduced renal prostaglandin synthesis can reduce afferent arteriolar vasodilation.
 - Can reduce GFR and precipitate kidney injury in susceptible patients.
 - Long-term analgesic exposure can contribute to chronic kidney disease patterns.
 
-#### Hypersensitivity / cutaneous reactions
+##### Hypersensitivity / cutaneous reactions
 
 The highlights:
 - Rashes
@@ -967,7 +969,7 @@ The highlights:
 
 These are serious but not the typical most-common NSAID adverse effects.
 
-## ASPIRIN POISONING
+### 6.4 Aspirin poisoning
 
 aspirin as acidic and sodium bicarbonate as the antidote.
 
@@ -977,7 +979,7 @@ More precise terminology:
 
 Do not reduce salicylate poisoning to a simple “acid + base neutralization” concept; bicarbonate works largely through **alkalinization and enhanced renal elimination**, while serious acid–base and CNS/respiratory abnormalities must be managed.
 
-## REYE SYNDROME
+### 6.5 Reye syndrome
 
 ```text
 Aspirin exposure
@@ -993,7 +995,7 @@ The therefore says aspirin should not be used in children <18 years except for s
 
 The clinically important warning is to **avoid aspirin/salicylates in children/adolescents with viral infections unless specifically indicated**, because Reye syndrome association. A blanket “never use under 18 under any circumstances” is too absolute; selected pediatric diseases (e.g. Kawasaki disease) are classic exceptions.
 
-## SAMTER TRIAD / ASPIRIN-EXACERBATED RESPIRATORY DISEASE
+### 6.6 Samter triad / aspirin-exacerbated respiratory disease
 
 The triad:
 1. **Aspirin/NSAID sensitivity**
@@ -1014,7 +1016,7 @@ Respiratory symptoms
 
 The modern term is **NSAID-exacerbated respiratory disease (N-ERD/AERD)**. The mnemonic remains exam-useful.
 
-## COX-1 VS COX-2
+### 6.7 COX-1 vs COX-2
 
 The teaching shortcut is:
 - **COX-1 inhibition** → GI adverse effects.
@@ -1022,7 +1024,7 @@ The teaching shortcut is:
 
 Useful, but overly binary.
 
-### Better conceptual model
+#### Better conceptual model
 
 - **COX-1** contributes to gastric mucosal defense, platelet function and renal homeostasis.
 - **COX-2** is induced in many inflammatory settings but also has constitutive roles, including kidney and vascular system.
@@ -1032,9 +1034,9 @@ Therefore selective COX-2 inhibition:
 - **does not eliminate renal toxicity**;
 - can be associated with adverse cardiovascular outcomes in susceptible patients.
 
-## NSAID COX SELECTIVITY CLASSIFICATION
+### 6.8 NSAID COX selectivity classification
 
-### Non-selective COX inhibitors
+#### Non-selective COX inhibitors
 
 Examples :
 - **Piroxicam**
@@ -1045,32 +1047,32 @@ Examples :
 - **Phenylbutazone** (historical)
 - **Phenacetin** (historical)
 
-#### Piroxicam / tenoxicam
+##### Piroxicam / tenoxicam
 
 - Long-acting oxicam NSAIDs.
 - Source links long duration with **enterohepatic circulation**.
 
 **Clinical nuance:** Their long duration and GI toxicity profile make them less attractive in many patients.
 
-#### Ketorolac
+##### Ketorolac
 
 - Strong analgesic NSAID.
 - Can be given parenterally.
 - Useful for short-term moderate-to-severe acute pain when appropriate.
 
-#### PDA closure
+##### PDA closure
 
 - **Indomethacin** and **ibuprofen** decrease prostaglandin synthesis and can help close PDA in premature infants.
 
-#### Phenylbutazone
+##### Phenylbutazone
 
 it: banned because of severe **bone-marrow toxicity/agranulocytosis**.
 
-#### Phenacetin
+##### Phenacetin
 
 it: highly nephrotoxic and associated with analgesic nephropathy.
 
-### Preferential COX-2 inhibitors
+#### Preferential COX-2 inhibitors
 
 - **Nimesulide**
 - **Meloxicam**
@@ -1078,7 +1080,7 @@ it: highly nephrotoxic and associated with analgesic nephropathy.
 - **Aceclofenac**
 - **Etodolac**
 
-#### Nimesulide
+##### Nimesulide
 
 The highlights:
 - Hepatotoxicity
@@ -1087,7 +1089,7 @@ The highlights:
 
 Nimesulide has regulatory restrictions in several jurisdictions because of hepatic safety concerns; where used, restrictions can include shortest possible duration and second-line positioning. Availability in India and other countries does not mean it is unrestricted globally.
 
-#### Diclofenac
+##### Diclofenac
 
 - Topical creams/sprays
 - Use for musculoskeletal/arthritic pain
@@ -1095,7 +1097,7 @@ Nimesulide has regulatory restrictions in several jurisdictions because of hepat
 
 Keep the topical-NSAID pearl, but do not treat “best skin penetration” as a universal comparative fact.
 
-### Selective COX-2 inhibitors (“coxibs”)
+#### Selective COX-2 inhibitors (“coxibs”)
 
 - **Celecoxib**
 - **Etoricoxib**
@@ -1107,16 +1109,16 @@ Advantages:
 Disadvantage:
 - Cardiovascular and renal toxicity remain important.
 
-#### Withdrawn coxibs
+##### Withdrawn coxibs
 
 - **Rofecoxib**
 - **Valdecoxib**
 
 These drugs were withdrawn/restricted because of unacceptable safety signals, including cardiovascular thrombotic risk.
 
-## PARACETAMOL (ACETAMINOPHEN)
+### 6.9 Paracetamol (acetaminophen)
 
-### What The teaches
+#### What The teaches
 
 paracetamol:
 - “Safest drug overall”
@@ -1129,15 +1131,15 @@ that paracetamol is a **COX-3 inhibitor** brain.
 
 The clinically accepted mechanism is **not adequately explained by a human COX-3 enzyme model**. Evidence does not support treating “COX-3 inhibition” as the definitive human mechanism. Paracetamol has complex central actions involving prostaglandin pathways and metabolites including **AM404**, with downstream TRPV1/CB1-related signaling literature. [Ref 11]
 
-#### Pharmacologic profile
+##### Pharmacologic profile
 
 - Strong **analgesic** and **antipyretic** activity.
 - **Very weak anti-inflammatory** activity at usual doses compared with classical NSAIDs.
 - It should not be described as completely inactive on COX-1/COX-2 pathways; the biology is more complex.
 
-### Paracetamol toxicity
+#### Paracetamol toxicity
 
-#### Metabolism
+##### Metabolism
 
 A small fraction of paracetamol is metabolized by CYP enzymes to the reactive metabolite:
 **NAPQI = N-acetyl-p-benzoquinone imine**
@@ -1170,7 +1172,7 @@ Hepatocellular injury
 Centrilobular (zone 3) necrosis
 ```
 
-#### visual diagram
+##### visual diagram
 
 The page 18 image shows:
 ```text
@@ -1182,20 +1184,20 @@ PCM → CYP2E1 → NAPQI → Hepatotoxicity
 
 The accompanying histology image demonstrates central-zone necrosis with relative periportal sparing.
 
-#### Risk factors
+##### Risk factors
 
 - Alcohol
 - Smoking
 
 Chronic alcohol use can alter CYP2E1 activity, but the relationship between alcohol timing, nutritional status and toxicity is more nuanced than a simple “alcohol + paracetamol = toxicity” rule. Fasting/malnutrition can also increase vulnerability.
 
-#### Dose warning
+##### Dose warning
 
 >4 g/day increases hepatotoxicity risk.
 
 **4 g/day is not a universal overdose threshold.** Acute hepatotoxicity is assessed primarily after a potentially toxic **single acute ingestion** using the Rumack–Matthew nomogram when applicable, while chronic supratherapeutic dosing has different risk dynamics. Lower maximum daily doses may be recommended in some adults and products.
 
-## N-ACETYLCYSTEINE (NAC) — ANTIDOTE
+### 6.10 N-acetylcysteine (NAC) — antidote
 
 **N-acetylcysteine** is the antidote for clinically important paracetamol poisoning.
 
@@ -1204,7 +1206,7 @@ Mechanism:
 - Facilitates detoxification of **NAPQI**.
 - Remains beneficial even when started later than the ideal early window, especially in established toxicity.
 
-## RUMACK–MATTHEW NOMOGRAM
+### 6.11 Rumack–Matthew nomogram
 
 a visual nomogram on page 19.
 
@@ -1215,16 +1217,16 @@ a visual nomogram on page 19.
 
 The nomogram is **not** the correct tool for every paracetamol exposure. It does not apply same way to repeated supratherapeutic ingestion or an unknown-time ingestion.
 
-### Other nomograms named
+#### Other nomograms named
 
 - **Matzke nomogram** — vancomycin (historical/limited modern use)
 - **Hartford nomogram** — aminoglycoside extended-interval dosing contexts
 
 These are included because The explicitly lists them.
 
-## GOUT
+## 7. Gout
 
-### Pathophysiology
+### 7.1 Pathophysiology
 
 ```text
 Hyperuricemia
@@ -1238,7 +1240,7 @@ Acute monoarthritis
 
 the **first metatarsophalangeal joint** as the classic site.
 
-### Acute gout attack
+### 7.2 Acute gout attack
 
 #### Source sequence
 
@@ -1252,7 +1254,7 @@ The excludes:
 
 Current gout guidelines treat **NSAIDs, colchicine or glucocorticoids as first-line anti-inflammatory options**, chosen according to comorbidity and contraindications rather than a rigid universal sequence. [Ref 12]
 
-### Colchicine
+### 7.3 Colchicine
 
 #### Mechanism
 
@@ -1269,11 +1271,11 @@ Major toxicities include:
 - Bone-marrow suppression at toxic exposure
 - Neuromuscular toxicity, especially with renal dysfunction or interacting drugs
 
-**Important correction:** Colchicine is **not “renal safe.”** It requires careful dosing and toxicity monitoring in renal impairment.
+**Important correction:** Colchicine is **not “renal safe.”** It requires Carb careful dosing and toxicity monitoring in renal impairment.
 
-## CHRONIC GOUT — LOWERING URATE
+### 7.4 Chronic gout — lowering urate
 
-### Uric-acid synthesis pathway
+#### Uric-acid synthesis pathway
 
 ```text
 Purines
@@ -1285,7 +1287,7 @@ Xanthine
 Uric acid
 ```
 
-### Xanthine oxidase inhibitors
+#### Xanthine oxidase inhibitors
 
 - **Allopurinol**
 - **Oxypurinol** (active metabolite of allopurinol)
@@ -1295,25 +1297,25 @@ Mechanism:
 - Inhibit **xanthine oxidase**.
 - Decrease uric-acid synthesis.
 
-#### Allopurinol
+##### Allopurinol
 
 - Standard first-line urate-lowering therapy in many patients.
 - Requires low starting doses and gradual titration.
 - Particularly useful in patients with CKD when appropriately dosed.
 - Can cause **allopurinol hypersensitivity syndrome**.
 
-#### Febuxostat
+##### Febuxostat
 
 - Non-purine xanthine oxidase inhibitor.
 - Useful when allopurinol is not tolerated/appropriate.
 
 “febuxostat preferable now.” Current ACR guidance instead places **allopurinol as the preferred first-line urate-lowering therapy, including in CKD**, with febuxostat as an alternative in appropriate patients. [Ref 12]
 
-#### Urate target
+##### Urate target
 
 Current treat-to-target practice commonly aims for serum urate **<6 mg/dL** in patients receiving urate-lowering therapy. [Ref 12]
 
-### Uricase drugs
+#### Uricase drugs
 
 - **Pegloticase**
 - **Rasburicase**
@@ -1327,15 +1329,15 @@ Allantoin
 
 Allantoin is more soluble and readily excreted.
 
-#### Rasburicase
+##### Rasburicase
 
 - Particularly important in **tumor lysis syndrome** for rapid uric-acid reduction.
 
-#### Pegloticase
+##### Pegloticase
 
 - IV uricase therapy for **refractory chronic gout** under specialist management.
 
-### Uricosuric drugs
+#### Uricosuric drugs
 
 - **Probenecid**
 - **Sulfinpyrazone**
@@ -1346,7 +1348,7 @@ Allantoin is more soluble and readily excreted.
 Mechanism:
 - Increase renal uric-acid excretion, primarily by altering renal tubular urate transport.
 
-#### Status / nuance
+##### Status / nuance
 
 - **Probenecid** remains the best-known clinically established uricosuric in current practice.
 - Sulfinpyrazone and benzbromarone are variably used/available by country.
@@ -1355,7 +1357,7 @@ Mechanism:
 
 Uricosurics are not appropriate for every patient, especially those with significant renal impairment or uric-acid nephrolithiasis risk.
 
-### Drugs that increase uric acid — mnemonic cluster
+#### Drugs that increase uric acid — mnemonic cluster
 
 - **Pyrazinamide** — major hyperuricemic drug.
 - **Ethambutol** — can increase uric acid.
@@ -1364,7 +1366,7 @@ Uricosurics are not appropriate for every patient, especially those with signifi
 - **Thiazide diuretics**
 - **Loop diuretics**
 
-#### Drugs that may lower serum urate / have uricosuric effects
+##### Drugs that may lower serum urate / have uricosuric effects
 
 - **Losartan**
 - **Fenofibrate**
@@ -1372,9 +1374,9 @@ Uricosurics are not appropriate for every patient, especially those with signifi
 
 The “FALLS” concept is for memorization; clinically these drugs should not be started solely as gout therapy unless another indication supports them.
 
-## RHEUMATOID ARTHRITIS (RA)
+## 8. Rheumatoid arthritis and DMARDs
 
-### Source framework
+### 8.1 Source framework
 
 RA: an autoimmune inflammatory disease and uses a simplified type III + type IV hypersensitivity framework.
 
@@ -1388,7 +1390,7 @@ Description: predominance in middle-aged women.
 
 The type III + IV classification is a classical immunology teaching framework rather than a complete modern description of RA pathogenesis.
 
-### Symptomatic treatment vs disease modification
+### 8.2 Symptomatic treatment vs disease modification
 
 #### Acute pain/inflammation
 
@@ -1401,9 +1403,9 @@ The type III + IV classification is a classical immunology teaching framework ra
 
 The focuses on **conventional synthetic DMARDs (csDMARDs)** and then biologic/targeted therapies.
 
-## CONVENTIONAL SYNTHETIC DMARDs
+### 8.3 Conventional synthetic DMARDs
 
-### Methotrexate
+#### Methotrexate
 
 - **Drug of choice / cornerstone DMARD**
 - Most effective among conventional agents .
@@ -1413,25 +1415,25 @@ The focuses on **conventional synthetic DMARDs (csDMARDs)** and then biologic/ta
 
 Methotrexate remains a major first-line csDMARD for many patients with moderate-to-severe RA. Modern practice routinely considers **folic-acid supplementation**, contraindications, monitoring and reproductive planning. [Ref 13]
 
-#### Pregnancy
+##### Pregnancy
 
 - **Contraindicated in pregnancy** because of embryo-fetal toxicity.
 - Must be stopped before conception according to the relevant clinical protocol.
 
-### Sulfasalazine
+#### Sulfasalazine
 
 - Prodrug cleaved to:
  - **Sulfapyridine** → important for RA immunomodulatory effect.
  - **5-ASA (mesalazine-like moiety)** → important in ulcerative-colitis pharmacology.
 
-#### 5-ASA drugs named in source
+##### 5-ASA drugs named in source
 
 - **Mesalazine (mesalamine)**
 - **Olsalazine**
 
 this as a cross-link between RA and inflammatory bowel disease pharmacology.
 
-### Penicillamine
+#### Penicillamine
 
 - Copper chelator.
 - Classic use: **Wilson disease**.
@@ -1440,7 +1442,7 @@ this as a cross-link between RA and inflammatory bowel disease pharmacology.
 
 Penicillamine is largely a **historical/less commonly used RA DMARD**, not a routine modern first-line option.
 
-### Gold compounds
+#### Gold compounds
 
 gold because of:
 - Nephrotoxicity.
@@ -1448,7 +1450,7 @@ gold because of:
 
 Gold therapy is now largely historical in RA because safer, more effective DMARD strategies are available.
 
-### Leflunomide
+#### Leflunomide
 
 - **DHODH inhibitor**.
 - Reduces **pyrimidine synthesis**.
@@ -1458,7 +1460,7 @@ a high dose/loading concept of **100 mg**, but exact dosing schedules are formul
 
 **Major safety point:** **Contraindicated in pregnancy** because of embryo-fetal toxicity; it has a prolonged half-life and may require a **cholestyramine washout** in appropriate circumstances.
 
-### Chloroquine / Hydroxychloroquine
+#### Chloroquine / Hydroxychloroquine
 
 - Originally antimalarials.
 - Immunomodulatory effects.
@@ -1467,7 +1469,7 @@ a high dose/loading concept of **100 mg**, but exact dosing schedules are formul
 
 **Current clinical note:** Hydroxychloroquine is often useful in **milder RA** and is an important pregnancy-compatible DMARD option when appropriate. Retinal toxicity requires dose-aware ophthalmic screening/monitoring.
 
-## BIOLOGIC DMARDs — TNF-α INHIBITORS
+### 8.4 Biologic DMARDs — TNF-α inhibitors
 
 - **Infliximab**
 - **Golimumab**
@@ -1475,7 +1477,7 @@ a high dose/loading concept of **100 mg**, but exact dosing schedules are formul
 - **Certolizumab**
 - **Etanercept**
 
-### Important classification correction
+#### Important classification correction
 
 The broadly labels these as monoclonal antibodies.
 - **Infliximab** — monoclonal antibody.
@@ -1484,18 +1486,18 @@ The broadly labels these as monoclonal antibodies.
 - **Certolizumab pegol** — PEGylated antigen-binding fragment; **not a full-length monoclonal antibody**.
 - **Etanercept** — TNF receptor fusion protein; **not a monoclonal antibody**.
 
-### Routes
+#### Routes
 
 - **Infliximab:** IV infusion.
 - Others : generally SC.
 
-### Tuberculosis
+#### Tuberculosis
 
 The strongly emphasizes TB screening before infliximab.
 
 The principle applies to **TNF inhibitors as a classpatients should be evaluated for latent/active TB before and during therapy when clinically indicated, according to local protocols. Infliximab labeling specifically stresses TB risk and screening. [Ref 14]
 
-#### Why?
+##### Why?
 
 ```text
 TNF-α blockade
@@ -1505,7 +1507,7 @@ Reduced granuloma maintenance
 Risk of latent TB reactivation
 ```
 
-### Uses named by The — “RUPA” cluster
+#### Uses named by The — “RUPA” cluster
 
 The links TNF inhibition with:
 - **R**heumatoid arthritis
@@ -1515,7 +1517,7 @@ The links TNF inhibition with:
 
 Useful mnemonic. Actual approved indications differ by individual agent.
 
-## OTHER BIOLOGIC / TARGETED DMARDs
+### 8.5 Other biologic / targeted DMARDs
 
 | Target | Drug(s) in | Class / high-yield mechanism |
 |---|---|---|
@@ -1526,7 +1528,7 @@ Useful mnemonic. Actual approved indications differ by individual agent.
 
 These are biologic/targeted immunomodulators used in selected RA patients based on disease severity, treatment response and comorbidity.
 
-## JAK INHIBITORS / TARGETED SYNTHETIC DMARDs
+### 8.6 JAK inhibitors / targeted synthetic DMARDs
 
 - **Tofacitinib** — JAK1/JAK3
 - **Baricitinib** — JAK1/JAK2
@@ -1535,18 +1537,18 @@ These are biologic/targeted immunomodulators used in selected RA patients based 
 Suffix clue:
 > **“-tinib”** → think JAK inhibitor in this source.
 
-### Classification correction
+#### Classification correction
 
 these “biologics.”
 
 JAK inhibitors are **targeted synthetic DMARDs (tsDMARDs)**, not biologic DMARDs. ACR terminology separates csDMARDs, biologic DMARDs and targeted synthetic DMARDs. [Ref 13]
 
-### Route
+#### Route
 
 - JAK inhibitors are **oral small molecules**.
 - Most biologic DMARDs are injectable/infusional.
 
-### Safety
+#### Safety
 
 JAK inhibitors carry important warnings concerning:
 - Major adverse cardiovascular events
@@ -1558,7 +1560,7 @@ The FDA's 2021 safety communication was driven by a large RA safety trial compar
 
 **Exam pearl:** “Oral DMARD targeting intracellular JAK-STAT signaling.”
 
-## RA + INFLAMMATORY BOWEL DISEASE CROSS-LINKS
+### 8.7 RA + inflammatory bowel disease cross-links
 
 overlap between:
 - **Sulfasalazine**
@@ -1567,9 +1569,9 @@ overlap between:
 
 The indication should be stated at the **drug level**, not as a blanket “all IBD” rule. For example, tofacitinib is approved for **ulcerative colitis**, but not as a general treatment for every form of IBD such as Crohn disease. Sulfasalazine is particularly relevant to **ulcerative colitis** and selected RA use.
 
-## HIGH-YIELD COMPARISON TABLES
+## 9. High-yield comparison tables
 
-### H1 antihistamines
+### 9.1 H1 antihistamines
 
 | Drug/class | BBB | Sedation | Key use/pearl |
 |---|---|---|---|
@@ -1579,7 +1581,7 @@ The indication should be stated at the **drug level**, not as a blanket “all I
 | Levocetirizine | Limited | Can occur | Allergy |
 | Betahistine | Not a conventional H1 blocker | Not used as a sedating antihistamine | Vertigo teaching pearl |
 
-### Serotonin receptor drugs
+### 9.2 Serotonin receptor drugs
 
 | Receptor | Drug(s) | Clinical association |
 |---|---|---|
@@ -1591,7 +1593,7 @@ The indication should be stated at the **drug level**, not as a blanket “all I
 | **5-HT3** | Ondansetron etc. | Nausea/vomiting; alosetron for selected severe IBS-D |
 | **5-HT4** | Prucalopride | GI prokinetic/constipation |
 
-### Migraine acute vs prevention
+### 9.3 Migraine acute vs prevention
 
 | Setting | drugs | Current nuance |
 |---|---|---|
@@ -1599,7 +1601,7 @@ The indication should be stated at the **drug level**, not as a blanket “all I
 | Prevention | Propranolol, topiramate, valproate, amitriptyline, flunarizine/verapamil; CGRP therapies | Current AHS/AAN guidance includes a broad range of established and newer preventive options [Ref 1] |
 | Pregnancy | Paracetamol in source | Prevention is not categorically prohibited; ACOG recommends individualized management [Ref 2] |
 
-### Antiemetics
+### 9.4 Antiemetics
 
 | Class | Examples | Main mechanism |
 |---|---|---|
@@ -1608,7 +1610,7 @@ The indication should be stated at the **drug level**, not as a blanket “all I
 | Cannabinoids | Dronabinol, nabilone | Cannabinoid receptor agonism |
 | D2 antagonists | Metoclopramide, domperidone | Dopamine blockade; antiemetic/prokinetic effects |
 
-### Prostaglandin drug map
+### 9.5 Prostaglandin drug map
 
 | Drug | Prostanoid analogue / target | Major use from |
 |---|---|---|
@@ -1621,7 +1623,7 @@ The indication should be stated at the **drug level**, not as a blanket “all I
 | Latanoprost etc. | PGF2α-related | Glaucoma |
 | Epoprostenol etc. | PGI2 | PAH |
 
-### NSAID selectivity
+### 9.6 NSAID selectivity
 
 | Group | Examples | Major teaching point |
 |---|---|---|
@@ -1630,7 +1632,7 @@ The indication should be stated at the **drug level**, not as a blanket “all I
 | Selective COX-2 | Celecoxib, etoricoxib, parecoxib | Less GI toxicity than nonselective NSAIDs, but CV/renal risk persists |
 | Irreversible COX inhibitor | **Aspirin** | Unique platelet effect |
 
-### Gout drugs
+### 9.7 Gout drugs
 
 | Clinical goal | Drug/class |
 |---|---|
@@ -1639,7 +1641,7 @@ The indication should be stated at the **drug level**, not as a blanket “all I
 | Convert urate to allantoin | Rasburicase / pegloticase |
 | Increase urate excretion | Probenecid and selected uricosurics |
 
-### RA DMARD taxonomy
+### 9.8 RA DMARD taxonomy
 
 | Class | Examples |
 |---|---|
@@ -1648,7 +1650,7 @@ The indication should be stated at the **drug level**, not as a blanket “all I
 | Biologic DMARDs | TNF inhibitors, tocilizumab, sarilumab, rituximab, abatacept, anakinra |
 | tsDMARDs | Tofacitinib, baricitinib, upadacitinib |
 
-## SOURCE-CRITICAL CORRECTIONS TO MEMORIZE
+## 10. Source-critical corrections to memorize
 
 This section is deliberately compact: it identifies statements that should **not** be carried into clinical reasoning without qualification.
 
@@ -1663,7 +1665,7 @@ This section is deliberately compact: it identifies statements that should **not
 | Lorcaserin was banned specifically for GI cancer | FDA withdrawal followed an **increased overall cancer signal**; wording is broader. |
 | 5-HT3 blockers are sufficient for CINV early phase, then aprepitant delayed | Modern CINV prophylaxis is risk-based and commonly uses **5-HT3 + NK1 + dexamethasone ± olanzapine**. |
 | Domperidone has no important cardiac issue | QT prolongation/torsades and serious arrhythmias are important safety concerns. |
-| Carbetocin is drug of choice for labour induction | Carbetocin is primarily a **long-acting oxytocin analogue for PPH prevention** in selected settings. |
+| Carbetocin is drug of choice for labour induction |etocin is primarily a **long-acting oxytocin analogue for PPH prevention** in selected settings. |
 | Ergometrine/methylergometrine are not used for PPH | They may be used in selected contexts if hypertensive disease is excluded. |
 | ABC tocolytic mnemonic is the current algorithm | Current guidance commonly prioritizes **nifedipine**, with atosiban when needed; betamimetics are not recommended by NICE. |
 | Corticosteroids simply “block PLA2” | Upstream inflammatory suppression involves annexin A1 and broad genomic effects. |
@@ -1679,7 +1681,7 @@ This section is deliberately compact: it identifies statements that should **not
 | Tofacitinib is approved for all IBD | Tofacitinib has an indication for **ulcerative colitis**, not blanket all-IBD use. |
 | TB screening only matters with infliximab | TB assessment matters for **TNF inhibitors as a class** and other immunosuppressive therapies according to risk. |
 
-## HIGH-YIELD EXAM ASSOCIATIONS
+## 11. High-yield exam associations
 
 ### Histamine
 
@@ -1752,7 +1754,7 @@ This section is deliberately compact: it identifies statements that should **not
 - **TNF inhibitors** → TB reactivation risk.
 - **JAK inhibitors** → oral tsDMARDs.
 
-## DERIVED ITEMS THAT COULD NOT BE RELIABLY EXPANDED
+## 12. Derived items that could not be reliably expanded
 
 some compressed or highly simplified statements that cannot safely be converted into a more specific clinical claim without importing material not actually present . Those have deliberately been kept at the level shown below rather than invented:
 - Exact clinical dosing schedules for all migraine drugs.
@@ -1765,7 +1767,7 @@ some compressed or highly simplified statements that cannot safely be converted 
 
 Where The gave a clear exam dose or a named regimen (for example **carboprost 250 micrograms IM, maximum eight injections/day**), the value has been retained and labeled as rather than silently broadened.
 
-## References
+## 13. References
 
 The following sources were used specifically to resolve important inaccuracies, outdated teaching points, or current clinical-context issues. They are **not** intended to replace The as the primary source; they identify where The simplified statements need updating.
 
