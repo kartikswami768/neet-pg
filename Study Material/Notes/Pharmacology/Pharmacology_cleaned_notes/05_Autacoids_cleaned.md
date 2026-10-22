@@ -578,23 +578,34 @@ Thus:
 # 14. ANTI-INFLAMMATORY DRUGS AND THE ARACHIDONIC-ACID PATHWAY
 ## 14.1 Core pathway
 a pathway from membrane phospholipids to arachidonic acid and then divides it into COX and LOX branches.
-```text
-Cell-membrane phospholipids
- │
- │ phospholipase A2
- ↓
- Arachidonic acid
- / \
- / \
- ↓ ↓
- COX pathway 5-LOX pathway
- ↓ ↓
- PGE2/other Leukotrienes
- prostanoids (LTs)
- + TXA2 ↓
- ↓ Inflammation,
- Pain, fever, bronchoconstriction,
- inflammation chemotaxis etc.
+
+```mermaid
+flowchart TD
+    A["Cell-membrane phospholipids"]
+    B["Arachidonic acid"]
+    C["COX pathway"]
+    D["5-LOX pathway"]
+    E["PGE2 / other prostanoids<br>+ TXA2"]
+    F["Leukotrienes (LTs)"]
+    G["Inflammation,<br>pain, fever"]
+    H["Inflammation,<br>bronchoconstriction,<br>chemotaxis etc."]
+
+    A -->|"phospholipase A2"| B
+    B --> C
+    B --> D
+    C --> E
+    D --> F
+    E --> G
+    F --> H
+
+    style A fill:#f9e79f,stroke:#b7950b
+    style B fill:#f5b7b1,stroke:#c0392b
+    style C fill:#aed6f1,stroke:#2874a6
+    style D fill:#aed6f1,stroke:#2874a6
+    style E fill:#d7bde2,stroke:#7d3c98
+    style F fill:#d7bde2,stroke:#7d3c98
+    style G fill:#f5cba7,stroke:#ca6f1e
+    style H fill:#f5cba7,stroke:#ca6f1e
 ```
 ## 14.2 Drug classes by pathway
 | Target | Drug/class from | Main consequence |
