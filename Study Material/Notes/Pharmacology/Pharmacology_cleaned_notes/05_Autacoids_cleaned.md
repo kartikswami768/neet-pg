@@ -597,8 +597,8 @@ flowchart TD
     D --> F
     E --> G
     F --> H
-
-    style A fill:#f9e79f,stroke:#b7950b
+    
+	style A fill:#f9e79f,stroke:#b7950b
     style B fill:#f5b7b1,stroke:#c0392b
     style C fill:#aed6f1,stroke:#2874a6
     style D fill:#aed6f1,stroke:#2874a6
