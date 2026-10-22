@@ -618,15 +618,14 @@ prokinetic activity**.
 
 Neostigmine has a particularly important role in    **acute colonic pseudo-obstruction ( DOgilvie syndrome)** after conservative measures fail and after contraind -->ications are assessed.
 
-## 4. Pro Fstaglandins and other eicosanoids
+## 4. Prostaglandins and other eicosanoids
 
 
-### 4   .1 Core prostanoid map
+### 4  .1 Core prostanoid map
 
- E| Mediator | Key action / high-yield association |
-|---|---|
-| ** -->PGE1** | Vasodilation, gastric G mucosal effects, cervical/uterine pharmacology; PDA pat
-ency |
+| Mediator     | Key action / high-yield association                                             |
+| ------------ | ------------------------------------------------------------------------------- |
+| ** -->PGE1** | Vasodilation, gastric G mucosal effects, cervical/uterine pharmacology; PDA patency |
 | **PGE2** | Cerv   ical ripening and uterine effects |
 | **PGF2 Fα** | Uterine contraction; ophthal -->mic prostaglandins reduce IOP via uveos Hcleral outflow |
 | **PGI2 (pro
