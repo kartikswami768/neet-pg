@@ -1,0 +1,34 @@
+{
+  "package_name": "Physiology_Prep_XI_Chapters_21-60",
+  "source_pdf": "2.Physiology_Prep_Xi_A4 2.pdf",
+  "chapters_expected": 40,
+  "chapters_present": 40,
+  "chapter_ids_expected": "21-60 inclusive",
+  "chapter_files_missing": [],
+  "original_pdf_page_span": {
+    "start": 152,
+    "end": 423,
+    "inclusive_pages": 272
+  },
+  "chapter_ranges_contiguous": true,
+  "embed_references_total": 325,
+  "embed_assets_unique": 325,
+  "image_files_copied": 325,
+  "missing_image_targets": [],
+  "unreferenced_assets_in_build_source": [],
+  "image_embed_targets_all_exist": true,
+  "all_copied_assets_referenced": true,
+  "markdown_pipe_table_blocks": 128,
+  "table_row_width_discrepancies": [],
+  "content_modified_at_compile": false,
+  "image_provenance": {
+    "chapters_21_52": "Crops rebuilt from original PDF page renders using OCR/text positions and crop layout rules; contact sheets inspected as groups; not every crop individually verified.",
+    "chapters_53_60": "Figure assets retained from latest batch packages."
+  },
+  "source_content_review_status": "needs_review: existing chapter notes were not re-proofread line-by-line during compilation; unresolved source/OCR issues remain in prior batch QA.",
+  "zip_integrity": "passed",
+  "zip_member_count": 371,
+  "zip_chapter_notes": 40,
+  "zip_image_assets": 325,
+  "zip_size_bytes": 55871427
+}
