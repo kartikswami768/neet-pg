@@ -1,5 +1,5 @@
 ---
-title: Special Senses: Visual and Auditory Receptors
+title: Special Senses Visual and Auditory Receptors
 subject: Physiology
 chapter: 20
 tags:
@@ -8,6 +8,7 @@ tags:
   - special-senses
   - vision
   - hearing
+Organ System: Neurology
 ---
 
 # 20. Special Senses: Visual and Auditory Receptors

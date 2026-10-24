@@ -7,6 +7,7 @@ tags:
   - neuroscience
   - basal-ganglia
   - cerebellum
+Organ System: Neurology
 ---
 
 # 19. Basal Ganglia and Cerebellum
