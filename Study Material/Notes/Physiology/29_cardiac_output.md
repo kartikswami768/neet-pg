@@ -78,14 +78,10 @@ Stroke Volume (SV) × HR = CO; CO × Total Peripheral Resistance (TPR) = Mean Ar
 **Chronic response:**
 - After 15–20 minutes, increased release of calcium from the sarcoplasmic reticulum occurs with high afterload — the late effect of Anrep.
 
-![[images/ch29_p221_contractility_factors_table.png]]
-![[images/ch29_p221_anrep_effect_flowchart.png]]
-
 | Heterometric regulation of CO | Homometric regulation of CO |
 |---|---|
 | A change in end-diastolic volume (EDV)/myocardial length, or preload, changes cardiac output. | Increasing or decreasing afterload and increasing or decreasing contractility changes cardiac output. |
 
-![[images/ch29_p221_heterometric_homometric_regulation_table.png]]
 
 ### FRANK–STARLING CURVE
 - X-axis: length; Y-axis: tension.
@@ -111,8 +107,6 @@ Stroke Volume (SV) × HR = CO; CO × Total Peripheral Resistance (TPR) = Mean Ar
 - ACE inhibitors reduce angiotensin II production, causing venodilation and arteriolar dilation. Venodilation allows more pooling of blood in the veins; venous return and EDV decrease.
 
 ![[images/ch29_p222_frank_starling_curves.png]]
-![[images/ch29_p222_heart_failure_stroke_volume_edp_curve.png]]
-![[images/ch29_p222_heart_failure_treatment_shift_table.png]]
 
 - In arterioles, a decrease in TPR reduces afterload; therefore, SV increases.
 - ACE inhibitors reduce angiotensin II levels and decrease ventricular preload and afterload:
@@ -186,7 +180,6 @@ Stroke Volume (SV) × HR = CO; CO × Total Peripheral Resistance (TPR) = Mean Ar
 | Impedance cardiography / thoracic bioimpedance | Electrodes are placed on the chest surface and a low-amplitude current is passed. The source gives an error percentage of 20%. |
 | Velocity-encoded phase-contrast MRI | The source calls this the most accurate method for measuring CO and says it is currently used for research rather than clinically. |
 
-![[images/ch29_p226_cardiac_output_measurement_methods_table.png]]
 
 ### FICK'S PRINCIPLE
 
