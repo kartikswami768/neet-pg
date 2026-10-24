@@ -81,25 +81,25 @@ Also called **congenital megacolon** or **intestinal aganglionosis**.
 - Common site: distal colon (rectosigmoid).
 - Pathology: congenital absence of enteric neurons in both the myenteric and Meissner’s plexuses.
 - Cause: failed migration of neural crest cells (precursors of enteric ganglion cells) during fetal development.
-- Genes listed in the source: **RET, GDNF and GFRα1**.
+- Genes listed in the source: ==**RET, GDNF and GFRα1**.==
 
 ## Motility of the GIT
 
 Motility is divided into electrical events and mechanical events.
 
 - Electrical event: **basal/basic electrical rhythm (BER)**.
-- Fed-state mechanical motility: peristalsis, mass movement in the large gut and segmentation.
-- Fasting-state motility: **migrating motor complex (MMC)**.
+- <strong>Fed-state mechanical motility:</strong> peristalsis, mass movement in the large gut and segmentation.
+- <strong>Fasting-state motility</strong>: **migrating motor complex (MMC)**.
 - The source identifies segmentation as the most common GIT motility in the fed state.
 
 ## Basal/basic electrical rhythm (BER)
 
 - BER represents fluctuations in the resting membrane potential (RMP) of GI smooth muscle.
 - Unlike skeletal muscle, myocardium or neurons with a fixed RMP, GI smooth-muscle membrane voltage fluctuates between **−65 mV and −45 mV**.
-- Pacemaker cells, the **interstitial cells of Cajal**, drive these fluctuations; marker: **c-KIT**.
+- Pacemaker cells, the **interstitial cells of Cajal**, drive these fluctuations; ==marker: **c-KIT**.==
 - They are responsible for spontaneous voltage fluctuations, compared by the source with the cardiac SA node.
-- BER alone cannot produce muscle contraction.
-- **Cholinergic stimulation:** acetylcholine raises BER above −45 mV, generating spike potentials and triggering smooth-muscle contraction.
+- ==BER alone cannot produce muscle contraction==.
+- **Cholinergic stimulation:** acetylcholine ==raises BER above −45 mV, generating spike potentials== and triggering smooth-muscle contraction.
 - **Adrenergic stimulation:** lowers BER below threshold, inhibiting spike potentials and causing smooth-muscle relaxation.
 
 ![[images/50_p348_ber_spike_graph.png]]
@@ -111,7 +111,7 @@ Motility is divided into electrical events and mechanical events.
 | GIT region | Rate listed in the source |
 |---|---:|
 | Stomach | 4/min |
-| Duodenum | 12/min (maximum) |
+| Duodenum | ==12/min (maximum==) |
 | Jejunum | 11–12/min |
 | Ileum | 8/min |
 | Cecum | 2/min (minimum) |
@@ -122,24 +122,24 @@ Motility is divided into electrical events and mechanical events.
 - Propulsive motility seen throughout the GIT.
 - Speed: **2–25 cm/sec**.
 - Mechanism: contraction proximal to the bolus and relaxation distal to it, moving food forward.
-- A food bolus stretches intestinal smooth muscle → epithelial cells release serotonin → serotonin activates ENS ganglia.
-  - Distal GIT neurons release **NO, VIP and ATP** → relaxation.
-  - Proximal GIT neurons release **ACh and substance P** → contraction.
+- A food bolus stretches intestinal smooth muscle → ==epithelial cells release serotonin== → serotonin activates ENS ganglia.
+  - ==Distal GIT neurons release== **NO, VIP and ATP** → relaxation.
+  - ==Proximal GIT neurons release== **ACh and substance P** → contraction.
 
 ![[images/50_p348_peristalsis_pathway.png]]
 
 ## Mass movement
 
 - A special type of peristalsis in the colon.
-- Frequency: **3–4 times per day after meals**.
+- Frequency: ==**3–4 times per day after meals**==.
 - Prominent in infants.
 - Initiated by gastrocolic (postprandial motility of colon) or duodenocolic reflexes, and by colonic distension.
-- The source states that postprandial colonic motility is greatest in the sigmoid colon, followed by the transverse colon.
+- The source states that postprandial colonic motility is ==greatest in the sigmoid colon, followed by the transverse colon.==
 - Abolished by destruction of Auerbach’s plexus.
 
 ## Segmentation
 
-- Non-propulsive GIT motility required for digestion and absorption.
+- ==Non-propulsive GIT motility required for digestion and absorption.==
 - Circular smooth muscle contracts, segmenting the GIT into multiple parts.
 - A segment contracts, dividing the food bolus into proximal and distal parts. The contracted area relaxes and previously relaxed areas contract, pushing the food back.
 - This to-and-fro motion mixes food with GIT secretions, aiding digestion and absorption.
@@ -147,14 +147,14 @@ Motility is divided into electrical events and mechanical events.
 ## Migratory motor complex (MMC)
 
 - Occurs during fasting.
-- Starts in the mid-stomach and ends at the terminal ileum, with strong GI smooth-muscle contractions.
+- ==Starts in the mid-stomach and ends at the terminal ileum==, with strong GI smooth-muscle contractions.
 - Function: clears contents of the stomach and small intestine between meals; also called the **housekeeping function** of the GIT.
 - Three phases:
   - **Phase I:** quiescent period.
   - **Phase II:** irregular electrical and mechanical activity.
   - **Phase III:** burst of regular activity.
 - Speed listed in the source: **5 cm/min**.
-- Starts **90–120 minutes after a meal** and recurs at intervals of about **90 minutes** until the next meal.
+- Starts ==**90–120 minutes after a meal** and recurs at intervals of about **90 minutes** until the next meal.==
 - Controlled by **motilin**, secreted by Mo cells of the small intestine, as described in the source.
 
 ![[images/50_p349_segmentation_diagram.png]]
