@@ -6,6 +6,7 @@ tags:
   - physiology
   - gastrointestinal-physiology
   - secretion-and-absorption
+handwriting-page-id: d796a64a-85a1-4f01-866a-12569d06554c
 ---
 
 # Secretion and Absorption
@@ -156,7 +157,7 @@ Cross-stimulation described in the source:
 
 ![[images/52_p360_pancreatic_secretion_diagram.png]]
 
-![[images/52_p360_secretory_composition_graphs.png]]
+![[images/52_p360_secretory_composition_graphs.png]]I
 
 ## Absorption of nutrients in the GIT
 
@@ -186,7 +187,7 @@ Cross-stimulation described in the source:
 - Inside the cell, triglycerides are resynthesised into chylomicrons.
 - Chylomicrons exit by exocytosis, enter lymph through lacteals and reach the bloodstream via the thoracic duct.
 
-![[images/52_p361_carbohydrate_absorption.png]]
+
 
 ![[images/52_p361_regional_absorption.png]]
 
