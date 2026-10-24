@@ -41,3 +41,29 @@ He reports occasional severe, sharp epigastric pain accompanied by nausea and vo
 
 ## Core Pathophysiology
 
+```
+Treponema pallidum infection (Primary Syphilis)
+                     │
+                     ▼ (Decades of latency: 10–30 years)
+Chronic spirochetal invasion of dorsal nerve roots & meninges
+                     │
+                     ▼
+Parenchymal degeneration & demyelination of Posterior Columns
+(Fasciculus Gracilis & Cuneatus)
+                     │
+   ┌─────────────────┴─────────────────┐
+   ▼                                   ▼
+Loss of Proprioception & Vibration   Loss of Reflex Arcs & Pain Fibers
+   │                                   │
+   ├─► Sensory Ataxia (Stamping Gait)  ├─► Areflexia (Westphal's Sign)
+   ├─► Positive Romberg Sign           ├─► Lightning Pains
+   └─► Charcot Joint Formation         └─► Visceral Crises
+```
+## Management Plan
+ ### * Definitive Antimicrobial Therapy:
+   * Aqueous Crystalline Penicillin G: 18 to 24 million units daily, administered intravenously (3–4 million units IV every 4 hours) for 14 days.
+   * Alternative (if compliance permits or inpatient IV unavailable): Procaine Penicillin G 2.4 million units IM daily PLUS Probenecid 500 mg PO QID for 14 days.
+ ### * Symptom & Supportive Care:
+   * Lightning Pains: Carbamazepine, Gabapentin, or Pregabalin.
+   * Bladder Dysfunction: Clean intermittent catheterization (CIC) or alpha-blockers.
+   * Physical Therapy: Proprioceptive re-education, mobility aids, and gait training utilizing visual cues.
