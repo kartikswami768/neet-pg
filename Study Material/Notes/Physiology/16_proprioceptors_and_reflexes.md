@@ -25,13 +25,13 @@ tags:
 ### Location and structure
 
 - Sensory receptor of skeletal muscle, located in the main muscle bulk/belly within the muscle fibre.
-- Total muscle spindles in the body: **50,000**; per arm: **7,000**; per leg: **4,000** (values as listed in the source).
-- Muscle spindles are composed of non-contractile **intrafusal fibres** and are surrounded by contractile **extrafusal fibres**.
+- Total muscle spindles in the body: **50,000**; <u>per arm: **7,000**</u>; <u>per leg: **4,000**</u> (values as listed in the source).
+- Muscle spindles are ==composed of non-contractile **intrafusal fibres** and are surrounded by contractile **extrafusal fibres**.==
 - Golgi tendon organs are located at the musculotendinous junction.
 
 ![[images/ch16_p114_spindle_and_gto_location.png]]
 
-- The muscle spindle is an encapsulated sensory receptor with three intrafusal muscle fibres (as stated in the source).
+- The muscle spindle is an <u>encapsulated sensory receptor</u> with <strong>three intrafusal muscle fibres</strong> (as stated in the source).
 - **Nuclear bag fibres:** multiple nuclei inside a central bag of a single muscle fibre.
 - **Nuclear chain fibres:** nuclei are arranged along the length of the fibre at regular intervals.
 
@@ -39,12 +39,12 @@ tags:
 
 The source further lists **nuclear bag fibres (2–3)** and **nuclear chain fibres (5–9)** according to their functions:
 
-| Intrafusal fibre type | Function listed in source |
-|---|---|
-| Dynamic nuclear bag | Detects velocity (length change with time) of skeletal muscle. |
-| Static nuclear bag | Detects muscle length. |
-| Static nuclear chain | Detects muscle length. |
-
+| Intrafusal fibre type | Function listed in source                                      | Afferent Connection |
+| --------------------- | -------------------------------------------------------------- | ------------------- |
+| Dynamic nuclear bag   | Detects velocity (length change with time) of skeletal muscle. | Ia                  |
+| Static nuclear bag    | Detects muscle length.                                         | Ia, II              |
+| Static nuclear chain  | Detects muscle length.                                         | Ia, II              |
+-
 ![[images/ch16_p115_intrafusal_fibre_types.png]]
 
 ## Afferent and efferent connections of the muscle spindle
