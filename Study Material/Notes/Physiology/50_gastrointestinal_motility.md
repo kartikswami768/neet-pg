@@ -48,7 +48,7 @@ The outermost layer, covering the surface of the GIT.
 
 **Enteric nervous system (ENS):** the combination of Meissner’s plexus and the myenteric plexus.
 
-![[images/50_p346_gi_wall_layers.png]]
+.
 
 ## Villi and crypts
 

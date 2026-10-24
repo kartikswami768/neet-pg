@@ -138,10 +138,9 @@ The pump moves Na⁺ against its gradient to the outside of the cell and K⁺ ag
 
 - Rate of transport is determined by **Fick's law of simple diffusion**.
 
-\[
+$$
 J = \frac{D \cdot A \cdot \Delta C}{X}
-\]
-
+$$
 - **D:** diffusion constant.
 - **A:** surface area of the membrane (of diffusion).
 - **ΔC:** concentration gradient between two compartments; described as the main factor determining the rate of simple diffusion.

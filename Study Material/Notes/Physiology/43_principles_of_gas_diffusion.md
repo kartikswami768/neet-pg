@@ -30,9 +30,9 @@ tags:
 - Gas exchange in the lung occurs by simple diffusion.
 - **Fick's law:**
 
-  \[
+  $$
   D = \frac{\Delta P \times A \times K}{d}
-  \]
+  $$
 
   - ΔP: partial-pressure difference.
   - A: surface area.
