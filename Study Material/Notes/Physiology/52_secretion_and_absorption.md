@@ -79,7 +79,7 @@ The original extracted table’s alignment is imperfect; empty cells above remai
 ### Regulation of salivary secretion
 
 - **Parasympathetic stimulation:** increases volume, producing more watery secretion.
-- **Sympathetic stimulation:** also increases secretion, but produces more mucous secretion.
+- ==**Sympathetic stimulation:** also increases secretion, but produces more mucous secretion.==
 - At high flow rate, the source lists increases in osmolarity, pH, Na⁺, Cl⁻ and HCO₃⁻, with a decrease in K⁺.
 - At low flow rate, the source lists increased K⁺ and decreases in osmolarity, pH, Na⁺, Cl⁻ and HCO₃⁻.
 
@@ -91,7 +91,7 @@ The original extracted table’s alignment is imperfect; empty cells above remai
   - Parietal (oxyntic) cells: H⁺ and intrinsic factor (IF).
   - Chief (peptic) cells: pepsinogen.
 - **Cardiac tubular glands:** soluble mucus.
-- **Pyloric (antral) glands:** mucus cells, G cells (gastrin), D cells (somatostatin), and chief cells; the source states there are no parietal cells.
+- **Pyloric (antral) glands:** mucus cells, G cells (gastrin), D cells (somatostatin), and chief cells; the source states ==there are no parietal cells.==
 
 ## Acid secretion in the parietal cell
 
@@ -157,7 +157,7 @@ Cross-stimulation described in the source:
 
 ![[images/52_p360_pancreatic_secretion_diagram.png]]
 
-![[images/52_p360_secretory_composition_graphs.png]]I
+![[images/52_p360_secretory_composition_graphs.png]]
 
 ## Absorption of nutrients in the GIT
 
