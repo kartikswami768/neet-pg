@@ -1,0 +1,89 @@
+
+/01_Study Material/PDFs/
+/.git/
+
+/.trash/
+
+# =========================================================
+# OBSIDIAN — DEVICE-SPECIFIC / DO NOT SYNC
+# =========================================================
+
+# Device-specific appearance
+.obsidian/appearance.json
+
+# Device-specific community plugin installation/enabled list
+.obsidian/community-plugins.json
+
+# Device-specific workspace state
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+
+# Device-specific keyboard shortcuts
+.obsidian/hotkeys.json
+
+# Obsidian plugin bundle/cache
+.obsidian/plugins.zip
+
+
+# =========================================================
+# COMMUNITY PLUGIN FILES — DO NOT SYNC
+# =========================================================
+
+# Ignore plugin code, manifests and styles
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/manifest.json
+.obsidian/plugins/*/styles.css
+
+# Ignore all plugin settings by default
+.obsidian/plugins/*/data.json
+
+
+# =========================================================
+# EXCEPTIONS — SYNC SETTINGS FOR THESE PLUGINS
+# =========================================================
+
+# Editing Toolbar
+!.obsidian/plugins/editing-toolbar/data.json
+
+# Annotation Marker
+!.obsidian/plugins/annotation-marker/data.json
+
+# Excalidraw
+!.obsidian/plugins/obsidian-excalidraw-plugin/data.json
+
+# Tasks
+!.obsidian/plugins/obsidian-tasks-plugin/data.json
+
+# TaskNotes
+!.obsidian/plugins/tasknotes/data.json
+
+# Templater
+!.obsidian/plugins/templater-obsidian/data.json
+# Spaced Repetition — sync plugin settings and review/scheduling data
+!.obsidian/plugins/obsidian-spaced-repetition/data.json
+
+01_Study Material/PDFs/Tao Le and Vikas Bhushan – First Aid for the USMLE Step 1 (2025, McGraw Hill) – libgen.li-1.pdf
+
+/01_Study Material/PDFs/*.pdf
+/01_Study Material/PDFs/*/*.pdf
+/01_Study Material/PDFs/World of revision/
+
+# =========================================================
+# INK ANNOTATION — INTENTIONALLY SYNC PLUGIN CODE
+# =========================================================
+# The English Ink Annotation build is tracked so Git sync can install/update it on other devices.
+!.obsidian/plugins/ink-annotation/main.js
+!.obsidian/plugins/ink-annotation/manifest.json
+!.obsidian/plugins/ink-annotation/styles.css
+!.obsidian/plugins/ink-annotation/LICENSE
+
+
+# Tap Heading to Fold — intentionally sync plugin code to other devices
+!.obsidian/plugins/tap-heading-to-fold/main.js
+!.obsidian/plugins/tap-heading-to-fold/manifest.json
+
+# Reading Highlighter Extended — intentionally sync companion plugin code
+!.obsidian/plugins/reading-highlighter-extended/main.js
+!.obsidian/plugins/reading-highlighter-extended/manifest.json
+!.obsidian/plugins/reading-highlighter-extended/styles.css
+!.obsidian/plugins/reading-highlighter-extended/README.md
