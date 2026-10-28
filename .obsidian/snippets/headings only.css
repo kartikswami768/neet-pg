@@ -1,0 +1,30 @@
+/* =========================================
+   HEADINGS ONLY MODE
+   Shows only H1–H6 in Reading View
+   ========================================= */
+
+.headings-only .markdown-preview-view p,
+.headings-only .markdown-preview-view ul,
+.headings-only .markdown-preview-view ol,
+.headings-only .markdown-preview-view table,
+.headings-only .markdown-preview-view img,
+.headings-only .markdown-preview-view pre,
+.headings-only .markdown-preview-view blockquote,
+.headings-only .markdown-preview-view hr,
+.headings-only .markdown-preview-view .callout,
+.headings-only .markdown-preview-view .math-block,
+.headings-only .markdown-preview-view .audio-embed,
+.headings-only .markdown-preview-view .internal-embed,
+.headings-only .markdown-preview-view .markdown-embed {
+    display: none;
+}
+
+/* Keep headings visible */
+.headings-only .markdown-preview-view h1,
+.headings-only .markdown-preview-view h2,
+.headings-only .markdown-preview-view h3,
+.headings-only .markdown-preview-view h4,
+.headings-only .markdown-preview-view h5,
+.headings-only .markdown-preview-view h6 {
+    display: block;
+}

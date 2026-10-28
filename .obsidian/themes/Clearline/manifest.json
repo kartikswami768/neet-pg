@@ -1,0 +1,8 @@
+{
+  "name": "Clearline",
+  "version": "1.0.8",
+  "minAppVersion": "1.5.0",
+  "author": "Personal",
+  "authorUrl": "https://obsidian.md",
+  "description": "A lightweight Apple-inspired Obsidian theme focused on note typography and colour while preserving native app layout, preferences, touch targets, and scrolling behaviour."
+}

@@ -1,0 +1,22 @@
+filters:
+  and:
+    - type == "curriculum"
+    - next_revision
+views:
+  - type: table
+    name: Revision Queue
+    filters:
+      and:
+        - date(next_revision).format("YYYY-MM-DD") <= (today() + "14 days").format("YYYY-MM-DD")
+    order:
+      - file.name
+      - subject
+      - section
+      - topic
+      - confidence
+      - revision_count
+      - last_studied
+      - next_revision
+    sort:
+      - property: next_revision
+        direction: ASC

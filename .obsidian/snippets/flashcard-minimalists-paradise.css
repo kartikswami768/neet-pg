@@ -1,0 +1,580 @@
+/*
+ * Flashcards — Minimalist's Paradise layer
+ *
+ * Designed for a vault whose global theme remains Things.
+ * Requires: Tag Classes plugin by agrison.
+ *
+ * A note tagged #flashcards receives the .tag-flashcards class from
+ * Tag Classes, allowing this styling to remain local to that note.
+ *
+ * The styling below is intentionally scoped rather than copying the
+ * full Minimalist's Paradise theme. This avoids changing Things UI
+ * elements such as tabs, sidebars, ribbon, settings, and mobile chrome.
+ * It is inspired by the current Minimalist's Paradise content styling.
+ */
+
+/* ========================================================================== */
+/* 1. PALETTE + CORE VARIABLES                                                */
+/* ========================================================================== */
+
+.theme-light :is(.tag-flashcards, .flashcard),
+.theme-light .flashcard {
+  --fc-bg: #dce0e8;
+  --fc-surface: #ffffff;
+  --fc-surface-2: #eef1f5;
+  --fc-text: #101010;
+  --fc-muted: #667085;
+  --fc-border: rgba(80, 86, 95, 0.24);
+  --fc-border-strong: rgba(50, 55, 62, 0.34);
+  --fc-accent: #47557b;
+  --fc-accent-soft: #e8ebf3;
+  --fc-shadow: 0 4px 14px rgba(35, 40, 50, 0.13);
+
+  /* Minimalist's Paradise table/highlight palette */
+  --fc-mp-accent: #A9B1C7;
+  --fc-mp-divider: rgba(112, 112, 112, 0.52);
+  --fc-highlight: #E5DDF1;
+
+  /* Forest-green code / tag palette */
+  --fc-green-deep: #1b4332;
+  --fc-green: #2d6a4f;
+  --fc-green-mid: #40916c;
+  --fc-green-soft: #d8f3dc;
+  --fc-code-bg: #edf7f0;
+  --fc-code-border: #b7dec4;
+  --fc-code-text: #163a2d;
+}
+
+.theme-dark :is(.tag-flashcards, .flashcard),
+.theme-dark .flashcard {
+  --fc-bg: #0c0c0c;
+  --fc-surface: #111111;
+  --fc-surface-2: #171717;
+  --fc-text: #f3f3f3;
+  --fc-muted: #a7a7a7;
+  --fc-border: rgba(255, 255, 255, 0.12);
+  --fc-border-strong: rgba(255, 255, 255, 0.2);
+  --fc-accent: #9fa0a4;
+  --fc-accent-soft: #1b1b1b;
+  --fc-shadow: 0 5px 16px rgba(0, 0, 0, 0.34);
+
+  /* Minimalist's Paradise table/highlight palette */
+  --fc-mp-accent: #68686e;
+  --fc-mp-divider: rgba(89, 89, 89, 0.52);
+  --fc-highlight: #5A4B72;
+
+  /* Forest-green code / tag palette */
+  --fc-green-deep: #d8f3dc;
+  --fc-green: #95d5b2;
+  --fc-green-mid: #74c69d;
+  --fc-green-soft: #18382b;
+  --fc-code-bg: #11251c;
+  --fc-code-border: #2d6a4f;
+  --fc-code-text: #d8f3dc;
+}
+
+/* ========================================================================== */
+/* 2. NOTE SURFACE — THE MINIMALIST'S PARADISE FEEL                         */
+/* ========================================================================== */
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view,
+:is(.tag-flashcards, .flashcard) .markdown-source-view {
+  color: var(--fc-text);
+  background: var(--fc-bg);
+}
+
+/* Reading mode: turn the note body into a rounded card. */
+:is(.tag-flashcards, .flashcard) .markdown-preview-section {
+  box-sizing: border-box;
+  width: min(900px, calc(100% - 32px));
+  margin: 18px auto 28px;
+  padding: 28px 32px 36px;
+  background: var(--fc-surface);
+  border: 1px solid var(--fc-border);
+  border-radius: 16px;
+  box-shadow: var(--fc-shadow);
+}
+
+/* Live Preview / source editor: retain the same visual language without
+   trying to replace the entire editor chrome provided by Things. */
+:is(.tag-flashcards, .flashcard) .cm-editor {
+  background: var(--fc-bg);
+}
+
+:is(.tag-flashcards, .flashcard) .cm-editor .cm-scroller {
+  padding: 18px 0 28px;
+}
+
+:is(.tag-flashcards, .flashcard) .cm-editor .cm-content {
+  box-sizing: border-box;
+  width: min(900px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 28px 32px 36px;
+  background: var(--fc-surface);
+  border: 1px solid var(--fc-border);
+  border-radius: 16px;
+  box-shadow: var(--fc-shadow);
+}
+
+/* Keep the card comfortable on tablets/phones. */
+@media (max-width: 700px) {
+  :is(.tag-flashcards, .flashcard) .markdown-preview-section {
+    width: calc(100% - 16px);
+    margin: 8px auto 18px;
+    padding: 20px 18px 26px;
+    border-radius: 14px;
+  }
+
+  :is(.tag-flashcards, .flashcard) .cm-editor .cm-content {
+    width: calc(100% - 16px);
+    padding: 20px 18px 26px;
+    border-radius: 14px;
+  }
+}
+
+/* ========================================================================== */
+/* 3. TYPOGRAPHY                                                             */
+/* ========================================================================== */
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view,
+:is(.tag-flashcards, .flashcard) .markdown-source-view {
+  --font-text-size: 16px;
+  --line-height-normal: 1.65;
+}
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view p,
+:is(.tag-flashcards, .flashcard) .markdown-source-view .cm-line {
+  line-height: 1.65;
+}
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view h1,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view h2,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view h3,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view h4,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view h5,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view h6 {
+  color: var(--fc-text);
+  font-weight: 650;
+  letter-spacing: -0.015em;
+}
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view h1,
+:is(.tag-flashcards, .flashcard) .markdown-source-view .HyperMD-header-1 {
+  font-size: 1.75em;
+  padding-bottom: 0.35em;
+  border-bottom: 2px solid var(--fc-border);
+}
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view h2,
+:is(.tag-flashcards, .flashcard) .markdown-source-view .HyperMD-header-2 {
+  font-size: 1.42em;
+}
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view h3,
+:is(.tag-flashcards, .flashcard) .markdown-source-view .HyperMD-header-3 {
+  font-size: 1.22em;
+}
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view h4,
+:is(.tag-flashcards, .flashcard) .markdown-source-view .HyperMD-header-4 {
+  font-size: 1.08em;
+}
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view h5,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view h6 {
+  font-size: 1em;
+}
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view hr,
+:is(.tag-flashcards, .flashcard) .markdown-source-view .hr {
+  border: 0;
+  border-top: 1px solid var(--fc-border);
+  margin: 1.5em 0;
+}
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view strong,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view b,
+:is(.tag-flashcards, .flashcard) .markdown-source-view .cm-strong,
+:is(.tag-flashcards, .flashcard) .markdown-source-view .cm-strong.cm-formatting {
+  color: var(--fc-text) !important;
+  font-family: inherit !important;
+  font-weight: 700 !important;
+  font-style: normal !important;
+  letter-spacing: normal !important;
+}
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view em,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view i,
+:is(.tag-flashcards, .flashcard) .markdown-source-view .cm-em,
+:is(.tag-flashcards, .flashcard) .markdown-source-view .cm-em.cm-formatting {
+  color: var(--fc-text) !important;
+  font-family: inherit !important;
+  font-style: italic !important;
+  font-weight: 400 !important;
+  letter-spacing: normal !important;
+}
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view strong em,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view em strong,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view b i,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view i b,
+:is(.tag-flashcards, .flashcard) .markdown-source-view .cm-strong.cm-em {
+  color: var(--fc-text) !important;
+  font-family: inherit !important;
+  font-weight: 700 !important;
+  font-style: italic !important;
+}
+
+/* ========================================================================== */
+/* 4. LINKS                                                                  */
+/* ========================================================================== */
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view a,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view .internal-link,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view .external-link,
+:is(.tag-flashcards, .flashcard) .cm-s-obsidian .cm-link,
+:is(.tag-flashcards, .flashcard) .cm-s-obsidian .cm-url {
+  color: var(--fc-accent);
+}
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view a:hover,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view .internal-link:hover,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view .external-link:hover {
+  color: var(--fc-text);
+}
+
+/* ========================================================================== */
+/* 5. TAGS — FOREST GREEN                                                    */
+/* ========================================================================== */
+
+/* Reading mode */
+:is(.tag-flashcards, .flashcard) .markdown-preview-view .tag {
+  color: var(--fc-green-deep) !important;
+  background: var(--fc-green-soft) !important;
+  border: 1px solid var(--fc-green-mid) !important;
+  border-radius: 999px;
+  padding: 0.08em 0.48em;
+  text-decoration: none;
+}
+
+/* Live preview / source mode */
+:is(.tag-flashcards, .flashcard) .cm-s-obsidian .cm-hashtag,
+:is(.tag-flashcards, .flashcard) .cm-s-obsidian .cm-tag,
+:is(.tag-flashcards, .flashcard) .cm-s-obsidian span.cm-hashtag {
+  color: var(--fc-green) !important;
+}
+
+/* ========================================================================== */
+/* 6. INLINE CODE + MONOSPACE — FOREST GREEN                                */
+/* ========================================================================== */
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view code,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view .inline-code,
+:is(.tag-flashcards, .flashcard) .cm-s-obsidian span.cm-inline-code {
+  color: var(--fc-code-text) !important;
+  background: var(--fc-code-bg) !important;
+  border: 1px solid var(--fc-code-border);
+  border-radius: 6px;
+  padding: 0.12em 0.32em;
+  font-family: var(--font-monospace);
+  font-size: 0.92em;
+}
+
+/* Avoid double-padding on ordinary fenced blocks. */
+:is(.tag-flashcards, .flashcard) .markdown-preview-view pre code {
+  border: 0;
+  padding: 0;
+  background: transparent !important;
+  color: inherit !important;
+}
+
+/* ========================================================================== */
+/* 7. FENCED CODE BLOCKS — FOREST GREEN                                      */
+/* ========================================================================== */
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view pre,
+:is(.tag-flashcards, .flashcard) .markdown-source-view pre.HyperMD-codeblock,
+:is(.tag-flashcards, .flashcard) .markdown-source-view .HyperMD-codeblock-bg {
+  box-sizing: border-box;
+  background: var(--fc-code-bg) !important;
+  border: 1px solid var(--fc-code-border);
+  border-radius: 10px;
+}
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view pre {
+  padding: 16px 18px;
+  overflow: auto;
+}
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view pre code,
+:is(.tag-flashcards, .flashcard) .markdown-source-view .cm-hmd-codeblock,
+:is(.tag-flashcards, .flashcard) .markdown-source-view .HyperMD-codeblock {
+  color: var(--fc-code-text) !important;
+  font-family: var(--font-monospace);
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+/* Syntax highlighting: keep it green-toned instead of inheriting MP's
+   blue/purple/pink palette. */
+:is(.tag-flashcards, .flashcard) .cm-s-obsidian .cm-comment,
+:is(.tag-flashcards, .flashcard) .token.comment {
+  color: var(--fc-green-mid) !important;
+}
+
+:is(.tag-flashcards, .flashcard) .cm-s-obsidian .cm-string,
+:is(.tag-flashcards, .flashcard) .token.string {
+  color: var(--fc-green) !important;
+}
+
+:is(.tag-flashcards, .flashcard) .cm-s-obsidian .cm-keyword,
+:is(.tag-flashcards, .flashcard) .token.keyword {
+  color: var(--fc-green-deep) !important;
+}
+
+/* ========================================================================== */
+/* 8. BLOCKQUOTES                                                            */
+/* ========================================================================== */
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view blockquote,
+:is(.tag-flashcards, .flashcard) .markdown-source-view .HyperMD-quote {
+  border-left: 3px solid var(--fc-accent);
+  background: var(--fc-surface-2);
+  border-radius: 0 12px 12px 0;
+}
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view blockquote {
+  padding: 0.65em 1em;
+  color: var(--fc-text);
+}
+
+/* ========================================================================== */
+/* 9. TABLES — SCOPED MINIMALIST'S PARADISE                               */
+/* ========================================================================== */
+
+/* These rules mirror Minimalist's Paradise's current table rules while
+   preventing Things from contributing its own borders, fills, striping,
+   typography, or radius inside #flashcards notes. */
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view table,
+:is(.tag-flashcards, .flashcard) .markdown-source-view.mod-cm6 .cm-table,
+:is(.tag-flashcards, .flashcard) .markdown-source-view.mod-cm6 table {
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border: 1px solid var(--fc-mp-divider) !important;
+  border-radius: 10px !important;
+  overflow: hidden !important;
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+:is(.tag-flashcards, .flashcard) .markdown-source-view.mod-cm6 .cm-table,
+:is(.tag-flashcards, .flashcard) .markdown-source-view.mod-cm6 table {
+  width: fit-content;
+}
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view table thead,
+:is(.tag-flashcards, .flashcard) .markdown-source-view.mod-cm6 table thead {
+  background-color: var(--fc-mp-accent) !important;
+  color: var(--fc-text) !important;
+  border: 1px solid var(--fc-mp-divider) !important;
+}
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view table thead th,
+:is(.tag-flashcards, .flashcard) .markdown-source-view.mod-cm6 table thead th {
+  background-color: var(--fc-mp-accent) !important;
+  color: var(--fc-text) !important;
+  border-top: 0 !important;
+  border-left: 0 !important;
+  border-right: 2px solid var(--fc-mp-divider) !important;
+  border-bottom: 2px solid var(--fc-mp-divider) !important;
+  padding: 0.5em 10px !important;
+  font-weight: 600 !important;
+  text-shadow: none !important;
+}
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view table tbody,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view table tr,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view table td,
+:is(.tag-flashcards, .flashcard) .markdown-source-view.mod-cm6 table tbody,
+:is(.tag-flashcards, .flashcard) .markdown-source-view.mod-cm6 table tr,
+:is(.tag-flashcards, .flashcard) .markdown-source-view.mod-cm6 table td {
+  background: transparent !important;
+  background-color: transparent !important;
+  color: var(--fc-text) !important;
+  box-shadow: none !important;
+}
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view table td,
+:is(.tag-flashcards, .flashcard) .markdown-source-view.mod-cm6 table td {
+  border-top: 0 !important;
+  border-left: 0 !important;
+  border-right: 2px solid var(--fc-mp-divider) !important;
+  border-bottom: 2px solid var(--fc-mp-divider) !important;
+  padding: 6px 10px !important;
+  vertical-align: top;
+}
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view table th:last-child,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view table td:last-child,
+:is(.tag-flashcards, .flashcard) .markdown-source-view.mod-cm6 table th:last-child,
+:is(.tag-flashcards, .flashcard) .markdown-source-view.mod-cm6 table td:last-child {
+  border-right: 0 !important;
+}
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view table tbody tr:last-child td,
+:is(.tag-flashcards, .flashcard) .markdown-source-view.mod-cm6 table tbody tr:last-child td {
+  border-bottom: 0 !important;
+}
+
+/* Prevent Things-style row striping or hover fills. */
+:is(.tag-flashcards, .flashcard) .markdown-preview-view table tbody tr:nth-child(even),
+:is(.tag-flashcards, .flashcard) .markdown-preview-view table tbody tr:nth-child(odd),
+:is(.tag-flashcards, .flashcard) .markdown-preview-view table tbody tr:hover,
+:is(.tag-flashcards, .flashcard) .markdown-source-view.mod-cm6 table tbody tr:nth-child(even),
+:is(.tag-flashcards, .flashcard) .markdown-source-view.mod-cm6 table tbody tr:nth-child(odd),
+:is(.tag-flashcards, .flashcard) .markdown-source-view.mod-cm6 table tbody tr:hover {
+  background: transparent !important;
+  background-color: transparent !important;
+}
+
+/* Keep bold/italic inside table cells on the flashcard palette. */
+:is(.tag-flashcards, .flashcard) .markdown-preview-view table strong,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view table em,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view table b,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view table i {
+  color: var(--fc-text) !important;
+}
+
+/* ========================================================================== */
+/* 10. CALLOUTS                                                              */
+/* ========================================================================== */
+
+:is(.tag-flashcards, .flashcard) .callout {
+  border-radius: 14px;
+  border-width: 1px;
+  box-shadow: none;
+}
+
+:is(.tag-flashcards, .flashcard) .callout-title {
+  font-weight: 650;
+}
+
+/* ========================================================================== */
+/* 11. LISTS                                                                 */
+/* ========================================================================== */
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view ul > li::marker,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view ol > li::marker {
+  color: var(--fc-accent);
+}
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view ul,
+:is(.tag-flashcards, .flashcard) .markdown-preview-view ol {
+  padding-left: 1.5em;
+}
+
+/* ========================================================================== */
+/* 11. HIGHLIGHTS — SOFTER THAN MINIMALIST'S PARADISE                     */
+/* ========================================================================== */
+
+/* Minimalist's Paradise uses the accent color as the highlight background.
+   For flashcards, use a lighter lavender so highlighted text remains easy
+   to read without becoming the very dark violet seen in the theme. */
+:is(.tag-flashcards, .flashcard) .markdown-preview-view mark,
+:is(.tag-flashcards, .flashcard) .markdown-rendered mark,
+:is(.tag-flashcards, .flashcard) mark,
+:is(.tag-flashcards, .flashcard) .cm-s-obsidian span.cm-highlight,
+:is(.tag-flashcards, .flashcard) .cm-s-obsidian span.cm-formatting-highlight {
+  background-color: var(--fc-highlight) !important;
+  color: var(--fc-text) !important;
+  border-radius: 8px !important;
+  padding: 0.075em 0.2em !important;
+  box-shadow: none !important;
+}
+
+/* ========================================================================== */
+/* 12. PROPERTIES — FLASHCARDS START COLLAPSED                              */
+/* ========================================================================== */
+
+/* Obsidian does not expose a CSS switch for "start collapsed". Instead, on
+   flashcards we keep the Properties heading/toggle visible and visually fold
+   the property body. The body opens when the Properties heading receives
+   focus (useful on iPad/touch) or on hover (desktop), and it closes again when
+   the heading's native .is-collapsed state is applied. This preserves the
+   normal Properties UI rather than deleting it. */
+
+:is(.tag-flashcards, .flashcard) .metadata-container .metadata-content {
+  max-height: 0 !important;
+  opacity: 0 !important;
+  overflow: hidden !important;
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+  transition: max-height 220ms ease, opacity 180ms ease !important;
+}
+
+/* Desktop: reveal while the Properties control is hovered. */
+@media (hover: hover) and (pointer: fine) {
+  :is(.tag-flashcards, .flashcard) .metadata-container:has(.metadata-properties-heading:hover) .metadata-content {
+    max-height: 1200px !important;
+    opacity: 1 !important;
+    overflow: visible !important;
+    padding-bottom: var(--metadata-padding-bottom, var(--size-4-2)) !important;
+  }
+}
+
+/* Touch / iPad: tapping the Properties heading gives it focus. Keep the
+   content visible while that control (or one of its property inputs) has
+   focus. */
+:is(.tag-flashcards, .flashcard) .metadata-container:has(.metadata-properties-heading:focus-within) .metadata-content,
+:is(.tag-flashcards, .flashcard) .metadata-container:has(.metadata-content:focus-within) .metadata-content {
+  max-height: 1200px !important;
+  opacity: 1 !important;
+  overflow: visible !important;
+  padding-bottom: var(--metadata-padding-bottom, var(--size-4-2)) !important;
+}
+
+/* Once Obsidian itself marks the Properties heading as collapsed, honour that
+   native state regardless of focus. */
+:is(.tag-flashcards, .flashcard) .metadata-container:has(.metadata-properties-heading.is-collapsed) .metadata-content {
+  max-height: 0 !important;
+  opacity: 0 !important;
+  overflow: hidden !important;
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* Keep the heading/toggle easy to hit without changing the rest of the
+   Things theme. */
+:is(.tag-flashcards, .flashcard) .metadata-properties-heading {
+  cursor: pointer;
+}
+
+/* ========================================================================== */
+/* 13. SELECTION / FOCUS                                                     */
+/* ========================================================================== */
+
+:is(.tag-flashcards, .flashcard) .markdown-preview-view ::selection,
+:is(.tag-flashcards, .flashcard) .markdown-source-view ::selection {
+  background: rgba(64, 145, 108, 0.22);
+}
+
+:is(.tag-flashcards, .flashcard) .cm-editor.cm-focused {
+  outline: none;
+}
+
+/* ========================================================================== */
+/* 14. OPTIONAL FUTURE cssclasses SUPPORT                                   */
+/* ========================================================================== */
+
+/* When we start generating new flashcards, they can additionally use:
+ *
+ * ---
+ * tags:
+ *   - flashcard
+ * cssclasses:
+ *   - flashcard
+ * ---
+ *
+ * Tag Classes remains the automatic mechanism for existing notes.
+ */

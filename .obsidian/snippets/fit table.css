@@ -1,0 +1,59 @@
+/* =========================================================
+   FIT TABLES TO NOTE WIDTH
+   Reading View + Live Preview
+   ========================================================= */
+
+/* ---------- Reading View ---------- */
+
+.markdown-preview-view table {
+    width: 100% !important;
+    max-width: 100% !important;
+    table-layout: auto;
+    border-collapse: collapse;
+}
+
+/* Allow text to wrap naturally inside cells */
+.markdown-preview-view th,
+.markdown-preview-view td {
+    white-space: normal !important;
+    overflow-wrap: break-word;
+    word-break: normal;
+    max-width: 0;
+}
+
+/* Keep the table inside the note width */
+.markdown-preview-view .table-wrapper {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+
+/* ---------- Live Preview ---------- */
+
+.markdown-source-view.mod-cm6 .cm-table-widget {
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+/* Make Live Preview table cells wrap */
+.markdown-source-view.mod-cm6 .cm-table-widget table {
+    width: 100% !important;
+    max-width: 100% !important;
+    table-layout: auto;
+}
+
+.markdown-source-view.mod-cm6 .cm-table-widget th,
+.markdown-source-view.mod-cm6 .cm-table-widget td {
+    white-space: normal !important;
+    overflow-wrap: break-word;
+    word-break: normal;
+}
+
+
+/* ---------- Extra protection against horizontal overflow ---------- */
+
+.markdown-preview-view,
+.markdown-source-view.mod-cm6 {
+    overflow-x: hidden;
+}
