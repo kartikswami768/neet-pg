@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<title>Influenza antigenic shift and drift</title>
+<desc>Reconstructed from the supplied PDF page 166 and vector artwork on that page.</desc>
+<defs><style>.t{font-family:Arial,Helvetica,sans-serif;fill:#24333a}.h{font-weight:700}.s{font-size:14px}.m{font-size:16px}.l{font-size:18px}.sm{font-size:12px}.line{stroke:#24333a;stroke-width:2;fill:none}.thin{stroke:#5d6b72;stroke-width:1.5;fill:none}.arrow{stroke:#24333a;stroke-width:2;fill:none;marker-end:url(#a)}.box{fill:#f5f7f8;stroke:#6c7b82;stroke-width:1.5}.accent{fill:#d7edf2;stroke:#35707b;stroke-width:1.5}.warm{fill:#f5e5d5;stroke:#9a6c48;stroke-width:1.5}.green{fill:#e5f0e5;stroke:#5b7f5b;stroke-width:1.5}.pink{fill:#f5e1e7;stroke:#9a6070;stroke-width:1.5}</style><marker id="a" markerWidth="10" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#24333a"/></marker></defs>
+<rect width="1200" height="620" fill="white"/>
+<text x="40" y="45" class="t h l">Influenza — antigenic shift vs antigenic drift</text>
+<rect x="40" y="75" width="535" height="490" class="box"/>
+<text x="70" y="110" class="t h m">Antigenic shift</text>
+<text x="70" y="137" class="t s">Reassortment of genome segments after coinfection of one cell by 2 segmented viruses.</text>
+<circle cx="130" cy="250" r="58" fill="#6d88b8" opacity=".25" stroke="#6d88b8" stroke-width="3"/>
+<text x="95" y="340" class="t sm">Virus A</text>
+<rect x="95" y="225" width="70" height="8" fill="#6d88b8"/>
+<rect x="95" y="240" width="70" height="8" fill="#83a873"/>
+<rect x="95" y="255" width="70" height="8" fill="#d57b7b"/>
+<rect x="95" y="270" width="70" height="8" fill="#b69a60"/>
+<circle cx="270" cy="340" r="58" fill="#d57b7b" opacity=".25" stroke="#d57b7b" stroke-width="3"/>
+<text x="235" y="430" class="t sm">Virus B</text>
+<rect x="235" y="315" width="70" height="8" fill="#6d88b8"/>
+<rect x="235" y="330" width="70" height="8" fill="#83a873"/>
+<rect x="235" y="345" width="70" height="8" fill="#d57b7b"/>
+<rect x="235" y="360" width="70" height="8" fill="#b69a60"/>
+<circle cx="425" cy="300" r="78" fill="#eadfca" stroke="#8b7a62" stroke-width="2"/>
+<text x="388" y="304" class="t sm">Host cell</text>
+<path d="M188 265 C245 220 340 240 365 280" class="arrow"/>
+<path d="M325 345 C360 350 380 325 365 320" class="arrow"/>
+<path d="M503 300 H545" class="arrow"/>
+<circle cx="540" cy="300" r="55" fill="#d7edf2" stroke="#35707b" stroke-width="2"/>
+<text x="500" y="295" class="t sm">New</text><text x="490" y="315" class="t sm">strain</text>
+<text x="75" y="520" class="t s">→ dramatically different virus</text><text x="75" y="545" class="t s">→ major outbreaks / pandemics</text>
+<rect x="625" y="75" width="535" height="490" class="box"/>
+<text x="655" y="110" class="t h m">Antigenic drift</text>
+<text x="655" y="137" class="t s">Frequent random mutations in hemagglutinin (HA) or neuraminidase (NA).</text>
+<circle cx="790" cy="290" r="65" fill="#d57b7b" opacity=".23" stroke="#d57b7b" stroke-width="3"/>
+<text x="753" y="295" class="t sm">Virus A</text>
+<circle cx="845.0" cy="290.0" r="7" fill="#d57b7b"/>
+<circle cx="817.5" cy="337.6" r="7" fill="#d57b7b"/>
+<circle cx="762.5" cy="337.6" r="7" fill="#d57b7b"/>
+<circle cx="735.0" cy="290.0" r="7" fill="#d57b7b"/>
+<circle cx="762.5" cy="242.4" r="7" fill="#d57b7b"/>
+<circle cx="817.5" cy="242.4" r="7" fill="#d57b7b"/>
+<path d="M860 290 H930" class="arrow"/>
+<circle cx="1005" cy="290" r="65" fill="#f5e5d5" stroke="#9a6c48" stroke-width="2"/>
+<text x="970" y="295" class="t sm">Mutant</text><text x="983" y="312" class="t sm">Virus</text>
+<circle cx="1056.7" cy="308.8" r="7" fill="#9a6c48"/>
+<circle cx="1014.6" cy="344.2" r="7" fill="#9a6c48"/>
+<circle cx="962.9" cy="325.4" r="7" fill="#9a6c48"/>
+<circle cx="953.3" cy="271.2" r="7" fill="#9a6c48"/>
+<circle cx="995.4" cy="235.8" r="7" fill="#9a6c48"/>
+<circle cx="1047.1" cy="254.6" r="7" fill="#9a6c48"/>
+<text x="670" y="470" class="t s">→ minor changes in HA/NA</text><text x="670" y="495" class="t s">→ seasonal epidemics</text><text x="670" y="535" class="t h s">Shift is sudden; drift is gradual.</text>
+</svg>

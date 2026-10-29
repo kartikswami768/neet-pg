@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650" viewBox="0 0 900 650">
+<title>HBV structure</title>
+<desc>Reconstructed from the supplied PDF page 171; uses the supplied HBV vector/raster reference for content.</desc>
+<defs><style>.t{font-family:Arial,Helvetica,sans-serif;fill:#24333a}.h{font-weight:700}.s{font-size:14px}.m{font-size:16px}.l{font-size:18px}.sm{font-size:12px}.line{stroke:#24333a;stroke-width:2;fill:none}.thin{stroke:#5d6b72;stroke-width:1.5;fill:none}.arrow{stroke:#24333a;stroke-width:2;fill:none;marker-end:url(#a)}.box{fill:#f5f7f8;stroke:#6c7b82;stroke-width:1.5}.accent{fill:#d7edf2;stroke:#35707b;stroke-width:1.5}.warm{fill:#f5e5d5;stroke:#9a6c48;stroke-width:1.5}.green{fill:#e5f0e5;stroke:#5b7f5b;stroke-width:1.5}.pink{fill:#f5e1e7;stroke:#9a6070;stroke-width:1.5}</style><marker id="a" markerWidth="10" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#24333a"/></marker></defs>
+<rect width="900" height="650" fill="white"/>
+<text x="40" y="45" class="t h l">Hepatitis B virus — key structural labels</text>
+<circle cx="430" cy="305" r="140" fill="#d7edf2" stroke="#35707b" stroke-width="2"/>
+<circle cx="430" cy="305" r="102" fill="#f1c6cf" stroke="#9a6070" stroke-width="2"/>
+<circle cx="430" cy="305" r="65" fill="#e4c27b" stroke="#8a6b3e" stroke-width="2"/>
+<path d="M390 280 C420 250 455 250 475 285 C493 316 472 345 440 330 C415 318 395 330 388 350" class="line"/><path d="M470 330 C440 355 415 345 402 318" class="line"/>
+<circle cx="570.0" cy="305.0" r="7" fill="#7eafd0"/>
+<circle cx="551.2" cy="375.0" r="7" fill="#7eafd0"/>
+<circle cx="500.0" cy="426.2" r="7" fill="#7eafd0"/>
+<circle cx="430.0" cy="445.0" r="7" fill="#7eafd0"/>
+<circle cx="360.0" cy="426.2" r="7" fill="#7eafd0"/>
+<circle cx="308.8" cy="375.0" r="7" fill="#7eafd0"/>
+<circle cx="290.0" cy="305.0" r="7" fill="#7eafd0"/>
+<circle cx="308.8" cy="235.0" r="7" fill="#7eafd0"/>
+<circle cx="360.0" cy="183.8" r="7" fill="#7eafd0"/>
+<circle cx="430.0" cy="165.0" r="7" fill="#7eafd0"/>
+<circle cx="500.0" cy="183.8" r="7" fill="#7eafd0"/>
+<circle cx="551.2" cy="235.0" r="7" fill="#7eafd0"/>
+<line x1="560" y1="205" x2="638" y2="172" class="line"/>
+<text x="650" y="180" class="t m h">HBsAg (surface antigen)</text>
+<line x1="555" y1="270" x2="663" y2="247" class="line"/>
+<text x="675" y="255" class="t m h">Envelope</text>
+<line x1="495" y1="350" x2="613" y2="362" class="line"/>
+<text x="625" y="370" class="t m h">Core antigen (HBcAg)</text>
+<line x1="475" y1="315" x2="623" y2="442" class="line"/>
+<text x="635" y="450" class="t m h">Partially dsDNA</text>
+<line x1="510" y1="250" x2="638" y2="512" class="line"/>
+<text x="650" y="520" class="t m h">HBeAg</text>
+<line x1="280" y1="200" x2="68" y2="482" class="line"/>
+<text x="80" y="490" class="t m h">Anti-HBs binds HBsAg</text>
+<rect x="55" y="130" width="250" height="110" class="box"/>
+<text x="75" y="158" class="t h s">HBV DNA polymerase</text>
+<text x="75" y="182" class="t s">• DNA-dependent activity</text>
+<text x="75" y="204" class="t s">• RNA-dependent / reverse transcriptase</text>
+<text x="75" y="226" class="t s">• Completes partial dsDNA</text>
+</svg>

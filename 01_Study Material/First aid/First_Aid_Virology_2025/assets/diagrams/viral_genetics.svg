@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="850" viewBox="0 0 1200 850">
+<title>Viral genetics</title>
+<desc>Reconstructed from the supplied PDF page 159. Includes recombination, reassortment, complementation, and phenotypic mixing.</desc>
+<defs><style>.t{font-family:Arial,Helvetica,sans-serif;fill:#24333a}.h{font-weight:700}.s{font-size:14px}.m{font-size:16px}.l{font-size:18px}.sm{font-size:12px}.line{stroke:#24333a;stroke-width:2;fill:none}.thin{stroke:#5d6b72;stroke-width:1.5;fill:none}.arrow{stroke:#24333a;stroke-width:2;fill:none;marker-end:url(#a)}.box{fill:#f5f7f8;stroke:#6c7b82;stroke-width:1.5}.accent{fill:#d7edf2;stroke:#35707b;stroke-width:1.5}.warm{fill:#f5e5d5;stroke:#9a6c48;stroke-width:1.5}.green{fill:#e5f0e5;stroke:#5b7f5b;stroke-width:1.5}.pink{fill:#f5e1e7;stroke:#9a6070;stroke-width:1.5}</style><marker id="a" markerWidth="10" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#24333a"/></marker></defs>
+<rect x="0" y="0" width="1200" height="850" fill="white"/>
+<text x="40" y="48" class="t h l">Viral genetics</text>
+<rect x="35" y="75" width="1130" height="180" rx="12" class="box"/>
+<text x="55" y="109" class="t h m">Recombination</text>
+<text x="55" y="137" class="t s">Exchange of genes between chromosomes by crossing over within regions of significant base-sequence homology.</text>
+<rect x="790" y="125" width="90" height="90" rx="12" fill="#5a7bb5" opacity="0.22" stroke="#5a7bb5" stroke-width="3"/>
+<rect x="850" y="125" width="90" height="90" rx="12" fill="#d16d6d" opacity="0.22" stroke="#d16d6d" stroke-width="3"/>
+<path d="M770 155 C820 105,860 205,930 170" class="line"/>
+<path d="M770 190 C830 240,870 135,930 185" class="line"/>
+<path d="M970 155 C1010 105,1050 205,1110 170" class="line"/>
+<path d="M970 190 C1020 240,1060 135,1110 185" class="line"/>
+<rect x="35" y="265" width="1130" height="180" rx="12" class="box"/>
+<text x="55" y="299" class="t h m">Reassortment</text>
+<text x="55" y="327" class="t s">Segmented viruses exchange genome segments; influenza can generate antigenic shift.</text>
+<circle cx="805" cy="360" r="38" fill="#d7edf2" stroke="#35707b" stroke-width="2"/>
+<circle cx="965" cy="360" r="38" fill="#f5e5d5" stroke="#9a6c48" stroke-width="2"/>
+<rect x="790" y="332" width="30" height="8" fill="#5a7bb5"/>
+<rect x="790" y="345" width="30" height="8" fill="#7fae77"/>
+<rect x="790" y="358" width="30" height="8" fill="#d16d6d"/>
+<rect x="790" y="371" width="30" height="8" fill="#caa45b"/>
+<rect x="790" y="384" width="30" height="8" fill="#8f7eb2"/>
+<rect x="950" y="332" width="30" height="8" fill="#8f7eb2"/>
+<rect x="950" y="345" width="30" height="8" fill="#caa45b"/>
+<rect x="950" y="358" width="30" height="8" fill="#d16d6d"/>
+<rect x="950" y="371" width="30" height="8" fill="#7fae77"/>
+<rect x="950" y="384" width="30" height="8" fill="#5a7bb5"/>
+<path d="M845 360 H925" class="arrow"/>
+<rect x="1050" y="330" width="36" height="9" fill="#5a7bb5"/>
+<rect x="1050" y="344" width="36" height="9" fill="#7fae77"/>
+<rect x="1050" y="358" width="36" height="9" fill="#caa45b"/>
+<rect x="1050" y="372" width="36" height="9" fill="#d16d6d"/>
+<rect x="1050" y="386" width="36" height="9" fill="#8f7eb2"/>
+<rect x="35" y="455" width="1130" height="180" rx="12" class="box"/>
+<text x="55" y="489" class="t h m">Complementation</text>
+<text x="55" y="517" class="t s">A functional virus supplies a missing/nonfunctional protein that can serve both viruses; HDV uses HBV HBsAg.</text>
+<circle cx="805" cy="550" r="45" fill="#d7edf2" stroke="#35707b" stroke-width="2"/>
+<circle cx="965" cy="550" r="45" fill="#f5e1e7" stroke="#9a6070" stroke-width="2"/>
+<circle cx="885" cy="610" r="45" fill="#e5f0e5" stroke="#5b7f5b" stroke-width="2"/>
+<path d="M850 565 L870 585" class="arrow"/>
+<path d="M925 585 L950 565" class="arrow"/>
+<text x="785" y="555" class="t sm">functional</text>
+<text x="945" y="555" class="t sm">nonfunctional</text>
+<text x="855" y="615" class="t sm">shared function</text>
+<rect x="35" y="645" width="1130" height="180" rx="12" class="box"/>
+<text x="55" y="679" class="t h m">Phenotypic mixing</text>
+<text x="55" y="707" class="t s">A progeny genome may be coated with proteins from another infecting virus, temporarily altering tropism/infectivity.</text>
+<circle cx="780" cy="740" r="35" fill="#d7edf2" stroke="#35707b" stroke-width="2"/>
+<circle cx="880" cy="740" r="35" fill="#f5e1e7" stroke="#9a6070" stroke-width="2"/>
+<circle cx="1000" cy="740" r="42" fill="#f5e5d5" stroke="#9a6c48" stroke-width="2"/>
+<circle cx="1100" cy="740" r="42" fill="#d7edf2" stroke="#35707b" stroke-width="2"/>
+<path d="M820 740 H930" class="arrow"/>
+<path d="M1042 740 H1060" class="arrow"/>
+<text x="768" y="688" class="t sm">Virus A</text>
+<text x="868" y="688" class="t sm">Virus B</text>
+<text x="972" y="810" class="t sm">Progeny 1</text>
+<text x="1075" y="810" class="t sm">Progeny 2</text>
+</svg>

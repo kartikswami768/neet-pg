@@ -2,6 +2,8 @@
 /01_Study Material/PDFs/
 /.git/
 
+/.git/
+
 /.trash/
 
 # =========================================================
@@ -68,7 +70,6 @@
 /01_Study Material/PDFs/*/*.pdf
 /01_Study Material/PDFs/World of revision/
 
-# =========================================================
 # INK ANNOTATION — INTENTIONALLY SYNC PLUGIN CODE
 # =========================================================
 # The English Ink Annotation build is tracked so Git sync can install/update it on other devices.
@@ -87,3 +88,5 @@
 !.obsidian/plugins/reading-highlighter-extended/manifest.json
 !.obsidian/plugins/reading-highlighter-extended/styles.css
 !.obsidian/plugins/reading-highlighter-extended/README.md
+=======
+!.obsidian/plugins/templater-obsidian/data.json

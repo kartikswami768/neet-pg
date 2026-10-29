@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700">
+<title>SARS-CoV-2 structure</title>
+<desc>Reconstructed from the supplied PDF page 169 and vector artwork.</desc>
+<defs><style>.t{font-family:Arial,Helvetica,sans-serif;fill:#24333a}.h{font-weight:700}.s{font-size:14px}.m{font-size:16px}.l{font-size:18px}.sm{font-size:12px}.line{stroke:#24333a;stroke-width:2;fill:none}.thin{stroke:#5d6b72;stroke-width:1.5;fill:none}.arrow{stroke:#24333a;stroke-width:2;fill:none;marker-end:url(#a)}.box{fill:#f5f7f8;stroke:#6c7b82;stroke-width:1.5}.accent{fill:#d7edf2;stroke:#35707b;stroke-width:1.5}.warm{fill:#f5e5d5;stroke:#9a6c48;stroke-width:1.5}.green{fill:#e5f0e5;stroke:#5b7f5b;stroke-width:1.5}.pink{fill:#f5e1e7;stroke:#9a6070;stroke-width:1.5}</style><marker id="a" markerWidth="10" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#24333a"/></marker></defs>
+<rect width="900" height="700" fill="white"/>
+<text x="40" y="48" class="t h l">SARS-CoV-2 — labelled structure</text>
+<circle cx="430" cy="350" r="145" fill="#eac6d2" stroke="#9b6e7a" stroke-width="3"/>
+<circle cx="430" cy="350" r="105" fill="#f4d7a8" stroke="#9a6c48" stroke-width="2"/>
+<line x1="575.0" y1="350.0" x2="614.0" y2="350.0" stroke="#d85f5f" stroke-width="8" stroke-linecap="round"/>
+<line x1="555.6" y1="422.5" x2="589.3" y2="442.0" stroke="#d85f5f" stroke-width="8" stroke-linecap="round"/>
+<line x1="502.5" y1="475.6" x2="522.0" y2="509.3" stroke="#d85f5f" stroke-width="8" stroke-linecap="round"/>
+<line x1="430.0" y1="495.0" x2="430.0" y2="534.0" stroke="#d85f5f" stroke-width="8" stroke-linecap="round"/>
+<line x1="357.5" y1="475.6" x2="338.0" y2="509.3" stroke="#d85f5f" stroke-width="8" stroke-linecap="round"/>
+<line x1="304.4" y1="422.5" x2="270.7" y2="442.0" stroke="#d85f5f" stroke-width="8" stroke-linecap="round"/>
+<line x1="285.0" y1="350.0" x2="246.0" y2="350.0" stroke="#d85f5f" stroke-width="8" stroke-linecap="round"/>
+<line x1="304.4" y1="277.5" x2="270.7" y2="258.0" stroke="#d85f5f" stroke-width="8" stroke-linecap="round"/>
+<line x1="357.5" y1="224.4" x2="338.0" y2="190.7" stroke="#d85f5f" stroke-width="8" stroke-linecap="round"/>
+<line x1="430.0" y1="205.0" x2="430.0" y2="166.0" stroke="#d85f5f" stroke-width="8" stroke-linecap="round"/>
+<line x1="502.5" y1="224.4" x2="522.0" y2="190.7" stroke="#d85f5f" stroke-width="8" stroke-linecap="round"/>
+<line x1="555.6" y1="277.5" x2="589.3" y2="258.0" stroke="#d85f5f" stroke-width="8" stroke-linecap="round"/>
+<path d="M370.0,350.0 L371.3,356.3 L372.7,362.5 L374.0,368.5 L375.4,374.1 L376.7,379.2 L378.1,383.7 L379.4,387.6 L380.8,390.7 L382.1,393.0 L383.5,394.4 L384.8,395.0 L386.2,394.7 L387.5,393.4 L388.9,391.3 L390.2,388.4 L391.6,384.8 L392.9,380.4 L394.3,375.4 L395.6,369.9 L397.0,364.1 L398.3,357.9 L399.7,351.6 L401.0,345.2 L402.4,339.0 L403.7,333.0 L405.1,327.3 L406.4,322.0 L407.8,317.3 L409.1,313.3 L410.4,310.0 L411.8,307.5 L413.1,305.8 L414.5,305.1 L415.8,305.2 L417.2,306.2 L418.5,308.1 L419.9,310.8 L421.2,314.3 L422.6,318.5 L423.9,323.3 L425.3,328.7 L426.6,334.4 L428.0,340.5 L429.3,346.8 L430.7,353.2 L432.0,359.5 L433.4,365.6 L434.7,371.3 L436.1,376.7 L437.4,381.5 L438.8,385.7 L440.1,389.2 L441.5,391.9 L442.8,393.8 L444.2,394.8 L445.5,394.9 L446.9,394.2 L448.2,392.5 L449.6,390.0 L450.9,386.7 L452.2,382.7 L453.6,378.0 L454.9,372.7 L456.3,367.0 L457.6,361.0 L459.0,354.8 L460.3,348.4 L461.7,342.1 L463.0,335.9 L464.4,330.1 L465.7,324.6 L467.1,319.6 L468.4,315.2 L469.8,311.6 L471.1,308.7 L472.5,306.6 L473.8,305.3 L475.2,305.0 L476.5,305.6 L477.9,307.0 L479.2,309.3 L480.6,312.4 L481.9,316.3 L483.3,320.8 L484.6,325.9 L486.0,331.5 L487.3,337.5 L488.7,343.7 L490.0,350.0" stroke="#7e55a1" stroke-width="12" fill="none"/>
+<circle cx="320" cy="475" r="8" fill="#6d88b8"/>
+<circle cx="650" cy="300" r="8" fill="#6d88b8"/>
+<circle cx="570" cy="170" r="8" fill="#6d88b8"/>
+<circle cx="290" cy="520" r="8" fill="#6d88b8"/>
+<line x1="530" y1="215" x2="605" y2="162" class="line"/>
+<text x="615" y="170" class="t m h">Spike (S) protein</text>
+<line x1="575" y1="350" x2="650" y2="342" class="line"/>
+<text x="660" y="350" class="t m h">Lipid bilayer</text>
+<line x1="535" y1="440" x2="660" y2="462" class="line"/>
+<text x="670" y="470" class="t m h">Membrane (M) protein</text>
+<line x1="540" y1="485" x2="630" y2="547" class="line"/>
+<text x="640" y="555" class="t m h">Envelope (E) protein</text>
+<line x1="315" y1="440" x2="75" y2="512" class="line"/>
+<text x="85" y="520" class="t m h">Helical capsid with viral RNA</text>
+<rect x="40" y="85" width="260" height="95" class="box"/>
+<text x="60" y="112" class="t h s">Entry</text>
+<text x="60" y="137" class="t s">Spike protein binds ACE2 on host cells.</text>
+<text x="60" y="158" class="t s">ACE2 expression is high in lungs, intestines, heart, kidneys.</text>
+</svg>

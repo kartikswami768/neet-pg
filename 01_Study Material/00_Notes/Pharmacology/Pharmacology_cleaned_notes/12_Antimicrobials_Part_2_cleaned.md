@@ -1,0 +1,2219 @@
+---
+Subject: Pharmacology
+type: Marrow
+---
+
+# Antimicrobials Part 2 — Comprehensive, Topic-Organized Study Notes
+
+# Mycobacterial Infections
+
+### TB overview, first-line therapy
+
+#### 1. MYCOBACTERIAL INFECTIONS
+
+##### 1.1 Tuberculosis (TB)
+**Basic facts**
+- **Causative organism:** *Mycobacterium tuberculosis*.
+- **Treatment:** Anti-tubercular therapy (ATT).
+- **Indian programme:** National Tuberculosis Elimination Programme (NTEP).
+
+##### 1.2 Anti-TB drugs: core classification
+
+> **India / NTEP:** The drug-susceptible TB regimen below is the Indian programme anchor.
+
+**First-line drugs for drug-susceptible TB**
+
+| Drug         | Symbol | High-yield pharmacological point                                                                                      |
+| ------------ | ------ | --------------------------------------------------------------------------------------------------------------------- |
+| Isoniazid    | **H**  | ==Prodrug==; inhibits mycolic-acid synthesis after activation by KatG                                                 |
+| Rifampicin   | **R**  | Inhibits bacterial DNA-dependent ==RNA polymerase==;==strong CYP/P-gp inducer==                                       |
+| Pyrazinamide | **Z**  | ==Prodrug==; active against intracellular/slowly replicating organisms; important hepatotoxicity + ==hyperuricaemia== |
+| Ethambutol   | **E**  | Inhibits arabinosyl transferase; **bacteriostatic**; ==optic toxicity==                                               |
+
+- HRZE are given orally.
+- **Streptomycin (S)** is no longer a routine first-line drug for drug-susceptible TB, but injectable aminoglycosides retain selected specialist roles.
+**Standard Indian drug-susceptible TB regimen**
+- **Intensive phase:**
+	- 2 months: **HRZE**
+- **Continuation phase:**
+	- 4 months: **HRE** Indian programme regimen represented by NACO source used for HIV-TB tables.
+
+
+#### 3. INDIVIDUAL FIRST-LINE ANTI-TB DRUGS
+##### 3.1 Isoniazid (H)
+
+###### Mechanism of action
+- **Prodrug** requiring activation within the mycobacterium.
+- Activated mainly by mycobacterial ==**catalase-peroxidase (KatG)**==.
+- Active metabolites ==inhibit **mycolic-acid synthesis**==, an essential component mycobacterial cell envelope.
+![[12_Antimicrobials_Part_2_cleaned 2026-10-02 11.09.02.excalidraw]]
+###### Resistance
+- **katG mutation →** reduce activation of isoniazid.
+- **inhA mutation** → Isoniazid and ethionamide not able to inhibit it now
+- **inhA promoter mutation** → more inhA to inhibit → less effectiveness of drug → **give high dose INH**
+###### Drug properties
+- Undergoes **acetylation** liver.
+- Acetylator phenotype influences drug exposure.
+- Isoniazid ==inhibits several hepatic CYP enzymes== and therefore has clinically relevant interactions.
+**Acetylator phenotypes**
+
+| Phenotype       | Pharmacokinetics                          | High-yield implication                                         |
+| --------------- | ----------------------------------------- | -------------------------------------------------------------- |
+| Fast acetylator | More rapid acetylation and lower exposure | May have lower plasma concentrations                           |
+| Slow acetylator | Slower acetylation and higher exposure    | Higher risk of dose-related toxicity, especially neurotoxicity |
+###### Adverse Effects
+**Neurotoxicity**
+**Peripheral neuropathy** is the classic adverse effect.
+**Prevention/treatment:** **Pyridoxine (vitamin B6)**.
+Risk is increased in settings such as malnutrition, diabetes, HIV infection, pregnancy and pre-existing neuropathy.
+
+**Hepatotoxicity**
+- Isoniazid can cause clinically important drug-induced liver injury.
+- It is one major hepatotoxic drugs in ATT.
+
+**Exam mnemonic retained from : “INH”**
+- **I** - “Insanity” → neuropsychiatric toxicity (e.g. hallucinations/abnormal thoughts in severe toxicity)
+- **N** - Neurotoxicity → peripheral neuropathy
+- **H** - Hepatotoxicity
+
+Drug interactions
+- Isoniazid can inhibit hepatic drug metabolism through CYP inhibition.
+- This may increase exposure to selected co-administered medicines.
+
+##### 3.2 Rifampicin (R)
+###### Mechanism of action
+- Inhibits the **beta subunit of bacterial DNA-dependent ==RNA polymerase**.==
+- Resistance is strongly associated with mutations in **rpoB**.
+
+###### Pharmacokinetics
+
+| PK parameter          | High-yield point                                                                                  |
+| --------------------- | ------------------------------------------------------------------------------------------------- |
+| **Absorption**        | Good oral absorption; **==food ↓ absorption==** → preferably empty stomach                        |
+| **Distribution**      | Widely distributed; **CNS penetration increases with meningeal inflammation**                     |
+| **BBB / P-gp**        | **==P-gp substrate==** → efflux from CNS → limits CNS penetration                                 |
+| **Protein binding**   | ~80%                                                                                              |
+| **Metabolism**        | **Hepatic deacetylation** → 25-desacetylrifampicin (**active**)                                   |
+| **CYP metabolism**    | **NOT primarily metabolized by CYP3A4**                                                           |
+| **Autoinduction**     | Repeated dosing → ↑ hepatic drug metabolism → **t½ decreases**                                    |
+| **Induction**         | **Potent CYP3A4, CYP2C9, CYP2C19 + ==P-gp inducer==** + UGT enzymes                               |
+| **Major interaction** | ↓ levels/effect of **OCPs, warfarin, DOACs, azoles, ART, corticosteroids, anticonvulsants**, etc. |
+| **Excretion**         | Mainly **biliary/fecal**; some urinary excretion                                                  |
+| **Renal failure**     | Usually **no major dose adjustment**                                                              |
+| **t½**                | ~**2–5 h**; decreases with repeated dosing                                                        |
+> **Rifampicin = good oral absorption → wide distribution → P-gp efflux at BBB → hepatic deacetylation → biliary excretion + potent CYP/P-gp induction.**
+###### **Important interactions**
+
+| Co-administered drug                  | Effect of rifampicin                               | Clinical consequence                                                |
+| ------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------- |
+| Combined oral hormonal contraceptives | Increased metabolism                               | Reduced contraceptive effectiveness                                 |
+| Warfarin                              | Increased metabolism                               | Reduced anticoagulant effect; INR may fall                          |
+| Digoxin                               | Can increase p-gp transporter-mediated elimination | Reduced exposure/effect in some patients                            |
+| Many antiretrovirals                  | Enzyme/transporter induction                       | Reduced antiretroviral exposure; regimen-specific adjustment needed |
+| Dolutegravir                          | Reduced exposure via enzyme/transporter induction  | DTG dose adjustment required during rifampicin therapy              |
+[[02_General_Pharmacology_cleaned#3. P-Glycoprotein and Drug Transport|P-Glycoprotein]]
+
+> [!note] **Rifampicin + dolutegravir: India-specific high-yield rule**
+>NACO's guideline for patients receiving rifampicin-containing ATT uses **dolutegravir 50 mg twice daily** rather than once daily during rifampicin co-administration, with the additional DTG dose continued through ATT and for **2 weeks after rifampicin is stopped**.
+
+###### Pharmacodynamics
+
+| Parameter          | High-yield point                                                              |
+| ------------------ | ----------------------------------------------------------------------------- |
+| **Target**         | **DNA-dependent RNA polymerase** of *M. tuberculosis*                         |
+| **Binding site**   | Binds **β-subunit (rpoB gene product)**                                       |
+| **Action**         | Blocks **RNA elongation → inhibits bacterial RNA synthesis**                  |
+| **Effect**         | **==Bactericidal==**                                                          |
+| **Activity**       | ==Active against **rapidly dividing + some slowly metabolizing TB bacilli**== |
+| **PK/PD index**    | **AUC/MIC** is the major determinant of efficacy                              |
+| **Resistance**     | Mainly **rpoB mutations** → altered RNA polymerase → rifampicin resistance    |
+| **Clinical pearl** | **Strong sterilizing activity** → major role in shortening TB treatment       |
+> **Rifampicin → binds β-subunit of bacterial DNA-dependent RNA polymerase → blocks transcription → bactericidal.**
+###### Administration
+- Oral rifampicin is generally taken on an ==**empty stomach**== because food reduces absorption.
+**Body-fluid discoloration**
+- Can cause **orange-red discoloration of urine and other body fluids**.
+- This is generally harmless and should be explained to patients.
+###### Important severe adverse effects
+- Hepatotoxicity
+- Hypersensitivity reactions
+- Drug interactions due to enzyme/transport induction
+###### **Rifamycin derivatives**
+
+| Drug        | High-yield use/property                                                                                   |
+| ----------- | --------------------------------------------------------------------------------------------------------- |
+| Rifapentine | Long-acting rifamycin used in selected ==TB preventive-treatment== and TB regimens                            |
+| Rifabutin   | Less potent CYP induction than rifampicin; ==useful for selected drug-interaction scenarios==                 |
+| Rifaximin   | ==Poorly absorbed; acts mainly gut==; used for hepatic encephalopathy and selected intestinal indications |
+
+**Rifaximin: retained associations**
+Since it is poorly absorbed, it can be used as a local antibiotic for gut in cases of:
+- Hepatic encephalopathy
+- Traveler's diarrhea in appropriate indications
+- Irritable bowel syndrome with diarrhea in appropriate indications
+
+##### 3.3 Pyrazinamide (Z)
+###### Mechanism
+- **Prodrug**, converted to **pyrazinoic acid** by mycobacterial pyrazinamidase.
+- Active against ==intracellular and relatively dormant/slow-growing organisms== 
+- Interferes with membrane energetics and related cellular processes.
+###### Major toxicity
+- **Hepatotoxicity**
+- ==**Hyperuricaemia**== → arthralgia and possible gout
+
+> [!note] **High-yield gout association**
+>- ==**Pyrazinamide** is the strongest TB-drug association with hyperuricaemia/gout.==
+>- **Ethambutol** can also increase uric acid.
+
+###### **Continuation phase**
+- omission of pyrazinamide with its hepatotoxicity.
+- In a standard 6-month drug-susceptible regimen, Z is used during the initial 2 months and generally not continued continuation phase.
+
+##### 3.4 Ethambutol (E)
+###### Mechanism
+- Inhibits **arabinosyl transferase**.
+- Decreases synthesis of **arabinogalactan**, an important mycobacterial cell-wall component.
+- Result: impaired ==mycobacterial cell-wall synthesis==.
+
+###### **Classification**
+- **Bacteriostatic**.
+- Among the classic HRZE drugs, it is the major drug remembered as bacteriostatic.
+
+###### **Major adverse effect: ocular toxicity**
+- **Optic neuritis**
+- Impaired red-green colour discrimination
+- Reduced visual acuity at clinically important toxicity levels
+- Can also cause hyperuricemia just like pyrazinamide
+
+#### 4. STERILIZING ACTIVITY IN TB
+drugs that retain activity against dormant or slowly replicating bacilli.
+- **Rifampicin**
+- **Pyrazinamide**
+- **Bedaquiline**
+
+#### 5. ANTI-TB DRUG SAFETY IN ORGAN DYSFUNCTION
+##### mnemonic: “HRZES”
+- **HRZ** - major hepatotoxic concern.
+- **ZES** - major renal-elimination/toxicity considerations simplified teaching rule.
+##### TB with liver disease
+- Stop HRZ when significant hepatotoxicity is suspected.
+- Particularly stop/reconsider pyrazinamide because it is strongly hepatotoxic.
+- Use a liver-sparing regimen containing agents such as streptomycin, levofloxacin and ethambutol while specialist/programme guidance is followed.
+
+### Drug Resistance TB 
+
+#### 9. SECOND-LINE TB Drugs
+##### 2.2 Second-line / Group-A drugs
+**Group A — highly effective drugs**
+	**Mnemonic from : BELL**
+	- **B** - Bedaquiline
+	- **L** - Linezolid
+	- **L** - Levofloxacin or moxifloxacin
+
+| Drug                 | Mechanism                                                        | Adverse Effect                                                                                                                                                                                                                                  |
+| -------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Bed**a**q**uilline | **BED** → Decrease energy<br>Inhibits Mycobacterial ATP synthase | Qt prolongation                                                                                                                                                                                                                                 |
+| Linezolid            | z → 5<br>50s ribosome → Protein Synthesis                        | PLOTS<br>1. Peripheral Neuropathy, Pseudomembranous Colitis<br>2. Lactic Acidosis<br>3. Optic Neuritis<br>4. Serotonin Syndrome<br>5. Thrombocytopenia/BM suppression (aka Myelosuppression)                                                    |
+| Fluoroquinolones     | Inhibits Topoisomerase (II + IV)<br>II → aka Gyrase              | Tendon<br>QT<br>CNS, neuropathy (Can occur)<br>glucose<br>neuropathy<br>C. difficile                                                                                                                                                            |
+| Clofazimin           | Membrane/oxidative mechanisms in mycobacteria                    | Brown Gray Skin pigmentation,QT prolongation                                                                                                                                                                                                    |
+| Cycloserine          | Inhibit Peptidoglycan Syntheses                                  | CNS and Psychiatric (major)                                                                                                                                                                                                                     |
+| Pretomanid/Delamanid | Mycolic acid synthesis                                           | QT prolongation                                                                                                                                                                                                                                 |
+| Ethionamide          | Inhibit inhA (Mycolic acid synthesis)                            | ETH<br>- **Erectile dysfunction**: Neuropsychiatric adverse effects may occur<br>- **T**hyroid: **Hypothyroidism / goitre** due to antithyroid effects, especially when combined with PAS<br>- Hepatotoxicity<br>- Gastrointestinal intolerance |
+
+**Other important drugs**
+- Clofazimine
+- Cycloserine
+- ==Delamanid==
+- ==Pretomanid==
+- ==Ethionamide==
+- Thioacetazone
+
+##### 9.1 Bedaquiline
+###### Mechanism
+- Inhibits **mycobacterial ATP synthase**.
+- Reduces energy production.
+**Adverse effect**
+- **QT prolongation** is the classic exam association.
+###### Mnemonic
+“BED” → reduced energy/ATP.
+
+##### 9.2 Linezolid
+![[11_Antimicrobials_Part_1_cleaned#28. Linezolid]]
+
+##### 9.3 Fluoroquinolones
+Examples:
+- Levofloxacin
+- Moxifloxacin
+These are major drugs in modern DR-TB regimens.
+
+##### 9.4 Clofazimine
+###### Important properties
+- Used in leprosy and in selected DR-TB regimens.
+- Can produce **brown/gray skin hyperpigmentation** due to tissue deposition.
+- QT prolongation is also clinically relevant, especially when combined with other QT-prolonging drugs.
+**association**
+- Cross-resistance may occur with other DR-TB drugs, including bedaquiline, in resistant strains.
+##### 9.5 Cycloserine
+###### Mechanism
+Inhibits enzymes involved in peptidoglycan synthesis, classically:
+- **Alanine racemase**
+- **D-alanine-D-alanine ligase**
+**CNS toxicity**
+- Depression
+- Psychosis
+- Seizures may occur
+- Suicidal behaviour risk is clinically important in severe neuropsychiatric toxicity
+
+##### 9.6 Delamanid and ==pretomanid==
+the “-manid” / “-nanid” sound to associate these drugs with **mycolic-acid-related cell-wall inhibition**.
+###### Class
+These belong to nitroimidazole group of antimicrobials (like metronidazole, Tinidazole, Secnidazole)
+They are prodrugs which are activated by bacterial. enzymes and then release NO and other nitrogen radicals.
+```text
+                 IMIDAZOLE
+                     │
+          ┌──────────┴──────────┐
+          ↓                     ↓
+     IMIDAZOLE              NITROIMIDAZOLE
+     ANTIFUNGALS                  │
+          │                       │
+          ↓             ┌─────────┴──────────┐
+   ↓ Ergosterol         ↓                    ↓
+   synthesis        Metronidazole etc.    Pretomanid
+          │             │                    │
+          ↓             ↓                    ↓
+       FUNGI       Anaerobes + protozoa     TB
+```
+###### High-yield point
+Both drugs can contribute to **QT prolongation**, particularly in combination regimens where multiple QT-prolonging agents are present.
+**Pretomanid: eligibility caveats**
+- Not to be used in:
+	- younger patients,
+	- pregnancy,
+	- breastfeeding.
+	due to unproven safety in humansand suspicion of side effects in animal studies.
+
+##### 9.7 Ethionamide
+###### Mechanism
+- Inhibits mycolic-acid synthesis.
+- Structurally/pharmacologically resembles isoniazid in important aspects.
+**High-yield adverse effects**
+- Gastrointestinal intolerance
+- Hepatotoxicity
+- **Hypothyroidism / goitre** due to antithyroid effects, especially when combined with PAS
+- Neuropsychiatric adverse effects may occur
+**Erectile dysfunction**
+The mnemonic “ETH” associates ethionamide with erectile dysfunction and thyroid effects. The thyroid association is the more established exam pearl.
+
+##### 9.8 Thioacetazone
+- Older bacteriostatic TB drug.
+- Historically important in HIV-associated TB because of severe hypersensitivity and rash risk.
+- **Avoid in HIV infection** because of serious adverse reactions.
+
+#### 2. DRUG-RESISTANT TB regimens
+| Resistance pattern                                         | Key regimen                        | Duration         |
+| ---------------------------------------------------------- | ---------------------------------- | ---------------- |
+| **H-resistant, R-sensitive**                               | **Lfx + R + E + Z**                | **6 months**     |
+| **MDR/RR-TB, eligible ≥14 y**                              | **BPaLM**                          | **6 months**     |
+| **MDR/RR-TB, BPaLM unsuitable but short-regimen eligible** | **9–11 month oral regimen**        | **9–11 months**  |
+| **Complex resistance / short regimens unsuitable**         | **Longer oral regimen**            | **18–20 months** |
+| **XDR-TB**                                                 | Longer individualized oral regimen | **~20 months**   |
+###### Important Points
+- **MDR = H + R resistance**
+- **BPaLM = Bdq + Pa + Lzd + Mfx**
+- **BPaLM = 6 months**
+- Current NTEP uses **BPaLM in eligible patients ≥14 years**.
+- **H-resistant ≠ MDR** if rifampicin remains sensitive.
+- Older 9-month regimens may show **ethionamide**; current NTEP uses **linezolid** in the initial phase.
+- **Pregnancy/breastfeeding → avoid pretomanid-containing BPaLM.**
+- **Injectables are not routine backbone** of modern DR-TB regimens.
+##### 2.1 Definitions
+###### MDR/RR-TB
+- **RR-TB:** Rifampicin-resistant TB ± resistance to other drugs.
+- **MDR-TB:** Resistance to **Isoniazid (H) + Rifampicin (R)**.
+###### Pre-XDR-TB
+- MDR/RR-TB + **fluoroquinolone resistance**.
+###### XDR-TB
+- MDR/RR-TB + **FQ resistance + resistance to bedaquiline or linezolid (Group A drugs)
+##### 2. Isoniazid-resistant TB
+###### H mono/poly-drug resistance
+- If **Rifampicin remains susceptible**:
+  - **Lfx + R + E + Z**
+  - **6 months**
+- Can be extended to **9 months** in selected situations:
+  - Extensive disease
+  - Significant comorbidity
+  - Severe extrapulmonary TB
+  - Persistent smear positivity at month 4
+> **Exam pearl:** H-resistant TB ≠ MDR-TB if rifampicin is still susceptible.
+---
+##### 3. MDR/RR-TB — Short 6-month regimen
+**BPaLM = Bedaquiline + Pretomanid + Linezolid + Moxifloxacin**
+- Preferred short regimen for eligible **MDR/RR-TB patients ≥14 years**.
+- **Duration:** 6 months / 26 weeks.
+- Can be extended to **9 months** in selected cases, especially with linezolid toxicity requiring dose reduction.
+>**Important point about FQ resistance**
+	- Current **NTEP:** ==BPaLM can be used **irrespective of FQ resistance**.==
+	- **Moxifloxacin is retained** in the NTEP BPaLM regimen even with FQ resistance.
+##### 4. MDR/RR-TB — 9–11 month regimen
+**When used**
+- Patient is **not eligible for BPaLM** but meets criteria for the shorter oral regimen.
+- Generally requires **absence of FQ resistance** and no major resistance/contraindication to the regimen drugs.
+>Pay attention that BPaLM can be used even in Fluoroquinolone resistance
+
+**Regimen**
+==For First 6 months → Bedaquilline Irrespective of Phase==
+Other than Bedaquilline: 
+
+| Phase              | Duration                                                                                         | Other than Bedaquilline                                                                                            |
+| ------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| Extensive Phase    | 4-6 months<br>- Usually 4 months<br>- Can be extended to 6 months based on response to treatment | ==high-dose Isoniazid== + Levofloxacin/Moxifloxacin + Clofazimine + Pyrazinamide + Ethambutol +  + ==Ethionamide== |
+| Continuation Phase | 5 months                                                                                         | Levofloxacin/Moxifloxacin + Clofazimine + Pyrazinamide + Ethambutol                                                |
+>Linezolid can be given instead of Ethionamid in preganancy. But duration of it will be 2 months only.
+**Eligibility:**
+	- MDR/RR-TB
+	* Fluoroquinolone resistance must be excluded
+	* No extensive TB disease / severe extrapulmonary TB for this classic regimen
+	* Prior exposure to key drugs should generally be <1 month, unless resistance to the previously exposed drug has been excluded.
+	* ≥14 year old
+	* Not Pregnant, not Breastfeeding
+	* Not CNS TB
+---
+##### 5. Longer oral regimen
+   **When used**
+- Cannot use BPaLM or the 9–11 month regimen.
+- Extensive resistance, intolerance, contraindications, or other clinical situations requiring individualized therapy.
+**Core regimen**
+- **Bdq + Lfx + Lzd + Cfz + Cs**
+- Modify according to resistance pattern and drug intolerance.
+**Duration**
+- **18–20 months**
+- **XDR-TB → usually 20 months** in the NTEP framework.
+> Modern NTEP regimens are predominantly **all-oral**; injectables are no longer the routine backbone.
+---
+##### 6. Special situations
+###### Pregnancy / Breastfeeding
+- **Pretomanid is avoided/not recommended** in pregnancy and breastfeeding.
+- Therefore, standard **BPaLM is not used**.
+- An appropriate **Lzd-containing shorter regimen** may be used when eligible.
+- **Second-line injectable aminoglycosides are avoided in pregnancy** because of fetal ototoxicity.
+###### Age <14 years
+- Standard **BPaLM protocol is for ≥14 years**.
+- Younger children require an appropriate pediatric DR-TB regimen.
+---
+### TB clinical situations, HIV & prevention
+
+#### 6. SPECIAL CLINICAL SITUATIONS IN TB
+
+##### 6.1 TB with gout / hyperuricaemia
+- Pyrazinamide and ethambutol can increase uric acid.
+- If gout develops, **do not automatically stop ATT solely because of gout**.
+- Add appropriate urate-lowering/symptomatic management when clinically indicated.
+> Drug-induced liver injury is a fundamentally different safety problem from uncomplicated asymptomatic hyperuricaemia and should not be conflated with it.
+
+##### 6.2 TB in pregnancy
+
+> **India / NTEP:** The Indian programme-specific pregnancy point is identified below.
+
+**Teaching point**
+- Intensive phase: HRZE for 2 months.
+- Continuation phase: HR only.
+- The **HR-only continuation statement should not be used as a general pregnancy rule**.
+- Ethambutol and, in many guidelines/programmes, pyrazinamide can be used during pregnancy when indicated.
+- In India, the NACO HIV-TB table continues to use the standard daily ATT framework **2HRZE + 4HRE** for drug-sensitive TB in patients receiving rifampicin-containing ATT.
+Pyrazinamide use in pregnancy may be individualized in some guidelines, but pregnancy by itself does **not** mean that ethambutol and pyrazinamide must simply be removed from therapy.
+
+##### 6.3 Corticosteroids in TB
+**Mechanistic benefit**
+- Anti-inflammatory effect
+- Reduce edema
+- Reduce inflammatory tissue injury and some long-term fibrotic complications
+**Strongest indication: tuberculous meningitis**
+- **Dexamethasone or prednisolone** is recommended as adjunctive corticosteroid therapy in TB meningitis.
+- Typical taper: approximately **6-8 weeks**, according to guideline/regimen.
+**Pericardial TB**
+- Corticosteroids **may** be used; this is a conditional rather than universal recommendation.
+**Pleural TB and other forms**
+- Steroids are not automatically mandatory in every non-meningeal TB manifestation.
+> “Steroids are mandatory for pleural TB and every other TB variety” is too broad.
+
+**Intestinal TB**
+The labels intestinal TB as an “absolute contraindication” to corticosteroids because of concern about impaired tissue healing/perforation.
+> **Correction:** This is **not** an appropriate universal rule. Steroid use in abdominal/intestinal TB is case-specific and should be based on the actual indication, complications and specialist guidance.
+
+#### 7. TB AND HIV CO-INFECTION
+##### Important principle
+TB and HIV should both be treated, but ART is **not** simply “forbidden until ATT is finished.”
+##### Timing of ART
+A high-yield WHO framework is:
+- **CD4 ≤50 cells/mm3:** start ART within about **2 weeks** of starting TB treatment in most patients.
+- **Higher CD4 counts:** start ART within **8 weeks** in general.
+- **TB meningitis:** ART timing is individualized and commonly delayed relative to uncomplicated pulmonary TB because early immune recovery may worsen CNS inflammation.
+##### Why the delay can matter
+Starting ART causes immune recovery. A rapid inflammatory response against existing TB antigen can produce ==**immune reconstitution inflammatory syndrome (IRIS)**.==
+
+##### Rifampicin interaction with DTG
+As above:
+- Rifampicin induces metabolism/transport.
+- NACO recommends **DTG 50 mg twice daily** during rifampicin-containing ATT, with the extra dose continued for **2 weeks after rifampicin is stopped**.
+>Rifampicin has **interaction with almost all ART drugs except NRTIs**. So replacing Rifampicin can be considered.
+#### 8. TB PREVENTIVE TREATMENT (TPT)
+Isoniazid, rifampicin, isoniazid-rifampicin and isoniazid-rifapentine combinations.
+##### Current WHO preventive-treatment options include
+- **3HP:** weekly isoniazid + rifapentine for 3 months
+- **1HP:** daily isoniazid + rifapentine for 1 month in eligible populations
+- **3HR:** daily isoniazid + rifampicin for 3 months
+- **4R:** daily rifampicin for 4 months
+- Longer isoniazid regimens in selected settings
+- **6 months levofloxacin** for selected contacts exposed to MDR-TB
+
+##### High-risk groups
+- People with HIV
+- Immunocompromised people
+- Selected contacts/latent TB infection groups
+- Newborns/infants of mothers with TB, according to the applicable neonatal TB protocol
+> **India / NTEP principle:** TPT should be offered only after active TB has been excluded and according to the applicable risk group and regimen criteria.
+
+
+### Leprosy & leprosy reactions
+
+#### 10. LEPROSY
+
+##### 10.1 Basic facts
+- **Causative organism:** *Mycobacterium leprae*.
+- **Treatment:** multidrug therapy (MDT).
+- **Indian programme:** National Leprosy Eradication Programme (NLEP).
+
+##### 10.2 Current classification used by India
+**Paucibacillary (PB)**
+- **1-5 skin lesions**
+- No demonstrated nerve involvement revised simplified operational classification
+- Slit-skin smear negative
+**Multibacillary (MB)**
+- **>5 skin lesions**, or
+- one or more nerve involved, or
+- bacilli demonstrated on slit-skin smear
+
+##### 10.3 Standard 3-drug MDT
+Current WHO and India's revised NLEP protocol use the same three drugs for both PB and MB disease:
+- Rifampicin
+- Dapsone
+- Clofazimine
+
+###### Duration
+- **PB:** 6 months
+- **MB:** 12 months
+
+##### 10.4 NLEP dosage table
+**Adults and children/adolescents**
+
+| Group | Rifampicin | Dapsone | Clofazimine | Duration |
+|---|---:|---:|---:|---:|
+| Adults / age >=15 y | 600 mg once monthly, supervised | 100 mg daily | 300 mg once monthly + 50 mg daily | PB 6 mo; MB 12 mo |
+| 10-14 y | 450 mg once monthly | 50 mg daily | 150 mg once monthly + 50 mg on alternate days | PB 6 mo; MB 12 mo |
+| <10 y or <40 kg | 10 mg/kg once monthly | 2 mg/kg daily | 100 mg once monthly + 50 mg twice weekly | PB 6 mo; MB 12 mo |
+
+> This table matches the **revised Indian NLEP protocol implemented nationally from 1 April 2025** and is therefore one places where the original remains useful and current.
+
+**Supervised vs unsupervised pattern**
+- **Rifampicin:** monthly supervised dose
+- **Dapsone:** daily self-administered dose
+- **Clofazimine:** monthly supervised pulse + daily dose
+
+##### 10.5 Dapsone
+
+###### Mechanism
+- Sulfone antimicrobial.
+- Inhibits **dihydropteroate synthase (DHPS)** → blocks bacterial folate synthesis.
+
+###### Uses
+- Major component of leprosy MDT.
+- Historically/common teaching: treatment of **dermatitis herpetiformis**.
+**Important adverse effects**
+- **Hemolytic anaemia**
+- **Methemoglobinaemia**
+- Agranulocytosis is rare but serious
+**G6PD deficiency**
+- Important risk factor for clinically significant haemolysis.
+**Acedapsone**
+**acedapsone (AC dapsone)** as a long-acting injectable formulation administered at extended intervals. This is a historical pharmacology point and is not a standard modern substitute for routine MDT.
+
+#### 11. LEPRA REACTIONS
+
+##### 11.1 Type 1 reaction — reversal reaction
+- Classically associated with a **cell-mediated/type IV hypersensitivity pattern**.
+- Often occurs in borderline disease.
+- Can threaten nerve function.
+**Treatment**
+- **Continue MDT** unless a specific drug reaction requires modification.
+- **Prednisolone/corticosteroids** are the main treatment when there is clinically significant neuritis or inflammation.
+
+##### 11.2 Type 2 reaction — erythema nodosum leprosum (ENL)
+- Classically associated with an **immune-complex/type III hypersensitivity pattern**.
+- May be systemic and severe.
+**Treatment**
+- Corticosteroids are widely used.
+- **Thalidomide** is an important treatment for severe/refractory ENL in appropriate patients under strict teratogenicity controls.
+- Thalidomide is **contraindicated in pregnancy**.
+**Exam mnemonic from**
+- Type 1: **1 + 4 = 5** → type IV hypersensitivity
+- Type 2: **2 + 3 = 5** → type III hypersensitivity
+These are teaching mnemonics, not complete immunological descriptions.
+
+# Antifungal Drugs
+
+### Antifungal targets & major classes
+
+#### 12. ANTIFUNGAL DRUGS
+
+##### 12.1 Fungal cell structure: high-yield map
+- **Cell wall:** beta-glucan and other polysaccharides
+- **Cell membrane:** ergosterol
+**Main target sites**
+![[12_Antimicrobials_Part_2_cleaned 2026-10-02 09.24.28.excalidraw|100%]]
+1. Fungal cell wall
+	- beta-1,3-glucan synthesis → Echinocandins
+2. Fungal membrane
+	- ergosterol binding / pore formation → Amphotericin B
+	- squalene epoxidase → Terbinafine
+	- 14-alpha-demethylase → Azoles
+3. Fungal nucleic acid metabolism
+	- 5-flucytosine → converted to 5-FU; inhibits DNA/RNA-related synthesis
+4. Fungal microtubules
+	- Griseofulvin
+5. Fungal translation
+	 - Tavaborole (leucyl-tRNA synthetase inhibitor)
+#### Important Table
+
+| Disease                                             | DOC            | Other drugs / notes                          |     |
+| --------------------------------------------------- | -------------- | -------------------------------------------- | --- |
+| Kala-azar                                           | Amphotericin B | —                                            |     |
+| Mucormycosis                                        | Amphotericin B | Posaconazole, isavuconazole                  |     |
+| Cryptococcal meningitis                             | Amphotericin B | Flucytosine, Fluconazole                     |     |
+| Candida albicans: mucocutaneous infection (vaginal) | Fluconazole    | Except oral candidiasis                      |     |
+| Vaginal candidiasis (new)                           | Oteseconazole  | Azole; Ibrexafungerp (β-glucan synthase −)   |     |
+| Oral candidiasis                                    | Clotrimazole   | Lozenge                                      |     |
+| Candida non-albicans / systemic                     | Echinocandin   | Caspofungin, micafungin, anidulafungin (IV)  |     |
+| Aspergillosis                                       | Voriconazole   | Isavuconazole, Amphotericin B                |     |
+| Skin infection / tinea                              | Sertaconazole  | Topical; ==anti-pruritic/anti-inflammatory== |     |
+| Tinea cruris / tinea corporis                       | Itraconazole   | Terbinafine                                  |     |
+| T. capitis / dermatophyte infection                 | Griseofulvin   | Oral with fatty food; resistance noted       |     |
+| ==Fungal corneal ulcer==                            | ==Natamycin==  | —                                            |     |
+| Onychomycosis                                       | Terbinafine    | Tavaborole; efinaconazole solution           |     |
+
+#### 13. ECHINOCANDINS
+Examples:
+- Caspofungin
+- Micafungin
+- Anidulafungin
+
+##### Suffix
+**“-fungin”**
+
+##### Mechanism
+- Inhibit **beta-1,3-D-glucan synthase**.
+- Damage the integrity fungal cell wall.
+
+##### Clinical use
+- Particularly important for **invasive candidiasis/candidemia**.
+- Have activity against *Aspergillus*, but are not preferred as primary monotherapy for invasive aspergillosis.
+
+##### Current clinical correction
+>
+> **Current interpretation:** Echinocandins are a major initial treatment class for invasive candidiasis; for invasive aspergillosis, **voriconazole** is a standard primary therapy, with liposomal amphotericin B or isavuconazole among major alternatives. Echinocandins may be used in selected combination/salvage scenarios.
+
+#### 14. ERGOSTEROL SYNTHESIS PATHWAY
+```text
+Squalene
+ |
+ | Squalene epoxidase <-- Terbinafine
+
+ v
+Lanosterol
+ |
+ | 14-alpha-demethylase (CYP51) <-- Azoles
+
+ v
+Ergosterol
+ |
+
+ v
+Fungal cell membrane
+```
+
+#### 15. TERBINAFINE
+
+##### Mechanism
+- Inhibits **squalene epoxidase**.
+- Blocks conversion of squalene toward lanosterol/ergosterol.
+- Accumulation of squalene plus ergosterol depletion damages fungal cells.
+
+##### Major use
+- **Onychomycosis**, particularly dermatophyte nail disease.
+- Oral terbinafine is a major first-line systemic option for dermatophyte onychomycosis.
+
+#### 16. IMIDIAZOLE Drugs (AZOLES)
+##### 16.1 General mechanism
+- Inhibit fungal **14-alpha-demethylase (CYP51)**.
+- ==Reduce conversion of lanosterol to ergosterol.==
+	- And that is why it inhibits steroid metabolism
+- Result: impaired fungal cell membrane synthesis/function.
+**Important examples**
+Important points: 
+##### Pharmacokinetics
+| Drug              | Key PK point                                                                    | Exam pearl                                                          |
+| ----------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **Fluconazole**   | Excellent oral absorption<br>**Excellent CSF penetration**<br>Renal elimination | **Dose ↓ in renal impairment**                                      |
+| **Itraconazole**  | Absorption variable<br>**Capsules: acid-dependent**<br>Solution better absorbed | Capsules ↑ absorption with food/acid<br>Solution preferably fasting |
+| **Voriconazole**  | Oral bioavailability ~96%<br>Hepatic metabolism                                 | **Nonlinear PK** → small dose changes can markedly ↑ levels         |
+| **Posaconazole**  | Suspension absorption variable<br>DR tablet + IV more reliable                  | DR tablet absorption less dependent on food                         |
+| **Isavuconazole** | Prodrug **isavuconazonium**<br>Excellent oral bioavailability                   | **Shortens QT**                                                     |
+| **Ketoconazole**  | Acid-dependent absorption<br>Extensive hepatic metabolism                       | Oral use largely avoided → **hepatotoxicity + endocrine effects**   |
+##### Pharmacodynamics
+- **Azoles = ergosterol synthesis inhibitors**
+- Inhibit fungal **14-α-demethylase (CYP51)**
+  - ↓ Ergosterol
+  - → Defective fungal cell membrane
+- Generally **fungistatic** against *Candida*
+- Activity against *Aspergillus* depends on drug/site/context
+- Major PK/PD index → **AUC/MIC**
+##### Therapeutic Drug Monitoring
+###### Drugs where TDM is particularly important
+- **Voriconazole**
+- **Itraconazole**
+- **Posaconazole** → selected situations
+##### Major Drug Interactions
+- Most azoles inhibit **CYP enzymes**
+  - → ↑ concentrations of many concomitant drugs
+- **Fluconazole**
+  - Potent **CYP2C9/2C19 inhibitor**
+  - Moderate **CYP3A4 inhibitor**
+- **Voriconazole**
+  - Inhibits **CYP2C19, CYP2C9, CYP3A4**
+- **Itraconazole**
+  - Strong **CYP3A4 inhibitor**
+- **Posaconazole**
+  - Strong **CYP3A4 inhibitor**
+- **Isavuconazole**
+  - Moderate **CYP3A4 inhibitor**
+  - Also induces **CYP2B6/2C8/2C9**
+##### High-Yield Differences
+###### Fluconazole
+- **Excellent CSF penetration**
+- Renally eliminated
+- Dose reduction in renal impairment
+###### Itraconazole
+- **Acid-dependent absorption**
+- Capsule ≠ oral solution pharmacokinetics
+###### Voriconazole
+- **Nonlinear PK**
+- Major CYP interactions
+- Visual disturbances
+###### Posaconazole
+- Absorption depends on formulation
+- DR tablet/IV → more predictable exposure
+###### Isavuconazole
+- **Shortens QT interval**
+- Unlike most QT-prolonging azoles
+###### Ketoconazole
+- **Hepatotoxicity**
+- **Endocrine adverse effects**
+- Oral systemic use largely avoided
+##### Memory Hook
+###### PK
+- **F**luconazole → **F**lows into CSF
+- **I**traconazole → **I**s acid-dependent
+- **V**oriconazole → **V**ariable/nonlinear PK; **V**ision Disturbance
+- **P**osaconazole → **P**redictable with DR tablet/IV
+- **I**savuconazole → **I**ncreases? **No → shortens QT**
+- **K**etoconazole → **K**ills liver + endocrine effects
+##### 16.2 Ketoconazole
+**Major toxicity / interaction teaching**
+Systemic ketoconazole ==strongly inhibits CYP-mediated steroid and drug metabolism.==
+Consequences include:
+- Increased exposure to susceptible co-administered drugs
+- Hepatotoxicity
+- Reduced androgen synthesis → ==decreased testosterone==
+- Reduced adrenal steroid synthesis at systemic toxic/excess exposure
+- **Gynecomastia** and other endocrine effects
+**Drug interactions**
+theophylline and warfarin as examples of increased toxicity/exposure through CYP inhibition.
+**Important current clinical note**
+- Systemic/oral ketoconazole has a much more restricted role than older pharmacology notes may imply because of hepatotoxicity and endocrine toxicity.
+- **Topical ketoconazole** remains widely used for dermatological indications such as seborrhoeic dermatitis/dandruff.
+##### 16.3 Azole elimination
+> “All azoles are excreted in bile except fluconazole” 
+- **Fluconazole** is predominantly renally eliminated and is the clearest high-yield renal-excretion exception; 
+- The other azoles have mixed hepatic/biliary and metabolic elimination patterns.
+##### 16.4 Individual azoles
+| Drug          | High-yield association                                                                                                       |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Clotrimazole  | Vaginal/topical azole; commonly used for vulvovaginal candidiasis/oral thrush                                                |
+| Ciclopirox    | Topical antifungal; can be used for dermatophyte nail disease in lacquer formulations                                        |
+| Ketoconazole  | Topical shampoo; dandruff/seborrhoeic dermatitis; oral use restricted because of toxicity                                    |
+| Voriconazole  | ==**V**isual disturbances; QT prolongation==; major first-line therapy for ==invasive aspergillosis==                        |
+| Isavuconazole | Broad-spectrum triazole; useful for invasive mould disease & ==mucormycosis==; ==**shortens QT rather than prolonging it**== |
+#### 17. AMPHOTERICIN B
+
+##### Mechanism
+- Polyene antifungal.
+- Binds **ergosterol** in fungal cell membranes.
+- Creates transmembrane pores → leakage of intracellular contents → fungal cell death.
+
+##### Key properties
+- **Fungicidal**
+- Usually administered **IV** for invasive systemic disease.
+- Conventional amphotericin B deoxycholate is more nephrotoxic and infusion-toxic than lipid formulations.
+**Administration compatibility**
+- Conventionally prepared in **5% dextrose**.
+- Avoid mixing in normal saline because of compatibility/precipitation issues.
+
+##### Major indications
+**Mucormycosis**
+- **Liposomal amphotericin B (L-AmB)** is a principal first-line systemic treatment, usually together with urgent surgical management when appropriate.
+**Cryptococcal meningitis**
+- Liposomal amphotericin B ==plus **flucytosine**== is a key induction regimen where available and appropriate, followed by oral azole consolidation/maintenance according to the clinical setting.
+**Kala-azar / visceral leishmaniasis**
+- Liposomal amphotericin B is the first-line drug current Indian kala-azar programme pathway.
+
+##### Adverse effects
+- **Infusion reactionsfever, chills, rigors, headache, nausea
+- ==**Nephrotoxicity**
+- ==Hypokalaemia
+- ==Hypomagnesaemia==
+- Anaemia
+```text
+Amphotericin B
+       ↓
+Binds cholesterol in renal tubular membranes
+       ↓
+Membrane pore formation + tubular epithelial injury
+       ↓
+Tubular ion permeability / dysfunction
+       ↓
+Renal K⁺ and Mg²⁺ wasting
+       ↓
+   ↓ Mg²⁺
+       ↓
+↑ renal K⁺ secretion (ROMK)
+       ↓
+   Hypokalemia
+```
+**Formulations**
+
+| Formulation | Relative toxicity | Key point |
+|---|---|---|
+| Conventional amphotericin B deoxycholate | Highest nephrotoxicity/infusion toxicity | Older preparation |
+| Lipid-associated formulations | Lower toxicity | Better tolerated, higher cost |
+| Liposomal amphotericin B | Generally least nephrotoxic among common systemic AmB formulations | Preferred in many serious infections when available |
+
+### Important Uses of antifungals
+#### 18. INVASIVE FUNGAL INFECTIONS: ORGANISM-DRUG MAP
+##### 18.1 Invasive candidiasis / candidemia
+**Current first-line principle**
+**==Echinocandin==** is a standard initial therapy in most non-neutropenic adults with candidemia.
+Selected stable patients with susceptible isolates may receive ==fluconazole== as an *alternative or step-down agent.*
+**correction**
+- The “==amphotericin B as first-choice induction for all yeast-like fungi==” is too broad.
+- Amphotericin B remains highly important for cryptococcosis and selected resistant/severe infections, but **candidemia is generally started with an echinocandin** unless specific factors favour another agent.
+
+##### 18.2 [[Cryptococcosis]]
+- *Cryptococcus* is a **yeast**.
+- For cryptococcal meningitis, an amphotericin B + ==flucytosine==-based induction regimen is a key high-efficacy approach where available.
+- ==Fluconazole== has an important role in subsequent ==consolidation/maintenance== therapy.
+
+![[Cryptococcosis#Management]]
+
+##### 18.3 Dimorphic fungi
+Examples include:
+- Histoplasma
+- Blastomyces
+- Sporothrix
+- Paracoccidioides
+- Coccidioides
+> Coccidioides should not be grouped as an ordinary “yeast-like fungus.” It has a distinctive mould/spherule morphology and belongs among dimorphic/mould-type systemic mycoses for pharmacological teaching purposes.
+
+**Typical treatment pattern**
+- Severe disease: often an **amphotericin** formulation initially.
+- Step-down/maintenance: commonly an ==azole== such as ==itraconazole== depending on organism and syndrome.
+
+##### 18.4 Invasive aspergillosis
+**First-line association**
+**Voriconazole** is a classic primary treatment.
+**Alternatives**
+- Isavuconazole
+- Liposomal amphotericin B
+**High-yield negative association**
+- ==Voriconazole== is **not active against mucormycosis as an effective first-line therapy**.
+
+##### 18.5 Mucormycosis
+1. **Urgent surgical debridement** when anatomically appropriate.
+2. **Liposomal amphotericin B** as the principal first-line systemic antifungal.
+3. ==Posaconazole== or ==isavuconazole== may be used as step-down/salvage options in appropriate patients.
+
+#### 20. ANTIFUNGAL USE IN PREGNANCY
+##### High-yield principle
+- **Amphotericin B** is the preferred systemic antifungal for many serious fungal infections during pregnancy.
+- Systemic azoles have important pregnancy-related safety concerns and should not be treated as a single homogeneous “absolutely contraindicated” class for every route/indication.
+- Topical azoles are commonly used for some superficial/vaginal infections when appropriate.
+“Only amphotericin B can be given in pregnancy; all azoles are contraindicated” 
+### Other antifungal targets
+
+#### 21. OTHER ANTIFUNGAL TARGETS
+
+##### 21.1 Flucytosine (5-FC)
+
+###### Mechanism
+- Converted by fungal cytosine deaminase to **5-fluorouracil (5-FU)**.
+- Interferes with pyrimidine metabolism and inhibits fungal DNA/RNA synthesis.
+**Major use**
+- Particularly important in **cryptococcal meningitis**, usually in combination with amphotericin B during induction.
+**High-yield adverse effects**
+- Bone-marrow suppression
+- Hepatotoxicity
+
+##### 21.2 Tavaborole
+
+###### Mechanism
+- Inhibits **leucyl-tRNA synthetase**.
+- Blocks fungal protein synthesis/translation.
+
+###### Use
+- Topical treatment of **onychomycosis**.
+
+##### 21.3 Griseofulvin
+
+###### Mechanism
+- Interferes with fungal microtubules/mitotic spindle function.
+**Classic use**
+- **Tinea capitis**.
+
+##### 21.4 Topical antifungals
+**Whitfield ointment**
+Contains:
+- Benzoic acid
+- Salicylic acid
+Classical use:
+- **Tinea pedis** and selected superficial dermatophyte infections.
+**Nail lacquers**
+Examples:
+- Ciclopirox
+- Amorolfine
+- Tavaborole (topical solution rather than traditional lacquer in some formulations)
+Useful mainly in selected **onychomycosis** cases.
+
+# Anthelmintic Drugs
+
+### Helminth classification, drug map & mass treatment
+
+#### 22. ANTIHELMINTHIC DRUGS
+
+##### 22.1 Worm classification
+**Cestodes (tapeworms)**
+Examples:
+- *Taenia solium* - pork tapeworm
+- *Taenia saginata* - beef tapeworm
+- *Hymenolepis nana* - dwarf tapeworm
+- *Diphyllobothrium latum* - fish tapeworm
+**Trematodes (flukes)**
+Examples:
+- *Paragonimus westermani* - lung fluke
+- *Schistosoma* species - blood flukes
+**Nematodes (roundworms)**
+Examples:
+- *Ascaris*
+- Hookworms: *Necator* and *Ancylostoma*
+- *Enterobius vermicularis* - pinworm
+- *Trichuris trichiura* - whipworm
+
+##### 22.2 High-yield drug map
+
+| Parasite/infection | Classic first-line association |
+|---|---|
+| Most cestodes | **Praziquantel** |
+| Most trematodes | **Praziquantel** |
+| Echinococcosis (hydatid disease) | **Albendazole** |
+| Neurocysticercosis | **Albendazole** or praziquantel depending on cyst burden/location; corticosteroids and seizure control often also required |
+| Fasciola hepatica | **Triclabendazole** |
+| Strongyloidiasis | **Ivermectin** |
+| Onchocerciasis | **Ivermectin** |
+| Lymphatic filariasis | **DEC** in programme-appropriate settings; drug combinations depend on elimination strategy |
+| Loa loa | **DEC** in appropriate patients with expert assessment |
+| Common intestinal soil-transmitted helminths | **Albendazole or mebendazole** |
+
+**rule retained**
+“Praziquantel for most cestodes and trematodes” is a useful broad rule, but memorize the major exceptions above.
+
+#### 23. MASS DEWORMING
+
+##### Programme drugs
+- Albendazole
+- Mebendazole
+
+##### WHO preventive-chemotherapy dose pearl
+- **Albendazole:** 400 mg single dose for most children in deworming programmes; **200 mg** is used for children around 12-23 months in standard WHO age-based programmes.
+- **Mebendazole:** **500 mg single dose** is the standard preventive-chemotherapy regimen used in many WHO school-based mass-deworming programmes.
+> The statement “mebendazole 100 mg” is not the standard WHO mass-deworming dose. A 100 mg dose is used in certain therapeutic schedules, but **500 mg single dose** is the classic preventive-chemotherapy dose.
+
+##### Age principle
+WHO deworming policies commonly include children from about **12 months of age**, with age-specific dosing. The exact programme cut-off and formulation should be followed locally.
+> Do not interpret a single simplified “no deworming <1 year” rule as universal for every clinical helminth infection; programme preventive chemotherapy and individual treatment are different contexts.
+
+### Ivermectin & key individual antihelminthics
+
+#### 24. LEVAMISOLE
+
+##### Use
+- Classic antihelminthic association: **Ascariasis**.
+
+##### Special property
+- **Immunomodulatory / immunostimulant** effects.
+
+##### Current clinical note
+Levamisole has a much smaller modern therapeutic role than its historical examination prominence.
+
+#### 25. IVERMECTIN
+
+##### Uses
+- Strongyloidiasis
+- Onchocerciasis
+- Scabies
+- Other susceptible ectoparasitic/helminthic infections
+
+##### Scabies
+**Topical options**
+- **Permethrin 5% cream** - standard high-yield first-line topical therapy
+- Benzyl benzoate
+- Crotamiton in selected settings
+- Sulfur in selected settings
+**Oral ivermectin**
+- Highly effective for scabies, particularly useful in severe/crusted disease and outbreaks when repeated dosing is appropriate.
+- **Avoid in pregnancy and in children <15 kg** because safety is not established in these groups.
+> The is broadly correct that permethrin is an important overall first-line topical therapy, but “safe in pregnancy and all children” should be interpreted carefully by individual drug and age. WHO specifically advises against oral ivermectin in pregnancy and <15 kg.
+
+# Antiviral Drugs
+
+### HIV 
+
+#### 1. HIV Virus
+##### HIV structure and entry
+![[IMG_1221.png]]
+```text
+HIV approaches CD4⁺ cell
+        ↓
+① gp120 binds CD4 receptor
+        ↓
+Conformational change in gp120
+        ↓
+② gp120 binds co-receptor
+   ├── CCR5 → R5-tropic HIV (early/common)
+   └── CXCR4 → X4-tropic HIV
+        ↓
+③ gp41 undergoes conformational change
+        ↓
+gp41 inserts fusion peptide into host membrane
+        ↓
+④ Viral envelope + cell membrane fuse
+        ↓
+HIV core enters cytoplasm
+        ↓
+⑤ Capsid (p24) contains:
+   • 2 copies of +ssRNA
+   • Reverse transcriptase
+   • Integrase
+   • Protease
+        ↓
+Capsid uncoats
+        ↓
+Reverse transcription → dsDNA
+        ↓
+Integrase → proviral DNA integrates into host genome
+```
+
+###### Entry sequence
+1. Viral attachment to **CD4**
+2. Co-receptor interaction, often **CCR5** or CXCR4
+3. Fusion/entry
+4. Reverse transcription
+5. Integration
+6. Viral protein synthesis/assembly
+7. Protease-mediated maturation
+
+###### First Aid HIV
+![[Virology#6. HIV & HIV-associated infections]]
+###### Reverse transcription
+```text
+HIV single-stranded RNA
+ |
+ | Reverse transcriptase
+
+ v
+DNA intermediate
+ |
+ | Integrase
+
+ v
+Integrated proviral DNA
+ |
+ | Transcription / translation
+
+ v
+Viral proteins / polyproteins
+ |
+ | Protease cleavage
+
+ v
+Mature infectious virions
+```
+
+#### 2. Anti-Retroviral Drugs
+##### HIV ENTRY / ATTACHMENT / CAPSId INHIBITORS
+| Drug            | Target               | HIV tropism      |
+| --------------- | -------------------- | ---------------- |
+| **Ibalizumab**  | **CD4 receptor**     | **CCR5 + CXCR4** |
+| **Maraviroc**   | **CCR5 co-receptor** | **CCR5 only**    |
+| **Enfuvirtide** | **gp41**             | **CCR5 + CXCR4** |
+| **Fostemsavir** | **gp120**            | **CCR5 + CXCR4** |
+###### Mnemonics
+- **-mab** → monoclonal antibody: ibalizumab
+- **-viro / -vir** patterns are not sufficiently specific to identify HIV classes reliably.
+##### Important Replication Cycle Drugs
+
+| N(s)RTI           | N(t)RTI       | NNRTI      | Integrase        | Protease   |
+| ----------------- | ------------- | ---------- | ---------------- | ---------- |
+| ==Lamivudine==    | ==Tenofovir== | Efavirenz  | ==Dolutegravir== | Ritonavir  |
+| ==Emtricitabine== |               | Navirapine | Raltegravir      | Atazanavir |
+| ==Zidovudine==    |               |            |                  | Lopinavir  |
+| ==Abacavir==      |               |            |                  |            |
+> We always give Ritonavir (in small amount) with Protease Inhibitor
+
+>Zidovudine & Abacavir → 2nd line to Tenofovir
+>Zidovudine → Children (< 30 Kg weight)
+>Abacavir → Adults
+
+>India → Lamivudine fan
+>World → Emtricitabine is equal to Lamivudine
+
+> if < 6 years → LPV/r instead of Dalutegravir
+> if < 30 Kg → Zidovudine instead of Tenofovir
+
+| Situation             | Regimen                                      |
+| --------------------- | -------------------------------------------- |
+| Adult                 | Tenofovir + Lamivudine + Dalutegravir        |
+| Adult (Tenofovir CI)  | Abacavir + Lamivudine + Dalutegravir         |
+| Pre-Exposure P (NACO) | Tenofovir + Lamivudine                       |
+| PrEP (WHO)            | Tenofovir + Emtricitabine                    |
+| PEP (1st line)        | Tenofovir + Lamivudine + Dalutegravir        |
+| PEP (child)           | Zidovudine + Lamivudine + Dalutegravir/LPV/r |
+| Exposed Infant (LR)   | Nevirapine                                   |
+| Exposed infant (HR)   | Zidovudine + Nevirapine                      |
+
+##### REVERSE TRANSCRIPTASE INHIBITORS (RTIs)
+###### 29.1 NRTIs
+
+| Class / Group      | Drugs                                                                    | High-yield point                                   |
+| ------------------ | ------------------------------------------------------------------------ | -------------------------------------------------- |
+| Cytidine analogues | **Zidovudine (AZT)**, **Lamivudine (3TC)**, **Emtricitabine (FTC)**      | Zidovudine → anemia                                |
+| Guanosine analogue | **Abacavir (ABC)**                                                       | **HLA-B*57:01 → hypersensitivity**                 |
+| Purine analogue    | **Didanosine (ddI)** (historical now)                                    | Pancreatitis + peripheral neuropathy               |
+| Adenosine analogue | **Tenofovir disoproxil fumarate (TDF)**, **Tenofovir alafenamide (TAF)** | TDF → renal + bone toxicity                        |
+| Thymidine analogue | **Stavudine (d4T)** (historical now)                                     | Mitochondrial toxicity + pancreatitis + neuropathy |
+**Nucleoside reverse transcriptase inhibitors** require intracellular phosphorylation/activation and inhibit reverse transcriptase by chain termination.
+
+
+**Zidovudine (ZDV/AZT)**
+- **Bone-marrow suppression**
+- Anaemia
+- Neutropenia
+- Myopathy
+- Lipoatrophy with prolonged exposure
+> The “Hb <9 g/dL = contraindicated” is a programme/clinical threshold rather than a universal pharmacological absolute contraindication.
+
+###### 29.2 Nucleotide RT inhibitor: Tenofovir
+
+**Forms**
+- TDF = tenofovir disoproxil fumarate
+- TAF = tenofovir alafenamide
+**Toxicity: particularly relevant to TDF**
+- Renal tubular toxicity
+- **Fanconi syndrome**
+- Phosphate wasting
+- Reduced bone mineral density / osteomalacia risk
+**Fanconi pathway**
+```text
+TDF tubular toxicity
+ |
+
+ +-- phosphate wasting
+ |
+
+ +-- proximal renal tubular dysfunction
+ v
+Bone mineralization impairment
+ |
+
+ +-- osteomalacia in adults
+ +-- rickets in children
+```
+> Tenofovir is **not universally contraindicated in all children**. TDF and/or TAF have paediatric uses in age/weight-appropriate patients. The decision depends on the formulation, renal function, age/weight and current HIV programme guidance.
+> Renal impairment generally calls for formulation-specific dose adjustment or selection of an alternative agent rather than the blanket rule “tenofovir is contraindicated in renal failure.”
+
+##### NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS (NNRTIs)
+Examples:
+- Nevirapine
+- Efavirenz
+- Etravirine
+- Rilpivirine
+- Doravirine
+
+###### Mechanism
+Bind an allosteric site on HIV reverse transcriptase and inhibit enzyme function without requiring phosphorylation.
+
+###### High-yield adverse effects
+**Nevirapine**
+- **Hepatotoxicity**
+- Rash
+- Severe cutaneous reactions including SJS/TEN can occur
+**Efavirenz**
+- CNS adverse effects: vivid dreams, dizziness, insomnia, neuropsychiatric symptoms
+- Rash possible
+> “All NNRTIs cause SJS” is too absolute, and the “-vir” naming pattern is not a reliable pharmacological classification rule.
+
+
+
+##### 31. INTEGRASE STRAND TRANSFER INHIBITORS (INSTIs)
+**“-gravir”**
+Examples:
+- Dolutegravir
+- Bictegravir
+- Cabotegravir
+- Raltegravir
+###### Mechanism
+- Inhibit integration of viral DNA into host-cell DNA.
+###### Dolutegravir + rifampicin
+- Rifampicin induces metabolism/transport pathways.
+- NACO: **DTG 50 mg twice daily** during rifampicin-containing ATT and for 2 weeks afterward.
+> It is not correct to say that all integrase inhibitors are simply “degraded by CYP3A4” or that all require the same interaction adjustment. Dolutegravir, bictegravir and raltegravir have different metabolic pathways.
+##### 32. PROTEASE INHIBITORS (PIs)
+###### Suffix
+**“-navir”**
+Examples:
+- Darunavir
+- Lopinavir
+- Atazanavir
+- Indinavir
+- Saquinavir
+- Ritonavir
+- Tipranavir
+###### Mechanism
+- Inhibit HIV protease.
+- Prevent cleavage of viral polyproteins into mature structural and enzymatic proteins.
+- Result: release of immature/noninfectious virions.
+###### 32.1 High-yield individual adverse effects
+| PI | / exam association |
+|---|---|
+| Indinavir | **Renal stones / crystalluria** |
+| Saquinavir | **QT prolongation** |
+| Atazanavir | Indirect hyperbilirubinaemia / jaundice |
+| Tipranavir | Bleeding risk; hepatotoxicity; intracranial haemorrhage warning in historical prescribing data |
+| Ritonavir | **Potent CYP3A inhibitor**; used mainly as a pharmacokinetic booster rather than as a core PI in many modern regimens |
+**PI class adverse effects**
+Older PIs are associated with:
+- Dyslipidaemia
+- Insulin resistance/diabetes
+- ==Body-fat redistribution/lipodystrophy==
+These adverse effects are less dominant with newer agents than with older PI regimens.
+
+**LIPODYSTROPHY AND HIV**
+- Obesity/body-fat redistribution
+- Breast hypertrophy
+- Diabetes
+- Dyslipidaemia
+
+###### Important correction
+**Semaglutide is an anti-obesity/antidiabetic GLP-1 receptor agonist, but it is not appropriately described as a drug specifically approved because of protease-inhibitor-associated HIV lipodystrophy.** It may be clinically used to manage obesity according to its approved indication, but that is different from an HIV-lipodystrophy-specific drug indication.
+
+###### Historical drug
+- **Tesamorelin** is a [[09_Endocrine_System_cleaned|GHRH analogue]] that has a specific role in reducing excess visceral abdominal fat in adults with HIV-associated lipodystrophy in jurisdictions where it is approved.
+
+##### 34. BOOSTED PROTEASE INHIBITORS
+###### Concept
+**Ritonavir** and **cobicistat** inhibit metabolism/transport of selected antiretroviral drugs and are used at low doses as pharmacokinetic boosters.
+###### Purpose
+- Increase plasma concentration
+- Increase drug exposure
+- Permit convenient dosing / maintain target concentrations
+###### Examples
+- Lopinavir + ritonavir
+- Darunavir + ritonavir or cobicistat
+> Modern ART increasingly favours integrase-inhibitor-based regimens; boosted PI regimens remain important in selected treatment situations, resistance scenarios and specialist contexts.
+#### 3. HIV Treatment in India
+##### NACP / NACO principles
+- **Universal treatment:** ART is offered to people with HIV according to programme eligibility rather than waiting for an arbitrary low CD4 threshold.
+- **Combination ART:** treatment uses multiple active drugs, usually as fixed-dose combinations where possible.
+
+##### TLD regimen
+**TLD = Tenofovir + Lamivudine + Dolutegravir**
+NACO 2021 used TLD as the preferred first-line regimen in eligible adults/adolescents and also specifies the rifampicin interaction strategy with additional DTG dosing.
+
+#### 4. PEP, PrEP & HIV-exposed infants
+##### 36. HIV POST-EXPOSURE PROPHYLAXIS (PEP)
+
+###### Occupational exposure
+Examples:
+- Needlestick injury
+- Blood exposure to mucosa/non-intact skin
+
+###### Timing
+**Start as soon as possible.**
+- Ideally within **24 hours**.
+- **Do not start later than 72 hours** after exposure if PEP is otherwise indicated.
+
+###### Duration
+- **28 days**.
+**Regimen principle**
+A **3-drug** regimen is preferred in current WHO guidance.
+The Indian programme commonly uses a tenofovir + lamivudine + dolutegravir-based approach when appropriate.
+
+
+##### 37. HIV PRE-EXPOSURE PROPHYLAXIS (PrEP)
+
+###### Core concept
+PrEP is given before potential HIV exposure to prevent acquisition.
+
+###### Oral options
+- Tenofovir + emtricitabine
+- Tenofovir + lamivudine in programme-accepted settings
+
+###### Long-acting options
+- **Cabotegravir long-acting:** generally every 2 months after the appropriate initiation schedule.
+- **Lenacapavir:** WHO-recommended additional long-acting PrEP option, administered **twice yearly**.
+
+###### Current prevention principle
+- PrEP is offered based on **risk of HIV acquisition**, not merely on membership in a particular identity category.
+- MSM, sex workers and injection-drug users as classic high-risk populations; these are examples of populations with elevated exposure risk rather than a complete modern definition of who may benefit.
+
+##### 38. HIV-EXPOSED INFANTS: NACO 2021 HIGH-YIELD TABLE
+
+###### Low-risk infant
+Definition in NACO 2021:
+- Maternal viral load **<1000 copies/mL**, measured after 32 weeks of pregnancy up to delivery.
+Prophylaxis:
+- **Nevirapine syrup** (or zidovudine in specified situations)
+- From birth to **6 weeks**
+
+###### High-risk infant
+Examples:
+- Mother not on ART
+- Maternal viral load not measured after 32 weeks through delivery
+- Maternal viral load not suppressed
+- Newly diagnosed maternal HIV close to delivery
+Prophylaxis:
+- **Nevirapine + zidovudine** dual prophylaxis
+- **6 weeks** if exclusive replacement feeding
+- **12 weeks** if exclusive breastfeeding, per NACO 2021 table
+> National infant-feeding and prophylaxis protocols are periodically updated. Use the current NACO/paediatric HIV guideline when making clinical decisions.
+
+### Hepatitis viruses
+
+#### 39. HEPATITIS B VIRUS (HBV)
+
+| Drug                                    | Duration — high yield                                                       |
+| --------------------------------------- | --------------------------------------------------------------------------- |
+| **Tenofovir / Entecavir**               | **Long-term / usually indefinite** until specific stopping criteria are met |
+| **Peginterferon-α**                     | **48 weeks**                                                                |
+| **Lamivudine / Adefovir / Telbivudine** | Older agents; generally **not preferred** because of resistance             |
+##### High-yield drugs
+- **Tenofovir**
+- **Entecavir**
+These are high-barrier nucleos(t)ide analogues and key first-line agents for chronic HBV in current guideline frameworks.
+
+##### Lamivudine
+- Potent antiviral activity but has a **low genetic barrier to resistance** when used as HBV monotherapy over prolonged periods.
+- Therefore it is not preferred as a universal first-line long-term HBV monotherapy agent.
+
+##### Exam pearl
+> **Peginterferon = 48 weeks (finite)**  
+> **Tenofovir / Entecavir = long-term (often indefinite)**
+
+**Why?** HBV **cccDNA** persists in hepatocytes, so nucleos(t)ide analogues usually suppress rather than eradicate HBV.
+
+##### HBV PROPHYLAXIS — HYPER-CRISP ⭐⭐⭐
+
+| Situation | What to give | Key point |
+|---|---|---|
+| **Routine prevention** | **HBV vaccine** | Active immunity → anti-HBs |
+| **Baby of HBsAg-positive mother** | **HBV vaccine + HBIG** | Give **within 12 h of birth** |
+| **Unvaccinated person + significant exposure** | **HBV vaccine + HBIG** | Post-exposure prophylaxis |
+| **Previously vaccinated + documented adequate anti-HBs** | **No prophylaxis** | Already immune |
+| **Previously vaccinated + inadequate/unknown anti-HBs after exposure** | **HBV vaccine ± HBIG** | Depends on exposure/source status |
+| **HBsAg-positive healthcare worker/patient exposure** | **HBIG ± vaccine** | Depends on vaccination/anti-HBs status |
+
+| Agent | Type | Contains |
+|---|---|---|
+| **HBV vaccine** | Active immunity | Recombinant **HBsAg** |
+| **HBIG** | Passive immunity | Preformed **anti-HBs** |
+
+#### 40. HEPATITIS C VIRUS (HCV)
+
+##### 40.1 Direct-acting antiviral (DAA) classes
+**NS3/4A protease inhibitors**
+Suffix:
+**“-previr”**
+Examples :
+- Simeprevir (largely historical)
+- Boceprevir (historical)
+- Grazoprevir
+- Paritaprevir
+- Voxilaprevir
+**NS5A inhibitors**
+Suffix:
+**“-asvir”**
+Examples:
+- Ledipasvir
+- Ombitasvir
+- Velpatasvir
+- Elbasvir
+- Daclatasvir
+**NS5B polymerase inhibitors**
+Suffix:
+**“-buvir”**
+Examples:
+- **Sofosbuvir**
+
+##### 40.2 Current treatment concept
+**Pangenotypic direct-acting antivirals** are now standard curative therapy for most people with chronic HCV.
+Important examples:
+- Sofosbuvir + velpatasvir
+- Sofosbuvir + daclatasvir
+- Glecaprevir + pibrentasvir
+**Cure rates**
+Modern DAA regimens achieve **very high sustained virological response rates**, generally >95% in many uncomplicated treatment populations.
+> “Sofosbuvir + velpatasvir = almost 100% cure” is a useful exam shorthand, but real-world cure rates depend on genotype, cirrhosis, prior treatment, adherence and other factors.
+
+**Ribavirin**
+- No longer the routine “second-line drug” for uncomplicated HCV.
+- Retains a role in selected difficult-to-treat or special circumstances.
+**Interferon-alpha**
+- A historical cornerstone of hepatitis C treatment.
+- **Interferon-free DAA therapy has replaced interferon for routine chronic HCV treatment.**
+> Interferon-alpha should not be presented as the common modern treatment for chronic HCV.
+
+### Respiratory & herpesviruses
+
+#### 41. RESPIRATORY SYNCYTIAL VIRUS (RSV)
+
+##### Clinical relevance
+- Causes bronchiolitis and pneumonia.
+- Premature infants and young infants are at increased risk of severe disease.
+
+##### Ribavirin
+**aerosolized ribavirin** as treatment.
+> **Current update:** RSV has **no routinely recommended specific antiviral treatment for uncomplicated disease**; supportive care is the mainstay. Aerosolized ribavirin has a limited specialist role in selected severe/high-risk cases rather than being routine bronchiolitis therapy.
+
+##### Prevention: historical vs current
+- Palivizumab for high-risk infants
+Current WHO prevention options:
+- **Maternal RSVpreF vaccine** during pregnancy in settings where available and recommended
+- **Nirsevimab**, a long-acting monoclonal antibody for infants
+- Some jurisdictions also have other long-acting monoclonal antibody options.
+> **Correction:** Palivizumab is a historically important exam drug, but current RSV prevention has moved toward **nirsevimab and maternal vaccination**.
+
+#### 42. INFLUENZA VIRUS
+##### 42.1 Types named
+- Swine influenza: **A(H1N1)pdm09**
+- Avian influenza examples: **H5N1** and other highly pathogenic avian influenza subtypes
+##### 42.2 M2 ion-channel inhibitors
+Examples:
+- Amantadine
+- Rimantadine
+###### Mechanism
+Block the influenza A M2 proton channel and interfere with uncoating/entry-related steps.
+**Current status**
+- Resistance among circulating seasonal influenza A viruses is **very high**.
+- They are **not recommended for treatment of current seasonal influenza viruses**.
+> **Exam pearl:** ==Amantadine is also an anti-Parkinsonian drug because it increases dopaminergic activity through multiple mechanisms.==
+##### 42.3 Neuraminidase inhibitors
+**Suffix**
+**“-mivir”**
+
+| Drug | Route |
+|---|---|
+| Oseltamivir | Oral |
+| Zanamivir | Inhaled |
+| Peramivir | IV |
+###### Mechanism
+- Inhibit **neuraminidase**.
+- Reduce release/spread of newly formed virions from infected respiratory cells.
+**Current addition: Baloxavir**
+- Oral **cap-dependent endonuclease inhibitor**.
+- Distinct mechanism from neuraminidase inhibitors.
+- Used in selected influenza treatment settings.
+#### 43. HERPESVIRUS (HSV/CMV) GROUP
+
+##### 43.1 Major viruses and classic drugs
+
+| Virus                              | Classic first-line association         |
+| ---------------------------------- | -------------------------------------- |
+| HSV-1                              | Acyclovir / valacyclovir / famciclovir |
+| HSV-2                              | Acyclovir / valacyclovir / famciclovir |
+| VZV                                | Acyclovir / valacyclovir               |
+| CMV                                | Ganciclovir / valganciclovir           |
+| HSV/CMV <br>resistant to Acyclovir | Foscarnet                              |
+##### Acyclovir and its congeners
+Acyclovir-class drugs are acyclic guanosine analogue. 
+- They inhibit **viral DNA polymerase** after phosphorylation, with selective activation in infected cells for acyclovir-like drugs.
+- Valacyclovir = prodrug with ==improved oral bioavailability==
+- Famciclovir = oral prodrug related to penciclovir
+- Penciclovir
+**Classic clinical use**
+- HSV infections
+- Varicella-zoster infections
+**Important adverse effect**
+- **==Nephrotoxicity==**, especially with IV acyclovir if hydration is poor or crystals precipitate in renal tubules.
+###### Ganciclovir
+- ==Anti-CMV== guanosine analogue.
+- Causes ==**bone-marrow suppression**, especially neutropenia and anaemia==.
+###### Valganciclovir
+- Oral prodrug of ganciclovir.
+##### Foscarnet
+- **Pyrophosphate analogue.**
+- ==Useful for resistant CMV/HSV== where viral thymidine kinase or related activation pathways make acyclovir/ganciclovir ineffective.
+- Important toxicity: ==**nephrotoxicity and electrolyte abnormalities**==.
+##### Cidofovir
+- Nucleotide analogue with antiviral activity independent of viral kinase activation.
+- Used for selected resistant DNA-virus infections like papillomavirus (HPV)
+- Major toxicity: **nephrotoxicity**.
+> Cidofovir is not a general “drug of choice for papillomavirus.” Topical cidofovir may be used **off-label** for selected HPV lesions, but standard management of HPV depends on the lesion and is not simply “cidofovir = DOC.”
+
+##### Intravitreal therapy
+intravitreal ganciclovir for **CMV retinitis**.
+Current practice usually combines effective systemic anti-CMV therapy with local therapy only in selected situations, depending on lesion severity and response.
+
+#### 45. BELL'S PALSY
+
+##### Main treatment principle
+- **Corticosteroids** are the main proven therapy when started promptly, typically within 72 hours of symptom onset.
+
+##### Antiviral therapy
+- An acyclovir-like antiviral may be added in selected severe cases, but the benefit is smaller and less consistent than that of corticosteroids.
+> “Give steroid for nerve protection, then add acyclovir to kill the virus” is a useful conceptual summary, but the actual evidence-based decision is more nuanced and treatment is time-sensitive.
+
+# Antiprotozoal Drugs
+
+## Malaria foundations, life cycle 
+
+### 46. Malaria Pathogen
+##### Species
+five medically important *Plasmodium* species:
+- *P. falciparum*
+- *P. vivax*
+- *P. ovale*
+- *P. malariae*
+- *P. knowlesi*
+**Vector**
+- Female **Anopheles** mosquito.
+**Indian programme**
+The refers to the historical NVBDCP name; the current programme is **National Center for Vector Borne Diseases Control (NCVBDC)** under the Ministry of Health & Family Welfare.
+
+##### MALARIA LIFE CYCLE
+```mermaid
+flowchart TD
+    A[Infected female Anopheles mosquito bite] --> B[Sporozoites]
+    B --> C[Liver / Hepatocytes]
+
+    C --> D[Hepatic schizogony]
+    D --> E[Liver schizonts]
+    E --> F[Merozoites]
+
+    C -.-> H[Hypnozoites<br/>Dormant stage]
+    H -.-> I["P. vivax & P. ovale only"]
+
+    F --> J[RBCs]
+    J --> K[Erythrocytic schizogony]
+    K --> L[RBC rupture + Merozoite release]
+    L --> M[Clinical malaria]
+
+    M --> N{Some parasites differentiate}
+    N --> O[Gametocytes]
+
+    O --> P[Ingestion by another female Anopheles]
+    P --> Q[Gametogenesis]
+    Q --> R[Fertilization]
+    R --> S[Zygote]
+    S --> T[Ookinete]
+    T --> U[Oocyst]
+    U --> V[Sporogony]
+    V --> W[Sporozoites]
+    W --> X[Salivary glands of mosquito]
+    X --> A
+```
+
+###### Hypnozoites
+- Present in **P. vivax** and **P. ovale**.
+- Dormant liver forms can reactivate and cause **relapse**.
+
+###### P. falciparum
+- Does **not** form hypnozoites.
+- Therefore there is no hypnozoite-mediated relapse requiring radical cure same way as vivax/ovale.
+
+## Malaria Core Concepts
+
+| Term                                            | Target                                                             |
+| ----------------------------------------------- | ------------------------------------------------------------------ |
+| Causal prophylaxis                              | Liver schizogony / pre-erythrocytic stages                         |
+| Clinical cure                                   | Erythrocytic blood stages causing disease                          |
+| Radical cure                                    | Dormant hypnozoites of vivax/ovale                                 |
+| Transmission-blocking / gametocytocidal therapy | Gametocytes, especially important for reducing onward transmission |
+
+##### Primaquine
+- Active against **vivax/ovale hypnozoites**.
+- Also has gametocytocidal activity and is used in India as a transmission-blocking dose in falciparum treatment.
+- **Does not reliably treat the acute erythrocytic phase by itself.**
+
+##### Tafenoquine
+- Long-acting analogue with **radical-cure activity** against vivax hypnozoites in suitable patients.
+- Requires appropriate G6PD assessment before use.
+##Antimalarial drug profiles & toxicities
+### Antimalarial Drugs — Classification
+#### 1. By Stage of Parasite Acted Upon
+##### Blood Schizonticides
+###### Drugs
+- ==Chloroquine==
+- Amodiaquine
+- ==Quinine / Quinidine==
+- ==Mefloquine== (used in prophylaxis)
+- ==Lumefantrine==
+- Piperaquine
+- ==Artemisinin derivatives==
+- Atovaquone
+- ==Sulfadoxine + Pyrimethamine==
+###### Key Point
+- Kill **erythrocytic forms** → treat **clinical malaria**
+##### Tissue Schizonticides & Hypnozoiticides
+###### Drugs
+- Primaquine
+- Tafenoquine
+###### Key Point
+- Act on **hepatic forms
+- Eradicate dormant **hypnozoites**
+- Used for radical cure of *P. vivax* and *P. ovale*
+##### Gametocides
+###### Drugs
+- **Primaquine**
+###### Key Point
+- Particularly important against *P. falciparum* gametocytes
+##### Sporontocides
+###### Drugs
+- Primaquine
+- Artemisinin derivatives
+###### Key Point
+- Act on parasite development in the **mosquito**
+---
+#### 2. By Drug Class
+##### Quinoline / Related Drugs
+###### 4-Aminoquinolines
+- Chloroquine
+- Amodiaquine
+###### Quinoline Methanols
+- Quinine
+- Quinidine
+- Mefloquine
+###### Arylamino Alcohol
+- Lumefantrine
+###### 8-Aminoquinolines
+- Primaquine
+- Tafenoquine
+##### Artemisinin Derivatives
+###### Drugs
+- Artemisinin
+- Artesunate
+- Artemether
+- Dihydroartemisinin
+###### Key Point
+- Usually used as **ACTs (Artemisinin-based Combination Therapy)**
+- Very short acting → Can't be used as monotherapy and prophylaxis
+	- Thus combined with slow acting drugs
+##### Antifolates
+###### DHFR Inhibitors
+- Pyrimethamine
+- Proguanil
+###### DHPS Inhibitor
+- Sulfadoxine
+###### Combination
+- Sulfadoxine + Pyrimethamine (SP)
+##### Hydroxynaphthoquinone
+###### Drug
+- Atovaquone
+###### Combination
+- Atovaquone + Proguanil
+##### Antibiotics
+###### Drugs
+- Doxycycline
+- Tetracycline
+- Clindamycin
+###### Key Point
+- Mainly **adjuncts**
+- Slow acting → not preferred as rapid monotherapy
+---
+#### 3. High-Yield Exam Anchors
+##### Chloroquine
+###### Key Point
+- *P. vivax*: generally useful where sensitive
+- *P. falciparum*: resistance is widespread
+##### Falciparum Malaria
+###### Key Point
+- **ACT** is the major treatment strategy for uncomplicated chloroquine-resistant falciparum malaria
+##### Severe Malaria
+###### Drug of Choice
+- **IV Artesunate**
+##### Vivax / Ovale Radical Cure
+###### Regimen Principle
+- Blood schizonticide **+ Primaquine/Tafenoquine**
+- Eliminates hepatic **hypnozoites**
+##### Gametocytes of P. falciparum
+###### Drug
+- **Primaquine**
+##### G6PD Deficiency
+###### Avoid / Contraindicated
+- **Primaquine**
+- **Tafenoquine**
+##### Hypnozoites
+###### Key Point
+- **Only clinically important hypnozoiticides: Primaquine + Tafenoquine**
+### CHLOROQUINE
+
+##### High distribution volume
+a very high apparent volume of distribution, reflecting extensive tissue uptake.
+
+##### Main clinical associations
+- Chloroquine-sensitive malaria
+- Historical/in selected use against **extraintestinal amoebiasis**
+- Anti-inflammatory/immunomodulatory action used in some **rheumatological disorders**
+###### the “MALARIAS” mnemonic
+The mnemonic includes:
+- Malaria
+- Amoebic liver abscess
+- Lepra reaction
+- Autoimmune hemolytic anaemia
+- Rheumatoid arthritis
+- ITP
+- Atopic/photodermatitis
+- SLE
+
+##### Adverse effects
+**CNS**
+- Headache
+- Dizziness
+- Rare seizures/psychosis at toxic exposure
+**Eye**
+- **Retinopathy / bull's-eye maculopathy** with chronic exposure
+- Corneal/==vortex keratopathy==
+**Ear**
+- Tinnitus
+- Rare hearing disturbance
+**Heart**
+- QT prolongation
+- Conduction abnormalities at toxic exposure
+
+##### ==Vortex keratopathy==
+==a similar corneal deposition phenomenon with **amiodarone**.==
+
+
+### ARTEMISININ GROUP
+Examples:
+- Artesunate
+- Artemether
+- Arteether
+- Other artemisinin derivatives
+
+##### Source
+- *Artemisia annua*
+
+##### Pharmacology
+- Very rapid parasite clearance.
+- Forms free radicals/oxidative damage parasite after activation involving heme/iron.
+- Very Short acting drug
+- Always combined with a longer-acting partner drug for uncomplicated falciparum treatment to reduce treatment failure and resistance.
+
+##### Major exam rule
+**Never use oral artemisinin monotherapy for uncomplicated malaria.**
+
+##### Current safety note
+Artemisinin derivatives are no longer considered categorically forbidden in first-trimester pregnancy. WHO now recommends **artemether-lumefantrine** as the preferred treatment for uncomplicated falciparum first trimester.
+
+### QUININE
+
+##### Source
+- Cinchona bark.
+
+##### Cinchonism
+- Tinnitus
+- Hearing disturbance
+- Headache
+- Nausea/vomiting
+- Visual symptoms
+
+##### Other important toxicity
+- **Hypoglycaemia**, especially in severe malaria and pregnancy.
+- QT prolongation
+- Thrombocytopenia can occur in some settings.
+Historically, quinine-containing regimens had a much larger role than they do with modern ACTs, except where specifically indicated.
+
+### COMPARATIVE ANTIMALARIAL TOXICITIES
+
+| Drug         | High-yield toxicity/association                                                                             |
+| ------------ | ----------------------------------------------------------------------------------------------------------- |
+| Mefloquine   | Neuropsychiatric adverse effects, vivid dreams, anxiety, psychosis; seizures are rare but important         |
+| Quinine      | **Cinchonism**, tinnitus, headache, nausea, visual disturbance; can cause hypoglycaemia and QT prolongation |
+| Lumefantrine | QT prolongation risk                                                                                        |
+| Primaquine   | **Haemolysis in G6PD deficiency**, Risk to fetus (as we cannot confirm G6PD deficiency in fetus)            |
+| Tafenoquine  | Haemolysis risk in G6PD deficiency; requires G6PD assessment                                                |
+## Malaria treatment & pregnancy/travel 
+### 1. Uncomplicated *P. vivax*
+
+| Day | Drug | Dose/kg | **60-kg adult equivalent** |
+|---|---|---:|---:|
+| **D1** | Chloroquine | **10 mg/kg** | **600 mg** |
+| | Primaquine | **0.25 mg/kg** | **15 mg** |
+| **D2** | Chloroquine | **10 mg/kg** | **600 mg** |
+| | Primaquine | **0.25 mg/kg** | **15 mg** |
+| **D3** | Chloroquine | **5 mg/kg** | **300 mg** |
+| | Primaquine | **0.25 mg/kg** | **15 mg** |
+| **D4–14** | Primaquine | **0.25 mg/kg/day** | **15 mg/day** |
+##### Total
+- Chloroquine = **25 mg/kg over 3 days**
+- Primaquine = **0.25 mg/kg/day × 14 days**
+
+### 2. Uncomplicated *P. falciparum* 
+##### Core regimen concept
+- Use an **artemisinin-based combination therapy (ACT)**.
+- Add a single gametocytocidal dose of primaquine Indian programme when indicated and not contraindicated.
+#### ACT-SP – Most of India
+
+| Day    | Drug          |             Dose/kg | **60-kg adult equivalent** |
+| ------ | ------------- | ------------------: | -------------------------: |
+| **D1** | Artesunate    |         **4 mg/kg** |                 **240 mg** |
+|        | Sulfadoxine   |        **25 mg/kg** |                **1500 mg** |
+|        | Pyrimethamine |      **1.25 mg/kg** |                  **75 mg** |
+| **D2** | Artesunate    |         **4 mg/kg** |                 **240 mg** |
+|        | Primaquine    | **0.75 mg/kg once** |         **==45 mg once==** |
+| **D3** | Artesunate    |         **4 mg/kg** |                 **240 mg** |
+##### Regimen
+- Artesunate = **4 mg/kg/day × 3 days**
+- SP = **25/1.25 mg/kg once on D1**
+- Primaquine = **0.75 mg/kg single dose**
+#### Artemether + Lumefantrine (ACT-AL) — North-East India
+
+
+##### Tablet composition
+
+- **1 tablet:** Artemether **20 mg** + Lumefantrine **120 mg**
+- **Each dose:** Artemether **80 mg** + Lumefantrine **480 mg**
+- **Total:** 6 doses = **24 tablets over 3 days**
+
+---
+
+### 4. Mixed *P. falciparum* + *P. vivax*
+
+#### Day-wise treatment
+
+| Day | Drug | Dose/kg | **60-kg adult equivalent** |
+|---|---|---:|---:|
+| **D1** | ACT | As appropriate | — |
+| **D2** | ACT | As appropriate | — |
+| | Primaquine — gametocytocidal | **0.75 mg/kg once** | **45 mg once** |
+| **D3** | ACT | As appropriate | — |
+| **D4–14** | Primaquine — radical cure | **0.25 mg/kg/day** | **15 mg/day** |
+
+##### Concept
+
+- **ACT** → clears blood-stage *P. falciparum*
+- **PQ single dose** → gametocytocidal effect
+- **PQ × 14 days** → radical cure of *P. vivax* hypnozoites
+
+---
+
+### 5. Severe malaria
+
+#### IV Artesunate
+
+| Time | Dose/kg | **60-kg adult equivalent** |
+|---|---:|---:|
+| **0 h** | **2.4 mg/kg** | **144 mg** |
+| **12 h** | **2.4 mg/kg** | **144 mg** |
+| **24 h** | **2.4 mg/kg** | **144 mg** |
+| **Then q24h** | **2.4 mg/kg/day** | **144 mg/day** |
+| Once oral therapy possible | — | **Complete 3-day ACT** |
+##### Schedule
+**0 h → 12 h → 24 h → q24h → oral ACT**
+### 6. Ultra-crisp master table
+
+| Form                 | Drug                 |     **Dose/kg** | **60-kg adult equivalent** | Duration         |
+| -------------------- | -------------------- | --------------: | -------------------------: | ---------------- |
+| **Pv uncomplicated** | CQ D1                |        10 mg/kg |                 **600 mg** | D1               |
+|                      | CQ D2                |        10 mg/kg |                 **600 mg** | D2               |
+|                      | CQ D3                |         5 mg/kg |                 **300 mg** | D3               |
+|                      | PQ                   |  0.25 mg/kg/day |              **15 mg/day** | D1–14            |
+| **Pf uncomplicated** | AS                   |     4 mg/kg/day |             **240 mg/day** | D1–3             |
+|                      | SP                   |   25/1.25 mg/kg |             **1500/75 mg** | D1               |
+|                      | PQ                   | 0.75 mg/kg once |             **45 mg once** | D2               |
+| **Pf NE India**      | AL                   |               — |         **4 tablets/dose** | 6 doses/3 d      |
+| **Mixed Pf + Pv**    | ACT                  |               — |                          — | 3 d              |
+|                      | PQ — gametocytocidal | 0.75 mg/kg once |             **45 mg once** | D2               |
+|                      | PQ — radical cure    |  0.25 mg/kg/day |              **15 mg/day** | 14 d             |
+| **Severe malaria**   | IV artesunate        |  2.4 mg/kg/dose |            **144 mg/dose** | 0, 12, 24 h → OD |
+### 7. Must-memorise numbers
+
+#### *P. vivax*
+
+- **CQ:** `10 → 10 → 5 mg/kg`
+- **PQ:** `0.25 mg/kg/day × 14 days`
+
+#### *P. falciparum*
+
+- **AS:** `4 mg/kg/day × 3 days`
+- **SP:** `25/1.25 mg/kg single dose`
+- **PQ:** `0.75 mg/kg single dose`
+
+#### Severe malaria
+
+- **IV artesunate:** `2.4 mg/kg at 0, 12, 24 h → OD`
+### Malaria In Pregnancy
+
+**Primaquine**
+- **Contraindicated in pregnancy**.
+
+**P. vivax / P. ovale**
+- **Chloroquine** can be used for acute blood-stage treatment when sensitive.
+- Radical cure with primaquine/tafenoquine is deferred until after pregnancy and appropriate G6PD evaluation.
+
+**P. falciparum**
+**Current WHO update**
+For **uncomplicated P. falciparum first trimester**, WHO now prefers **artemether-lumefantrine** rather than the old universal “quinine + clindamycin” teaching.
+
+**Severe malaria in pregnancy**
+- **Parenteral artesunate is the treatment of choice in all trimesters.**
+
+
+### 53. Traveller's Malaria Prophylaxis
+- Chloroquine for chloroquine-sensitive areas
+- For chloroquine-resistant areas:
+	- <6 weeks: doxycycline 100 mg/day.
+		- Start 2 days before.
+		- Duration of travel.
+	- ≥6 weeks: mefloquine 250 mg/week.
+		- Start 2 weeks before.
+		- Continue for 4 weeks after travel ends.
+
+##### Current clinical principle
+Choice of chemoprophylaxis depends on:
+- Destination and resistance pattern
+- Species risk
+- Duration of travel
+- Traveller age
+- Pregnancy status
+- Comorbidities
+- Drug interactions
+Therefore, The fixed “endemic country = mefloquine/doxycycline” rule is useful only as an examination simplification.
+
+
+## Other protozoal diseases
+
+#### 58. AMEBIASIS
+
+##### Causative organism
+***Entamoeba histolytica***
+**Transmission**
+- Feco-oral transmission
+- Contaminated food/water
+
+##### 58.1 Life-cycle-based pharmacology
+```text
+Cyst ingestion
+ |
+
+ v
+Intestinal lumen
+ |
+ | Luminal colonization
+
+ v
+Trophozoite
+ |
+
+ +→ intestinal invasion → amoebic dysentery
+ |
+
+ +→ portal spread → amoebic liver abscess
+```
+**Main treatment concept**
+For **invasive intestinal disease or liver abscess
+1. Give a **tissue-active nitroimidazole** such as metronidazole or tinidazole.
+2. Follow with a **luminal amebicide** to eradicate residual intraluminal cysts.
+**Luminal agents**
+- **Paromomycin**
+- Iodoquinol
+- Diloxanide furoate
+**Important exam pearl**
+A tissue-active agent alone is **not enough** for invasive amebiasis because luminal cyst carriage may persist.
+**Amoebic liver abscess**
+- Metronidazole/tinidazole is a principal tissue-active treatment.
+- A luminal agent is usually added afterward to eradicate intestinal colonization.
+> Chloroquine is a historical/adjunctive option in some older teaching materials, but it is **not the core modern treatment** for amoebic liver abscess. The key modern concept is a tissue-active nitroimidazole followed by a luminal amebicide.
+
+#### 59. KALA-AZAR / VISCERAL LEISHMANIASIS
+
+##### Causative organism
+***Leishmania donovani*** complex Indian setting.
+**Diagnosis**
+**rK39 rapid diagnostic testing**, widely Indian kala-azar programme.
+
+##### 59.1 Current Indian treatment
+**Drug of choice**
+**Liposomal amphotericin B**
+- **10 mg/kg IV as a single dose** is the key Indian programme regimen.
+**Other anti-leishmanial drugs**
+- Amphotericin B formulations
+- Miltefosine
+- Paromomycin
+- Sodium stibogluconate
+**Miltefosine**
+- **Oral** anti-leishmanial drug.
+- Historically important because it was the major oral option for visceral leishmaniasis.
+- **Contraindicated in pregnancy**.
+**Sodium stibogluconate**
+- Pentavalent antimonial.
+- Resistance has reduced its role substantially Indian subcontinent.
+> The exact “LAMPAS efficacy ranking” is an exam mnemonic rather than a current treatment algorithm. Current Indian programme policy places **liposomal amphotericin B** at the centre of kala-azar treatment.
+
+#### 60. POST-KALA-AZAR DERMAL LEISHMANIASIS (PKDL)
+
+##### Clinical concept
+- Dermal sequel/manifestation following visceral leishmaniasis.
+
+##### Current India association
+- **Oral miltefosine for about 12 weeks**, with dose adjusted to age/weight according to programme guidance.
+
+#### 61. TRYPANOSOMIASIS
+
+##### Two major disease groups
+**African trypanosomiasis (sleeping sickness)**
+- *Trypanosoma brucei gambiense*
+- *Trypanosoma brucei rhodesiense*
+**American trypanosomiasis (Chagas disease)**
+- *Trypanosoma cruzi*
+
+##### 61.1 Gambiense HAT
+**First-stage disease**
+- **Pentamidine** remains a major treatment option.
+- **Fexinidazole** can treat first-stage disease and, in eligible patients, non-severe second-stage disease.
+**Second-stage disease**
+- **NECT:** nifurtimox + eflornithine is an important regimen.
+- Fexinidazole is now an oral option in selected non-severe CNS disease, according to WHO eligibility rules.
+> **Current update:** fexinidazole “kills both stages of West African trypanosomiasis.” The modern qualification is that it is used for **first-stage and non-severe second-stage gambiense HAT in eligible patients**.
+
+##### 61.2 Rhodesiense HAT
+Historical exam associations:
+- Suramin → first stage
+- Melarsoprol → second stage
+**Major current change**
+WHO has expanded the recommendation for **fexinidazole** to rhodesiense HAT as first-line therapy for appropriate disease, reducing the need to rely on older, more toxic suramin/melarsoprol pathways in eligible patients.
+
+##### 61.3 Chagas disease
+**Drug of choice**
+- **Benznidazole**
+Nifurtimox is another important treatment option.
+
+#### 62. PNEUMOCYSTIS JIROVECII PNEUMONIA (PJP/PCP)
+
+##### Clinical association
+- Opportunistic pneumonia in advanced HIV and other immunocompromised states.
+- Classic HIV threshold for primary prophylaxis: **CD4 <200 cells/mm3**.
+
+##### 62.1 Primary prophylaxis
+**Drug of choice**
+**Trimethoprim-sulfamethoxazole (TMP-SMX)**
+Typical adult prophylaxis examples:
+- 1 DS tablet daily, or
+- 1 SS tablet daily
+**Alternatives**
+- Dapsone-based regimens
+- Atovaquone
+- **Aerosolized pentamidine** in selected patients
+- IV pentamidine in selected circumstances
+> Pentamidine is not merely a “drug for resistant cases.” It is an established **alternative prophylaxis/treatment option** for patients who cannot use TMP-SMX, though TMP-SMX remains preferred.
+
+# Rapid Revision & High-Yield Tables
+
+### High-yield tables & master recall list
+
+#### 63. HIGH-YIELD TABLES FOR RAPID REVISION
+
+##### 63.1 TB drug → mechanism → toxicity
+
+| Drug         | Mechanism                                             | Signature toxicity                                       |
+| ------------ | ----------------------------------------------------- | -------------------------------------------------------- |
+| Isoniazid    | Inhibits mycolic-acid synthesis after KatG activation | Hepatotoxicity, peripheral neuropathy                    |
+| Rifampicin   | Inhibits DNA-dependent ==RNA polymerase==             | Hepatotoxicity, enzyme induction, orange-red body fluids |
+| Pyrazinamide | Pyrazinoic-acid prodrug; intracellular activity       | Hepatotoxicity, hyperuricaemia/gout                      |
+| Ethambutol   | Inhibits arabinosyl transferase                       | Optic neuritis, red-green colour discrimination loss     |
+| Bedaquiline  | ATP synthase inhibitor                                | QT prolongation                                          |
+| Linezolid    | 50S initiation complex inhibitor                      | Myelosuppression, neuropathy, serotonin syndrome         |
+| Clofazimine  | Membrane/oxidative mechanisms in mycobacteria         | Brown skin pigmentation, QT risk                         |
+| Cycloserine  | Alanine racemase + D-Ala-D-Ala ligase inhibition      | Psychosis/depression/seizures                            |
+| Ethionamide  | Mycolic-acid synthesis inhibition                     | GI toxicity, hypothyroidism/goitre                       |
+
+#### 63.2 Antifungal drug → target → hallmark
+
+| Drug/class | Target | Hallmark |
+|---|---|---|
+| Echinocandins | Beta-1,3-glucan synthase | Cell-wall inhibition; candidemia |
+| Amphotericin B | Ergosterol binding/pore formation | Nephrotoxicity + infusion reactions |
+| Terbinafine | Squalene epoxidase | Onychomycosis |
+| Azoles | CYP51 / 14-alpha-demethylase | Ergosterol depletion, drug interactions |
+| 5-Flucytosine | Converted to 5-FU | Bone marrow toxicity; cryptococcosis combination therapy |
+| Griseofulvin | Fungal microtubules | Tinea capitis |
+| Tavaborole | Leucyl-tRNA synthetase | Topical onychomycosis |
+##### Systemic Fungal Infections — Which Azole?
+
+| Fungal infection       | **Fluconazole**                                         | **Itraconazole**                                              | **Voriconazole**                                               | **Posaconazole**                                                | **Isavuconazole**                                                    |
+| ---------------------- | ------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **Candida**            | <mark style="background:#d3f8b6">✅ Major use</mark>     | ✅ Alternative                                                 | ✅ Resistant species                                            | ✅ Alternative                                                   | ✅ Alternative                                                        |
+| **Cryptococcus**       | <mark style="background:#d3f8b6">✅ **Major use**</mark> | ⚠️ Alternative                                                | ⚠️ Alternative                                                 | ⚠️ Alternative                                                  | ⚠️ Limited                                                           |
+| **Aspergillosis**      | ❌                                                       | ⚠️ Alternative                                                | <mark style="background:#d3f8b6">⭐ **DOC / first-line**</mark> | <mark style="background:#d3f8b6">✅ Alternative / salvage</mark> | <mark style="background:#d3f8b6">✅ **First-line alternative**</mark> |
+| **Mucormycosis**       | ❌                                                       | ❌                                                             | ❌                                                              | <mark style="background:#d3f8b6">⭐ **Active**</mark>            | ⭐<mark style="background:#d3f8b6"> **Active**</mark>                 |
+| **Histoplasmosis**     | ❌ / poor                                                | <mark style="background:#d3f8b6">⭐ **DOC**</mark>             | ⚠️ Alternative                                                 | ✅ Alternative                                                   | ⚠️ Alternative                                                       |
+| **Blastomycosis**      | ❌ / poor                                                | <mark style="background:#d3f8b6">⭐ **DOC**</mark>             | ⚠️ Alternative                                                 | ✅ Alternative                                                   | ⚠️ Alternative                                                       |
+| **Sporotrichosis**     | ❌                                                       | <mark style="background:#d3f8b6">⭐ **DOC**</mark>             | ⚠️ Alternative                                                 | ⚠️ Alternative                                                  | ⚠️ Limited                                                           |
+| **Coccidioidomycosis** | ✅ Alternative                                           | <mark style="background:#d3f8b6">⭐ **Preferred azole**</mark> | ⚠️ Alternative                                                 | ⚠️ Alternative                                                  | ⚠️ Limited                                                           |
+| **Dermatophytes**      | ⚠️                                                      | ✅                                                             | ❌                                                              | ❌                                                               | ❌                                                                    |
+|                        |                                                         |                                                               |                                                                |                                                                 |                                                                      |
+
+### High-Yield Memory Map
+
+- **Fluconazole → Candida + Cryptococcus**
+- **Itraconazole → Dimorphic fungi**
+  - Histoplasma
+  - Blastomyces
+  - Sporothrix
+  - Coccidioides
+- **Voriconazole → Aspergillus**
+- **Posaconazole → Mucor + Aspergillus**
+- **Isavuconazole → Mucor + Aspergillus**
+- **Ketoconazole → Avoid systemic use**; mainly historical/limited niche use
+
+### ⚠️ Must-Know "DON'T USE"
+
+- **Fluconazole ❌ Aspergillus**
+- **Fluconazole ❌ Mucor**
+- **Voriconazole ❌ Mucor**
+- **Itraconazole ❌ invasive Aspergillosis as first-line**
+- **Azoles generally ≠ universal antifungal coverage**
+
+### One-Line Exam Rule
+
+> **Candida/Crypto → Fluconazole | Dimorphic fungi → Itraconazole | Aspergillus → Voriconazole | Mucor → Posaconazole/Isavuconazole**
+
+**Amphotericin B** has broader systemic coverage, but it is **not literally the preferred drug for every systemic fungal infection**; species, site, severity, and susceptibility determine the choice.
+##### 63.3 Antiviral suffixes / targets
+
+| Pattern | Drug class | Examples |
+|---|---|---|
+| -gravir | Integrase inhibitors | Dolutegravir, bictegravir, cabotegravir |
+| -navir | Protease inhibitors | Darunavir, atazanavir, ritonavir |
+| -mivir | Neuraminidase inhibitors | Oseltamivir, zanamivir, peramivir |
+| -previr | HCV NS3/4A protease inhibitors | Grazoprevir, voxilaprevir |
+| -asvir | HCV NS5A inhibitors | Ledipasvir, velpatasvir, daclatasvir |
+| -buvir | HCV NS5B inhibitors | Sofosbuvir |
+
+> Naming suffixes are useful examination mnemonics, not substitutes for knowing the actual mechanism.
+
+1. **Azole table:** the row labelled “Ketoconazole” with visual defects + QT prolongation corresponds to **voriconazole**.
+2. **Isavuconazole:** QT prolongation; correct association is **QT shortening**.
+3. **Pyrazinamide:** mechanism is not best stated as “inhibits protein synthesis”; remember conversion to pyrazinoic acid and disruption of mycobacterial membrane energetics/metabolism.
+4. **Coccidioides:** not a conventional yeast; belongs with systemic mould/dimorphic fungi.
+5. **Rifampicin + BBB:** P-gp does not mean rifampicin “cannot enter the BBB.” CNS penetration is limited/variable but clinically relevant in TB meningitis.
+6. **Rifabutin:** has **less CYP induction** than rifampicin; it does not have literally zero induction activity.
+1. **XDR-TB definition:** FQ resistance + resistance to at least one of bedaquiline or linezolid, not necessarily all Group-A drugs.
+2. **DR-TB treatment:** current WHO guidance includes the newer 6-month **BDLLfxC / BDLLfx / BDLC** pathway in addition to BPaLM/BPaL for eligible patients.
+3. **TB in pregnancy:** pregnancy is not a reason to automatically omit ethambutol/pyrazinamide from treatment; regimen selection is guideline-based.
+4. **TB/HIV:** ART should generally begin during TB therapy; timing depends on CD4 and disease site rather than a universal 2-8 week “gap.”
+5. **TB corticosteroids:** strongly indicated in TB meningitis; pericardial use is conditional; universal use for pleural/other TB is not supported.
+6. **TB preventive treatment:** modern options include 3HP, 1HP, 3HR, 4R and selected 6Lfx for MDR contacts.
+7. **Leprosy:** India's revised NLEP protocol (effective 1 April 2025) uses rifampicin + dapsone + clofazimine for **both PB and MB** cases, with 6 vs 12 months duration.
+8. **Invasive candidiasis:** echinocandins are standard initial therapy for candidemia in many adults; amphotericin B is not the universal first-choice antifungal for every invasive yeast infection.
+9. **Azole pregnancy rule:** “all azoles absolutely contraindicated” is too broad; systemic exposure, agent and indication matter.
+10. **Mass deworming:** WHO preventive chemotherapy commonly uses albendazole 400 mg or mebendazole 500 mg single dose; The 100 mg mebendazole mass-deworming dose is not the standard WHO preventive dose.
+11. **Scabies:** oral ivermectin should not be used in pregnancy or children <15 kg; permethrin 5% is a major topical first-line option.
+12. **HIV PEP:** start ASAP, ideally within 24 h, and no later than 72 h; provide 28 days; 3 drugs are preferred.
+13. **HIV PrEP:** WHO added twice-yearly injectable **lenacapavir** in 2025; CAB-LA and oral tenofovir-based PrEP remain important.
+14. **HIV paediatrics:** blanket contraindication rules for tenofovir <10 y or dolutegravir <6 y are outdated; modern paediatric formulations are age/weight based.
+15. **HBV:** tenofovir and entecavir remain key first-line oral therapies; lamivudine is limited by resistance and is not simply “the standard second line.”
+16. **HCV:** pangenotypic DAAs are the modern standard; interferon and routine ribavirin are historical/selected-use therapies rather than the general first line.
+17. **RSV:** current prevention centres on maternal RSV vaccine and long-acting monoclonal antibodies such as nirsevimab; palivizumab is a historical high-yield exam drug.
+18. **Influenza:** M2 blockers are not recommended against circulating seasonal influenza because resistance is extremely high; neuraminidase inhibitors remain important, and baloxavir is an additional mechanism.
+19. **Malaria pregnancy:** artemether-lumefantrine is preferred for uncomplicated falciparum malaria first trimester by current WHO guidance; parenteral artesunate is recommended for severe malaria in all trimesters.
+20. **Amoebiasis:** invasive disease requires a tissue-active agent followed by a luminal amebicide; chloroquine is not the central modern treatment for amoebic liver abscess.
+21. **Kala-azar:** India's key first-line regimen is liposomal amphotericin B 10 mg/kg IV single dose.
+22. **African trypanosomiasis:** fexinidazole now has a broader role, including eligible non-severe second-stage gambiense disease and expanded rhodesiense recommendations.
+23. **PJP:** TMP-SMX remains preferred; pentamidine is an established alternative, not solely a “resistant case” drug.
+
+#### 65. MASTER HIGH-YIELD “DON'T CONFUSE” LIST
+
+| Confusion             | Correct association                                         |
+| --------------------- | ----------------------------------------------------------- |
+| Isoniazid resistance  | **KatG** activation defect is classic                       |
+| Rifampicin resistance | **rpoB** mutation                                           |
+| Rifampicin            | **CYP/P-gp inducer**                                        |
+| Isoniazid             | CYP inhibition + B6 deficiency neuropathy                   |
+| Pyrazinamide          | Hyperuricaemia + hepatotoxicity                             |
+| Ethambutol            | Optic neuritis / red-green colour defect                    |
+| Bedaquiline           | QT prolongation                                             |
+| Linezolid             | Thrombocytopenia + neuropathy + serotonin syndrome          |
+| Clofazimine           | Brown skin pigmentation                                     |
+| Cycloserine           | Psychosis / depression                                      |
+| Terbinafine           | Squalene epoxidase                                          |
+| Azoles                | 14-alpha-demethylase                                        |
+| Amphotericin B        | Ergosterol pore formation                                   |
+| Echinocandins         | Beta-glucan synthase                                        |
+| Griseofulvin          | Microtubules                                                |
+| Flucytosine           | 5-FU pathway                                                |
+| Praziquantel          | Most cestodes + trematodes                                  |
+| Albendazole           | Hydatid cyst / many nematodes / neurocysticercosis contexts |
+| Triclabendazole       | Fasciola                                                    |
+| Ivermectin            | Strongyloides / Onchocerca / scabies                        |
+| DEC                   | Lymphatic filariasis / Loa loa (selected settings)          |
+| Enfuvirtide           | gp41 fusion inhibitor                                       |
+| Fostemsavir           | gp120 attachment inhibitor                                  |
+| Maraviroc             | CCR5 antagonist                                             |
+| Ibalizumab            | CD4 post-attachment monoclonal antibody                     |
+| Lenacapavir           | Capsid inhibitor                                            |
+| NRTIs                 | Reverse transcriptase chain termination                     |
+| NNRTIs                | Allosteric RT inhibition                                    |
+| INSTIs                | Integration block; “-gravir”                                |
+| PIs                   | Polyprotein cleavage block; “-navir”                        |
+| Oseltamivir           | Oral neuraminidase inhibitor                                |
+| Zanamivir             | Inhaled neuraminidase inhibitor                             |
+| Peramivir             | IV neuraminidase inhibitor                                  |
+| Acyclovir             | HSV/VZV                                                     |
+| Ganciclovir           | CMV                                                         |
+| Foscarnet             | Resistant herpesviruses                                     |
+| Chloroquine           | Blood-stage therapy for sensitive malaria                   |
+| Primaquine            | Hypnozoites + gametocytocidal activity                      |
+| Tafenoquine           | Long-acting vivax radical cure                              |
+| Artesunate            | **Severe malaria - all trimesters**                         |
+| Quinine               | Cinchonism + hypoglycaemia                                  |
+| Metronidazole         | Tissue-active amoebicide                                    |
+| Paromomycin           | Luminal amebicide                                           |
+| L-AmB                 | Kala-azar and serious mould disease                         |
+| Benznidazole          | Chagas disease                                              |
+| TMP-SMX               | PJP prophylaxis/treatment                                   |
+### Drugs to be avoided in G6PD
+
+| Class         | Drugs                                                                            |
+| ------------- | -------------------------------------------------------------------------------- |
+| Antimalarials | Primaquine > Chloroquine<br>Dapsone                                              |
+| Sulphonamides | Sulfamethoxazole, Sulfasalazine, Sulfisoxazole                                   |
+| Antibiotics   | Cotrimoxazole<br>Ciprofloxacin, Norfloxacin<br>Chloramphenicol<br>Nitrofurantoin |
+| Others        | Naphthalene, Rasburicase, Methylene blue                                         |
