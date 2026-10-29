@@ -71,3 +71,22 @@
 /01_Study Material/PDFs/World of revision/
 
 # INK ANNOTATION — INTENTIONALLY SYNC PLUGIN CODE
+# =========================================================
+# The English Ink Annotation build is tracked so Git sync can install/update it on other devices.
+!.obsidian/plugins/ink-annotation/main.js
+!.obsidian/plugins/ink-annotation/manifest.json
+!.obsidian/plugins/ink-annotation/styles.css
+!.obsidian/plugins/ink-annotation/LICENSE
+
+
+# Tap Heading to Fold — intentionally sync plugin code to other devices
+!.obsidian/plugins/tap-heading-to-fold/main.js
+!.obsidian/plugins/tap-heading-to-fold/manifest.json
+
+# Reading Highlighter Extended — intentionally sync companion plugin code
+!.obsidian/plugins/reading-highlighter-extended/main.js
+!.obsidian/plugins/reading-highlighter-extended/manifest.json
+!.obsidian/plugins/reading-highlighter-extended/styles.css
+!.obsidian/plugins/reading-highlighter-extended/README.md
+=======
+!.obsidian/plugins/templater-obsidian/data.json
