@@ -74,7 +74,12 @@ $$pI = \frac{pK_{a2} (\alpha\text{-NH}_3^+) + pK_{aR} (\text{side chain basic gr
 
 ```mermaid
 graph LR
-    Sub1["Amino Acid 1 (N-terminus)"] + Sub2["Amino Acid 2 (C-terminus)"] -->|Dehydration Synthesis| PB["Peptide Bond (-CO-NH-)"]
+    Sub1["Amino Acid 1 (N-terminus)"]
+    Sub2["Amino Acid 2 (C-terminus)"]
+
+    Sub1 -->|Dehydration Synthesis| PB["Peptide Bond (-CO-NH-)"]
+    Sub2 -->|Dehydration Synthesis| PB
+
     PB --> R1["Planar & Rigid"]
     PB --> R2["Partial Double Bond Resonance"]
     PB --> R3["Trans Configuration"]
