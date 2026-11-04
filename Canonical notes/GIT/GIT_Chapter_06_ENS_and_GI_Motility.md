@@ -14,23 +14,13 @@ tags:
 
 The gastrointestinal tract possesses an extensive, semi-autonomous intrinsic neuronal network—the **Enteric Nervous System (ENS)**—comprising over 100 million neurons (often termed the "second brain"), modulated by extrinsic sympathetic and parasympathetic inputs.
 
-```mermaid
-flowchart TD
-A[GI nervous system] --> B[Extrinsic autonomic input]
-A --> C[Intrinsic enteric nervous system]
-B --> D[Parasympathetic]
-B --> E[Sympathetic]
-D --> F[Vagus nerve: foregut and midgut]
-D --> G[Pelvic splanchnic nerves S2-S4: hindgut]
-D --> H[Generally increases motility and secretion; ACh and substance P]
-E --> I[Celiac, superior mesenteric and inferior mesenteric ganglia]
-E --> J[Postganglionic norepinephrine]
-E --> K[Generally inhibits motility and constricts sphincters]
-C --> L[Myenteric or Auerbach plexus]
-C --> M[Submucosal or Meissner plexus]
-L --> N[Between circular and longitudinal muscle; motor control]
-M --> O[Submucosa; secretion, absorption and local blood flow]
-```
+| Component | Location / pathway | Principal function |
+| --- | --- | --- |
+| Myenteric (Auerbach) plexus | Between inner circular and outer longitudinal muscle | Coordinates GI motility and sphincter activity |
+| Submucosal (Meissner) plexus | Submucosa | Regulates secretion, absorption and local mucosal blood flow |
+| Parasympathetic input | Vagus to foregut/midgut; pelvic splanchnic nerves (S2–S4) to hindgut | Generally increases motility and secretion |
+| Sympathetic input | Thoracolumbar outflow via prevertebral ganglia | Generally inhibits motility and increases sphincter tone |
+
 ### 1. Intrinsic Nervous System: Enteric Nervous System (ENS)
 Organized into two major ganglionated plexuses extending continuously from the esophagus to the internal anal sphincter:
 
@@ -67,7 +57,12 @@ Organized into two major ganglionated plexuses extending continuously from the e
 
 Gastrointestinal smooth muscle displays continuous, intrinsic electrical activity characterized by slow membrane potential oscillations punctuated by action potentials.
 
-**Schematic interpretation:** GI smooth muscle exhibits rhythmic slow-wave oscillations in membrane potential. Slow waves alone do not necessarily produce contraction. When the depolarising peak reaches threshold (approximately −40 mV in the schematic), spike potentials occur; these are associated with calcium entry and a stronger contractile response. The tracing is conceptual, not a calibrated electrophysiology graph.
+**GI smooth-muscle electrical activity**
+
+- Interstitial cells of Cajal generate rhythmic **slow waves** (the basal electrical rhythm); slow waves set the timing of possible contractions but are not action potentials themselves.
+- When depolarisation reaches threshold, **spike potentials** occur, mediated mainly by calcium entry through voltage-gated channels; contraction strength increases with spike activity.
+- The source sketch is a schematic trace rather than a scale-accurate graph; use the conceptual distinction above when revising.
+
 ### 1. Basal Electrical Rhythm (BER) / Slow Waves
 * **Definition**: Spontaneous, rhythmic oscillations of the resting membrane potential (ranging between -65 mV and -45 mV) that propagate along gastrointestinal smooth muscle sheets.
 * **Origin**: Initiated by specialized pacemaker cells embedded within the muscle layers called **Interstitial Cells of Cajal (ICCs)**. ICCs form an extensive syncytial network connected to smooth muscle cells via gap junctions.
@@ -93,19 +88,12 @@ Gastrointestinal smooth muscle displays continuous, intrinsic electrical activit
 ### 1. Deglutition (Swallowing) & Esophageal Motility
 Deglutition is a complex reflex organized by the medullary **swallowing center** in the brainstem.
 
-```mermaid
-flowchart TD
-A[Swallowing] --> B[Oral phase: voluntary]
-B --> C[Tongue propels bolus into oropharynx]
-C --> D[Pharyngeal phase: involuntary]
-D --> E[Soft palate elevates and seals nasopharynx]
-D --> F[Larynx elevates; epiglottis tilts]
-D --> G[Upper esophageal sphincter relaxes briefly]
-G --> H[Esophageal phase]
-H --> I[Primary peristaltic wave follows the swallow]
-H --> J[LES and gastric cardia relax via NO and VIP]
-H --> K[Secondary peristalsis clears residual distension if needed]
-```
+| Swallowing phase | Control | Main events |
+| --- | --- | --- |
+| Oral | Voluntary | Tongue propels the bolus into the oropharynx |
+| Pharyngeal | Involuntary | Soft palate closes the nasopharynx; larynx elevates; upper esophageal sphincter relaxes |
+| Esophageal | Involuntary | Primary peristalsis follows swallowing; secondary peristalsis is triggered by persistent distension; LES relaxes via inhibitory enteric pathways (NO/VIP) |
+
 * **Pharyngeal Phase**: Involuntary reflex. UES relaxes briefly while respiration is transiently inhibited (deglutition apnea).
 * **Primary Esophageal Peristalsis**: Progressive wave of ring-like contraction initiated by swallowing. Propagates down the esophagus at 3–5 cm/sec, reaching the stomach in 8–10 seconds.
 * **Secondary Esophageal Peristalsis**: Initiated locally by sensory stretch receptors if the primary wave fails to clear residual food or in response to refluxed gastric contents. Independent of medullary center; mediated via intrinsic ENS reflexes.
@@ -131,12 +119,13 @@ H --> K[Secondary peristalsis clears residual distension if needed]
 ### 4. Interdigestive Motility: The Migrating Motor Complex (MMC)
 In the fasting state (between meals), segmentation and peristalsis cease and are replaced by the MMC.
 
-| MMC phase | Approximate duration | Electrical / motor activity |
+| MMC phase | Typical duration | Motor activity |
 | --- | --- | --- |
-| Phase I | 45–60 min | Quiescent period; slow waves without spike bursts or significant contractions |
-| Phase II | 30–45 min | Irregular spike potentials and contractions |
-| Phase III | 5–15 min | Regular, high-amplitude contractions at maximal frequency; the migrating “housekeeping” phase |
-| Phase IV | 0–5 min | Transition back to Phase I |
+| Phase I | 45–60 min | Quiescence; slow waves with few or no contractions |
+| Phase II | 30–45 min | Intermittent, irregular contractions |
+| Phase III | 5–15 min | Short burst of regular, high-amplitude contractions (the 'housekeeping' phase) |
+| Phase IV | 0–5 min | Transition back to phase I |
+
 * **Physiological Role**: Acts as an intestinal "housekeeping" mechanism. Sweeps undigested particulate residue, desquamated cells, and luminal debris from the stomach and small intestine into the colon, preventing bacterial overgrowth in the small bowel.
 * **Hormonal Control**: Mediated by the cyclic release of **Motilin** from duodenal M cells. Feeding immediately abolishes the MMC, restoring digestive segmentation.
 

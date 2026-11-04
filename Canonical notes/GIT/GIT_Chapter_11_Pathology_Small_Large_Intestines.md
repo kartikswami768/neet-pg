@@ -23,11 +23,16 @@ Malabsorption is characterized by impaired nutrient absorption across the intest
 
 ```mermaid
 flowchart TD
-  A["Dietary Gluten (Gliadin) -greater than Tissue Transglutaminase (tTG) Deamidation"]
-  A --> N1["greater than Presentation on HLA-DQ2/DQ8"]
-  N1 --> N2["CD4+ & CD8+ T-Cell Activation"]
-  N2 --> N3["Enterocyte Apoptosis & Villous Atrophy"]
+    A["Dietary gluten: gliadin peptides"] --> B["Tissue transglutaminase deamidates gliadin"]
+    B --> C["Deamidated peptides presented by HLA-DQ2 or HLA-DQ8"]
+    C --> D["CD4-positive T-cell response and inflammatory cytokine release"]
+    C --> E["CD8-positive intraepithelial lymphocyte activation"]
+    D --> F["Mucosal inflammation and crypt hyperplasia"]
+    E --> G["Enterocyte injury and apoptosis"]
+    F --> H["Villous blunting or atrophy"]
+    G --> H
 ```
+
 * **Serological Markers**:
   1. **Anti-tissue Transglutaminase IgA (anti-tTG IgA)** (*First-line screening test*).
   2. **Anti-Endomysial Antibodies (EMA IgA)** (*Highest specificity*).
@@ -67,13 +72,12 @@ flowchart TD
 
 Chronic idiopathic relapsing inflammatory disorders of the GI tract. Classified into **Crohn Disease (CD)** and **Ulcerative Colitis (UC)**.
 
-| Feature | Crohn disease | Ulcerative colitis |
-| --- | --- | --- |
-| Distribution | Any GI segment; skip lesions; terminal ileum/ileocolon common | Colon only; begins in rectum and extends proximally continuously |
-| Depth | Transmural | Mucosa and submucosa predominantly |
-| Gross pattern | Cobblestoning, fissures, creeping fat, strictures | Friable mucosa, pseudopolyps, loss of haustra |
-| Histology | Non-caseating granulomas in a subset; transmural lymphoid aggregates | Cryptitis/crypt abscesses and architectural distortion; granulomas are not characteristic |
-| Complications | Fistulae, strictures, obstruction, malabsorption and perianal disease | Severe bleeding, toxic megacolon and colorectal dysplasia/cancer risk |
+**INFLAMMATORY BOWEL DISEASE**
+- CROHN DISEASE ULCERATIVE COLITIS
+- Transmural, Skip lesions - Mucosal, Continuous from Rectum
+- Non-caseating Granulomas - Crypt Abscesses
+- Fistulae, Strictures, Creeping Fat - Pseudopolyps, Toxic Megacolon, CRC Risk
+
 ### Master Comparison Table: Crohn Disease vs. Ulcerative Colitis
 
 | Feature | Crohn Disease (CD) | Ulcerative Colitis (UC) |
@@ -149,12 +153,12 @@ Impairment of normal mechanical or functional passage of intestinal contents.
   * *Tubulovillous Adenoma*: Mixed architecture ($15\%$).
   * *Villous Adenoma*: Long finger-like villous projections ($10\%$). **Highest malignant risk**; can cause secretory diarrhea with severe hypokalemia.
 
-| Syndrome | Genetic / polyp feature | Important associated findings |
-| --- | --- | --- |
-| Familial adenomatous polyposis (FAP) | APC mutation; numerous colorectal adenomas | Very high lifetime colorectal cancer risk without colectomy/surveillance |
-| Gardner syndrome | FAP phenotype | Osteomas, epidermoid cysts and desmoid tumours |
-| Turcot syndrome | Polyposis / mismatch-repair syndrome spectrum | Central nervous system tumours; association depends on the underlying gene |
-| Peutz–Jeghers syndrome | STK11 mutation; hamartomatous polyps | Mucocutaneous pigmentation and increased risk of several GI and extra-GI cancers |
+**COLORECTAL POLYPOSIS SYNDROMES**
+- FAP (APC Mutation) PEUTZ-JEGHERS (STK11)
+- >1000 adenomatous polyps - Hamartomatous polyps
+- 100% CRC risk by age 40 - Mucocutaneous hyperpigmentation
+- Gardner (osteomas) & Turcot (CNS) - GI & extracolonic cancer risk
+
 * **Polyposis Syndromes**:
   * **Familial Adenomatous Polyposis (FAP)**: Autosomal dominant mutation in the **$APC$ tumor suppressor gene** on chromosome 5q21. Development of $>1000$ colonic adenomatous polyps during adolescence. **100% risk of Colorectal Carcinoma by age 40** if prophylactic total colectomy is not performed.
   * **Gardner Syndrome**: FAP + Osteomas (mandible/skull), epidermoid cysts, desmoid tumors, and impacted supernumerary teeth.
@@ -175,10 +179,11 @@ Third most common cancer and second leading cause of cancer death globally.
 
 ```mermaid
 flowchart TD
-  A["Normal Mucosa --(Loss of APC)--greater than Hyperproliferation --(KRAS mutation)--greater than Adenoma"]
-  A --> N1["(Loss of TP53/DCC)"]
-  N1 --> N2["Invasive Carcinoma"]
+    A["Normal colonic epithelium"] -->|"APC loss"| B["Aberrant crypt / hyperproliferative epithelium"]
+    B -->|"KRAS activation and additional changes"| C["Adenomatous polyp"]
+    C -->|"Further alterations, including TP53 and DCC loss"| D["Invasive colorectal carcinoma"]
 ```
+
 2. **Microsatellite Instability (MSI) / Mismatch Repair (MMR) Pathway** ($15\%$):
    * Caused by epigenetic silencing (*MLH1* promoter hypermethylation) or germline mutations in DNA Mismatch Repair genes (**$MLH1, MSH2, MSH6, PMS2$**).
    * Accumulation of mutations in microsatellite repeat sequences.

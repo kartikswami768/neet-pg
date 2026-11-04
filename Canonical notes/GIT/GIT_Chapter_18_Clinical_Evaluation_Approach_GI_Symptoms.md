@@ -15,26 +15,21 @@ Dysphagia is defined as the subjective sensation of difficulty or impairment in 
 ### A. Anatomical & Pathophysiologic Classification
 Dysphagia is fundamentally categorized based on the anatomical site of impairment into **Oropharyngeal (Transfer) Dysphagia** and **Esophageal Dysphagia**.
 
-```mermaid
-flowchart TD
-A[Patient with dysphagia] --> B{Difficulty initiating swallow or coughing, choking, nasal regurgitation?}
-B -->|Yes| C[Oropharyngeal dysphagia]
-C --> D[Neuromuscular and ENT assessment]
-D --> E[Videofluoroscopic swallow study or fibreoptic evaluation]
-B -->|No| F[Consider esophageal dysphagia]
-F --> G{Solids only or solids and liquids?}
-G -->|Solids only| H[Structural lesion more likely]
-H --> I{Intermittent or progressive?}
-I -->|Intermittent| J[Consider ring or web]
-I -->|Progressive| K[Consider stricture or malignancy; assess alarm features]
-G -->|Solids and liquids| L[Motility disorder more likely]
-L --> M{Intermittent or progressive?}
-M -->|Intermittent| N[Consider diffuse esophageal spasm]
-M -->|Progressive| O[Consider achalasia or systemic sclerosis]
-K --> P[Endoscopy as indicated]
-N --> Q[Barium esophagram and high-resolution manometry]
-O --> Q
-```
+**EVALUATION OF DYSPHAGIA**
+- OROPHARYNGEAL DYSPHAGIA ESOPHAGEAL DYSPHAGIA
+- (Difficulty initiating swallow, (Food sticking in chest,
+- coughing, choking, nasal regurg) retrosternal fullness/pain)
+- Neuromuscular Evaluation Mechanistic Assessment
+- Videofluoroscopic Swallow Study
+- ENT Fiberoptic Endoscopy
+- SOLIDS ONLY (Structural) SOLIDS & LIQUIDS (Neuromuscular)
+- Intermittent Progressive Intermittent Progressive
+- Esophageal Ring Peptic Stricture Diffuse Esophageal Achalasia
+- (Schatzki Ring) (Heartburn history) Spasm (Regurgitation, weight
+- or (Chest pain, loss, bird's beak)
+- Adenocarcinoma corkscrew) or
+- (Weight loss, age>50) Systemic Sclerosis
+
 #### 1. Oropharyngeal (Transfer) Dysphagia
 Impairment in the transfer of a food bolus from the oral cavity into the upper esophagus, driven by dysfunction of the tongue, pharyngeal musculature, or upper esophageal sphincter (UES).
 * **Pathophysiology**: Disruption of the voluntary oral phase or involuntary pharyngeal phase of deglutition leads to bolus misdirection into the nasopharynx or tracheobronchial tree.
@@ -90,19 +85,20 @@ Gastrointestinal (GI) bleeding is a major medical emergency categorized by anato
 
 ### B. Risk Stratification & Clinical Scoring Systems
 
-```mermaid
-flowchart TD
-A[Suspected acute upper GI bleeding] --> B[Initial assessment and haemodynamic resuscitation]
-B --> C[Two large-bore IV lines; fluids and blood products as indicated]
-C --> D[Risk stratification: Glasgow-Blatchford and Rockall scores]
-D --> E{Likely variceal source?}
-E -->|No / non-variceal suspected| F[IV proton-pump inhibitor; consider IV erythromycin before endoscopy]
-E -->|Yes| G[Start vasoactive therapy and IV antibiotic prophylaxis]
-F --> H[Upper GI endoscopy after resuscitation, generally within 24 hours]
-G --> I[Urgent endoscopy, generally within 12 hours when variceal bleeding is suspected]
-H --> J[Endoscopic haemostasis as indicated]
-I --> K[Variceal band ligation as indicated]
-```
+**MANAGEMENT OF ACUTE UGIB**
+- HEMODYNAMIC RESUSCITATION RISK STRATIFICATION
+- Two large-bore IVs (16G) or Central Line - Glasgow-Blatchford Score (GBS)
+- Crystalloid fluid boluses - Rockall Score
+- Restrictive Transfusion (Hb target 7-9 g/dL)
+- Correction of coagulopathy v
+- GBS > 0? (High Risk)
+- PHARMACOTHERAPY PROTOCOL
+- NON-VARICEAL SUSPICION VARICEAL SUSPICION
+- IV PPI (80 mg bolus → 8 mg/h) - IV Vasoactive Agent (Octreotide/Terlipressin)
+- Prokinetic (IV Erythromycin 250 mg) - Prophylactic IV Antibiotic (Ceftriaxone)
+- EMERGENCY ENDOSCOPY (EGD)
+- (Within 24h; Within 12h if Variceal)
+
 #### 1. Glasgow-Blatchford Score (GBS)
 Pre-endoscopic risk assessment score based entirely on clinical and laboratory variables (BUN, Hemoglobin, Systolic BP, Pulse, Melena, Syncope, Hepatic Disease, Cardiac Failure).
 * **Score = 0**: Exceptionally low risk; patient can be safely managed in an outpatient setting without acute hospital admission.
@@ -149,17 +145,15 @@ Integrates pre-endoscopic clinical variables (age, shock, comorbidity) with post
 
 Jaundice (icterus) is the yellow discoloration of the sclerae, skin, and mucous membranes caused by tissue deposition of bilirubin when total serum bilirubin levels exceed **2.0–2.5 mg/dL** (normal total bilirubin: **0.2–1.2 mg/dL**). Scleral icterus is detected earliest under natural light due to the high elastin content of the sclera, which has a high binding affinity for bilirubin.
 
-```mermaid
-flowchart TD
-A[Elevated serum bilirubin] --> B[Fractionate bilirubin and review liver enzymes]
-B --> C{Predominantly unconjugated?}
-C -->|Yes| D{Mechanism}
-D --> E[Increased bilirubin production: haemolysis or ineffective erythropoiesis]
-D --> F[Impaired conjugation: Gilbert syndrome, Crigler-Najjar syndrome or neonatal jaundice]
-C -->|No: conjugated predominance| G{Biochemical pattern}
-G -->|Hepatocellular| H[Consider viral, alcohol-related, drug-induced or other hepatocellular injury]
-G -->|Cholestatic| I[Consider choledocholithiasis, biliary stricture, PBC, PSC or pancreatic/biliary malignancy]
-```
+**EVALUATION OF HYPERBILIRUBINEMIA**
+- UNCONJUGATED (>85% Indirect) CONJUGATED (>30-50% Direct)
+- OVERPRODUCTION IMPAIRED CONJUGATION HEPATOCELLULAR PATTERN CHOLESTATIC PATTERN
+- Hemolysis - Gilbert Syndrome (ALT/AST >> ALP) (ALP/GGT >> ALT/AST)
+- Ineffective - Crigler-Najjar Type I/II - Viral Hepatitis - Choledocholithiasis
+- erythropoiesis - Neonatal jaundice - Alcoholic Hepatitis - Pancreatic Cancer
+- Drug-Induced (DILI) - PBC / PSC
+- Cirrhosis - Biliary Stricture
+
 ### A. Bilirubin Metabolism Architecture
 1. **Production**: $80–85\%$ derived from the breakdown of senescent red blood cell hemoglobin in reticuloendothelial macrophages (spleen/bone marrow); $15–20\%$ derived from turnover of heme proteins (myoglobin, cytochromes).
 2. **Transport**: Unconjugated (indirect) bilirubin is water-insoluble and circulates tightly bound to serum albumin.

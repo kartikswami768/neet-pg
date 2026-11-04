@@ -14,12 +14,14 @@ tags:
 
 Esophageal motility disorders result from impaired neuromuscular coordination of the esophageal body, lower esophageal sphincter (LES), or both. They present primarily with **dysphagia** (difficulty swallowing) to both solids and liquids, non-cardiac chest pain, and regurgitation.
 
-| Disorder | Core mechanism / manometric pattern | Typical clue |
-| --- | --- | --- |
-| Achalasia | Impaired LES relaxation with absent or abnormal peristalsis; loss of inhibitory myenteric neurons | Bird’s-beak narrowing; dysphagia to solids and liquids |
-| Diffuse esophageal spasm | Premature, uncoordinated contractions | Corkscrew appearance; intermittent chest pain/dysphagia |
-| Hypercontractile (jackhammer) esophagus | Excessively vigorous peristaltic contractions | High distal contractile integral on high-resolution manometry |
-| Scleroderma esophagus | Smooth-muscle atrophy/fibrosis with hypotensive LES and weak or absent distal peristalsis | Severe reflux due to an incompetent LES |
+| Feature | Achalasia | Distal esophageal spasm (DES) | Hypercontractile esophagus | Scleroderma esophagus |
+| :--- | :--- | :--- | :--- | :--- |
+| **Main mechanism** | Loss of inhibitory myenteric neurons (reduced nitric oxide and VIP signaling) | Impaired inhibitory control with premature/spastic distal contractions | Excessively vigorous, usually coordinated peristaltic contractions | Smooth-muscle atrophy and fibrosis, especially in the distal esophagus |
+| **Peristalsis** | Absent | Premature/spastic contractions; normal peristalsis is disrupted | Preserved sequencing but excessive contractile vigor | Weak or absent in the distal smooth-muscle segment |
+| **LES function** | Incomplete relaxation; often elevated resting pressure | Relaxation is generally preserved | Relaxation is generally preserved | Hypotensive LES |
+| **Characteristic clue** | Bird's-beak tapering and esophageal dilation | Corkscrew/rosary-bead appearance | Elevated distal contractile integral (DCI) on manometry | Severe reflux with distal aperistalsis |
+| **Clinical emphasis** | Dysphagia to solids and liquids, regurgitation | Intermittent dysphagia and non-cardiac chest pain | Dysphagia and chest pain | Refractory GERD and possible peptic stricture |
+
 ### A. Achalasia
 * **Definition**: A primary neurodegenerative motility disorder characterized by a triad of:
   1. **Incomplete relaxation of the lower esophageal sphincter (LES)** upon swallowing.
@@ -45,9 +47,10 @@ Esophageal motility disorders result from impaired neuromuscular coordination of
   2. **Barium Swallow Radiography**: Shows smooth, symmetric, conical tapering of the distal esophagus terminating at the GE junction (**"Bird's Beak" or "Pencil Tip" sign**) with proximal esophageal dilation and loss of gastric air bubble.
   3. **Upper GI Endoscopy (EGD)**: Mandatory to exclude pseudoachalasia/malignancy. Shows dilated esophagus with retained food/fluid and a tight LES that opens with gentle instrument pressure ("pop" sensation).
 
-- **High-resolution manometry:** Elevated integrated relaxation pressure (IRP) with absent peristalsis supports achalasia; interpret using the current Chicago Classification and laboratory-specific reference limits.
-- **Barium esophagram:** Smooth distal tapering (“bird’s beak”) with proximal dilatation.
-- **Upper endoscopy:** Exclude a mechanical obstruction or pseudoachalasia, including malignancy at the gastroesophageal junction.
+- Manometry: Elevated IRP (>15 mmHg) + Aperistalsis
+- Barium Swallow: "Bird's Beak" distal narrowing + Proximal Dilation
+- EGD: Exclude GE junction malignancy
+
 * **Management Options**:
   * *Endoscopic / Surgical*:
     * **Peroral Endoscopic Myotomy (POEM)**: Endoscopic dissection of circular muscle fibers of distal esophagus and LES.
@@ -96,8 +99,11 @@ Esophageal motility disorders result from impaired neuromuscular coordination of
 
 ```mermaid
 flowchart TD
-  A["Acid Reflux -greater than Intraepithelial Inflammation -greater than Basal Zone Hyperplasia & Elongated Papil…"]
+    A["Gastric reflux into the esophagus"] --> B["Epithelial irritation and inflammation"]
+    B --> C["Reactive changes: basal-zone hyperplasia and elongated lamina-propria papillae"]
+    C -->|"In a subset with chronic reflux"| D["Barrett esophagus: specialized intestinal metaplasia with goblet cells"]
 ```
+
 * **Clinical Features**:
   * *Typical*: Pyrosis (heartburn - substernal burning sensation), regurgitation, dysphagia, water brash (reflex hypersalivation).
   * *Atypical / Extraesophageal*: Chronic cough, asthma-like bronchospasm, laryngitis, hoarseness, dental enamel erosion.
@@ -123,10 +129,13 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-  A["Food/Environmental Antigens -greater than Th2 Response (IL-4, IL-5, IL-13) -greater than Eosinophil Recruitme…"]
-  A --> N1["greater than Subepithelial Remodeling"]
-  N1 --> N2["'Trachealized' Esophagus & Food Impaction"]
+    A["Food or environmental antigen exposure"] --> B["Type 2 helper T-cell response: IL-4, IL-5 and IL-13"]
+    B --> C["Eotaxin-mediated eosinophil recruitment"]
+    C --> D["Esophageal eosinophilic inflammation"]
+    D --> E["Subepithelial remodeling and fibrosis"]
+    E --> F["Rings, strictures and food impaction"]
 ```
+
 * **Management**:
   * *6-Food Elimination Diet* (milk, wheat, egg, soy, nuts, seafood/shellfish).
   * *Topical Swallowed Corticosteroids*: Swallowed Fluticasone propionate or oral viscous Budesonide slurry.
@@ -185,12 +194,15 @@ Occurs almost exclusively in immunocompromised hosts (HIV/AIDS with CD4 count $<
 
 ```mermaid
 flowchart TD
-  A["Chronic GERD -greater than Acid & Bile Damage -greater than Squamous Epithelial Stem Cell Reprogramming"]
-  A --> N1["greater than Columnar Intestinal Metaplasia with Goblet Cells (Barrett Esophagus)"]
-  N1 --> N2["greater than Low-Grade Dysplasia"]
-  N2 --> N3["High-Grade Dysplasia"]
-  N3 --> N4["Adenocarcinoma"]
+    A["Chronic gastroesophageal reflux"] --> B["Repeated acid and bile injury"]
+    B --> C["Columnar intestinal metaplasia with goblet cells: Barrett esophagus"]
+    C -->|"If dysplasia develops"| D["Low-grade dysplasia"]
+    D --> E["High-grade dysplasia"]
+    E --> F["Esophageal adenocarcinoma"]
 ```
+
+Progression is not inevitable: most patients with Barrett esophagus do not develop adenocarcinoma.
+
 * **Gross & Endoscopic Findings**: Salmon-pink, velvety mucosal tongues extending proximally from the gastroesophageal junction above the Z-line.
 * **Microscopic Histology**: Simple columnar epithelium with intestinal-type **Goblet Cells** (contain acidic mucins that stain positive with **Alcian Blue** at pH 2.5).
 

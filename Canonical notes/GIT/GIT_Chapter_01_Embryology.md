@@ -19,14 +19,12 @@ The development of the human gastrointestinal (GI) tract begins during the 3rd a
 * **Somatic Mesoderm**: Forms the parietal peritoneum lining the abdominal cavity walls [1, 6].
 * **Neural Crest Cells**: Migrate into the splanchnic mesoderm to form the enteric nervous system (Meissner submucosal and Auerbach myenteric plexuses) [17].
 
-```mermaid
-flowchart TD
-  A["Embryonic Disc Folding"]
-  A --> N1["Endodermal Tube (Primitive Gut) + Splanchnic Mesoderm (Wall/Muscle)"]
-  N1 --> N2["├───────────────────────┼───────────────────────┐"]
-  N2 --> N3["Foregut (Celiac) Midgut (SMA) Hindgut (IMA)"]
-  N3 --> N4["(Oesophagus to D2) (D2 to Prox 2/3 Trans) (Distal 1/3 Trans to Pectinate Line)"]
-```
+| Gut region | Arterial supply | Principal extent |
+| --- | --- | --- |
+| **Foregut** | Celiac trunk | Esophagus to proximal duodenum (approximately to the major duodenal papilla) |
+| **Midgut** | Superior mesenteric artery (SMA) | Distal duodenum to proximal two-thirds of the transverse colon |
+| **Hindgut** | Inferior mesenteric artery (IMA) | Distal one-third of the transverse colon to the upper anal canal above the pectinate line |
+
 ### Regional Subdivisions & Vascular Boundaries
 The primitive gut tube is divided into three distinct anatomical regions based on embryonic blood supply derived from the vitelline arterial system [28, 30, 37]:
 
@@ -58,12 +56,13 @@ The stomach undergoes a **$90^\circ$ clockwise rotation** around its longitudina
 * **Positional Shifts**: The original left side becomes the anterior wall; the original right side becomes the posterior wall.
 * **Vagal Realignment**: Consequently, the **left vagus nerve** comes to supply the **anterior gastric wall** (anterior vagal trunk), and the **right vagus nerve** supplies the **posterior gastric wall** (posterior vagal trunk) [28].
 
-| Embryonic change | Result |
-| --- | --- |
-| Left side of stomach rotates anteriorly | Left vagus becomes the anterior vagal trunk |
-| Right side of stomach rotates posteriorly | Right vagus becomes the posterior vagal trunk |
-| Posterior wall rotates left and expands more rapidly | Forms the greater curvature |
-| Anterior wall rotates right | Forms the lesser curvature |
+| Original gastric region | Rotation / positional change | Result |
+| --- | --- | --- |
+| Left side | Rotates anteriorly | Anterior gastric surface; left vagus becomes anterior vagal trunk |
+| Right side | Rotates posteriorly | Posterior gastric surface; right vagus becomes posterior vagal trunk |
+| Posterior wall | Grows faster and expands to the left | Greater curvature |
+| Anterior wall | Becomes relatively concave | Lesser curvature |
+
 #### Secondary Anteroposterior Rotation
 The stomach also tips around an anteroposterior axis:
 * The pyloric region moves upward and to the right.
@@ -81,11 +80,12 @@ The duodenum develops from the terminal foregut and cranial midgut. Its C-shaped
 
 The midgut suspends from the posterior abdominal wall by a short mesentery and communicates with the yolk sac via the **vitelline (omphalomesenteric) duct** [10, 29, 45]. Rapid elongation produces a U-shaped **midgut loop** with a pre-arterial (cranial) limb and a post-arterial (caudal) limb, centered around the **Superior Mesenteric Artery (SMA)** axis [10].
 
-| Midgut component | Derivatives / role |
+| Midgut loop component | Derivatives / relationship |
 | --- | --- |
-| Cranial (pre-arterial) limb | Jejunum and upper ileum |
-| Axis of rotation | Superior mesenteric artery (SMA); vitelline duct marks the connection to the yolk sac |
-| Caudal (post-arterial) limb | Lower ileum, caecum, appendix, ascending colon and proximal two-thirds of transverse colon |
+| Cranial (pre-arterial) limb | Jejunum and proximal ileum |
+| Rotation axis | Superior mesenteric artery (SMA), with the vitelline duct marking the connection to the yolk sac |
+| Caudal (post-arterial) limb | Distal ileum, cecum, appendix, ascending colon and proximal two-thirds of transverse colon |
+
 ### Chronological Stages of Midgut Rotation & Herniation
 Midgut development involves a total **$270^\circ$ counter-clockwise rotation** around the SMA axis [10, 29, 47]:
 
@@ -118,14 +118,11 @@ The terminal end of the hindgut enters an endoderm-lined cavity called the **clo
   2. Posterior **anorectal canal** [12].
 * Fusion of the urorectal septum with the cloacal membrane forms the **perineal body** and splits the cloacal membrane into the anterior urogenital membrane and posterior anal membrane [12].
 
-```mermaid
-flowchart TD
-  A["Cloaca (Endodermal)"]
-  A --> N1["Urorectal Septum Partitioning"]
-  N1 --> N2["┌──────────────┴──────────────┐"]
-  N2 --> N3["Primitive Urogenital Sinus Anorectal Canal"]
-  N3 --> N4["(Bladder & Urethra) (Rectum & Upper Anal Canal)"]
-```
+| Cloacal compartment | Adult derivatives described in this outline |
+| --- | --- |
+| Anterior primitive urogenital sinus | Urinary bladder and urethra |
+| Posterior anorectal canal | Rectum and upper anal canal |
+
 ### Pectinate Line Junction
 The anal canal has a dual embryological origin [39, 40]:
 * **Upper Anal Canal (above Pectinate Line)**: Derived from hindgut endoderm [39, 40].
@@ -165,12 +162,13 @@ The anal canal has a dual embryological origin [39, 40]:
 | **Associated Anomalies** | **HIGH** ($50\%$; Beckwith-Wiedemann syndrome, Trisomy 13/18/21, cardiac defects) [16, 30, 53, 60] | **LOW** (isolated bowel complications like atresia/ischemia) [16, 53] |
 | **Bowel Appearance** | Normal appearance protected inside sac [53] | Thickened, edematous, inflamed with matted fibrous peel [53] |
 
-| Feature | Omphalocele | Gastroschisis |
-| --- | --- | --- |
-| Peritoneal sac | Present; covered by amnion and peritoneum | Absent; bowel is exposed |
-| Location | Through the umbilical ring | Usually to the right of the umbilicus |
-| Umbilical cord | Inserts onto the apex of the sac | Cord inserts normally |
-| Associated anomalies | Higher association with cardiac and chromosomal anomalies | Less strongly associated with chromosomal anomalies |
+**Key distinction: the presence of a covering sac**
+
+- **Omphalocele:** Midline defect through the umbilical ring; bowel is covered by a peritoneal/amnion sac, and the umbilical cord inserts onto the sac.
+- **Gastroschisis:** Usually a right paraumbilical full-thickness defect; bowel is exposed without a covering sac, and cord insertion is separate and normal.
+
+The accompanying chapter text contains the detailed comparison table.
+
 ### Vitelline (Omphalomesenteric) Duct Anomalies
 Normally, the vitelline duct connects the midgut lumen to the yolk sac and completely obliterates by the 7th week [29, 44, 45]. Persistence leads to [44, 45]:
 

@@ -16,13 +16,8 @@ Cholestasis refers to impairment of bile formation or flow, leading to systemic 
 
 ### A. Primary Biliary Cholangitis (PBC) vs. Primary Sclerosing Cholangitis (PSC)
 
-| Feature | Primary biliary cholangitis (PBC) | Primary sclerosing cholangitis (PSC) |
-| --- | --- | --- |
-| Primary ducts involved | Small intrahepatic interlobular bile ducts | Intrahepatic and extrahepatic bile ducts |
-| Typical association | Middle-aged women; autoimmune disease associations | Inflammatory bowel disease, especially ulcerative colitis |
-| Serology | Antimitochondrial antibody (AMA) commonly positive | p-ANCA may be positive but is not diagnostic |
-| Imaging / histology | Florid duct lesions with destructive cholangitis | Multifocal strictures and dilatations (“beading”); periductal concentric fibrosis |
-| Important complications | Progressive cholestasis, cirrhosis and metabolic bone disease | Cholangitis, cirrhosis and increased cholangiocarcinoma risk |
+**Key distinction:** Primary biliary cholangitis predominantly destroys small intrahepatic interlobular ducts, whereas primary sclerosing cholangitis causes inflammatory fibrosis and multifocal stricturing of intrahepatic and extrahepatic ducts. The detailed comparison follows.
+
 | Feature | Primary Biliary Cholangitis (PBC) | Primary Sclerosing Cholangitis (PSC) |
 | :--- | :--- | :--- |
 | **Primary Target Anatomical Site** | **Intrahepatic small interlobular bile ducts** strictly | **Both Intrahepatic and Extrahepatic** large and medium bile ducts |
@@ -73,12 +68,12 @@ Cholestasis refers to impairment of bile formation or flow, leading to systemic 
 
 ### B. Malignant Hepatic Tumors
 
-| Feature | Hepatocellular carcinoma (HCC) | Cholangiocarcinoma |
-| --- | --- | --- |
-| Origin | Hepatocytes | Biliary epithelium |
-| Major risk associations | Cirrhosis, chronic HBV/HCV, aflatoxin exposure and metabolic liver disease | PSC, choledochal cysts and liver-fluke infection in endemic regions |
-| Morphology | Trabecular or pseudoglandular growth patterns | Adenocarcinoma with desmoplastic stroma |
-| Markers / imaging clues | AFP may be elevated; arterial phase hyperenhancement with washout in appropriate at-risk patients | CA 19-9 may be elevated; imaging depends on intrahepatic/perihilar/distal subtype |
+**MALIGNANT HEPATIC TUMORS**
+- HEPATOCELLULAR CARCINOMA (HCC) CHOLANGIOCARCINOMA
+- Trabecular / Nesting pattern - Adenocarcinoma of bile ducts
+- HBV, HCV, Cirrhosis, Aflatoxin B1 - PSC, Liver flukes, Choledochal cysts
+- AFP elevated; Arterial enhancement + Venous washout - Desmoplastic stroma; CEA / CA 19-9
+
 #### 1. Hepatocellular Carcinoma (HCC)
 * **Epidemiology & Risk Factors**:
   * **Chronic Viral Hepatitis**: **HBV** (can cause HCC *without prior cirrhosis* via integration of HBx protein into host genome) and **HCV** (causes HCC almost exclusively via intermediate cirrhosis).

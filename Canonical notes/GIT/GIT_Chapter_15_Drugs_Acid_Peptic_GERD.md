@@ -22,13 +22,13 @@ Omeprazole, Esomeprazole (S-enantiomer), Pantoprazole, Rabeprazole, Lansoprazole
 
 ```mermaid
 flowchart TD
-  A["Plasma (pH 7.4) Parietal Cell Canaliculus (pH less than 2.0)"]
-  A --> N1["(Lipophilic PPI Prodrug)"]
-  N1 --> N2["Protonated"]
-  N2 --> N3["Reactive Sulfenamide"]
-  N3 --> N4["Covalent Disulfide Binding"]
-  N4 --> N5["Irreversible H+/K+-ATPase Inhibition"]
+    A["Lipophilic proton-pump inhibitor prodrug in plasma"] --> B["Diffuses into the acidic parietal-cell secretory canaliculus"]
+    B --> C["Protonation and conversion to a reactive sulfenamide"]
+    C --> D["Covalent disulfide-bond formation with cysteine residues on H+/K+-ATPase"]
+    D --> E["Irreversible inhibition of active proton pumps"]
+    E --> F["Reduced gastric acid secretion until new pumps are synthesized"]
 ```
+
 ### Adverse Effects & Long-Term Safety Profile
 1. **Malabsorption Complications**:
    * **Hypomagnesemia**: Impaired active intestinal absorption of magnesium via TRPM6 channels (presents with tremors, tetany, arrhythmias).
@@ -86,11 +86,16 @@ Famotidine, Ranitidine (withdrawn in many regions due to NDMA impurity), Cimetid
 
 Due to rising global resistance rates to Clarithromycin, first-line treatment selection is dictated by local resistance patterns.
 
-| Clinical context | Regimen described in the source notes |
-| --- | --- |
-| Higher local clarithromycin resistance or prior macrolide exposure | Bismuth quadruple therapy: PPI + bismuth + metronidazole + tetracycline; typically 14 days, subject to current local guidelines. |
-| Lower resistance and no prior macrolide exposure | Clarithromycin-based triple therapy: PPI + amoxicillin + clarithromycin; use only when local susceptibility guidance supports it. |
-| Penicillin allergy | Alternative regimen must be selected according to allergy history, resistance and current guideline recommendations. |
+**H. PYLORI ERADICATION STRATEGY**
+- Local Clarithromycin Resistance > 15% Local Clarithromycin Resistance < 15%
+- OR Prior Macrolide Exposure AND No Macrolide Exposure
+- BISMUTH QUADRUPLE THERAPY (14 Days) TRIPLE THERAPY (14 Days)
+- PPI (standard dose BID) - PPI (standard dose BID)
+- Bismuth Subsalicylate (524 mg QID) - Amoxicillin (1000 mg BID)
+- Metronidazole (500 mg TID-QID) - Clarithromycin (500 mg BID)
+- Tetracycline (500 mg QID) (If penicillin allergic: Swap
+- Amoxicillin for Metronidazole)
+
 ### Regimen Specifications (14-Day Duration Required)
 1. **Bismuth Quadruple Therapy (First-Line Standard)**:
    * PPI (e.g., Omeprazole $20\text{ mg}$ or Pantoprazole $40\text{ mg}$ BID)

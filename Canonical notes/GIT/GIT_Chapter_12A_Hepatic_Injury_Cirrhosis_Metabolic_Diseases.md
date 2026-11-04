@@ -32,12 +32,13 @@ tags:
 
 ```mermaid
 flowchart TD
-  A["Chronic Liver Injury (Viral, Alcohol, Metabolic) -greater than Activation of Hepatic Stellate (Ito) Cells"]
-  A --> N1["greater than Transformation to Myofibroblasts"]
-  N1 --> N2["Secretion of Type I & III Collagen in Space of Disse"]
-  N2 --> N3["greater than Loss of Sinusoidal Fenestrations ('Capillarization')"]
-  N3 --> N4["Portal HTN & Hepatic Dysfunction"]
+    A["Chronic liver injury: viral, alcohol-related or metabolic"] --> B["Activation of hepatic stellate (Ito) cells"]
+    B --> C["Transformation into collagen-producing myofibroblasts"]
+    C --> D["Type I and III collagen deposition in the space of Disse"]
+    D --> E["Sinusoidal capillarization and architectural distortion"]
+    E --> F["Increased intrahepatic resistance, portal hypertension and impaired hepatic function"]
 ```
+
 * **Cellular & Molecular Mechanics of Fibrosis**:
   * The central cell driving fibrogenesis is the **Hepatic Stellate Cell (Ito Cell)** located in the **Space of Disse**.
   * Chronic inflammatory cytokines (predominantly **Transforming Growth Factor-beta [TGF-$\beta$]**, PDGF, TNF-$\alpha$) activate quiescent vitamin A-storing Ito cells, transforming them into proliferative, contractile **myofibroblasts**.
@@ -78,11 +79,14 @@ Alcoholic liver disease encompasses three overlapping stages: **Steatosis** ($90
 
 ```mermaid
 flowchart TD
-  A["ATP7B Mutation -greater than Impaired Biliary Copper Excretion -greater than Hepatic Copper Accumulation"]
-  A --> N1["greater than Oxidative Damage"]
-  N1 --> N2["Toxic Copper Spillover"]
-  N2 --> N3["Brain (Putamen), Cornea (KF Rings), Kidney"]
+    A["ATP7B dysfunction"] --> B["Impaired biliary copper excretion"]
+    B --> C["Hepatic copper accumulation and oxidative injury"]
+    C --> D["Copper spillover into the circulation"]
+    D --> E["Brain: basal ganglia involvement"]
+    D --> F["Cornea: Kayser-Fleischer rings"]
+    D --> G["Kidney: tubular injury may occur"]
 ```
+
 * **Clinical Triad & Features**:
   1. *Hepatic*: Acute hepatitis, chronic active hepatitis, micronodular cirrhosis, or fulminant hepatic failure with Coombs-negative hemolytic anemia.
   2. *Neurological*: Parkinsonian extrapyramidal symptoms (resting tremor, rigidity, bradykinesia), dysarthria, dystonia, and **"Wing-beating" tremor**.
@@ -141,10 +145,14 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-  A["SERPINA1 Mutation (PiZZ) -greater than Misfolded AAT Protein in ER -greater than PAS+/Diastase-Resistant Glob…"]
-  A --> N1["greater than Hepatic Cirrhosis + Uninhibited Pulmonary Elastase"]
-  N1 --> N2["Panacinar Emphysema"]
+    A["SERPINA1 PiZZ variant"] --> B["Misfolded alpha-1 antitrypsin retained in hepatocyte endoplasmic reticulum"]
+    B --> C["PAS-positive, diastase-resistant hepatocyte globules"]
+    C --> D["Hepatocyte injury, fibrosis and cirrhosis"]
+    A --> E["Reduced circulating alpha-1 antitrypsin"]
+    E --> F["Unopposed neutrophil elastase activity in the lung"]
+    F --> G["Panacinar emphysema"]
 ```
+
 ---
 
 ## Index Coverage Checklist

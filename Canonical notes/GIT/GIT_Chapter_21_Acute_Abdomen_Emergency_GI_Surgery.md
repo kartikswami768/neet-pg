@@ -27,15 +27,13 @@ An acute perforated viscus represents a catastrophic surgical emergency resultin
 * **Radiographic Landmark**: **Erect Chest X-ray** demonstrating **pneumoperitoneum** (free gas under the diaphragm) in $>75–80\%$ of visceral perforations. On supine abdominal films, free air manifests as **Rigler sign** (visualization of both inner and outer margins of the bowel wall).
 * **Non-Contrast / Contrast CT Abdomen**: Gold standard when chest X-ray is negative but clinical suspicion remains high; localizes the exact site of perforation and identifies fluid collections.
 
-```mermaid
-flowchart TD
-  A["MANAGEMENT OF VISCERAL PERFORATION"]
-  A --> N1["HEMODYNAMIC RESUSCITATION EMERGENCY SURGERY"]
-  N1 --> N2["Isotonic crystalloid fluid boluses - Exploratory Laparotomy / Laparoscopy"]
-  N2 --> N3["Broad-spectrum IV antibiotics - Peritoneal lavage with warm saline"]
-  N3 --> N4["Nasogastric tube decompression - Primary repair + Graham Omental Patch"]
-  N4 --> N5["Urinary catheter monitoring (for perforated peptic ulcer)"]
-```
+**MANAGEMENT OF VISCERAL PERFORATION**
+- HEMODYNAMIC RESUSCITATION EMERGENCY SURGERY
+- Isotonic crystalloid fluid boluses - Exploratory Laparotomy / Laparoscopy
+- Broad-spectrum IV antibiotics - Peritoneal lavage with warm saline
+- Nasogastric tube decompression - Primary repair + Graham Omental Patch
+- Urinary catheter monitoring (for perforated peptic ulcer)
+
 * **Surgical Protocol**:
   1. Immediate aggressive fluid resuscitation and broad-spectrum IV antibiotics covering Gram-negative bacilli and anaerobes (e.g., Ceftriaxone + Metronidazole or Piperacillin-Tazobactam).
   2. Emergency Laparotomy or Laparoscopy.
@@ -111,11 +109,8 @@ Intestinal obstruction occurs when the normal flow of luminal contents is mechan
 | **Abdominal Distension** | Minimal (proximal SBO) to moderate | **Severe, marked peripheral distension** |
 | **Radiographic Appearance** | Dilated central loops ($>3\text{ cm}$), **valvulae conniventes** crossing full lumen width, multiple air-fluid levels | Dilated peripheral loops ($>6\text{ cm}$; cecum $>9\text{ cm}$), **haustra** partially crossing lumen |
 
-| Feature | Small-bowel obstruction | Large-bowel obstruction |
-| --- | --- | --- |
-| Typical location on plain film | More central loops | More peripheral colonic frame |
-| Mucosal folds | Valvulae conniventes cross the full lumen | Haustra cross only part of the lumen |
-| Typical pattern | Multiple central dilated loops; step-ladder arrangement may be seen | Peripheral colonic dilatation; haustral markings |
+**Key radiographic distinction:** In small-bowel obstruction, valvulae conniventes (plicae circulares) traverse the full width of the bowel lumen and the dilated loops are usually central. In large-bowel obstruction, haustra usually do not cross the entire lumen and the dilated colon is typically peripheral.
+
 ---
 
 ### B. Management Protocol
@@ -137,12 +132,13 @@ Acute Mesenteric Ischemia (AMI) is a life-threatening vascular emergency caused 
 
 ### A. Classification & Pathophysiology
 
-| Mechanism | Typical cause / feature listed |
-| --- | --- |
-| SMA embolism | Often cardiac source; embolus may lodge distal to the SMA origin |
-| SMA thrombosis | Underlying atherosclerosis with acute thrombosis near the SMA origin |
-| Non-occlusive mesenteric ischaemia (NOMI) | Low-flow state or vasoconstriction, often in shock or severe illness |
-| Mesenteric venous thrombosis (MVT) | Mesenteric vein thrombosis associated with hypercoagulability |
+**ACUTE MESENTERIC ISCHEMIA (AMI)**
+- SMA EMBOLISM (50%) SMA THROMBOSIS (25%) NOMI (20%) MVT (5%)
+- Cardiac source - Pre-existing atherosclerosis - Non-Occlusive - Mesenteric Vein
+- Embolus lodged - Acute clot at SMA origin Mesenteric Thrombosis
+- distal to MCA - Severe systemic disease Ischemia - Hypercoagulability
+- Vasospasm in shock
+
 1. **Superior Mesenteric Artery (SMA) Embolism (50%)**: Cardiac embolus (atrial fibrillation, post-MI mural thrombus, infective endocarditis) lodging in the SMA, usually distal to the origin of the middle colic artery, sparing the proximal jejunum.
 2. **SMA Thrombosis (25%)**: Acute thrombosis overlying chronic atherosclerotic plaque at the SMA origin (patients often give prior history of "intestinal angina").
 3. **Non-Occlusive Mesenteric Ischemia (NOMI) (20%)**: Splanchnic vasoconstriction secondary to low cardiac output, septic shock, or vasopressor therapy without physical arterial occlusion.

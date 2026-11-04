@@ -16,28 +16,17 @@ Dietary carbohydrates consist primarily of starches (amylose and amylopectin, ~5
 
 ```mermaid
 flowchart TD
-  A["CARBOHYDRATE DIGESTION & ABSORPTION"]
-  A --> N1["( Luminal Digestion )"]
-  N1 --> N2["Dietary Starch === (Salivary & Pancreatic Alpha-Amylase)"]
-  N2 --> N3["Maltose, Maltotriose,"]
-  N3 --> N4["Alpha-Limit Dextrins"]
-  N4 --> N5["( Brush Border Membrane Digestion )"]
-  N5 --> N6["Lactose ------------ (Lactase)"]
-  N6 --> N7["Glucose + Galactose"]
-  N7 --> N8["Sucrose ------------ (Sucrase-Isomaltase)"]
-  N8 --> N9["Glucose + Fructose"]
-  N9 --> N10["Maltose/Dextrins --- (Maltase / Isomaltase)"]
-  N10 --> N11["Glucose"]
-  N11 --> N12["( Enterocyte Membrane Transport )"]
-  N12 --> N13["APICAL BASOLATERAL"]
-  N13 --> N14["Glucose / Galactose"]
-  N14 --> N15["( SGLT-1 ) (Na+-dependent Active) --+"]
-  N15 --> N16["/"]
-  N16 --> N17["( GLUT-2 )"]
-  N17 --> N18["Blood"]
-  N18 --> N19["Fructose"]
-  N19 --> N20["( GLUT-5 ) (Facilitated Diff) ------+ (Facilitated)"]
+    A[Dietary starch] --> B[Salivary and pancreatic alpha-amylase]
+    B --> C[Maltose, maltotriose and alpha-limit dextrins]
+    C --> D[Brush-border disaccharidases]
+    D --> E[Glucose, galactose and fructose]
+    E --> F[SGLT1 transports glucose and galactose]
+    E --> G[GLUT5 transports fructose]
+    F --> H[Basolateral GLUT2]
+    G --> H
+    H --> I[Portal blood]
 ```
+
 ### 1. Enzymatic Breakdown
 * **Luminal Digestion**:
   * *Salivary $\alpha$-Amylase*: Initiates starch breakdown in the mouth; inactivated by gastric acid.
@@ -61,29 +50,13 @@ flowchart TD
 
 Dietary protein (~70–100 g/day) plus endogenous protein (digestive enzymes and desquamated enterocytes, ~30–50 g/day) is efficiently digested and absorbed with $>95\%$ efficiency in the small intestine.
 
-```mermaid
-flowchart TD
-  A["PROTEIN DIGESTION & ABSORPTION"]
-  A --> N1["( Gastric Digestion )"]
-  N1 --> N2["Protein === (Pepsinogen activated by HCl"]
-  N2 --> N3["Pepsin)"]
-  N3 --> N4["Large Polypeptides"]
-  N4 --> N5["( Luminal Pancreatic Digestion )"]
-  N5 --> N6["Endopeptidases (Trypsin, Chymotrypsin, Elastase) =greater than Small Oligopeptides"]
-  N6 --> N7["Exopeptidases (Carboxypeptidases A and B) =greater than Free Amino Acids + Di/Tripeptides"]
-  N7 --> N8["( Apical Enterocyte Transport )"]
-  N8 --> N9["Free Amino Acids"]
-  N9 --> N10["( Na+-Dependent AA Transporters ) (System B, etc.)"]
-  N10 --> N11["Di- and Tri-peptides"]
-  N11 --> N12["( PEPT1 ) (H+-Coupled Secondary Active - DOMINANT)"]
-  N12 --> N13["( Intracellular Hydrolysis )"]
-  N13 --> N14["Di/Tri-peptides === (Cytosolic Peptidases)"]
-  N14 --> N15["Free Amino Acids"]
-  N15 --> N16["( Basolateral Exit )"]
-  N16 --> N17["Free Amino Acids"]
-  N17 --> N18["( Facilitated AA Transporters )"]
-  N18 --> N19["Portal Blood"]
-```
+| Site / enzyme | Substrate / action | Main products |
+| --- | --- | --- |
+| Gastric pepsin | Denatures and cleaves dietary proteins in acidic conditions | Large peptides |
+| Pancreatic endopeptidases (trypsin, chymotrypsin, elastase) | Cleave internal peptide bonds | Smaller oligopeptides |
+| Pancreatic exopeptidases (carboxypeptidases A and B) | Remove terminal amino acids | Free amino acids and small peptides |
+| Brush-border and intracellular peptidases | Complete peptide hydrolysis | Amino acids |
+
 ### 1. Gastric Phase
 Hydrochloric acid (pH 1.5–2.5) denatures tertiary protein structures, exposing peptide bonds. Acid activates **Pepsinogen I/II** (released by chief cells) to active **Pepsin**. Pepsin is an endopeptidase targeting aromatic amino acid residues (phenylalanine, tyrosine, tryptophan). Accounts for 10–15% of total protein digestion.
 
@@ -113,25 +86,16 @@ Dietary lipids consist of Triacylglycerols (TAG, ~90%), Cholesterol Esters (~5%)
 
 ```mermaid
 flowchart TD
-  A["LIPID PROCESSING & CHYLOMICRON PATHWAY"]
-  A --> N1["( Emulsification & Luminal Digestion )"]
-  N1 --> N2["TAG + Phospholipids + Bile Salts === (Mechanical Churning)"]
-  N2 --> N3["Emulsion Droplets"]
-  N3 --> N4["Emulsion Droplets === (Pancreatic Lipase / Colipase)"]
-  N4 --> N5["2-MAG + Free Fatty Acids"]
-  N5 --> N6["( Mixed Micelle Delivery )"]
-  N6 --> N7["Bile Salts + 2-MAG + FFAs + Cholesterol"]
-  N7 --> N8["Mixed Micelles"]
-  N8 --> N9["Mixed Micelles cross Unstirred Water Layer"]
-  N9 --> N10["Diffusion across Apical Membrane"]
-  N10 --> N11["( Re-esterification & Chylomicron Secretion )"]
-  N11 --> N12["Enterocyte SER: 2-MAG + FFAs"]
-  N12 --> N13["Triacylglycerols (TAG)"]
-  N13 --> N14["Golgi Complex : TAG + ApoB-48 + Phospholipids"]
-  N14 --> N15["Chylomicrons"]
-  N15 --> N16["Exocytosis into Lacteals"]
-  N16 --> N17["Lymphatic System (Bypasses Liver)"]
+    A[Dietary triglycerides] --> B[Emulsification by bile salts]
+    B --> C[Pancreatic lipase with colipase]
+    C --> D[2-monoglycerides and free fatty acids]
+    D --> E[Mixed micelles]
+    E --> F[Enterocyte uptake]
+    F --> G[Re-esterification in smooth ER]
+    G --> H[Chylomicron assembly with ApoB-48]
+    H --> I[Lacteals and lymphatic circulation]
 ```
+
 ### 1. Digestion Phases
 * **Emulsification**: Biliary bile salts and phospholipids coat lipid droplets. Mechanical churning in stomach and duodenum breaks large fat globules into micro-emulsion droplets, increasing surface area for enzymatic attack.
 * **Enzymatic Hydrolysis**:
@@ -163,33 +127,29 @@ Fat-soluble vitamins depend entirely on mixed micellar solubilization for intest
 ### 2. Water-Soluble Vitamin & Mineral Mechanisms
 
 #### Vitamin $\text{B}_{12}$ (Cobalamin) Absorption Cascade
-1. **Stomach:** Gastric acid and pepsin release vitamin B12 from dietary proteins. Free B12 binds salivary haptocorrin (R-binder).
-2. **Duodenum:** Pancreatic proteases digest haptocorrin; vitamin B12 then binds intrinsic factor (IF) secreted by gastric parietal cells.
-3. **Terminal ileum:** The B12–IF complex resists luminal proteolysis and binds Cubam receptors on ileal enterocytes, followed by receptor-mediated endocytosis.
-4. **Blood:** Vitamin B12 is transferred to transcobalamin II for systemic transport.
+**Vitamin B12 absorption: sequence**
+
+1. Gastric acid and pepsin release cobalamin from dietary proteins.
+2. Cobalamin initially binds haptocorrin (R-binder).
+3. Pancreatic proteases digest haptocorrin in the duodenum, allowing cobalamin to bind intrinsic factor.
+4. The intrinsic factor–cobalamin complex reaches the terminal ileum and binds the cubilin–amnionless (Cubam) receptor.
+5. Receptor-mediated uptake is followed by transport in blood bound to transcobalamin II.
+
 #### Iron Absorption & Regulation
 
 ```mermaid
 flowchart TD
-  A["DUODENAL ENTEROCYTE IRON HANDLING"]
-  A --> N1["DUODENAL LUMEN ENTEROCYTE PORTAL BLOOD"]
-  N1 --> N2["Fe3+ -- (DCYTB)"]
-  N2 --> N3["Fe2+"]
-  N3 --> N4["( DMT-1 ) (Apical)"]
-  N4 --> N5["Heme"]
-  N5 --> N6["( HCP-1 )"]
-  N6 --> N7["Fe2+"]
-  N7 --> N8["+"]
-  N8 --> N9["Stored as Ferritin (Lost in feces when shed)"]
-  N9 --> N10["+"]
-  N10 --> N11["Exported via ( FERROPORTIN ) (Basolateral)"]
-  N11 --> N12["Fe2+ -- (Hephaestin)"]
-  N12 --> N13["Fe3+"]
-  N13 --> N14["Bound to Transferrin"]
-  N14 --> N15["( Hepatic Regulation ): Hepcidin (from liver) binds Ferroportin"]
-  N15 --> N16["Internalization & Degradation"]
-  N16 --> N17["greater than Blocks iron export into blood."]
+    A[Dietary non-heme Fe3+] --> B[Duodenal cytochrome b reduces Fe3+ to Fe2+]
+    B --> C[DMT1 transports Fe2+ into enterocyte]
+    C --> D{Intracellular fate}
+    D --> E[Storage as ferritin]
+    D --> F[Ferroportin exports iron]
+    F --> G[Hephaestin oxidizes Fe2+ to Fe3+]
+    G --> H[Transferrin transports iron in plasma]
+    I[Hepcidin] --> J[Promotes ferroportin degradation]
+    J -->|Reduces| F
 ```
+
 * **Absorption Site**: Exclusively in the **Duodenum** and proximal jejunum.
 * **Forms**:
   * *Heme Iron* (organ meats): Absorbed directly via Heme Carrier Protein 1 (HCP-1); highly bioavailable.

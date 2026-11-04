@@ -16,11 +16,18 @@ tags:
 * **Organism Characteristics**: *Helicobacter pylori* is a Gram-negative, microaerophilic, spiral/curved S-shaped bacillus possessing 4 to 6 lophotrichous coated flagella at one pole, enabling high-motility burrowing through the viscous gastric mucus layer.
 * **Niche & Colonization**: Exclusively colonizes the non-acid-secreting gastric mucosa (or gastric metaplasia in the duodenum). It resides within the juxta-mucosal mucus layer adjacent to epithelial cells, avoiding the highly acidic luminal environment (pH < 2.0).
 
-| Anatomical level | Key process / virulence factor |
-| --- | --- |
-| Gastric lumen | Low luminal pH; H. pylori survives by creating a locally less acidic microenvironment. |
-| Gastric mucus layer | Flagella facilitate movement through mucus; urease generates ammonia and carbon dioxide from urea. |
-| Gastric epithelial surface | Adhesins such as BabA/SabA support attachment; CagA is delivered by a type IV secretion system; VacA contributes to epithelial injury. |
+```mermaid
+flowchart TD
+    A["Acidic gastric lumen"] --> B["Gastric mucus layer with a rising pH gradient toward the epithelium"]
+    B --> C["Flagella allow Helicobacter pylori to move toward the less acidic surface"]
+    C --> D["Urease converts urea to ammonia and carbon dioxide, buffering local acid"]
+    D --> E["Adhesion to epithelial cells via BabA and SabA"]
+    E --> F["CagA delivery through a type IV secretion system"]
+    E --> G["VacA pore formation and cellular injury"]
+    F --> H["Epithelial dysfunction and inflammation"]
+    G --> H
+```
+
 ### Virulence Factors & Pathophysiology
 1. **Urease Enzyme**: Abundant surface-associated metalloenzyme containing nickel. Hydrolyzes luminal urea into ammonia ($\text{NH}_3$) and carbon dioxide ($\text{CO}_2$). The generated ammonia buffers gastric acid, forming a protective alkaline cloud ($\text{NH}_4^+$ halo) surrounding the bacterium. Ammonia also exerts direct cytotoxic damage to gastric epithelial cells.
 2. **Flagella**: Enables rapid motility in viscous mucus towards neutral pH zones near the epithelial surface.
@@ -50,11 +57,14 @@ tags:
 ### Classification Framework
 Enteric bacterial infections are classified based on pathogenic mechanisms into **Invasive / Inflammatory Dysentery**, **Secretory / Watery Diarrhea**, and **Pre-Formed Bacterial Intoxications**.
 
-| Clinical pattern | Organisms in the supplied outline |
-| --- | --- |
-| Invasive / dysenteric diarrhoea | Shigella dysenteriae; Salmonella enterica; Campylobacter jejuni; EHEC/STEC O157:H7; Entamoeba histolytica |
-| Secretory / watery diarrhoea | Vibrio cholerae; ETEC (LT/ST); Clostridioides difficile; EPEC/EAEC |
-| Pre-formed or food-associated toxin syndromes | Staphylococcus aureus; Bacillus cereus (emetic form); Clostridium perfringens |
+| Pathogenic pattern | Typical clinical picture | Representative organisms |
+| :--- | :--- | :--- |
+| **Invasive / inflammatory diarrhea (dysentery)** | Fever, abdominal pain, blood and/or mucus in stool; inflammatory cells may be present | *Shigella* spp., *Salmonella* spp., *Campylobacter jejuni*, EHEC/STEC, *Entamoeba histolytica* |
+| **Secretory / watery diarrhea** | High-volume watery stools; blood is usually absent | *Vibrio cholerae*, ETEC, *Clostridioides difficile* (which causes inflammatory colitis rather than a purely secretory syndrome) |
+| **Pre-formed or food-associated intoxication** | Often rapid onset after ingestion; vomiting or watery diarrhea depends on the organism and toxin | *Staphylococcus aureus*, *Bacillus cereus*, *Clostridium perfringens* |
+
+EPEC and EAEC are additional diarrheagenic *E. coli* pathotypes; they are generally associated with non-bloody diarrhea and should not be grouped with invasive dysentery pathogens.
+
 ---
 
 ### A. Invasive & Inflammatory Pathogens (Dysentery)
@@ -103,24 +113,17 @@ Enteric bacterial infections are classified based on pathogenic mechanisms into 
 #### 1. *Vibrio cholerae* (Serogroups O1 and O139)
 * **Microbiology**: Gram-negative, comma-shaped rod, oxidase-positive, highly motile via single polar flagellum. Grows in alkaline media; isolated on **TCBS (Thiosulfate-Citrate-Bile Salts-Sucrose)** agar forming yellow sucrose-fermenting colonies.
 * **Pathogenesis & Cholera Toxin Mechanism**:
-  ```
-  Vibrio cholerae attaches to enterocytes via Toxin-Coregulated Pili (TCP)
-                             |
-                  Secretes Cholera Toxin (AB5)
-                             |
-         B subunit binds GM1 ganglioside on enterocyte membrane
-                             |
-         A subunit endocytosed -> Translocates to cytosol
-                             |
-     ADP-ribosylates Gs-alpha subunit -> Permanently locks Gs in ACTIVE state
-                             |
-          Irreversible Activation of Adenylyl Cyclase
-                             |
-                   Intracellular cAMP surges
-                             |
-       PKA phosphorylates CFTR Chloride Channels on Apical Membrane
-                             |
-  Massive Cl- secretion into lumen -> Passive Na+ & H2O effusion -> Profuse Diarrhea
+  ```mermaid
+  flowchart TD
+      A["Vibrio cholerae attaches to enterocytes via toxin-coregulated pili"] --> B["Cholera toxin AB5 is released"]
+      B --> C["B subunit binds GM1 ganglioside"]
+      C --> D["A subunit enters the cell and reaches the cytosol"]
+      D --> E["ADP-ribosylation locks Gs-alpha in its active state"]
+      E --> F["Adenylyl cyclase remains activated"]
+      F --> G["Intracellular cAMP increases"]
+      G --> H["PKA activates CFTR-mediated chloride secretion"]
+      H --> I["Sodium and water follow into the intestinal lumen"]
+      I --> J["Profuse watery diarrhoea"]
   ```
 * **Clinical Presentation**: Sudden onset of massive, painless, non-offensive, translucent gray watery diarrhea containing flecks of mucus and epithelial cells (**"Rice-Water" Stools**). Stool output up to $1\text{ L/hour}$, rapidly leading to severe isotonic dehydration, hypovolemic shock, hypokalemia, and metabolic acidosis.
 * **Management**: Immediate aggressive **Oral Rehydration Salts (ORS)** (utilizes intestinal $\text{Na}^+/\text{Glucose}$ SGLT-1 co-transporter which remains intact). IV Ringer's Lactate for severe shock. Doxycycline or Azithromycin reduces stool duration and volume.

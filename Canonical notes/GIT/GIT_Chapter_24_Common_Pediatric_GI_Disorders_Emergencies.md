@@ -16,7 +16,7 @@ tags:
 Intussusception is defined as the invagination or "telescoping" of a proximal segment of the gastrointestinal tract (**intussuscipens**) into an adjacent distal bowel lumen (**intussuscipiens**). It represents the most common cause of intestinal obstruction in infants and young children aged **6 months to 36 months** (peak incidence: $6–12\text{ months}$), with a male predominance ($3:2$).
 
 ```mermaid
-graph TD
+flowchart TD
     A[Proximal Bowel Intussuscipens] -->|Invaginates into| B[Distal Bowel Intussuscipiens]
     B --> C[Mesenteric Vascular Compression]
     C --> D[Venous Stasis & Mucosal Edema]
@@ -25,6 +25,7 @@ graph TD
     D -->|Unrelieved Pressure| G[Arterial Compromise & Ischemic Necrosis]
     G --> H[Bowel Perforation & Peritonitis]
 ```
+
 ### Etiology & Pathogenesis
 * **Idiopathic Intussusception (90% of cases)**: Occurs predominantly in infants $<2$ years without a anatomical lead point. Strongly associated with preceding viral gastroenteritis or upper respiratory tract infections (especially **Adenovirus**, **Rotavirus**, or Human Herpesvirus 6). Viral infection causes reactive **hyperplasia of Peyer's patches** in the lymphoid-rich terminal ileum, which acts as a dynamic physiological lead point gripped by peristaltic waves.
 * **Pathological Lead Points (10% of cases)**: More common in children $>2$ years or $<3$ months. Specific structural abnormalities include:
@@ -57,13 +58,14 @@ As the intussuscipens invaginates, it drags its attached mesentery into the rece
   * Longitudinal View: **"Pseudokidney Sign"** or **"Sandwich Sign"**—elongated soft tissue mass resembling a kidney created by central hyperechoic mesentery surrounded by hypoechoic bowel wall.
 * **Plain Abdominal Radiography**: May show a dense soft-tissue mass in the RUQ, absence of cecal gas, or signs of mechanical small bowel obstruction (dilated loops with air-fluid levels).
 
-| Modality / decision | Key finding or point |
+| Evaluation Modality | Key Findings & Protocols |
 | --- | --- |
-| Transverse ultrasound | Target / doughnut sign |
-| Longitudinal ultrasound | Pseudokidney / sandwich appearance |
-| Non-operative reduction | Air (pneumatic) or saline/other hydrostatic enema under imaging guidance in suitable patients |
-| Do not attempt enema reduction when | Peritonitis, perforation or haemodynamic instability is present; urgent surgical assessment is required |
-| Surgical indications | Peritonitis, perforation, failed reduction or a concerning pathological lead point |
+| Transverse USG | "Target" / "Doughnut" Sign |
+| Longitudinal USG | "Pseudokidney" / "Sandwich" Sign |
+| Primary Non-Surgical Tx | Air (Pneumatic) or Hydrostatic (Fluoroscopic) Reduction |
+| Reduction Safety Limit | Air pressure MUST NOT exceed 120 mmHg |
+| Surgical Indications | Peritonitis, Perforation, Hemodynamic Shock, Lead Point |
+
 ### Management Protocol
 1. **Initial Resuscitation**: Fluid resuscitation with Normal Saline boluses, nasogastric tube decompression, and IV broad-spectrum antibiotics.
 2. **Non-Surgical Reduction (First-Line Treatment in Hemodynamically Stable Patients)**:
@@ -90,13 +92,14 @@ Meckel’s diverticulum is the most common congenital anomaly of the gastrointes
 * **Anatomical Structure**: A **true diverticulum** containing all three layers of the intestinal wall (mucosa, submucosa, muscularis propria). It arises from the antimesenteric border of the ileum, typically located within $2\text{ feet}$ ($60\text{ cm}$) of the ileocecal valve.
 
 ```mermaid
-graph TD
+flowchart TD
     A[Incomplete Obliteration of Vitelline Duct - Week 5-8] --> B[Meckel's Diverticulum on Antimesenteric Ileum]
     B --> C[Presence of Ectopic Gastric Mucosa - 50%]
     C --> D[Parietal Cells Secretes HCl into Ileal Lumen]
     D --> E[Ulceration of Adjacent Normal Ileal Mucosa]
     E --> F[Painless Profuse Lower GI Hemorrhage]
 ```
+
 ### The Classic "Rule of 2s"
 * **2%** prevalence in the global population.
 * **2:1** male-to-female predominance in symptomatic cases.
@@ -149,14 +152,12 @@ Biliary atresia is a progressive, idiopathic fibro-inflammatory disease of infan
 * **Dark Urine**: Conjugated (direct) bilirubin is water-soluble and excreted in urine, staining diapers dark brown/tea-colored.
 * **Physical Exam**: Progressive hepatomegaly, splenomegaly (developing secondary to portal hypertension), failure to thrive, and fat-soluble vitamin deficiencies (Vitamins A, D, E, K).
 
-```mermaid
-flowchart TD
-  A["Neonatal Jaundice Persisting greater than 14 Days + Acholic Stools + Dark Urine"]
-  A --> N1["Fractionated Bilirubin: Direct greater than 20% Total"]
-  N1 --> N2["Abdominal USG: 'Triangular Cord Sign' at Porta"]
-  N2 --> N3["Percutaneous Liver Biopsy (Ductular Proliferation)"]
-  N3 --> N4["Emergency Intraoperative Cholangiogram & Kasai Surgery"]
-```
+- Neonatal Jaundice Persisting > 14 Days + Acholic Stools + Dark Urine
+- Fractionated Bilirubin: Direct > 20% Total
+- Abdominal USG: "Triangular Cord Sign" at Porta
+- Percutaneous Liver Biopsy (Ductular Proliferation)
+- Emergency Intraoperative Cholangiogram & Kasai Surgery
+
 ### Diagnostic Evaluation
 1. **Fractionated Serum Bilirubin**: Confirms **conjugated (direct) hyperbilirubinemia** (Direct bilirubin $>1.0\text{ mg/dL}$ if total $<5\text{ mg/dL}$, or direct $>20\%$ of total bilirubin). Elevated ALP and GGT.
 2. **Abdominal Ultrasonography (Fastes Patient)**:
@@ -174,12 +175,13 @@ flowchart TD
 * **Kasai Hepatoportoenterostomy**: The definitive initial palliative operation. The fibrotic extrahepatic biliary tissue at the porta hepatis is dissected and excised down to the liver capsule, exposing microscopic patent ductules. A $40–50\text{ cm}$ Roux-en-Y jejunal loop is created and anastomosed directly to the fibrous transected surface of the porta hepatis to restore bile drainage.
 
 ```mermaid
-graph TD
+flowchart TD
     A[Kasai Hepatoportoenterostomy Dissection] --> B[Excision of Fibrotic Extrahepatic Biliary Cone]
     B --> C[Exposition of Microscopic Trans-Capsular Ductules at Porta]
     C --> D[Roux-en-Y Jejunal Loop Anastomosis to Porta Hepatis]
     D --> E[Restoration of Bile Flow into Intestine]
 ```
+
 * **The Critical "60-Day" Rule**: Prognosis is strictly dependent on **age at surgery**.
   * Surgery performed at **$<60\text{ days}$ of life**: Bile flow restored in $>70–80\%$ of infants.
   * Surgery performed at **$>90\text{ days}$ of life**: Success drops to $<20\%$ due to irreversible intrahepatic biliary cirrhosis and portal hypertension.

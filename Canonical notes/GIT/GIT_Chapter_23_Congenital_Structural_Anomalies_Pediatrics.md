@@ -16,7 +16,7 @@ tags:
 Tracheoesophageal fistula (TEF) and esophageal atresia (EA) result from incomplete septation and lateral ingrowth of the tracheoesophageal folds in the primitive foregut during the $4^{\text{th}}$ to $5^{\text{th}}$ week of embryonic development. Normally, the tracheoesophageal septum divides the foregut into a ventral respiratory tract (laryngotracheal tube) and a dorsal digestive tract (esophagus). Interruption of this mechanical partitioning or vascular insufficiency during rapid foregut elongation leads to blind esophageal pouches and abnormal fistulous communications with the trachea.
 
 ```mermaid
-graph TD
+flowchart TD
     A[Primitive Foregut - 4th Week] --> B{Lateral Tracheoesophageal Folds}
     B -->|Normal Fusion| C[Ventral Laryngotracheal Tube & Dorsal Esophagus]
     B -->|Defective Septation| D[Blind Esophageal Pouch + Tracheal Fistula]
@@ -24,6 +24,7 @@ graph TD
     E --> F[Polyhydramnios]
     D -->|Postnatal Feeding| G[Coughing, Choking, Cyanosis, Gastric Distension]
 ```
+
 ### Anatomical Classification (Vogt & Gross Classification)
 * **Gross Type C / Vogt IIIb (85% - Most Common)**: Blind proximal esophageal atresia with a fistulous connection between the distal esophageal segment and the posterior wall of the lower trachea or carina.
 * **Gross Type A / Vogt II (8%)**: Isolated Esophageal Atresia without TEF ("Pure Atresia"). Characterized by a wide gap between blind proximal and distal pouches and a completely gasless abdomen on X-ray.
@@ -90,18 +91,15 @@ $$\text{Loss of Gastric } \text{HCl} \longrightarrow \text{Hypochloremic, Hypoka
 
 ```mermaid
 flowchart TD
-  A["Vomiting of Gastric Juice (HCl + KCl)"]
-  A --> N1["├"]
-  N1 --> N2["Loss of H+ & Cl"]
-  N2 --> N3["Hypochloremic Metabolic Alkalosis"]
-  N3 --> N4["└"]
-  N4 --> N5["Hypovolemia"]
-  N5 --> N6["RAAS Activation"]
-  N6 --> N7["Distal Na+ Reabsorption"]
-  N7 --> N8["Excretion of K+ and H+"]
-  N8 --> N9["Severe Hypokalemia &"]
-  N9 --> N10["Paradoxical Aciduria"]
+    A["Persistent vomiting of gastric contents"] --> B["Loss of hydrochloric acid and chloride"]
+    B --> C["Hypochloremic metabolic alkalosis"]
+    B --> D["Volume depletion"]
+    D --> E["RAAS activation and increased aldosterone effect"]
+    E --> F["Renal sodium reabsorption with increased potassium and hydrogen ion loss"]
+    F --> G["Hypokalemia"]
+    F --> H["Paradoxical aciduria"]
 ```
+
 ### Diagnostic Evaluation
 * **Ultrasonography (Diagnostic Investigation of Choice)**:
   * Pyloric muscle thickness $\ge 3.0–4.0\text{ mm}$ (most specific single measure).
@@ -114,7 +112,7 @@ flowchart TD
   * **"Beak Sign" / "Mushroom Sign"**: Indentation of the hypertrophied pylorus into the antrum and duodenal bulb.
 
 ```mermaid
-graph TD
+flowchart TD
     A[Infant 3-6 wks with Projectile Non-Bilious Vomiting] --> B[Abdominal Exam for Olive Mass]
     B --> C[Abdominal Ultrasonography]
     C -->|Pyloric Thickness >= 3-4mm & Canal Length >= 14mm| D[CHPS Confirmed]
@@ -122,6 +120,7 @@ graph TD
     E --> F[IV Resuscitation: Normal Saline + KCl]
     F -->|Electrolytes & pH Normalized| G[Ramstedt Extramucosal Pyloromyotomy]
 ```
+
 ### Management Protocol
 * **Resuscitation First (Crucial Surgical Rule)**: CHPS is a **medical emergency, NOT an immediate surgical emergency**. Operation must never be performed until dehydration, electrolyte imbalances, and metabolic alkalosis are fully corrected.
   * Fluid resuscitation with $0.9\%\text{ Normal Saline}$ boluses ($10–20\text{ mL/kg}$), followed by maintenance $D_5 0.45\%\text{ NS}$ with $20–30\text{ mEq/L KCl}$ once urinary output is established.
@@ -142,12 +141,13 @@ Intestinal atresia refers to congenital complete occlusion of the intestinal lum
 * **Radiography**: Abdominal X-ray demonstrates the pathognomonic **"Double-Bubble Sign"**—representing air trapping in the dilated stomach and proximal duodenal bulb, with an complete absence of gas in the distal distal small and large intestine.
 * **Management**: Nasogastric decompression, IV hydration, and surgical bypass via **Duodenoduodenostomy** (side-to-side or diamond-shaped).
 
-| Feature | Duodenal atresia | Jejunoileal atresia |
+| Feature | Duodenal Atresia | Jejunoileal Atresia |
 | --- | --- | --- |
-| Pathogenesis | Failure of recanalisation | In-utero vascular disruption |
-| Associated conditions | Down syndrome and other congenital anomalies | May be associated with gastroschisis or cystic fibrosis |
-| Radiograph | Double-bubble sign; distal gas may be absent | Multiple dilated bowel loops / air-fluid levels |
-| Surgery | Duodenoduodenostomy is commonly used | Resection of atretic segment with primary anastomosis when feasible |
+| Primary Pathogenesis | Failure of recanalization | In utero vascular accident |
+| Associated Conditions | Down Syndrome (Trisomy 21 | Gastroschisis, Cystic fibrosis |
+| Characteristic Radiograph | "Double-Bubble" sign | Multiple air-fluid levels |
+| Surgical Management | Duodenoduodenostomy | Resection & primary anastomosis |
+
 #### 2. Jejunoileal Atresia
 * **Pathophysiology**: Caused by an **in utero vascular accident** (e.g., volvulus, intussusception, internal hernia, or thromboembolism involving branches of the superior mesenteric artery), leading to ischemic necrosis, resorption of the sterile fetal bowel, and a blind-ending proximal and distal bowel loop.
 * **Morphological Types**:
@@ -166,7 +166,7 @@ Intestinal atresia refers to congenital complete occlusion of the intestinal lum
 Hirschsprung disease is characterized by the **absence of intramural ganglion cells** (Meissner submucosal and Auerbach myenteric plexuses) in the distal gastrointestinal tract.
 
 ```mermaid
-graph TD
+flowchart TD
     A[Failure of Neural Crest Cell Migration - Weeks 5-12] --> B[Aganglionic Distal Bowel Segment]
     B --> C[Loss of Inhibitory NO/VIP Neurotransmitters]
     C --> D[Continuous Unopposed Smooth Muscle Contraction]
@@ -174,6 +174,7 @@ graph TD
     E --> F[Proximal Normal Bowel Hypertrophy & Dilation]
     F --> G[Aganglionic Segment Appears Contracted / Normal Segment Dilated]
 ```
+
 * **Embryology**: Results from an arrest of the craniocaudal migration of neural crest cells along the alimentary tract between the $5^{\text{th}}$ and $12^{\text{th}}$ weeks of gestation. Aganglionosis always starts at the anus and extends proximally for a variable distance.
 * **Genetics**: Strongly linked to loss-of-function mutations in the **RET proto-oncogene** (chromosome 10q11.2) in 50% of familial and 15–20% of sporadic cases. Associated with Trisomy 21 and MEN 2A/2B.
 * **Anatomical Subtypes**:
@@ -202,12 +203,13 @@ graph TD
      * Presence of **hypertrophied, thick, wavy non-myelinated cholinergic nerve trunks**.
      * **Acetylcholinesterase (AChE) Histochemistry**: Demonstrates intense dark staining due to prominent AChE-positive nerve fiber proliferation in the lamina propria and submucosa.
 
-| Diagnostic modality | Characteristic finding |
+| Diagnostic Modality | Pathognomonic Finding |
 | --- | --- |
-| Contrast enema | Transition zone with narrow distal aganglionic bowel and dilated proximal bowel; may be absent in neonates |
-| Anorectal manometry | Absent rectoanal inhibitory reflex (RAIR); supportive, not definitive alone |
-| Rectal suction biopsy | Absence of ganglion cells with hypertrophied nerve trunks; diagnostic histology |
-| Acetylcholinesterase staining | Increased acetylcholinesterase-positive nerve fibres in the lamina propria/mucosa |
+| Barium Enema | Cone-shaped Transition Zone (Narrow distal segment / dilated proximal colon) |
+| Anorectal Manometry | Absence of Rectoanal Inhibitory Reflex (RAIR) |
+| Rectal Suction Biopsy | ABSENCE of ganglion cells + Hypertrophied nerve trunks |
+| AChE Staining | Diffuse hyperplastic AChE-positive mucosal nerve fibers |
+
 #### Surgical Management
 * **Stage 1 (If HAEC or severe obstruction present)**: Emergency decompression with levelling colostomy in the ganglionic bowel segment.
 * **Definitive Single-Stage / Two-Stage Surgery**: Resection of the entire aganglionic segment and pull-through of healthy ganglionic bowel down to the distal rectum ($1\text{ cm}$ above dentate line):

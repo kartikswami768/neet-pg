@@ -19,13 +19,14 @@ The liver is the largest visceral organ in the body, located in the right hypoch
 * **Couinaud Functional Segmentation**: Divides the liver into **8 functional segments**, each operating as an independent unit with its own vascular inflow (portal vein branch and hepatic artery branch), biliary drainage, and central hepatic venous outflow [21, 55, 56].
   * **Cantlie's Line (Cholecystocaval Line)**: An imaginary line drawn from the gallbladder fossa to the IVC (corresponds to the middle hepatic vein) [21, 56]. Divides the liver into functional Right and Left Hemilivers [21, 56].
 
-| Couinaud region | Segments |
+| Hemiliver / segment | Couinaud segments |
 | --- | --- |
 | Right anterior sector | V and VIII |
 | Right posterior sector | VI and VII |
-| Left lateral sector | II and III |
 | Left medial sector | IVa and IVb |
-| Caudate lobe | I; functionally independent, with direct venous drainage to the IVC |
+| Left lateral sector | II and III |
+| Caudate lobe | I; functionally independent with direct venous drainage to the IVC |
+
 ### Surfaces & Peritoneal Relations
 * **Bare Area of the Liver**: Triangular area on the posterior surface lacking visceral peritoneum; bounded by the upper and lower layers of the coronary ligament. Direct contact with diaphragm.
 * **Visceral Impressions**: Gastric, duodenal, renal (right kidney), suprarenal, and colic (hepatic flexure) impressions.
@@ -36,11 +37,12 @@ The porta hepatis is the deep transverse fissure on the visceral surface of the 
 2. **Proper Hepatic Artery** (left anterior) [2, 51].
 3. **Portal Vein** (posterior) [2, 51].
 
-| Structure | Position at porta hepatis |
+| Porta hepatis structure | Relative position |
 | --- | --- |
-| Right hepatic duct / common hepatic duct | Anterior and to the right |
-| Proper hepatic artery | Anterior and to the left |
+| Proper hepatic artery | Anterior-left |
+| Common hepatic duct / bile duct | Anterior-right |
 | Portal vein | Posterior |
+
 ---
 
 ## 4.2 Biliary Apparatus
@@ -62,12 +64,13 @@ Crucial anatomical space dissected during cholecystectomy [58]:
 | **Inferior / Lateral Boundary** | **Cystic Duct** [58] |
 | **Primary Content** | **Cystic Artery** (branch of right hepatic artery) [58], Lund's node |
 
-| Hepatobiliary triangle boundary | Structure |
+| Hepatobiliary triangle (Calot / hepatocystic triangle) | Boundary / content |
 | --- | --- |
-| Superior | Inferior surface/edge of liver |
+| Superior | Inferior surface of the liver |
 | Medial | Common hepatic duct |
-| Inferior / lateral | Cystic duct |
-| Typical content | Cystic artery; cystic lymph node (Lund node) may also be present |
+| Inferolateral | Cystic duct |
+| Important content | Cystic artery; cystic (Lund) lymph node may be present |
+
 * **Moynihan's Hump**: Tortuous "caterpillar turn" of the right hepatic artery within Calot's triangle, vulnerable to accidental ligation during cholecystectomy [19].
 
 ### Common Bile Duct (CBD) & Sphincter of Oddi
@@ -90,11 +93,11 @@ The pancreas is an elongated, secondary retroperitoneal organ ($L_1–L_2$ level
 
 ```mermaid
 flowchart TD
-  A["Portal Vein Formation"]
-  A --> N1["Splenic Vein + Superior Mesenteric Vein (SMV)"]
-  N1 --> N2["(Behind Neck of Pancreas / 'Tunnel of Love')"]
-  N2 --> N3["PORTAL VEIN"]
+    A[Splenic vein] --> C[Portal vein]
+    B[Superior mesenteric vein] --> C
+    C --> D[Union posterior to the neck of the pancreas]
 ```
+
 ---
 
 ## 4.4 Spleen
@@ -125,12 +128,13 @@ The spleen is a wedge-shaped lymphoid organ situated in the left hypochondrium.
 ### Epiploic Foramen of Winslow
 The unique anatomical communication between the Greater Sac and Lesser Sac [2, 3, 50].
 
-| Boundary of epiploic (omental) foramen | Structure |
+| Boundary of the epiploic foramen | Structure |
 | --- | --- |
 | Anterior | Hepatoduodenal ligament containing the portal triad |
-| Posterior | Inferior vena cava (IVC) |
-| Superior | Caudate lobe of liver |
-| Inferior | First part of duodenum |
+| Posterior | Inferior vena cava |
+| Superior | Caudate lobe of the liver |
+| Inferior | First part of the duodenum |
+
 ### Retroperitoneal Classification (SAD PUCKER Mnemonic)
 Structures situated posterior to the parietal peritoneum [32]:
 

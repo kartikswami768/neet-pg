@@ -25,13 +25,14 @@ Gastrointestinal endoscopy utilizes flexible fiberoptic or video-endoscopes equi
   * Key Quality Indicators: Adequate bowel preparation (Boston Bowel Preparation Scale $\ge 6$), Cecal Intubation Rate ($\ge 95\%$), and **Adenoma Detection Rate (ADR)** ($\ge 25\%$ in screening exams).
 
 ```mermaid
-graph TD
+flowchart TD
     A[Endoscopic Diagnostic Identification] --> B{Mucosal Pathology Identified}
     B -->|Active Bleeding| C[Hemostasis: Injection + Hemoclip + Thermal]
     B -->|Pedunculated/Sessile Polyp| D[Polypectomy / EMR]
     B -->|Superficial Early Neoplasm| E[Endoscopic Submucosal Dissection - ESD]
     B -->|Luminal Stricture| F[Through-The-Scope Balloon Dilation]
 ```
+
 ### Therapeutic Endoscopic Interventions
 1. **Endoscopic Hemostasis (Upper/Lower GI Bleeding)**:
    * *Injection Therapy*: Submucosal epinephrine ($1:10,000$ dilution) induces local vasoconstriction and initial mechanical tamponade; must always be combined with a second modality.
@@ -59,13 +60,14 @@ ERCP combines side-viewing flexible duodenoscopy with real-time fluoroscopic ima
   * Pancreatic ductal strictures, stone clearance, or pseudocyst management.
 
 ```mermaid
-graph TD
+flowchart TD
     A[Side-Viewing Duodenoscope Passed to 2nd Part of Duodenum] --> B[Identification of Major Papilla of Vater]
     B --> C[Cannulation of CBD / Pancreatic Duct with Sphincterotome]
     C --> D[Contrast Injection under Fluoroscopy - Cholangiogram]
     D --> E[Endoscopic Sphincterotomy - Cutting Sphincter of Oddi]
     E --> F[Therapeutic Stone Extraction Balloon/Basket or Stent Placement]
 ```
+
 ### Key Procedural Steps
 1. The side-viewing scope is advanced to the $2^{\text{nd}}$ part of the duodenum to align with the **Major Papilla of Vater**.
 2. A guidewire-loaded sphincterotome selectively cannulates the common bile duct (or main pancreatic duct).
@@ -97,13 +99,14 @@ Endoscopic Ultrasound (EUS) incorporates a high-frequency ultrasound transducer 
   4. Layer 4 (Hypoechoic): Muscularis propria
   5. Layer 5 (Hyperechoic): Serosa / Adventitia
 
-| EUS wall layer | Echogenicity | Histological correlate / example |
+| Layer | Echogenicity | Histological Correlate |
 | --- | --- | --- |
-| Layer 1 | Hyperechoic | Superficial mucosa / interface |
-| Layer 2 | Hypoechoic | Deep mucosa and muscularis mucosae |
-| Layer 3 | Hyperechoic | Submucosa; lipomas commonly arise here |
-| Layer 4 | Hypoechoic | Muscularis propria; GISTs and leiomyomas may arise here |
-| Layer 5 | Hyperechoic | Serosa / adventitia |
+| Layer 1 | Hyperechoic (White) | Superficial Mucosa / Interface |
+| Layer 2 | Hypoechoic (Dark) | Deep Mucosa & Muscularis Mucosae |
+| Layer 3 | Hyperechoic (White) | Submucosa (Origin of lipomas) |
+| Layer 4 | Hypoechoic (Dark) | Muscularis Propria (Origin of GISTs/Leiomyomas) |
+| Layer 5 | Hyperechoic (White) | Serosa / Adventitia |
+
 ### Key Clinical Applications
 1. **Locoregional Staging of GI Malignancies**:
    * Precise T-staging (depth of wall invasion) and N-staging (regional lymph node involvement) for esophageal, gastric, pancreatic, and rectal cancers.
@@ -114,13 +117,14 @@ Endoscopic Ultrasound (EUS) incorporates a high-frequency ultrasound transducer 
    * Differentiates intramural tumors by layer of origin (e.g., GISTs arise from Layer 4 hypoechoic muscularis propria; Lipomas arise from Layer 3 hyperechoic submucosa).
 
 ```mermaid
-graph TD
+flowchart TD
     A[EUS High-Resolution Transmural Visualization] --> B{Clinical Objective}
     B -->|Pancreatic Mass / Lymph Node| C[EUS-FNA / FNB Tissue Acquisition]
     B -->|Symptomatic Pancreatic Pseudocyst| D[EUS-Guided Cystgastrostomy with LAMS]
     B -->|Obstructive Jaundice + Failed ERCP| E[EUS-Guided Biliary Drainage]
     B -->|Refractory Pancreatic Pain| F[EUS-Guided Celiac Plexus Neurolysis]
 ```
+
 ### Interventional EUS Procedures
 * **EUS-Guided Fine-Needle Aspiration / Biopsy (EUS-FNA / FNB)**:
   * Real-time needle advancement across the GI wall into solid pancreatic masses, retroperitoneal lymph nodes, or mediastinal lesions under Doppler vascular guidance.

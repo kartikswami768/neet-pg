@@ -31,12 +31,12 @@ Gastritis refers to histologically proven mucosal inflammation, whereas gastropa
 
 ### B. Chronic Gastritis: Autoimmune (Type A) vs. *H. pylori* (Type B)
 
-| Feature | Autoimmune gastritis (Type A) | H. pylori-associated gastritis (Type B) |
-| --- | --- | --- |
-| Predominant site | Body and fundus | Antrum-predominant initially; may become pangastritis |
-| Mechanism / marker | Autoantibodies against parietal cells and intrinsic factor | H. pylori colonisation of gastric mucus; chronic active inflammation |
-| Acid physiology | Parietal-cell loss → hypochlorhydria/achlorhydria; hypergastrinaemia | Variable acid output; antral-predominant disease may increase acid drive |
-| Important consequences | Vitamin B12 deficiency/pernicious anaemia; increased risk of gastric neoplasia and type 1 gastric NET | Peptic ulcer disease, gastric adenocarcinoma and gastric MALT lymphoma |
+**CHRONIC GASTRITIS CLASSIFICATION**
+- AUTOIMMUNE (TYPE A) H. PYLORI (TYPE B)
+- Fundus & Body - Antrum (Primary)
+- Anti-Parietal & Anti-IF Abs - Microaerophilic spiral rod
+- Achlorhydria + Pernicious Anemia - Peptic Ulcer Disease & MALToma
+
 | Feature | Autoimmune Gastritis (Type A) | *H. pylori* Gastritis (Type B) |
 | :--- | :--- | :--- |
 | **Anatomical Location** | **Body and Fundus** (spares Antrum) | **Antrum** (antral-predominant; can spread to body as pangastritis) |
@@ -67,11 +67,9 @@ Gastritis refers to histologically proven mucosal inflammation, whereas gastropa
 
 Chronic mucosal ulceration penetrating through the **muscularis mucosae** into the submucosa or deeper, driven by an imbalance between gastroduodenal mucosal aggressive factors ($\text{HCl}$, pepsin, *H. pylori*, NSAIDs) and protective defenses (mucus, bicarbonate, prostaglandins, mucosal blood flow).
 
-```mermaid
-flowchart TD
-  A["Aggressive Factors (Acid, Pepsin, H. pylori, NSAIDs) greater than greater than greater than Protective Factor…"]
-  A --> N1["Peptic Ulceration"]
-```
+- Aggressive Factors (Acid, Pepsin, H. pylori, NSAIDs) >>> Protective Factors (Mucus, HCO3-, PGE2, Blood Flow)
+- Peptic Ulceration
+
 ### A. Comparison of Gastric vs. Duodenal Ulcers
 
 | Parameter | Gastric Ulcer (GU) | Duodenal Ulcer (DU) |
@@ -112,11 +110,12 @@ flowchart TD
 ### B. Gastric Adenocarcinoma
 Second leading cause of cancer mortality worldwide. Classified by the **Lauren Classification** into Intestinal and Diffuse types.
 
-| Feature | Intestinal type | Diffuse type |
-| --- | --- | --- |
-| Cellular pattern | Cohesive malignant cells forming glands | Non-cohesive cells, often signet-ring cells |
-| Molecular association | Often associated with chronic H. pylori gastritis and intestinal metaplasia | Loss of E-cadherin function; CDH1 alterations in some cases |
-| Gross pattern | Exophytic, polypoid or ulcerated mass | Diffuse wall infiltration with rigid “leather-bottle” linitis plastica |
+**GASTRIC ADENOCARCINOMA**
+- INTESTINAL TYPE DIFFUSE TYPE
+- Cohesive glandular structures - Signet-ring cells (mucin-filled)
+- Associated with H. pylori & metaplasia - E-cadherin (CDH1) loss
+- Exophytic / Ulcerated mass - "Leather-bottle" Linitis Plastica
+
 | Feature | Intestinal-Type Adenocarcinoma | Diffuse-Type Adenocarcinoma |
 | :--- | :--- | :--- |
 | **Epidemiology** | Dominates in high-risk geographic areas (Japan, South America, China); older males ($>55$ yrs) | Uniform global distribution; younger patients ($<40$ yrs); equal male/female incidence |

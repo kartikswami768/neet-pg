@@ -14,16 +14,20 @@ Peptic Ulcer Disease (PUD) encompasses mucosal defects penetrating through the m
 
 ### A. Diagnostic Approach to Dyspepsia & Indication Criteria
 
-```mermaid
-flowchart TD
-A[Uninvestigated dyspepsia] --> B{Alarm feature or older age threshold per local guideline?}
-B -->|Yes| C[Upper GI endoscopy with biopsy when indicated]
-B -->|No| D[Non-invasive H. pylori test-and-treat strategy]
-D --> E{H. pylori positive?}
-E -->|Yes| F[Guideline-concordant eradication regimen]
-E -->|No| G[Trial of PPI therapy and reassess response]
-F --> H[Confirm eradication with an appropriate test after treatment]
-```
+**CLINICAL MANAGEMENT OF DYSPEPSIA**
+- AGE > 55 YEARS OR ALARM FEATURES PRESENT AGE < 55 YEARS WITHOUT ALARM FEATURES
+- Progressive dysphagia / odynophagia
+- Persistent / recurrent vomiting v
+- Unexplained weight loss (>10%) "TEST-AND-TREAT" STRATEGY
+- GI bleeding or iron-deficiency anemia
+- Palpable abdominal mass / lymphadenopathy
+- Family history of GI malignancy
+- v H. PYLORI POSITIVE H. PYLORI NEGATIVE
+- URGENT UPPER ENDOSCOPY (EGD)
+- (With gastric mucosal biopsies) v v
+- 14-Day Eradication Trial of Empiric
+- Therapy PPI for 4-8 Weeks
+
 #### 1. "Test-and-Treat" Strategy
 Indicated in uninvestigated dyspeptic patients aged **$<55$ years** (or $<45–60$ years depending on local gastric cancer incidence) **without alarm features**.
 * Non-invasive testing for *H. pylori* via **Urea Breath Test (UBT)** or **Stool Antigen Test (SAT)**.
@@ -63,13 +67,15 @@ Inflammatory Bowel Disease (IBD) comprises **Ulcerative Colitis (UC)** and **Cro
 
 ### A. Phenotypic Differentiation & Disease Activity Assessment
 
-| Feature | Ulcerative colitis | Crohn disease |
-| --- | --- | --- |
-| Distribution | Colon; continuous disease beginning in the rectum | Any GI segment; skip lesions; terminal ileum/ileocolon common |
-| Depth | Mucosal and submucosal | Transmural |
-| Gross pattern | Diffuse friability, pseudopolyps and loss of haustra | Cobblestoning, fissures, strictures and creeping fat |
-| Histology | Cryptitis and crypt abscesses | Non-caseating granulomas in a subset |
-| Complications | Toxic megacolon, severe bleeding and colorectal cancer risk | Fistulae, strictures, obstruction, perianal disease and malabsorption |
+**INFLAMMATORY BOWEL DISEASE (IBD)**
+- ULCERATIVE COLITIS (UC) CROHN DISEASE (CD)
+- Mucosal & Submucosal only - Transmural (full thickness)
+- Continuous from Rectum proximally - Mouth to Anus; Skip lesions
+- Symmetrical circumferential - Asymmetrical, cobblestoning
+- Spares upper GI & small bowel - Terminal ileum most common
+- Crypt abscesses, pseudopolyps - Non-caseating granulomas
+- Cured by colectomy - Recurs post-surgery
+
 #### 1. Ulcerative Colitis Activity: Truelove and Witts Criteria
 Used to grade acute UC severity to guide hospitalization and rescue therapy decisions:
 
@@ -85,12 +91,17 @@ Used to grade acute UC severity to guide hospitalization and rescue therapy deci
 
 ### B. Therapeutic Algorithms (Step-Up vs. Top-Down)
 
-| Therapeutic group | Examples | Typical role / caveat |
-| --- | --- | --- |
-| 5-aminosalicylates | Mesalamine, sulfasalazine | Useful in selected mild-to-moderate ulcerative colitis; not a universal Crohn therapy. |
-| Corticosteroids | Prednisone, budesonide | Induction for flares; avoid for long-term maintenance. |
-| Immunomodulators | Azathioprine, 6-MP, methotrexate | Selected steroid-sparing or maintenance role; delayed onset and toxicity monitoring. |
-| Biologics / small molecules | Anti-TNF agents, vedolizumab, ustekinumab, JAK inhibitors and S1P modulators | Selected moderate-to-severe disease; choice depends on phenotype, safety and prior treatment. |
+**IBD THERAPEUTIC STEP-UP PYRAMID**
+- / \ BIOLOGICS & SMALL MOLECULES
+- / \ (Anti-TNF, Vedolizumab, Ustekinumab,
+- / \ Tofacitinib, Ozanimod)
+- / \ IMMUNOMODULATORS
+- / \ (Azathioprine, 6-MP, Methotrexate)
+- / \ SYSTEMIC CORTICOSTEROIDS
+- / \ (Prednisone, Budesonide - Flares Only)
+- / \ 5-AMINOSALICYLATES (5-ASA)
+- / \ (Mesalamine, Sulfasalazine - UC Mainstay)
+
 #### 1. Management of Ulcerative Colitis
 * **Mild-to-Moderate UC**:
   * *Proctitis / Left-Sided*: Topical (rectal) **Mesalamine suppositories or enemas** (superior to oral 5-ASA).

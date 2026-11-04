@@ -23,17 +23,18 @@ Plain abdominal radiography remains a rapid, accessible initial screening tool f
   * *Large Bowel Obstruction*: Peripheral dilated loops ($>6\text{ cm}$, or $>9\text{ cm}$ for cecum); **Haustra** cross only partial lumen width.
   * *Volvulus Signs*: Sigmoid Volvulus demonstrates the pathognomonic **"Coffee Bean Sign"** or **"Bent Inner Tube Sign"** arising from the pelvis and pointing to the RUQ; Cecal Volvulus points to the LUQ.
 
-| Feature | Small bowel | Large bowel |
+| Radiographic Feature | Small Bowel | Large Bowel |
 | --- | --- | --- |
-| Usual location | Central abdomen | Peripheral abdominal frame |
-| Approximate upper normal diameter | < 3 cm | < 6 cm; caecum may be up to about 9 cm |
-| Mucosal folds | Valvulae conniventes | Haustra |
-| Fold extension | Folds cross the full lumen | Haustral folds do not cross the full lumen |
+| Anatomical Location | Central abdomen | Peripheral abdominal frame |
+| Normal Upper Diameter | $< 3\text{ cm}$ | $< 6\text{ cm}$ ($9\text{ cm}$ cecum) |
+| Luminal Mucosal Folds | Valvulae Conniventes | Haustral Folds |
+| Fold Extension | Crosses FULL lumen width | Crosses PARTIAL lumen width |
+
 ### Barium & Contrast Fluoroscopy
 Contrast fluoroscopy utilizes swallowable or instillable suspensions (Barium Sulfate or water-soluble iodinated contrast like Gastrografin) to evaluate luminal mucosal anatomy and real-time motility.
 
 ```mermaid
-graph TD
+flowchart TD
     A[Fluoroscopic Barium Swallow / Meal / Enema] --> B{Pathognomonic Barium Signs}
     B -->|Esophagus| C["Bird's Beak" Sign in Achalasia]
     B -->|Esophagus| D["Corkscrew Esophagus" in DES]
@@ -41,6 +42,7 @@ graph TD
     B -->|Large Bowel| F["Apple-Core" / Napkin-Ring Lesion in CRC]
     B -->|Large Bowel| G["Lead-Pipe" Featureless Colon in Chronic UC]
 ```
+
 * **Classic Pathognomonic Barium Signs**:
   * **"Bird's Beak" / "Rat-Tail" Sign**: Smooth, tapered distal esophageal narrowing with proximal dilation seen on Barium Swallow in **Achalasia Cardia**.
   * **"Corkscrew Esophagus"**: Multiple simultaneous non-peristaltic tertiary contractions in **Diffuse Esophageal Spasm (DES)**.
@@ -57,7 +59,7 @@ graph TD
 Multidetector CT (MDCT) with oral and IV contrast is the gold standard imaging modality for acute abdominal trauma, acute abdomen, and oncological staging.
 
 ```mermaid
-graph TD
+flowchart TD
     A[Contrast-Enhanced Multiphasic Liver CT] --> B[Unenhanced Baseline Phase]
     B --> C[Late Arterial Phase - 35s]
     C --> D[Portal Venous Phase - 70s]
@@ -65,6 +67,7 @@ graph TD
     C -->|Early Hyperenhancement| F[Hepatocellular Carcinoma - HCC]
     D -->|Rapid Contrast Washout| F
 ```
+
 1. **Multiphasic Dynamic Contrast-Enhanced Liver CT**:
    * *Unenhanced Phase*: Detects baseline calcifications, hemorrhage, or steatosis.
    * *Late Arterial Phase ($35\text{ seconds}$)*: Hepatic Artery enhancement. **Hepatocellular Carcinoma (HCC)** exhibits pathognomonic **intense early arterial hyperenhancement** (due to primary supply from neoangiogenic hepatic arterial branches).
@@ -93,12 +96,13 @@ graph TD
   * **Biliary Atresia in Infants**: Demonstrates excellent hepatic extraction, but absolute **failure of excretion into the intestine at 24 hours**.
   * **Sphincter of Oddi Dysfunction & Chronic Acatalculous Cholecystitis**: Quantitative assessment of gallbladder ejection fraction (GBEF $<35\%$ post-CCK infusion is abnormal).
 
-| Nuclear medicine study | Typical radiotracer | Diagnostic application |
+| Nuclear Scan | Radiotracer | Diagnostic Application |
 | --- | --- | --- |
-| HIDA / cholescintigraphy | Technetium-99m-labelled iminodiacetic acid analogue | Gallbladder visualisation and cystic duct patency in suspected acute cholecystitis |
-| Meckel scan | Technetium-99m pertechnetate | Ectopic gastric mucosa in suspected Meckel diverticulum |
-| Tagged red blood cell scan | Technetium-99m-labelled red blood cells | Localisation of ongoing GI bleeding, particularly when intermittent or low rate |
-| Gastric emptying scintigraphy | Technetium-99m-labelled solid meal (protocol-dependent tracer) | Assessment of delayed gastric emptying / gastroparesis |
+| HIDA Scan | Technetium-99m-labeled HIDA tracer | Acute cholecystitis / biliary imaging |
+| Meckel’s Scan | Technetium-99m pertechnetate | Ectopic gastric mucosa in Meckel diverticulum |
+| Labeled RBC Scan | Technetium-99m-labeled red blood cells | Low-rate GI bleeding (detects active bleeding) |
+| Gastric Emptying Study | Technetium-99m sulfur colloid | Delayed gastric emptying / gastroparesis |
+
 ### 2. Technetium-99m Pertechnetate Scintigraphy ("Meckel’s Scan")
 * Selective uptake by $\text{Na}^+/\text{I}^-$ symporters in ectopic gastric parietal cells in a Meckel's diverticulum. Positive finding shows simultaneous focal right lower quadrant radiotracer accumulation matching gastric activity.
 

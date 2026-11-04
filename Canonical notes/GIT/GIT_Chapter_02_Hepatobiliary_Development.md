@@ -14,16 +14,11 @@ tags:
 
 The liver develops during the 3rd week of intrauterine life from dual embryological origins: endodermal epithelium and mesodermal stroma [7, 8].
 
-```mermaid
-flowchart TD
-  A["Hepatic Primordium"]
-  A --> N1["┌─────────────────┴─────────────────┐"]
-  N1 --> N2["Hepatic Bud / Diverticulum Septum Transversum"]
-  N2 --> N3["(Endoderm - Distal Foregut) (Splanchnic Mesoderm)"]
-  N3 --> N4["Hepatocytes • Stroma & Glisson Capsule"]
-  N4 --> N5["Biliary Tree Epithelium • Kupffer Cells (Resident Macrophages)"]
-  N5 --> N6["Hematopoietic Stem Cells"]
-```
+| Component | Embryological origin | Main derivatives / contribution |
+| --- | --- | --- |
+| Hepatic bud / diverticulum | Foregut endoderm | Hepatocytes and biliary epithelial lining |
+| Septum transversum | Splanchnic mesoderm | Supporting stroma, Glisson capsule and hematopoietic microenvironment; Kupffer cells arise from hematopoietic lineage |
+
 ### The Hepatic Bud (Diverticula)
 * During the middle of the 3rd week, an outgrowth of endodermal epithelium—the **hepatic diverticulum (hepatic bud)**—emerges from the ventral wall of the distal foregut (future 2nd part of the duodenum) [7, 8].
 * Endodermal cells proliferate rapidly and invade the **septum transversum** (a mass of splanchnic mesoderm separating the pericardial and vitelline cavities) [6, 7, 8].
@@ -47,14 +42,12 @@ flowchart TD
 
 The biliary system develops concurrently from the caudal portion of the hepatic diverticulum [7, 8].
 
-```mermaid
-flowchart TD
-  A["Caudal Segment of Hepatic Diverticulum"]
-  A --> N1["├──────────────────────────┐"]
-  N1 --> N2["Cystic Diverticulum Pedicle Connection"]
-  N2 --> N3["Gallbladder • Cystic Duct"]
-  N3 --> N4["Cystic Duct • Common Bile Duct (CBD)"]
-```
+| Part of hepatic diverticulum | Main derivative |
+| --- | --- |
+| Cranial hepatic portion | Liver parenchyma and intrahepatic biliary tree |
+| Caudal cystic diverticulum | Gallbladder and cystic duct |
+| Connecting stalk / ductal pedicle | Extrahepatic bile duct pathway, including the common bile duct |
+
 ### Morphogenesis of the Extrahepatic Biliary Tree
 * The hepatic diverticulum divides into a larger cranial portion (liver parenchyma) and a smaller caudal portion [7, 8].
 * The caudal outgrowth forms the **cystic diverticulum**, which expands to give rise to the **gallbladder** and **cystic duct** [7, 8].
@@ -80,11 +73,11 @@ The pancreas arises during the 4th week from two separate endodermal outgrowths 
    * As the duodenum rotates to the right, the ventral pancreatic bud migrates dorsally around the 2nd part of the duodenum to position itself inferior and posterior to the dorsal pancreatic bud [9, 22].
    * Fusion of the two buds occurs during the 7th week [31].
 
-| Pancreatic bud | Major derivatives |
+| Pancreatic bud | Adult derivatives |
 | --- | --- |
-| Dorsal pancreatic bud | Upper part of head, neck, body and tail |
-| Ventral pancreatic bud | Lower part of head and uncinate process |
-| Developmental event | Ventral bud rotates posteriorly around the duodenum and fuses with the dorsal bud |
+| Dorsal pancreatic bud | Superior head, neck, body and tail |
+| Ventral pancreatic bud | Inferior head and uncinate process |
+
 ### Fate of Pancreatic Parenchyma & Ducts
 
 | Adult Pancreatic Structure | Embryological Origin |
@@ -94,16 +87,11 @@ The pancreas arises during the 4th week from two separate endodermal outgrowths 
 | **Main Pancreatic Duct (Wirsung)** | **Ventral Pancreatic Duct** + **Distal $2/3$ of Dorsal Pancreatic Duct** [9, 24] |
 | **Accessory Pancreatic Duct (Santorini)** | **Proximal $1/3$ of Dorsal Pancreatic Duct** (frequently obliterates or remains as minor duct opening at minor duodenal papilla) [9, 24, 31] |
 
-```mermaid
-flowchart TD
-  A["Anatomy of Pancreatic Duct Fusion:"]
-  A --> N1["Proximal Dorsal Duct"]
-  N1 --> N2["Accessory Duct of Santorini (Minor Papilla)"]
-  N2 --> N3["Distal Dorsal Duct ──┐"]
-  N3 --> N4["├─ Fusion"]
-  N4 --> N5["Main Duct of Wirsung (Major Papilla + CBD)"]
-  N5 --> N6["Ventral Duct ────────┘"]
-```
+| Ductal component | Adult duct / opening |
+| --- | --- |
+| Proximal dorsal pancreatic duct | Accessory pancreatic duct (Santorini), if it persists; opens at the minor papilla |
+| Distal dorsal duct + ventral duct | Main pancreatic duct (Wirsung); usually opens at the major papilla with the common bile duct |
+
 ### Congenital Pancreatic Anomalies
 
 #### Annular Pancreas
@@ -128,15 +116,12 @@ Although the spleen is functionally associated with the reticuloendothelial and 
 * The spleen is **NOT an endodermal gut derivative**.
 * It arises during the 5th week as a condensation of **splanchnic mesoderm** between the two layers of the **dorsal mesogastrium** [1, 8, 32].
 
-```mermaid
-flowchart TD
-  A["Splanchnic Mesoderm in Dorsal Mesogastrium"]
-  A --> N1["▼ (5th Week Condensation)"]
-  N1 --> N2["Splenic Primordium"]
-  N2 --> N3["├──────────────────────────┐"]
-  N3 --> N4["Gastrosplenic Ligament Splenorenal (Lienorenal) Ligament"]
-  N4 --> N5["(Contains Short Gastrics) (Contains Splenic Vessels & Pancreatic Tail)"]
-```
+**Splenic development**
+
+- The spleen develops from mesenchymal condensations in the dorsal mesogastrium.
+- The gastrosplenic ligament contains the short gastric and left gastro-omental vessels.
+- The splenorenal ligament contains the splenic vessels and tail of the pancreas.
+
 ### Peritoneal Ligamentous Derivatives
 As the stomach rotates to the left, the dorsal mesogastrium is displaced, dividing into two distinct peritoneal ligaments [8, 35, 51]:
 1. **Gastrosplenic Ligament**: Connects the greater curvature of the stomach to the splenic hilum. Contains the **short gastric vessels** and **left gastroepiploic vessels** [35, 51].

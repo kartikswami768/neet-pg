@@ -17,15 +17,12 @@ The vomiting center (Nucleus Tractus Solitarius - NTS) in the medulla receives e
 3. **Vagal & Sympathetic GI Afferents**: Express $5\text{-HT}_3$ receptors (triggered by mucosal serotonin release from enterochromaffin cells).
 4. **CNS / Cortical Structures**: Sensory/emotional input.
 
-```mermaid
-flowchart TD
-  A["Cortical Structures (Memory, Fear, Anticipation)"]
-  A --> N1["Chemoreceptor Trigger Zone (CTZ) less than"]
-  N1 --> N2["Vagal GI Afferents (5-HT3)"]
-  N2 --> N3["(Outside BBB: D2, 5-HT3, NK1) (Enterochromaffin Cell Damage)"]
-  N3 --> N4["MEDULLARY VOMITING CENTER (NTS)"]
-  N4 --> N5["Vestibular System (H1, M1) (Motion Sickness)"]
-```
+- Cortical Structures (Memory, Fear, Anticipation)
+- Chemoreceptor Trigger Zone (CTZ) < > Vagal GI Afferents (5-HT3)
+- (Outside BBB: D2, 5-HT3, NK1) (Enterochromaffin Cell Damage)
+- MEDULLARY VOMITING CENTER (NTS)
+- Vestibular System (H1, M1) (Motion Sickness)
+
 ### Major Antiemetic Classes
 
 #### 1. $5\text{-HT}_3$ Receptor Antagonists (Ondansetron, Granisetron, Palonosetron)
@@ -95,12 +92,8 @@ Prokinetic agents enhance GI transit by augmenting uncoordinated motility into c
 
 ### B. Anti-Constipation / Laxative Pharmacology
 
-| Class | Examples | Key mechanism / clinical note |
-| --- | --- | --- |
-| Bulk-forming | Psyllium | Retains water and increases stool bulk. |
-| Osmotic | Polyethylene glycol (PEG), lactulose | Retains water in the lumen; lactulose is also used to reduce ammonia absorption in hepatic encephalopathy. |
-| Stimulant | Senna, bisacodyl | Stimulates intestinal secretion and motility; chronic stimulant use may be associated with melanosis coli (particularly senna). |
-| Secretagogue | Lubiprostone, linaclotide | Increases intestinal fluid secretion through chloride-channel or guanylate-cyclase-C pathways, respectively. |
+The principal laxative groups include bulk-forming agents, osmotic laxatives, stimulant laxatives, stool softeners and intestinal secretagogues. Lactulose has an additional role in hepatic encephalopathy because bacterial fermentation acidifies colonic contents and promotes conversion of diffusible ammonia ($\text{NH}_3$) to ammonium ($\text{NH}_4^+$), which is less readily absorbed. The comparison below summarises the major classes.
+
 | Class | Mechanism of Action | Representative Agents | Key Clinical Considerations & Side Effects |
 | :--- | :--- | :--- | :--- |
 | **Bulk-Forming** | Non-digestible hydrophilic colloids that absorb water, expand, and form a gel, causing colonic distension and triggering peristalsis. | Psyllium (Ispaghula), Methylcellulose, Polycarbophil | Requires adequate fluid intake; causes bloating and flatulence. First-line for chronic constipation. |

@@ -25,12 +25,12 @@ The tongue is a muscular organ divided into an anterior $2/3$ (oral part) and po
   * **Styloglossus**: **Draws sides of tongue upward** to form a trough during swallowing ("in style") [28]. Innervated by **CN XII** [28].
   * **Palatoglossus**: **Elevates posterior tongue** during swallowing [28]. Derived from 4th pharyngeal arch; innervated by **CN X (Vagus nerve)** via the pharyngeal plexus [28].
 
-| Region / modality | Innervation |
-| --- | --- |
-| Anterior two-thirds — general sensation | Lingual nerve, mandibular division of trigeminal nerve (CN V3) |
-| Anterior two-thirds — taste | Chorda tympani, facial nerve (CN VII), travelling with the lingual nerve |
-| Posterior one-third — general sensation and taste | Glossopharyngeal nerve (CN IX) |
-| Epiglottic/base region — taste and sensation | Internal laryngeal branch of vagus nerve (CN X) |
+| Tongue region | General sensation | Taste |
+| --- | --- | --- |
+| Anterior two-thirds | Lingual nerve (CN V3) | Chorda tympani (CN VII) |
+| Posterior one-third | Glossopharyngeal nerve (CN IX) | Glossopharyngeal nerve (CN IX) |
+| Posterior-most tongue / epiglottic region | Internal laryngeal branch of superior laryngeal nerve (CN X) | Internal laryngeal branch of CN X |
+
 ### Major Salivary Glands
 
 | Salivary Gland | Secretion Type | Duct Name & Terminal Opening | Secretomotor Parasympathetic Pathway |
@@ -68,13 +68,12 @@ Constrictions are critical clinical sites where swallowed foreign bodies lodge o
 
 ```mermaid
 flowchart TD
-  A["Esophageal Portosystemic Anastomosis"]
-  A --> N1["PORTAL HYPERTENSION"]
-  N1 --> N2["┌─────────────────────────────────┴─────────────────────────────────┐"]
-  N2 --> N3["Left Gastric Vein (Portal System) ◄─── Submucosal Anastomosis"]
-  N3 --> N4["Azygos Vein (Systemic System)"]
-  N4 --> N5["ESOPHAGEAL VARICES"]
+    A[Portal hypertension] --> B[Increased flow through the left gastric vein]
+    B --> C[Submucosal portosystemic venous channels]
+    C --> D[Azygos-systemic venous drainage]
+    D --> E[Distal esophageal varices]
 ```
+
 ---
 
 ## 3.3 Stomach
@@ -96,13 +95,13 @@ The posterior surface of the stomach rests upon structures forming the **stomach
 5. Pancreas (body and tail) [4].
 6. Transverse mesocolon and splenic flexure of colon [3, 4].
 
-| Stomach bed structure | Adjacent organ / structure |
-| --- | --- |
-| Superior and posterior | Diaphragm |
-| Posterior | Pancreas (body and tail) and splenic artery |
-| Posterior | Left kidney and left suprarenal gland |
-| Posterolateral | Spleen |
-| Inferior | Transverse mesocolon and transverse colon |
+**Stomach bed: important posterior relations**
+
+- Spleen and diaphragm.
+- Left kidney and left suprarenal gland.
+- Pancreas (body and tail) and splenic artery.
+- Transverse mesocolon.
+
 ### Arterial Blood Supply
 The stomach has an abundant arterial anastomotic network derived entirely from the **Celiac Trunk** [3, 27, 37]:
 * **Lesser Curvature**: **Left Gastric Artery** (direct branch of celiac trunk) [3] and **Right Gastric Artery** (branch of proper hepatic artery) [3].
@@ -137,9 +136,11 @@ C-shaped loop (~25 cm long) wrapping around the head of the pancreas [22, 32].
 
 | Feature | Jejunum | Ileum |
 | --- | --- | --- |
-| Arterial arcades | Few (usually 1–2) and simple | Numerous (often 3–5) and complex |
-| Vasa recta | Long | Short |
-| Mesenteric fat | Less; clear windows | More; approaches the intestinal border |
+| Mesenteric arterial arcades | Fewer, simpler arcades | More numerous, complex arcades |
+| Vasa recta | Longer | Shorter |
+| Mesenteric fat | Less; clearer windows | More abundant; approaches bowel wall |
+| Typical position | Upper-left abdomen | Lower-right abdomen and pelvis |
+
 ### Root of the Mesentery
 The root of the small intestinal mesentery (~15 cm long) attaches diagonally across the posterior abdominal wall from the **duodenojejunal flexure** (left side of $L_2$) to the **right sacroiliac joint** [4].
 * **Structures Crossed by Root of Mesentery**:
@@ -165,13 +166,14 @@ Extends from the ileocecal valve to the anus (~1.5 meters long). Distinguished e
 ### Pectinate (Dentate) Line & Anal Canal Architecture
 The pectinate line marks the boundary between the embryonic hindgut (endoderm) and proctodeum (ectoderm) [29, 39, 40].
 
-| Feature | Above pectinate line | Below pectinate line |
+| Feature | Above the pectinate line | Below the pectinate line |
 | --- | --- | --- |
-| Embryological origin | Hindgut endoderm | Proctodeum ectoderm |
-| Epithelium | Columnar | Stratified squamous |
-| Innervation / pain | Visceral; relatively insensitive to cutting | Somatic; pain-sensitive |
+| Embryological origin | Hindgut endoderm | Proctodeal ectoderm |
+| Epithelium | Columnar / transitional | Stratified squamous |
+| Innervation | Visceral; relatively insensitive to cutting | Somatic; pain-sensitive |
+| Venous drainage | Superior rectal vein to portal system | Middle/inferior rectal veins to systemic circulation |
 | Hemorrhoidal plexus | Internal | External |
-| Venous drainage | Predominantly portal | Predominantly systemic |
+
 ### Comparative Anatomy of Upper vs. Lower Anal Canal
 
 | Feature | Upper Anal Canal (Above Pectinate Line) | Lower Anal Canal (Below Pectinate Line) |

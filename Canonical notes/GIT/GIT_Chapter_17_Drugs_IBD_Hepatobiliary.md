@@ -14,12 +14,15 @@ tags:
 
 The therapeutic pyramid in IBD ranges from topical anti-inflammatory agents to systemic immunosuppressants and targeted biologics.
 
-| Treatment group | Examples | Role described in the notes |
-| --- | --- | --- |
-| 5-aminosalicylates | Mesalamine, sulfasalazine | Mild-to-moderate ulcerative colitis; efficacy depends on disease extent and formulation. |
-| Corticosteroids | Budesonide, prednisone | Induction of remission during active flares; not maintenance therapy. |
-| Immunomodulators | Azathioprine, 6-mercaptopurine | Steroid-sparing / maintenance role in selected patients; delayed onset and monitoring required. |
-| Biologics / targeted agents | Infliximab, vedolizumab, ustekinumab | Moderate-to-severe or refractory disease; choice depends on phenotype, risk and prior therapy. |
+| Therapeutic group | Typical role | Representative agents |
+| :--- | :--- | :--- |
+| **5-Aminosalicylates** | Mild-to-moderate ulcerative colitis; induction and maintenance where appropriate | Mesalamine, sulfasalazine |
+| **Corticosteroids** | Induction of remission during flares; not maintenance therapy | Budesonide, prednisone, methylprednisolone |
+| **Thiopurines** | Steroid-sparing maintenance in selected patients; slow onset of action | Azathioprine, 6-mercaptopurine |
+| **Biologics and targeted therapies** | Moderate-to-severe or refractory disease; selection depends on phenotype and patient factors | Infliximab, adalimumab, vedolizumab, ustekinumab, tofacitinib |
+
+This is an exam-oriented overview, not a rigid treatment ladder; contemporary IBD therapy is individualised according to disease severity, phenotype, prior treatment and patient-specific risks.
+
 ---
 
 ### 1. 5-Aminosalicylates (5-ASA / Mesalamine Derivatives)
@@ -47,17 +50,15 @@ The therapeutic pyramid in IBD ranges from topical anti-inflammatory agents to s
 * **Agents**: Azathioprine (AZA), 6-Mercaptopurine (6-MP).
 * **Mechanism of Action**: Azathioprine is a prodrug converted non-enzymatically into 6-Mercaptopurine (6-MP). 6-MP is subsequently converted by hypoxanthine-guanine phosphoribosyltransferase (HGPRT) into intracellular **6-thioguanine nucleotides (6-TGN)**. 6-TGN incorporates into DNA/RNA, inhibiting purine de novo synthesis and inducing T-lymphocyte apoptosis.
 * **Enzymatic Metabolism & Drug Interactions**:
-  ```
-                          Azathioprine
-                               | (Non-enzymatic)
-                               v
-                       6-Mercaptopurine (6-MP)
-                               |
-         +---------------------+---------------------+
-         |                     |                     |
-         v (Xanthine Oxidase)  v (TPMT)              v (HGPRT)
-  6-Thiouric Acid       6-Methyl-MP           6-Thioguanine (6-TGN)
-  (Inactive)            (Hepatotoxic)         (Active Cytotoxic)
+  ```mermaid
+  flowchart TD
+      A["Azathioprine"] -->|"Non-enzymatic conversion"| B["6-mercaptopurine (6-MP)"]
+      B -->|"Xanthine oxidase"| C["6-thiouric acid"]
+      B -->|"TPMT"| D["6-methyl-mercaptopurine metabolites"]
+      B -->|"HGPRT"| E["6-thioguanine nucleotides (6-TGN)"]
+      C --> F["Inactive metabolites"]
+      D --> G["Potential hepatotoxicity"]
+      E --> H["Incorporation into DNA/RNA and cytotoxic effect"]
   ```
   * **Xanthine Oxidase (XO)**: Inactivates 6-MP to 6-thiouric acid.
   * **Thiopurine S-methyltransferase (TPMT)** & **NUDT15**: Metabolize 6-MP into inactive/hepatotoxic metabolites. Patients with inherited TPMT or NUDT15 deficiency build up lethal 6-TGN concentrations, causing severe **bone marrow suppression**. (TPMT/NUDT15 testing mandated prior to drug initiation).
@@ -95,19 +96,11 @@ The therapeutic pyramid in IBD ranges from topical anti-inflammatory agents to s
 
 ### 2. Pharmacological Management of Portal Hypertension & Variceal Bleeding
 
-```mermaid
-flowchart TD
-  A["PORTAL HYPERTENSION MANAGEMENT"]
-  A --> N1["PRIMARY PROPHYLAXIS ACUTE VARICEAL BLEED"]
-  N1 --> N2["(Prevent First Bleed) (Active Hemorrhage)"]
-  N2 --> N3["Non-Selective Beta-Blockers IV Vasoactive Drugs"]
-  N3 --> N4["(Propranolol, Nadolol, Carvedilol) (Terlipressin, Octreotide)"]
-  N4 --> N5["Beta-1: Dec Cardiac Output - Splanchnic Vasoconstriction"]
-  N5 --> N6["Beta-2: Unopposed Alpha-1 - Dec Portal Venous Inflow"]
-  N6 --> N7["Splanchnic Vasoconstriction /"]
-  N7 --> N8["/ Endoscopic Band Ligation (EVL)"]
-  N8 --> N9["Dec Portal Venous Inflow within 12 Hours"]
-```
+| Clinical context | Main interventions | Physiological aim / practical point |
+| :--- | :--- | :--- |
+| **Primary prophylaxis** (prevent a first variceal bleed) | Non-selective beta-blocker: propranolol, nadolol or carvedilol; endoscopic variceal ligation when appropriate | Reduce portal venous inflow. Beta-1 blockade lowers cardiac output; beta-2 blockade permits unopposed splanchnic alpha-1 vasoconstriction. |
+| **Acute variceal hemorrhage** | Start a vasoactive agent promptly (terlipressin or octreotide), give antibiotic prophylaxis, and arrange endoscopic variceal ligation after initial resuscitation | Splanchnic vasoconstriction reduces portal pressure; endoscopic banding provides hemostasis. Endoscopy is generally targeted within 12 hours after stabilization. |
+
 #### A. Primary Prophylaxis of Variceal Hemorrhage
 * **Non-Selective $\beta$-Blockers (NSBBs)**: Propranolol, Nadolol, Carvedilol.
 * **Dual Hemodynamic Mechanism**:

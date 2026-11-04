@@ -17,12 +17,12 @@ tags:
 
 Gallstones affect $10–20\%$ of adults in developed nations. Divided into **Cholesterol Stones** ($80\%$) and **Pigment Stones** ($20\%$).
 
-| Feature | Cholesterol stones | Black pigment stones | Brown pigment stones |
-| --- | --- | --- | --- |
-| Composition / mechanism | Cholesterol supersaturation and gallbladder hypomotility | Calcium bilirubinate precipitation; associated with chronic hemolysis and cirrhosis | Biliary infection and stasis; bacterial/parasitic enzymes deconjugate bilirubin |
-| Radiographic appearance | Usually radiolucent | Often radiopaque due to calcium content | Usually radiolucent or faintly opaque |
-| Typical location | Gallbladder | Gallbladder | Bile ducts |
-| Associations | Estrogen exposure, obesity, rapid weight loss, ileal disease and other risk factors | Hemolytic disorders, cirrhosis and age | Biliary infection, strictures and parasites in endemic settings |
+**GALLSTONE CLASSIFICATION**
+- CHOLESTEROL STONES (80%) PIGMENT STONES (20%)
+- Radiolucent (mostly) - Black (Radiopaque) vs. Brown (Radiolucent)
+- Bile cholesterol supersaturation - Hemolysis / Biliary Bacterial Infection
+- 4 Fs: Female, Fat, Fertile, Forty - Unconjugated bilirubin precipitation
+
 | Feature | Cholesterol Gallstones | Black Pigment Stones | Brown Pigment Stones |
 | :--- | :--- | :--- | :--- |
 | **Pathophysiology** | Supersaturation of bile with cholesterol exceeding solubilizing capacity of bile salts/lecithin + gallbladder hypomotility | Chronic **intravascular hemolysis** or cirrhosis $\rightarrow$ excessive unconjugated bilirubin in bile $\rightarrow$ calcium bilirubinate precipitation | Biliary tract **bacterial or parasitic infection** (*E. coli*, *Clonorchis sinensis*) producing bacterial **$\beta$-glucuronidase** $\rightarrow$ hydrolyzes bilirubin glucuronides |
@@ -74,11 +74,13 @@ Gallstones affect $10–20\%$ of adults in developed nations. Divided into **Cho
 
 ```mermaid
 flowchart TD
-  A["Cystic Duct / Sphincter Obstruction OR Direct Ethanol Toxicity"]
-  A --> N1["greater than Premature Intra-Acinar Activation of Trypsinogen to Trypsin"]
-  N1 --> N2["greater than Trypsin Activates Zymogen Cascade (Phospholipase A2, Elastase)"]
-  N2 --> N3["greater than Auto-digestion, Fat Necrosis, Vascular Hemorrhage, Systemic Inflammation"]
+    A["Trigger: duct obstruction or alcohol-related acinar injury"] --> B["Premature intrapancreatic activation of trypsinogen"]
+    B --> C["Active trypsin"]
+    C --> D["Activation of other pancreatic zymogens"]
+    D --> E["Parenchymal autodigestion and inflammation"]
+    E --> F["Fat necrosis, vascular injury and systemic complications"]
 ```
+
 * **Pathophysiologic Cascade**:
   1. Trigger induces **premature intra-acinar activation of Trypsinogen to Trypsin**.
   2. Active Trypsin cleaves and activates downstream pro-enzymes:
@@ -126,10 +128,10 @@ Fourth leading cause of cancer death. Highly lethal adenocarcinoma with a 5-year
 
 ```mermaid
 flowchart TD
-  A["Pancreatic Intraepithelial Neoplasia (PanIN) --(KRAS mutation)--greater than Early Adenoma"]
-  A --> N1["(p16/TP53/SMAD4 loss)"]
-  N1 --> N2["Invasive Ductal Adenocarcinoma"]
+    A["Pancreatic intraepithelial neoplasia (PanIN)"] -->|"Early KRAS activation"| B["Clonal expansion and progression of precursor lesion"]
+    B -->|"Additional alterations, including loss of CDKN2A (p16), TP53 and SMAD4"| C["Invasive pancreatic ductal adenocarcinoma"]
 ```
+
 * **Clinical Presentation by Location**:
   * **Head of Pancreas**: Presents early with **Painless Obstructive Jaundice** (dark urine, pale stools, pruritus) due to common bile duct compression.
   * **Courvoisier's Law / Sign**: A palpable, enlarged, **non-tender gallbladder** accompanied by mild jaundice is unlikely to be gallstones and strongly suggests **pancreatic head malignancy** or lower CBD obstruction.

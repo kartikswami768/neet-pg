@@ -58,16 +58,14 @@ tags:
 * **HBeAg (Envelope Antigen)**: Marker of **active viral replication** and high infectivity.
 * **HBV DNA**: Quantitative viral load measurement; guides antiviral initiation and monitors resistance.
 
-```mermaid
-flowchart TD
-  A["HEPATITIS B SEROLOGICAL PROFILE INTERPRETATION"]
-  A --> N1["HBsAg POSITIVE HBsAg NEGATIVE"]
-  N1 --> N2["Anti-HBc IgM (+) Anti-HBc IgG (+) Anti-HBs (+) Anti-HBs (-)"]
-  N2 --> N3["Acute Infection Chronic Infection +------+------+ +------+------+"]
-  N3 --> N4["+-------+-------+ Anti-HBc(+) Anti-HBc(-) Anti-HBc(+) Anti-HBc(-)"]
-  N4 --> N5["HBeAg (+) HBeAg (-) Resolved Vaccinated Window Period Susceptible"]
-  N5 --> N6["High Replic Low Replic/Pre-core Infection Immunity (Anti-HBc IgM+)"]
-```
+**HEPATITIS B SEROLOGICAL PROFILE INTERPRETATION**
+- HBsAg POSITIVE HBsAg NEGATIVE
+- Anti-HBc IgM (+) Anti-HBc IgG (+) Anti-HBs (+) Anti-HBs (-)
+- Acute Infection Chronic Infection
+- Anti-HBc(+) Anti-HBc(-) Anti-HBc(+) Anti-HBc(-)
+- HBeAg (+) HBeAg (-) Resolved Vaccinated Window Period Susceptible
+- High Replic Low Replic/Pre-core Infection Immunity (Anti-HBc IgM+)
+
 #### Hepatitis C & Direct-Acting Antivirals (DAAs)
 * **Pathogenesis**: HCV does not integrate into host genome (cytoplasmic replication). Chronic infection drives continuous necroinflammation, stellate cell activation, cirrhosis, and Hepatocellular Carcinoma (HCC).
 * **Treatment Revolution**: Pangenotypic **Direct-Acting Antivirals (DAAs)** achieve Sustained Virologic Response (SVR12 - undetectable HCV RNA 12 weeks post-therapy) in $>95\%$ of patients.
@@ -91,12 +89,14 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-  A["Cyst Ingestion -greater than Excystation in Duodenum -greater than Trophozoite Attachment"]
-  A --> N1["Ventral Adhesive Disk binds Enterocytes"]
-  N1 --> N2["Blunts Microvilli & Blocks Nutrient Transport"]
-  N2 --> N3["Fat Malabsorption & Disaccharidase Deficiency"]
-  N3 --> N4["Foul-Smelling Greasy Diarrhea + Abdominal Distension / Gas"]
+    A["Ingestion of Giardia cysts"] --> B["Excystation in the duodenum"]
+    B --> C["Trophozoites attach to enterocytes using the ventral adhesive disk"]
+    C --> D["Brush-border microvilli are disrupted and covered"]
+    D --> E["Disaccharidase deficiency and impaired nutrient absorption"]
+    E --> F["Fat malabsorption and steatorrhea"]
+    E --> G["Flatulence and abdominal distension"]
 ```
+
 ### 2. *Cryptosporidium parvum* & *Cryptosporidium hominis*
 * **Microbiology**: Intracellular obligate apicomplexan protozoan.
 * **Transmission**: Ingestion of environmentally resistant **oocysts** from contaminated water supplies (chlorination resistant; requires filtration or boiling).

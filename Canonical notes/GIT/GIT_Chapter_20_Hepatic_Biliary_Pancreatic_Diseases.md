@@ -30,12 +30,13 @@ ALF is subclassified based on the time interval between the onset of jaundice an
 
 ### C. Major Complications & ICU Management Protocols
 
-| Complication domain | Examples / management concepts listed |
-| --- | --- |
-| Cerebral oedema / raised ICP | Head elevation; hypertonic saline or mannitol in selected patients; close neurocritical monitoring. |
-| Sepsis / infection | High infection risk; prompt cultures and empiric antimicrobials when infection is suspected; avoid fever. |
-| Coagulopathy | Reduced synthesis of clotting factors; do not routinely correct laboratory abnormalities in the absence of bleeding or a planned procedure. |
-| Renal dysfunction / hepatorenal physiology | Assess volume and renal function; vasoconstrictor therapy such as terlipressin with albumin in appropriate patients. |
+**CRITICAL COMPLICATIONS IN ALF**
+- CEREBRAL EDEMA & ICP SEPSIS & INFECTION COAGULOPATHY & BLEEDING HEPATORENAL SYNDROME
+- Target Na 145-150 mEq/L - Functional immune - Defective clotting - Severe splanchnic
+- Hypertonic Saline 3% paralysis factors II, V, VII, X vasodilation
+- Mannitol boluses - Empiric antibiotics - Transfuse ONLY if - Terlipressin
+- Head elevation 30 deg - Avoid fever active bleed / procedure Albumin
+
 1. **Cerebral Edema & Intracranial Hypertension**:
   * **Pathophysiology**: Hyperammonemia leads to astrocyte accumulation of **glutamine** (via glutamine synthetase), inducing astrocyte swelling, cerebral hyperperfusion, cytotoxic edema, and brainstem herniation (leading cause of death in ALF).
   * **Management**: Prophylactic **Hypertonic Saline ($3\%\text{ NaCl}$)** to maintain serum sodium between **$145–150\text{ mEq/L}$**; elevate head of bed to $30^\circ$; IV **Mannitol ($0.5–1.0\text{ g/kg}$)** for acute surges in ICP; therapeutic hypothermia ($34–35^\circ\text{C}$) or continuous venovenous hemofiltration (CVVH) in refractory cases.
@@ -49,9 +50,17 @@ ALF is subclassified based on the time interval between the onset of jaundice an
 ### D. King's College Criteria for Liver Transplantation
 The validated clinical criteria used to select patients with ALF for emergency liver transplantation:
 
-| Paracetamol-associated ALF | Non-paracetamol ALF |
-| --- | --- |
-| Arterial pH < 7.30 after resuscitation; OR all three: INR > 6.5, creatinine > 3.4 mg/dL, and grade III/IV encephalopathy. | PT > 100 seconds (INR > 6.5); OR any three: age < 10 or > 40 years, specified adverse aetiology, jaundice-to-encephalopathy interval > 7 days, bilirubin > 17.5 mg/dL, PT > 50 seconds (INR > 3.5). |
+**KING'S COLLEGE CRITERIA FOR LIVER TRANSPLANT IN ALF**
+- PARACETAMOL-INDUCED ALF NON-PARACETAMOL ALF
+- Arterial pH < 7.30 (post-fluid) Prothrombin Time > 100 sec (INR > 6.5)
+- OR OR
+- ALL THREE of the following: ANY THREE of the following:
+- INR > 6.5 (PT > 100 sec) - Age < 10 or > 40 years
+- Serum Creatinine > 3.4 mg/dL - Etiology: DILI, Non-A/Non-B hepatitis
+- Grade III/IV Encephalopathy - Jaundice-to-encephalopathy time > 7 days
+- Serum Bilirubin > 17.5 mg/dL (300 umol/L)
+- Prothrombin Time > 50 sec (INR > 3.5)
+
 ---
 
 ## 20.2 Chronic Liver Disease & Cirrhosis
@@ -136,21 +145,19 @@ Requires at least **two** of the following three criteria:
 
 ### B. Evidence-Based Management Protocols
 
-```mermaid
-flowchart TD
-A[Acute pancreatitis] --> B[Assess severity, volume status and organ dysfunction]
-B --> C[Goal-directed IV crystalloid resuscitation; reassess frequently]
-C --> D[Analgesia and supportive care]
-D --> E{Can the patient tolerate oral intake?}
-E -->|Yes| F[Early oral feeding as tolerated]
-E -->|No| G[Enteral nutrition when feasible; avoid routine parenteral nutrition]
-F --> H[Assess for pancreatic necrosis and complications]
-G --> H
-H --> I{Necrosis infected?}
-I -->|No: sterile necrosis| J[Conservative management; no prophylactic antibiotics]
-I -->|Yes| K[Antibiotics when infection is suspected/confirmed]
-K --> L[Step-up approach: drainage, then minimally invasive necrosectomy if needed]
-```
+**ACUTE PANCREATITIS MANAGEMENT PROTOCOL**
+- GOAL-DIRECTED RESUSCITATION NUTRITIONAL STRATEGY
+- Ringer's Lactate (5-10 mL/kg/h) - Early oral feeding in mild (24-48h)
+- Target urine output >0.5 mL/kg/h - Enteral nutrition (nasojejunal)
+- Avoid fluid overload / abdominal if oral intake not tolerated
+- compartment syndrome - Avoid parenteral nutrition (TPN)
+- MANAGEMENT OF NECROSIS
+- STERILE NECROSIS INFECTED NECROSIS
+- Conservative management - Step-Up Approach:
+- NO prophylactic antibiotics 1. Broad-spectrum antibiotics (Carbapenems)
+2. Percutaneous / Endoscopic drainage
+3. Minimally invasive necrosectomy
+
 1. **Fluid Resuscitation**:
    * Goal-directed hydration using **Ringer's Lactate** ($5–10\text{ mL/kg/hour}$) in the first 24 hours. Ringer's lactate reduces systemic inflammation compared to normal saline (which causes hyperchloremic metabolic acidosis).
 2. **Analgesia**: Multimodal pain control using IV opioids (Hydromorphone, Fentanyl) or NSAIDs. (Historical teaching that morphine is contraindicated due to Sphincter of Oddi spasm has been disproven).

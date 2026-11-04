@@ -14,24 +14,23 @@ tags:
 
 The alimentary canal exhibits a generalized four-layered histological organization from the mid-esophagus through the anal canal. Each layer displays specialized structural adaptations tailored to regional mechanical, secretomotor, and absorptive demands.
 
-### 1. Mucosa
-- **Epithelium:** Stratified squamous or simple columnar, depending on the segment; absorptive brush border where appropriate.
-- **Lamina propria:** Loose connective tissue containing blood and lymphatic capillaries and MALT/GALT.
-- **Muscularis mucosae:** Thin smooth-muscle layer that produces local mucosal movement and folding.
+**Four layers of the gastrointestinal tract wall**
 
-### 2. Submucosa
-- Dense irregular connective tissue containing larger blood vessels and lymphatics.
-- **Submucosal (Meissner) plexus:** Regulates secretion and local mucosal blood flow.
-- **Brunner glands:** Characteristic of the duodenum.
+1. **Mucosa**
+   - Epithelium: stratified squamous or simple columnar, depending on region.
+   - Lamina propria: loose connective tissue, blood and lymphatic capillaries, MALT/GALT.
+   - Muscularis mucosae: smooth muscle producing local mucosal movement.
+2. **Submucosa**
+   - Dense irregular connective tissue, larger blood vessels and lymphatics.
+   - Meissner (submucosal) plexus regulates secretion and local blood flow.
+   - Brunner glands are present in the duodenum.
+3. **Muscularis externa**
+   - Inner circular smooth muscle and outer longitudinal smooth muscle.
+   - Auerbach (myenteric) plexus lies between the two muscle layers and regulates motility.
+4. **Serosa or adventitia**
+   - Serosa: mesothelium plus connective tissue on intraperitoneal surfaces.
+   - Adventitia: connective tissue anchoring structures to surrounding tissues.
 
-### 3. Muscularis externa
-- Inner circular smooth-muscle layer; contributes to luminal constriction and sphincter formation.
-- **Myenteric (Auerbach) plexus:** Located between the circular and longitudinal muscle layers.
-- Outer longitudinal smooth-muscle layer; contributes to intestinal shortening and propulsion.
-
-### 4. Serosa or adventitia
-- **Serosa:** Connective tissue covered by mesothelium; present on intraperitoneal surfaces.
-- **Adventitia:** Fibrous connective tissue anchoring segments to surrounding structures.
 ### 1. Mucosa (Mucous Membrane)
 * **Epithelium**: 
   * *Stratified Squamous Non-Keratinized*: Provides protective armor against mechanical abrasion in the oral cavity, pharynx, esophagus, and lower anal canal.
@@ -69,10 +68,10 @@ Consists of two robust smooth muscle layers responsible for peristalsis and segm
 
 | Feature | Esophagus | Stomach (oxyntic mucosa) |
 | --- | --- | --- |
-| Surface epithelium | Non-keratinised stratified squamous | Simple columnar foveolar epithelium |
-| Glands | Submucosal esophageal glands | Gastric pits opening into oxyntic glands |
-| Main gland regions / cells | Mucous glands | Isthmus: stem cells; neck: mucous neck and parietal cells; base: chief and ECL cells |
-| Muscularis externa | Upper third skeletal, middle mixed, lower third smooth muscle | Smooth muscle in three layers |
+| Surface epithelium | Non-keratinized stratified squamous | Simple columnar foveolar cells |
+| Glands | Esophageal submucosal glands | Gastric pits opening into oxyntic glands |
+| Muscle layers | Upper third skeletal, middle mixed, lower third smooth | Smooth muscle in muscularis externa |
+
 ### 2. Gastric Histology & Oxyntic Gland Architecture
 The stomach mucosa is thrown into temporary longitudinal folds called **rugae**, which flatten during gastric distension. The mucosal surface is indented by millions of microscopic **gastric pits (foveolae)**, which lead into tubular **gastric glands**.
 
@@ -107,14 +106,13 @@ The small intestine possesses three specialized modifications that expand its ab
 2. **Intestinal Villi**: Finger-like mucosal projections (0.5–1.5 mm long) composed of an epithelial covering over a core of lamina propria containing a fenestrated capillary loop and a central lymphatic capillary (**lacteal**). Increase surface area 10-fold.
 3. **Microvilli (Brush Border)**: Cytoplasmic projections ($1\ \mu\text{m}$ long) on the apical surface of enterocytes, anchored to an actin terminal web. Increase surface area 20-fold. Embedded with glycocalyx containing membrane-bound digestive enzymes (lactase, sucrase-isomaltase, peptidases, enterokinase).
 
+**Small-intestinal villus and crypt architecture**
 
-### / / & Interspersed Goblet Cells
+- **Villus surface:** Enterocytes with an apical brush border, interspersed with goblet cells.
+- **Lamina propria core:** Contains capillary loops and a central lymphatic lacteal.
+- **Crypts of Lieberkühn:** Invaginations between villi; stem cells and transit-amplifying cells occupy the proliferative zone.
+- **Crypt base:** Paneth cells contain eosinophilic granules and secrete antimicrobial products, including lysozyme and defensins.
 
-|  | * |  |  | * |
-| --- | --- | --- | --- | --- |
-| Crypt of |  | Crypt |  |  |
-| (o) |  | (o) |  |  |
-| [P] |  | [P] |  |  |
 ### 2. Crypts of Lieberkühn (Intestinal Glands)
 Simple tubular invaginations extending from the intervillus spaces down to the muscularis mucosae.
 
@@ -151,11 +149,12 @@ Simple tubular invaginations extending from the intervillus spaces down to the m
 ### 1. Functional Concepts of Hepatic Lobulation
 The hepatic parenchyma is organized into three distinct microanatomical units based on structural, vascular, and metabolic criteria:
 
-| Model | Organisation / centre | Main functional emphasis |
+| Structural model | Main orientation / feature | Functional emphasis |
 | --- | --- | --- |
-| Classical hepatic lobule | Central vein at centre; portal triads at the periphery | Structural unit; blood flows from portal areas toward the central vein |
-| Portal lobule | Portal triad at centre; central veins at the corners | Exocrine unit that emphasises bile drainage toward a bile duct |
-| Hepatic acinus of Rappaport | Zones 1, 2 and 3 arranged along the portal-to-central vascular axis | Metabolic and perfusion zonation; zone 1 is periportal and zone 3 centrilobular |
+| Classical hepatic lobule | Hexagonal unit centred on a central vein, with portal tracts at the periphery | Structural organisation and blood flow toward the central vein |
+| Portal lobule | Triangular unit centred on a portal tract, with three surrounding central veins | Bile secretion toward a bile duct in the portal tract |
+| Hepatic acinus (Rappaport) | Diamond-shaped unit between terminal portal venules and central veins | Perfusion and metabolic zonation (zones 1–3) |
+
 1. **Classical Hepatic Lobule**:
    * *Structure*: Hexagonal prism centered around a **Central Vein (Terminal Hepatic Venule)**, bounded at its corners by **Portal Triads (Portal Canals)**.
    * *Concept*: Emphasizes the endocrine flow of blood from peripheral portal triads through hepatic sinusoids toward the central vein.
@@ -171,19 +170,13 @@ The hepatic parenchyma is organized into three distinct microanatomical units ba
 
 ### 2. Sinusoidal Microcirculation & The Space of Disse
 
-```mermaid
-flowchart TD
-  A["HEPATIC SINUSOID & PERISINUSOIDAL SPACE OF DISSE"]
-  A --> N1["Hepatocyte Plates"]
-  N1 --> N2["( Hepatocyte ) ( Hepatocyte ) ( Hepatocyte )"]
-  N2 --> N3["/ Microvilli / / Microvilli / / Microvilli /"]
-  N3 --> N4["SPACE OF DISSE * Ito Cell * Ito Cell (Unclotted ECF)"]
-  N4 --> N5["Sinusoidal Endothelium (Fenestrated) (Fenestrated) (Fenestrated)"]
-  N5 --> N6["Kupffer Cell /"]
-  N6 --> N7["SINUSOIDAL LUMEN"]
-  N7 --> N8["Blood Flow"]
-  N8 --> N9["Central Vein"]
-```
+**Hepatic sinusoid and space of Disse**
+
+- Blood flows through fenestrated sinusoidal endothelium toward the central vein.
+- The **space of Disse** lies between sinusoidal endothelium and hepatocytes; hepatocyte microvilli project into this space.
+- **Hepatic stellate (Ito) cells** in the space of Disse store vitamin A and can become collagen-producing myofibroblasts during chronic injury.
+- **Kupffer cells** are resident macrophages associated with the sinusoidal lumen.
+
 * **Sinusoidal Endothelial Cells**: Discontinuous, highly fenestrated simple squamous endothelium lacking a continuous basal lamina. Fenestrations ("sieve plates", 100–150 nm diameter) allow free filtration of blood plasma (excluding blood cells and chylomicrons) into the Space of Disse.
 * **Kupffer Cells**: Resident mononuclear phagocytes anchored to the endothelial surface inside the sinusoidal lumen. Part of the reticuloendothelial system; phagocytose aged erythrocytes, circulating immune complexes, debris, and gut-derived bacterial endotoxins.
 * **Space of Disse (Perisinusoidal Space)**:
@@ -212,16 +205,13 @@ The exocrine pancreas is a compound tubuloacinar gland organized into lobules se
 
 ```mermaid
 flowchart TD
-  A["EXOCRINE PANCREATIC ACINUS & DUCT SYSTEM"]
-  A --> N1["/ Serous less than - Acinar Cells: Zymogen Granules (Apical)"]
-  N1 --> N2["/ Acinar / Dense rER (Basal)"]
-  N2 --> N3["Cells /"]
-  N3 --> N4["( Centroacinar ) less than - Centroacinar Cells (Pale, Light; Initial Duct)"]
-  N4 --> N5["( Intercalated Duct ) less than - Lined by Low Cuboidal Cells (Secrete HCO3- via CFTR)"]
-  N5 --> N6["( Intralobular Duct )"]
-  N6 --> N7["( Interlobular Duct )"]
-  N7 --> N8["Main Pancreatic Duct"]
+    A[Serous acinar cells] --> B[Centroacinar cells]
+    B --> C[Intercalated ducts]
+    C --> D[Intralobular ducts]
+    D --> E[Interlobular ducts]
+    E --> F[Main pancreatic duct]
 ```
+
 * **Pancreatic Acini**:
   * Purely **serous** acini.
   * *Acinar Cells*: Pyramidal cells with intensely basophilic basal cytoplasm (dense rER) and prominent eosinophilic apical **zymogen granules** containing digestive proenzymes (trypsinogen, chymotrypsinogen, procarboxypeptidase, proelastase) and active enzymes (pancreatic amylase, lipase, ribonuclease).

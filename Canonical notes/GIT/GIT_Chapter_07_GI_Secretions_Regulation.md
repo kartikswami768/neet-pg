@@ -18,17 +18,13 @@ Saliva is a hypotonic fluid secreted by three pairs of major salivary glands (Pa
 
 ```mermaid
 flowchart TD
-  A["TWO-STAGE MODEL OF SALIVARY SECRETION"]
-  A --> N1["( Salivary Acinus )"]
-  N1 --> N2["Primary Secretion: Isotonic to plasma"]
-  N2 --> N3["Rich in Amylase, Mucins, Electrolytes (Na+, Cl-, K+, HCO3-)"]
-  N3 --> N4["( Salivary Ducts (Intercalated & Striated) )"]
-  N4 --> N5["Apical Na+/H+ & Cl-/HCO3- Exchangers: Reabsorb Na+ and Cl"]
-  N5 --> N6["Excrete K+ and HCO3"]
-  N6 --> N7["Ductal epithelium is IMPERMEABLE TO WATER"]
-  N7 --> N8["( Final Saliva )"]
-  N8 --> N9["HYPOTONIC (Low Na+, Low Cl-, High K+, High HCO3-)"]
+    A[Salivary acinar cells] --> B[Primary isotonic secretion]
+    B --> C[Salivary ducts reabsorb Na+ and Cl-]
+    C --> D[Ducts secrete K+ and HCO3-]
+    D --> E[Water permeability is low]
+    E --> F[Final saliva is hypotonic]
 ```
+
 1. **Primary Acinar Secretion**: Acinar cells produce an **isotonic primary fluid** possessing electrolyte concentrations nearly identical to plasma ($[\text{Na}^+] \approx 145$, $[\text{Cl}^-] \approx 100$, $[\text{K}^+] \approx 4$, $[\text{HCO}_3^-] \approx 24\text{ mEq/L}$).
 2. **Ductal Modification**: As primary saliva flows through intercalated and striated ducts, ductal epithelial cells actively reabsorb $\text{Na}^+$ and $\text{Cl}^-$ while secreting $\text{K}^+$ and $\text{HCO}_3^-$. Because ductal cell tight junctions are **impermeable to water**, solute reabsorption exceeds water reabsorption, making the final saliva **hypotonic**.
 
@@ -47,21 +43,13 @@ Salivary glands are unique in being **stimulated by both parasympathetic and sym
 
 ### 1. Cellular Mechanism of Gastric Acid ($\text{HCl}$) Secretion
 
-```mermaid
-flowchart TD
-  A["PARIETAL CELL HCl SECRETION"]
-  A --> N1["BASOLATERAL BLOOD DOMAIN PARIETAL CELL APICAL GASTRIC LUMEN"]
-  N1 --> N2["HCO3- less than ========================== CO2 + H2O"]
-  N2 --> N3["/ (HCO3-/Cl- Exchanger) / (Carbonic Anhydrase II)"]
-  N3 --> N4["( Blood ) H+ + HCO3"]
-  N4 --> N5["'Alkaline Tide' /"]
-  N5 --> N6["Cl"]
-  N6 --> N7["/ (Cl- Conductance Channel)"]
-  N7 --> N8["K+ less than ---------------------------- K+ less than ======================== K+"]
-  N8 --> N9["(H+/K+ ATPase Pump) /"]
-  N9 --> N10["H+"]
-  N10 --> N11["(pH ~ 0.8)"]
-```
+**Parietal-cell hydrochloric acid secretion**
+
+1. Carbonic anhydrase II catalyses formation of intracellular $H^+$ and $HCO_3^-$ from $CO_2$ and water.
+2. The apical $H^+/K^+$-ATPase secretes $H^+$ into the canaliculus in exchange for $K^+$; potassium is recycled through apical channels.
+3. Chloride exits across the apical membrane and combines with luminal hydrogen ions to form hydrochloric acid.
+4. Bicarbonate exits basolaterally in exchange for chloride, producing the post-prandial **alkaline tide** in gastric venous blood.
+
 1. **Intracellular $\text{H}^+$ Generation**: Cytosolic **Carbonic Anhydrase II** catalyzes $\text{CO}_2 + \text{H}_2\text{O} \rightleftharpoons \text{H}_2\text{CO}_3 \rightleftharpoons \text{H}^+ + \text{HCO}_3^-$.
 2. **Apical Proton Pumping**: The primary active **$\text{H}^+/\text{K}^+$-ATPase (Proton Pump)** pumps $\text{H}^+$ out across the apical canalicular membrane into the lumen against a $1:1,000,000$ concentration gradient in exchange for $\text{K}^+$.
 3. **Apical Chloride Efflux**: $\text{Cl}^-$ flows passively down its electrochemical gradient into the lumen through apical chloride channels, pairing with $\text{H}^+$ to form $\text{HCl}$.
@@ -71,26 +59,16 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-  A["NEUROHORMONAL PARIETAL CELL STIMULATION"]
-  A --> N1["( Vagus Nerve ) ------ (ACh)"]
-  N1 --> N2["M3 Receptor ----+"]
-  N2 --> N3["/"]
-  N3 --> N4["( PLC / IP3 / Ca2+ ) --+"]
-  N4 --> N5["( G Cell ) ----------- (Gastrin)"]
-  N5 --> N6["CCKb Receptor --+ /"]
-  N6 --> N7["/"]
-  N7 --> N8["Activates"]
-  N8 --> N9["( ECL Cell ) --------- (Histamine)"]
-  N9 --> N10["H2 Receptor"]
-  N10 --> N11["( Adenylyl Cyclase/cAMP)-+ H+/K+ ATPase"]
-  N11 --> N12["/ Proton Pump"]
-  N12 --> N13["( D Cell ) ----------- (Somatostatin)"]
-  N13 --> N14["SST-R"]
-  N14 --> N15["( Inhibits AC / cAMP )----+"]
-  N15 --> N16["( Endothelial ) ------ (PGE2)"]
-  N16 --> N17["EP3-R"]
-  N17 --> N18["( Inhibits AC / cAMP )----+"]
+    A[Acetylcholine] --> B[M3 receptor]
+    C[Gastrin] --> D[CCK-B receptor]
+    B --> E[PLC / IP3 / Ca2+ pathway]
+    D --> E
+    F[Histamine from ECL cells] --> G[H2 receptor / cAMP pathway]
+    E --> H[Potentiated activation of parietal-cell proton pump]
+    G --> H
+    I[Somatostatin and prostaglandins] --> J[Inhibit cAMP and acid secretion]
 ```
+
 * **Direct Stimulants**:
   1. **Histamine**: Released by ECL cells. Binds parietal $\text{H}_2$ receptors $\rightarrow$ Activates $G_{\alpha s}$ $\rightarrow$ Stimulates Adenylyl Cyclase $\rightarrow \uparrow\text{cAMP} \rightarrow$ Activates Protein Kinase A (PKA). **Strongest physiological stimulus for acid secretion**.
   2. **Acetylcholine (ACh)**: Released by postganglionic vagal fibers. Binds parietal $M_3$ receptors $\rightarrow$ Activates $G_{\alpha q}$ $\rightarrow \uparrow\text{IP}_3/\text{Ca}^{2+}$.
@@ -113,22 +91,13 @@ The exocrine pancreas secretes 1.5–2.0 Liters/day of an alkaline, enzyme-rich 
 
 ### 1. Ductal Bicarbonate Secretion
 
-```mermaid
-flowchart TD
-  A["PANCREATIC DUCTAL CELL HCO3- SECRETION"]
-  A --> N1["BLOOD / INTERSTITIUM DUCTAL CELL PANCREATIC DUCT LUMEN"]
-  N1 --> N2["Na+"]
-  N2 --> N3["/ (Na+/K+ ATPase)"]
-  N3 --> N4["CO2 + H2O"]
-  N4 --> N5["/ (Carbonic Anhydrase)"]
-  N5 --> N6["HCO3- + H+"]
-  N6 --> N7["H+ (Na+/H+ Exchanger to blood)"]
-  N7 --> N8["Cl- less than ================================ HCO3"]
-  N8 --> N9["HCO3"]
-  N9 --> N10["/ (AE1 / SLC26A6 Exchanger) (pH ~ 8.2)"]
-  N10 --> N11["Cl- less than ------------------------ Cl"]
-  N11 --> N12["(CFTR Channel recycling)"]
-```
+**Pancreatic ductal bicarbonate secretion**
+
+- Ductal cells generate intracellular bicarbonate from carbon dioxide and water via carbonic anhydrase.
+- Bicarbonate is secreted apically through chloride/bicarbonate exchange; CFTR recycles luminal chloride to support this exchange.
+- Basolateral transporters maintain intracellular ion gradients and move acid equivalents toward the blood.
+- **Secretin** increases cAMP and stimulates ductal bicarbonate-rich fluid secretion.
+
 * **Mechanism**: Ductal cells express high levels of Carbonic Anhydrase. Intracellular $\text{HCO}_3^-$ is actively transported across the apical membrane into the ductal lumen via a $\text{Cl}^-/\text{HCO}_3^-$ exchanger (SLC26A6).
 * **CFTR Role**: The **Cystic Fibrosis Transmembrane Conductance Regulator (CFTR)** is an apical $\text{Cl}^-$ channel that recycles $\text{Cl}^-$ back into the lumen to maintain luminal $\text{Cl}^-$ levels required for the $\text{Cl}^-/\text{HCO}_3^-$ exchanger to operate.
   * *Clinical Correlation (Cystic Fibrosis)*: Defective CFTR impairs $\text{Cl}^-$ recycling $\rightarrow$ Loss of ductal $\text{HCO}_3^-$ and water secretion $\rightarrow$ Hyperviscid proteinaceous secretions plug pancreatic ducts $\rightarrow$ Ductal ectasia, acinar atrophy, fibrosis, and pancreatic exocrine insufficiency.
@@ -142,18 +111,12 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-  A["DUODENAL LUMINAL ZYMOGEN ACTIVATION CASCADE"]
-  A --> N1["Pancreatic Secretion"]
-  N1 --> N2["(Trypsinogen) --------------+"]
-  N2 --> N3["Duodenal Brush Border v"]
-  N3 --> N4["( Enteropeptidase )"]
-  N4 --> N5["Trypsinogen"]
-  N5 --> N6["TRYPSIN (Active)"]
-  N6 --> N7["(Enterokinase) /"]
-  N7 --> N8["Trypsinogen Chymotrypsinogen Procarboxypeptidases"]
-  N8 --> N9["TRYPSIN CHYMOTRYPSIN CARBOXYPEPTIDASES"]
-  N9 --> N10["(Auto-Activation)"]
+    A[Pancreatic acinar cells secrete trypsinogen] --> B[Duodenal brush-border enteropeptidase]
+    B --> C[Trypsinogen is converted to trypsin]
+    C --> D[Trypsin activates additional trypsinogen]
+    C --> E[Trypsin activates other pancreatic zymogens]
 ```
+
 * **Preventing Autodigestion in the Pancreas**:
   1. Synthesis of proteolytic enzymes as inactive **zymogens**.
   2. Packaging of zymogens in membrane-bound vesicles separated from the cytosol.
@@ -184,14 +147,14 @@ Bile is an isotonic aqueous fluid synthesized continuously by hepatocytes (~500�
 
 ```mermaid
 flowchart TD
-  A["ENTEROHEPATIC CIRCULATION OF BILE SALTS"]
-  A --> N1["HEPATOCYTES ------------ (Bile Canaliculi / BSEP)"]
-  N1 --> N2["GALLBLADDER"]
-  N2 --> N3["/ (CCK-induced contraction)"]
-  N3 --> N4["Portal Vein less than ======= TERMINAL ILEUM less than ======================= INTESTINAL LUMEN"]
-  N4 --> N5["(NTCP Transporter) (ASBT Active Reabsorption) (Lipid Emulsification)"]
-  N5 --> N6["( 95% Recycled ) ( 5% Lost in Feces )"]
+    A[Terminal ileal lumen] --> B[ASBT-mediated uptake of bile salts]
+    B --> C[Enterocyte basolateral export]
+    C --> D[Portal venous blood]
+    D --> E[Hepatic uptake by hepatocytes]
+    E --> F[Resecretion into bile]
+    F --> G[Return to intestinal lumen]
 ```
+
 * **Ileal Reabsorption**: Over **95%** of the bile salt pool (~2.5 grams, recycled 4–12 times/day) is reabsorbed in the **terminal ileum** via the **Apical Sodium-Dependent Bile Acid Transporter (ASBT)**.
 * **Hepatic Uptake**: Reabsorbed bile salts pass through portal circulation bound to albumin and are avidly cleared by hepatocytes via the basolateral **$\text{Na}^+$-Taurocholate Cotransporting Polypeptide (NTCP)**.
 * **Fecal Excretion**: Only ~5% (~0.5 g/day) escapes ileal reabsorption and is excreted in feces. This fecal loss equals daily hepatic synthesis from cholesterol.
