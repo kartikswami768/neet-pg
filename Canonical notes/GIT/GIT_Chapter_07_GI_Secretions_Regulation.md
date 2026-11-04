@@ -12,7 +12,7 @@ tags:
 
 ## 7.1 Salivary Secretion
 
-Saliva is a hypotonic fluid secreted by three pairs of major salivary glands (Parotid, Submandibular, Sublingual) and numerous minor buccal glands. Total daily volume is 1.0–1.5 Liters.
+Saliva is a <strong>hypotonic fluid</strong> secreted by three pairs of major salivary glands (Parotid, Submandibular, Sublingual) and numerous minor buccal glands. Total daily volume is 1.0–1.5 Liters.
 
 ### 1. Two-Stage Model of Salivary Secretion
 
@@ -25,17 +25,34 @@ flowchart TD
     E --> F[Final saliva is hypotonic]
 ```
 
-1. **Primary Acinar Secretion**: Acinar cells produce an **isotonic primary fluid** possessing electrolyte concentrations nearly identical to plasma ($[\text{Na}^+] \approx 145$, $[\text{Cl}^-] \approx 100$, $[\text{K}^+] \approx 4$, $[\text{HCO}_3^-] \approx 24\text{ mEq/L}$).
-2. **Ductal Modification**: As primary saliva flows through intercalated and striated ducts, ductal epithelial cells actively reabsorb $\text{Na}^+$ and $\text{Cl}^-$ while secreting $\text{K}^+$ and $\text{HCO}_3^-$. Because ductal cell tight junctions are **impermeable to water**, solute reabsorption exceeds water reabsorption, making the final saliva **hypotonic**.
+1. **Primary Acinar Secretion**: 
+	- Acinar cells produce an **isotonic primary fluid** possessing electrolyte concentrations nearly identical to plasma 
+	- $[\text{Na}^+] \approx 145$, $[\text{Cl}^-] \approx 100$, 
+	- $[\text{K}^+] \approx 4$, 
+	- $[\text{HCO}_3^-] \approx 24\text{ mEq/L}$).
+2. **Ductal Modification**: 
+	- As primary saliva flows through intercalated and striated ducts, ductal epithelial cells actively reabsorb $\text{Na}^+$ and $\text{Cl}^-$ while secreting $\text{K}^+$ and $\text{HCO}_3^-$.
+	- Because ductal cell tight junctions are **impermeable to water**, solute reabsorption exceeds water reabsorption, making the final saliva **hypotonic**.
 
 ### 2. Flow Rate Dynamics
-* **Unstimulated / Low Flow Rate**: Saliva spends prolonged time in contact with ductal cells $\rightarrow$ Maximum $\text{Na}^+$ and $\text{Cl}^-$ reabsorption $\rightarrow$ Extreme **hypotonicity** (lowest $[\text{Na}^+]$ and $[\text{Cl}^-]$, elevated $[\text{K}^+]$).
-* **Stimulated / High Flow Rate**: Rapid transit minimizes ductal contact time $\rightarrow$ Final saliva composition approaches primary acinar fluid (elevated $[\text{Na}^+]$ and $[\text{Cl}^-]$; elevated $[\text{HCO}_3^-]$ due to direct secretagogue ductal stimulation). $[\text{K}^+]$ remains higher than plasma.
+* **Unstimulated / Low Flow Rate**: 
+	* Saliva spends prolonged time in contact with ductal cells $\rightarrow$ Maximum $\text{Na}^+$ and $\text{Cl}^-$ reabsorption $\rightarrow$ Extreme **hypotonicity** (lowest $[\text{Na}^+]$ and $[\text{Cl}^-]$, elevated $[\text{K}^+]$).
+* **Stimulated / High Flow Rate**: 
+	* Rapid transit minimizes ductal contact time $\rightarrow$ Final saliva composition approaches primary acinar fluid 
+		* elevated $[\text{Na}^+]$ and $[\text{Cl}^-]$; 
+		* elevated $[\text{HCO}_3^-]$ due to direct secretagogue ductal stimulation 
+	* $[\text{K}^+]$ remains higher than plasma.
 
 ### 3. Autonomic Regulation
 Salivary glands are unique in being **stimulated by both parasympathetic and sympathetic divisions** (parasympathetic is quantitatively dominant):
-* **Parasympathetic (CN VII & IX)**: Triggered by taste, smell, or chewing via solitary nucleus. Cholinergic postganglionic activation of $M_3$ receptors increases intracellular $\text{IP}_3/\text{Ca}^{2+}$, inducing **copious, watery saliva** rich in enzymes, accompanied by intense kallikrein-mediated vasodilation.
-* **Sympathetic (T1–T3)**: Superior cervical ganglion postganglionic noradrenergic activation of $\beta$-adrenergic receptors increases intracellular cAMP, inducing a **small volume of thick, viscid, mucin-rich saliva**.
+* **Parasympathetic (CN VII & IX)**: 
+	* Triggered by taste, smell, or chewing via solitary nucleus. 
+	* Cholinergic postganglionic activation of $M_3$ receptors increases intracellular $\text{IP}_3/\text{Ca}^{2+}$
+	* It induces **copious, watery saliva** rich in enzymes, accompanied by intense kallikrein-mediated vasodilation.
+* **Sympathetic (T1–T3)**: 
+	* Superior cervical ganglion postganglionic noradrenergic activation of $\beta$-adrenergic receptors 
+	* it increases intracellular cAMP, 
+	* Induces a **small volume of thick, viscid, mucin-rich saliva**.
 
 ---
 
