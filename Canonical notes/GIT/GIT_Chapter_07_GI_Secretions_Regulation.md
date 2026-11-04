@@ -61,6 +61,7 @@ Salivary glands are unique in being **stimulated by both parasympathetic and sym
 ### 1. Cellular Mechanism of Gastric Acid ($\text{HCl}$) Secretion
 
 **Parietal-cell hydrochloric acid secretion**
+![[IMG_1374.webp]]
 
 1. Carbonic anhydrase II catalyses formation of intracellular $H^+$ and $HCO_3^-$ from $CO_2$ and water.
 2. The apical $H^+/K^+$-ATPase secretes $H^+$ into the canaliculus in exchange for $K^+$; potassium is recycled through apical channels.
@@ -87,18 +88,31 @@ flowchart TD
 ```
 
 * **Direct Stimulants**:
-  1. **Histamine**: Released by ECL cells. Binds parietal $\text{H}_2$ receptors $\rightarrow$ Activates $G_{\alpha s}$ $\rightarrow$ Stimulates Adenylyl Cyclase $\rightarrow \uparrow\text{cAMP} \rightarrow$ Activates Protein Kinase A (PKA). **Strongest physiological stimulus for acid secretion**.
-  2. **Acetylcholine (ACh)**: Released by postganglionic vagal fibers. Binds parietal $M_3$ receptors $\rightarrow$ Activates $G_{\alpha q}$ $\rightarrow \uparrow\text{IP}_3/\text{Ca}^{2+}$.
-  3. **Gastrin**: Released by G cells. Binds parietal $\text{CCK}_B$ receptors $\rightarrow$ Activates $G_{\alpha q}$ $\rightarrow \uparrow\text{IP}_3/\text{Ca}^{2+}$.
-* **Potentiation Effect**: Simultaneous activation of cAMP and $\text{Ca}^{2+}$ pathways yields an acid output greater than the sum of individual stimuli. This is why blocking one pathway (e.g., $\text{H}_2$ blocker) markedly reduces overall response to ACh and Gastrin.
+  1. **Histamine**: 
+	  - Released by ECL cells. 
+	  - Binds parietal $\text{H}_2$ receptors $\rightarrow$ Activates $G_{\alpha s}$ $\rightarrow$ Stimulates Adenylyl Cyclase $\rightarrow \uparrow\text{cAMP} \rightarrow$ Activates Protein Kinase A (PKA). 
+	  - **Strongest physiological stimulus for acid secretion**.
+  2. **Acetylcholine (ACh)**: 
+	  - Released by postganglionic vagal fibers. Binds parietal $M_3$ receptors $\rightarrow$ Activates $G_{\alpha q}$ $\rightarrow \uparrow\text{IP}_3/\text{Ca}^{2+}$.
+  3. **Gastrin**: 
+	  - Released by G cells. Binds parietal $\text{CCK}_B$ receptors $\rightarrow$ Activates $G_{\alpha q}$ $\rightarrow \uparrow\text{IP}_3/\text{Ca}^{2+}$.
+
+* **Potentiation Effect**: 
+	* Simultaneous activation of cAMP and $\text{Ca}^{2+}$ pathways yields an acid output **greater than the sum of individual stimuli.** 
+	* This is why blocking one pathway (e.g., $\text{H}_2$ blocker) markedly reduces overall response to ACh and Gastrin.
+
 * **Direct Inhibitors**:
-  1. **Somatostatin**: Binds SST-2 receptors $\rightarrow$ Activates $G_{\alpha i}$ $\rightarrow$ Inhibits Adenylyl Cyclase, lowering cAMP. Also directly suppresses ECL histamine release and G-cell gastrin release.
-  2. **Prostaglandins ($\text{PGE}_2/\text{PGI}_2$)**: Bind $\text{EP}_3$ receptors on parietal cells, lowering cAMP. Simultaneously stimulate surface mucous/bicarbonate secretion and mucosal blood flow.
+  1. **Somatostatin**: 
+	  - Binds SST-2 receptors $\rightarrow$ Activates $G_{\alpha i}$ $\rightarrow$ Inhibits Adenylyl Cyclase, lowering cAMP. 
+	  - Also directly suppresses ECL histamine release and G-cell gastrin release.
+  2. **Prostaglandins ($\text{PGE}_2/\text{PGI}_2$)**: 
+	  - Bind $\text{EP}_3$ receptors on parietal cells, lowering cAMP. 
+	  - Simultaneously stimulate surface mucous/bicarbonate secretion and mucosal blood flow.
 
 ### 3. Phases of Gastric Secretion
 1. **Cephalic Phase (30%)**: Initiated by sight, smell, taste, or thought of food. Mediated entirely by the **Vagus nerve**. Vagal fibers directly stimulate parietal cells (ACh) and G cells (releasing Gastrin-Releasing Peptide [GRP]).
-2. **Gastric Phase (60%)**: Initiated by distension of the stomach (vago-vagal and local enteric reflexes) and presence of digested amino acids/peptides in the antrum directly stimulating G cells to release Gastrin.
-3. **Intestinal Phase (10%)**: Initiated by presence of amino acids in the proximal duodenum (transient gastrin release). Followed by powerful inhibitory feedback as chyme acidity ($\text{pH} < 2.0$), lipids, and hyperosmolality trigger **Secretin**, **CCK**, **GIP**, and the enterogastric reflex to halt gastric acid production.
+2. **Gastric Phase (60%)**: Initiated by <strong>distension of the stomach</strong> (vago-vagal and local enteric reflexes) and ==presence of digested amino acids/peptides in the antrum directly stimulating G cells to release Gastrin.==
+3. **Intestinal Phase (10%)**: Initiated by presence of ==amino acids in the proximal duodenum== <mark style="background-color: #ffd1e4; color: #5c203d;">(transient gastrin release).</mark> ==Followed by powerful inhibitory feedback as chyme acidity ($\text{pH} < 2.0$), lipids, and hyperosmolality trigger **Secretin**, **CCK**, **GIP**, and the enterogastric reflex to halt gastric acid production.==
 
 ---
 
@@ -181,16 +195,16 @@ flowchart TD
 
 ## 7.5 Summary Matrix of Major GI Hormones
 
-| Hormone | Primary Source | Stimulus for Secretion | Major Actions | Clinical Applications / Pathophysiology |
-| :--- | :--- | :--- | :--- | :--- |
-| **Gastrin** | G cells (Antrum, Duodenum) | Oligopeptides, amino acids, antral distension, vagal (GRP) | $\uparrow \text{HCl}$ secretion from parietal cells; $\uparrow$ gastric mucosal growth | Excess in **Zollinger-Ellison Syndrome** (Gastrinoma) $\rightarrow$ severe recurrent PUD |
-| **Cholecystokinin (CCK)** | I cells (Duodenum, Jejunum) | Fatty acids, monoglycerides, small peptides | $\uparrow$ Gallbladder contraction, $\uparrow$ pancreatic acinar secretion, delays gastric emptying, relaxes Sphincter of Oddi | Diagnostic gallbladder ejection fraction assessment (CCK-cholescintigraphy) |
-| **Secretin** | S cells (Duodenum) | Luminal acid ($\text{pH} < 4.5$), fatty acids | $\uparrow$ Pancreatic & biliary $\text{HCO}_3^-$ secretion, $\downarrow \text{HCl}$ secretion | Secretin stimulation test for ZES and chronic pancreatic insufficiency |
-| **GIP** | K cells (Duodenum, Jejunum) | Luminal glucose, amino acids, fatty acids | $\uparrow$ Glucose-dependent insulin release (Incretin), $\downarrow \text{HCl}$ secretion | Basis for incretin-based diabetes therapeutics |
-| **GLP-1** | L cells (Ileum, Colon) | Luminal nutrients | $\uparrow$ Glucose-dependent insulin, $\downarrow$ glucagon, delays gastric emptying, promotes satiety | **GLP-1 Receptor Agonists** (Semaglutide, Liraglutide) used for T2DM and obesity |
-| **Somatostatin** | D cells (Stomach, Pancreas) | Luminal acid | Universal inhibitor of GI secretions, motility, and blood flow | **Octreotide** (synthetic analog) treats acute variceal bleeds, VIPomas, carcinoid syndrome |
-| **Motilin** | M cells (Duodenum, Jejunum) | Fasting / Interdigestive state | Initiates Migrating Motor Complexes (Phase III MMCs) | **Erythromycin** acts as motilin receptor agonist to treat gastroparesis |
-| **Ghrelin** | P/D1 cells (Stomach fundus) | Hypoglycemia, fasting | Orexigenic (stimulates hunger via hypothalamic NPY/AgRP) | Levels drop post-sleeve gastrectomy, contributing to sustained weight loss |
+|           | Hormone                   | Primary Source              | Stimulus for Secretion                                     | Major Actions                                                                                                                  | Clinical Applications / Pathophysiology                                                     |
+| :-------- | :------------------------ | :-------------------------- | :--------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ |
+| 1         | **Gastrin**               | G cells (Antrum, Duodenum)  | Oligopeptides, amino acids, antral distension, vagal (GRP) | $\uparrow \text{HCl}$ secretion from parietal cells; $\uparrow$ gastric mucosal growth                                         | Excess in **Zollinger-Ellison Syndrome** (Gastrinoma) $\rightarrow$ severe recurrent PUD    |
+| 2         | **Somatostatin**          | D cells (Stomach, Pancreas) | Luminal acid                                               | Universal inhibitor of GI secretions, motility, and blood flow                                                                 | **Octreotide** (synthetic analog) treats acute variceal bleeds, VIPomas, carcinoid syndrome |
+| <br>3     | **Ghrelin**               | P/D1 cells (Stomach fundus) | Hypoglycemia, fasting                                      | Orexigenic (stimulates hunger via hypothalamic NPY/AgRP)                                                                       | Levels drop post-sleeve gastrectomy, contributing to sustained weight loss                  |
+| <br>4     | **Cholecystokinin (CCK)** | I cells (Duodenum, Jejunum) | Fatty acids, monoglycerides, small peptides                | $\uparrow$ Gallbladder contraction, $\uparrow$ pancreatic acinar secretion, delays gastric emptying, relaxes Sphincter of Oddi | Diagnostic gallbladder ejection fraction assessment (CCK-cholescintigraphy)                 |
+| <br>5     | **Secretin**              | S cells (Duodenum)          | Luminal acid ($\text{pH} < 4.5$), fatty acids              | $\uparrow$ Pancreatic & biliary $\text{HCO}_3^-$ secretion, $\downarrow \text{HCl}$ secretion                                  | Secretin stimulation test for ZES and chronic pancreatic insufficiency                      |
+| <br>6     | **GIP**                   | K cells (Duodenum, Jejunum) | Luminal glucose, amino acids, fatty acids                  | $\uparrow$ Glucose-dependent insulin release (Incretin), $\downarrow \text{HCl}$ secretion                                     | Basis for incretin-based diabetes therapeutics                                              |
+| <br><br>7 | **Motilin**               | M cells (Duodenum, Jejunum) | Fasting / Interdigestive state                             | Initiates Migrating Motor Complexes (Phase III MMCs)                                                                           | **Erythromycin** acts as motilin receptor agonist to treat gastroparesis                    |
+| 8         | **GLP-1**                 | L cells <mark style="background-color: #ffd1e4; color: #5c203d;">(Ileum, Colon)</mark>      | Luminal nutrients                                          | $\uparrow$ Glucose-dependent insulin, $\downarrow$ glucagon, delays gastric emptying, promotes satiety                         | **GLP-1 Receptor Agonists** (Semaglutide, Liraglutide) used for T2DM and obesity            |
 
 ---
 
