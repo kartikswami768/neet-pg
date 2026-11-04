@@ -127,12 +127,12 @@ The exocrine pancreas secretes 1.5–2.0 Liters/day of an alkaline, enzyme-rich 
 - Ductal cells generate intracellular bicarbonate from carbon dioxide and water via carbonic anhydrase.
 - Bicarbonate is secreted apically through chloride/bicarbonate exchange; CFTR recycles luminal chloride to support this exchange.
 - Basolateral transporters maintain intracellular ion gradients and move acid equivalents toward the blood.
-- **Secretin** increases cAMP and stimulates ductal bicarbonate-rich fluid secretion.
 
-* **Mechanism**: Ductal cells express high levels of Carbonic Anhydrase. Intracellular $\text{HCO}_3^-$ is actively transported across the apical membrane into the ductal lumen via a $\text{Cl}^-/\text{HCO}_3^-$ exchanger (SLC26A6).
-* **CFTR Role**: The **Cystic Fibrosis Transmembrane Conductance Regulator (CFTR)** is an apical $\text{Cl}^-$ channel that recycles $\text{Cl}^-$ back into the lumen to maintain luminal $\text{Cl}^-$ levels required for the $\text{Cl}^-/\text{HCO}_3^-$ exchanger to operate.
-  * *Clinical Correlation (Cystic Fibrosis)*: Defective CFTR impairs $\text{Cl}^-$ recycling $\rightarrow$ Loss of ductal $\text{HCO}_3^-$ and water secretion $\rightarrow$ Hyperviscid proteinaceous secretions plug pancreatic ducts $\rightarrow$ Ductal ectasia, acinar atrophy, fibrosis, and pancreatic exocrine insufficiency.
 * **Control**: **Secretin** (released from duodenal S cells in response to luminal $\text{pH} < 4.5$) binds ductal receptors, raising cAMP, opening CFTR channels, and driving maximum $\text{HCO}_3^-$ output.
+	- **Secretin** increases cAMP and stimulates ductal bicarbonate-rich fluid secretion.
+	* **Mechanism**: Ductal cells express high levels of Carbonic Anhydrase. Intracellular $\text{HCO}_3^-$ is actively transported across the apical membrane into the ductal lumen via a $\text{Cl}^-/\text{HCO}_3^-$ exchanger (SLC26A6).
+	* **CFTR Role**: The **Cystic Fibrosis Transmembrane Conductance Regulator (CFTR)** is an apical $\text{Cl}^-$ channel that recycles $\text{Cl}^-$ back into the lumen to maintain luminal $\text{Cl}^-$ levels required for the $\text{Cl}^-/\text{HCO}_3^-$ exchanger to operate.
+		* *Clinical Correlation (Cystic Fibrosis)*: Defective CFTR impairs $\text{Cl}^-$ recycling $\rightarrow$ Loss of ductal $\text{HCO}_3^-$ and water secretion $\rightarrow$ Hyperviscid proteinaceous secretions plug pancreatic ducts $\rightarrow$ Ductal ectasia, acinar atrophy, fibrosis, and pancreatic exocrine insufficiency.
 
 ### 2. Acinar Enzyme Secretion & The Zymogen Cascade
 * **Pancreatic Enzymes**:
