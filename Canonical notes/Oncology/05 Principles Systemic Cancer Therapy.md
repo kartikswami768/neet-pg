@@ -100,12 +100,20 @@ graph TD
 	  * **Dilated Cardiomyopathy & Congestive Heart Failure** caused by iron-mediated free radical generation (cumulative lifetime dose limit for Doxorubicin is $450–550\text{ mg/m}^2$). 	  
 	  * **Dexrazoxane** (an iron-chelating agent) is administered for cardioprotection in high-dose settings.
   * **Bleomycin**: 
-	  * Glycopeptide antibiotic; binds DNA and generates free radicals causing single/double-strand breaks in $G_2/M$ phase. Dose-limiting toxicity: **Pulmonary Fibrosis** (presents with dry cough, dyspnea, and reduced DLCO; cumulative dose limit $>400\text{ units}$). Minimal myelosuppressive activity.
+	  * Glycopeptide antibiotic; 
+	  * binds DNA and generates free radicals causing single/double-strand breaks in $G_2/M$ phase. 
+	  * Dose-limiting toxicity: 
+		  * **Pulmonary Fibrosis** (presents with dry cough, dyspnea, and reduced DLCO; cumulative dose limit $>400\text{ units}$). 
+		  * Minimal myelosuppressive activity.
 
 #### 5. Microtubule Inhibitors (Cell Cycle M-Phase Specific)
-* **Vinca Alkaloids (Vincristine, Vinblastine)**: Bind to $\beta$-tubulin and **inhibit tubulin polymerization**, preventing mitotic spindle assembly ($M$-phase arrest).
-  * *Vincristine*: Dose-limiting toxicity: **Peripheral Sensory-Motor Neuropathy** and autonomic neuropathy (paralytic ileus/constipation). Minimal myelosuppression. **Strictly contraindicated for intrathecal administration (fatal neurotoxicity)**.
-  * *Vinblastine*: Dose-limiting toxicity: Severe **Bone Marrow Suppression**.
+1. **Vinca Alkaloids (Vincristine, Vinblastine)**: 
+	- Bind to $\beta$-tubulin and **inhibit tubulin polymerization**, preventing mitotic spindle assembly ($M$-phase arrest).
+	  * ***Vincristine***: 
+		  * Dose-limiting toxicity: 
+			  * **Peripheral Sensory-Motor Neuropathy** and autonomic neuropathy (paralytic ileus/constipation). 
+			  * Minimal myelosuppression. **Strictly contraindicated for intrathecal administration (fatal neurotoxicity)**.
+	  * ***Vinblastine***: Dose-limiting toxicity: Severe **Bone Marrow Suppression**.
 * **Taxanes (Paclitaxel, Docetaxel)**: Bind to $\beta$-tubulin and **hyper-stabilize polymerized microtubules**, preventing disassembly and freezing cells in mitosis. Dose-limiting toxicities: Myelosuppression, peripheral neuropathy, hypersensitivity reactions (requires pre-medication with dexamethasone, diphenhydramine, and $H_2$ blockers).
 
 #### 6. Topoisomerase Inhibitors
