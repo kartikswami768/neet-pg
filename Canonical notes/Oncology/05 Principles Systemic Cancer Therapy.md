@@ -92,10 +92,15 @@ graph TD
 		  * Co-administration with the xanthine oxidase inhibitor **Allopurinol** blocks 6-MP degradation, leading to fatal toxicity unless the 6-MP dose is reduced by $75\%$.
 
 #### 4. Antitumor Antibiotics
-* **Mechanism**: Intercalate into DNA base pairs, generate free radical oxygen species, and inhibit Topoisomerase II.
+* **Mechanism**: 
+	* Intercalate into DNA base pairs, generate free radical oxygen species, and inhibit Topoisomerase II.
 * **Key Drugs**:
-  * **Anthracyclines (Doxorubicin, Epirubicin)**: Dose-limiting toxicity: **Dilated Cardiomyopathy & Congestive Heart Failure** caused by iron-mediated free radical generation (cumulative lifetime dose limit for Doxorubicin is $450–550\text{ mg/m}^2$). **Dexrazoxane** (an iron-chelating agent) is administered for cardioprotection in high-dose settings.
-  * **Bleomycin**: Glycopeptide antibiotic; binds DNA and generates free radicals causing single/double-strand breaks in $G_2/M$ phase. Dose-limiting toxicity: **Pulmonary Fibrosis** (presents with dry cough, dyspnea, and reduced DLCO; cumulative dose limit $>400\text{ units}$). Minimal myelosuppressive activity.
+  * **Anthracyclines (Doxorubicin, Epirubicin)**: 
+	  * Dose-limiting toxicity: 
+	  * **Dilated Cardiomyopathy & Congestive Heart Failure** caused by iron-mediated free radical generation (cumulative lifetime dose limit for Doxorubicin is $450–550\text{ mg/m}^2$). 	  
+	  * **Dexrazoxane** (an iron-chelating agent) is administered for cardioprotection in high-dose settings.
+  * **Bleomycin**: 
+	  * Glycopeptide antibiotic; binds DNA and generates free radicals causing single/double-strand breaks in $G_2/M$ phase. Dose-limiting toxicity: **Pulmonary Fibrosis** (presents with dry cough, dyspnea, and reduced DLCO; cumulative dose limit $>400\text{ units}$). Minimal myelosuppressive activity.
 
 #### 5. Microtubule Inhibitors (Cell Cycle M-Phase Specific)
 * **Vinca Alkaloids (Vincristine, Vinblastine)**: Bind to $\beta$-tubulin and **inhibit tubulin polymerization**, preventing mitotic spindle assembly ($M$-phase arrest).
