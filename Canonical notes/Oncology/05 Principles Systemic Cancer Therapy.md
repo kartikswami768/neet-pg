@@ -73,23 +73,23 @@ graph TD
 			- diarrhea, 
 			- hand-foot syndrome. 
 			- Severe fatal toxicity occurs in patients with **Dihydropyrimidine Dehydrogenase (DPD) deficiency**.
-  * **Methotrexate (MTX)**: 
-	  * Competitively inhibits **Dihydrofolate Reductase (DHFR)**, depleting intracellular tetrahydrofolate ($\text{FH}_4$). 
-	  * **Leucovorin (Folinic Acid) Rescue** is administered 24 hours post-high-dose MTX to bypass DHFR in normal host cells, preventing fatal myelosuppression. 
-	  * Toxicity: 
-		  * Nephrotoxicity (crystalluria), 
-		  * mucositis, 
-		  * hepatotoxicity.
-  * **Cytarabine (Ara-C)**: 
-	  * Pyrimidine analog; 
-	  * inhibits DNA Polymerase-$\alpha$.
-  * **Gemcitabine**: 
-	  * Cytidine analog; 
-	  * inhibits Ribonucleotide Reductase.
-  * **6-Mercaptopurine (6-MP)**: 
-	  * Purine analog. 
-	  * Metabolized by **Xanthine Oxidase**. 
-	  * Co-administration with the xanthine oxidase inhibitor **Allopurinol** blocks 6-MP degradation, leading to fatal toxicity unless the 6-MP dose is reduced by $75\%$.
+  2. **Methotrexate (MTX)**: 
+		  * Competitively inhibits **Dihydrofolate Reductase (DHFR)**, depleting intracellular tetrahydrofolate ($\text{FH}_4$). 
+		  * **Leucovorin (Folinic Acid) Rescue** is administered 24 hours post-high-dose MTX to bypass DHFR in normal host cells, preventing fatal myelosuppression. 
+		  * Toxicity: 
+			  * Nephrotoxicity (crystalluria), 
+			  * mucositis, 
+			  * hepatotoxicity.
+  3. **Cytarabine (Ara-C)**: 
+		  * Pyrimidine analog; 
+		  * inhibits DNA Polymerase-$\alpha$.
+  4. **Gemcitabine**: 
+		  * Cytidine analog; 
+		  * inhibits Ribonucleotide Reductase.
+  5. **6-Mercaptopurine (6-MP)**: 
+		  * Purine analog. 
+		  * Metabolized by **Xanthine Oxidase**. 
+		  * Co-administration with the xanthine oxidase inhibitor **Allopurinol** blocks 6-MP degradation, leading to fatal toxicity unless the 6-MP dose is reduced by $75\%$.
 
 #### 4. Antitumor Antibiotics
 * **Mechanism**: Intercalate into DNA base pairs, generate free radical oxygen species, and inhibit Topoisomerase II.
