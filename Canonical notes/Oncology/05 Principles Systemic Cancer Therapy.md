@@ -31,26 +31,65 @@ graph TD
 ### Classification of Cytotoxic Chemotherapeutic Agents
 
 #### 1. Alkylating Agents (Cell Cycle-Nonspecific [CCNS])
-* **Mechanism**: Covalently attach alkyl groups to DNA bases (predominantly the $N-7$ position of Guanine), causing DNA cross-linking, strand breaks, and inhibition of DNA replication.
+* **Mechanism**: 
+	* Covalently <strong>attach alkyl groups to DNA bases</strong> (predominantly the $N-7$ position of Guanine).
+	* Causes **DNA cross-linking, strand breaks, and inhibition of DNA replication.**
 * **Key Drugs**:
-  * **Cyclophosphamide & Ifosfamide**: Nitrogen mustard prodrugs activated by hepatic CYP450. Metabolic cleavage yields active phosphoramide mustard and toxic metabolite **Acrolein**. Acrolein accumulates in the urinary bladder causing **Hemorrhagic Cystitis**. Prevented by aggressive hydration and co-administration of **Mesna** (2-mercaptoethane sulfonate, which binds acrolein in urine).
-  * **Melphalan**, **Dacarbazine**, **Temozolomide** (crosses blood-brain barrier; used in glioblastoma).
+	1. **Cyclophosphamide & Ifosfamide**: 
+		- Nitrogen mustard prodrugs activated by hepatic CYP450. 
+		- Metabolic cleavage yields active phosphoramide mustard and toxic metabolite **Acrolein**. 
+		- Acrolein accumulates in the urinary bladder causing **Hemorrhagic Cystitis**. 
+		- Prevented by aggressive hydration and co-administration of **Mesna** (2-mercaptoethane sulfonate, which binds acrolein in urine).
+	2. **Melphalan**, **Dacarbazine**, **Temozolomide** 
+		- crosses blood-brain barrier; used in glioblastoma.
 
 #### 2. Platinum Compounds (CCNS)
-* **Mechanism**: Form reactive platinum complexes that bind covalently to $N-7$ positions of guanine and adenine residues, forming intra-strand and inter-strand DNA cross-links.
-* **Key Drugs**:
-  * **Cisplatin**: High efficacy in testicular, lung, and head & neck cancers. Dose-limiting toxicities: **Nephrotoxicity** (acute tubular necrosis; prevented by pre/post saline hydration) and **Ototoxicity** (irreversible high-frequency sensorineural hearing loss); severe emetogenic potential (requires triple antiemetic prophylaxis).
-  * **Carboplatin**: Less nephrotoxic/emetogenic; dose-limiting toxicity is **Myelosuppression** (particularly severe **Thrombocytopenia**). Dosed using the **Calvert Formula**: $\text{Dose (mg)} = \text{Target AUC} \times (\text{GFR} + 25)$.
-  * **Oxaliplatin**: Key component of FOLFOX for CRC. Dose-limiting toxicity: **Cold-induced peripheral neuropathy** (acute dysesthesias triggered by cold fluid/air).
+- **Mechanism**
+	- Form reactive platinum complexes that bind covalently to $N-7$ positions of guanine and adenine residues, forming **intra-strand and inter-strand DNA cross-links**.
+- **Key Drugs**:
+	  1. **Cisplatin**: 
+		  - High efficacy in testicular, lung, and head & neck cancers. 
+		  - Dose-limiting toxicities: 
+			  - **Nephrotoxicity** (acute tubular necrosis; prevented by pre/post saline hydration) and 
+			  - **Ototoxicity** (irreversible high-frequency sensorineural hearing loss); 
+			  - severe emetogenic potential (requires triple antiemetic prophylaxis).
+	  2. **Carboplatin**: 
+		  - Less nephrotoxic/emetogenic; 
+		  - dose-limiting toxicity is **Myelosuppression** (particularly severe **Thrombocytopenia**). 
+		  - Dosed using the **Calvert Formula**: $\text{Dose (mg)} = \text{Target AUC} \times (\text{GFR} + 25)$.
+	  3. **Oxaliplatin**: 
+		  - Key component of FOLFOX for CRC. 
+		  - Dose-limiting toxicity: **Cold-induced peripheral neuropathy** (acute dysesthesias triggered by cold fluid/air).
 
 #### 3. Antimetabolites (Cell Cycle S-Phase Specific)
-* **Mechanism**: Structural analogs of endogenous purines, pyrimidines, or folates that competitively inhibit key metabolic enzymes or incorporate into DNA/RNA.
+* **Mechanism**: 
+	* **Structural analogs** of endogenous purines, pyrimidines, or folates that **competitively inhibit** key metabolic enzymes or incorporate into DNA/RNA.
 * **Key Drugs**:
-  * **5-Fluorouracil (5-FU) & Capecitabine** (oral prodrug): Inhibits **Thymidylate Synthase (TS)**, preventing dUMP to dTMP conversion. **Leucovorin (Folinic Acid)** is administered concurrently to stabilize the 5-FU-TS-folate ternary complex, **enhancing 5-FU cytotoxicity**. Toxicity: Mucositis, diarrhea, hand-foot syndrome. Severe fatal toxicity occurs in patients with **Dihydropyrimidine Dehydrogenase (DPD) deficiency**.
-  * **Methotrexate (MTX)**: Competitively inhibits **Dihydrofolate Reductase (DHFR)**, depleting intracellular tetrahydrofolate ($\text{FH}_4$). **Leucovorin (Folinic Acid) Rescue** is administered 24 hours post-high-dose MTX to bypass DHFR in normal host cells, preventing fatal myelosuppression. Toxicity: Nephrotoxicity (crystalluria), mucositis, hepatotoxicity.
-  * **Cytarabine (Ara-C)**: Pyrimidine analog; inhibits DNA Polymerase-$\alpha$.
-  * **Gemcitabine**: Cytidine analog; inhibits Ribonucleotide Reductase.
-  * **6-Mercaptopurine (6-MP)**: Purine analog. Metabolized by **Xanthine Oxidase**. Co-administration with the xanthine oxidase inhibitor **Allopurinol** blocks 6-MP degradation, leading to fatal toxicity unless the 6-MP dose is reduced by $75\%$.
+	1. **5-Fluorouracil (5-FU) & Capecitabine** (oral prodrug): 
+		- Inhibits **Thymidylate Synthase (TS)**, preventing dUMP to dTMP conversion. 
+		- **Leucovorin (Folinic Acid)** is administered concurrently to stabilize the 5-FU-TS-folate ternary complex, **enhancing 5-FU cytotoxicity**. 
+		- Toxicity: 
+			- Mucositis, 
+			- diarrhea, 
+			- hand-foot syndrome. 
+			- Severe fatal toxicity occurs in patients with **Dihydropyrimidine Dehydrogenase (DPD) deficiency**.
+  * **Methotrexate (MTX)**: 
+	  * Competitively inhibits **Dihydrofolate Reductase (DHFR)**, depleting intracellular tetrahydrofolate ($\text{FH}_4$). 
+	  * **Leucovorin (Folinic Acid) Rescue** is administered 24 hours post-high-dose MTX to bypass DHFR in normal host cells, preventing fatal myelosuppression. 
+	  * Toxicity: 
+		  * Nephrotoxicity (crystalluria), 
+		  * mucositis, 
+		  * hepatotoxicity.
+  * **Cytarabine (Ara-C)**: 
+	  * Pyrimidine analog; 
+	  * inhibits DNA Polymerase-$\alpha$.
+  * **Gemcitabine**: 
+	  * Cytidine analog; 
+	  * inhibits Ribonucleotide Reductase.
+  * **6-Mercaptopurine (6-MP)**: 
+	  * Purine analog. 
+	  * Metabolized by **Xanthine Oxidase**. 
+	  * Co-administration with the xanthine oxidase inhibitor **Allopurinol** blocks 6-MP degradation, leading to fatal toxicity unless the 6-MP dose is reduced by $75\%$.
 
 #### 4. Antitumor Antibiotics
 * **Mechanism**: Intercalate into DNA base pairs, generate free radical oxygen species, and inhibit Topoisomerase II.
