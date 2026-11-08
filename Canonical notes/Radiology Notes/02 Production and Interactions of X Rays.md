@@ -59,8 +59,8 @@ Because **$>99\%$ of electron kinetic energy is converted into heat**, thermal m
 
 ```mermaid
 flowchart TD
-  A[Heat generated at anode focal track] --> B[Most heat transferred by radiation (about 90%)]
-  A --> C[Smaller fraction conducted through anode stem and bearings (about 10%)]
+  A[Heat generated at anode focal track] --> B["Most heat transferred by radiation (about 90%)"]
+  A --> C["Smaller fraction conducted through anode stem and bearings (about 10%)"]
   B --> D[Glass envelope and insulating oil]
   D --> E[Convection to outer housing and cooling system]
   C --> F[Anode stem and bearings]
