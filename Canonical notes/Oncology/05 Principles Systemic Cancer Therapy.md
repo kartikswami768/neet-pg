@@ -186,7 +186,9 @@ graph LR
     SubT2 -->|Re-established Cytotoxic Attack| SubDestruction[Tumor Lysis]
 ```
 
+
 ### 1. Immune Checkpoint Inhibitors (ICIs)
+
 * **Mechanisms of Action**:
   * **Anti-PD-1 Antibodies (Pembrolizumab, Nivolumab)**: Block the PD-1 receptor on T cells, preventing engagement by tumor-expressed PD-L1/PD-L2 and reversing T-cell exhaustion.
   * **Anti-PD-L1 Antibodies (Atezolizumab, Durvalumab, Avelumab)**: Directly bind PD-L1 on tumor/immune cells.
