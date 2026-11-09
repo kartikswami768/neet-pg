@@ -41,12 +41,12 @@ Ultrasound production and reception depend on the **Piezoelectric Effect**, disc
 	- Thickness determines fundamental resonance frequency ($\text{Thickness} = \frac{1}{2} \text{Wavelength}$).
 - **Damping Layer (Backing Material)**: 
 	- Attached to the rear of the PZT crystal; 
-	- absorbs backward sound waves and dampens crystal ringing to produce short pulse lengths, maximizing axial resolution.
+	- ==absorbs backward sound waves and dampens crystal ringing== to produce short pulse lengths, maximizing axial resolution.
 - **Matching Layer**: 
 	- Placed on the front face of the crystal; 
-	- bridges the severe acoustic impedance mismatch between the PZT crystal ($Z \approx 30 \times 10^6 \text{ Rayls}$) and human soft tissue ($Z \approx 1.5 \times 10^6 \text{ Rayls}$).
+	- ==bridges the severe acoustic impedance mismatch between the PZT crystal ($Z \approx 30 \times 10^6 \text{ Rayls}$) and human soft tissue ($Z \approx 1.5 \times 10^6 \text{ Rayls}$).==
 - **Acoustic Coupling Gel**: 
-	- Eliminates the thin air layer between probe and skin (air $Z = 0.0004 \times 10^6 \text{ Rayls}$, which would otherwise reflect $99.9\%$ of the acoustic beam).
+	- ==Eliminates the thin air layer between probe and skin== (air $Z = 0.0004 \times 10^6 \text{ Rayls}$, which would otherwise reflect $99.9\%$ of the acoustic beam).
 
 ![[IMG_1383.jpeg]]
 
@@ -79,9 +79,9 @@ $$\text{Attenuation} \propto \text{Frequency}$$
 
 | Transducer Type | Frequency Range | Beam Profile & Footprint | Primary Clinical Applications |
 | :--- | :--- | :--- | :--- |
-| **Linear Array** | $7.5 - 15.0 \text{ MHz}$ | Flat rectangular footprint; parallel vertical beam lines | Superficial structures: Thyroid, Breast, Scrotum, Musculoskeletal, Peripheral Vessels |
-| **Curved / Convex Array** | $2.0 - 5.0 \text{ MHz}$ | Curved convex footprint; blunted sector pie-shaped field | Deep abdominal organs, Pelvis, Obstetrics & Gynecology |
-| **Phased Array** | $1.5 - 3.5 \text{ MHz}$ | Small flat footprint; electronic beam steering/focusing forming a triangular sector | Cardiac imaging (Echocardiography), Transcranial Doppler, Intercostal windows |
+| **Linear Array** | $7.5 - 15.0 \text{ MHz}$ | Flat rectangular footprint; parallel vertical beam lines | <strong>Superficial structures:</strong> Thyroid, Breast, Scrotum, Musculoskeletal, ==Peripheral Vessels== |
+| **Curved / Convex Array** | $2.0 - 5.0 \text{ MHz}$ | Curved convex footprint; blunted sector pie-shaped field | <strong>Deep abdominal organs, Pelvis,</strong> Obstetrics & Gynecology |
+| **Phased Array** | $1.5 - 3.5 \text{ MHz}$ | Small flat footprint; electronic beam steering/focusing forming a triangular sector | <strong>Cardiac imaging</strong> (Echocardiography), <strong>Transcranial Doppler,</strong> Intercostal windows |
 
 ---
 
