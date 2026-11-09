@@ -85,11 +85,11 @@ Image weighting is controlled by manipulating two user-selected timing intervals
 1. **Repetition Time (TR)**: Interval between successive 90° RF excitation pulses.
 2. **Echo Time (TE)**: Interval between the 90° RF pulse and reading the peak signal echo.
 
-| Image Weighting | Repetition Time (TR) | Echo Time (TE) | Bright Structures (Hyperintense) | Dark Structures (Hypointense) |
-| :--- | :--- | :--- | :--- | :--- |
-| **$T_1$-Weighted ($T_1\text{W}$)** | **Short** ($<600 \text{ ms}$) | **Short** ($<30 \text{ ms}$) | Subcutaneous Fat, Myelin, Subacute Blood (Methemoglobin), Contrast | Water, CSF, Urine, Chronic Scarring, Calcification |
-| **$T_2$-Weighted ($T_2\text{W}$)** | **Long** ($>2000 \text{ ms}$) | **Long** ($>80 \text{ ms}$) | Water, CSF, Urine, Bile, Cysts, Vasogenic Edema, Inflammation | Cortical Bone, Fibrous Tissue, Air, Calcification |
-| **Proton Density (PD)** | **Long** ($>2000 \text{ ms}$) | **Short** ($<30 \text{ ms}$) | Cartilage, Menisci, Tendons, Ligaments (high SNR) | Air, Cortical Bone |
+| Image Weighting                    | Repetition Time (TR)          | Echo Time (TE)               | Bright Structures (Hyperintense)                                                                          | Dark Structures (Hypointense)                                                                           |
+| :--------------------------------- | :---------------------------- | :--------------------------- | :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ |
+| **$T_1$-Weighted ($T_1\text{W}$)** | **Short** ($<600 \text{ ms}$) | **Short** ($<30 \text{ ms}$) | Subcutaneous Fat, Myelin, Subacute Blood (Methemoglobin), Contrast                                        | <mark style="background: #BBFABBA6;">Water, CSF, Urine </mark>, ==Chronic Scarring==, ==Calcification== |
+| **$T_2$-Weighted ($T_2\text{W}$)** | **Long** ($>2000 \text{ ms}$) | **Long** ($>80 \text{ ms}$)  | <mark style="background: #BBFABBA6;">Water, CSF, Urine</mark>, Bile, Cysts, Vasogenic Edema, Inflammation | Cortical Bone, ==Fibrous Tissue==, Air, ==Calcification==                                               |
+| **Proton Density (PD)**            | **Long** ($>2000 \text{ ms}$) | **Short** ($<30 \text{ ms}$) | Cartilage, Menisci, Tendons, Ligaments (high SNR)                                                         | Air, Cortical Bone                                                                                      |
 
 ### Specialized Advanced MRI Sequences
 
@@ -101,8 +101,8 @@ Image weighting is controlled by manipulating two user-selected timing intervals
 
 > [!IMPORTANT]
 > **Key Sequence Characteristics**:
-> - **FLAIR (Fluid Attenuated Inversion Recovery)**: A $T_2\text{W}$ sequence with an inversion recovery pulse that specifically nulls signal from free fluid (CSF appears **BLACK**). Makes subtle bright lesions adjacent to ventricles (e.g., **Multiple Sclerosis demyelinating plaques**) stand out clearly.
-> - **STIR (Short Tau Inversion Recovery)**: Suppresses fat signal, making marrow edema, occult fractures, and soft tissue inflammation stand out as bright $T_2$ signals. *Pitfall*: STIR cannot be used post-gadolinium because gadolinium shortens $T_1$ to the null point of fat, canceling enhancement.
+> - **FLAIR (Fluid Attenuated Inversion Recovery)**: A $T_2\text{W}$ sequence with an inversion recovery pulse that ==specifically nulls signal from free fluid (CSF appears **BLACK==**). Makes subtle bright lesions adjacent to ventricles (e.g., **Multiple Sclerosis demyelinating plaques**) stand out clearly.
+> - **STIR (Short Tau Inversion Recovery)**: ==Suppresses fat signal==, <mark style="background-color: #ffd1e4; color: #5c203d;">making marrow edema, occult fractures, and soft tissue inflammation stand out as bright $T_2$ signals.</mark> *Pitfall*: STIR cannot be used post-gadolinium because gadolinium shortens $T_1$ to the null point of fat, canceling enhancement.
 > - **DWI & ADC Map (Acute Stroke Workup)**:
 >   - **Restricted Diffusion**: When cytotoxic edema impairs intracellular water movement (e.g., within 30 minutes of acute ischemic stroke onset), water molecules cannot diffuse freely.
 >   - *Appearance*: **BRIGHT (Hyperintense) on DWI** and **DARK (Hypointense) on ADC Map**.
