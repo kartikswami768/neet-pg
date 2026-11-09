@@ -37,10 +37,18 @@ Ultrasound production and reception depend on the **Piezoelectric Effect**, disc
 	- Returning mechanical acoustic echoes strike the PZT crystal, causing physical lattice deformation that generates a proportional electrical voltage processed into image pixels.
 
 ### Transducer Construction
-- **PZT Crystal Element**: Thickness determines fundamental resonance frequency ($\text{Thickness} = \frac{1}{2} \text{Wavelength}$).
-- **Damping Layer (Backing Material)**: Attached to the rear of the PZT crystal; absorbs backward sound waves and dampens crystal ringing to produce short pulse lengths, maximizing axial resolution.
-- **Matching Layer**: Placed on the front face of the crystal; bridges the severe acoustic impedance mismatch between the PZT crystal ($Z \approx 30 \times 10^6 \text{ Rayls}$) and human soft tissue ($Z \approx 1.5 \times 10^6 \text{ Rayls}$).
-- **Acoustic Coupling Gel**: Eliminates the thin air layer between probe and skin (air $Z = 0.0004 \times 10^6 \text{ Rayls}$, which would otherwise reflect $99.9\%$ of the acoustic beam).
+- **PZT Crystal Element**: 
+	- Thickness determines fundamental resonance frequency ($\text{Thickness} = \frac{1}{2} \text{Wavelength}$).
+- **Damping Layer (Backing Material)**: 
+	- Attached to the rear of the PZT crystal; 
+	- absorbs backward sound waves and dampens crystal ringing to produce short pulse lengths, maximizing axial resolution.
+- **Matching Layer**: 
+	- Placed on the front face of the crystal; 
+	- bridges the severe acoustic impedance mismatch between the PZT crystal ($Z \approx 30 \times 10^6 \text{ Rayls}$) and human soft tissue ($Z \approx 1.5 \times 10^6 \text{ Rayls}$).
+- **Acoustic Coupling Gel**: 
+	- Eliminates the thin air layer between probe and skin (air $Z = 0.0004 \times 10^6 \text{ Rayls}$, which would otherwise reflect $99.9\%$ of the acoustic beam).
+
+![[IMG_1383.jpeg]]
 
 ### Acoustic Impedance & Reflection
 The boundary reflection of sound waves depends on differences in **Acoustic Impedance ($Z$)**:
