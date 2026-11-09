@@ -143,10 +143,10 @@ flowchart TD
 
 ### Risk Stratification & Prophylaxis
 * **Primary Risk Factor**: Pre-existing chronic kidney disease (CKD) with an estimated Glomerular Filtration Rate (eGFR) $< 30\text{ mL/min/1.73 m}^2$ (for IV contrast) or $< 45\text{ mL/min/1.73 m}^2$ (for intra-arterial cardiac catheterization).
-* **Synergistic Risk Factors**: Diabetic nephropathy, dehydration/hypovolemia, congestive heart failure, concurrent nephrotoxic drugs (NSAIDs, aminoglycosides, amphotericin B).
+* **Synergistic Risk Factors**: Diabetic nephropathy, dehydration/hypovolemia, congestive heart failure, concurrent nephrotoxic drugs (==NSAIDs==, ==aminoglycosides==, ==amphotericin B==).
 
 > [!TIP]
 > ### Prevention Protocols
 > 1. **Volume Expansion (Gold Standard)**: Intravenous $0.9\%$ Isotonic Saline infusion ($1.0 - 1.5\text{ mL/kg/h}$) started $3-12\text{ hours}$ before and continued $6-12\text{ hours}$ after contrast injection.
 > 2. **Contrast Minimization**: Use lowest diagnostic volume of LOCA or IOCM.
-> 3. **Metformin Rule**: In diabetic patients with eGFR $< 30\text{ mL/min/1.73 m}^2$, withhold Metformin at the time of contrast administration and restart after $48\text{ hours}$ only after verifying stable renal function (prevents fatal **Lactic Acidosis** if CI-AKI develops).
+> 3. ==**Metformin Rule**: In diabetic patients with eGFR $< 30\text{ mL/min/1.73 m}^2$, withhold Metformin at the time of contrast administration and restart after $48\text{ hours}$ only after verifying stable renal function (prevents fatal **Lactic Acidosis** if CI-AKI develops).==
