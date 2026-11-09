@@ -73,7 +73,7 @@ flowchart TD
 
 #### 1. Hematopoietic (Bone Marrow) Syndrome ($1 - 2\text{ Gy}$ Threshold; $2 - 6\text{ Gy}$ Peak)
 * **Target Organ**: Hematopoietic progenitor stem cells in bone marrow and lymphatic system.
-* **Pathophysiology**: Cessation of blood cell production. Lymphocytes drop first (within hours), followed by granulocytes and platelets over 2–4 weeks.
+* **Pathophysiology**: Cessation of blood cell production. ==Lymphocytes drop first== (within hours), followed by granulocytes and platelets over 2–4 weeks.
 * **Clinical Features**: Severe lymphopenia, neutropenia, thrombocytopenia, mucosal bleeding, petechiae, fever, and opportunistic bacterial infections.
 * **Prognosis**: Potentially survivable with supportive care (barrier isolation, broad-spectrum antibiotics, blood transfusions, recombinant G-CSF / Granulocyte Colony-Stimulating Factor). $LD_{50/60}$ (lethal dose for 50% of population in 60 days without treatment) is $\sim 3.5 - 4.5\text{ Gy}$.
 
@@ -99,8 +99,8 @@ The human embryo/fetus is exceptionally radiosensitive due to rapid cell prolife
 | --- | --- | --- |
 | 0–2 weeks after conception | Pre-implantation | Classically described as an all-or-none period: embryonic loss or survival without a major structural malformation. |
 | 2–8 weeks after conception | Organogenesis | Greater susceptibility to structural malformations. |
-| 8–15 weeks after conception | Early fetal period | Greater susceptibility to severe neurodevelopmental effects. |
-| 15–25 weeks after conception | Later fetal period | Neurodevelopmental risk generally decreases but does not disappear. |
+| 8–15 weeks after conception | Early fetal period | Greater susceptibility to severe ==neurodevelopmental effects==. |
+| 15–25 weeks after conception | Later fetal period | ==Neurodevelopmental risk generally decreases but does not disappear.== |
 | After approximately 25 weeks | Later fetal period | Structural teratogenic risk is lower; stochastic childhood cancer risk remains relevant. |
 
 ### Gestational Stage Breakdown
