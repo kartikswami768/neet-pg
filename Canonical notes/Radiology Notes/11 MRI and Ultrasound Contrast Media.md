@@ -12,9 +12,7 @@ title: Chapter 11 - MRI & Ultrasound Contrast Media
 
 # Chapter 11: MRI & Ultrasound Contrast Media
 # MRI
-Magnetic Resonance Imaging (MRI) contrast agents function fundamentally differently from iodinated radiocontrast media used in conventional radiography and Computed Tomography (CT). While X-ray radiocontrast agents directly absorb and attenuate ionizing radiation photons, MRI contrast media exert an indirect effect on signal intensity by altering the magnetic relaxation dynamicsâ€”specifically the longitudinal ($T_1$) and transverse ($T_2$) relaxation timesâ€”of hydrogen nuclei ($H^+$ ions) in adjacent tissue water molecules.
-
----
+Magnetic Resonance Imaging (MRI) contrast agents function fundamentally ==differently from iodinated radiocontrast media== used in conventional radiography and Computed Tomography (CT). While X-ray radiocontrast agents directly absorb and attenuate ionizing radiation photons, MRI contrast media exert an indirect effect on signal intensity by altering the magnetic relaxation dynamics ”specifically the longitudinal ($T_1$) and transverse ($T_2$) relaxation times" of hydrogen nuclei ($H^+$ ions) in adjacent tissue water molecules.
 
 ## 1. Biophysical Principles and Relaxation Mechanics
 
@@ -23,14 +21,14 @@ The diagnostic utility of MRI contrast agents relies on their ability to modify 
 Contrast media are categorized primarily by their predominant effect on relaxation times and the resulting image signal alteration.
 
 ### T1 Relaxation Agents (Positive Contrast Media)
-Paramagnetic substances, most notably gadolinium ($Gd$, atomic number $Z=64$) and manganese ($Mn$), possess unpaired valence electrons that generate local magnetic dipoles. These dipoles accelerate energy transfer from precessing hydrogen protons to the surrounding molecular lattice, a mechanism termed spin-lattice interaction.
+Paramagnetic substances, most notably ==gadolinium== ($Gd$, atomic number $Z=64$) and ==manganese== ($Mn$), possess unpaired valence electrons that generate local magnetic dipoles. These dipoles accelerate energy transfer from precessing hydrogen protons to the surrounding molecular lattice, a mechanism termed spin-lattice interaction.
 
 This spin-lattice interaction significantly shortens the $T_1$ relaxation time. Because tissues with shorter $T_1$ relaxation times recover longitudinal magnetization more rapidly between radiofrequency pulses, they emit higher signal intensity on $T_1$-weighted ($T_1\text{W}$) pulse sequences, presenting as a hyperintense (bright white) region.
 
 ### T2 Relaxation Agents (Negative Contrast Media)
-Superparamagnetic agents, primarily Superparamagnetic Iron Oxide (SPIO) compounds such as ferumoxides, consist of larger crystal aggregates that disturb local magnetic field homogeneity. This micro-environmental inhomogeneity accelerates the dephasing of proton spins across transverse planes, a mechanism termed spin-spin interaction.
+Superparamagnetic agents, primarily ==Superparamagnetic Iron Oxide (SPIO)== compounds such as ferumoxides, consist of larger crystal aggregates that disturb local magnetic field homogeneity. This micro-environmental inhomogeneity accelerates the dephasing of proton spins across transverse planes, a mechanism termed spin-spin interaction.
 
-By predominantly shortening $T_2$ and $T_2^*$ relaxation times, SPIO agents cause rapid decay of transverse magnetization. Tissues taking up superparamagnetic agents appear hypointense (dark or black) on $T_2$-weighted ($T_2\text{W}$) sequences.
+By predominantly shortening $T_2$ and $T_2^*$ relaxation times, SPIO agents ==cause rapid decay of transverse magnetization==. ==Tissues taking up superparamagnetic agents appear hypointense (dark or black) on $T_2$-weighted ($T_2\text{W}$) sequences.==
 
 | Contrast Category | Magnetic Property | Primary Physicochemical Mechanism | Dominant Signal Modification | Representative Compounds |
 | :--- | :--- | :--- | :--- | :--- |
