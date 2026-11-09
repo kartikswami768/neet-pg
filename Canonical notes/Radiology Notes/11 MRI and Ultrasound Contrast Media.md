@@ -92,11 +92,11 @@ When renal clearance is prolonged, gadolinium complexes undergo transmetallation
 ### Patient Risk Stratification
 The probability of developing NSF correlates directly with the degree of underlying renal impairment at the time of contrast administration:
 
-| Risk Category | Clinical Renal Status & eGFR Parameters | Actionable Guideline |
-| :--- | :--- | :--- |
-| **Higher Risk of NSF** | â€¢ Chronic Kidney Disease (CKD Stage 4 or Stage 5)<br>â€¢ Estimated GFR $< 30\text{ mL/min/1.73 m}^2$<br>â€¢ End-Stage Renal Disease on hemodialysis or peritoneal dialysis<br>â€¢ Acute renal insufficiency / Acute Kidney Injury (AKI) | **Strictly Contraindicated.** Gadolinium contrast must be avoided unless no diagnostic alternative exists. |
-| **Intermediate Risk** | â€¢ Moderate CKD Stage 3<br>â€¢ Estimated GFR $30 - 59\text{ mL/min/1.73 m}^2$ | **Use with Caution.** Select lowest-risk macrocyclic agents at minimal diagnostic doses. |
-| **No Risk of NSF** | â€¢ Normal or mildly impaired renal function<br>â€¢ Estimated GFR $> 60\text{ mL/min/1.73 m}^2$ | **Standard Administration Permitted.** |
+| Risk Category          | Clinical Renal Status & eGFR Parameters                                                                                                                                                                                           | Actionable Guideline                                                                                       |
+| :--------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| **Higher Risk of NSF** | - Chronic Kidney Disease (CKD Stage 4 or Stage 5)<br>- Estimated GFR $< 30\text{ mL/min/1.73 m}^2$<br>- End-Stage Renal Disease on hemodialysis or peritoneal dialysis<br>- Acute renal insufficiency / Acute Kidney Injury (AKI) | **Strictly Contraindicated.** Gadolinium contrast must be avoided unless no diagnostic alternative exists. |
+| **Intermediate Risk**  | - Moderate CKD Stage 3<br>â€-stimated GFR $30 - 59\text{ mL/min/1.73 m}^2$                                                                                                                                                        | **Use with Caution.** Select lowest-risk macrocyclic agents at minimal diagnostic doses.                   |
+| **No Risk of NSF**     | - Normal or mildly impaired renal function<br>- Estimated GFR $> 60\text{ mL/min/1.73 m}^2$                                                                                                                                       | **Standard Administration Permitted.**                                                                     |
 
 ### Compound Risk Profiles
 Gadolinium contrast compounds vary substantially in their chemical stability and likelihood of dissociation, dictating their propensity to cause NSF:
@@ -132,7 +132,7 @@ Ionizing radiation imaging modalities carry strict dose restrictions during gest
 
 > **Non-contrast MRI** is considered safe across all trimesters of pregnancy when clinically indicated, provided imaging is performed on a 1.5 Tesla scanner.
 
-Conversely, Gadolinium-based contrast agents cross the placental barrier into the fetal circulation. Because of potential risk to the developing fetus, contrast-enhanced MRI (CE-MRI) should be avoided during pregnancy unless unequivocally necessary to improve clinical outcomes.
+Conversely, Gadolinium-based contrast agents cross the placental barrier into the fetal circulation. ==Because of potential risk to the developing fetus, contrast-enhanced MRI (CE-MRI) should be avoided during pregnancy unless unequivocally necessary to improve clinical outcomes.==
 
 ### Lactation and Breastfeeding Guidelines
 Following intravenous administration to a lactating mother, minimal amounts of gadolinium enter the milk supply. Clinical evidence establishes that less than 0.04% of the administered maternal gadolinium dose is excreted into breast milk, and less than 1% of the ingested milk quantity is absorbed across the infant gastrointestinal tract.
