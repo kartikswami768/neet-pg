@@ -69,12 +69,16 @@ When the RF pulse is turned off, the absorbed energy is released as protons retu
 ### $T_1$ Relaxation (Spin-Lattice / Longitudinal Recovery)
 - Process by which precessing protons transfer absorbed thermal energy to the surrounding molecular lattice, recovering longitudinal magnetization ($M_z$).
 - **$T_1$ Time**: Time required for $M_z$ to recover to **$63\%$ of its maximum original value**.
-- **$T_1$ Brightness Rule**: Tissues that exchange energy quickly (e.g., **Fat**, proteinaceous fluid, subacute methemoglobin blood, gadolinium) have a **Short $T_1$** and appear **HYPERINTENSE (Bright White)** on $T_1\text{W}$ images. Pure water/CSF has a long $T_1$ and appears **HYPOINTENSE (Dark)**.
+- **$T_1$ Brightness Rule**: 
+	- Tissues that exchange energy quickly (e.g., **Fat**, proteinaceous fluid, subacute methemoglobin blood, gadolinium) have a **Short $T_1$** and appear **HYPERINTENSE (Bright White)** on $T_1\text{W}$ images. 
+	- Pure water/CSF has a long $T_1$ and appears **HYPOINTENSE (Dark)**.
 
 ### $T_2$ Relaxation (Spin-Spin / Transverse Decay)
 - Process by which precessing protons lose phase coherence due to magnetic interactions between neighboring proton spins, causing decay of transverse magnetization ($M_{xy}$).
 - **$T_2$ Time**: Time required for $M_{xy}$ to decay down to **$37\%$ of its initial value**.
-- **$T_2$ Brightness Rule**: Tissues with mobile hydrogen molecules (e.g., **Water, CSF, Edema, Tumor, Inflammation**) retain transverse coherence longer, having a **Long $T_2$** and appearing **HYPERINTENSE (Bright White)** on $T_2\text{W}$ images. Fat has a shorter $T_2$ and appears intermediate to dark.
+- **$T_2$ Brightness Rule**: 
+	- Tissues with mobile hydrogen molecules (e.g., **Water, CSF, Edema, Tumor, Inflammation**) retain transverse coherence longer, having a **Long $T_2$** and appearing **HYPERINTENSE (Bright White)** on $T_2\text{W}$ images. 
+	- Fat has a shorter $T_2$ and appears intermediate to dark.
 
 ### Pulse Sequence Timing Parameters (TR & TE)
 Image weighting is controlled by manipulating two user-selected timing intervals:
