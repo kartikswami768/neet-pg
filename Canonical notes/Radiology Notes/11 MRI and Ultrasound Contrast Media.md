@@ -114,3 +114,4 @@ flowchart TD
 1. **Acoustic Backscatter & Resonance**: Under ultrasound acoustic pressure waves, microbubbles oscillate non-linearly (expanding during rarefaction, contracting during compression), generating strong **harmonic signals** that dramatically enhance intravascular Doppler and gray-scale imaging.
 2. **Excretion Safety**: The outer lipid shell is metabolized by the liver, while the gas core is excreted exclusively via **pulmonary exhalation** within $10-15\text{ minutes}$. 
 3. **No Renal Toxicity**: Safe for administration in patients with acute kidney injury, severe renal failure, or iodine/gadolinium allergies without risk of CI-AKI or NSF.
+
