@@ -31,8 +31,10 @@ flowchart TD
 
 ### The Piezoelectric Effect & Transducer Metallurgy
 Ultrasound production and reception depend on the **Piezoelectric Effect**, discovered by Pierre and Jacques Curie:
-1. **Reverse Piezoelectric Effect (Transmission)**: An alternating electrical voltage applied across synthetic ceramic crystals—primarily **Lead Zirconate Titanate (PZT)**—causes mechanical expansion and contraction of the crystal lattice, generating high-frequency acoustic waves.
-2. **Direct Piezoelectric Effect (Reception)**: Returning mechanical acoustic echoes strike the PZT crystal, causing physical lattice deformation that generates a proportional electrical voltage processed into image pixels.
+1. **Reverse Piezoelectric Effect (Transmission)**: 
+	- An alternating electrical voltage applied across synthetic ceramic crystals—primarily ==**Lead Zirconate Titanate (PZT)**==—causes mechanical expansion and contraction of the crystal lattice, generating high-frequency acoustic waves.
+2. **Direct Piezoelectric Effect (Reception)**: 
+	- Returning mechanical acoustic echoes strike the PZT crystal, causing physical lattice deformation that generates a proportional electrical voltage processed into image pixels.
 
 ### Transducer Construction
 - **PZT Crystal Element**: Thickness determines fundamental resonance frequency ($\text{Thickness} = \frac{1}{2} \text{Wavelength}$).
@@ -64,6 +66,8 @@ $$\text{Attenuation} \propto \text{Frequency}$$
 | Common applications | Thyroid, breast, scrotum and superficial vessels. | Abdomen, pelvis and obstetric imaging. |
 
 ### Transducer Array Architectures
+
+![[IMG_1382.jpeg]]
 
 | Transducer Type | Frequency Range | Beam Profile & Footprint | Primary Clinical Applications |
 | :--- | :--- | :--- | :--- |
