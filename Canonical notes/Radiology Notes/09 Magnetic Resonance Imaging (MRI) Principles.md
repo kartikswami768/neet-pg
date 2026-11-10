@@ -122,9 +122,9 @@ flowchart TD
 ```
 
 ### MRI Scanner Components
-1. **Main Superconducting Magnet**: Made of **Niobium-Titanium (NbTi)** wire loops cooled by **Liquid Helium** to **$4.2 \text{ Kelvin}$ ($-269^\circ\text{C}$)** to achieve zero electrical resistance, maintaining a permanent static field ($B_0 = 1.5 \text{ T or } 3.0 \text{ T}$).
+1. **Main Superconducting Magnet**: Made of **Niobium-Titanium (NbTi)** wire loops cooled by ==**Liquid Helium**== to **$4.2 \text{ Kelvin}$ ($-269^\circ\text{C}$)** to achieve zero electrical resistance, maintaining a permanent static field ($B_0 = 1.5 \text{ T or } 3.0 \text{ T}$).
 2. **Gradient Coils**: Three orthogonal electromagnetic coils ($X, Y, Z$) inside the bore that create small linear magnetic field gradients for spatial encoding (slice selection, phase encoding, frequency encoding). *Note*: Rapid switching of gradient coils creates the loud banging acoustic noise during scanning.
-3. **Faraday Cage**: A continuous copper mesh/sheet enclosure lining the entire MRI room walls, floor, and window to prevent external environmental radio waves (radio stations, cellular signals) from corrupting the delicate MRI signal.
+3. **Faraday Cage**: A continuous ==copper== mesh/sheet enclosure lining the entire MRI room walls, floor, and window to prevent external environmental radio waves (radio stations, cellular signals) from corrupting the delicate MRI signal.
 
 ### Signal Intensity Terminology Matrix
 
@@ -145,7 +145,7 @@ flowchart TD
 >    - Metallic intraocular foreign bodies (risk of retinal tear/blindness).
 >    - Ferromagnetic cerebral aneurysm clips (risk of fatal displacement).
 >    - Cochlear implants.
-> 3. **Thermal Risk (RF Heating & Specific Absorption Rate - SAR)**: RF pulses induce electrical currents in long metallic wires (e.g., ECG leads, deep brain stimulators), causing severe skin contact burns.
+> 3. **Thermal Risk (RF Heating & Specific Absorption Rate - SAR)**: RF pulses induce electrical currents in long metallic wires (e.g., ==ECG leads, deep brain stimulators==), causing severe ==skin contact burns.==
 > 4. **Acoustic Noise**: Patients MUST wear earplugs or headphones (gradient coil vibration exceeds $100 - 110 \text{ dBA}$).
 > 5. **Emergency Quench**: Controlled rapid boil-off of liquid helium coolant ($>1000 \text{ Liters}$) venting to the outside atmosphere. Deployed ONLY during life-threatening projectile entrapment or building fire. *Risk*: Helium gas leak into bore causes rapid asphyxiation and frostbite.
 > 6. **Pregnancy Safety**: Non-contrast MRI is safe across **ALL trimesters** at 1.5 T or 3.0 T (no ionizing radiation). Gadolinium contrast is avoided due to unknown fetal risks.

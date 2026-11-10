@@ -140,12 +140,12 @@ Following intravenous administration to a lactating mother, minimal amounts of g
 Consequently, official radiological guidelines confirm that **breastfeeding can be safely continued without interruption** following maternal gadolinium contrast administration.
 # Ultrasound Contrast Agents (Microbubbles)
 
-Ultrasound contrast agents (UCAs) consist of encapsulated **microbubbles** filled with high-molecular-weight inert fluorinated gas surrounded by an outer shell.
+Ultrasound contrast agents (UCAs) consist of encapsulated **microbubbles** filled with high-molecular-weight ==inert fluorinated gas== surrounded by an outer shell.
 
 ### Physical Architecture
-* **Gas Core**: Perfluorocarbon (e.g., Perflutren) or Sulfur Hexafluoride ($\text{SF}_6$). Insoluble gases with low diffusibility that prevent rapid dissolution into blood.
-* **Shell**: Phospholipid monolayer, albumin, or synthetic polymer shell ($1-3\ \mu\text{m}$ thick) preventing gas coalescence.
-* **Size Dimension**: $1 - 4\ \mu\text{m}$ diameter (smaller than human erythrocytes $\approx 7\ \mu\text{m}$), allowing unrestricted passage through pulmonary capillary beds without causing microembolism.
+* **Gas Core**: ==Perfluorocarbon== (e.g., Perflutren) or ==Sulfur Hexafluoride== ($\text{SF}_6$). Insoluble gases with low diffusibility that prevent rapid dissolution into blood.
+* **Shell**: ==Phospholipid monolayer, albumin, or synthetic polymer shell== ($1-3\ \mu\text{m}$ thick) preventing gas coalescence.
+* **Size Dimension**: $1 - 4\ \mu\text{m}$ diameter (==smaller than human erythrocytes== $\approx 7\ \mu\text{m}$), <u>allowing unrestricted passage through pulmonary capillary beds</u> without causing microembolism.
 
 ```mermaid
 flowchart TD
@@ -160,7 +160,7 @@ flowchart TD
 ```
 
 ### Acoustic Physics & Clinical Applications
-1. **Acoustic Backscatter & Resonance**: Under ultrasound acoustic pressure waves, microbubbles oscillate non-linearly (expanding during rarefaction, contracting during compression), generating strong **harmonic signals** that dramatically enhance intravascular Doppler and gray-scale imaging.
+1. **Acoustic Backscatter & Resonance**: Under ultrasound acoustic pressure waves, microbubbles oscillate non-linearly (expanding during rarefaction, contracting during compression), generating strong **harmonic signals** that dramatically ==enhance intravascular Doppler and gray-scale imaging.==
 2. **Excretion Safety**: The outer lipid shell is metabolized by the liver, while the gas core is excreted exclusively via **pulmonary exhalation** within $10-15\text{ minutes}$. 
 3. **No Renal Toxicity**: Safe for administration in patients with acute kidney injury, severe renal failure, or iodine/gadolinium allergies without risk of CI-AKI or NSF.
 
