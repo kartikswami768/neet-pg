@@ -117,7 +117,8 @@ flowchart TD
 * **MRA (MR Angiography)**: Depicts vascular lumens using non-contrast **Time-Of-Flight (TOF)** or **Phase-Contrast (PC)** techniques, which exploit signal differences from moving blood protons, or contrast-enhanced techniques using IV gadolinium.
 * **ASL (Arterial Spin Labeling)**: A non-invasive perfusion MRI technique that uses magnetically inverted arterial blood water protons as an endogenous diffusible tracer, enabling quantitative measurement of Cerebral Blood Flow (CBF) without IV contrast administration.
 * **MRCP (MR Cholangiopancreatography)**: A non-contrast, heavily $T_2$-weighted technique where static fluid within the biliary tree and pancreatic duct acts as an intrinsic positive contrast medium (appearing bright white), while surrounding solid parenchyma appears dark.
-
+![[Pasted image 20261110122518.jpg|200]] [[Pasted image 20261110122518 1.jpg|200]]
+![[Pasted image 20261110122518 2.jpg|200]] ![[Pasted image 20261110122518 3.jpg|200]]
 
 
 ### 3.3 MRI Contrast Media & Safety Profiles
