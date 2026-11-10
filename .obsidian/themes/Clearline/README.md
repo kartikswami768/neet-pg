@@ -11,6 +11,13 @@ A custom, Apple-inspired Obsidian theme designed around quiet surfaces, crisp sy
 
 The theme contains only `theme.css` and `manifest.json` (plus this README). It does not install plugins, change vault content, fetch remote fonts, or require an internet connection.
 
+## Version 1.0.9 — responsive native-image gallery
+
+- Reworked the opt-in `gallery-images` layout into a true CSS Grid for paragraphs containing only native Obsidian image embeds.
+- Added three desktop columns and two tablet/mobile columns with consistent square thumbnails.
+- Gallery images use `object-fit: contain`, preserving complete clinical images rather than cropping anatomy or labels.
+- Added subtle Clearline borders, secondary-surface tiles and responsive spacing. Ordinary images remain unchanged unless the note enables `gallery-images`.
+
 ## Version 1.0.8 — lower-specificity native-layout cleanup
 
 - Further reduced heading CSS specificity by removing the 36 `!important` flags from heading text and editor-padding declarations. The editor selectors remain scoped to CodeMirror's heading lines and spans, without unnecessarily forcing precedence over other styles.
