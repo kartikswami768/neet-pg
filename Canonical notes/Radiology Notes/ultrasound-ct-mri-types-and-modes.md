@@ -101,15 +101,15 @@ where $\gamma$ is the gyromagnetic ratio ($42.58 \text{ MHz/T}$ for hydrogen). A
 
 ### 3.2 Advanced Diagnostic Sequences & Functional Modes
 
-```
-                                    Advanced MRI Sequences
-                                              │
-    ┌───────────────────┬─────────────────────┼─────────────────────┬───────────────────┐
-    ▼                   ▼                     ▼                     ▼                   ▼
-FLAIR / STIR          DWI & ADC             SWI / GRE           DTI & fMRI           MRA & MRCP
-• Suppression tech  • Cytotoxic edema     • Blooming effect     • Axonal tracking    • Non-contrast
-• MS plaques        • Acute stroke        • Microbleeds         • BOLD cortical map  • Fluid-bright
-• Bone marrow edema • Abscess / Tumor     • Calcification       • Functional map     • Duct visualization
+```mermaid
+flowchart TD
+    A["Advanced MRI Sequences"]
+
+    A --> B["FLAIR / STIR<br/>• Suppression technique<br/>• MS plaques<br/>• Bone marrow edema"]
+    A --> C["DWI & ADC<br/>• Cytotoxic edema<br/>• Acute stroke<br/>• Abscess / Tumor"]
+    A --> D["SWI / GRE<br/>• Blooming effect<br/>• Microbleeds<br/>• Calcification"]
+    A --> E["DTI & fMRI<br/>• Axonal tracking<br/>• BOLD cortical map<br/>• Functional map"]
+    A --> F["MRA & MRCP<br/>• Non-contrast<br/>• Fluid-bright<br/>• Duct visualization"]
 ```
 
 * **FLAIR (Fluid Attenuation Inversion Recovery)**: A $T_2\text{W}$-based pulse sequence incorporating an initial $180^\circ$ inversion pulse tailored to suppress signal from free-flowing cerebrospinal fluid. Free CSF appears **jet black**, making periventricular hyperintense demyelinating lesions in **Multiple Sclerosis**, subarachnoid hemorrhage, and superficial cortical edema strikingly conspicuous.
