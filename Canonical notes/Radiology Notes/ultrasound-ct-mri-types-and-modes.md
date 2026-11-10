@@ -1,8 +1,4 @@
-# Comprehensive Clinical Guide: Types and Modes of Ultrasonography, Computed Tomography, and Magnetic Resonance Imaging
 
-Diagnostic imaging relies on three principal physical energy modalities: high-frequency acoustic waves (Ultrasonography), ionizing X-ray photon attenuation (Computed Tomography), and non-ionizing radiofrequency pulses within high-strength magnetic fields (Magnetic Resonance Imaging). Selecting the optimal modality requires an in-depth understanding of the underlying physical mechanisms, spatial and temporal resolution trade-offs, operational modes, and contrast dynamics.
-
----
 
 ## 1. Ultrasonography (USG): Principles, Transducers, Modes & Advanced Modalities
 
