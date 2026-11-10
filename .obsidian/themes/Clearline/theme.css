@@ -1,6 +1,6 @@
 /*
   CLEARLINE — a quiet, typography-first Obsidian theme
-  Version: 1.0.8
+  Version: 1.1.0
   Philosophy: white space, clear hierarchy, soft chrome, full-res study media.
   No external fonts or remote assets are required.
 */
@@ -862,29 +862,43 @@ select:focus {
    cssclasses:
      - gallery-images
    ---
-   Put native Obsidian image embeds in one paragraph, separated by spaces.
-   Normal images outside gallery-images retain the standard full-size styling. */
+   In Reading View, put two or more native Obsidian image embeds in one
+   paragraph, separated by spaces. A lone image keeps normal full-width
+   styling. Mixed text/captions are intentionally not treated as a grid.
+   Live Preview keeps Obsidian's native editor layout; gallery styling is
+   currently guaranteed only in Reading View. */
+
 .markdown-preview-view.gallery-images .markdown-preview-sizer,
 .markdown-source-view.gallery-images .cm-contentContainer {
   max-width: var(--line-width-wide);
 }
 
-/* A paragraph containing only image embeds becomes the gallery grid. */
-.gallery-images .markdown-rendered p:has(> .image-embed):not(:has(> :not(.image-embed))) {
+/* A gallery requires at least two image-only embeds; one image is untouched. */
+.gallery-images .markdown-rendered p:has(> .image-embed:nth-child(2)):not(:has(> :not(.image-embed))) {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 12px;
   align-items: stretch;
   margin-block: 1.2em;
 }
 
-.gallery-images .markdown-rendered p:has(> .image-embed):not(:has(> :not(.image-embed))) > .image-embed {
+/* Three or more images use three columns on wide screens. Two-image galleries
+   remain two columns, without an unused third column. */
+@media (min-width: 901px) {
+  .gallery-images .markdown-rendered p:has(> .image-embed:nth-child(3)):not(:has(> :not(.image-embed))) {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+/* 4:3 thumbnail frames preserve the complete image; contain letterboxes rather
+   than crops clinical anatomy, labels or annotations. */
+.gallery-images .markdown-rendered p:has(> .image-embed:nth-child(2)):not(:has(> :not(.image-embed))) > .image-embed {
   display: flex;
   align-items: center;
   justify-content: center;
   width: 100%;
   min-width: 0;
-  aspect-ratio: 1 / 1;
+  aspect-ratio: 4 / 3;
   box-sizing: border-box;
   margin: 0;
   padding: 6px;
@@ -894,7 +908,7 @@ select:focus {
   background: var(--background-secondary);
 }
 
-.gallery-images .markdown-rendered p:has(> .image-embed):not(:has(> :not(.image-embed))) > .image-embed img {
+.gallery-images .markdown-rendered p:has(> .image-embed:nth-child(2)):not(:has(> :not(.image-embed))) > .image-embed img {
   display: block;
   width: 100%;
   height: 100%;
@@ -905,20 +919,17 @@ select:focus {
   border-radius: var(--clearline-media-radius);
 }
 
-/* Two columns on tablets and phones; preserve the full image without cropping. */
 @media (max-width: 900px) {
-  .gallery-images .markdown-rendered p:has(> .image-embed):not(:has(> :not(.image-embed))) {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+  .gallery-images .markdown-rendered p:has(> .image-embed:nth-child(2)):not(:has(> :not(.image-embed))) {
     gap: 10px;
   }
 }
 
 @media (max-width: 600px) {
-  .gallery-images .markdown-rendered p:has(> .image-embed):not(:has(> :not(.image-embed))) {
+  .gallery-images .markdown-rendered p:has(> .image-embed:nth-child(2)):not(:has(> :not(.image-embed))) {
     gap: 8px;
   }
-
-  .gallery-images .markdown-rendered p:has(> .image-embed):not(:has(> :not(.image-embed))) > .image-embed {
+  .gallery-images .markdown-rendered p:has(> .image-embed:nth-child(2)):not(:has(> :not(.image-embed))) > .image-embed {
     padding: 4px;
   }
 }
