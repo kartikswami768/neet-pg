@@ -11,6 +11,31 @@ A custom, Apple-inspired Obsidian theme designed around quiet surfaces, crisp sy
 
 The theme contains only `theme.css` and `manifest.json` (plus this README). It does not install plugins, change vault content, fetch remote fonts, or require an internet connection.
 
+## Version 1.1.0 — adaptive image gallery
+
+- Fixed the single-image regression: gallery mode starts only when a paragraph contains at least two native Obsidian image embeds.
+- Two-image galleries use two columns. Three-or-more galleries use three columns on wider screens and two columns on tablets and phones.
+- Replaced square tiles with 4:3 frames. Images use `object-fit: contain`, keeping the complete clinical image visible without cropping.
+- Preserved normal styling for standalone images. Gallery mode remains opt-in through the `gallery-images` note CSS class.
+- Gallery styling is intended for Reading View. Live Preview retains Obsidian's native editor layout; its embed DOM has not been validated in a running Obsidian instance, so no unverified editor-specific gallery selectors are included.
+
+### Using the gallery
+
+Add this to a note's frontmatter:
+
+    ---
+    cssclasses:
+      - gallery-images
+    ---
+
+In Reading View, place two or more image embeds in the same paragraph, separated by spaces:
+
+    ![[Image1.png]] ![[Image2.png]] ![[Image3.png]]
+
+    ![[Image4.png]] ![[Image5.png]]
+
+Each paragraph of two or more image-only embeds becomes a responsive gallery row. A paragraph containing only one image remains a normal full-width image.
+
 ## Version 1.0.9 — responsive native-image gallery
 
 - Reworked the opt-in `gallery-images` layout into a true CSS Grid for paragraphs containing only native Obsidian image embeds.
