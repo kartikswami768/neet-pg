@@ -857,24 +857,70 @@ select:focus {
   overflow: hidden;
 }
 
-/* Optional image grid when a note uses a dedicated image-gallery class. */
+/* Optional responsive image gallery. Enable per note with:
+   ---
+   cssclasses:
+     - gallery-images
+   ---
+   Put native Obsidian image embeds in one paragraph, separated by spaces.
+   Normal images outside gallery-images retain the standard full-size styling. */
 .markdown-preview-view.gallery-images .markdown-preview-sizer,
 .markdown-source-view.gallery-images .cm-contentContainer {
   max-width: var(--line-width-wide);
 }
-.gallery-images .markdown-rendered .image-embed,
-.gallery-images .markdown-rendered .internal-embed.image-embed {
-  display: inline-flex;
-  vertical-align: top;
-  width: calc(50% - 18px);
-  margin: 9px;
-}
-.gallery-images .markdown-rendered p:has(> .image-embed:only-child) {
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
-  flex-wrap: wrap;
+
+/* A paragraph containing only image embeds becomes the gallery grid. */
+.gallery-images .markdown-rendered p:has(> .image-embed):not(:has(> :not(.image-embed))) {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  align-items: stretch;
   margin-block: 1.2em;
+}
+
+.gallery-images .markdown-rendered p:has(> .image-embed):not(:has(> :not(.image-embed))) > .image-embed {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-width: 0;
+  aspect-ratio: 1 / 1;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 6px;
+  overflow: hidden;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--radius-m);
+  background: var(--background-secondary);
+}
+
+.gallery-images .markdown-rendered p:has(> .image-embed):not(:has(> :not(.image-embed))) > .image-embed img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  margin: 0;
+  object-fit: contain;
+  border-radius: var(--clearline-media-radius);
+}
+
+/* Two columns on tablets and phones; preserve the full image without cropping. */
+@media (max-width: 900px) {
+  .gallery-images .markdown-rendered p:has(> .image-embed):not(:has(> :not(.image-embed))) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+  }
+}
+
+@media (max-width: 600px) {
+  .gallery-images .markdown-rendered p:has(> .image-embed):not(:has(> :not(.image-embed))) {
+    gap: 8px;
+  }
+
+  .gallery-images .markdown-rendered p:has(> .image-embed):not(:has(> :not(.image-embed))) > .image-embed {
+    padding: 4px;
+  }
 }
 
 /* ──────────────────────────────────────────────────────────────────────────
@@ -1201,11 +1247,6 @@ a.tag:hover {
   .markdown-rendered .pdf-embed,
   .markdown-rendered .internal-embed[src$=".pdf"] {
     min-height: 58vh;
-  }
-  .gallery-images .markdown-rendered .image-embed,
-  .gallery-images .markdown-rendered .internal-embed.image-embed {
-    width: calc(100% - 12px);
-    margin: 6px;
   }
 }
 
