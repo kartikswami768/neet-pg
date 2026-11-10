@@ -118,6 +118,8 @@ flowchart TD
 * **ASL (Arterial Spin Labeling)**: A non-invasive perfusion MRI technique that uses magnetically inverted arterial blood water protons as an endogenous diffusible tracer, enabling quantitative measurement of Cerebral Blood Flow (CBF) without IV contrast administration.
 * **MRCP (MR Cholangiopancreatography)**: A non-contrast, heavily $T_2$-weighted technique where static fluid within the biliary tree and pancreatic duct acts as an intrinsic positive contrast medium (appearing bright white), while surrounding solid parenchyma appears dark.
 
+
+
 ### 3.3 MRI Contrast Media & Safety Profiles
 
 Unlike CT contrast media, MRI contrast agents exert an **indirect effect** by modulating local proton relaxation rates:
