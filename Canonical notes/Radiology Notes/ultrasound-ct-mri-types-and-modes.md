@@ -60,15 +60,34 @@ On this scale, distilled water is calibrated to $0 \text{ HU}$, air to $-1000 \t
 
 ### 2.2 Clinical CT Modes & Diagnostic Protocols
 
-```
-                                    Clinical CT Protocols
-                                              │
-    ┌───────────────────┬─────────────────────┼─────────────────────┬───────────────────┐
-    ▼                   ▼                     ▼                     ▼                   ▼
-NCCT Head/Renal      CECT Body           HRCT Lungs            CT Angiography      Dual-Energy CT
-• Acute stroke       • Parenchymal       • Thin 1 mm slices    • Arterial timing   • Stone composition
-• Intracranial bleed   lesions           • Bone algorithm      • Pulmonary embolus • Gout crystal ID
-• Urolithiasis       • Infection/Tumor   • ILD & Bronchiectasis• Aortic dissection • Virtual non-contrast
+```mermaid
+flowchart TD
+    A["Clinical CT Protocols"]
+
+    A --> B["NCCT Head / Renal"]
+    A --> C["CECT Body"]
+    A --> D["HRCT Lungs"]
+    A --> E["CT Angiography"]
+    A --> F["Dual-Energy CT"]
+
+    B --> B1["Acute stroke"]
+    B --> B2["Intracranial bleed"]
+    B --> B3["Urolithiasis"]
+
+    C --> C1["Parenchymal lesions"]
+    C --> C2["Infection / Tumor"]
+
+    D --> D1["Thin 1 mm slices"]
+    D --> D2["Bone algorithm"]
+    D --> D3["ILD & Bronchiectasis"]
+
+    E --> E1["Arterial timing"]
+    E --> E2["Pulmonary embolism"]
+    E --> E3["Aortic dissection"]
+
+    F --> F1["Stone composition"]
+    F --> F2["Gout crystal identification"]
+    F --> F3["Virtual non-contrast"]
 ```
 
 * **Non-Contrast CT (NCCT)**: Performed without intravenous iodinated contrast media. It is the immediate first-line imaging modality for acute head trauma, hyperacute ischemic versus hemorrhagic stroke (to rapidly exclude intracranial hemorrhage prior to thrombolytic therapy), and unenhanced urinary tract evaluation for acute urolithiasis.
