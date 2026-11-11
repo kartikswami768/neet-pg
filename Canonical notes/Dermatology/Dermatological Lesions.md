@@ -1,14 +1,29 @@
-# Primary and Secondary Dermatological Lesions: Morphological Definitions, Clinical Correlates, and Histopathological Dynamics
+# Dermatological Lesions
 
-Understanding the structural classification of cutaneous lesions is fundamental to clinical dermatology. Dermatological lesions are broadly divided into primary lesions, which represent the initial, direct macroscopic manifestation of an underlying disease process, and secondary lesions, which evolve from primary lesions due to natural progression, regression, trauma, or secondary infection. Accurately defining lesion morphology, physical dimensions, tissue layers involved, and histopathological hallmarks enables precise differential diagnosis across inflammatory, infectious, autoimmune, and neoplastic dermatoses.
+Understanding the structural classification of cutaneous lesions is fundamental to clinical dermatology. 
+
+Dermatological lesions are broadly divided into 
+1. **primary lesions**, which represent the initial, direct macroscopic manifestation of an underlying disease process, and 
+2. **secondary lesions**, which evolve from primary lesions due to natural progression, regression, trauma, or secondary infection. 
+Accurately defining lesion morphology, physical dimensions, tissue layers involved, and histopathological hallmarks enables precise differential diagnosis across inflammatory, infectious, autoimmune, and neoplastic dermatoses.
 
 ---
 
 ## 1. Structural Foundations of Cutaneous Lesion Classification
 
-The skin consists of three primary anatomical layers: the superficial avascular epidermis (composed of stratified squamous keratinocytes), the underlying collagenous and vascular dermis, and the deep subcutaneous fat layer (subcutis or hypodermis). Primary lesions originate within specific compartments of these layers and are defined by parameters such as elevation (flat versus raised), consistency (solid versus fluid-filled), and dimensional boundaries. 
+The skin consists of three primary anatomical layers: 
+1. the superficial avascular epidermis (composed of stratified squamous keratinocytes), 
+2. the underlying collagenous and vascular dermis, and 
+3. the deep subcutaneous fat layer (subcutis or hypodermis). 
+Primary lesions originate within specific compartments of these layers and are defined by parameters such as **elevation** (flat versus raised), **consistency** (solid versus fluid-filled), and **dimensional boundaries**. 
 
-The demarcation threshold between small and large lesions is conventionally set at $1\text{ cm}$ (or $0.5\text{ cm} / 5\text{ mm}$ in specific dermatopathological classification systems). Primary solid lesions include macules, patches, papules, plaques, and nodules, while primary fluid-filled lesions comprise vesicles, bullae, and pustules. Transient microvascular reactions produce wheals. When primary lesions undergo cornification defects, exudation, mechanical disruption, or chronic inflammation, secondary lesions such as scales, crusts, excoriations, and lichenification develop. Localized microvascular disruption leads to extravasation lesions, culminating in purpura, ecchymoses, and hematomas.
+The demarcation **threshold between small and large lesions** is conventionally set at $1\text{ cm}$ (or $0.5\text{ cm} / 5\text{ mm}$ in specific dermatopathological classification systems). 
+
+**Primary solid lesions** include **macules**, **patches**, **papules**, **plaques**, and **nodules**, while **primary fluid-filled lesions** comprise **vesicles**, **bullae**, and **pustules**. 
+**Transient microvascular reactions** produce **wheals**. 
+
+When primary lesions *undergo cornification defects, exudation, mechanical disruption, or chronic inflammation*, **secondary lesions** such as **scales**, **crusts**, **excoriations**, and **lichenification** develop. 
+Localized microvascular disruption leads to **extravasation lesions**, culminating in **purpura**, **ecchymoses**, and **hematomas**.
 
 ---
 
@@ -18,7 +33,9 @@ Primary solid lesions represent localized changes in skin pigmentation, cell den
 
 ### 2.1 Macule
 
-A macule is defined as a flat, non-palpable, circumscribed area of skin distinguished solely by a change in skin color relative to the surrounding tissue. By standard clinical convention, a macule measures less than $1\text{ cm}$ in its greatest diameter (or less than $5\text{ mm}$ in specific pathological criteria). Because the lesion is entirely flat, it can only be detected visually and cannot be appreciated by light palpation.
+- A macule is defined as a **flat, non-palpable, circumscribed area** of skin distinguished solely by a change in skin color relative to the surrounding tissue. 
+- By standard clinical convention, a macule measures less than $1\text{ cm}$ in its greatest diameter (or less than $5\text{ mm}$ in specific pathological criteria). 
+- Because the lesion is entirely flat, it can only be detected visually and cannot be appreciated by light palpation.
 
 ```
        [ Stratum Corneum ]
@@ -29,9 +46,18 @@ A macule is defined as a flat, non-palpable, circumscribed area of skin distingu
 
 #### Etiology and Pathophysiology
 Macules result from localized alterations in epidermal pigmentation or dermal vascularity without changes in tissue volume:
-* **Hyperpigmentation**: Localized accumulation of melanin in basal keratinocytes or melanocytes (for example, ephelides/freckles or labial melanotic macules).
-* **Depigmentation or Hypopigmentation**: Localized reduction or total loss of epidermal melanin (for example, early vitiligo macules or indeterminate leprosy macules).
-* **Vascular Alterations**: Localized capillary dilatation causing blanchable erythema, or focal extravasation of erythrocyte breakdown products.
+* **Hyperpigmentation**: 
+	* Localized accumulation of melanin in basal keratinocytes or melanocytes
+	* for example, 
+	* ephelides/**freckles** or 
+	* **labial melanotic macules**).
+* **Depigmentation or Hypopigmentation**: 
+	* Localized reduction or total loss of epidermal melanin
+	* for example, 
+		* *early **vitiligo** macules* or 
+		* *indeterminate **leprosy** macules*
+* **Vascular Alterations**: 
+	* Localized capillary dilatation causing blanchable **erythema**, or focal extravasation of erythrocyte breakdown products.
 
 #### Clinical Correlates
 * **Freckle (Ephelis)**: Hyperpigmented $1\text{--}10\text{ mm}$ macules appearing on sun-exposed skin that darken with ultraviolet exposure.
@@ -42,7 +68,7 @@ Macules result from localized alterations in epidermal pigmentation or dermal va
 
 ### 2.2 Patch
 
-A patch is a flat, non-palpable, circumscribed area of skin color change that is morphologically identical to a macule but measures greater than $1\text{ cm}$ in diameter (or greater than $5\text{ mm}$). Like macules, patches are non-elevated and non-depressed, presenting with a completely smooth surface texture continuous with normal adjacent skin.
+A patch is a **flat, non-palpable**, circumscribed area of skin color change that is morphologically identical to a macule but measures **greater than $1\text{ cm}$ in diameter** (or greater than $5\text{ mm}$). Like macules, patches are non-elevated and non-depressed, presenting with a completely smooth surface texture continuous with normal adjacent skin.
 
 #### Etiology and Pathophysiology
 Patches reflect extensive horizontal field changes across the epidermis or superficial dermis. They arise from widespread autoimmune destruction of melanocytes, large-scale vascular malformations, or regional metabolic skin changes.
