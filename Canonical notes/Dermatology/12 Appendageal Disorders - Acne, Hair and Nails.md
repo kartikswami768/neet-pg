@@ -113,8 +113,8 @@ flowchart TD
 * **Exogen (shedding phase):** release of the hair shaft. A commonly cited normal daily shed is approximately **50–100 hairs/day**, although counts vary between individuals and with washing and grooming habits.
 
 ### 2. Alopecia Areata
-* **Definition**: An autoimmune non-scarring hair loss disorder characterized by patchy hair loss targeting anagen hair follicles.
-* **Pathophysiology**: Loss of immune privilege in the hair follicle bulge/bulb driven by an inflammatory infiltrative attack of CD4+ and CD8+ T lymphocytes.
+* **Definition**: An **autoimmune** **non-scarring** hair loss disorder characterized by **patchy hair loss** targeting anagen hair follicles.
+* **Pathophysiology**: *Loss of immune **privilege*** in the hair follicle bulge/bulb driven by an inflammatory infiltrative attack of CD4+ and CD8+ T lymphocytes.
 * **Clinical Features**:
   * Smooth, circumscribed, non-scarring patches of hair loss on the scalp or beard.
   * **Exclamatory Mark Hairs**: Short, broken hairs at the expanding border of active patches, with a narrow, attenuated proximal shaft and normal distal tip.
