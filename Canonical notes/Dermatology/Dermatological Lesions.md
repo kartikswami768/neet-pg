@@ -166,14 +166,28 @@ The structural integrity of bullae depends on the precise anatomical level of fl
 +----------------------------------------------------+------------------------------+
 ```
 
-* **Intraepidermal Split (Pemphigus Group)**: Autoantibodies target desmoglein 3 and 1, breaking desmosomes (primary acantholysis). This forms a suprabasal cleft leaving a "row of tombstones" along the basal layer. The resulting bullae are thin-walled, flaccid, rupture easily to form raw erosions, and display a positive Nikolsky sign (tangential pressure on normal skin induces epidermal detachment) and positive Bulla spread sign.
-* **Subepidermal Split (Bullous Pemphigoid)**: Autoantibodies target hemidesmosomal antigens (BPAG1 / BP230 and BPAG2 / BP180) at the basement membrane zone. The entire roof of the blister consists of intact epidermis. The resulting bullae are firm, tense, resistant to mechanical rupture, display a negative Nikolsky sign, and contain abundant eosinophils.
+* **Intraepidermal Split (Pemphigus Group)**: 
+	* Autoantibodies target desmoglein 3 and 1, breaking desmosomes (primary acantholysis). This forms a suprabasal cleft leaving a "row of tombstones" along the basal layer. 
+	* The resulting bullae are thin-walled, flaccid, rupture easily to form raw erosions, and display a positive Nikolsky sign (tangential pressure on normal skin induces epidermal detachment) and positive Bulla spread sign.
+* **Subepidermal Split (Bullous Pemphigoid)**:
+	* Autoantibodies target hemidesmosomal antigens (BPAG1 / BP230 and BPAG2 / BP180) at the basement membrane zone. The entire roof of the blister consists of intact epidermis. The resulting bullae are firm, tense, resistant to mechanical rupture, display a negative Nikolsky sign, and contain abundant eosinophils.
 
 #### Clinical Correlates
-* **Bullous Pemphigoid**: Autoimmune subepidermal blistering disease of the elderly, characterized by large, tense bullae over urticarial bases on flexural surfaces.
-* **Pemphigus Vulgaris**: Potentially fatal autoimmune intraepidermal blistering disease presenting with painful oral mucosal erosions followed by widespread flaccid skin bullae.
+* **Bullous Pemphigoid**: Autoimmune subepidermal blistering disease of the elderly, characterized by **large, tense bullae** over urticarial bases on flexural surfaces.
+* **Pemphigus Vulgaris**: Potentially fatal autoimmune intraepidermal blistering disease presenting with **painful oral mucosal erosions** followed by widespread flaccid skin bullae.
 * **Bullous Impetigo**: Staphylococcal infection (*Staphylococcus aureus* producing exfoliative toxins A and B targeting Desmoglein 1) causing superficial flaccid bullae that rupture to form thin crusts.
 
+| Feature                  | Pemphigus vulgaris                               | Bullous pemphigoid                         |
+| ------------------------ | ------------------------------------------------ | ------------------------------------------ |
+| Target protein           | Desmoglein 3 (± Desmoglein 1)                    | BP180 (collagen XVII) and BP230            |
+| Location of target       | Desmosomes                                       | Hemidesmosomes                             |
+| Site of split            | **Suprabasal epidermis**                         | **Subepidermal** (below basement membrane) |
+| Layer involved           | Between basal keratinocytes and suprabasal cells | Between epidermis and dermis               |
+| Bulla                    | Flaccid                                          | Tense                                      |
+| Nikolsky sign            | Positive                                         | Negative                                   |
+| Oral mucosal involvement | Common                                           | Uncommon                                   |
+|                          |                                                  |                                            |
+![[Pasted image 20261112121303.png]]
 ---
 
 ### 3.3 Pustule
@@ -227,12 +241,20 @@ A scale is a secondary lesion characterized by visible desquamation, flaking, or
 * **Parakeratosis**: Retention of pyknotic nuclei within stratum corneum keratinocytes, reflecting rapid epidermal transit that prevents complete nuclear degradation.
 
 #### Distinct Morphological Patterns
-* **Silvery-White Scale**: Thick, profuse, micaceous scales characteristic of Psoriasis vulgaris. Scraping yields the candle-drop sign (grattage test) followed by pinpoint bleeding (Auspitz sign).
-* **Collarette Scale**: A circular ring of scale where the inner edge is free and the outer edge remains attached to normal skin; pathognomonic for Pityriasis rosea.
-* **Greasy Yellow Scale**: Oily, yellowish scales over erythematous bases located in sebaceous-rich areas (scalp, eyebrows, nasolabial folds), characteristic of Seborrheic dermatitis (cradle cap in infants).
-* **Fish-Like (Ichthyosiform) Scale**: Large, dry, polygonal scales covering extensor surfaces, seen in Ichthyosis vulgaris (autosomal dominant *filaggrin* gene deficiency).
-* **Asbestos-Like Scale (Pityriasis Amiantacea)**: Thick, silver-white sheet-like scales binding the proximal shafts of scalp hair into bundles.
-* **Waxy / Sandal Keratoderma & Nutmeg-Grater Scale**: Thickened, waxy orange-yellow plaques on palms and soles alongside red follicular papules with central horny plugs on the dorsum of the hands, characteristic of Pityriasis rubra pilaris (PRP).
+* **Silvery-White Scale**: 
+	* Thick, profuse, **micaceous** scales characteristic of **Psoriasis vulgaris**. 
+	* Scraping yields the **candle-drop sign** (grattage test) followed by pinpoint bleeding (Auspitz sign).
+* **Collarette Scale**: 
+	* A circular ring of scale where the inner edge is free and the outer edge remains attached to normal skin; pathognomonic for **Pityriasis rosea.**
+* **Greasy Yellow Scale**: 
+	* Oily, yellowish scales over erythematous bases located in sebaceous-rich areas (scalp, eyebrows, nasolabial folds), characteristic of **Seborrheic dermatitis** (cradle cap in infants).
+* **==Fish-Like (Ichthyosiform)== Scale**: 
+	* Large, dry, polygonal scales covering extensor surfaces, seen in **Ichthyosis vulgaris** (autosomal dominant ***filaggrin*** gene deficiency).
+* **Asbestos-Like Scale (Pityriasis Amiantacea)**: 
+	* Thick, silver-white sheet-like scales binding the proximal shafts of scalp hair into bundles.
+	* This condition is not a distinct disease itself but rather a reactive pattern to underlying inflammatory scalp disorders, most commonly psoriasis, seborrheic dermatitis, atopic dermatitis, or fungal infections like tinea capitis.
+* **Waxy / Sandal Keratoderma & Nutmeg-Grater Scale**: 
+	* Thickened, waxy orange-yellow plaques on palms and soles alongside red follicular papules with central horny plugs on the dorsum of the hands, characteristic of Pityriasis rubra pilaris (PRP).
 
 ---
 
