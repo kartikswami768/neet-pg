@@ -123,7 +123,7 @@ flowchart TD
   * Prodrome: High fever, malaise, sore throat, myalgias 1 to 3 weeks after starting drug.
   * Cutaneous: Painful, dusky red/purpuric macules that coalesce rapidly into flaccid blisters, leading to **sheet-like epidermal sloughing/detachment** leaving raw, weeping dermis resembling a second-degree burn.
   * **Nikolsky Sign Positive $\oplus$**: Lateral tangential traction on unblistered skin causes sloughing of the epidermis.
-  * Mucosal: Severe erosive, hemorrhagic mucositis involving **at least 2 mucosal sites** (oropharynx, eyes/conjunctiva, anogenital tract). Ocular involvement carries high risk of permanent blindness, symblepharon, and sicca syndrome.
+  * Mucosal: Severe erosive, hemorrhagic mucositis involving **at least 2 mucosal sites** (oropharynx, eyes/conjunctiva, anogenital tract). Ocular involvement can cause cicatrizing conjunctivitis, symblepharon, sicca syndrome, and permanent visual impairment or blindness.
 
 * **Histopathology**: Full-thickness epidermal necrosis with basal layer vacuolization, subepidermal separation, and sparse inflammatory infiltrate in the dermis ("ghost-like" necrotic epidermis).
 

@@ -65,7 +65,7 @@ BCC occurs predominantly on sun-exposed sites, particularly the head and neck (8
 ## 15.2 Squamous Cell Carcinoma (SCC)
 
 > [!WARNING]
-> **Metastatic Potential**: Unlike BCC, Cutaneous Squamous Cell Carcinoma (cSCC) carries a definite risk of regional lymph node and distant metastasis ($2\text{--}5\%$ overall, increasing to $>20\%$ in high-risk features such as perineural invasion, location on lip/ear, or immunosuppression).
+> **Metastatic Potential**: Unlike BCC, Cutaneous Squamous Cell Carcinoma (cSCC) carries a definite risk of regional lymph node and distant metastasis ($2\text{--}5\%$ overall). The risk is higher when adverse clinical or pathological features are present; see the high-risk feature list below.
 
 ### Risk Factors & Precursor Lesions
 * **Ultraviolet Radiation**: Chronic, cumulative lifelong sun exposure is the single primary cause (higher incidence in farmers, outdoor workers).
@@ -77,6 +77,8 @@ BCC occurs predominantly on sun-exposed sites, particularly the head and neck (8
   * **Chemical Carcinogens**: Inorganic arsenic exposure (well water, Fowler's solution) causes palmar/plantar arsenical keratoses and multiple SCCs.
   * **Immunosuppression**: Organ transplant recipients on long-term immunosuppressants (calcineurin inhibitors) have a **65-fold to 250-fold increased risk** of cSCC.
   * **Human Papillomavirus (HPV)**: High-risk oncogenic strains (HPV 16, 18, 31, 33; and beta-HPVs 5, 8 in Epidermodysplasia Verruciformis) are linked to periungual, genital, and cutaneous SCCs.
+* **High-risk clinicopathological features:** classic exam predictors include tumour thickness **>4 mm** (or **Clark level V** in the older depth classification), **perineural or vascular invasion**, high-risk anatomical sites such as the **lip, ear, and anogenital skin**, and **immunosuppression / solid-organ transplantation**. Risk frameworks differ: some contemporary schemes reserve *very-high-risk* deep invasion for thickness **>6 mm** or extension beyond subcutaneous fat ([British Association of Dermatologists cSCC guideline, 2020](https://academic.oup.com/bjd/article/184/3/401/6702204)).
+
 ### Histopathological Diagnosis
 * **Dermal Invasion**: Full-thickness dysplastic, pleomorphic squamous epithelial cells breaking through the basement membrane into the dermis.
 * **Keratin Pearls (Concentric Keratin Swirls)**: Concentric, laminated nests of acellular, deeply eosinophilic keratin surrounded by dysplastic squamous cells.
@@ -111,10 +113,12 @@ BCC occurs predominantly on sun-exposed sites, particularly the head and neck (8
 * **The "Ugly Duckling" Sign**: A pigmented lesion that looks noticeably different from all other nevi on the patient's body.
 | Melanoma subtype | Typical anatomical location | Biological behaviour / distinguishing features |
 | :--- | :--- | :--- |
-| Superficial spreading melanoma | Back in men; legs in women (as stated in source). | Most common subtype in the source; prolonged radial growth phase before vertical invasion. |
-| Nodular melanoma | Any site. | Aggressive subtype; immediate vertical growth without a prolonged radial growth phase. |
+| Superficial spreading melanoma | Back in men; legs in women (classic distribution). | **Most common subtype (~70%)**; prolonged radial growth phase before vertical invasion. |
+| Nodular melanoma | Any site. | Approximately **15%**; aggressive subtype with early vertical growth and no prolonged radial growth phase. |
 | Lentigo maligna melanoma | Chronically sun-damaged face / neck in older adults. | Prolonged radial growth; the in-situ phase is lentigo maligna. |
-| Acral lentiginous melanoma | Palms, soles and subungual sites. | Not primarily UV-related; Hutchinson sign may be present. |
+| Acral lentiginous melanoma | Palms, soles and subungual sites. | **Most frequent melanoma subtype in darker-skinned populations** (including many Asian populations), although uncommon overall in fair-skinned populations; not primarily UV-related; Hutchinson sign may be present. |
+
+*Subtype percentages are approximate and vary by population and study.*
 ### Histopathology & Growth Phases
 * **Radial Growth Phase**: Horizontal expansion of malignant melanocytes within the epidermis (pagetoid spread) and papillary dermis. Incapable of metastasis during pure radial growth.
 * **Vertical Growth Phase**: Downward invasion of malignant melanocytes into the deep reticular dermis and subcutis. Accompanied by vascular/lymphatic invasion potential.

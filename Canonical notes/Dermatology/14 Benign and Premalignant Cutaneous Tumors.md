@@ -69,6 +69,8 @@ tags: [dermatology, seborrheic-keratosis, actinic-keratosis, keratoacanthoma, bo
 
 ### 1. Actinic Keratosis (Solar Keratosis)
 * **Definition**: The most common premalignant cutaneous lesion, arising on sun-damaged skin as a direct result of chronic UV radiation.
+* **Risk of progression to invasive SCC:** AK is premalignant, but the risk from an individual lesion is generally low and estimates vary substantially between studies. A systematic review reported **0–0.075% per lesion-year** in the studied populations and up to **0.53% per lesion** in people with a prior history of non-melanoma skin cancer; the AAD guideline review notes a much wider range of published estimates (**less than 0.1% to 20%**) and emphasises the limitations of follow-up. Multiple lesions / field cancerization increase cumulative patient-level risk. ([Werner et al., *British Journal of Dermatology*, 2013](https://pubmed.ncbi.nlm.nih.gov/23647091/); [AAD Guidelines of Care, 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC12255292/)).
+
 **Actinic keratosis: conceptual progression**
 
 ```mermaid
