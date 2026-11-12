@@ -90,3 +90,14 @@
 !.obsidian/plugins/reading-highlighter-extended/README.md
 =======
 !.obsidian/plugins/templater-obsidian/data.json
+
+
+
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.DS_Store
+Thumbs.db
+desktop.ini
+.obsidian/cache/
+.obsidian/plugins.zip
