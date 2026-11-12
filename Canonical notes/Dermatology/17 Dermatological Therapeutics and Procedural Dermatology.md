@@ -21,7 +21,7 @@ tags:
 
 | Potency class (source classification) | Representative agents | Clinical use / cautions stated in source |
 | :--- | :--- | :--- |
-| Class 1 — ultra-high | Clobetasol propionate 0.05%; halobetasol propionate 0.05%. | Thick resistant plaques (e.g. psoriasis, lichen planus, severe palmoplantar eczema); avoid face and intertriginous areas; limit duration as clinically appropriate. |
+| Class 1 — ultra-high | Clobetasol propionate 0.05%; halobetasol propionate 0.05%. | Thick resistant plaques (e.g. psoriasis, lichen planus, severe palmoplantar eczema); avoid face and intertriginous areas; the source series specifies limiting continuous use of ultra-high-potency agents to a short course (approximately 2–3 weeks), with duration individualised to site, diagnosis, and supervision. |
 | Class 2/3 — high | Betamethasone dipropionate 0.05%; fluocinonide 0.05%. | Severe eczema, discoid lupus and severe contact dermatitis. |
 | Class 4/5 — medium | Triamcinolone acetonide 0.1%; hydrocortisone valerate 0.2%. | Selected atopic / intertriginous dermatitis and body / extremity use in adults. |
 | Class 6/7 — low | Hydrocortisone 1% or 2.5%; desonide 0.05%. | Sensitive sites (face, eyelids, scrotum, axilla, groin) and paediatric patients, with appropriate clinical supervision. |
@@ -94,12 +94,12 @@ tags:
 
 ```mermaid
 flowchart TD
-    A[Debulk tumour and excise a narrow beveled margin] --> B[Orient and map the specimen using tissue dyes]
-    B --> C[Prepare horizontal cryostat sections]
+    A[Debulk tumour; take a narrow initial margin (about 1–2 mm), bevelled at approximately 45 degrees] --> B[Orient and map the specimen with tissue dyes; record the orientation on the surgical map]
+    B --> C[Prepare horizontal cryostat sections that display the complete deep and peripheral margins in one plane]
     C --> D[Examine the complete peripheral and deep surgical margins microscopically]
     D --> E{Residual tumour at a mapped margin?}
-    E -->|Yes| F[Re-excise only the involved mapped area]
-    F --> C
+    E -->|Yes| F[Re-excise only the mapped involved area]
+    F --> B
     E -->|No| G[Margins clear; complete reconstruction / wound closure]
 ```
 
