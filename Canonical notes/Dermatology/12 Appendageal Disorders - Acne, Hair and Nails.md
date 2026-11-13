@@ -147,7 +147,7 @@ ALOPECIA
 
 #### B. Patchy Alopecia
 
-**1. Alopecia Areata**
+##### **1. Alopecia Areata**
 
 * **Etiology / pathophysiology:** T-cell-mediated autoimmune disease involving loss of hair-follicle immune privilege. CD4⁺ and CD8⁺ T lymphocytes attack anagen hair bulbs (classically the pigmented/black anagen bulb); the peribulbar infiltrate is the classic **“swarm of bees”**.
 * **Clinical features:** well-defined, smooth, round-to-oval, non-scarring patches of complete hair loss on scalp or beard. Grey hairs may be relatively spared, producing the described **“going grey overnight” (*canities subita*)** phenomenon.
@@ -160,16 +160,16 @@ ALOPECIA
 * **Histopathology:** dense peribulbar lymphocytic infiltrate around anagen bulbs — **“swarm of bees.”**
 * **Treatment:** localized disease may be treated with intralesional triamcinolone (e.g. 5 mg/mL in scalp lesions); topical therapies may be used. Extensive disease may require systemic treatment, including corticosteroids or oral JAK inhibitors such as baricitinib / ritlecitinib, depending on indication and eligibility.
 
-| Finding | Alopecia areata |
-| :--- | :--- |
-| Pattern | Smooth, sharply demarcated, non-scarring patches |
-| Hair morphology | Exclamation-mark hairs at active margins |
-| Follicular phase | Predominantly anagen hair follicles |
-| Dermoscopy | Yellow dots; short broken hairs |
-| Histopathology | Peribulbar lymphocytic infiltrate (“swarm of bees”) |
-| Nail association | Geometric pitting / trachyonychia |
+| Finding          | Alopecia areata                                     |
+| :--------------- | :-------------------------------------------------- |
+| Pattern          | Smooth, sharply demarcated, non-scarring patches    |
+| Hair morphology  | Exclamation-mark hairs at active margins            |
+| Follicular phase | Predominantly anagen hair follicles                 |
+| Dermoscopy       | Yellow dots; short broken hairs                     |
+| Histopathology   | Peribulbar lymphocytic infiltrate (“swarm of bees”) |
+| Nail association | Geometric pitting / trachyonychia                   |
 
-**2. Trichotillomania (Hair-Pulling Disorder)**
+##### **2. Trichotillomania (Hair-Pulling Disorder)**
 
 * **Classification:** psycho-cutaneous disorder within the obsessive-compulsive and related disorders; characterized by recurrent hair pulling, often preceded by tension or urge and followed by temporary relief. It may cause distress, disfigurement and social or occupational impairment. It is reported more commonly in females; the temporo-parietal scalp is a frequent site.
 * **Morphology:** patchy alopecia with **bizarrely shaped, ill-defined patches** and incomplete hair loss within the affected area.
@@ -181,14 +181,14 @@ ALOPECIA
 * **Histopathology:** broken and distorted hair shafts (**trichomalacia**) with perifollicular haemorrhage / extravasated red cells.
 * **Management:** **cognitive behavioural therapy with habit-reversal training** (awareness training, relaxation and competing-response training) is the principal behavioural treatment. SSRIs may be used as pharmacotherapy in selected cases; response is variable.
 
-**3. Tinea Capitis (Non-Inflammatory Forms)**
+##### **3. Tinea Capitis (Non-Inflammatory Forms)**
 
 * A fungal scalp infection seen particularly in prepubertal children.
-* **Grey-patch type:** classically ectothrix infection (arthroconidia outside the hair shaft), commonly associated with *Microsporum* species such as *M. canis*.
-* **Black-dot type:** classically endothrix infection (arthroconidia within the hair shaft), associated with *Trichophyton* species such as *T. tonsurans* and *T. violaceum*; broken hairs at scalp level produce black dots.
+* **Grey-patch type:** classically **ectothrix** infection (arthroconidia outside the hair shaft), commonly associated with ***Microsporum*** species such as *M. canis*.
+* **Black-dot type:** classically **endothrix** infection (arthroconidia within the hair shaft), associated with ***Trichophyton*** species such as *T. tonsurans* and *T. violaceum*; broken hairs at scalp level produce black dots.
 * **Inflammatory forms** are included under secondary cicatricial alopecia below.
 
-**4. Secondary Syphilis**
+##### **4. Secondary Syphilis**
 
 * May produce patchy, non-scarring **“moth-eaten” alopecia**, a characteristic clinical pattern.
 
@@ -214,14 +214,14 @@ Scarring alopecia results from irreversible inflammatory or destructive damage t
 
 #### A. Primary Cicatricial Alopecia
 
-**1. Lymphocytic infiltrate**
+##### **1. Lymphocytic infiltrate**
 
 * **Lichen planopilaris:** lichen planus involving hair follicles; perifollicular erythema / violaceous papules and scale may progress to hyperpigmented scarring alopecia.
   * **Frontal fibrosing alopecia:** a variant, classically in postmenopausal women, with progressive frontotemporal scarring hairline recession and **madarosis** (eyebrow loss).
 * **Discoid lupus erythematosus (DLE / chronic cutaneous lupus):** follicular plugging; adherent scale may show the **carpet-tack / tin-tack sign** when lifted.
 * **Pseudopelade of Brocq:** idiopathic, relatively non-inflammatory scarring alopecia with small smooth areas resembling **“footprints in snow”**; histology may show perifollicular concentric lamellar fibrosis.
 
-**2. Neutrophilic infiltrate**
+##### **2. Neutrophilic infiltrate**
 
 * **Folliculitis decalvans / tufted folliculitis:** chronic neutrophilic folliculitis, often associated with *Staphylococcus aureus*. Multiple hair shafts emerge from one dilated follicular opening — **“doll’s hair” sign**.
 * **Dissecting cellulitis of the scalp:** chronic inflammatory nodules and sinus tracts; part of the **follicular occlusion tetrad** with hidradenitis suppurativa, acne conglobata and pilonidal sinus.

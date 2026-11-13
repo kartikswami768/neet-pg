@@ -25,11 +25,11 @@ Bullous Pemphigoid is the most common autoimmune subepidermal blistering disease
   * **BP230 (BPAG1)**: Intracellular plakin family component.
 * **Inflammatory Cascade**: Complement activation (C3) recruits neutrophils and **eosinophils**, releasing proteases (gelatinase B, human leukocyte elastase) that degrade the basement membrane zone.
 
-| Structure / location | Protein | Clinical association / relevance |
-| :--- | :--- | :--- |
-| Intracellular hemidesmosomal plaque (basal keratinocyte cytoplasm) | BP230 / BPAG1 | Autoantigen in bullous pemphigoid. |
-| Transmembrane hemidesmosomal component (type XVII collagen) | BP180 / BPAG2 | Major autoantigen in bullous pemphigoid. |
-| Anchoring fibrils beneath the basement membrane | Type VII collagen | Autoantigen in epidermolysis bullosa acquisita. |
+| Structure / location                                               | Protein           | Clinical association / relevance                    |
+| :----------------------------------------------------------------- | :---------------- | :-------------------------------------------------- |
+| Intracellular hemidesmosomal plaque (basal keratinocyte cytoplasm) | BP230 / BPAG1     | Autoantigen in bullous pemphigoid.                  |
+| Transmembrane hemidesmosomal component (type XVII collagen)        | BP180 / BPAG2     | Major autoantigen in bullous pemphigoid.            |
+| Anchoring fibrils beneath the basement membrane                    | Type VII collagen | Autoantigen in ==epidermolysis bullosa acquisita.== |
 
 ### Clinical Presentation
 * **Prodromal Phase**: Intense pruritus accompanied by urticarial, eczematous, or targetoid erythematous plaques preceding blister formation by weeks to months.
