@@ -40,8 +40,8 @@ Lichen planus is a chronic, autoimmune, cell-mediated inflammatory disorder affe
 
 ### 4. Mucosal & Appendageal Variants
 - **Oral Lichen Planus** (occurs in 40–60% of LP patients):
-  - *Reticular Pattern* (most common): Lacy white reticular striae on buccal mucosa, usually asymptomatic.
-  - *Erosive Pattern*: Painful mucosal ulcerations; carries a small risk of malignant transformation to **Oral Squamous Cell Carcinoma**.
+  - <strong>*Reticular Pattern* (most common)</strong>: Lacy white reticular striae on buccal mucosa, usually asymptomatic.
+  - <strong>*Erosive Pattern*</strong>: Painful mucosal ulcerations; carries a small risk of malignant transformation to **Oral Squamous Cell Carcinoma**.
 - **Nail Lichen Planus**: Longitudinal ridging, splitting, trachyonychia, and pathognomonic **Pterygium formation** (scarring fusion of proximal nail fold to nail bed, splitting the nail plate).
 - **Scalp LP (Lichen Planopilaris)**: Follicular hyperkeratotic papules resulting in **cicatricial (scarring) alopecia**.
 
