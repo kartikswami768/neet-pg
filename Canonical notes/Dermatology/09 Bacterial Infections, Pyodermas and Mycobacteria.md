@@ -22,36 +22,36 @@ Pyodermas are cutaneous bacterial infections primarily caused by ***Staphylococc
   * Morphology: Transient thin-walled vesicles/pustules that rupture rapidly to leave characteristic **honey-colored (amber) adherent crusts** on the face and extremities.
 * **Bullous Impetigo**:
   * Etiology: *S. aureus* belonging to **phage group 2 (types 55 and 71)**.
-  * Mechanism: Secretion of **Exfoliative Toxin A (ETA)** and **ETB**, which selectively cleave **Desmoglein 1** in the stratum granulosum, resulting in flaccid, clear-to-purulent subcorneal bullae.
-* **Staphylococcal Scalded Skin Syndrome (SSSS / Ritter Disease)**:
+  * Mechanism: Secretion of **Exfoliative Toxin A (ETA)** and **ETB**, which selectively cleave **Desmoglein 1** in the stratum granulosum, resulting in ==flaccid, clear-to-purulent subcorneal bullae.==
+* **Staphylococcal Scalded Skin Syndrome (SSSS / <mark style="background-color: #ffd1e4; color: #5c203d;">Ritter Disease</mark>)**:
   * Widespread hematogenous dissemination of exfoliative toxins (ETA/ETB) from a focal staphylococcal infection in neonates and young children ($<5$ years).
-  * Clinical Presentation: Diffuse tender erythema starting periorificially, followed by widespread flaccid sterile bullae and sheet-like epidermal sloughing.
-  * Physical Marker: **Nikolsky Sign Positive $\oplus$**. Spares mucous membranes because exfoliative toxin targets Dsg1 (low relative expression in mucosa, where desmoglein-3 provides compensation).
+  * Clinical Presentation: ==Diffuse tender erythema starting periorificially==, followed by widespread flaccid sterile bullae and sheet-like epidermal sloughing.
+  * Physical Marker: **Nikolsky Sign Positive $\oplus$**. ==Spares mucous membranes== because exfoliative toxin targets Dsg1 (low relative expression in mucosa, where desmoglein-3 provides compensation).
 
-  * **Neonatal diagnostic pearl**: The toxin may originate from a remote focus such as conjunctivitis, otitis or an infected umbilical stump. Superficial splitting occurs at the **granular layer**; cultures of intact blisters may be sterile. **Mucosal sparing** helps distinguish SSSS from Stevens–Johnson syndrome/toxic epidermal necrolysis. Requires prompt antistaphylococcal treatment and supportive fluid/skin care.
+  * **Neonatal diagnostic pearl**: The toxin may originate from a remote focus such as conjunctivitis, otitis or an infected umbilical stump. Superficial splitting occurs at the **granular layer**; cultures of intact blisters may be sterile. ==🟢**Mucosal sparing** helps distinguish SSSS from Stevens–Johnson syndrome/toxic epidermal necrolysis==. Requires prompt antistaphylococcal treatment and supportive fluid/skin care.
 
-| Anatomical level / process | Representative disease | Key point |
-| :--- | :--- | :--- |
-| Subcorneal / superficial epidermis | Non-bullous impetigo | Superficial infection. |
-| Stratum granulosum cleavage | Bullous impetigo / SSSS | Exfoliative toxins ETA/ETB cleave desmoglein 1. |
-| Epidermis with dermal extension | Ecthyma | Ulcerative form of impetigo. |
-| Superficial dermis and lymphatics | Erysipelas | Raised, sharply demarcated erythema. |
-| Deep dermis and subcutaneous tissue | Cellulitis | Ill-defined erythema and swelling. |
+| Anatomical level / process          | Representative disease  | Key point                                       |
+| :---------------------------------- | :---------------------- | :---------------------------------------------- |
+| Subcorneal / superficial epidermis  | Non-bullous impetigo    | Superficial infection.                          |
+| Stratum granulosum cleavage         | Bullous impetigo / SSSS | Exfoliative toxins ETA/ETB cleave desmoglein 1. |
+| Epidermis with dermal extension     | Ecthyma                 | Ulcerative form of impetigo.                    |
+| Superficial dermis and lymphatics   | ==Erysipelas==          | Raised, sharply demarcated erythema.            |
+| Deep dermis and subcutaneous tissue | Cellulitis              | Ill-defined erythema and swelling.              |
 
 ### Deep Bacterial Infections
 
-| Feature | Erysipelas | Cellulitis |
-| :--- | :--- | :--- |
-| **Primary Pathogen** | *Streptococcus pyogenes* (Group A Strep) | *Staphylococcus aureus* or *Streptococcus pyogenes* |
-| **Anatomic Depth** | Upper dermis and superficial cutaneous lymphatics | Deep dermis and subcutaneous fat |
-| **Lesion Border** | **Sharply demarcated**, raised, bright red border | **Indistinct, ill-defined**, merging into normal skin |
-| **Classic Location** | Face (malar) and lower extremities | Lower extremities |
+| Feature              | Erysipelas                                        | Cellulitis                                            |
+| :------------------- | :------------------------------------------------ | :---------------------------------------------------- |
+| **Primary Pathogen** | *==Streptococcus pyogenes==* (Group A Strep)      | *Staphylococcus aureus* or *Streptococcus pyogenes*   |
+| **Anatomic Depth**   | Upper dermis and superficial cutaneous lymphatics | Deep dermis and subcutaneous fat                      |
+| **Lesion Border**    | **Sharply demarcated**, raised, bright red border | **Indistinct, ill-defined**, merging into normal skin |
+| **Classic Location** | ==Face== (malar) and lower extremities            | Lower extremities                                     |
 
 ---
 
 ## 9.2 Cutaneous Tuberculosis & Tuberculids
 
-Cutaneous Tuberculosis manifests as true bacterial infections (containing viable *Mycobacterium tuberculosis*) or tuberculids (sterile hypersensitivity reactions).
+Cutaneous Tuberculosis manifests as ==true bacterial infections (containing viable *Mycobacterium tuberculosis*==) or ==tuberculids (sterile hypersensitivity reactions).==
 
 ### True Cutaneous Tuberculosis
 
@@ -68,7 +68,7 @@ flowchart TD
 ```
 
 * **Lupus Vulgaris**:
-  * Most common post-primary form in previously sensitized individuals with moderate-to-high immunity.
+  * ==Most common== post-primary form in previously sensitized individuals with ==moderate-to-high immunity.==[^hl1]
   * Clinical Morphology: Reddish-brown, gelatinous plaque ("apple-jelly" color on **diascopy** / vitropression).
   * Complication: Longstanding lesions carry a risk of developing **Squamous Cell Carcinoma** within the scar tissue (Marjolin-like ulcer).
 * **Scrofuloderma**:
@@ -79,8 +79,8 @@ flowchart TD
 
 ### Tuberculids (Hypersensitivity Reactions)
 Sterile cutaneous eruptions in patients with high immunity to *M. tuberculosis*:
-* **Erythema Induratum of Bazin**: Tender, violaceous, indurated subcutaneous nodules on the **posterior lower legs (calves)** that frequently ulcerate; histopathology shows lobular panniculitis with vasculitis.
-* **Lichen Scrofulosorum**: Minute, perifollicular, lichenoid papules on the trunk.
+* **Erythema Induratum of Bazin**: Tender, violaceous, indurated subcutaneous nodules on the **posterior lower legs (calves)** that frequently ulcerate; histopathology shows ==lobular panniculitis with vasculitis.==
+* **Lichen Scrofulosorum**: Minute, perifollicular, lichenoid ==papules on the trunk.==
 
 ---
 
@@ -138,3 +138,5 @@ flowchart LR
   * **Clofazimine**: $300\text{ mg}$ once monthly (supervised) AND $50\text{ mg}$ daily (unsupervised).
   * **Dapsone**: $100\text{ mg}$ daily (unsupervised).
   * **Duration**: **12 months**.
+
+[^hl1]: That is why paucibacillary

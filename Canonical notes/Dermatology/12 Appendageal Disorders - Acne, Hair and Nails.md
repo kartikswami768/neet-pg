@@ -115,8 +115,8 @@ The **follicular occlusion tetrad** comprises **hidradenitis suppurativa (HS / a
 - **Classical Hurley staging** (anatomic structural severity; IHS4 additionally measures inflammatory activity):
 
   | Hurley stage | Clinical finding |
-  | :--- | :--- |
-  | **I** | One or multiple inflammatory **nodules/abscesses**, **without tunnels or scarring**; comedones may accompany them (**comedones alone do not define stage I**). |
+  |---|---|
+  | **I** | One or multiple inflammatory **nodules/abscesses**, **without tunnels or scarring** comedones may accompany them (**comedones alone do not define stage I**). |
   | **II** | Recurrent abscesses with **separated tunnels and scars**, leaving intervening uninvolved skin. |
   | **III** | Diffuse/nearly diffuse affected region with **multiple interconnected tunnels/abscesses** and extensive scarring. |
 
