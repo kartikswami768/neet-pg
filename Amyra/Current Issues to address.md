@@ -1,0 +1,2 @@
+- People can ask something about their relative and may not mention that they are asking about someone else. But ai will store that history in the the patient's own clinical history.
+- 

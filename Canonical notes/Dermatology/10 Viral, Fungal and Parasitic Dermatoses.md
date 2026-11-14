@@ -14,14 +14,14 @@ tags:
 ## 10.1 Cutaneous Viral Infections
 
 ### Molluscum Contagiosum
-* **Etiology**: **Molluscum Contagiosum Virus (MCV)**, a large double-stranded DNA virus belonging to the *Poxviridae* family.
+* **Etiology**: **Molluscum Contagiosum Virus (MCV)**, a large double-stranded DNA virus belonging to the ==*Poxviridae*== family.
 * **Clinical Morphology**: Firm, smooth, pearly-white or flesh-colored, dome-shaped papules with central **umbilication**. Expressing the lesion yields a white curd-like material (**molluscum body**).
 * **Anatomic Distribution**: Children (trunk and face); Adults (sexually transmitted in anogenital region).
 * **Histopathology**: Large, crater-like invaginated epidermal lobules containing prominent, oval eosinophilic intracytoplasmic inclusion bodies (**Henderson-Paterson Bodies**) that compress the keratinocyte nucleus.
 
 ### Human Papillomavirus (HPV) Manifestations
-* **Verruca Vulgaris (Common Warts)**: Hyperkeratotic, exophytic papules caused primarily by **HPV types 2 and 4**. Histology shows hyperkeratosis, papillomatosis, hypergranulosis, and vacuolated keratinocytes (**koilocytes**).
-* **Verruca Plana (Flat Warts)**: Smooth, flat-topped, flesh-colored papules caused by **HPV types 3 and 10**.
+* **Verruca Vulgaris (Common Warts)**: ==Hyperkeratotic, exophytic papules== caused primarily by **HPV types 2 and 4**. Histology shows hyperkeratosis, papillomatosis, hypergranulosis, and vacuolated keratinocytes (**koilocytes**).
+* **Verruca Plana (Flat Warts)**: ==Smooth, flat-topped, flesh-colored papules== caused by **HPV types 3 and 10**.
 * **Condyloma Acuminata (Anogenital Warts)**: Cauliflower-like soft papules caused by low-risk **HPV types 6 and 11**. High-risk types **16 and 18** cause cervical dysplasia and Anogenital Squamous Cell Carcinoma.
 
 ---

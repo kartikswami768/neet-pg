@@ -116,20 +116,20 @@ flowchart TD
 
 Alopecia is broadly divided into **non-scarring (non-cicatricial)** and **scarring (cicatricial)** forms according to whether permanent damage to the follicular stem-cell region occurs.
 
-```text
+
 ALOPECIA
-├── Non-scarring (regrowth possible)
-│   ├── Patterned: androgenetic alopecia
-│   ├── Patchy: alopecia areata, trichotillomania, non-inflammatory tinea capitis,
+├── <strong>Non-scarring (regrowth possible)</strong>
+│   ├── <u>Patterned</u>: androgenetic alopecia
+│   ├── <u>Patchy</u>: alopecia areata, trichotillomania, ==non-inflammatory tinea capitis==,
 │   │           secondary syphilis
-│   └── Diffuse: anagen effluvium, telogen effluvium
-└── Scarring (permanent follicular destruction)
-    ├── Primary
-    │   ├── Lymphocytic: lichen planopilaris, DLE, pseudopelade of Brocq
-    │   └── Neutrophilic: folliculitis decalvans, dissecting cellulitis
-    └── Secondary: traction alopecia, inflammatory tinea capitis,
+│   └── <u>Diffuse</u>: anagen effluvium, telogen effluvium
+└── <strong>Scarring (permanent follicular destruction)</strong>
+    ├── <u>Primary</u>
+    │   ├── <u>Lymphocytic</u>: lichen planopilaris, DLE, pseudopelade of Brocq
+    │   └── <u>Neutrophilic</u>: folliculitis decalvans, dissecting cellulitis
+    └── <u>Secondary</u>: traction alopecia, ==inflammatory tinea capitis,==
                    morphea, burns and other destructive injury
-```
+
 
 * **Non-scarring alopecia:** follicular capacity for regrowth is preserved.
 * **Scarring alopecia:** irreversible destruction of stem cells in the follicular bulge/isthmus region leads to permanent loss without potential for regrowth.

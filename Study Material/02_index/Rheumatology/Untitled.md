@@ -1,2 +1,0 @@
-[[Rheumatoid arthritis]]
-[[Cryoglobulinemia]]

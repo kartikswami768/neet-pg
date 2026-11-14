@@ -1,2 +1,0 @@
-- [ ] Rheumatic Heart disease
-- [ ] Muscle Dystrophy
