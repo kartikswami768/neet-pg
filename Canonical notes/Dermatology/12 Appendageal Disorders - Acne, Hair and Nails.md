@@ -77,7 +77,7 @@ flowchart TD
 > * **Drug Interaction**: **Absolute contraindication to combine Isotretinoin with Tetracyclines** due to the high risk of inducing **Pseudotumor Cerebri (Idiopathic Intracranial Hypertension)**.
 
 #### Special Clinical Variants of Acne
-* **Acne Conglobata**: Highly destructive form with interconnecting abscesses, draining sinus tracts, and severe keloidal scarring.
+* **Acne Conglobata**: Severe nodulocystic variant belonging to the [[#3. Follicular Occlusion Tetrad|follicular occlusion tetrad]]; clinical manifestations and treatment are consolidated below.
 * **Acne Fulminans**: Acute, febrile, ulcerating form presenting with painful hemorrhagic nodules, polyarthralgias, leukocytosis, and osteolytic bone lesions.
 * **Drug-Induced Acne**: Caused by Systemic Corticosteroids, Lithium, Isoniazid (INH), or Phenytoin. Characterized by **monomorphic papulopustules without comedones**.
 
@@ -93,6 +93,54 @@ flowchart TD
   4. *Ocular*: Blepharitis, conjunctivitis, and episcleritis.
 * **Triggers**: Alcohol, hot beverages, spicy foods, thermal extremes, and UV light.
 * **Treatment**: Topical Metronidazole 0.75%, Topical Ivermectin 1%, Topical Azelaic acid 15%; Oral Doxycycline (sub-antimicrobial dose 40 mg/day); Surgical debulking or CO2 laser for Rhinophyma.
+
+---
+
+### 3. Follicular Occlusion Tetrad
+
+The **follicular occlusion tetrad** comprises **hidradenitis suppurativa (HS / acne inversa)**, **acne conglobata**, **dissecting cellulitis of the scalp**, and **pilonidal disease**. The first three form the classical *follicular occlusion triad*; pilonidal disease is the fourth. Shared events include **follicular infundibular hyperkeratinisation/occlusion → follicular dilation and rupture → release of keratin and hair-shaft material → intense perifollicular inflammation → abscesses, tunnels and scarring**. These disorders may coexist, but the contribution of mechanical factors is particularly important in pilonidal disease.
+
+| Disorder | Predominant site | Distinctive presentation | Major intervention |
+| :--- | :--- | :--- | :--- |
+| **Hidradenitis suppurativa** | Axillae, groin, perineum, perianal/inframammary folds, buttocks | Recurrent painful nodules/abscesses, **double-ended comedones**, draining tunnels and bridging scars | Stage/severity-directed anti-inflammatory therapy, biologics, **deroofing** or excision |
+| **Acne conglobata** | Trunk, buttocks, face | Deep confluent nodules, grouped comedones, interconnected abscesses and sinus tracts, prominent scars | **Oral isotretinoin** in suitable patients, sometimes adjunctive anti-inflammatory treatment |
+| **Dissecting cellulitis of scalp** | Vertex and occipital scalp | Boggy painful nodules, fluctuant abscesses, interconnected draining sinuses and **scarring alopecia** | Often oral isotretinoin; other systemic therapies or surgery for refractory disease |
+| **Pilonidal disease** | Sacrococcygeal **natal cleft** | Midline pits with hair/debris, recurrent abscess or discharging sinus; "jeep driver's bottom" | **Incision and drainage** for acute abscess; selected minimally invasive or off-midline procedures for chronic disease |
+
+#### A. Hidradenitis Suppurativa (Acne Inversa)
+- **Pathology:** Chronic **immune-mediated follicular inflammatory disease**, **not primarily an apocrine-gland infection**. Secondary apocrine involvement and bacterial colonisation/infection may occur, but *Staphylococcus aureus* is **not a universal primary cause**. Follicular plugging/rupture, innate immune activation and persistent inflammation lead to deep nodules, abscesses, epithelialised draining tunnels and fibrosis.
+- **Sites:** Typical **intertriginous** sites (axillae, inguinal/genital, perineal, perianal, inframammary folds, buttocks); pubic and occasionally periareolar skin may be involved.
+- **Recognition:** Recurrent **painful nodules or abscesses** at typical sites, **paired/double-ended open comedones**, malodorous purulent discharge, tunnels and rope-like/**bridging scars**. Typical lesion morphology, distribution and **chronic relapsing course** underpin diagnosis.
+- **Associations:** Smoking, obesity, insulin resistance/**metabolic syndrome**, diabetes, inflammatory bowel disease and spondyloarthritis; assess cardiometabolic and psychosocial comorbidities where appropriate.
+- **Classical Hurley staging** (anatomic structural severity; IHS4 additionally measures inflammatory activity):
+
+  | Hurley stage | Clinical finding |
+  | :--- | :--- |
+  | **I** | One or multiple inflammatory **nodules/abscesses**, **without tunnels or scarring**; comedones may accompany them (**comedones alone do not define stage I**). |
+  | **II** | Recurrent abscesses with **separated tunnels and scars**, leaving intervening uninvolved skin. |
+  | **III** | Diffuse/nearly diffuse affected region with **multiple interconnected tunnels/abscesses** and extensive scarring. |
+
+- **Management:** Reduce friction and follicular trauma (avoid close shaving if it provokes flares; **clip/trim** instead; consider professionally delivered laser hair reduction), smoking cessation and weight management when applicable. **Mild** disease: topical clindamycin/resorcinol; **more extensive inflammatory** disease: systemic doxycycline/tetracycline or clindamycin–rifampicin under supervision. **Moderate-to-severe** disease: biologic options include **adalimumab, secukinumab, bimekizumab and infliximab** according to indications and access. Persistent tunnels may require **deroofing or local/wide excision**; severe extensive disease can be reconstructed by secondary-intention healing, flap or **split-thickness skin graft (SSG)** depending on the defect. **I&D provides short-term relief of a fluctuant abscess but is not definitive HS treatment**.
+
+#### B. Acne Conglobata
+- **Definition:** Severe, chronic, destructive **nodulocystic acne** with clusters of large comedones, deep confluent inflammatory nodules, painful abscesses, **communicating sinus tracts**, and often hypertrophic/keloidal or atrophic scarring.
+- **Distribution:** Face, chest, back, shoulders and buttocks; usually **without the acute systemic febrile illness of acne fulminans**.
+- **Management:** Specialist-supervised **oral isotretinoin** is a mainstay; extensive inflammation may need adjunctive therapy. Manage scarring after active disease control. *Contrast:* **Acne fulminans** is abrupt, ulcerative/haemorrhagic and can present with fever, arthralgia and osteolytic lesions.
+
+#### C. Dissecting Cellulitis of the Scalp
+- **Also called:** *Perifolliculitis capitis abscedens et suffodiens*.
+- **Pathology/morphology:** Follicular occlusion and rupture → deep **suppurative/neutrophilic inflammation** and interconnected abscesses, sinus tracts and **irreversible cicatricial alopecia** (often vertex/occipital scalp).
+- **Treatment:** Oral isotretinoin is frequently used; antibiotics, intralesional corticosteroids, biologic agents or surgical treatment can be considered in selected refractory disease. Unlike **folliculitis decalvans** (often tufted hairs with pustules), dissecting cellulitis produces **boggy fluctuating nodules and sinus tracts**.
+
+#### D. Pilonidal Sinus (Pilonidal Disease)
+- **Etiopathogenesis:** An **acquired hair-related foreign-body inflammatory process**. Friction, pressure and movement promote penetration/retention of loose hair into the deep intergluteal cleft, producing **midline pits**, granulation tissue, abscesses and secondary sinus tracts. Prolonged sitting, local hair density, deep natal cleft and obesity can contribute. The nickname **"jeep driver's bottom"** refers to a historical association with prolonged driving/vibration; **air being driven inward is not an established essential mechanism**.
+- **Clinical presentation:** Pain/swelling over the sacrococcygeal cleft, **midline pits** containing hairs, recurrent painful abscess and chronic drainage through one or more openings. A pilonidal **sinus** need not represent a true epithelialised **fistula**.
+- **Treatment:**
+  1. **Acute fluctuant abscess:** Prompt **incision and drainage (I&D)**; definitive chronic-disease surgery can be considered later if symptoms persist or recur.
+  2. **Limited chronic disease:** Hair control (selected shaving/laser depilation), hygiene, and where suitable **pit-picking** or other minimally invasive methods.
+  3. **Extensive/recurrent symptomatic disease:** Excision and healing by secondary intention, or **off-midline closure/flap techniques** such as **Karydakis**, **Bascom cleft lift**, or **rhomboid/Limberg flap**. **Primary midline closure is generally discouraged** owing to wound complications/recurrence; complete wide excision is **not required for every patient**.
+
+**Selected references:** [AAD–Hidradenitis Suppurativa Foundation guidelines (2026)](https://pubmed.ncbi.nlm.nih.gov/42900024/); [Australasian HS management guidelines](https://pmc.ncbi.nlm.nih.gov/articles/PMC11898165/); [DermNet: follicular occlusion syndrome](https://dermnetnz.org/topics/follicular-occlusion-syndrome); [European Society of Coloproctology pilonidal guidelines (2024)](https://academic.oup.com/bjs/article/111/10/znae237/7820471).
 
 ---
 
@@ -224,7 +272,7 @@ Scarring alopecia results from irreversible inflammatory or destructive damage t
 ##### **2. Neutrophilic infiltrate**
 
 * **Folliculitis decalvans / tufted folliculitis:** chronic neutrophilic folliculitis, often associated with *Staphylococcus aureus*. Multiple hair shafts emerge from one dilated follicular opening — **“doll’s hair” sign**.
-* **Dissecting cellulitis of the scalp:** chronic inflammatory nodules and sinus tracts; part of the **follicular occlusion tetrad** with hidradenitis suppurativa, acne conglobata and pilonidal sinus.
+* **Dissecting cellulitis of the scalp:** neutrophilic, follicle-destructive scarring alopecia; see the [[#3. Follicular Occlusion Tetrad|follicular occlusion tetrad]] for morphology, pathogenesis, and treatment.
 
 #### B. Secondary Cicatricial Alopecia
 
