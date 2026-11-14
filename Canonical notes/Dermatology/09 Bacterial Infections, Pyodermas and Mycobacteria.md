@@ -26,7 +26,9 @@ Pyodermas are cutaneous bacterial infections primarily caused by ***Staphylococc
 * **Staphylococcal Scalded Skin Syndrome (SSSS / Ritter Disease)**:
   * Widespread hematogenous dissemination of exfoliative toxins (ETA/ETB) from a focal staphylococcal infection in neonates and young children ($<5$ years).
   * Clinical Presentation: Diffuse tender erythema starting periorificially, followed by widespread flaccid sterile bullae and sheet-like epidermal sloughing.
-  * Physical Marker: **Nikolsky Sign Positive $\oplus$**. Spares mucous membranes because exfoliative toxin targets Dsg1 (absent in mucosa).
+  * Physical Marker: **Nikolsky Sign Positive $\oplus$**. Spares mucous membranes because exfoliative toxin targets Dsg1 (low relative expression in mucosa, where desmoglein-3 provides compensation).
+
+  * **Neonatal diagnostic pearl**: The toxin may originate from a remote focus such as conjunctivitis, otitis or an infected umbilical stump. Superficial splitting occurs at the **granular layer**; cultures of intact blisters may be sterile. **Mucosal sparing** helps distinguish SSSS from Stevens–Johnson syndrome/toxic epidermal necrolysis. Requires prompt antistaphylococcal treatment and supportive fluid/skin care.
 
 | Anatomical level / process | Representative disease | Key point |
 | :--- | :--- | :--- |
