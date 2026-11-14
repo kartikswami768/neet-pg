@@ -19,6 +19,13 @@ tags:
 * **Anatomic Distribution**: Children (trunk and face); Adults (sexually transmitted in anogenital region).
 * **Histopathology**: Large, crater-like invaginated epidermal lobules containing prominent, oval eosinophilic intracytoplasmic inclusion bodies (**Henderson-Paterson Bodies**) that compress the keratinocyte nucleus.
 
+
+### Neonatal Herpes Simplex (HSV)
+- **Acquisition:** Usually intrapartum from genital HSV exposure; **either HSV-1 or HSV-2** can cause neonatal disease, and proportions vary by setting.
+- **Clinical forms:** **Skin/eye/mouth (SEM)**: grouped vesicles on an erythematous base, often in the first 1–2 weeks; **CNS**: lethargy, irritability, seizures/encephalitis; **disseminated**: hepatitis, pneumonitis, DIC, shock or sepsis-like illness. **Absence of vesicles does not exclude CNS/disseminated HSV**.
+- **Diagnosis:** **HSV PCR** on lesion swabs, blood and **CSF** as indicated; assess liver enzymes. **Tzanck smear** (multinucleated cells/Cowdry type A inclusions) is historically taught but **not sufficiently sensitive or specific** and does not type HSV.
+- **Management:** Suspected neonatal HSV is an **emergency—start intravenous acyclovir immediately** while obtaining diagnostic specimens; do not await PCR if suspicion is significant.
+
 ### Human Papillomavirus (HPV) Manifestations
 * **Verruca Vulgaris (Common Warts)**: ==Hyperkeratotic, exophytic papules== caused primarily by **HPV types 2 and 4**. Histology shows hyperkeratosis, papillomatosis, hypergranulosis, and vacuolated keratinocytes (**koilocytes**).
 * **Verruca Plana (Flat Warts)**: ==Smooth, flat-topped, flesh-colored papules== caused by **HPV types 3 and 10**.
