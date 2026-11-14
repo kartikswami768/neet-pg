@@ -95,7 +95,7 @@ Desmosomes form strong intercellular junctions between adjacent keratinocytes.
   3. **Lamina Lucida**: Electron-lucent upper basement membrane zone containing **Laminin 332 (Laminin 5)**. Target of autoantibodies in Bullous Pemphigoid ("hemidesmosomes are down bullow").
   4. **Lamina Densa**: Electron-dense zone composed primarily of **Type IV Collagen** and heparan sulfate proteoglycans.
   5. **Sublamina Densa / Anchoring Fibrils**: Composed of **Type VII Collagen** ($COL7A1$), anchoring the lamina densa to dermal collagen. Target in Dystrophic Epidermolysis Bullosa and Epidermolysis Bullosa Acquisita.
-
+![[IMG_1395.jpeg]]
 ---
 
 ## 1.3 Cellular Constituents of Skin
