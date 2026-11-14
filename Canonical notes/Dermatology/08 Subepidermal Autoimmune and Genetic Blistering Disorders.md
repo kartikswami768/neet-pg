@@ -89,6 +89,9 @@ Epidermolysis Bullosa comprises a group of inherited mechanobullous disorders ch
 | **Junctional EB (JEB)** | Autosomal Recessive | *LAMA3, LAMB3, LAMC2* (**Laminin-332**) or *COL17A1* | **Intra-lamina lucida** of basement membrane. | Severe Form (Herlitz): Enamel hypoplasia, laryngeal granulation, early infant mortality. |
 | **Dystrophic EB (DEB)** | AD (Dominant) / AR (Recessive) | *COL7A1* (**Type VII Collagen**) | **Sublamina densa** (anchoring fibrils). | Recessive DEB: Severe scarring, **mitten deformities** of hands/feet, esophageal strictures, high risk of aggressive **Squamous Cell Carcinoma**. |
 
+
+**Additional distinction:** Dystrophic EB may produce **milia** after healing, in addition to scarring and pseudosyndactyly. Junctional EB can cause **mucosal erosions** and **enamel defects**; disease severity varies by molecular subtype. Contrast with **SSSS** (superficial toxin-mediated desmoglein-1 cleavage, mucosal sparing) and **neonatal HSV** (infectious grouped vesicles with possible CNS/disseminated disease). See [[09 Bacterial Infections, Pyodermas and Mycobacteria]] and [[10 Viral, Fungal and Parasitic Dermatoses]].
+
 ---
 
 ## 8.4 Subepidermal Blistering Disease Diagnostic Matrix
