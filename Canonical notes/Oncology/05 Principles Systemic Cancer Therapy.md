@@ -69,7 +69,7 @@ graph TD
 			  - **Ototoxicity** (irreversible high-frequency sensorineural hearing loss); 
 			  - severe emetogenic potential (requires triple antiemetic prophylaxis).
 	  2. **Carboplatin**: 
-		  - Less nephrotoxic/emetogenic; 
+		  - Less nephrotoxic, ototoxic and emetogenic than cisplatin; 
 		  - dose-limiting toxicity is **Myelosuppression** (particularly severe **Thrombocytopenia**). 
 		  - Dosed using the **Calvert Formula**: $\text{Dose (mg)} = \text{Target AUC} \times (\text{GFR} + 25)$.
 	  3. **Oxaliplatin**: 
@@ -78,7 +78,6 @@ graph TD
 
 **Further platinum features**
 - **Cisplatin** also treats ovarian and urothelial carcinomas; important additional toxicities are **peripheral sensory neuropathy** and hypomagnesemia. Renal protection primarily relies on **isotonic saline hydration** and monitoring; mannitol is used selectively, and **amifostine** may be used in selected settings rather than being routine for every patient.
-- **Carboplatin** generally causes less renal injury, ototoxicity and nausea than cisplatin, but its dose-limiting **thrombocytopenia** distinguishes it.
 - **Oxaliplatin** may cause acute **cold-triggered pharyngolaryngeal dysesthesia** (a sensation of difficulty swallowing/breathing without necessarily having true airway obstruction), in addition to cumulative sensory neuropathy.
 
 #### 3. Antimetabolites (Cell Cycle S-Phase Specific)
@@ -117,8 +116,8 @@ graph TD
 - **5-FU** is converted to **FdUMP** (forms a stable complex with thymidylate synthase and reduced folate) and **FUTP** (incorporates into RNA). Used in GI cancers and as a **radiosensitizer**; topical 5-FU treats actinic keratoses and selected superficial skin malignancies. Adverse effects also include **serpentine supravenous hyperpigmentation**. **Capecitabine** is an oral prodrug activated through enzymes including **thymidine phosphorylase**, relatively enriched in some tumors.
 - **Cytarabine** is activated to **ara-CTP**, which impairs DNA polymerase and DNA chain elongation; central to **AML “7+3” induction**. High-dose treatment can cause **cerebellar dysfunction/ataxia** in addition to severe marrow suppression.
 - **Gemcitabine** is a deoxycytidine analog that inhibits **ribonucleotide reductase** and DNA chain extension; used in pancreatic, bladder, NSCLC and ovarian cancers. Myelosuppression is important; diarrhea can occur but is not its defining dose-limiting toxicity.
-- **Thiopurines**: **6-MP and 6-thioguanine (6-TG)** require **HGPRT** activation into thionucleotides, impairing de novo purine synthesis. **TPMT** and **NUDT15** variants increase thiopurine myelotoxicity. Xanthine oxidase inhibition by **allopurinol/febuxostat** markedly raises 6-MP exposure: specialist-guided major dose reduction (often to approximately **25%** of the usual 6-MP dose) and monitoring are needed. **6-TG** differs in metabolism and generally does not have the same clinically significant xanthine-oxidase interaction; hepatotoxicity is important.
-- **Other purine analogs**: **Cladribine** (classic treatment for **hairy cell leukemia**) and **pentostatin** affect purine metabolism/DNA synthesis; **fludarabine** is used in selected CLL/indolent lymphoid malignancies and can cause profound immunosuppression.
+- **Thiopurines**: **6-MP and 6-thioguanine (6-TG)** require **HGPRT** activation into thionucleotides, impairing de novo purine synthesis. **TPMT** and **NUDT15** variants increase thiopurine myelotoxicity. Xanthine oxidase inhibition by **allopurinol/febuxostat** markedly raises 6-MP exposure: specialist-guided major dose reduction (often to approximately **25%** of the usual 6-MP dose) and monitoring are needed. **6-TG** differs in metabolism and generally does not have the same clinically significant xanthine-oxidase interaction; hepatotoxicity and a long-term increased risk of **nonmelanoma skin cancer** are important.
+- **Other purine analogs**: **Cladribine** (classic treatment for **hairy cell leukemia**) and **pentostatin** are purine-analog/adenosine-deaminase-pathway agents with effects on DNA synthesis and lymphocyte viability; **fludarabine** is used in selected CLL/indolent lymphoid malignancies and can cause profound immunosuppression.
 - **Hydroxyurea** inhibits **ribonucleotide reductase** and is used in myeloproliferative neoplasms (e.g., polycythemia vera) and sickle-cell disease (induces **HbF**). Adverse effects include marrow suppression, macrocytosis and chronic leg ulcers.
 
 #### 4. Antitumor Antibiotics
@@ -137,10 +136,10 @@ graph TD
 		  * Minimal myelosuppressive activity.
 
 **Additional antitumor antibiotics**
-- **Anthracyclines** additionally include **daunorubicin** and **idarubicin** (particularly in acute leukemias). They **intercalate DNA, inhibit topoisomerase II and generate iron-dependent reactive oxygen species**. Cardiac injury may cause early arrhythmias or late cumulative cardiomyopathy; other characteristic effects include **alopecia, myelosuppression, red/orange body-fluid discoloration** and **radiation-recall dermatitis** (inflammation confined to a previously irradiated field after drug exposure).
+- **Anthracyclines** additionally include **daunorubicin** and **idarubicin** (particularly in acute leukemias); the class is also central to several breast cancer and lymphoma regimens. They **intercalate DNA, inhibit topoisomerase II and generate iron-dependent reactive oxygen species**. Cardiac injury may cause early arrhythmias or late cumulative cardiomyopathy; other characteristic effects include **alopecia, myelosuppression, red/orange body-fluid discoloration** and **radiation-recall dermatitis** (inflammation confined to a previously irradiated field after drug exposure).
 - **Bleomycin** forms a DNA-damaging free-radical complex with **Fe²⁺**; relatively low **bleomycin-hydrolase** activity in lung/skin helps explain **pneumonitis/fibrosis** and distinctive **flagellate erythema/hyperpigmentation**, hyperkeratosis and mucositis. Used in **ABVD** (Hodgkin lymphoma) and **BEP** (testicular germ-cell tumors).
-- **Dactinomycin/actinomycin D** binds DNA and inhibits RNA transcription; used in **Wilms tumor, rhabdomyosarcoma, Ewing sarcoma** and gestational trophoblastic neoplasia. Severe myelosuppression, mucositis and vesicant injury can occur.
-- **Mitomycin C** is activated to an alkylating DNA cross-linker; used with 5-FU in **anal carcinoma** and intravesically for selected bladder tumors. Local application is also used in certain procedures to limit scar formation.
+- **Dactinomycin/actinomycin D** binds the DNA minor groove and inhibits DNA-dependent RNA transcription; used in **Wilms tumor, rhabdomyosarcoma, Ewing sarcoma** and gestational trophoblastic neoplasia. Severe myelosuppression, mucositis and vesicant injury can occur.
+- **Mitomycin C** is activated to an alkylating DNA cross-linker; used with 5-FU in **anal carcinoma** and intravesically for selected bladder tumors. Topical application is also used in selected airway procedures to reduce **laryngotracheal scar/stenosis**.
 
 #### 5. Microtubule Inhibitors (Cell Cycle M-Phase Specific)
 1. **Vinca Alkaloids (Vincristine, Vinblastine)**: 
@@ -160,7 +159,7 @@ graph TD
 
 **Further spindle inhibitor distinctions**
 - **Vinca alkaloids** are derived from *Catharanthus roseus* (*Vinca rosea*); **vinorelbine** is another member. Vincristine can also cause **cranial neuropathy** and **SIADH**; vinblastine is used in **ABVD for Hodgkin lymphoma**, whereas vincristine appears in regimens such as **R-CHOP** and some ALL induction protocols.
-- **Taxanes** also include **cabazitaxel**. **Paclitaxel** is used in breast, ovarian and lung cancer; hypersensitivity to conventional solvent-containing formulations is reduced by corticosteroid/H1/H2 premedication. **Docetaxel** has prominent **fluid retention/peripheral edema**. **Nab-paclitaxel** is albumin-bound, solvent-free and generally requires less hypersensitivity premedication.
+- **Taxanes** also include **cabazitaxel**. **Paclitaxel** is used in breast, ovarian and lung cancer; conventional formulations contain solvent vehicles that contribute to infusion hypersensitivity. **Docetaxel** has prominent **fluid retention/peripheral edema**. **Nab-paclitaxel** is albumin-bound, solvent-free and generally requires less hypersensitivity premedication.
 
 #### 6. Topoisomerase Inhibitors
 * **Topoisomerase I Inhibitors (Irinotecan, Topotecan)**: 
@@ -173,13 +172,13 @@ graph TD
 		* Treatment-related Therapy-Related AML with $11q23$ ($MLL$) translocations.
 
 **Further topoisomerase pharmacology**
-- **Topoisomerase I** normally creates transient **single-strand** DNA breaks; irinotecan/topotecan prevent re-ligation, leading to replication-associated DNA damage in $S$ phase. **Irinotecan** is converted to **SN-38**, then inactivated by **UGT1A1**; used in colorectal cancer (**FOLFIRI**). **Early cholinergic diarrhea** responds to **atropine**, whereas delayed diarrhea is managed with **loperamide** and supportive fluids. **Topotecan** is used in selected ovarian and small-cell lung cancers and is predominantly renally cleared.
+- **Topoisomerase I** normally creates transient **single-strand** DNA breaks; irinotecan/topotecan prevent re-ligation, leading to replication-associated DNA damage in $S$ phase. **Irinotecan** is converted to **SN-38**, then inactivated by **UGT1A1**; used in colorectal cancer (**FOLFIRI**). **Delayed secretory diarrhea** is managed with **loperamide** and supportive fluids (acute atropine treatment noted above). **Topotecan** is used in selected ovarian and small-cell lung cancers and is predominantly renally cleared.
 - **Topoisomerase II** makes transient **double-strand** breaks; **etoposide/teniposide** block re-ligation, useful in **SCLC**, testicular cancer and some leukemias. Myelosuppression, alopecia and **therapy-related AML involving KMT2A/11q23 rearrangements** are notable.
 
 **Cytotoxic supportive care, antidotes and toxicity reversal**
 - **Chemotherapy-induced nausea/vomiting**: Acute emesis (first 24 h) prominently involves **5-HT₃** signaling; delayed emesis involves **substance P/NK₁** pathways. Examples: **ondansetron/palonosetron** (5-HT₃ antagonists), **aprepitant/fosaprepitant/netupitant** (NK₁ antagonists) and **dexamethasone**. **Olanzapine** is also included in contemporary prophylaxis for many highly emetogenic regimens; select combinations according to emetic risk.
 - **Tumor lysis syndrome** after treatment of rapidly proliferating hematologic cancers: **hyperkalemia, hyperphosphatemia, hypocalcemia and hyperuricemia**. Prevent/manage with close electrolyte/renal monitoring, hydration, and appropriate **allopurinol** (prevents new uric acid) or **rasburicase** (urate oxidase converts existing uric acid to **allantoin**). Avoid rasburicase in **G6PD deficiency**.
-- **Chemotherapy-induced neutropenia**: **Filgrastim/pegfilgrastim (G-CSF)** and **sargramostim (GM-CSF)** promote myeloid recovery in selected settings. **Epoetin alfa/darbepoetin** may be considered for selected chemotherapy-associated anemia with careful assessment of thrombotic/oncologic risks. **Eltrombopag** and other platelet-stimulating drugs are not routine prophylaxis for all chemotherapy-induced thrombocytopenia.
+- **Chemotherapy-induced neutropenia**: **Filgrastim/pegfilgrastim (G-CSF)** and **sargramostim (GM-CSF)** promote myeloid recovery in selected settings. **Epoetin alfa/darbepoetin** may be considered for selected chemotherapy-associated anemia with careful assessment of thrombotic/oncologic risks. **Eltrombopag** and other platelet-stimulating drugs are not routine prophylaxis for all chemotherapy-induced thrombocytopenia. **Oprelvekin (recombinant IL-11)** is an older exam example that is no longer available in the US due to limited benefit and toxicity.
 - **Severe oral mucositis**: **Palifermin** (recombinant keratinocyte growth factor) is used in specific high-dose therapy/hematopoietic stem-cell-transplant settings, **not as routine rescue for all MTX or 5-FU mucositis**. For fluoropyrimidine-related **hand-foot syndrome**, prioritize dose modification and supportive skin care; **pyridoxine is not an established standard antidote**.
 
 **Common combination chemotherapy regimens (component recall)**
@@ -192,7 +191,7 @@ graph TD
 | **7+3** | AML induction | **7 days cytarabine** + **3 days anthracycline** (commonly daunorubicin or idarubicin) |
 | **BEP** | Testicular germ-cell tumors | **B**leomycin + **E**toposide + cis**P**latin |
 | **EMA-CO** | High-risk gestational trophoblastic neoplasia | **E**toposide + **M**ethotrexate + **A**ctinomycin D, alternating with **C**yclophosphamide + **O**ncovin (vincristine) |
-| **ALL induction (variable protocols)** | Acute lymphoblastic leukemia | Often includes **vincristine + glucocorticoid + asparaginase**, with an **anthracycline** in many regimens; protocol varies by age/risk |
+| **ALL induction (VPLA/VPAD variants; variable protocols)** | Acute lymphoblastic leukemia | Often **V**incristine + **P**rednisolone + **L**-asparaginase + **A/D**nthracycline (e.g., daunorubicin); protocol varies by age/risk |
 
 ---
 
@@ -215,19 +214,20 @@ graph TD
 
 | TKI Agent | Primary Molecular Target | Clinical Indications | Key Clinical Considerations / Toxicities |
 | :--- | :--- | :--- | :--- |
-| **Imatinib** | BCR-ABL1, c-KIT (CD117), PDGFR | CML ($t(9;22)$), GIST (*c-KIT* mut), Hypereosinophilic syndrome | First-generation TKI; side effects: fluid retention / periorbital edema, diarrhea, muscle cramps |
+| **Imatinib** | BCR-ABL1, c-KIT (CD117), PDGFR | CML ($t(9;22)$), GIST (*c-KIT* mut), Hypereosinophilic syndrome | First-generation TKI; side effects: fluid retention / periorbital edema, diarrhea, muscle cramps, hypopigmentation and elevated transaminases |
 | **Osimertinib** | EGFR exon 19 del, L858R, and **T790M resistance mutation** | First-line & resistant *EGFR*-mutated NSCLC | 3rd generation irreversible EGFR TKI; spares wild-type EGFR (less rash/diarrhea) |
 | **Alectinib** | ALK fusion gene rearrangements | First-line *ALK*-rearranged NSCLC | 2nd generation ALK TKI; superior CNS penetration over Crizotinib |
 | **BRAF/MEK Inhibitors** (Dabrafenib + Trametinib) | BRAF V600E / V600K kinase | Metastatic Melanoma, *BRAF*-mutated NSCLC, Anaplastic thyroid CA | Combination BRAF + MEK inhibition delays acquired resistance and reduces secondary skin papillomas |
 | **Multi-Kinase Inhibitors** (Sunitinib, Sorafenib) | VEGFR-1/2/3, PDGFR, FLT3, RET | RCC, HCC, GIST (post-Imatinib) | Anti-VEGF class toxicities: **Hypertension**, hand-foot skin reaction, proteinuria |
 
 **Expanded small-molecule targets**
-- **BCR–ABL1**: **Dasatinib, nilotinib, bosutinib** (second-generation), **ponatinib** (active against **T315I**), and **asciminib** (allosteric ABL myristoyl-pocket inhibitor) are additional CML agents. Characteristic safety points: dasatinib—**pleural effusions**; nilotinib—**vascular events/QT prolongation**; bosutinib—**diarrhea/hepatic toxicity**; ponatinib—**arterial occlusion**.
+- **BCR–ABL1**: **Dasatinib, nilotinib, bosutinib** (second-generation), **ponatinib** (active against **T315I**), and **asciminib** (allosteric ABL myristoyl-pocket inhibitor) are additional CML agents. Characteristic safety points: dasatinib—**pleural effusions**; nilotinib—**vascular events/QT prolongation**, sometimes pancreatitis; bosutinib—**diarrhea/hepatic toxicity**; ponatinib—**arterial occlusion**.
 - **EGFR-mutant NSCLC**: **Gefitinib, erlotinib** (reversible) and **afatinib** (irreversible ErbB inhibitor) cause **acneiform rash** and diarrhea. **HER2/EGFR TKIs** include **lapatinib** and **neratinib** (HER2-positive breast cancer; neratinib frequently causes diarrhea).
-- **Other TKIs**: **Crizotinib** also targets ALK (with MET/ROS1 activity); **lenvatinib** is a VEGFR/multikinase inhibitor. **Ibrutinib** inhibits **BTK** in selected B-cell malignancies (notable atrial fibrillation, bleeding and hypertension). **Ruxolitinib** inhibits **JAK1/2** in myelofibrosis and selected polycythemia vera.
+- **Other TKIs**: **Crizotinib** also targets ALK (with MET/ROS1 activity; possible edema and elevated transaminases); **lenvatinib** is a VEGFR/multikinase inhibitor. **Ibrutinib** inhibits **BTK** in selected B-cell malignancies (notable atrial fibrillation, bleeding and hypertension). **Ruxolitinib** inhibits **JAK1/2** in myelofibrosis and selected polycythemia vera.
 - **Proteasome inhibitors**: **Bortezomib** and **ixazomib** reversibly inhibit proteasomal proteolysis, while **carfilzomib** inhibits irreversibly; they impair protein quality control in **multiple myeloma** and selected **mantle-cell lymphoma**. **Peripheral neuropathy** is prominent with bortezomib; **herpes zoster reactivation** warrants antiviral prophylaxis in appropriate protocols; carfilzomib also has cardiac/vascular toxicities.
 - **CDK4/6 inhibitors—palbociclib, ribociclib, abemaciclib**: Maintain **Rb** in its growth-suppressive state by preventing CDK4/6-mediated phosphorylation, producing **G1 arrest**. Used with aromatase inhibitors or **fulvestrant** for **HR-positive/HER2-negative breast cancer** (including specified adjuvant indications). **Palbociclib/ribociclib**—neutropenia; **ribociclib**—**QT prolongation and hepatotoxicity**; **abemaciclib**—diarrhea and venous thromboembolism.
 - **PARP inhibitors—olaparib, rucaparib, niraparib**: Block PARP-dependent single-strand DNA repair; in **BRCA1/2-mutant or homologous-recombination-deficient** tumors, replication converts damage into unrepaired double-strand breaks (**synthetic lethality**). Used in molecularly selected ovarian, breast, pancreatic and prostate cancers. Adverse effects: **anemia/myelosuppression, fatigue and nausea**.
+- **Additional BRAF/MEK examples**: **Vemurafenib** (BRAF V600E) and **cobimetinib** (MEK) are alternatives to agents already tabulated; BRAF/MEK pairing helps limit paradoxical MAPK signaling and secondary cutaneous squamous neoplasms.
 - **HDAC inhibitor—vorinostat**: Alters histone acetylation and gene expression; used for selected **cutaneous T-cell lymphoma/mycosis fungoides**.
 
 ### Monoclonal Antibody Targeted Therapies
@@ -245,12 +245,12 @@ graph TD
 **Additional tumor-directed antibodies**
 - **Rituximab (anti-CD20)**: Chimeric antibody depleting mature B cells by **ADCC and complement-mediated lysis**; used for B-cell lymphomas/CLL and selected autoimmune conditions (e.g., RA, ITP, pemphigus). Key risks: **infusion reactions**, **hepatitis B reactivation** and rare **JC-virus progressive multifocal leukoencephalopathy (PML)**.
 - **Alemtuzumab (anti-CD52)**: Profound B-/T-cell depletion; used in selected CLL and multiple sclerosis settings, with serious opportunistic-infection risk.
-- **Further adverse effects**: Cetuximab/panitumumab may produce **hypomagnesemia** and infusion reactions. Bevacizumab may cause **bleeding and wound dehiscence** in addition to previously listed toxicities.
+- **Further antibody indications/adverse effects**: Bevacizumab is used in selected colorectal, ovarian, renal and nonsquamous lung malignancies. Cetuximab/panitumumab may produce **hypomagnesemia** and infusion reactions. Bevacizumab may cause **bleeding and wound dehiscence** in addition to previously listed toxicities.
 
 **Endocrine and hormone-directed anticancer drugs**
 - **SERMs—tamoxifen, raloxifene, toremifene**: **Tamoxifen** antagonizes estrogen receptors in **breast** but has partial agonist actions in **bone/endometrium**. Used in ER-positive breast cancer (particularly with ovarian function intact); lowers recurrence and contralateral breast cancer risk. Risks: **hot flashes, venous thromboembolism, endometrial hyperplasia/cancer and cataracts**. **Raloxifene** preserves bone and reduces ER-positive breast cancer risk in selected postmenopausal patients **without endometrial agonism**; it is *not* a treatment for active breast cancer. **Toremifene** is used for selected metastatic ER-positive breast cancers.
 - **SERD—fulvestrant**: Estrogen-receptor antagonist that promotes **ER degradation**; used in selected advanced/metastatic hormone-receptor-positive breast cancer, frequently in combinations.
-- **Aromatase inhibitors (CYP19A1)**: **Anastrozole and letrozole** are nonsteroidal reversible inhibitors; **exemestane** is a steroidal irreversible inhibitor. They reduce peripheral estrogen production and are central to **postmenopausal ER-positive breast cancer**; in premenopausal patients they require **ovarian suppression**. Effects: **arthralgia, hot flashes, accelerated bone loss/osteoporosis and fractures**.
+- **Aromatase inhibitors (CYP19A1)**: **Anastrozole and letrozole** are nonsteroidal reversible inhibitors; **exemestane** is a steroidal irreversible inhibitor. Older/less-used examples include **vorozole** (nonsteroidal) and **formestane** (steroidal). They reduce peripheral estrogen production and are central to **postmenopausal ER-positive breast cancer**; in premenopausal patients they require **ovarian suppression**. Effects: **arthralgia, hot flashes, accelerated bone loss/osteoporosis and fractures**.
 - **Androgen deprivation for prostate cancer**: Continuous **GnRH agonists** (**leuprolide, goserelin, triptorelin**) initially cause a **testosterone flare**, then pituitary receptor downregulation and castrate testosterone; antiandrogen cover may be used when flare poses clinical risk. **GnRH antagonists** (e.g., **degarelix/relugolix**) suppress testosterone **without flare**.
 - **Androgen receptor antagonists**: **Flutamide, bicalutamide, enzalutamide** block androgen signaling; **enzalutamide** further impairs androgen-receptor nuclear translocation. **Finasteride/dutasteride** inhibit **5α-reductase** (testosterone → DHT), chiefly used for BPH/androgen-related indications rather than as a substitute for systemic castration therapy in metastatic prostate cancer.
 
