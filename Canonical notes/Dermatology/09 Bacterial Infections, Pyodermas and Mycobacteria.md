@@ -119,13 +119,13 @@ flowchart LR
 
 ### Lepra Reactions
 1. **Type 1 Lepra Reaction (Reversal Reaction)**:
-   * **Mechanism**: **Type IV Cell-Mediated Delayed Hypersensitivity** flare due to spontaneous enhancement of CMI. Seen in borderline spectrum (BT, BB, BL) following therapy initiation.
-   * **Clinical Signs**: Pre-existing skin lesions become acutely inflamed, edematous, and erythematous; acute **neuritis** with severe pain and rapid nerve function loss.
+   * **Mechanism**: **Type IV Cell-Mediated Delayed Hypersensitivity** flare due to spontaneous ==enhancement of CMI==. Seen in ==borderline spectrum (BT, BB, BL)== following therapy initiation.
+   * **Clinical Signs**: Pre-existing skin lesions become acutely inflamed, edematous, and erythematous; acute **neuritis** with severe pain and ==rapid nerve function loss.==
    * **Treatment**: High-dose systemic corticosteroids.
 2. **Type 2 Lepra Reaction (Erythema Nodosum Leprosum - ENL)**:
-   * **Mechanism**: **Type III Immune-Complex Hypersensitivity** (Arthus phenomenon). Occurs in high-bacillary-load leprosy (BL, LL) due to massive antigen release.
-   * **Clinical Signs**: Eruption of crop-like, tender, erythematous subcutaneous nodules accompanied by high fever, iridocyclitis, orchitis, dactylitis, and glomerulonephritis.
-   * **Treatment**: **Thalidomide** (drug of choice for ENL), systemic corticosteroids, Clofazimine.
+   * **Mechanism**: **Type III Immune-Complex Hypersensitivity** (==Arthus phenomenon==). Occurs in ==high-bacillary-load leprosy (BL, LL)== due to ==massive antigen release==.
+   * **Clinical Signs**: Eruption of <u>crop-like, tender, erythematous subcutaneous nodules</u> accompanied by high fever, ==iridocyclitis, orchitis, dactylitis, and glomerulonephritis.==
+   * **Treatment**: <mark style="background-color: #c8f2d2; color: #173b22;">**Thalidomide**</mark> (drug of choice for ENL), systemic corticosteroids, ==Clofazimine==.
 
 ### WHO Multi-Drug Therapy (MDT) Regimens
 

@@ -99,6 +99,7 @@ graph TD
 	  * Dose-limiting toxicity: 
 		  * **Dilated Cardiomyopathy & Congestive Heart Failure** caused by iron-mediated free radical generation (cumulative lifetime dose limit for Doxorubicin is $450–550\text{ mg/m}^2$). 	  
 		  * **Dexrazoxane** (an iron-chelating agent) is administered for cardioprotection in high-dose settings.
+		  * In Kaposi Sarcoma 
   * **Bleomycin**: 
 	  * Glycopeptide antibiotic; 
 	  * binds DNA and generates free radicals causing single/double-strand breaks in $G_2/M$ phase. 
