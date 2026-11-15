@@ -29,7 +29,7 @@ Kaposi sarcoma is a **low-grade malignant vascular tumor** arising from **endoth
 - May regress after reducing immunosuppression
 
 ## Clinical Features (Commonly Asked)
-- **Painless violaceous (purple)** [macules → plaques → nodules](Skin%20Lesions.md)  
+- **Painless violaceous (purple)** [macules → plaques → nodules](01_Study%20Material/03_pyq/Derma/Skin%20Lesions.md)  
 - Common sites:
   - Skin of face and extremities  
   - **Oral cavity – hard palate (most common oral site)**  
