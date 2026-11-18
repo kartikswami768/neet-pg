@@ -16,17 +16,28 @@ chapter: 1
 	3. and harboring hematopoietic stem cells within the medullary cavity.
 
 ### Matrix Composition & Molecular Architecture
-The dry weight of adult bone matrix is divided into an inorganic mineral phase (65%) and an organic osteoid matrix (35%), alongside cellular elements and bound water.
+The dry weight of adult bone matrix is divided into an 
+- inorganic mineral phase (65%) and 
+- an organic osteoid matrix (35%), alongside cellular elements and bound water.
 
 * **Inorganic Mineral Phase (65% Dry Weight)**:
-  * **Calcium Hydroxyapatite** ($\text{Ca}_{10}(\text{PO}_4)_6(\text{OH})_2$): Formed as microscopic crystalline lattices deposited along collagen microfibrils. Provides compressive strength, rigidity, and acts as the body's primary reservoir for calcium (99%) and phosphorus (85%).
+  * **Calcium Hydroxyapatite** ($\text{Ca}_{10}(\text{PO}_4)_6(\text{OH})_2$): 
+	  * Formed as microscopic crystalline lattices deposited along collagen microfibrils. 
+	  * Provides compressive strength, rigidity, and acts as the body's primary reservoir for calcium (99%) and phosphorus (85%).
   * **Trace Minerals**: Amorphous calcium phosphate, citrate, carbonate, sodium, potassium, and magnesium.
 * **Organic Matrix / Osteoid (35% Dry Weight)**:
-  * **Type I Collagen (90–95% of Organic Matrix)**: Principal structural protein. Composed of a triple helix ($2\alpha_1$ and $1\alpha_2$ chains) cross-linked by lysyl oxidase to provide tensile strength and resistance to shear forces. *(Note: Hyaline articular cartilage is composed of Type II collagen; granulation tissue contains Type III collagen; basement membranes contain Type IV collagen).*
+  * **Type I Collagen (90–95% of Organic Matrix)**: 
+	  * Principal structural protein. 
+	  * Composed of a triple helix ($2\alpha_1$ and $1\alpha_2$ chains) cross-linked by lysyl oxidase to provide tensile strength and resistance to shear forces. 
+	  * *(Note: Hyaline articular cartilage is composed of Type II collagen; granulation tissue contains Type III collagen; basement membranes contain Type IV collagen).*
   * **Non-Collagenous Proteins (5–10%)**:
-    * *Osteocalcin*: Bone-specific vitamin K-dependent protein synthesized by mature osteoblasts; binds hydroxyapatite and serves as a clinical biomarker of osteoblast activity and bone formation.
-    * *Osteonectin*: Glycoprotein that binds both Type I collagen and hydroxyapatite, mediating matrix mineralization.
-    * *Osteopontin & Bone Sialoprotein*: Cell-attachment proteins containing RGD (arginine-glycine-aspartate) sequences that mediate osteoclast attachment to the bone matrix during resorption.
+    * *Osteocalcin*: 
+	    * Bone-specific ==vitamin K-dependent protein== synthesized by mature osteoblasts; 
+	    * binds hydroxyapatite and serves as a ==clinical biomarker of osteoblast activity== and ==bone formation.==
+    * *Osteonectin*: 
+	    * Glycoprotein that binds both Type I collagen and hydroxyapatite, ==mediating matrix mineralization.==
+    * *Osteopontin & Bone Sialoprotein*: 
+	    * Cell-attachment proteins containing RGD (arginine-glycine-aspartate) sequences that mediate osteoclast attachment to the bone matrix during resorption.
 
 ```mermaid
 flowchart TD
