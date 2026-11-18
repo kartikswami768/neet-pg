@@ -89,7 +89,9 @@ flowchart TD
 
 ## 2. Fracture Mechanics, Biomechanical Force Patterns & Pathological Fractures
 
-![[images/Fracture_Patterns.png]]
+![Fracture patterns](https://commons.wikimedia.org/wiki/Special:FilePath/Types_of_fracture.jpg)
+
+*Online diagram, not downloaded: [Smart Servier Medical Art](https://commons.wikimedia.org/wiki/File:Types_of_fracture.jpg). Requires internet in Obsidian.*
 
 *Common fracture-line patterns — schematic.*
 
@@ -136,7 +138,7 @@ Fracture healing is a unique biological process that restores bone to its origin
 
 ### Indirect (Secondary / Endochondral) Fracture Healing
 
-![[images/Fracture_Healing.png]]
+
 
 *Stages of secondary fracture healing — schematic.*
 

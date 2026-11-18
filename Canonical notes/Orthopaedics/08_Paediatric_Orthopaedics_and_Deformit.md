@@ -9,7 +9,9 @@ chapter: 8
 
 ## 1. Salter-Harris Classification of Growth Plate Injuries
 
-![[images/Salter_Harris.png]]
+![Salter–Harris fracture classification](https://commons.wikimedia.org/wiki/Special:FilePath/SalterHarris.svg)
+
+*Online diagram, not downloaded: [Zerodamage / Dr Frank Gaillard](https://commons.wikimedia.org/wiki/File:SalterHarris.svg). Requires internet in Obsidian.*
 
 *Salter–Harris injury patterns I–V — schematic.*
 
@@ -42,7 +44,7 @@ flowchart LR
 
 ## 2. Congenital Talipes Equinovarus (CTEV / Clubfoot)
 
-![[images/Clubfoot_CAVE.png]]
+
 
 *Clubfoot: CAVE components — schematic.*
 
@@ -120,7 +122,7 @@ flowchart TD
 
 ### Radiological Assessment
 
-![[images/DDH_Lines.png]]
+
 
 *Developmental dysplasia: Hilgenreiner and Perkins reference lines — schematic.*
 

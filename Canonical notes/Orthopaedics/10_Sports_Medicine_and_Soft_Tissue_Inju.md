@@ -9,7 +9,7 @@ chapter: 10
 
 ## 1. Knee Ligamentous Biomechanics & Clinical Diagnostics
 
-![[images/Knee_Ligaments.png]]
+
 
 *ACL and PCL relationships — schematic.*
 
@@ -53,7 +53,7 @@ chapter: 10
 
 ## 2. Meniscal Pathology & Articular Cartilage Lesions
 
-![[images/Meniscal_Tears.png]]
+
 
 *Major meniscal tear patterns — schematic.*
 
@@ -125,7 +125,7 @@ Overuse tendinopathies stem from repetitive micro-trauma exceeding the physiolog
 
 ## 4. Shoulder Rotator Cuff & Labral Pathology
 
-![[images/Rotator_Cuff.png]]
+
 
 *Rotator cuff — schematic.*
 

@@ -9,7 +9,7 @@ chapter: 11
 
 ## 11.1 Knee Ligament Biomechanics & Traumatic Disruption
 
-![[images/Knee_Ligaments.png]]
+
 
 *ACL and PCL relationships — schematic.*
 
@@ -45,7 +45,7 @@ The knee joint relies heavily on static ligamentous constraints and dynamic musc
 
 ## 11.2 Meniscal Mechanics, Cartilage & Patellofemoral Pathology
 
-![[images/Meniscal_Tears.png]]
+
 
 *Major meniscal tear patterns — schematic.*
 
@@ -87,7 +87,7 @@ Overuse syndromes stem from repetitive microtrauma exceeding the physiological r
 
 ## 11.4 Shoulder Rotator Cuff & Labral Pathology
 
-![[images/Rotator_Cuff.png]]
+
 
 *Rotator cuff — schematic.*
 

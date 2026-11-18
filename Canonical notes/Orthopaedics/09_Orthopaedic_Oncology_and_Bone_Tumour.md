@@ -20,7 +20,7 @@ Primary evaluation rests upon three essential diagnostic pillars:
 
 ### 1.2 Mechanics of Periosteal Reaction
 
-![[images/Periosteal_Reactions.png]]
+
 
 *Laminated, spiculated and Codman triangle periosteal reactions — schematic.*
 
@@ -45,7 +45,7 @@ The Enneking System (Musculoskeletal Tumor Society [MSTS]) classifies musculoske
 
 ## 2. Anatomic Localization & Differential Diagnosis Matrix
 
-![[images/Bone_Tumor_Locations.png]]
+
 
 *Epiphyseal, metaphyseal and diaphyseal tumor location — schematic.*
 
