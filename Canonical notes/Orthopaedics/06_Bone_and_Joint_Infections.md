@@ -30,7 +30,7 @@ Infections of the musculoskeletal system represent critical orthopedic emergenci
 
 ### 1.2 Anatomical Predilection & Pathophysiology
 
-![[images/Osteomyelitis_Anatomy.png]]
+
 
 *Sequestrum, involucrum and sinus — schematic.*
 
@@ -150,7 +150,7 @@ Septic arthritis is an acute bacterial infection of the joint space representing
 
 ## 4. Skeletal Tuberculosis (Pott's Disease & Tuberculous Arthritis)
 
-![[images/Potts_Spine.png]]
+
 
 *Pott disease vertebral collapse — schematic.*
 

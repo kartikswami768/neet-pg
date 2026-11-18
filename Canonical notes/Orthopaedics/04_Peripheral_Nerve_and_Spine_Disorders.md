@@ -32,7 +32,7 @@ When an axon is transected, it undergoes a predictable sequence of anterograde b
 
 ## 2. Brachial Plexus Anatomy & Eponymous Palsies
 
-![[images/Brachial_Plexus.png]]
+
 
 *Brachial plexus pathway — schematic.*
 
@@ -125,7 +125,7 @@ Denis divided the thoracolumbar spine into three mechanical vertical columns:
 
 ### 4.2 Acute Spinal Cord Injury Patterns
 
-![[images/Spinal_Cord_Syndromes.png]]
+
 
 *Cord syndrome comparison — schematic.*
 

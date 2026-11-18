@@ -36,7 +36,7 @@ flowchart TD
 
 ## 2. Rickets & Osteomalacia
 
-![[images/Rickets_Growth_Plate.png]]
+
 
 *Rickets: metaphyseal cupping and fraying — schematic.*
 
@@ -132,7 +132,7 @@ Renal osteodystrophy develops in Chronic Kidney Disease (CKD) stages 4–5 ($GFR
 
 ### Osteoporosis
 
-![[images/Bone_Microarchitecture.png]]
+
 
 *Trabecular density comparison — schematic.*
 

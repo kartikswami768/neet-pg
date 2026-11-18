@@ -20,7 +20,7 @@ Articular pathology in orthopaedics and rheumatology is broadly categorized base
 
 ## 1. Osteoarthritis (Degenerative Joint Disease)
 
-![[images/OA_vs_RA.png]]
+
 
 *Osteoarthritis versus rheumatoid arthritis — schematic.*
 
@@ -109,7 +109,7 @@ Rheumatoid Arthritis (RA) is a chronic, systemic autoimmune inflammatory disease
 
 ## 3. Seronegative Spondyloarthropathies (RF-Negative, HLA-B27 Associated)
 
-![[images/Sacroiliac_Sketch.png]]
+
 
 *Ankylosing spondylitis: sacroiliac joint — schematic.*
 

@@ -45,7 +45,7 @@ The glenohumeral joint is a multiaxial ball-and-socket joint designed for maxima
 
 ### Anterior Glenohumeral Dislocation (95% of Shoulder Dislocations)
 
-![[images/Shoulder_Lesions.png]]
+
 
 *Bankart versus Hill–Sachs lesions — schematic.*
 
@@ -100,7 +100,7 @@ Account for 2–4% of shoulder dislocations. Frequently missed on initial antero
 
 ### Proximal Humerus Fractures & Neer Classification
 
-![[images/Neer_Proximal_Humerus.png]]
+
 
 *Neer proximal humeral fracture grouping — schematic.*
 
@@ -119,7 +119,7 @@ Humeral shaft fractures occur between the surgical neck proximally and the supra
 
 ### Radial Nerve Vulnerability & Fracture Geometry
 
-![[images/Humerus_Radial_Nerve.png]]
+
 
 *Humerus and vulnerable radial-nerve region — schematic.*
 
@@ -223,7 +223,7 @@ A common subluxation injury in young children (ages 1–4 years).
 
 ### Colles' Fracture
 
-![[images/Colles_Smith.png]]
+
 
 *Colles versus Smith displacement — schematic.*
 

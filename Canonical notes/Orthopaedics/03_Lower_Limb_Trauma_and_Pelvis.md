@@ -60,12 +60,14 @@ The blood supply to the femoral head relies primarily on an ascending cervical r
 
 #### Classification Systems
 
-![[images/Garden_Femoral_Neck.png]]
+![Hip fracture locations (not Garden I–IV)](https://commons.wikimedia.org/wiki/Special:FilePath/Hip_fracture_classification.svg)
+
+*Online diagram, not downloaded: [Mikael Häggström, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hip_fracture_classification.svg). This shows hip fracture locations, not the four Garden stages.*
 
 *Garden femoral neck fracture types — schematic.*
 
 
-![[images/Pauwels_Angle.png]]
+
 
 *Pauwels fracture-angle classification — schematic.*
 
@@ -133,7 +135,7 @@ Femoral shaft fractures result from high-velocity blunt trauma.
 
 ## 4. Knee Extensor Disruption & Knee Dislocation
 
-![[images/Knee_Ligaments.png]]
+
 
 *Cruciate ligament spatial relationships — schematic.*
 
