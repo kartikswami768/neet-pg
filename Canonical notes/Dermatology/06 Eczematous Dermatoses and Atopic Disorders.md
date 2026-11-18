@@ -52,7 +52,16 @@ flowchart TD
     A --> C[Association with allergic rhinitis]
     A --> D[Skin-barrier dysfunction; filaggrin variants in a subset of patients]
 ```
+### Clinical Presentation
 
+| Stage        | Characteristic Lesions                                                                                |
+| ------------ | ----------------------------------------------------------------------------------------------------- |
+| **Acute**    | Erythematous papules, vesicles, oozing, crusting                                                      |
+| **Subacute** | Erythematous, scaly papules and plaques with excoriations                                             |
+| **Chronic**  | Lichenification (thickening with prominent skin markings), fissures, excoriations, pigmentary changes |
+
+![[Pasted image 20261116155926.png|Acute Eczema]] ![[Pasted image 20261116160002.png|Subacute Eczema]] 
+![[Pasted image 20261116160039.png|Chronic Eczema showing lichenification]]
 ### Age-Specific Clinical Distribution
 
 > [!IMPORTANT]
@@ -62,10 +71,10 @@ flowchart TD
   * Erythematous, weeping, crusted papules and vesicles on the **cheeks, forehead, and scalp**, characteristically **sparing the diaper area** (due to moisture retention).
   * Extensor surfaces of extremities are involved as the infant begins to crawl.
 * **Childhood Phase (2 Years to Puberty)**:
-  * Lesions become more papular and lichenified.
+  * Lesions become more ==papular and lichenified.==
   * Classic predilection for **flexural folds**: antecubital fossae, popliteal fossae, flexor wrists, neck, and eyelids.
 * **Adult Phase (Puberty Onward)**:
-  * Prominent flexural lichenification, hand and foot dermatitis, and facial erythrosis.
+  * Prominent <strong>flexural lichenification</strong>, hand and foot dermatitis, and facial erythrosis.
 
 ### Associated Clinical Stigmata
 * **Dennie-Morgan Fold**: Double fold/crease under the lower eyelid.
