@@ -9,8 +9,11 @@ chapter: 1
 
 ## 1. Bone Microanatomy, Matrix Composition & Cellular Dynamics
 
-- Bone is a dynamic, highly vascularized specialized connective tissue composed of an organic extracellular matrix (osteoid) mineralized by inorganic hydroxyapatite crystals.
-- Bone serves dual biomechanical and metabolic functions: providing structural rigidity and lever arms for movement, protecting vital thoracic and intracranial structures, maintaining systemic calcium and phosphate homeostasis, and harboring hematopoietic stem cells within the medullary cavity.
+- Bone iscomposed of an organic extracellular matrix (osteoid) mineralized by inorganic hydroxyapatite crystals.
+- Bone serves dual biomechanical and metabolic functions: 
+	1. providing structural rigidity and lever arms for movement, protecting vital thoracic and intracranial structures, 
+	2. maintaining systemic calcium and phosphate homeostasis, 
+	3. and harboring hematopoietic stem cells within the medullary cavity.
 
 ### Matrix Composition & Molecular Architecture
 The dry weight of adult bone matrix is divided into an inorganic mineral phase (65%) and an organic osteoid matrix (35%), alongside cellular elements and bound water.
