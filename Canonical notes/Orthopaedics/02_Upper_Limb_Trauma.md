@@ -67,6 +67,11 @@ Anterior dislocation is the most common joint dislocation in the body, resulting
   3. **Callaway's Test**: Increased vertical girth of the axillary fold measured around the acromion compared to the normal side.
 
 #### Pathological Lesions & Nerve Complications
+
+
+![Post-reduction shoulder radiograph showing a Hill–Sachs lesion. ](https://commons.wikimedia.org/wiki/Special:FilePath/Hills-sachs-lesion-ap.jpg)
+
+*Visual reference: Post-reduction shoulder radiograph showing a Hill–Sachs lesion. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Hills-sachs-lesion-ap.jpg). Online image; internet required.*
 * **Bankart Lesion**: Avulsion of the anteroinferior glenoid labrum from the glenoid margin, disrupting the inferior glenohumeral ligament complex (IGHLC). The primary predisposing cause of **recurrent anterior shoulder dislocation**.
   * *Bony Bankart*: Concomitant avulsion fracture of the anteroinferior glenoid bone margin.
 * **Hill-Sachs Lesion**: Compression fracture / indentation defect on the **posterolateral aspect of the humeral head**, caused by repeated impact against the sharp anteroinferior glenoid rim during dislocation.
@@ -155,6 +160,11 @@ The **Radial Nerve ($C_5-T_1$)** is intimately associated with the humerus as it
 - The bony landmarks form an **equilateral triangle** in $90^\circ$ flexion (medial epicondyle, lateral epicondyle, olecranon tip) that converts to a **straight horizontal line** in full extension.
 
 ### Supracondylar Fracture of the Humerus
+
+
+![Marked radiograph illustrating a supracondylar humeral fracture. ](https://commons.wikimedia.org/wiki/Special:FilePath/SupracondylarfracMark.png)
+
+*Visual reference: Marked radiograph illustrating a supracondylar humeral fracture. [Original image and attribution](https://commons.wikimedia.org/wiki/File:SupracondylarfracMark.png). Online image; internet required.*
 The most common elbow fracture in children (peak age 5–8 years). Extra-articular fracture through the thin bone of the olecranon fossa (Salter-Harris Type I/II equivalent).
 
 | Feature | Extension type (~95%) | Flexion type (~5%) |
@@ -224,6 +234,11 @@ A common subluxation injury in young children (ages 1–4 years).
 ### Colles' Fracture
 
 
+![Distal radius radiograph demonstrating a Colles fracture. ](https://commons.wikimedia.org/wiki/Special:FilePath/Colles%20fracture.JPG)
+
+*Visual reference: Distal radius radiograph demonstrating a Colles fracture. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Colles_fracture.JPG). Online image; internet required.*
+
+
 
 *Colles versus Smith displacement — schematic.*
 
@@ -276,6 +291,11 @@ The carpus consists of 8 carpal bones arranged in proximal and distal rows (*"So
 | Mallet finger | Terminal extensor avulsion at DIP |
 
 ### Scaphoid Fracture
+
+
+![Published classification illustration of scaphoid fracture location. ](https://commons.wikimedia.org/wiki/Special:FilePath/Scaphoid%20fracture%20classification.jpg)
+
+*Visual reference: Published classification illustration of scaphoid fracture location. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Scaphoid_fracture_classification.jpg). Online image; internet required.*
 The scaphoid is the **most commonly fractured carpal bone** (70–80% of all carpal fractures), resulting from a FOOSH in young adults.
 
 * **Clinical Diagnosis**: Point tenderness in the **Anatomical Snuffbox** (bounded medially by Extensor Pollicis Longus, laterally by Abductor Pollicis Longus and Extensor Pollicis Brevis), pain on axial loading of the thumb, and scaphoid tubercle tenderness.

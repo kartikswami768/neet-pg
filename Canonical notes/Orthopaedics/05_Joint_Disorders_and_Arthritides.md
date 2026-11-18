@@ -45,6 +45,11 @@ Osteoarthritis (OA) is the most prevalent joint disorder globally. It is fundame
   * *Joint Sparing*: OA characteristically **spares the Metacarpophalangeal (MCP)** joints and wrist joints.
 
 ### 1.3 Radiological Features (Mnemonic: LOSS)
+
+
+![Knee osteoarthritis radiograph: assess compartmental narrowing, osteophytes and sclerosis. ](https://commons.wikimedia.org/wiki/Special:FilePath/Osteoarthritis%20left%20knee.jpg)
+
+*Visual reference: Knee osteoarthritis radiograph: assess compartmental narrowing, osteophytes and sclerosis. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Osteoarthritis_left_knee.jpg). Online image; internet required.*
 Plain radiography (weight-bearing AP and lateral views) remains the diagnostic gold standard:
 1. **L — Loss of Joint Space**: Asymmetric, focal joint space narrowing corresponding to regional cartilage destruction.
 2. **O — Osteophytes**: Marginal bony spurs developing along joint boundaries.
@@ -81,6 +86,11 @@ Rheumatoid Arthritis (RA) is a chronic, systemic autoimmune inflammatory disease
 * **Synovial Fluid Analysis**: Inflammatory profile (WBC count $2,000\text{--}50,000/\mu\text{L}$ with PMN predominance; clear/cloudy yellow, reduced viscosity, no crystals). Differentiates inflammatory arthritis from non-inflammatory OA ($<2,000/\mu\text{L}$) and purulent Septic Arthritis ($>50,000/\mu\text{L}$).
 
 ### 2.3 Articular Manifestations & Hand Deformities
+
+
+![Clinical hand changes associated with rheumatoid arthritis. ](https://commons.wikimedia.org/wiki/Special:FilePath/Severely%20deformed%20hands%20from%20Rheumatoid%20Arthritis.jpg)
+
+*Visual reference: Clinical hand changes associated with rheumatoid arthritis. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Rheumatoid_Arthritis_Hands.jpg). Online image; internet required.*
 * **Pattern of Involvement**: Chronic, **symmetric polyarthritis** predominantly involving small peripheral joints of the hands and feet.
 * **Joint Predilection**: Metacarpophalangeal (MCP) joints, Proximal Interphalangeal (PIP) joints, wrists, Metatarsophalangeal (MTP) joints, knees, ankles, and cervical spine. Characteristically **spares the Distal Interphalangeal (DIP)** joints and lumbar spine.
 * **Symptom Timing**: Prominent **morning stiffness lasting $>1\text{ hour}$** that noticeably **improves with physical activity**.
@@ -122,6 +132,11 @@ The seronegative spondyloarthropathies represent an interconnected group of infl
 4. Asymmetric oligoarthritis, prominent axial skeleton involvement (sacroiliitis, spondylitis), dactylitis ("sausage digit"), and anterior uveitis.
 
 ### 3.2 Ankylosing Spondylitis (Marie-Strümpell / Bechterew Disease)
+
+
+![Classical syndesmophyte bridging and bamboo-spine appearance. ](https://commons.wikimedia.org/wiki/Special:FilePath/Bamboo%20spine%20ankylosing%20spondylitis.jpg)
+
+*Visual reference: Classical syndesmophyte bridging and bamboo-spine appearance. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Bamboo_spine_ankylosing_spondylitis.jpg). Online image; internet required.*
 * **Demographics & Genetics**: Predominantly affects young males (15–30 years; $M:F = 3:1$). Over $90\%$ of patients are **HLA-B27 positive**.
 * **Clinical Course**: Insidious onset of chronic inflammatory low back pain and stiffness lasting $>3\text{ months}$. Pain is worst in the morning or after rest, and **improves significantly with exercise**.
 * **Anatomical Progression**:
@@ -180,6 +195,11 @@ The seronegative spondyloarthropathies represent an interconnected group of infl
 ## 4. Crystal-Induced Arthropathies
 
 ### 4.1 Gout (Monosodium Urate Crystal Deposition)
+
+
+![Clinical example of tophaceous gout. ](https://commons.wikimedia.org/wiki/Special:FilePath/Tophaceous%20gout.jpg)
+
+*Visual reference: Clinical example of tophaceous gout. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Tophaceous_gout.jpg). Online image; internet required.*
 * **Pathophysiology**: Disease of purine metabolism resulting in persistent hyperuricemia (serum uric acid $>6.8\text{ mg/dL}$, exceeding saturation threshold). Monosodium Urate (MSU) crystals precipitate in cold, peripheral articular tissues.
   * *Underexcretion of Uric Acid* (90% of cases): Idiopathic renal tubular defect, impaired renal function, thiazide/loop diuretics, low-dose aspirin, pyrazinamide.
   * *Overproduction of Uric Acid* (10% of cases): Cytotoxic tumor lysis syndrome, myeloproliferative disorders, HGPRT deficiency (Lesch-Nyhan syndrome), high purine diet, alcohol abuse.
@@ -199,6 +219,11 @@ The seronegative spondyloarthropathies represent an interconnected group of infl
     * *Uricosuric Agents*: **Probenecid** (promotes renal uric acid excretion; contraindicated in nephrolithiasis).
 
 ### 4.2 Pseudogout (Calcium Pyrophosphate Dihydrate — CPPD)
+
+
+![Annotated knee radiograph demonstrating chondrocalcinosis. ](https://commons.wikimedia.org/wiki/Special:FilePath/Chondrocalcinosis%20-%20annotated.jpg)
+
+*Visual reference: Annotated knee radiograph demonstrating chondrocalcinosis. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Chondrocalcinosis_-_annotated.jpg). Online image; internet required.*
 * **Pathophysiology**: Deposition of Calcium Pyrophosphate Dihydrate (CPPD) crystals within articular cartilage and fibrocartilage (chondrocalcinosis). Predominantly affects elderly individuals ($>60\text{ years}$).
 * **Associated Metabolic Conditions**: Aging, Primary Hyperparathyroidism, Hemochromatosis, Hypomagnesemia, Hypophosphatasia, Gitelman syndrome.
 * **Clinical Presentation**: Acute inflammatory monoarthritis or oligoarthritis simulating acute gout. **Knee joint is the most common site** ($>50\%$), followed by wrists, MCP joints, and symphysis pubis.
@@ -233,6 +258,11 @@ The underlying neurological disease dictates the specific joint distribution:
 * *Note*: **Tuberculosis is NOT a cause** of neuropathic Charcot joint disease.
 
 ### 5.3 Clinical Features & Radiology
+
+
+![Radiograph of destructive neuropathic arthropathy (Charcot joint). ](https://commons.wikimedia.org/wiki/Special:FilePath/Charcot%20arthropathy%20X-ray.jpg)
+
+*Visual reference: Radiograph of destructive neuropathic arthropathy (Charcot joint). [Original image and attribution](https://commons.wikimedia.org/wiki/File:Charcot_arthropathy_X-ray.jpg). Online image; internet required.*
 * **Clinical Presentation**: Paradoxically **painless, massively swollen, unstable, hypermobile joint**. Characterized by gross deformity, severe joint disorganization, thermal warmth, and coarse crepitus during movement ("Bag of bones" sensation).
 * **Radiological Features**: Dramatic joint space collapse, massive osteophytosis, extensive subchondral bone destruction, bone fragmentation, subluxation/dislocation, and periarticular soft tissue debris.
 * **Management**: Immobilization and total contact casting (TCC) during acute inflammatory phases to prevent collapse; specialized accommodative orthoses / custom footwear; surgical arthrodesis (fusion) reserved for severe deformity or mechanical instability.

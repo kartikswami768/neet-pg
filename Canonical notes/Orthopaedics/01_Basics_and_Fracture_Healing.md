@@ -111,6 +111,11 @@ A fracture is defined as a complete or incomplete disruption in the anatomical c
 
 ### Biomechanical Mechanisms & Fracture Geometry
 
+
+![Spiral tibial shaft fracture on radiograph (case example, not a complete fracture classification). ](https://commons.wikimedia.org/wiki/Special:FilePath/Xray%20Pre-Op%20AP%20View.jpg)
+
+*Visual reference: Spiral tibial shaft fracture on radiograph (case example, not a complete fracture classification). [Original image and attribution](https://commons.wikimedia.org/wiki/File:Xray_Pre-Op_AP_View.jpg). Online image; internet required.*
+
 | Fracture Pattern | Biomechanical Force & Failure Mode | Clinical Mechanism & Characteristics |
 | :--- | :--- | :--- |
 | **Transverse** | Pure bending stress | Force applied perpendicular to bone axis; fracture line angle $<30^\circ$ relative to horizontal. |
@@ -262,6 +267,11 @@ flowchart TD
 ```
 
 ### Ilizarov External Fixation System & Distraction Osteogenesis
+
+
+![Radiograph of a tibia/fibula fracture in an Ilizarov frame, showing healing callus. ](https://commons.wikimedia.org/wiki/Special:FilePath/Ilizarov9.jpg)
+
+*Visual reference: Radiograph of a tibia/fibula fracture in an Ilizarov frame, showing healing callus. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Ilizarov9.jpg). Online image; internet required.*
 * **Ilizarov Ring Fixator**: Multiplanar external fixator utilizing tensioned transfixion Kirschner wires ($1.5-1.8\text{ mm}$) anchored to circular rings. Provides multiplanar stability while permitting axial micromotion to stimulate bone healing.
 * **Distraction Osteogenesis (Callotaxis)**: Process of generating new bone by applying controlled mechanical tension across a low-energy corticotomy site.
   * *Latency Phase*: 7 to 10 days post-corticotomy for initial hematoma organization.

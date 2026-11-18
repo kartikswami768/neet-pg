@@ -17,6 +17,11 @@ chapter: 11
 The knee joint relies heavily on static ligamentous constraints and dynamic muscular stabilizers for functional stability. Ligamentous injuries are common in contact sports, high-energy trauma, and pivot-deceleration mechanisms.
 
 ### Anterior Cruciate Ligament (ACL) Pathology
+
+
+![Clinical MR example of ACL injury.](https://commons.wikimedia.org/wiki/Special:FilePath/MRT%20VKB-Riss%20T1.jpg)
+
+*Visual reference: Clinical MR example of ACL injury. [Original image and attribution](https://commons.wikimedia.org/wiki/File:MRT_VKB-Riss_T1.jpg). Online image; internet required.*
 * **Anatomy & Function**: Arises from the anterior intercondylar fossa of the tibia and inserts onto the posterior aspect of the medial surface of the lateral femoral condyle. Composed of two distinct functional bundles: the **Anteromedial (AM) bundle** (tight in flexion; primary restraint to anterior tibial translation) and the **Posterolateral (PL) bundle** (tight in extension; primary restraint to rotational instability).
 * **Mechanism of Injury**: Non-contact sudden deceleration, pivoting, twisting, or valgus stress applied to a flexed knee.
 * **Clinical Presentation**: Patients report an audible "pop" at the time of injury, followed by immediate severe pain and rapid joint swelling (**hemarthrosis within 1–2 hours**).
@@ -27,6 +32,11 @@ The knee joint relies heavily on static ligamentous constraints and dynamic musc
 * **Associated Pathognomonic Sign**: **Segond Fracture** — an avulsion fracture of the lateral capsular margin / anterolateral ligament insertion on the proximal lateral tibia, highly specific for an ACL tear.
 
 ### Posterior Cruciate Ligament (PCL) Pathology
+
+
+![Sagittal MRI displaying normal ACL and PCL as an orientation reference, not a PCL tear.](https://commons.wikimedia.org/wiki/Special:FilePath/MRT%20ACL%20PCL%2001.jpg)
+
+*Visual reference: Sagittal MRI displaying normal ACL and PCL as an orientation reference, not a PCL tear. [Original image and attribution](https://commons.wikimedia.org/wiki/File:MRT_ACL_PCL_01.jpg). Online image; internet required.*
 * **Anatomy & Function**: Arises from the posterior intercondylar fossa of the tibia and inserts into the anterolateral aspect of the medial femoral condyle. Composed of the **Anterolateral (AL) bundle** (tight in flexion) and **Posteromedial (PM) bundle** (tight in extension). Acts as the primary restraint to posterior translation of the tibia relative to the femur.
 * **Mechanism of Injury**: Direct anterior blow to the flexed proximal tibia ("dashboard injury" in motor vehicle accidents or falling onto a flexed knee with foot plantarflexed).
 * **Clinical Examination**:
@@ -51,6 +61,11 @@ The knee joint relies heavily on static ligamentous constraints and dynamic musc
 
 
 ### Meniscal Pathophysiology & Vascular Zones
+
+
+![Example magnetic resonance imaging of a meniscal tear.](https://commons.wikimedia.org/wiki/Special:FilePath/Meniscal%20Tear%20MRI.jpg)
+
+*Visual reference: Example magnetic resonance imaging of a meniscal tear. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Meniscal_Tear_MRI.jpg). Online image; internet required.*
 The medial and lateral menisci are fibrocartilaginous structures that function in shock absorption, load transmission (distributing $50\text{--}70\%$ of load), joint congruity, and joint lubrication.
 * **Vascular Architecture**:
   * **Red-Red Zone** (Outer 10–25%): Fully vascularized; excellent potential for surgical meniscal repair.
@@ -100,6 +115,11 @@ The rotator cuff complex dynamically stabilizes the glenohumeral joint, clamping
 4. **Subscapularis** (Upper and lower subscapular nerves): Internal rotation of the shoulder. Tested via **Gerber's Lift-Off Test** and **Belly-Press Test**.
 
 ### Subacromial Impingement & Rotator Cuff Tears
+
+
+![Published anatomical illustration of rotator cuff injury.](https://commons.wikimedia.org/wiki/Special:FilePath/Rotator%20cuff%20injury.svg)
+
+*Visual reference: Published anatomical illustration of rotator cuff injury. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Rotator_cuff_injury.svg). Online image; internet required.*
 * **Pathophysiology**: Compression of the supraspinatus tendon and subacromial bursa between the humeral head and the coracoacromial arch during overhead abduction.
 * **Impingement Signs**:
   * **Neer's Impingement Sign**: Passive forward flexion of the arm in internal rotation elicits pain as the greater tuberosity impings against the anterior acromion.

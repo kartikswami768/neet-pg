@@ -52,6 +52,11 @@ flowchart TD
 ```
 
 ### Rickets
+
+
+![Wrist radiograph showing metaphyseal cupping in rickets.](https://commons.wikimedia.org/wiki/Special:FilePath/RicketsXray.jpg)
+
+*Visual reference: Wrist radiograph showing metaphyseal cupping in rickets. [Original image and attribution](https://commons.wikimedia.org/wiki/File:RicketsXray.jpg). Online image; internet required.*
 * **Etiology**: Nutritional Vitamin D deficiency (most common), dietary calcium restriction, malabsorption, renal 1-$\alpha$-hydroxylase deficiency (Vitamin D-dependent rickets Type I), end-organ calcitriol receptor resistance (Vitamin D-dependent rickets Type II), or X-linked hypophosphatemic rickets (mutation in *PHEX* gene causing elevated FGF-23 and renal phosphate wasting).
 * **Histopathology**: Expansion and disorganization of the hypertrophic zone (Zone IV) of the growth plate with failure of apoptosis and delayed mineralization of cartilage matrix.
 * **Clinical Manifestations**:
@@ -83,6 +88,11 @@ Failure of collagen hydroxylation leads to unstable collagen triple-helices, def
 * **Musculoskeletal Signs**: Subperiosteal hematomas causing excruciating bone pain, joint hemarthroses, pseudoparalysis (child holds legs motionless in a "frog-leg posture" due to severe bone tenderness), and scorbutic costochondral junction enlargement (sharp, step-off "scorbutic rosary" as opposed to the smooth nodular rachitic rosary).
 
 ### Pathognomonic Radiological Findings
+
+
+![Radiographic scurvy example with a labelled dense metaphyseal scurvy line.](https://commons.wikimedia.org/wiki/Special:FilePath/ASM-30-325-g003.jpg)
+
+*Visual reference: Radiographic scurvy example with a labelled dense metaphyseal scurvy line. [Original image and attribution](https://commons.wikimedia.org/wiki/File:ASM-30-325-g003.jpg). Online image; internet required.*
 
 | Radiological Sign | Anatomical Site & Pathological Basis |
 | :--- | :--- |
@@ -160,6 +170,11 @@ Paget's disease is a focal, progressive disorder of bone remodeling characterize
 * **Clinical Features**: Recurrent pathological fractures from trivial trauma, **blue sclera** (thin sclera exposing underlying choroid plexus), **dentinogenesis imperfecta** (translucent, discolored yellow-brown teeth), conductive hearing loss (otosclerosis of ossicles), and hypermobile joints.
 
 ### Osteopetrosis (Marble Bone Disease / Albers-Schönberg Disease)
+
+
+![Pelvic radiograph showing increased skeletal density in osteopetrosis.](https://commons.wikimedia.org/wiki/Special:FilePath/Osteopetrosis%20pelvis%20X-ray.png)
+
+*Visual reference: Pelvic radiograph showing increased skeletal density in osteopetrosis. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Osteopetrosis_pelvis_X-ray.png). Online image; internet required.*
 * **Pathophysiology**: Autosomal recessive or dominant defect in osteoclast function, most commonly due to mutations in the **Carbonic Anhydrase II** gene or TCIRG1 proton pump. Osteoclasts are unable to acidify Howship's lacunae to dissolve bone mineral matrix, causing complete failure of bone resorption.
 * **Clinical Manifestations**: Heavy, dense, but chalk-like extremely brittle bones prone to frequent pathological fractures. Loss of medullary cavity causes severe bone marrow failure leading to **pancytopenia** and compensatory extramedullary hematopoiesis (hepatosplenomegaly). Encroachment on cranial nerve foramina causes blindness and facial palsy.
 * **Pathognomonic Radiological Findings**:

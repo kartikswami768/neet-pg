@@ -158,6 +158,11 @@ Knee dislocation refers to complete disruption of the tibiofemoral articulation 
 ## 5. Tibia, Ankle & Foot Trauma Mechanics
 
 ### 5.1 Tibial Shaft Fractures & Compartment Syndrome
+
+
+![Example radiograph of a tibial shaft fracture (not a compartment-syndrome test). ](https://commons.wikimedia.org/wiki/Special:FilePath/Tibia%20(Shinbone)%20Shaft%20Fracture.JPG)
+
+*Visual reference: Example radiograph of a tibial shaft fracture (not a compartment-syndrome test). [Original image and attribution](https://commons.wikimedia.org/wiki/File:Tibia_(Shinbone)_Shaft_Fracture.JPG). Online image; internet required.*
 Because one-third of the tibial surface is subcutaneous and enclosed within tight fascial boundaries, tibial shaft fractures are the most common long bone fractures overall and represent the **most common site for Acute Compartment Syndrome**.
 
 #### Acute Compartment Syndrome (ACS)
@@ -191,6 +196,11 @@ The Lauge-Hansen system categorizes ankle fractures based on the **position of t
 ### 5.3 Foot Fractures & Eponymous Injuries
 
 #### Calcaneus Fractures
+
+
+![Lateral calcaneal radiograph illustrating Böhler's angle. ](https://commons.wikimedia.org/wiki/Special:FilePath/Bohler's%20angle%20(raster).jpg)
+
+*Visual reference: Lateral calcaneal radiograph illustrating Böhler's angle. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Bohler's_angle_(raster).jpg). Online image; internet required.*
 Calcaneal fractures are the most common tarsal fractures, resulting from axial loading (falls from height onto heels; "Lover's Fracture"). Associated with burst fractures of the thoracolumbar junction ($T_{12}\text{--}L_2$) in $10\%$ of cases.
 * **Böhler's Angle**: Formed by the intersection of a line drawn from the highest point of the posterior tuberosity to the posterior articular facet, and a line from the posterior facet to the anterior process. Normal = **$20^\circ\text{--}40^\circ$**. Reduced or flattened ($<20^\circ$) in calcaneal depressed fractures.
 * **Critical Angle of Gissane**: Formed by the struts of the lateral calcaneal body. Normal = **$120^\circ\text{--}145^\circ$**; increased in intra-articular fractures.
@@ -201,6 +211,11 @@ Talus neck fractures ("Aviator's Fracture") occur from severe dorsiflexion of th
 * **Hawkins' Sign**: Subchondral osteopenia observed on AP ankle radiograph 6–8 weeks post-injury. Indicates preserved blood supply and active bone remodeling (a negative Hawkins sign indicates AVN).
 
 #### Metatarsal & Midfoot Disruptions
+
+
+![Annotated radiograph demonstrating a Lisfranc injury. ](https://commons.wikimedia.org/wiki/Special:FilePath/LisFrancArrow.png)
+
+*Visual reference: Annotated radiograph demonstrating a Lisfranc injury. [Original image and attribution](https://commons.wikimedia.org/wiki/File:LisFrancArrow.png). Online image; internet required.*
 * **Jones Fracture**: Transverse fracture at the metaphyseal-diaphyseal junction of the 5th metatarsal base ($1.5\text{--}3\text{ cm}$ distal to tuberosity). Located in a vascular watershed zone; high incidence of non-union requiring operative screw fixation. Differentiated from **Pseudo-Jones Fracture** (avulsion fracture of 5th metatarsal tuberosity by Peroneus Brevis tendon).
 * **Lisfranc Fracture-Dislocation**: Disruption of the tarsometatarsal joint complex. The **Lisfranc Ligament** anchors the medial cuneiform to the base of the 2nd metatarsal (there is no intermetatarsal ligament between the 1st and 2nd metatarsals). Loss of alignment leads to collapse of the longitudinal arch.
 * **Chopart Fracture-Dislocation**: Disruption through the transverse tarsal / midtarsal joint complex (talonavicular and calcaneocuboid joints).

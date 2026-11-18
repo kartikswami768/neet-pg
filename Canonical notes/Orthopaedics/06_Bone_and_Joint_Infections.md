@@ -31,6 +31,11 @@ Infections of the musculoskeletal system represent critical orthopedic emergenci
 ### 1.2 Anatomical Predilection & Pathophysiology
 
 
+![Paediatric tibial osteomyelitis on radiography.](https://commons.wikimedia.org/wiki/Special:FilePath/Osteomyelitis%20of%20Tibia%20in%20Child.jpg)
+
+*Visual reference: Paediatric tibial osteomyelitis on radiography. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Osteomyelitis_of_Tibia_in_Child.jpg). Online image; internet required.*
+
+
 
 *Sequestrum, involucrum and sinus — schematic.*
 
@@ -77,6 +82,11 @@ flowchart TD
 ## 2. Chronic Osteomyelitis, Brodie's Abscess & Clinical Variants
 
 ### 2.1 Chronic Pyogenic Osteomyelitis
+
+
+![Historical radiograph of tibial osteomyelitis with periosteal new bone and sequestrum; image quality is historical.](https://commons.wikimedia.org/wiki/Special:FilePath/Living%20anatomy%20and%20pathology%3B%20(1910)%20(14758376215).jpg)
+
+*Visual reference: Historical radiograph of tibial osteomyelitis with periosteal new bone and sequestrum; image quality is historical. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Living_anatomy_and_pathology%3B_(1910)_(14758376215).jpg). Online image; internet required.*
 * **Pathology**: Sequelae of inadequately treated or undiagnosed acute osteomyelitis. Characterized by persistent avascular dead bone (**Sequestrum**), encasing new bone (**Involucrum**), persistent **Discharging Sinuses**, and a avascular fibrotic scar tissue bed shielding bacteria from systemic antibiotics.
 * **Eponymous Sequestrum Taxonomy**:
 
@@ -97,6 +107,11 @@ flowchart TD
 * **Major Complications**: Pathological fractures through involucral defects, secondary systemic AA amyloidosis, growth arrest/deformity, and **Marjolin's Ulcer** (development of aggressive **Squamous Cell Carcinoma** in a long-standing, chronic discharging sinus tract, occurring after 20–30 years).
 
 ### 2.2 Subacute Osteomyelitis (Brodie's Abscess)
+
+
+![Subacute tibial osteomyelitis (Brodie abscess): localized lytic lesion on radiograph.](https://commons.wikimedia.org/wiki/Special:FilePath/BrodieAbscessRadiograph.jpg)
+
+*Visual reference: Subacute tibial osteomyelitis (Brodie abscess): localized lytic lesion on radiograph. [Original image and attribution](https://commons.wikimedia.org/wiki/File:BrodieAbscessRadiograph.jpg). Online image; internet required.*
 * **Pathophysiology**: A localized, indolent subacute form of osteomyelitis occurring when host immune defenses are high and the infecting pathogen (*S. aureus*) exhibits low virulence. The infection is successfully contained within a intraosseous cavity.
 * **Predilection Site**: Metaphysis of the **Proximal Tibia** (most common overall), followed by the distal femur.
 * **Clinical Presentation**: Child or young adult presenting with chronic or intermittent **nocturnal leg pain** and localized tenderness, often mimicking an Osteoid Osteoma. Systemic symptoms (fever, leukocytosis) are characteristically absent.

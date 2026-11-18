@@ -18,6 +18,11 @@ chapter: 10
 - Ligament disruption alters joint kinematics, predisposing to accelerated articular cartilage wear and secondary osteoarthritis.
 
 ### 1.1 Anterior Cruciate Ligament (ACL) Injury
+
+
+![Published illustration of ACL tear and knee anatomy.](https://commons.wikimedia.org/wiki/Special:FilePath/ACL%20Tear.png)
+
+*Visual reference: Published illustration of ACL tear and knee anatomy. [Original image and attribution](https://commons.wikimedia.org/wiki/File:ACL_Tear.png). Online image; internet required.*
 * **Biomechanics & Function**: The ACL originates from the posteromedial aspect of the lateral femoral condyle and inserts into the anterior intercondylar area of the tibia. It functions as the primary restraint against anterior tibial translation (providing $85\%$ of resistance) and a secondary restraint against internal rotational torque.
 * **Mechanism of Injury**: Typically non-contact deceleration, pivoting, or landing from a jump with the knee in slight flexion, valgus, and external rotation.
 * **Clinical Presentation**: Patients report an immediate audible "pop" or tearing sensation, accompanied by severe pain and rapid, tense intra-articular **hemarthrosis within 1–2 hours** (the most common cause of acute traumatic hemarthrosis).
@@ -61,6 +66,11 @@ chapter: 10
 The medial and lateral menisci are crescentic fibrocartilaginous structures that function in load transmission ($50\text{--}70\%$ of compressive load), shock absorption, joint lubrication, and secondary knee stabilization.
 
 ### 2.1 Meniscal Biomechanics & Vascular Zones
+
+
+![Published illustration of different meniscal tear patterns (not vascular-zone grading).](https://commons.wikimedia.org/wiki/Special:FilePath/Meniscus%20tear%20types.svg)
+
+*Visual reference: Published illustration of different meniscal tear patterns (not vascular-zone grading). [Original image and attribution](https://commons.wikimedia.org/wiki/File:Meniscus_tear_types.svg). Online image; internet required.*
 * **Anatomical Differences**: The **Medial Meniscus** is C-shaped, larger, and firmly attached to the deep medial collateral ligament, making it less mobile and **more susceptible to tear** ($3:1$ ratio compared to lateral). The **Lateral Meniscus** is more circular (O-shaped), smaller, and highly mobile.
 * **Vascularity (Nutritional Zones)**:
   * *Red-Red Zone* (Peripheral 10–25%): Well-vascularized via genicular capillary plexuses; high capacity for primary surgical repair.
@@ -134,6 +144,11 @@ The shoulder girdle sacrifices structural stability for multi-axial mobility. Dy
 
 ### 4.1 Rotator Cuff Anatomy & Specific Diagnostics
 
+
+![Published anatomical view of the rotator cuff musculature.](https://commons.wikimedia.org/wiki/Special:FilePath/Rotator%20cuff%20muscles.svg)
+
+*Visual reference: Published anatomical view of the rotator cuff musculature. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Rotator_cuff_muscles.svg). Online image; internet required.*
+
 The rotator cuff consists of four musculotendinous units surrounding the glenohumeral joint:
 
 1. **Supraspinatus**:
@@ -148,6 +163,11 @@ The rotator cuff consists of four musculotendinous units surrounding the glenohu
    * *Special Tests*: **Gerber's Lift-Off Test** (inability to push hand away from lower back); **Belly-Press Test** (used if shoulder internal rotation is restricted).
 
 ### 4.2 Glenoid Labrum Pathology: SLAP vs. Bankart Lesions
+
+
+![Associated Hill–Sachs lesion after anterior shoulder instability; not an illustration of SLAP versus Bankart tear types.](https://commons.wikimedia.org/wiki/Special:FilePath/Hills-sachs-lesion-internal-rotation.jpg)
+
+*Visual reference: Associated Hill–Sachs lesion after anterior shoulder instability; not an illustration of SLAP versus Bankart tear types. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Hills-sachs-lesion-internal-rotation.jpg). Online image; internet required.*
 * **SLAP Lesion (Superior Labrum Anterior to Posterior)**:
   * *Pathology*: Disruption of the superior glenoid labrum starting posteriorly and extending anteriorly, involving the anchor site of the **Long Head of Biceps Tendon**.
   * *Mechanism*: Overhead throwing athletes (late cocking phase) or traction injury.

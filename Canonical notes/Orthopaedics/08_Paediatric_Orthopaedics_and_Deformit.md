@@ -63,6 +63,11 @@ flowchart TD
 ```
 
 ### The 4 Primary Deformities (Mnemonic: *CAVE*)
+
+
+![Clinical clubfoot before correction: the equinovarus position is visible.](https://commons.wikimedia.org/wiki/Special:FilePath/CTEV%20pre%20management.jpg)
+
+*Visual reference: Clinical clubfoot before correction: the equinovarus position is visible. [Original image and attribution](https://commons.wikimedia.org/wiki/File:CTEV_pre_management.jpg). Online image; internet required.*
 1. **C**avus: Exaggerated height of the medial longitudinal arch, driven by tight intrinsic foot muscles and **Flexor Hallucis Longus (FHL)** / Flexor Digitorum Longus (FDL).
 2. **A**dduction: Medial deviation of the forefoot and midfoot at the tarsometatarsal (Lisfranc) and talonavicular joints, driven by tight **Tibialis Posterior**.
 3. **V**arus: Inversion and adduction of the hindfoot/calcaneus at the subtalar joint.
@@ -75,6 +80,11 @@ flowchart TD
   * *CTEV*: **$<20^\circ$** (the talus and calcaneus lie parallel to each other due to calcaneal adduction and inversion).
 
 ### Management: The Ponseti Method
+
+
+![Published CTEV deformity-correction sequence (review details alongside the text).](https://commons.wikimedia.org/wiki/Special:FilePath/Order%20of%20correction%20of%20deformity%20in%20CTEV.jpg)
+
+*Visual reference: Published CTEV deformity-correction sequence (review details alongside the text). [Original image and attribution](https://commons.wikimedia.org/wiki/File:Order_of_correction_of_deformity_in_CTEV.jpg). Online image; internet required.*
 The gold standard for CTEV correction is the **Ponseti Serial Above-Knee Casting Technique**, initiated in the first few weeks of life while neonatal tissues retain maximum compliance due to maternal circulating relaxin.
 
 ```mermaid
@@ -123,6 +133,11 @@ flowchart TD
 ### Radiological Assessment
 
 
+![Radiographic reference measurements in hip dysplasia.](https://commons.wikimedia.org/wiki/Special:FilePath/X-ray%20of%20measurements%20in%20hip%20dysplasia.jpg)
+
+*Visual reference: Radiographic reference measurements in hip dysplasia. [Original image and attribution](https://commons.wikimedia.org/wiki/File:X-ray_of_measurements_in_hip_dysplasia.jpg). Online image; internet required.*
+
+
 
 *Developmental dysplasia: Hilgenreiner and Perkins reference lines — schematic.*
 
@@ -146,6 +161,11 @@ flowchart TD
 ## 4. Pediatric Hip Avascular Necrosis & SCFE
 
 ### Legg-Calvé-Perthes Disease (Perthes Disease)
+
+
+![Radiograph of untreated Legg–Calvé–Perthes disease.](https://commons.wikimedia.org/wiki/Special:FilePath/Unbehandelter%20Perthes.jpg)
+
+*Visual reference: Radiograph of untreated Legg–Calvé–Perthes disease. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Unbehandelter_Perthes.jpg). Online image; internet required.*
 Perthes disease is an idiopathic, self-limiting avascular necrosis (osteonecrosis) of the proximal femoral head epiphysis occurring in young children (ages 4–8 years, male-to-female ratio $4:1$).
 
 * **Clinical Presentation**: Insidious onset of an antalgic or **painless limp**, mild aching pain in the hip, thigh, or knee (referred pain along obturator nerve), and restricted internal rotation and abduction of the hip.
@@ -158,6 +178,11 @@ Perthes disease is an idiopathic, self-limiting avascular necrosis (osteonecrosi
 * **Management**: Principle is **containment** (keeping the spherical femoral head centered inside the acetabular socket during remodeling). Managed with Scottish Rite orthosis, petrie casts, or containment osteotomies (Salter iliac osteotomy / femoral varus osteotomy).
 
 ### Slipped Capital Femoral Epiphysis (SCFE)
+
+
+![Frog-leg lateral radiograph of slipped capital femoral epiphysis.](https://commons.wikimedia.org/wiki/Special:FilePath/SCFE%20FROG%20B%26W.jpg)
+
+*Visual reference: Frog-leg lateral radiograph of slipped capital femoral epiphysis. [Original image and attribution](https://commons.wikimedia.org/wiki/File:SCFE_FROG_B%26W.jpg). Online image; internet required.*
 SCFE is a Salter-Harris Type I physeal fracture characterized by the posteromedial displacement of the proximal femoral epiphysis relative to the metaphysis (the femoral neck shifts anteriorly and externally rotates, making the head look like "ice cream slipping off a cone").
 
 * **Demographics**: Obese adolescent males (ages 10–15 years) during the pubertal growth spurt. Associated with hypothyroidism, growth hormone therapy, and hypogonadism.

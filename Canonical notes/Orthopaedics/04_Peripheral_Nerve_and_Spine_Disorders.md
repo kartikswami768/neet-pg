@@ -33,6 +33,11 @@ When an axon is transected, it undergoes a predictable sequence of anterograde b
 ## 2. Brachial Plexus Anatomy & Eponymous Palsies
 
 
+![Anatomical map of brachial-plexus roots, trunks, divisions, cords and branches. ](https://commons.wikimedia.org/wiki/Special:FilePath/Brachial%20plexus%20color.svg)
+
+*Visual reference: Anatomical map of brachial-plexus roots, trunks, divisions, cords and branches. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg). Online image; internet required.*
+
+
 
 *Brachial plexus pathway — schematic.*
 
@@ -186,6 +191,11 @@ Lumbar canal stenosis involves narrowing of the central spinal canal, lateral re
 ### 5.3 Spondylolysis, Spondylolisthesis & Structural Deformities
 
 #### Spondylolysis & Spondylolisthesis
+
+
+![Radiographic example illustrating measurement of vertebral slip. ](https://commons.wikimedia.org/wiki/Special:FilePath/Spondylolisthesis%20measurement%20on%20X-ray.svg)
+
+*Visual reference: Radiographic example illustrating measurement of vertebral slip. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Spondylolisthesis_measurement_on_X-ray.svg). Online image; internet required.*
 * **Spondylolysis**: Defect or stress fracture in the **pars interarticularis** of the neural arch, most commonly affecting $L_5$ ($90\%$). Demonstrated on $45^\circ$ oblique lumbar radiographs as the **"Scotty Dog Sign"** with a collar or break across the dog's neck.
 * **Spondylolisthesis**: Anterior displacement (slipping) of a proximal vertebral body relative to the caudal adjacent vertebra. Classified as Isthmic (secondary to pars defect in young athletes) or Degenerative (in older adults at $L_4\text{--}L_5$).
 * **Meyerding Classification** (Based on percentage slip of vertebral body width):
@@ -196,6 +206,11 @@ Lumbar canal stenosis involves narrowing of the central spinal canal, lateral re
   - *Grade V (Spondyloptosis)*: $>100\%$ slip (complete anterior displacement off sacral promontory).
 
 #### Scoliosis
+
+
+![Cobb-angle measurement for scoliosis on a spine diagram. ](https://commons.wikimedia.org/wiki/Special:FilePath/Scoliosis%20cobb.svg)
+
+*Visual reference: Cobb-angle measurement for scoliosis on a spine diagram. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Scoliosis_cobb.svg). Online image; internet required.*
 Scoliosis is defined as a three-dimensional spinal curvature featuring a lateral curvature $>10^\circ$ on a standing AP radiograph.
 
 * **Cobb's Angle**: Measured by drawing perpendicular lines from the top endplate of the most tilted superior end-vertebra and the bottom endplate of the most tilted inferior end-vertebra.

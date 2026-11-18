@@ -72,6 +72,11 @@ Diaphyseal bone tumors frequently involve the marrow cavity or cortical diaphysi
 ## 3. Benign Bone Tumors & Non-Neoplastic Cystic Lesions
 
 ### 3.1 Osteochondroma (Cartilaginous Exostosis)
+
+
+![Radiograph of femoral exostosis in a child.](https://commons.wikimedia.org/wiki/Special:FilePath/EXOSTOSE.jpg)
+
+*Visual reference: Radiograph of femoral exostosis in a child. [Original image and attribution](https://commons.wikimedia.org/wiki/File:EXOSTOSE.jpg). Online image; internet required.*
 * **Pathophysiology**: Most common benign bone tumor overall. Represents an aberrant outgrowth of epiphyseal plate cartilage that ossifies endochondrally, developing into a bony stalk attached to parent bone metaphysis.
 * **Anatomical Orientation**: Points **away from the adjacent joint** (along the pull of muscular tendons).
 * **Radiological Hallmark**: Direct **continuity of parent bone cortex and medullary cavity** into the exostosis.
@@ -86,6 +91,11 @@ Diaphyseal bone tumors frequently involve the marrow cavity or cortical diaphysi
 * **Osteoblastoma**: Histologically identical to osteoid osteoma but larger ($>2\text{ cm}$ nidus), commonly located in posterior elements of spine (vertebral arches), causes dull ache **not relieved by aspirin**, and lacks surrounding dense cortical reaction.
 
 ### 3.3 Giant Cell Tumor (GCT / Osteoclastoma)
+
+
+![Illustrative radiograph of a giant-cell tumour of bone.](https://commons.wikimedia.org/wiki/Special:FilePath/Giant%20cell%20tumor%20of%20bone08.JPG)
+
+*Visual reference: Illustrative radiograph of a giant-cell tumour of bone. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Giant_cell_tumor_of_bone08.JPG). Online image; internet required.*
 * **Pathophysiology**: Locally aggressive, benign epiphyseal tumor composed of mononuclear stromal cells (true neoplastic component) secreting **RANKL**, which recruits abundant multinucleated osteoclast-like giant cells.
 * **Radiological Appearance**: Expansile, eccentric, purely lytic lesion in the epiphysis extending to subchondral bone ("soap-bubble appearance") without sclerotic margins.
 * **Histology**: Prominent multinucleated osteoclast-like giant cells containing 50–100 nuclei evenly distributed among mononuclear stromal cells.
@@ -119,6 +129,11 @@ Diaphyseal bone tumors frequently involve the marrow cavity or cortical diaphysi
 * **Management Protocol**: Neoadjuvant multi-agent chemotherapy (Doxorubicin, Cisplatin, High-dose Methotrexate, Ifosfamide) $\rightarrow$ Wide limb-salvage surgical resection $\rightarrow$ Post-operative adjuvant chemotherapy.
 
 ### 4.2 Ewing Sarcoma
+
+
+![Paediatric tibial radiograph illustrating Ewing sarcoma.](https://commons.wikimedia.org/wiki/Special:FilePath/Ewing%20sarcoma%20tibia%20child%20(cropped).jpg)
+
+*Visual reference: Paediatric tibial radiograph illustrating Ewing sarcoma. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Ewing_sarcoma_tibia_child_(cropped).jpg). Online image; internet required.*
 * **Pathophysiology**: Highly malignant neuroectodermal small round blue cell tumor arising from primitive neural crest cells.
 * **Cytogenetics**: Driven by characteristic chromosomal translocation **$t(11;22)(q24;q12)$**, generating the **EWS-FLI1** fusion oncogene.
 * **Demographics & Site**: Children and young adolescents (ages 5–15 years); located in the **diaphysis** of long bones (femur, tibia) and flat pelvic bones.
@@ -133,6 +148,11 @@ Diaphyseal bone tumors frequently involve the marrow cavity or cortical diaphysi
 * **Therapeutic Resistance**: Highly resistant to standard chemotherapy and radiation therapy; primary treatment relies entirely on **wide surgical excision**.
 
 ### 4.4 Multiple Myeloma
+
+
+![Skull radiograph with multiple punched-out osteolytic lesions; finding is not specific to myeloma.](https://commons.wikimedia.org/wiki/Special:FilePath/Osteolytic%20Lesions.jpg)
+
+*Visual reference: Skull radiograph with multiple punched-out osteolytic lesions; finding is not specific to myeloma. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Osteolytic_Lesions.jpg). Online image; internet required.*
 * **Pathophysiology**: Most common primary malignant tumor of bone overall in adults ($>50\text{ years}$). Monoclonal neoplastic proliferation of plasma cells within the bone marrow.
 * **Pathognomonic Manifestations (CRAB Criteria)**:
   * **C**alcium Elevation (Hypercalcemia).
