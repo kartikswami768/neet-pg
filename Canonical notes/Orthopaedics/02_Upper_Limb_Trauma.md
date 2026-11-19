@@ -269,11 +269,14 @@ flowchart TD
   - **Normal:** Intersects the **middle third of the capitellum**.
     - **Young children:** May lie more anteriorly.
   - **Extension supracondylar fracture:** Posterior capitellar displacement → line passes **anterior to the middle third** or misses it.
+    ![[Pasted image 20261119150835.png]]
 - **Baumann's angle (AP):**
   - **How to measure:** Between the **humeral shaft axis** and **lateral condylar/capitellar physeal line**.
   - **Usual value:** Approximately **70–75°** (age and technique dependent).
   - **Purpose:** Assess coronal alignment under **C-arm**, helping prevent **cubitus varus**.
   - **Pitfall:** Using a perpendicular to the shaft instead gives the **complementary angle**.
+![[Pasted image 20261119151017.png]]
+
 - **Anterior fat pad (“sail sign”):**
   - Anterior fat pad becomes **elevated/triangular**.
   - Indicates **joint effusion or hemarthrosis**.
