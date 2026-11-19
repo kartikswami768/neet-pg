@@ -10,7 +10,9 @@ chapter: 2
 ## 1. Clavicle Fractures & Sternoclavicular Joint Disruption
 
 - The clavicle is a doubly curved S-shaped long bone acting as a strut connecting the upper extremity to the axial skeleton.
-- It is the first bone in the human body to begin ossification (5th–6th week in utero via intramembranous ossification) and the last to complete fusion (sternal epiphysis fuses at age 21–25).
+- **Ossification:** First bone to begin ossifying.
+  - Begins in the **5th–6th intrauterine week** by **intramembranous ossification**.
+  - **Last bone to complete fusion:** Medial (sternal) clavicular epiphysis at roughly **21–25 years**.
 
 ### Fracture Biomechanics & Deformity
 - **Mechanism of injury:**
@@ -24,15 +26,25 @@ flowchart TD
 ```
 
 * **Anatomical Distribution**:
-  * *Middle-Third (Diaphyseal)*: Account for **80% of fractures**. Occurs at the transition junction between the outer convex and inner concave curves, representing the thinnest anatomical zone devoid of muscular or ligamentous reinforcement.
-  * *Lateral-Third (Distal)*: Account for 15%. Graded by the **Neer Classification** based on relationship to the coracoclavicular (CC) ligaments (conoid and trapezoid). Type II injuries (coracoclavicular ligaments disrupted from proximal fragment) carry a high rate of non-union.
+  * **Middle third (diaphyseal):** Approximately **80%** of clavicle fractures.
+    - Site: Junction of the outer convex and inner concave curves.
+    - Reason: Thinnest zone; little direct muscular or ligamentous reinforcement.
+  * **Lateral third (distal):** Approximately **15%** of fractures.
+    - **Classification:** Neer classification, based on the relationship to the **coracoclavicular (CC) ligaments**.
+    - CC ligaments: **Conoid and trapezoid**.
+    - **Neer type II:** Disruption of the CC support to the proximal fragment → high **nonunion risk**.
   * *Medial-Third (Proximal)*: Account for 5%.
 * **Classic Deformity & Muscle Displacement**:
   * **Proximal (Medial) Fragment**: Displaced **superiorly and posteriorly** by the un-opposed muscular traction of the **Sternocleidomastoid** muscle.
-  * **Distal (Lateral) Fragment**: Displaced **inferiorly and medially** due to the downward gravitational weight of the arm and adductor traction of the **Pectoralis Major** muscle.
+  * **Distal (lateral) fragment:**
+    - Displaced **inferiorly and medially**.
+    - Causes: Weight of the arm + pull of **pectoralis major**.
 
 ### Clinical Management & Surgical Indications
-* **Conservative Management (Gold Standard for Undisplaced/Minimally Displaced)**: Immobilization in a **Triangular Sling** or **Figure-of-8 Bandage** for 3–4 weeks in children or 4–6 weeks in adults, followed by shoulder mobilization.
+* **Conservative management:** Preferred for undisplaced/minimally displaced clavicular fractures.
+  * **Immobilization:** Triangular sling (or figure-of-eight bandage).
+  * **Typical duration:** **3–4 weeks in children**; **4–6 weeks in adults**.
+  * **Next:** Gradual shoulder mobilization.
 * **Operative Indications (ORIF with Plate and Screws)**:
   1. Open fractures or impending skin perforation (severe cortical tenting).
   2. Associated neurovascular compromise (subclavian artery/vein compression, brachial plexus injury).
@@ -65,10 +77,16 @@ flowchart TD
 
 #### Subtypes & Clinical Presentation
 * **Anatomic Subtypes**: Subcoracoid (most common), Subglenoid, Infraclavicular, and Intrathoracic.
-* **Clinical Deformity**: Flattening of the lateral rounded deltoid contour creating a **"Squared-Off Shoulder"** with a prominent acromion process and an easily palpable empty glenoid fossa. The arm is held in an attitude of slight abduction and external rotation.
+* **Clinical deformity:**
+  * **Squared-off shoulder:** Flattened deltoid contour with prominent acromion.
+  * **Palpation:** Glenoid fossa feels empty.
+  * **Attitude:** Slight abduction and external rotation.
 * **Pathognomonic Clinical Tests**:
   1. **Dugas Test**: Inability of the patient to touch the contralateral uninjured shoulder with the hand of the affected side while the elbow rests against the chest wall.
-  2. **Hamilton's Ruler Test**: A straight ruler placed against the lateral aspect of the arm can touch both the acromion process and the lateral epicondyle simultaneously (normally prevented by the rounded humeral head).
+  2. **Hamilton's ruler test:**
+     - Place a straight ruler along the lateral side of the arm.
+     - Ruler touches **acromion and lateral epicondyle** simultaneously.
+     - Normally blocked by the rounded humeral head.
   3. **Callaway's Test**: Increased vertical girth of the axillary fold measured around the acromion compared to the normal side.
 
 #### Pathological Lesions & Nerve Complications
@@ -77,10 +95,19 @@ flowchart TD
 ![Post-reduction shoulder radiograph showing a Hill–Sachs lesion. ](https://commons.wikimedia.org/wiki/Special:FilePath/Hills-sachs-lesion-ap.jpg)
 
 *Visual reference: Post-reduction shoulder radiograph showing a Hill–Sachs lesion. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Hills-sachs-lesion-ap.jpg). Online image; internet required.*
-* **Bankart Lesion**: Avulsion of the anteroinferior glenoid labrum from the glenoid margin, disrupting the inferior glenohumeral ligament complex (IGHLC). The primary predisposing cause of **recurrent anterior shoulder dislocation**.
+* **Bankart lesion:**
+  * **Location:** Avulsion of the **anteroinferior glenoid labrum**.
+  * **Associated injury:** Inferior glenohumeral ligament complex (IGHL).
+  * **Significance:** Predisposes to **recurrent anterior shoulder instability/dislocation**.
   * *Bony Bankart*: Concomitant avulsion fracture of the anteroinferior glenoid bone margin.
-* **Hill-Sachs Lesion**: Compression fracture / indentation defect on the **posterolateral aspect of the humeral head**, caused by repeated impact against the sharp anteroinferior glenoid rim during dislocation.
-* **Nerve Injury**: **Axillary Nerve ($C_5, C_6$)** is the most frequently injured nerve (10–15% of cases). Causes paralysis of the deltoid and teres minor muscles (impaired shoulder abduction between $15^\circ\text{--}90^\circ$) and sensory loss over the **"Regimental Badge Area"** on the upper lateral aspect of the arm. Treated conservatively with a **Shoulder Abduction Splint**.
+* **Hill–Sachs lesion:**
+  * **Defect:** Compression/indentation fracture of the **posterolateral humeral head**.
+  * **Mechanism:** Impact against the **anteroinferior glenoid rim** during anterior dislocation.
+* **Nerve injury — axillary nerve** ($C_5,C_6$):
+  * **Frequency:** Most commonly injured nerve (approximately **10–15%**).
+  * **Motor deficit:** Weak **deltoid/teres minor** → impaired abduction from about **15–90°**.
+  * **Sensory deficit:** **Regimental badge area** over the superolateral arm.
+  * **Management:** Usually conservative; a **shoulder abduction splint** may be used where appropriate.
 
 | Lesion | Site / mechanism | Significance |
 |---|---|---|
@@ -97,7 +124,9 @@ flowchart TD
 - **Frequency:** Approximately **2–4%** of shoulder dislocations.
 - **Diagnostic pitfall:** Frequently missed on the initial AP radiograph.
 
-* **Etiology & Mechanism**: High-energy muscular contractions induced by **electric shock**, **grand mal epileptic seizures**, or electroconvulsive therapy (ECT), or direct blow to anterior shoulder.
+* **Etiology / mechanism:**
+  * **Electric shock**, generalized tonic–clonic seizures, or ECT → powerful muscle contractions.
+  * Alternatively, a **direct blow to the anterior shoulder**.
 * **Attitude of Limb**: Arm fixed in **adduction and internal rotation**; external rotation is completely blocked.
 * **Radiological Signs**:
   * *AP View*: **"Light Bulb Sign" / "Electric Bulb Appearance"**—internal rotation of the humeral head causes it to appear symmetrical and rounded like a light bulb.
@@ -107,7 +136,11 @@ flowchart TD
 
 ### Inferior Glenohumeral Dislocation (Luxatio Erecta)
 * **Mechanism**: Severe forced hyper-abduction force.
-* **Presentation**: Humeral head is driven inferiorly beneath the glenoid labrum. The patient presents with the affected arm locked overhead in fixed hyper-abduction, with the hand resting on or behind the head. High incidence of brachial plexus and axillary artery injury.
+* **Presentation:**
+  * Humeral head displaced **inferiorly** beneath the glenoid.
+  * Arm locked in **overhead hyperabduction**.
+  * Hand often rests on or behind the head.
+  * **Important:** High incidence of **brachial plexus** and **axillary artery injury**.
 
 ### Proximal Humerus Fractures & Neer Classification
 
@@ -125,7 +158,10 @@ flowchart TD
 * **Neer's Definition of Displacement**: A segment is considered a distinct "part" **only if displaced $>1\text{ cm}$** or **angled $>45^\circ$**.
 * **Clinical Significance**:
   * *Anatomical Neck Fractures*: High risk of **Avascular Necrosis (AVN)** of the humeral head due to disruption of ascending branches of the anterior humeral circumflex artery.
-  * *Surgical Neck Fractures*: High risk of **malunion** and axillary nerve injury; managed conservatively with a hanging cast / U-slab or surgically with locking plates (PHILOS plate).
+  * **Surgical neck fracture:**
+    - **Risks:** Malunion and **axillary nerve injury**.
+    - **Conservative:** Hanging cast / U-slab when appropriate.
+    - **Operative:** Locking plate (**PHILOS**) when indicated.
 
 ---
 
@@ -147,8 +183,14 @@ flowchart TD
 - **Spiral groove / distal-third junction:** the radial nerve passes through the lateral intermuscular septum; its relative fixation increases traction or entrapment vulnerability.
 - **Holstein–Lewis fracture:** spiral distal-third humeral-shaft fracture; classically associated with radial-nerve palsy (source cites ~22%).
 
-* **Anatomical Mechanism**: At the junction of the middle and distal thirds of the humerus, the radial nerve perforates the **lateral intermuscular septum** to pass from the posterior to the anterior compartment. At this point, the nerve is firmly tethered and vulnerable to mechanical compression or entrapment during fracture displacement.
-* **Holstein-Lewis Fracture**: A specific **spiral fracture of the distal third of the humeral shaft** characterized by radial displacement of the distal fragment, associated with a high incidence (up to 22%) of acute radial nerve entrapment or laceration.
+* **Anatomical mechanism:**
+  * At the **middle-to-distal humeral-third junction**, the radial nerve pierces the **lateral intermuscular septum**.
+  * It passes from the **posterior** to the **anterior** compartment.
+  * At this relatively fixed point, fracture displacement may cause **traction, compression, or entrapment**.
+* **Holstein–Lewis fracture:**
+  * **Pattern:** Spiral fracture of the **distal third** of the humeral shaft.
+  * **Displacement:** Classically radial displacement of the distal fragment.
+  * **Association:** Radial nerve entrapment/laceration (reported incidence **up to ~22%**).
 
 ### Radial Nerve Injury Classification & Functional Deficits
 
@@ -164,14 +206,20 @@ flowchart TD
 | Finger extension | Weak / finger drop | Weak / finger drop |
 | First dorsal web-space sensation | May be reduced | Preserved (PIN is motor) |
 
-* **Management Protocol**: Most radial nerve injuries associated with closed humeral shaft fractures are neuropraxic in nature and recover spontaneously within 8–12 weeks. Management involves functional bracing/coaptation splinting of the humerus and a **Cock-up Splint** to maintain wrist extension and prevent flexor contractures. Surgical exploration is indicated in open fractures, failed closed reduction, or secondary nerve palsy developing *after* manipulation.
+* **Management of associated radial nerve palsy:**
+  * **Natural history:** Most primary palsies accompanying **closed** shaft fractures are neuropraxias and often recover spontaneously over weeks (commonly **8–12 weeks**, sometimes longer).
+  * **Fracture support:** Functional bracing or coaptation splint where appropriate.
+  * **Wrist support:** **Cock-up splint** to preserve wrist extension and prevent flexion contracture.
+  * **Consider surgical exploration:** Open fractures, failed closed reduction / suspected entrapment, or new palsy following manipulation.
 
 ---
 
 ## 4. Elbow Fractures & Dislocations
 
 - The elbow complex consists of three articulations: ulnohumeral, radiohumeral, and proximal radioulnar joints.
-- The bony landmarks form an **equilateral triangle** in $90^\circ$ flexion (medial epicondyle, lateral epicondyle, olecranon tip) that converts to a **straight horizontal line** in full extension.
+- **Three-point bony landmarks:** Medial epicondyle, lateral epicondyle, and olecranon tip.
+  - At **90° flexion:** **Equilateral triangle**.
+  - In **full extension:** **Straight horizontal line**.
 
 ### Supracondylar Fracture of the Humerus
 
@@ -184,7 +232,9 @@ flowchart TD
 - **Growth-plate analogy:** Sometimes described as a **Salter–Harris type I/II equivalent**.
 - **Clinical importance:** Displaced fractures may cause **neurovascular injury** or **acute compartment syndrome**.
 
-- **Three-point bony relationship:** The elbow landmark relationship described above is **preserved** in isolated supracondylar fractures because the fracture lies proximal to those points; it is disrupted in elbow dislocation and may be altered in condylar, olecranon, or intercondylar injuries.
+- **Three-point relationship in supracondylar fracture:**
+  - **Maintained:** Isolated supracondylar fracture (fracture proximal to the landmarks).
+  - **Altered:** Elbow dislocation; may also be disrupted in condylar, olecranon, or intercondylar injuries.
 
 #### Classification & Mechanisms
 
@@ -213,10 +263,24 @@ flowchart TD
 - **Views:** **AP and true lateral elbow radiographs**.
 - **Interpretation:** Assess **alignment** as well as the fracture line.
 
-- **Anterior humeral line (true lateral):** Extend the anterior cortex of the distal humeral shaft. Normally it crosses the **middle third of the capitellum** (in very young children, it can pass more anteriorly). In an **extension-type** fracture, posterior displacement of the capitellum makes the line pass **anterior to the middle third** or miss the capitellum.
-- **Baumann's angle (AP):** The angle between the **humeral shaft axis** and the **lateral condylar/capitellar physeal line** is approximately **70–75°** (normal values vary with age and technique). Used under **C-arm fluoroscopy** to judge coronal alignment and avoid **varus malunion**. **Do not confuse** this with the complementary angle measured against a line *perpendicular* to the humeral shaft.
-- **Anterior fat pad / “sail sign”:** Elevation of the normally small anterior fat pad into a triangular lucency suggests **elbow joint effusion/hemarthrosis** and a possible occult fracture.
-- **Visible posterior fat pad:** Normally hidden within the olecranon fossa; its appearance on a correctly positioned lateral film is **abnormal** and strongly suggests an occult intra-articular injury/effusion, even when a fracture line is not visible.
+- **Anterior humeral line (true lateral):**
+  - **How to draw:** Extend the **anterior cortex** of the distal humeral shaft.
+  - **Normal:** Intersects the **middle third of the capitellum**.
+    - **Young children:** May lie more anteriorly.
+  - **Extension supracondylar fracture:** Posterior capitellar displacement → line passes **anterior to the middle third** or misses it.
+- **Baumann's angle (AP):**
+  - **How to measure:** Between the **humeral shaft axis** and **lateral condylar/capitellar physeal line**.
+  - **Usual value:** Approximately **70–75°** (age and technique dependent).
+  - **Purpose:** Assess coronal alignment under **C-arm**, helping prevent **cubitus varus**.
+  - **Pitfall:** Using a perpendicular to the shaft instead gives the **complementary angle**.
+- **Anterior fat pad (“sail sign”):**
+  - Anterior fat pad becomes **elevated/triangular**.
+  - Indicates **joint effusion or hemarthrosis**.
+  - May be the only sign of an **occult fracture**.
+- **Posterior fat pad sign:**
+  - Normally **not visible** on a correctly positioned lateral elbow film.
+  - When visible, it is **abnormal** and suggests **joint effusion/hemarthrosis**.
+  - Consider **occult fracture** even without a visible fracture line.
 
 #### Neurovascular Examination & Complications
 
@@ -249,18 +313,37 @@ flowchart TD
 
 #### Management
 
-1. **Initial stabilization:** Document repeated neurovascular examinations, provide analgesia, and immobilize with a **well-padded posterior above-elbow slab in a safe position of comfort**; avoid excessive elbow flexion when swelling or vascular compromise is present. **Dunlop's traction** is a historical/selected temporizing option when definitive treatment is delayed, not routine first-line care.
-2. **Gartland I (undisplaced):** **Above-elbow posterior slab/cast**, generally around **80–90° of flexion** if vascular status and swelling permit, for approximately **3–4 weeks**. Avoid forced flexion beyond $90^\circ$.
-3. **Gartland II (displaced but posterior hinge intact):** **Reduction**, with **CRPP** for unstable, rotated, or inadequately aligned fractures. Selected stable **IIa** fractures may be casted with close orthopaedic follow-up and radiographs.
-4. **Gartland III (completely displaced), and unstable flexion-type fractures:** Generally require **closed reduction and percutaneous K-wire fixation (CRPP)** under **C-arm fluoroscopy**; open reduction if an adequate closed reduction is not achievable or there is irreducible/entrapped neurovascular tissue.
-5. **Pin placement:** **Two or more lateral-entry K-wires** are commonly preferred to limit **iatrogenic ulnar nerve injury** from medial pins; crossed pins may be used when required for stability with appropriate nerve protection. Recheck distal perfusion, pulse, and nerve function following fixation.
+1. **Initial stabilization**
+   - Record and repeat the **neurovascular examination**.
+   - Give analgesia.
+   - Immobilize in a **well-padded posterior above-elbow slab**, with the elbow in a safe position of comfort.
+   - **Avoid excessive flexion** when swelling or vascular compromise is present.
+   - **Dunlop's traction:** Historical/selected temporary option when surgery is delayed; **not routine first-line** care.
+2. **Gartland I — undisplaced**
+   - **Above-elbow posterior slab/cast** for approximately **3–4 weeks**.
+   - Flexion usually **80–90°**, if swelling and vascular status permit.
+   - Avoid forced flexion **beyond 90°**.
+3. **Gartland II — displaced with intact posterior hinge**
+   - **Reduce** the fracture.
+   - **CRPP:** For unstable, rotated, or inadequately aligned fractures.
+   - **Selected stable IIa fractures:** Cast with close orthopaedic/radiographic follow-up.
+4. **Gartland III / unstable flexion-type fractures**
+   - Usually require **closed reduction and percutaneous K-wire fixation (CRPP)** under **C-arm fluoroscopy**.
+   - **Open reduction:** If closed reduction fails or neurovascular tissue is irreducibly entrapped.
+5. **Pin placement**
+   - **Two or more lateral-entry K-wires:** Commonly preferred to reduce **iatrogenic ulnar nerve injury**.
+   - **Crossed pins:** An option when additional stability is required, with **ulnar nerve protection**.
+   - **After fixation:** Recheck pulse, perfusion, and peripheral nerve function.
 
 ### Lateral Condyle Fracture of the Humerus
 - **Frequency:** Second most common elbow fracture in children; typical age **6–10 years**.
 - **Fracture pattern:** **Intra-articular Salter–Harris type IV**.
 - **Mechanism:** Varus traction of extensor muscles or axial force transmitted by the radial head.
 
-* **"Fracture of Necessity"**: Requires precise anatomical reduction and internal fixation (K-wires/screws) because it is intra-articular and bathed in synovial fluid (which contains fibrinolytic enzymes that inhibit callus formation).
+* **“Fracture of necessity”:**
+  * **Why:** Intra-articular lateral condyle fracture needs **anatomical reduction**.
+  * **Nonunion risk:** Synovial fluid contains fibrinolytic factors that interfere with healing.
+  * **Treatment:** Internal fixation using **K-wires/screws** when indicated.
 * **Complications**: Non-union (most common complication), **Cubitus Valgus Deformity**, leading years later to stretching and **Tardy Ulnar Nerve Palsy**.
 
 ### Olecranon Fracture
@@ -272,7 +355,11 @@ flowchart TD
   - Converts tensile pull of the triceps into **compression at the fracture site**.
 
 ### Elbow Dislocation & The Terrible Triad
-* **Elbow Dislocation**: Most common joint dislocation in children and 2nd most common in adults. **Posterior dislocation** is most common ($90\%$). Disruption alters the normal equilateral three-point bony triangle relationship. Associated with ulnar nerve injury.
+* **Elbow dislocation:**
+  * **Frequency:** Most common joint dislocation in children; second most common in adults.
+  * **Direction:** **Posterior**, approximately **90%**.
+  * **Landmark change:** Disturbed **three-point bony triangle**.
+  * **Associated nerve:** **Ulnar nerve** at risk.
 * **Hotchkiss Terrible Triad of the Elbow**: Severe complex instability consisting of:
   1. Posterior Elbow Dislocation.
   2. Radial Head Fracture.
@@ -281,9 +368,15 @@ flowchart TD
 ### Pulled Elbow (Nursemaid's Elbow)
 - **Typical patient:** Child aged **1–4 years**.
 - **Injury:** Subluxation of the radial head / annular ligament complex.
-* **Pathophysiology**: Sudden longitudinal traction applied to an extended, pronated forearm (e.g., pulling a child up by the wrist). The immature, small radial head slips distally beneath the **Annular Ligament**, trapping the ligament within the radiohumeral joint.
+* **Pathophysiology:**
+  * **Trigger:** Sudden longitudinal pull on an **extended, pronated forearm** (e.g., lifting a child by the wrist).
+  * **Mechanism:** Small immature **radial head slips beneath the annular ligament**.
+  * The ligament may become **trapped** in the radiohumeral joint.
 * **Clinical Presentation**: Child holds the arm extended and pronated against the body, crying upon any attempt at supination, with no focal swelling or deformity.
-* **Reduction Technique**: Gentle axial pressure on radial head followed by **supination and full flexion** of the elbow (or hyperpronation), producing a tactile "pop" as the annular ligament slides back into position.
+* **Reduction technique:**
+  * Apply gentle pressure over the **radial head**.
+  * **Supination + flexion** or **hyperpronation** maneuver.
+  * A palpable **“pop”** may indicate reduction of the annular ligament.
 
 ---
 
@@ -295,12 +388,20 @@ flowchart TD
 | **Galeazzi** | Distal-third radius | Distal radioulnar joint (DRUJ) | Often requires operative stabilization ("fracture of necessity") |
 
 ### Monteggia Fracture-Dislocation
-* **Definition**: Fracture of the **proximal one-third of the ulnar shaft** associated with **dislocation of the radial head** at the proximal radioulnar joint (PRUJ). Classified by **Bado's System** (Type I: Anterior radial head dislocation, most common).
+* **Definition — Monteggia:**
+  * Fracture of the **proximal third of the ulnar shaft**.
+  * Associated **radial head dislocation** at the **proximal radioulnar joint (PRUJ)**.
+  * **Bado classification:** Type I (**anterior** radial-head dislocation) is the most common.
 * **Nerve Injury**: **Posterior Interosseous Nerve (PIN)** injury, presenting with finger drop and thumb extension loss without sensory deficit.
 
 ### Galeazzi Fracture-Dislocation (Reverse Monteggia)
-* **Definition**: Fracture of the **distal one-third of the radial shaft** associated with **dislocation or disruption of the Distal Radioulnar Joint (DRUJ)** and triangular fibrocartilage complex (TFCC).
-* **Management**: Known as a "Fracture of Necessity" in adults; requires Open Reduction and Internal Fixation (ORIF) of the radius with a rigid plate to automatically reduce the DRUJ.
+* **Definition — Galeazzi:**
+  * Fracture of the **distal third of the radial shaft**.
+  * Associated disruption/dislocation of the **distal radioulnar joint (DRUJ)** and **TFCC**.
+* **Management — Galeazzi:**
+  * **“Fracture of necessity”** in adults.
+  * Usually requires **ORIF of the radius** with rigid plating.
+  * Restoring radial alignment often reduces the **DRUJ**; assess its stability.
 
 ### Colles' Fracture
 
@@ -341,8 +442,16 @@ flowchart TD
 | Deformity | Dinner-fork | Garden-spade |
 | Site | Distal radius metaphysis | Distal radius metaphysis |
 
-* **Management**: Closed reduction via longitudinal traction and manipulation (flexion, ulnar deviation, and pronation), immobilized in a **Colles' Cast ("Hand-Shaking Cast")**—below-elbow cast holding wrist in slight flexion, ulnar deviation, and pronation for 6 weeks.
-* **Complications**: Malunion (most common), Sudeck's Osteodystrophy (Complex Regional Pain Syndrome type I), Carpal Tunnel Syndrome (median nerve compression), and delayed rupture of the **Extensor Pollicis Longus (EPL)** tendon due to ischemia/attrition over Lister's tubercle.
+* **Management — Colles fracture:**
+  * **Closed reduction:** Longitudinal traction + manipulation (flexion, ulnar deviation, pronation).
+  * **Cast:** Colles' / **“hand-shaking”** below-elbow cast.
+    - Wrist typically in slight **flexion, ulnar deviation, and pronation**.
+  * **Typical duration:** Approximately **6 weeks**.
+* **Complications — Colles fracture:**
+  * **Malunion:** Most common.
+  * **Sudeck's osteodystrophy:** Complex regional pain syndrome (CRPS I).
+  * **Carpal tunnel syndrome:** Median nerve compression.
+  * **Delayed EPL tendon rupture:** Attrition/ischemia near **Lister's tubercle**.
 
 ### Smith's Fracture (Reverse Colles')
 - **Site:** Extra-articular fracture of the distal radial metaphysis.
@@ -383,7 +492,11 @@ flowchart TD
 - **Mechanism:** **FOOSH**.
 - **Typical patient:** Young adult.
 
-* **Clinical Diagnosis**: Point tenderness in the **Anatomical Snuffbox** (bounded medially by Extensor Pollicis Longus, laterally by Abductor Pollicis Longus and Extensor Pollicis Brevis), pain on axial loading of the thumb, and scaphoid tubercle tenderness.
+* **Clinical diagnosis — scaphoid fracture:**
+  * **Anatomical snuffbox tenderness**.
+    - **Medial boundary:** Extensor pollicis longus (EPL).
+    - **Lateral boundary:** Abductor pollicis longus (APL) + extensor pollicis brevis (EPB).
+  * **Other signs:** Pain on axial thumb loading and **scaphoid tubercle tenderness**.
 * **Blood Supply & Vulnerability**: Blood supply enters via the distal pole from retrograde branches of the **Radial Artery**.
   * *Waist Fractures*: Account for 70% of fractures.
   * *Proximal Pole Fractures*: High incidence of **Avascular Necrosis (AVN)** and non-union due to complete devascularization of the proximal fragment.
@@ -396,15 +509,26 @@ flowchart TD
 ```
 
 * **Management & Radiography**:
-  * *Radiographs*: AP, lateral, and dedicated $20^\circ$ ulnar-deviated **Scaphoid Views**. Fractures are frequently occult on initial X-rays. If clinically suspicious despite negative initial radiographs, immobilize in a **Glass-Holding Cast / Thumb Spica** for 2 weeks and re-X-ray, or perform an immediate **MRI** (gold standard for occult scaphoid fractures).
-  * *Definitive Treatment*: Undisplaced waist fractures treated in a Thumb Spica cast for 8–12 weeks. Displaced or proximal pole fractures require internal fixation using a headless compression screw (**Herbert Screw**).
-* **Scapholunate Dissociation**: Disruption of scapholunate interosseous ligament. Plain AP X-ray demonstrates the **"Terry Thomas Sign"**—widening of the scapholunate interosseous space $>3\text{ mm}$ (resembling the gap between the comedian's front teeth).
+  * **Radiography:** AP, lateral, and dedicated **scaphoid view** with approximately **20° ulnar deviation**.
+    - Early fractures may be **occult** on plain radiographs.
+    - High suspicion despite negative X-rays → **thumb-spica immobilization**, repeat films after about **2 weeks**, or obtain **early MRI**.
+    - **MRI:** Highly sensitive for an occult scaphoid fracture.
+  * **Definitive treatment:**
+    - **Undisplaced waist fracture:** Thumb-spica cast for approximately **8–12 weeks**.
+    - **Displaced/proximal-pole fracture:** Internal fixation with a headless compression (**Herbert**) screw when indicated.
+* **Scapholunate dissociation:**
+  * Injury of the **scapholunate interosseous ligament**.
+  * **AP X-ray:** Widened scapholunate gap **>3 mm**.
+  * Classic eponym: **“Terry Thomas sign”** (resembling a prominent front-tooth gap).
 
 ### Bennett's Fracture-Dislocation
 - **Site:** Base of the **first metacarpal** (thumb carpometacarpal joint).
 - **Nature:** **Intra-articular fracture-dislocation**.
 
-* **Mechanism & Displacement**: A small volar-medial lip fragment remains anchored to the trapezium by the strong anterior oblique ligament, while the main metacarpal shaft fragment is displaced **dorsally, proximally, and radially** by the dynamic muscle pull of the **Abductor Pollicis Longus (APL)** tendon.
+* **Mechanism and displacement — Bennett fracture:**
+  * **Small volar-medial base fragment:** Remains anchored to the trapezium by the **anterior oblique ligament**.
+  * **Main first-metacarpal shaft:** Pulled **dorsally, proximally, and radially**.
+  * **Deforming force:** **Abductor pollicis longus (APL)** tendon.
 * **Management**: Unstable fracture requiring Closed Reduction and Percutaneous K-wire Fixation or Open Reduction.
 
 | Component | Attachment / displacement |
@@ -434,7 +558,9 @@ flowchart TD
 - **Deformity:** Unopposed **flexion at the DIP joint**.
 - **Functional deficit:** Inability to **actively extend the DIP**.
 
-* **Pathophysiology**: Forced sudden hyperflexion applied to an actively extended DIP joint (e.g., baseball striking the fingertip), causing avulsion or rupture of the **Extensor Digitorum Communis (EDC)** tendon insertion at the dorsal base of the distal phalanx.
+* **Pathophysiology — mallet finger:**
+  * Sudden **forced flexion** of an **actively extended DIP** (e.g., ball strikes fingertip).
+  * Causes avulsion/rupture of the terminal **extensor tendon (EDC)** insertion at the dorsal base of the distal phalanx.
 * **Management**: Continuous immobilization of the DIP joint in slight hyperextension using a **Mallet / Stax Splint** for 6–8 weeks.
 
 ---
