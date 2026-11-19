@@ -201,7 +201,8 @@ The **Radial Nerve ($C_5-T_1$)** is intimately associated with the humerus as it
 
 * **Management**: 
 	* Gartland Type I treated in an above-elbow plaster slab; 
-	* Gartland Type II and III managed with urgent **Closed Reduction and Percutaneous K-Wire Fixation (CRPP)**. **Dunlop's Traction** is used when surgery is delayed.
+	* Gartland Type II and III managed with urgent **Closed Reduction and Percutaneous K-Wire Fixation (CRPP)**. 
+	* **[[01_Basics_and_Fracture_Healing#Splints, Braces, Tractions & Casts|Dunlop's Traction]]** is used when surgery is delayed.
 
 ### Lateral Condyle Fracture of the Humerus
 Second most common elbow fracture in children (ages 6–10 years). An **intra-articular Salter-Harris Type IV fracture** caused by varus pull of extensor muscles or axial load through the radial head.
