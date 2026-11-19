@@ -165,12 +165,13 @@ The **Radial Nerve ($C_5-T_1$)** is intimately associated with the humerus as it
 ![Marked radiograph illustrating a supracondylar humeral fracture. ](https://commons.wikimedia.org/wiki/Special:FilePath/SupracondylarfracMark.png)
 
 *Visual reference: Marked radiograph illustrating a supracondylar humeral fracture. [Original image and attribution](https://commons.wikimedia.org/wiki/File:SupracondylarfracMark.png). Online image; internet required.*
-The most common elbow fracture in children (peak age 5–8 years). Extra-articular fracture through the thin bone of the olecranon fossa (Salter-Harris Type I/II equivalent).
+- The most common elbow fracture in children (peak age 5–8 years). 
+- Extra-articular fracture through the thin bone of the olecranon fossa (Salter-Harris Type I/II equivalent).
 
-| Feature | Extension type (~95%) | Flexion type (~5%) |
-|---|---|---|
-| Mechanism | Fall on outstretched hand | Impact to flexed elbow |
-| Distal fragment | **Posterior** displacement | **Anterior** displacement |
+| Feature                 | Extension type (~95%)                                                                | Flexion type (~5%)                      |
+| ----------------------- | ------------------------------------------------------------------------------------ | --------------------------------------- |
+| Mechanism               | Fall on outstretched hand                                                            | Impact to flexed elbow                  |
+| Distal fragment         | **Posterior** displacement                                                           | **Anterior** displacement               |
 | Important complications | AIN injury, brachial artery compromise, Volkmann ischemic contracture, cubitus varus | Neurovascular injury (assess carefully) |
 
 #### Classification & Mechanisms
@@ -181,16 +182,26 @@ The most common elbow fracture in children (peak age 5–8 years). Extra-articul
 * **Flexion Type (5%)**: Direct impact to a flexed elbow; distal fragment displaced **anteriorly**.
 
 #### Pathognomonic Complications
-1. **Anterior Interosseous Nerve (AIN) Injury**: Most common nerve injured in extension-type supracondylar fractures (AIN is a motor branch of the Median Nerve). Paralyzes the **Flexor Pollicis Longus (FPL)** and **Flexor Digitorum Profundus (FDP) of index finger**, resulting in the **Inability to form an "OK" Sign** (pincer pinch fails; thumb and index finger touch with flattened pads instead of tips). *(Note: Radial nerve is 2nd most common; Ulnar nerve is most common in flexion-type fractures).*
-2. **Brachial Artery Injury & Volkmann's Ischemic Contracture (VIC)**: Compression, spasm, or transection of the brachial artery at the anterior fracture ridge causes acute forearm compartment syndrome. If uncorrected, leads to muscle necrosis and fibrotic contracture of deep flexors (FPL, FDP), producing **Volkmann's Ischemic Contracture (VIC)**—fixed flexion deformity of wrist and IP joints with MCP hyperextension.
-3. **Gunstock Deformity (Cubitus Varus)**: Most common late mechanical complication, resulting from malunion of the distal fragment in medial rotation and varus tilt. Does not restrict range of motion but causes cosmetic deformity. Corrected via **French / Modified King Closing-Wedge Osteotomy**.
+1. **Anterior Interosseous Nerve (AIN) Injury**: 
+	1. Most common nerve injured in extension-type supracondylar fractures (AIN is a motor branch of the Median Nerve). 
+	2. Paralyzes the **Flexor Pollicis Longus (FPL)** and **Flexor Digitorum Profundus (FDP) of index finger**, resulting in the **Inability to form an "OK" Sign** (pincer pinch fails; thumb and index finger touch with flattened pads instead of tips). 
+	3. *Note: Radial nerve is 2nd most common; Ulnar nerve is most common in flexion-type fractures.*
+2. **Brachial Artery Injury & Volkmann's Ischemic Contracture (VIC)**: 
+	1. Compression, spasm, or transection of the brachial artery at the anterior fracture ridge causes acute forearm compartment syndrome. 
+	2. If uncorrected, leads to muscle necrosis and fibrotic contracture of deep flexors (FPL, FDP), producing **Volkmann's Ischemic Contracture (VIC)**—fixed flexion deformity of wrist and IP joints with MCP hyperextension.
+3. **Gunstock Deformity (Cubitus Varus)**: 
+	1. Most common late mechanical complication, resulting from malunion of the distal fragment in medial rotation and varus tilt. 
+	2. Does not restrict range of motion but causes cosmetic deformity. 
+	3. Corrected via **French / Modified King Closing-Wedge Osteotomy**.
 
 | Test result | Thumb and index position | Relevant muscles |
 |---|---|---|
 | **Normal “OK” sign** | Tip-to-tip circle | Flexor pollicis longus + index FDP function intact |
 | **AIN palsy** | Pad-to-pad pinch; poor thumb IP / index DIP flexion | FPL + FDP (index) weakness |
 
-* **Management**: Gartland Type I treated in an above-elbow plaster slab; Gartland Type II and III managed with urgent **Closed Reduction and Percutaneous K-Wire Fixation (CRPP)**. **Dunlop's Traction** is used when surgery is delayed.
+* **Management**: 
+	* Gartland Type I treated in an above-elbow plaster slab; 
+	* Gartland Type II and III managed with urgent **Closed Reduction and Percutaneous K-Wire Fixation (CRPP)**. **Dunlop's Traction** is used when surgery is delayed.
 
 ### Lateral Condyle Fracture of the Humerus
 Second most common elbow fracture in children (ages 6–10 years). An **intra-articular Salter-Harris Type IV fracture** caused by varus pull of extensor muscles or axial load through the radial head.

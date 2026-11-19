@@ -30,5 +30,6 @@
   "showUnsupportedFiles": true,
   "autoConvertHtml": false,
   "readableLineLength": true,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "showInlineTitle": false
 }

@@ -32,7 +32,7 @@ The dry weight of adult bone matrix is divided into an
 	  * *(Note: Hyaline articular cartilage is composed of Type II collagen; granulation tissue contains Type III collagen; basement membranes contain Type IV collagen).*
   * **Non-Collagenous Proteins (5–10%)**:
     * *Osteocalcin*: 
-	    * Bone-specific ==vitamin K-dependent protein== synthesized by mature osteoblasts; 
+	    * Bone-specific ==vitamin K-dependent protein== synthesized by mature <strong>osteoblasts</strong>; 
 	    * binds hydroxyapatite and serves as a ==clinical biomarker of osteoblast activity== and ==bone formation.==
     * *Osteonectin*: 
 	    * Glycoprotein that binds both Type I collagen and hydroxyapatite, ==mediating matrix mineralization.==
@@ -149,8 +149,12 @@ Fracture healing is a unique biological process that restores bone to its origin
 | Mechanism | Direct Haversian remodeling (cutting cones) | Endochondral ossification |
 
 ### Direct (Primary / Cortical) Fracture Healing
-* **Conditions Required**: Rigid anatomical reduction and **absolute stability** (interfragmentary strain $<2\%$). Achieved surgically using Dynamic Compression Plates (DCP) or lag screws.
-* **Biological Mechanism**: Absence of interfragmentary motion prevents external callus formation. Healing occurs directly across the fracture gap via **Cutting Cones**—osteoclasts at the leading edge bore longitudinal tunnels across the fracture line, followed by osteoblasts depositing concentric lamellar bone (direct Haversian remodeling).
+* **Conditions Required**: 
+	* Rigid anatomical reduction and **absolute stability** (interfragmentary strain $<2\%$). 
+	* Achieved surgically using Dynamic Compression Plates (DCP) or lag screws.
+* **Biological Mechanism**: 
+	* Absence of interfragmentary motion prevents external callus formation. 
+	* Healing occurs directly across the fracture gap via **Cutting Cones**—osteoclasts at the leading edge bore longitudinal tunnels across the fracture line, followed by osteoblasts depositing concentric lamellar bone (==direct Haversian remodeling==).
 
 ### Indirect (Secondary / Endochondral) Fracture Healing
 
@@ -158,8 +162,11 @@ Fracture healing is a unique biological process that restores bone to its origin
 
 *Stages of secondary fracture healing — schematic.*
 
-* **Conditions Required**: **Relative stability** with physiological micromotion (interfragmentary strain $2-10\%$). Occurs naturally in non-operative cast immobilization, intramedullary interlocking nailing, external fixation, or bridging plates.
-* **Perren's Interfragmentary Strain Theory**: Tissue formed in a fracture gap depends on local strain ($\text{Strain} = \Delta L / L$). Granulation tissue tolerates up to 100% strain, cartilage tolerates 10% strain, and bone tolerates $<2\%$ strain. Progressive stabilization lowers strain, permitting step-wise tissue differentiation from granulation to cartilage to bone.
+* **Conditions Required**: **Relative stability** with physiological micromotion (interfragmentary strain $2-10\%$). Occurs naturally in <u>non-operative cast immobilization, intramedullary interlocking nailing, external fixation, or bridging plates</u>.
+* **Perren's Interfragmentary Strain Theory**: 
+	* Tissue formed in a fracture gap depends on local strain ($\text{Strain} = \Delta L / L$). 
+	* ==Granulation tissue tolerates up to 100% strain==, cartilage tolerates 10% strain, and ==bone tolerates $<2\%$ strain.== 
+	* <strong>Progressive stabilization</strong> lowers strain, ==permitting step-wise tissue differentiation from granulation to cartilage to bone.==
 
 ```mermaid
 flowchart TD
@@ -205,13 +212,22 @@ Failure of a fracture to consolidate within the expected biological timeframe fo
 #### Non-Union
 Complete permanent cessation of periosteal and endosteal repair mechanisms without radiological consolidation progression over a 3-month period, persisting for at least **6 months post-injury**.
 * **Hypertrophic Non-Union ("Elephant's Foot" / "Horse's Hoof")**:
-  * *Pathophysiology*: Hypervascular, biologically active bone ends with abundant callus formation. Represents a **mechanical failure** due to inadequate rigid immobilization/fixation in the presence of good blood supply.
-  * *Radiology*: Flared, sclerotic bone ends with a persistent radiolucent fracture line.
-  * *Treatment*: Rigid mechanical stabilization (e.g., reamed intramedullary nailing or compression plating). Bone grafting is **not** required.
+  * *Pathophysiology*: 
+	  * Hypervascular, biologically active bone ends with abundant callus formation. 
+	  * Represents a **mechanical failure** due to inadequate rigid immobilization/fixation in the presence of good blood supply.
+  * *Radiology*: 
+	  * Flared, sclerotic bone ends with a persistent radiolucent fracture line.
+  * *Treatment*: 
+	  * Rigid mechanical stabilization (e.g., reamed intramedullary nailing or compression plating). 
+	  * Bone grafting is **not** required.
 * **Atrophic Non-Union**:
-  * *Pathophysiology*: Biologically inert, avascular, and devitalized bone ends with absent callus formation. Represents a **biological failure** secondary to severe ischemia, extensive soft tissue loss, periosteal stripping, or infection.
-  * *Radiology*: Rounded, osteopenic, tapered "pencil-like" bone ends without bridging callus.
-  * *Treatment*: Excision of fibrous scar tissue, decortication, rigid internal fixation, and **autologous cancellous bone grafting** (gold standard site: anterior/posterior iliac crest).
+  * *Pathophysiology*: 
+	  * Biologically inert, avascular, and devitalized bone ends with absent callus formation. 
+	  * Represents a **biological failure** secondary to severe ischemia, extensive soft tissue loss, periosteal stripping, or infection.
+  * *Radiology*: 
+	  * Rounded, osteopenic, tapered "pencil-like" bone ends without bridging callus.
+  * *Treatment*: 
+	  * Excision of fibrous scar tissue, decortication, rigid internal fixation, and **autologous cancellous bone grafting** (gold standard site: anterior/posterior iliac crest).
 
 #### Bone Grafting Dynamics
 * **Osteogenesis**: Direct synthesis of new bone by viable progenitor cells within the graft (autologous iliac crest graft).
@@ -220,22 +236,33 @@ Complete permanent cessation of periosteal and endosteal repair mechanisms witho
 
 #### Malunion
 Healing of a fracture in an anatomically abnormal alignment (angular, rotational, or length discrepancy).
-* *Most Common Sites*: Clavicle, supracondylar humerus fracture (leading to **Cubitus Varus / Gunstock Deformity**), distal radius Colles' fracture, and intertrochanteric femur fractures.
+* *Most Common Sites*: 
+	* Clavicle, 
+	* supracondylar humerus fracture (leading to **Cubitus Varus / Gunstock Deformity**), 
+	* distal radius Colles' fracture, and 
+	* intertrochanteric femur fractures.
 * *Treatment*: Corrective surgical **Osteotomy** (realignment and rigid fixation).
 
 ### Avascular Necrosis (AVN / Osteonecrosis) High-Risk Vulnerable Sites
 AVN occurs when intraosseous blood supply is compromised, leading to osteocyte death, subchondral bone collapse, and secondary destructive osteoarthritis.
 
-| Vulnerable site | Blood-supply feature |
-|---|---|
-| Femoral head | Retinacular arteries |
+| Vulnerable site           | Blood-supply feature                 |
+| ------------------------- | ------------------------------------ |
+| Femoral head              | Retinacular arteries                 |
 | Proximal pole of scaphoid | Retrograde branches of radial artery |
-| Talar body | Artery of tarsal canal |
-| Capitate pole | Terminal intraosseous supply |
+| Talar body                | Artery of tarsal canal               |
+| Capitate pole             | Terminal intraosseous supply         |
 
-1. **Femoral Head**: Secondary to intracapsular femoral neck fractures or traumatic posterior hip dislocations. Retinacular arteries (branches of **Medial Femoral Circumflex Artery**) running along the femoral neck are disrupted.
-2. **Proximal Pole of Scaphoid**: Waist and proximal pole scaphoid fractures. Blood supply enters the distal pole via retrograde branches of the radial artery; proximal pole is left entirely ischemic.
-3. **Body of Talus**: Neck of talus fractures (**Aviator's Fracture**). Retrograde blood flow via the artery of the tarsal canal, deltoid branch, and dorsalis pedis artery is disrupted. Evaluated by **Hawkins' Sign** (presence of subchondral osteopenia at 6–8 weeks on AP radiograph indicates preserved vascularity and rules out AVN).
+1. **Femoral Head**: 
+	1. Secondary to intracapsular femoral neck fractures or traumatic posterior hip dislocations. 
+	2. Retinacular arteries (branches of **Medial Femoral Circumflex Artery**) running along the femoral neck are disrupted.
+2. **Proximal Pole of Scaphoid**: 
+	1. Waist and proximal pole scaphoid fractures. 
+	2. Blood supply enters the distal pole via retrograde branches of the radial artery; proximal pole is left entirely ischemic.
+3. **Body of Talus**: 
+	1. Neck of talus fractures (**Aviator's Fracture**). 
+	2. Retrograde blood flow via the artery of the tarsal canal, deltoid branch, and dorsalis pedis artery is disrupted. 
+	3. Evaluated by **Hawkins' Sign** (presence of subchondral osteopenia at 6–8 weeks on AP radiograph indicates preserved vascularity and rules out AVN).
 4. **Proximal Pole of Capitate**.
 
 ---
@@ -285,18 +312,20 @@ flowchart TD
 ### Lower Extremity Amputation Levels
 Amputation is considered a reconstructive surgical procedure designed to create an end-bearing, painless, functional residual limb capable of prosthetic fitting.
 
-| Level | Anatomical location |
-|---|---|
-| Transmetatarsal | Forefoot |
-| Lisfranc disarticulation | Tarsometatarsal joints |
-| Chopart disarticulation | Midtarsal joints |
-| Syme amputation | Ankle disarticulation |
+![[Screenshot (15).png]]
+
+| Level                    | Anatomical location                |
+| ------------------------ | ---------------------------------- |
+| Transmetatarsal          | Forefoot                           |
+| Lisfranc disarticulation | Tarsometatarsal joints             |
+| Chopart disarticulation  | Midtarsal joints                   |
+| Syme amputation          | Ankle disarticulation              |
 | Transtibial (below-knee) | Leg; common major lower-limb level |
 
 1. **Toe & Ray Amputation**: Resection of digital phalanx or digit with corresponding metatarsal.
 2. **Transmetatarsal Amputation**: Forefoot amputation through mid-metatarsal shafts; preserves dorsiflexor and plantarflexor insertions.
 3. **Lisfranc Amputation**: Disarticulation through tarsometatarsal joints.
-4. **Chopart Amputation**: Disarticulation through midtarsal joints (talonavicular and calcaneocuboid joints). High risk of equinus deformity due to unopposed Achilles tendon pull.
+4. **Chopart Amputation**: Disarticulation through midtarsal joints (talonavicular and calcaneocuboid joints). ==High risk of equinus deformity due to unopposed Achilles tendon pull.==
 5. **Syme's Amputation**: Ankle disarticulation with removal of medial/lateral malleoli and preservation of the durable heel pad anchored to the distal tibia, allowing direct weight-bearing.
 6. **Transtibial Amputation (Below-Knee [B/K])**: Most common major lower limb amputation ($12-15\text{ cm}$ below knee joint line). Long posterior flap (gastrocnemius-soleus) provides durable soft tissue padding.
 7. **Knee Disarticulation**: Disarticulation through knee joint space; excellent end-bearing capacity.
@@ -327,11 +356,18 @@ Amputation is considered a reconstructive surgical procedure designed to create 
   * *Toe-Raising / Ankle-Foot Orthosis (AFO)*: Maintains ankle dorsiflexion; used in **Common Peroneal Nerve Injury (Foot Drop)**.
   * *Denis Browne Splint*: Boots attached to an adjustable metal bar in external rotation; used for maintenance post-correction in **Congenital Talipes Equinovarus (CTEV / Clubfoot)**.
   * *Milwaukee & Boston Braces*: Spinal orthoses used in non-operative management of **Scoliosis** (Cobb's angle $20-40^\circ$).
+
+![[Pasted image 20261119113756.png]]![[Pasted image 20261119113927.png]]![[Pasted image 20261119114031.png]]![[Pasted image 20261119114224.png]]
+
+
 * **Traction Systems**:
   * *Thomas Splint*: Fixed traction splint for femoral shaft fractures; ring rests against ischial tuberosity.
   * *Bohler-Braun Frame*: Metallic frame supporting lower leg for skin or skeletal traction in femoral and tibial fractures.
   * *Gallows Traction*: Skin traction suspending both lower limbs vertically in infants ($<2\text{ years of age}$ or weight $<12\text{ kg}$) with femoral shaft fractures, using body weight as counter-traction.
   * *Dunlop Traction*: Skin/skeletal traction applied to flexed upper limb for supracondylar humerus fractures.
+
+![[Pasted image 20261119113451.png]]![[Pasted image 20261119113403.png]]![[Pasted image 20261119113110.png]]![[Pasted image 20261119113310.png]]
+
 * **Casts & Slabs**:
   * *U-Slab / Hanging Cast*: Applied for **Humeral Shaft Fractures** (gravitational traction maintains alignment).
   * *Glass Holding Cast (Thumb Spica)*: Applied for **Scaphoid Fractures** (immobilizes wrist and 1st CMF joint in glass-holding position).
