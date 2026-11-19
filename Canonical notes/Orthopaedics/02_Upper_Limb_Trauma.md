@@ -167,7 +167,7 @@ The **Radial Nerve ($C_5-T_1$)** is intimately associated with the humerus as it
 
 The **most common elbow fracture in children** (peak age **5–8 years**) is an **extra-articular distal humeral metaphyseal fracture** just proximal to the epicondyles and trochlea/capitellum, often described as a Salter–Harris Type I/II equivalent. Displaced injuries are particularly important because of possible **acute neurovascular compromise and compartment syndrome**.
 
-- **Three-point bony relationship:** With the elbow flexed to $90^\circ$, the medial epicondyle, lateral epicondyle, and olecranon tip form a triangle; they lie in one line with full extension (as noted above). This relationship is **preserved** in isolated supracondylar fractures because the fracture lies above these landmarks, unlike elbow dislocation and some condylar, olecranon, or intercondylar injuries.
+- **Three-point bony relationship:** The elbow landmark relationship described above is **preserved** in isolated supracondylar fractures because the fracture lies proximal to those points; it is disrupted in elbow dislocation and may be altered in condylar, olecranon, or intercondylar injuries.
 
 #### Classification & Mechanisms
 
@@ -182,7 +182,7 @@ The **most common elbow fracture in children** (peak age **5–8 years**) is an 
 | Type | Displacement / stability | Important clue |
 |---|---|---|
 | **I** | Undisplaced; cortical continuity maintained | Fracture line can be subtle; **fat pad sign** may be the main radiographic clue |
-| **II** | Angulated/displaced with **intact posterior cortical/periosteal hinge** | Some stable IIa fractures can be treated without pinning after reduction and specialist review |
+| **II** | Angulated/displaced with **intact posterior cortical/periosteal hinge** | Stability and rotation guide fixation decisions |
 | **III** | **Completely displaced**, with no cortical contact | Unstable; high risk of neurovascular injury or soft-tissue entrapment |
 
 *Note:* Complete loss of cortical contact in type III does **not** necessarily imply that every periosteal attachment is torn.
@@ -203,7 +203,7 @@ Assess **radial pulse, capillary refill, colour/temperature, and median/AIN, rad
 | Structure | Typical deficit / clinical test |
 |---|---|
 | **Anterior interosseous nerve (AIN)** — most characteristic nerve injury in extension-type fractures | Purely **motor** branch of median nerve; weakness of **FPL** and **index FDP** prevents a round **“OK” sign** (pad-to-pad instead of tip-to-tip pinch); **no sensory loss** |
-| **Median nerve (main trunk)** | Impaired median-innervated flexion/thenar function; sensory loss over **palmar radial 3½ digits** |
+| **Median nerve (main trunk)** | Impaired median-innervated forearm flexors and thenar opposition (established palsy may cause an **ape-thumb posture**); sensory loss over **palmar radial 3½ digits** |
 | **Radial nerve** | Weak wrist/finger extension (**wrist/finger drop**); sensory change at **first dorsal web space** |
 | **Ulnar nerve** — especially flexion-type injuries or **iatrogenic medial K-wire** injury | Weak finger abduction/adduction; sensory loss over the **little finger and ulnar half of ring finger** |
 
@@ -211,15 +211,10 @@ Assess **radial pulse, capillary refill, colour/temperature, and median/AIN, rad
 |---|---|
 | **Pink pulseless hand** | The hand is **warm and pink with maintained perfusion** but lacks a palpable radial pulse. Requires **urgent orthopaedic reduction and stabilization**, then repeat vascular assessment. The pulse may return; **persistent absence despite good perfusion needs close specialist observation and individualized vascular assessment**, not automatic dismissal or automatic exploration. |
 | **Pale/cold pulseless hand** | **Threatened limb perfusion**: urgent reduction/fixation and reassessment; **persistent ischemia after reduction warrants immediate vascular exploration**. |
-| **Acute compartment syndrome** | Increasing pain, especially **pain with passive finger stretch**, disproportionate analgesic needs, and a tense forearm are warning signs; pulses may remain present. Compartment pressures (e.g., **absolute >30 mmHg** or **delta pressure ≤30 mmHg**) can aid an uncertain diagnosis but do **not** replace clinical assessment. **Emergent fasciotomy** is required when suspected/confirmed; do not delay for an arbitrary time cutoff. |
+| **Acute compartment syndrome** | Increasing pain, especially **pain with passive finger stretch**, disproportionate analgesic needs, and a tense forearm are warning signs; pulses may remain present. Compartment pressures (normally around **0–10 mmHg**; concerning values include **absolute >30 mmHg** or **delta pressure ≤30 mmHg**) can aid an uncertain diagnosis but do **not** replace clinical assessment. **Emergent fasciotomy** is required when suspected/confirmed; do not delay for an arbitrary time cutoff. |
 | **Volkmann's ischemic contracture (VIC)** | Untreated ischemia/compartment syndrome causes **flexor muscle necrosis and fibrosis** (especially FPL/FDP), resulting in fixed wrist and finger flexion deformity. |
 | **Cubitus varus (“gunstock deformity”)** | **Most common late mechanical complication**, from malunion with varus tilt/medial rotation. Carrying angle becomes abnormal; **elbow motion is often preserved**. Symptomatic or significant deformity may be corrected by **French/Modified King closing-wedge osteotomy**. |
-| **Myositis ossificans / heterotopic ossification** | Can occur around the elbow, including the **brachialis**, after trauma or repeated forceful manipulation. Avoid **vigorous massage/passive stretching**; manage conservatively initially, with specialist review if persistent functional limitation. |
-
-| “OK” sign | Thumb and index position | Relevant muscles |
-|---|---|---|
-| **Normal** | Tip-to-tip circle | FPL + index FDP function intact |
-| **AIN palsy** | Pad-to-pad pinch; weak thumb IP/index DIP flexion | FPL + index FDP weakness |
+| **Myositis ossificans / heterotopic ossification** | Can occur around the elbow, including the **brachialis**, after trauma or repeated forceful manipulation. Avoid **vigorous massage/passive stretching**; manage initially with rest/protection and appropriate analgesia (including NSAIDs when suitable), with specialist review for persistent functional limitation. |
 
 #### Management
 
