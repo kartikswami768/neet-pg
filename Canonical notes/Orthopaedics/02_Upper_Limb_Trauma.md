@@ -13,7 +13,9 @@ chapter: 2
 - It is the first bone in the human body to begin ossification (5th–6th week in utero via intramembranous ossification) and the last to complete fusion (sternal epiphysis fuses at age 21–25).
 
 ### Fracture Biomechanics & Deformity
-Clavicle fractures occur predominantly from a direct blow to the shoulder (85%) or a fall on an outstretched hand (FOOSH).
+- **Mechanism of injury:**
+  - **Direct blow to the shoulder:** approximately 85%.
+  - **Fall on an outstretched hand (FOOSH):** another mechanism.
 
 ```mermaid
 flowchart TD
@@ -41,7 +43,9 @@ flowchart TD
 
 ## 2. Shoulder Dislocations & Proximal Humerus Trauma
 
-The glenohumeral joint is a multiaxial ball-and-socket joint designed for maximal mobility at the expense of intrinsic bony stability. The shallow glenoid cavity articulates with less than one-third of the larger humeral head surface.
+- **Joint:** Multiaxial ball-and-socket glenohumeral articulation.
+- **Stability:** Designed for maximal mobility at the expense of intrinsic bony stability.
+- **Articular congruity:** The shallow glenoid contacts **less than one-third** of the much larger humeral-head surface.
 
 ### Anterior Glenohumeral Dislocation (95% of Shoulder Dislocations)
 
@@ -49,7 +53,8 @@ The glenohumeral joint is a multiaxial ball-and-socket joint designed for maxima
 
 *Bankart versus Hill–Sachs lesions — schematic.*
 
-Anterior dislocation is the most common joint dislocation in the body, resulting from a fall on an **abducted, externally rotated, and extended arm**.
+- **Frequency:** Anterior shoulder dislocation is the most common joint dislocation in the body.
+- **Mechanism:** Fall on an **abducted, externally rotated, extended arm**.
 
 | Category | High-yield findings |
 |---|---|
@@ -89,7 +94,8 @@ Anterior dislocation is the most common joint dislocation in the body, resulting
 4. **Milch Technique**: Abduction and external rotation with direct overhead elevation.
 
 ### Posterior Glenohumeral Dislocation
-Account for 2–4% of shoulder dislocations. Frequently missed on initial anteroposterior radiographs.
+- **Frequency:** Approximately **2–4%** of shoulder dislocations.
+- **Diagnostic pitfall:** Frequently missed on the initial AP radiograph.
 
 * **Etiology & Mechanism**: High-energy muscular contractions induced by **electric shock**, **grand mal epileptic seizures**, or electroconvulsive therapy (ECT), or direct blow to anterior shoulder.
 * **Attitude of Limb**: Arm fixed in **adduction and internal rotation**; external rotation is completely blocked.
@@ -109,7 +115,12 @@ Account for 2–4% of shoulder dislocations. Frequently missed on initial antero
 
 *Neer proximal humeral fracture grouping — schematic.*
 
-Proximal humerus fractures are evaluated using **Neer's 4-Part Classification**, which divides the proximal humerus into 4 anatomical segments: (1) Humeral head, (2) Greater tuberosity, (3) Lesser tuberosity, and (4) Humeral shaft.
+- **Classification:** **Neer's four-part system**.
+- **Four anatomical segments:**
+  1. Humeral head.
+  2. Greater tuberosity.
+  3. Lesser tuberosity.
+  4. Humeral shaft.
 
 * **Neer's Definition of Displacement**: A segment is considered a distinct "part" **only if displaced $>1\text{ cm}$** or **angled $>45^\circ$**.
 * **Clinical Significance**:
@@ -120,7 +131,8 @@ Proximal humerus fractures are evaluated using **Neer's 4-Part Classification**,
 
 ## 3. Humeral Shaft Fractures, Spiral Groove Mechanics & Radial Nerve Palsy
 
-Humeral shaft fractures occur between the surgical neck proximally and the supracondylar ridge distally, accounting for 3% of all fractures.
+- **Anatomical boundaries:** From the **surgical neck** to the **supracondylar ridge**.
+- **Frequency:** Approximately **3%** of all fractures.
 
 ### Radial Nerve Vulnerability & Fracture Geometry
 
@@ -128,7 +140,9 @@ Humeral shaft fractures occur between the surgical neck proximally and the supra
 
 *Humerus and vulnerable radial-nerve region — schematic.*
 
-The **Radial Nerve ($C_5-T_1$)** is intimately associated with the humerus as it courses through the posterior **spiral groove (radial groove)** alongside the profunda brachii artery.
+- **Nerve at risk:** **Radial nerve** ($C_5$–$T_1$).
+- **Course:** Travels in the **posterior spiral (radial) groove** of the humerus.
+- **Associated vessel:** **Profunda brachii artery**.
 
 - **Spiral groove / distal-third junction:** the radial nerve passes through the lateral intermuscular septum; its relative fixation increases traction or entrapment vulnerability.
 - **Holstein–Lewis fracture:** spiral distal-third humeral-shaft fracture; classically associated with radial-nerve palsy (source cites ~22%).
@@ -165,7 +179,10 @@ The **Radial Nerve ($C_5-T_1$)** is intimately associated with the humerus as it
 
 *Visual reference: Marked radiograph illustrating a supracondylar humeral fracture. [Original image and attribution](https://commons.wikimedia.org/wiki/File:SupracondylarfracMark.png). Online image; internet required.*
 
-The **most common elbow fracture in children** (peak age **5–8 years**) is an **extra-articular distal humeral metaphyseal fracture** just proximal to the epicondyles and trochlea/capitellum, often described as a Salter–Harris Type I/II equivalent. Displaced injuries are particularly important because of possible **acute neurovascular compromise and compartment syndrome**.
+- **Frequency:** Most common elbow fracture in children; particularly **5–8 years**.
+- **Site:** Extra-articular fracture of the **distal humeral metaphysis**, proximal to the epicondyles and trochlea/capitellum.
+- **Growth-plate analogy:** Sometimes described as a **Salter–Harris type I/II equivalent**.
+- **Clinical importance:** Displaced fractures may cause **neurovascular injury** or **acute compartment syndrome**.
 
 - **Three-point bony relationship:** The elbow landmark relationship described above is **preserved** in isolated supracondylar fractures because the fracture lies proximal to those points; it is disrupted in elbow dislocation and may be altered in condylar, olecranon, or intercondylar injuries.
 
@@ -181,7 +198,7 @@ The **most common elbow fracture in children** (peak age **5–8 years**) is an 
 	* Gartland Type I treated in an above-elbow plaster slab; 
 	* Gartland Type II and III managed with urgent **Closed Reduction and Percutaneous K-Wire Fixation (CRPP)**. 
 	* **[[01_Basics_and_Fracture_Healing#Splints, Braces, Tractions & Casts|Dunlop's Traction]]** is used when surgery is delayed.
-**Gartland classification (extension-type fractures):**
+##### Gartland Classification (Extension Type)
 
 | Type | Displacement / stability | Important clue |
 |---|---|---|
@@ -189,11 +206,12 @@ The **most common elbow fracture in children** (peak age **5–8 years**) is an 
 | **II** | Angulated/displaced with **intact posterior cortical/periosteal hinge** | Stability and rotation guide fixation decisions |
 | **III** | **Completely displaced**, with no cortical contact | Unstable; high risk of neurovascular injury or soft-tissue entrapment |
 
-*Note:* Complete loss of cortical contact in type III does **not** necessarily imply that every periosteal attachment is torn.
+- **Important exception:** In a type III fracture, complete loss of cortical contact does **not** prove every periosteal attachment has torn.
 
 #### Radiological Assessment
 
-Obtain **AP and true lateral elbow radiographs**; interpret alignment as well as the fracture line.
+- **Views:** **AP and true lateral elbow radiographs**.
+- **Interpretation:** Assess **alignment** as well as the fracture line.
 
 - **Anterior humeral line (true lateral):** Extend the anterior cortex of the distal humeral shaft. Normally it crosses the **middle third of the capitellum** (in very young children, it can pass more anteriorly). In an **extension-type** fracture, posterior displacement of the capitellum makes the line pass **anterior to the middle third** or miss the capitellum.
 - **Baumann's angle (AP):** The angle between the **humeral shaft axis** and the **lateral condylar/capitellar physeal line** is approximately **70–75°** (normal values vary with age and technique). Used under **C-arm fluoroscopy** to judge coronal alignment and avoid **varus malunion**. **Do not confuse** this with the complementary angle measured against a line *perpendicular* to the humeral shaft.
@@ -202,7 +220,16 @@ Obtain **AP and true lateral elbow radiographs**; interpret alignment as well as
 
 #### Neurovascular Examination & Complications
 
-Assess **radial pulse, capillary refill, colour/temperature, and median/AIN, radial, and ulnar nerve function** before and after reduction. The **brachial artery** is the principal vessel at risk (compression, spasm, entrapment, or laceration against the anterior bony spike).
+- **Vascular examination (before and after reduction):**
+  - Radial pulse.
+  - Capillary refill.
+  - Colour and temperature of the hand.
+- **Neurological examination (before and after reduction):**
+  - Median nerve / anterior interosseous nerve (AIN).
+  - Radial nerve.
+  - Ulnar nerve.
+- **Principal vessel at risk:** **Brachial artery**.
+  - Mechanisms: Compression, vasospasm, entrapment, or laceration against the anterior bony spike.
 
 | Structure | Typical deficit / clinical test |
 |---|---|
@@ -229,13 +256,20 @@ Assess **radial pulse, capillary refill, colour/temperature, and median/AIN, rad
 5. **Pin placement:** **Two or more lateral-entry K-wires** are commonly preferred to limit **iatrogenic ulnar nerve injury** from medial pins; crossed pins may be used when required for stability with appropriate nerve protection. Recheck distal perfusion, pulse, and nerve function following fixation.
 
 ### Lateral Condyle Fracture of the Humerus
-Second most common elbow fracture in children (ages 6–10 years). An **intra-articular Salter-Harris Type IV fracture** caused by varus pull of extensor muscles or axial load through the radial head.
+- **Frequency:** Second most common elbow fracture in children; typical age **6–10 years**.
+- **Fracture pattern:** **Intra-articular Salter–Harris type IV**.
+- **Mechanism:** Varus traction of extensor muscles or axial force transmitted by the radial head.
 
 * **"Fracture of Necessity"**: Requires precise anatomical reduction and internal fixation (K-wires/screws) because it is intra-articular and bathed in synovial fluid (which contains fibrinolytic enzymes that inhibit callus formation).
 * **Complications**: Non-union (most common complication), **Cubitus Valgus Deformity**, leading years later to stretching and **Tardy Ulnar Nerve Palsy**.
 
 ### Olecranon Fracture
-Intra-articular fracture of the proximal ulna disrupting the triceps extensor mechanism. Displaced fractures cannot heal conservatively due to proximal traction by the triceps muscle. Treated surgically with **Tension Band Wiring (TBW)** utilizing two parallel K-wires and a figure-of-8 stainless steel wire loop to convert tensile triceps pull into compressive force across the articular fracture surface.
+- **Site:** **Intra-articular fracture** of the proximal ulna (olecranon).
+- **Biomechanics:** Disrupts the **triceps extensor mechanism**.
+  - Displaced fragments are pulled apart proximally by the triceps.
+- **Treatment of displaced fractures:** **Tension-band wiring (TBW)**.
+  - Two parallel K-wires plus a **figure-of-eight wire**.
+  - Converts tensile pull of the triceps into **compression at the fracture site**.
 
 ### Elbow Dislocation & The Terrible Triad
 * **Elbow Dislocation**: Most common joint dislocation in children and 2nd most common in adults. **Posterior dislocation** is most common ($90\%$). Disruption alters the normal equilateral three-point bony triangle relationship. Associated with ulnar nerve injury.
@@ -245,7 +279,8 @@ Intra-articular fracture of the proximal ulna disrupting the triceps extensor me
   3. Coronoid Process Fracture of Ulna.
 
 ### Pulled Elbow (Nursemaid's Elbow)
-A common subluxation injury in young children (ages 1–4 years).
+- **Typical patient:** Child aged **1–4 years**.
+- **Injury:** Subluxation of the radial head / annular ligament complex.
 * **Pathophysiology**: Sudden longitudinal traction applied to an extended, pronated forearm (e.g., pulling a child up by the wrist). The immature, small radial head slips distally beneath the **Annular Ligament**, trapping the ligament within the radiohumeral joint.
 * **Clinical Presentation**: Child holds the arm extended and pronated against the body, crying upon any attempt at supination, with no focal swelling or deformity.
 * **Reduction Technique**: Gentle axial pressure on radial head followed by **supination and full flexion** of the elbow (or hyperpronation), producing a tactile "pop" as the annular ligament slides back into position.
@@ -278,9 +313,12 @@ A common subluxation injury in young children (ages 1–4 years).
 
 *Colles versus Smith displacement — schematic.*
 
-Extra-articular fracture of the **distal radius metaphysis** ($2-3\text{ cm}$ proximal to radiocarpal joint) with characteristic displacement, occurring predominantly in postmenopausal osteoporotic women following a **fall on an outstretched hand (FOOSH)** with the wrist in extension.
+- **Site:** Extra-articular fracture of the **distal radius metaphysis**, approximately $2–3\text{ cm}$ proximal to the radiocarpal joint.
+- **Typical patient:** Postmenopausal woman with osteoporosis.
+- **Mechanism:** **FOOSH** with the wrist extended.
+- **Hallmark:** Characteristic dorsal displacement and angulation of the distal fragment.
 
-**Colles displacement components:**
+#### Classic Colles Displacement Components
 - Dorsal displacement (translation)
 - Dorsal tilt (angulation)
 - Radial displacement (translation)
@@ -307,16 +345,25 @@ Extra-articular fracture of the **distal radius metaphysis** ($2-3\text{ cm}$ pr
 * **Complications**: Malunion (most common), Sudeck's Osteodystrophy (Complex Regional Pain Syndrome type I), Carpal Tunnel Syndrome (median nerve compression), and delayed rupture of the **Extensor Pollicis Longus (EPL)** tendon due to ischemia/attrition over Lister's tubercle.
 
 ### Smith's Fracture (Reverse Colles')
-Extra-articular distal radius metaphyseal fracture caused by a **fall on the flexed wrist**. The distal fragment is displaced **volarly (anteriorly)** and angled volarly, producing a **"Garden Spade Deformity"**.
+- **Site:** Extra-articular fracture of the distal radial metaphysis.
+- **Mechanism:** Fall on a **flexed wrist**.
+- **Displacement:** Distal fragment moves **volarly/anteriorly** with volar angulation.
+- **Classic appearance:** **Garden-spade deformity**.
 
 ### Barton's Fracture
-An **intra-articular fracture-dislocation of the radiocarpal joint** with a subluxed carpus carrying the intra-articular distal radius articular fragment. Classified as *Dorsal Barton's* or *Volar Barton's* (more common). Requires ORIF with a volar buttress plate.
+- **Nature:** **Intra-articular radiocarpal fracture-dislocation**.
+- **Mechanism:** Subluxed carpus remains attached to the displaced distal radial articular fragment.
+- **Variants:** **Dorsal Barton** and **volar Barton** (more common).
+- **Treatment:** **ORIF**, typically with a volar buttress plate when indicated.
 
 ---
 
 ## 6. Hand & Carpal Trauma
 
-The carpus consists of 8 carpal bones arranged in proximal and distal rows (*"So Long To Pinky, Here Comes The Thumb"*: Scaphoid, Lunate, Triquetrum, Pisiform, Trapezium, Trapezoid, Capitate, Hamate).
+- **Number:** **8 carpal bones**, in proximal and distal rows.
+- **Proximal row:** Scaphoid, lunate, triquetrum, pisiform.
+- **Distal row:** Trapezium, trapezoid, capitate, hamate.
+- **Mnemonic:** *“So Long To Pinky, Here Comes The Thumb.”*
 
 | Injury | Recall cue |
 |---|---|
@@ -332,7 +379,9 @@ The carpus consists of 8 carpal bones arranged in proximal and distal rows (*"So
 ![Published classification illustration of scaphoid fracture location. ](https://commons.wikimedia.org/wiki/Special:FilePath/Scaphoid%20fracture%20classification.jpg)
 
 *Visual reference: Published classification illustration of scaphoid fracture location. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Scaphoid_fracture_classification.jpg). Online image; internet required.*
-The scaphoid is the **most commonly fractured carpal bone** (70–80% of all carpal fractures), resulting from a FOOSH in young adults.
+- **Frequency:** **Most commonly fractured carpal bone**, accounting for approximately **70–80%** of carpal fractures.
+- **Mechanism:** **FOOSH**.
+- **Typical patient:** Young adult.
 
 * **Clinical Diagnosis**: Point tenderness in the **Anatomical Snuffbox** (bounded medially by Extensor Pollicis Longus, laterally by Abductor Pollicis Longus and Extensor Pollicis Brevis), pain on axial loading of the thumb, and scaphoid tubercle tenderness.
 * **Blood Supply & Vulnerability**: Blood supply enters via the distal pole from retrograde branches of the **Radial Artery**.
@@ -352,7 +401,8 @@ flowchart TD
 * **Scapholunate Dissociation**: Disruption of scapholunate interosseous ligament. Plain AP X-ray demonstrates the **"Terry Thomas Sign"**—widening of the scapholunate interosseous space $>3\text{ mm}$ (resembling the gap between the comedian's front teeth).
 
 ### Bennett's Fracture-Dislocation
-An **intra-articular fracture-dislocation at the base of the first metacarpal** (carpometacarpal joint of thumb).
+- **Site:** Base of the **first metacarpal** (thumb carpometacarpal joint).
+- **Nature:** **Intra-articular fracture-dislocation**.
 
 * **Mechanism & Displacement**: A small volar-medial lip fragment remains anchored to the trapezium by the strong anterior oblique ligament, while the main metacarpal shaft fragment is displaced **dorsally, proximally, and radially** by the dynamic muscle pull of the **Abductor Pollicis Longus (APL)** tendon.
 * **Management**: Unstable fracture requiring Closed Reduction and Percutaneous K-wire Fixation or Open Reduction.
@@ -363,16 +413,26 @@ An **intra-articular fracture-dislocation at the base of the first metacarpal** 
 | Main 1st metacarpal shaft | Displaced dorsally and proximally by **abductor pollicis longus** |
 
 ### Rolando's Fracture
-A comminuted, T- or Y-shaped **intra-articular fracture at the base of the first metacarpal**. Carries a worse prognosis than Bennett's fracture and requires operative reconstruction.
+- **Site:** Intra-articular **base of the first metacarpal**.
+- **Pattern:** Comminuted **T- or Y-shaped** fracture.
+- **Prognosis:** Worse than Bennett fracture.
+- **Management:** Usually requires operative reconstruction.
 
 ### Boxer's Fracture
-Transverse fracture through the **neck of the fifth metacarpal**, typically caused by a direct closed-fist impact against a hard object. Characterized by volar angulation of the metacarpal head and loss of prominent knuckle contour.
+- **Site:** Transverse fracture through the **neck of the fifth metacarpal**.
+- **Mechanism:** Closed-fist punch against a hard object.
+- **Displacement:** **Volar angulation** of the metacarpal head.
+- **Appearance:** Loss of normal fifth-knuckle prominence.
 
 ### Gamekeeper's / Skier's Thumb
-Hyper-abduction trauma to the thumb MCP joint causing acute or chronic rupture of the **Ulnar Collateral Ligament (UCL)**. May be associated with a **Stener Lesion** (interposition of the adductor aponeurosis between the severed UCL and its insertion site, preventing spontaneous healing and requiring operative repair).
+- **Mechanism:** Hyperabduction of the thumb MCP joint.
+- **Injury:** Acute or chronic rupture of the **ulnar collateral ligament (UCL)**.
+- **Stener lesion:** **Adductor aponeurosis** becomes interposed between the torn UCL and its insertion.
+  - **Importance:** Prevents spontaneous ligament healing; generally requires operative repair.
 
 ### Mallet Finger (Baseball Finger)
-Epitomized by an involuntary **flexion deformity at the Distal Interphalangeal (DIP) Joint** with inability to actively extend the DIP joint.
+- **Deformity:** Unopposed **flexion at the DIP joint**.
+- **Functional deficit:** Inability to **actively extend the DIP**.
 
 * **Pathophysiology**: Forced sudden hyperflexion applied to an actively extended DIP joint (e.g., baseball striking the fingertip), causing avulsion or rupture of the **Extensor Digitorum Communis (EDC)** tendon insertion at the dorsal base of the distal phalanx.
 * **Management**: Continuous immobilization of the DIP joint in slight hyperextension using a **Mallet / Stax Splint** for 6–8 weeks.
