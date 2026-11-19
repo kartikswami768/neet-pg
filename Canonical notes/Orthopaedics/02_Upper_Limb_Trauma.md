@@ -207,7 +207,8 @@ flowchart TD
 | First dorsal web-space sensation | May be reduced | Preserved (PIN is motor) |
 
 * **Management of associated radial nerve palsy:**
-  * **Natural history:** Most primary palsies accompanying **closed** shaft fractures are neuropraxias and often recover spontaneously over weeks (commonly **8–12 weeks**, sometimes longer).
+  * **Natural history:** Most primary palsies with **closed** humeral-shaft fractures are **neuropraxias**.
+    - Recovery is often spontaneous over weeks (commonly **8–12 weeks**, sometimes longer).
   * **Fracture support:** Functional bracing or coaptation splint where appropriate.
   * **Wrist support:** **Cock-up splint** to preserve wrist extension and prevent flexion contracture.
   * **Consider surgical exploration:** Open fractures, failed closed reduction / suspected entrapment, or new palsy following manipulation.
