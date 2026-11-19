@@ -161,48 +161,72 @@ The **Radial Nerve ($C_5-T_1$)** is intimately associated with the humerus as it
 
 ### Supracondylar Fracture of the Humerus
 
-
 ![Marked radiograph illustrating a supracondylar humeral fracture. ](https://commons.wikimedia.org/wiki/Special:FilePath/SupracondylarfracMark.png)
 
 *Visual reference: Marked radiograph illustrating a supracondylar humeral fracture. [Original image and attribution](https://commons.wikimedia.org/wiki/File:SupracondylarfracMark.png). Online image; internet required.*
-- The most common elbow fracture in children (peak age 5–8 years). 
-- Extra-articular fracture through the thin bone of the olecranon fossa (Salter-Harris Type I/II equivalent).
 
-| Feature                 | Extension type (~95%)                                                                | Flexion type (~5%)                      |
-| ----------------------- | ------------------------------------------------------------------------------------ | --------------------------------------- |
-| Mechanism               | Fall on outstretched hand                                                            | Impact to flexed elbow                  |
-| Distal fragment         | **Posterior** displacement                                                           | **Anterior** displacement               |
-| Important complications | AIN injury, brachial artery compromise, Volkmann ischemic contracture, cubitus varus | Neurovascular injury (assess carefully) |
+The **most common elbow fracture in children** (peak age **5–8 years**) is an **extra-articular distal humeral metaphyseal fracture** just proximal to the epicondyles and trochlea/capitellum, often described as a Salter–Harris Type I/II equivalent. Displaced injuries are particularly important because of possible **acute neurovascular compromise and compartment syndrome**.
+
+- **Three-point bony relationship:** The elbow landmark relationship described above is **preserved** in isolated supracondylar fractures because the fracture lies proximal to those points; it is disrupted in elbow dislocation and may be altered in condylar, olecranon, or intercondylar injuries.
 
 #### Classification & Mechanisms
-* **Extension Type (95%)**: Fall on an outstretched hand with elbow hyperextended. The **distal fracture fragment is displaced posteriorly** and proximally. Classified by **Gartland's System**:
-  * *Type I*: Undisplaced.
-  * *Type II*: Displaced with intact posterior cortex hinged.
-  * *Type III*: Completely displaced with no cortical contact.
-* **Flexion Type (5%)**: Direct impact to a flexed elbow; distal fragment displaced **anteriorly**.
 
-#### Pathognomonic Complications
-1. **Anterior Interosseous Nerve (AIN) Injury**: 
-	1. Most common nerve injured in extension-type supracondylar fractures (AIN is a motor branch of the Median Nerve). 
-	2. Paralyzes the **Flexor Pollicis Longus (FPL)** and **Flexor Digitorum Profundus (FDP) of index finger**, resulting in the **Inability to form an "OK" Sign** (pincer pinch fails; thumb and index finger touch with flattened pads instead of tips). 
-	3. *Note: Radial nerve is 2nd most common; Ulnar nerve is most common in flexion-type fractures.*
-2. **Brachial Artery Injury & Volkmann's Ischemic Contracture (VIC)**: 
-	1. Compression, spasm, or transection of the brachial artery at the anterior fracture ridge causes acute forearm compartment syndrome. 
-	2. If uncorrected, leads to muscle necrosis and fibrotic contracture of deep flexors (FPL, FDP), producing **Volkmann's Ischemic Contracture (VIC)**—fixed flexion deformity of wrist and IP joints with MCP hyperextension.
-3. **Gunstock Deformity (Cubitus Varus)**: 
-	1. Most common late mechanical complication, resulting from malunion of the distal fragment in medial rotation and varus tilt. 
-	2. Does not restrict range of motion but causes cosmetic deformity. 
-	3. Corrected via **French / Modified King Closing-Wedge Osteotomy**.
-
-| Test result | Thumb and index position | Relevant muscles |
+| Feature | Extension type (~95%) | Flexion type (~5%) |
 |---|---|---|
-| **Normal “OK” sign** | Tip-to-tip circle | Flexor pollicis longus + index FDP function intact |
-| **AIN palsy** | Pad-to-pad pinch; poor thumb IP / index DIP flexion | FPL + FDP (index) weakness |
+| Mechanism | **FOOSH** with elbow hyperextension | Direct blow/fall onto a **flexed elbow** |
+| Distal fragment | Displaced **posteriorly** (often proximally) | Displaced **anteriorly** |
+| Important anatomic risk | Sharp **anterior spike of the proximal fragment** projects into the cubital fossa, endangering the **brachial artery and median nerve/AIN** | **Ulnar nerve** injury is relatively characteristic |
 
 * **Management**: 
 	* Gartland Type I treated in an above-elbow plaster slab; 
 	* Gartland Type II and III managed with urgent **Closed Reduction and Percutaneous K-Wire Fixation (CRPP)**. 
 	* **[[01_Basics_and_Fracture_Healing#Splints, Braces, Tractions & Casts|Dunlop's Traction]]** is used when surgery is delayed.
+**Gartland classification (extension-type fractures):**
+
+| Type | Displacement / stability | Important clue |
+|---|---|---|
+| **I** | Undisplaced; cortical continuity maintained | Fracture line can be subtle; **fat pad sign** may be the main radiographic clue |
+| **II** | Angulated/displaced with **intact posterior cortical/periosteal hinge** | Stability and rotation guide fixation decisions |
+| **III** | **Completely displaced**, with no cortical contact | Unstable; high risk of neurovascular injury or soft-tissue entrapment |
+
+*Note:* Complete loss of cortical contact in type III does **not** necessarily imply that every periosteal attachment is torn.
+
+#### Radiological Assessment
+
+Obtain **AP and true lateral elbow radiographs**; interpret alignment as well as the fracture line.
+
+- **Anterior humeral line (true lateral):** Extend the anterior cortex of the distal humeral shaft. Normally it crosses the **middle third of the capitellum** (in very young children, it can pass more anteriorly). In an **extension-type** fracture, posterior displacement of the capitellum makes the line pass **anterior to the middle third** or miss the capitellum.
+- **Baumann's angle (AP):** The angle between the **humeral shaft axis** and the **lateral condylar/capitellar physeal line** is approximately **70–75°** (normal values vary with age and technique). Used under **C-arm fluoroscopy** to judge coronal alignment and avoid **varus malunion**. **Do not confuse** this with the complementary angle measured against a line *perpendicular* to the humeral shaft.
+- **Anterior fat pad / “sail sign”:** Elevation of the normally small anterior fat pad into a triangular lucency suggests **elbow joint effusion/hemarthrosis** and a possible occult fracture.
+- **Visible posterior fat pad:** Normally hidden within the olecranon fossa; its appearance on a correctly positioned lateral film is **abnormal** and strongly suggests an occult intra-articular injury/effusion, even when a fracture line is not visible.
+
+#### Neurovascular Examination & Complications
+
+Assess **radial pulse, capillary refill, colour/temperature, and median/AIN, radial, and ulnar nerve function** before and after reduction. The **brachial artery** is the principal vessel at risk (compression, spasm, entrapment, or laceration against the anterior bony spike).
+
+| Structure | Typical deficit / clinical test |
+|---|---|
+| **Anterior interosseous nerve (AIN)** — most characteristic nerve injury in extension-type fractures | Purely **motor** branch of median nerve; weakness of **FPL** and **index FDP** prevents a round **“OK” sign** (pad-to-pad instead of tip-to-tip pinch); **no sensory loss** |
+| **Median nerve (main trunk)** | Impaired median-innervated forearm flexors and thenar opposition (established palsy may cause an **ape-thumb posture**); sensory loss over **palmar radial 3½ digits** |
+| **Radial nerve** | Weak wrist/finger extension (**wrist/finger drop**); sensory change at **first dorsal web space** |
+| **Ulnar nerve** — especially flexion-type injuries or **iatrogenic medial K-wire** injury | Weak finger abduction/adduction; sensory loss over the **little finger and ulnar half of ring finger** |
+
+| Complication | Mechanism, features, and management |
+|---|---|
+| **Pink pulseless hand** | The hand is **warm and pink with maintained perfusion** but lacks a palpable radial pulse. Requires **urgent orthopaedic reduction and stabilization**, then repeat vascular assessment. The pulse may return; **persistent absence despite good perfusion needs close specialist observation and individualized vascular assessment**, not automatic dismissal or automatic exploration. |
+| **Pale/cold pulseless hand** | **Threatened limb perfusion**: urgent reduction/fixation and reassessment; **persistent ischemia after reduction warrants immediate vascular exploration**. |
+| **Acute compartment syndrome** | Increasing pain, especially **pain with passive finger stretch**, disproportionate analgesic needs, and a tense forearm are warning signs; pulses may remain present. Compartment pressures (normally around **0–10 mmHg**; concerning values include **absolute >30 mmHg** or **delta pressure ≤30 mmHg**) can aid an uncertain diagnosis but do **not** replace clinical assessment. **Emergent fasciotomy** is required when suspected/confirmed; do not delay for an arbitrary time cutoff. |
+| **Volkmann's ischemic contracture (VIC)** | Untreated ischemia/compartment syndrome causes **flexor muscle necrosis and fibrosis** (especially FPL/FDP), resulting in fixed wrist and finger flexion deformity. |
+| **Cubitus varus (“gunstock deformity”)** | **Most common late mechanical complication**, from malunion with varus tilt/medial rotation. Carrying angle becomes abnormal; **elbow motion is often preserved**. Symptomatic or significant deformity may be corrected by **French/Modified King closing-wedge osteotomy**. |
+| **Myositis ossificans / heterotopic ossification** | Can occur around the elbow, including the **brachialis**, after trauma or repeated forceful manipulation. Avoid **vigorous massage/passive stretching**; manage initially with rest/protection and appropriate analgesia (including NSAIDs when suitable), with specialist review for persistent functional limitation. |
+
+#### Management
+
+1. **Initial stabilization:** Document repeated neurovascular examinations, provide analgesia, and immobilize with a **well-padded posterior above-elbow slab in a safe position of comfort**; avoid excessive elbow flexion when swelling or vascular compromise is present. **Dunlop's traction** is a historical/selected temporizing option when definitive treatment is delayed, not routine first-line care.
+2. **Gartland I (undisplaced):** **Above-elbow posterior slab/cast**, generally around **80–90° of flexion** if vascular status and swelling permit, for approximately **3–4 weeks**. Avoid forced flexion beyond $90^\circ$.
+3. **Gartland II (displaced but posterior hinge intact):** **Reduction**, with **CRPP** for unstable, rotated, or inadequately aligned fractures. Selected stable **IIa** fractures may be casted with close orthopaedic follow-up and radiographs.
+4. **Gartland III (completely displaced), and unstable flexion-type fractures:** Generally require **closed reduction and percutaneous K-wire fixation (CRPP)** under **C-arm fluoroscopy**; open reduction if an adequate closed reduction is not achievable or there is irreducible/entrapped neurovascular tissue.
+5. **Pin placement:** **Two or more lateral-entry K-wires** are commonly preferred to limit **iatrogenic ulnar nerve injury** from medial pins; crossed pins may be used when required for stability with appropriate nerve protection. Recheck distal perfusion, pulse, and nerve function following fixation.
 
 ### Lateral Condyle Fracture of the Humerus
 Second most common elbow fracture in children (ages 6–10 years). An **intra-articular Salter-Harris Type IV fracture** caused by varus pull of extensor muscles or axial load through the radial head.
