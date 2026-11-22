@@ -211,8 +211,16 @@ Lumbar canal stenosis involves narrowing of the central spinal canal, lateral re
 ![Cobb-angle measurement for scoliosis on a spine diagram. ](https://commons.wikimedia.org/wiki/Special:FilePath/Scoliosis%20cobb.svg)
 
 *Visual reference: Cobb-angle measurement for scoliosis on a spine diagram. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Scoliosis_cobb.svg). Online image; internet required.*
-Scoliosis is defined as a three-dimensional spinal curvature featuring a lateral curvature $>10^\circ$ on a standing AP radiograph.
+Scoliosis is defined as a **three-dimensional spinal curvature** featuring a **lateral curvature $>10^\circ$** on a standing AP radiograph.
 
-* **Cobb's Angle**: Measured by drawing perpendicular lines from the top endplate of the most tilted superior end-vertebra and the bottom endplate of the most tilted inferior end-vertebra.
-* **Adam's Forward Bending Test**: Asymmetry of the rib cage or lumbar spine (**rib hump**) during forward flexion demonstrates rotational vertebral deformity.
-* **Risser Classification**: Evaluates skeletal maturity by measuring ossification progression across the iliac apophysis (Risser 0 = no ossification; Risser 5 = complete apophyseal fusion, signaling completion of skeletal growth).
+* **Cobb's Angle**: 
+	* Measured by drawing perpendicular lines from the top endplate of the most tilted superior end-vertebra and the bottom endplate of the most tilted inferior end-vertebra.
+* **Adam's Forward Bending Test**: 
+	* Asymmetry of the rib cage or lumbar spine (**rib hump**) during forward flexion **demonstrates rotational vertebral deformity.**
+	* it is used to diifferentiate between pathological and postural scoliosis
+	* if rotation deformity is there on flexion, it is postural.
+* **Risser Classification**: 
+	* Evaluates skeletal maturity by measuring ossification progression across the iliac apophysis 
+	* Risser 0 = no ossification; 
+	* Risser 5 = complete apophyseal fusion, signaling completion of skeletal growth
+	* Risser 5 → skeletal maturity → no further deterioration
