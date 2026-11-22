@@ -137,7 +137,9 @@ Diaphyseal bone tumors frequently involve the marrow cavity or cortical diaphysi
 ![Paediatric tibial radiograph illustrating Ewing sarcoma.](https://commons.wikimedia.org/wiki/Special:FilePath/Ewing%20sarcoma%20tibia%20child%20(cropped).jpg)
 
 *Visual reference: Paediatric tibial radiograph illustrating Ewing sarcoma. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Ewing_sarcoma_tibia_child_(cropped).jpg). Online image; internet required.*
-* **Pathophysiology**: Highly malignant neuroectodermal small round blue cell tumor arising from primitive neural crest cells.
+
+Full length. vs Localised periosteal reaction Osteomyelitis
+- **Pathophysiology**: Highly malignant neuroectodermal small round blue cell tumor arising from primitive neural crest cells.
 * **Cytogenetics**: Driven by characteristic chromosomal translocation **$t(11;22)(q24;q12)$**, generating the **EWS-FLI1** fusion oncogene.
 * **Demographics & Site**: Children and young adolescents (ages 5–15 years); located in the **diaphysis** of long bones (femur, tibia) and flat pelvic bones.
 * **Clinical Presentation**: Frequently mimics acute osteomyelitis, presenting with localized bone pain, fever, warmth, leukocytosis, and elevated ESR.
