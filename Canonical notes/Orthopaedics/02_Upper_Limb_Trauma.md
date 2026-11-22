@@ -480,6 +480,11 @@ flowchart TD
 ![[IMG_1396.png]]![[IMG_1398.png]]
 Ulna is not considered part of wrist.
 
+Three bones must align on latereal Xray 
+Capitate → Lunate → Radius
+
+![[IMG_1399.png]]
+
 | Injury | Recall cue |
 |---|---|
 | Scaphoid fracture | FOOSH; anatomical snuffbox tenderness |
