@@ -477,6 +477,8 @@ flowchart TD
 - **Proximal row:** Scaphoid, lunate, triquetrum, pisiform.
 - **Distal row:** Trapezium, trapezoid, capitate, hamate.
 - **Mnemonic:** *“So Long To Pinky, Here Comes The Thumb.”*
+![[IMG_1396.png]]
+Ulna is not considered part of wrist.
 
 | Injury | Recall cue |
 |---|---|
@@ -492,7 +494,8 @@ flowchart TD
 ![Published classification illustration of scaphoid fracture location. ](https://commons.wikimedia.org/wiki/Special:FilePath/Scaphoid%20fracture%20classification.jpg)
 
 *Visual reference: Published classification illustration of scaphoid fracture location. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Scaphoid_fracture_classification.jpg). Online image; internet required.*
-- **Frequency:** **Most commonly fractured carpal bone**, accounting for approximately **70–80%** of carpal fractures.
+- **Frequency:** ==**Most commonly fractured carpal bone**==, accounting for approximately **70–80%** of carpal fractures.
+> ==Most commonly **displaced** carpal bone is **Lunate**==
 - **Mechanism:** **FOOSH**.
 - **Typical patient:** Young adult.
 
@@ -514,11 +517,14 @@ flowchart TD
 
 * **Management & Radiography**:
   * **Radiography:** AP, lateral, and dedicated **scaphoid view** with approximately **20° ulnar deviation**.
-    - Early fractures may be **occult** on plain radiographs.
-    - High suspicion despite negative X-rays → **thumb-spica immobilization**, repeat films after about **2 weeks**, or obtain **early MRI**.
+    - Early fractures may be **occult** on plain radiographs. (X ray may not show fracture for upto 2 weeks)
+    - ==High suspicion despite negative X-rays → ==
+	    1. ==**thumb-spica immobilization**,== 
+	    2. ==repeat films after about **2 weeks**,== 
+	    3. ==or obtain **early MRI**.==
     - **MRI:** Highly sensitive for an occult scaphoid fracture.
   * **Definitive treatment:**
-    - **Undisplaced waist fracture:** Thumb-spica cast for approximately **8–12 weeks**.
+    - **Undisplaced ==waist== fracture:** ==Thumb-spica cast== for approximately **8–12 weeks**.
     - **Displaced/proximal-pole fracture:** Internal fixation with a headless compression (**Herbert**) screw when indicated.
 * **Scapholunate dissociation:**
   * Injury of the **scapholunate interosseous ligament**.
