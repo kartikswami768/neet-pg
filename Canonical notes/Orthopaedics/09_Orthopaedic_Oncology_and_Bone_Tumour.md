@@ -7,6 +7,8 @@ chapter: 9
 
 # Orthopaedics Chapter 09: Orthopaedic Oncology & Bone Tumours
 
+![[09_Orthopaedic_Oncology_and_Bone_Tumour 2026-11-22 11.00.00.excalidraw]]
+
 ## 1. Diagnostic Triad & Biomechanical Principles in Musculoskeletal Oncology
 
 - Musculoskeletal oncology requires a systematic diagnostic approach combining patient age, radiological appearance and lesion location, and histopathological evaluation.

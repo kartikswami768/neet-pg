@@ -536,6 +536,12 @@ flowchart TD
   * **AP X-ray:** Widened scapholunate gap **>3 mm**.
   * Classic eponym: **“Terry Thomas sign”** (resembling a prominent front-tooth gap).
 ![[IMG_1397.jpeg]]
+
+
+### Lunate and PeriLunate Dislocation
+
+![[IMG_1400.png]]
+
 ### Bennett's Fracture-Dislocation
 - **Site:** Base of the **first metacarpal** (thumb carpometacarpal joint).
 - **Nature:** **Intra-articular fracture-dislocation**.
