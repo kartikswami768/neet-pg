@@ -115,4 +115,3 @@ LGV, Dono
 Red for hepes
 
 ### 2. If vesicle was not present and bubo is not present
-Syphilis
