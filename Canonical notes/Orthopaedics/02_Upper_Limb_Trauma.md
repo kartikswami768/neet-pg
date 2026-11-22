@@ -477,7 +477,7 @@ flowchart TD
 - **Proximal row:** Scaphoid, lunate, triquetrum, pisiform.
 - **Distal row:** Trapezium, trapezoid, capitate, hamate.
 - **Mnemonic:** *“So Long To Pinky, Here Comes The Thumb.”*
-![[IMG_1396.png]]
+![[IMG_1396.png]]![[IMG_1398.png]]
 Ulna is not considered part of wrist.
 
 | Injury | Recall cue |
