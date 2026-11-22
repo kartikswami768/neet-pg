@@ -196,8 +196,12 @@ Lumbar canal stenosis involves narrowing of the central spinal canal, lateral re
 ![Radiographic example illustrating measurement of vertebral slip. ](https://commons.wikimedia.org/wiki/Special:FilePath/Spondylolisthesis%20measurement%20on%20X-ray.svg)
 
 *Visual reference: Radiographic example illustrating measurement of vertebral slip. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Spondylolisthesis_measurement_on_X-ray.svg). Online image; internet required.*
-* **Spondylolysis**: Defect or stress fracture in the **pars interarticularis** of the neural arch, most commonly affecting $L_5$ ($90\%$). Demonstrated on $45^\circ$ oblique lumbar radiographs as the **"Scotty Dog Sign"** with a collar or break across the dog's neck.
-* **Spondylolisthesis**: Anterior displacement (slipping) of a proximal vertebral body relative to the caudal adjacent vertebra. Classified as Isthmic (secondary to pars defect in young athletes) or Degenerative (in older adults at $L_4\text{--}L_5$).
+* **Spondylolysis**: 
+	* Defect or stress fracture in the **pars interarticularis** of the neural arch, most commonly affecting $L_5$ ($90\%$). 
+	* Demonstrated on $45^\circ$ oblique lumbar radiographs as the **"Scotty Dog Sign"** with a collar or break across the dog's neck.
+* **Spondylolisthesis**: 
+	* Anterior displacement (slipping) of a proximal vertebral body relative to the caudal adjacent vertebra. 
+	* Classified as Isthmic (secondary to pars defect in young athletes) or Degenerative (in older adults at $L_4\text{--}L_5$).
 * **Meyerding Classification** (Based on percentage slip of vertebral body width):
   - *Grade I*: $0\text{--}25\%$ slip.
   - *Grade II*: $25\text{--}50\%$ slip.
