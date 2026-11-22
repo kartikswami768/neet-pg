@@ -115,6 +115,7 @@ Diaphyseal bone tumors frequently involve the marrow cavity or cortical diaphysi
 * **Pathophysiology**: Congenital developmental defect where normal bone marrow is replaced by benign fibro-osseous tissue with disorganized immature woven bone trabeculae lacking osteoblastic rimming ("Chinese character" / "C-shaped" trabeculae).
 * **Radiological Features**: Intramedullary osteopenic lesion with a **ground-glass matrix** appearance. In the proximal femur, recurrent micro-fractures lead to a progressive varus deformity known as the **Shepherd's Crook Deformity**.
 * **McCune-Albright Syndrome**: Triad of **Polyostotic Fibrous Dysplasia**, **Café-au-lait skin macules** with irregular borders ("Coast of Maine"), and **Precocious Puberty** (endocrinopathy).
+![[IMG_1401.jpeg]]
 
 ---
 
