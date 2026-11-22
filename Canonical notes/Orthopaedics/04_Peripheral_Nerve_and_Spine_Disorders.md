@@ -199,6 +199,9 @@ Lumbar canal stenosis involves narrowing of the central spinal canal, lateral re
 * **Spondylolysis**: 
 	* Defect or stress fracture in the **pars interarticularis** of the neural arch, most commonly affecting $L_5$ ($90\%$). 
 	* Demonstrated on $45^\circ$ oblique lumbar radiographs as the **"Scotty Dog Sign"** with a collar or break across the dog's neck.
+
+![[IMG_1402.webp]]![[IMG_1403.jpeg]]![[IMG_1404.jpeg]]![[IMG_1405.jpeg]]
+
 * **Spondylolisthesis**: 
 	* Anterior displacement (slipping) of a proximal vertebral body relative to the caudal adjacent vertebra. 
 	* Classified as Isthmic (secondary to pars defect in young athletes) or Degenerative (in older adults at $L_4\text{--}L_5$).
