@@ -46,7 +46,7 @@ tags: [dermatology, photodermatology, porphyria, genodermatoses, xeroderma-pigme
 
 ```mermaid
 flowchart TD
-    A[Uroporphyrinogen III] -->|Uroporphyrinogen decarboxylase (UROD)| B[Coproporphyrinogen III]
+    A[Uroporphyrinogen III] -->|Uroporphyrinogen decarboxylase : UROD| B[Coproporphyrinogen III]
     B --> C[Downstream heme-biosynthesis intermediates]
     X[UROD deficiency in porphyria cutanea tarda] -. impairs .-> B
     X --> D[Accumulation of porphyrin precursors / porphyrins]

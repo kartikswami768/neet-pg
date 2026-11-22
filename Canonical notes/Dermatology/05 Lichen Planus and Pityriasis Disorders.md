@@ -46,12 +46,14 @@ Lichen planus is a chronic, autoimmune, cell-mediated inflammatory disorder affe
 - **Scalp LP (Lichen Planopilaris)**: Follicular hyperkeratotic papules resulting in **cicatricial (scarring) alopecia**.
 
 ### 5. Histopathology of Lichen Planus
-- **Stratum Corneum**: Hyperkeratosis without parakeratosis (**orthokeratosis**).
-- **Stratum Granulosum**: **Wedge-shaped hypergranulosis** (directly corresponds to clinical Wickham striae).
-- **Stratum Spinosum**: Irregular acanthosis.
-- **Rete Ridges**: Irregular, pointed elongation of rete ridges (**"Saw-Tooth" Rete Ridges**).
-- **Dermoepidermal Junction**: **Liquefaction degeneration of the basal cell layer** with a dense, band-like lymphocytic infiltrate in the upper dermis (**Interface Dermatitis**).
-- **Civatte / Colloid Bodies**: Eosinophilic, apoptotic, necrotic keratinocytes at the dermal-epidermal junction.
+| Histological Layer / Feature | Findings in Lichen Planus                                                                                         |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Stratum Corneum**          | Hyperkeratosis without parakeratosis (**Orthokeratosis**)                                                         |
+| **Stratum Granulosum**       | **Wedge-shaped hypergranulosis** → Wickham striae                                                                 |
+| **Stratum Spinosum**         | Irregular acanthosis                                                                                              |
+| **Rete Ridges**              | Irregular, pointed elongation (**Saw-tooth appearance**)                                                          |
+| **Dermoepidermal Junction**  | **Liquefaction degeneration** of basal cells + dense, band-like lymphocytic infiltrate (**Interface dermatitis**) |
+| **Civatte / Colloid Bodies** | Eosinophilic apoptotic keratinocytes at the dermoepidermal junction                                               |
 
 | Histopathological feature | Description / correlation |
 | :--- | :--- |
