@@ -151,7 +151,7 @@ Other findings: tremor, anxiety, weight loss, orthostatic hypotension between ep
 5. After tumor venous isolation/removal, **hypotension** and **hypoglycemia** are possible; postoperative monitoring essential.
 6. Long-term biochemical and imaging follow-up because recurrence/metastasis may occur, especially hereditary forms.
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
 A[Paroxysmal HTN + headache + sweat/palpitations] --> B[Plasma free or urine fractionated metanephrines]
 B --> C{Biochemistry supports PPGL?}
@@ -160,7 +160,7 @@ D --> E[Alpha blockade and volume optimization]
 E --> F[Beta blockade if needed for tachycardia]
 F --> G[Planned surgery with hemodynamic precautions]
 C -->|No| H[Evaluate competing causes/false positives]
-\`\`\`
+```
 
 ## 5. Multiple endocrine neoplasia (MEN) syndromes
 
@@ -237,7 +237,7 @@ C -->|No| H[Evaluate competing causes/false positives]
   - Right-sided **carcinoid valvulopathy** (classically tricuspid regurgitation and pulmonic lesions).
   - **Pellagra** risk due to diversion of tryptophan toward serotonin at expense of niacin.
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
 A[Midgut NET] --> B[Serotonin into portal blood]
 B --> C{Hepatic metabolism sufficient?}
@@ -245,7 +245,7 @@ C -->|Yes| D[Little or no systemic carcinoid syndrome]
 C -->|No; liver metastases or bypass| E[Systemic serotonin/peptides]
 E --> F[Flushing + diarrhea + bronchospasm]
 E --> G[Right-sided valvular fibrosis]
-\`\`\`
+```
 
 ### Testing and imaging
 - **24-hour urinary 5-HIAA** (serotonin breakdown product) in suspected classic carcinoid syndrome; dietary/medication interference matters.
