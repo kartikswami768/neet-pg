@@ -239,10 +239,10 @@ flowchart TD
 
 #### Classification & Mechanisms
 
-| Feature | Extension type (~95%) | Flexion type (~5%) |
-|---|---|---|
-| Mechanism | **FOOSH** with elbow hyperextension | Direct blow/fall onto a **flexed elbow** |
-| Distal fragment | Displaced **posteriorly** (often proximally) | Displaced **anteriorly** |
+| Feature                 | Extension type (~95%)                                                                                                                       | Flexion type (~5%)                                  |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Mechanism               | **FOOSH** with elbow hyperextension                                                                                                         | Direct blow/fall onto a **flexed elbow**            |
+| Distal fragment         | Displaced **posteriorly** (often proximally)                                                                                                | Displaced **anteriorly**                            |
 | Important anatomic risk | Sharp **anterior spike of the proximal fragment** projects into the cubital fossa, endangering the **brachial artery and median nerve/AIN** | **Ulnar nerve** injury is relatively characteristic |
 
 * **Management**: 
@@ -285,6 +285,7 @@ flowchart TD
   - Normally **not visible** on a correctly positioned lateral elbow film.
   - When visible, it is **abnormal** and suggests **joint effusion/hemarthrosis**.
   - Consider **occult fracture** even without a visible fracture line.
+![[Pasted image 20261119151209.png]]![[Pasted image 20261119151217.png]]
 
 #### Neurovascular Examination & Complications
 
@@ -299,21 +300,21 @@ flowchart TD
 - **Principal vessel at risk:** **Brachial artery**.
   - Mechanisms: Compression, vasospasm, entrapment, or laceration against the anterior bony spike.
 
-| Structure | Typical deficit / clinical test |
-|---|---|
+| Structure                                                                                            | Typical deficit / clinical test                                                                                                                                             |
+| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Anterior interosseous nerve (AIN)** — most characteristic nerve injury in extension-type fractures | Purely **motor** branch of median nerve; weakness of **FPL** and **index FDP** prevents a round **“OK” sign** (pad-to-pad instead of tip-to-tip pinch); **no sensory loss** |
-| **Median nerve (main trunk)** | Impaired median-innervated forearm flexors and thenar opposition (established palsy may cause an **ape-thumb posture**); sensory loss over **palmar radial 3½ digits** |
-| **Radial nerve** | Weak wrist/finger extension (**wrist/finger drop**); sensory change at **first dorsal web space** |
-| **Ulnar nerve** — especially flexion-type injuries or **iatrogenic medial K-wire** injury | Weak finger abduction/adduction; sensory loss over the **little finger and ulnar half of ring finger** |
+| **Median nerve (main trunk)**                                                                        | Impaired median-innervated forearm flexors and thenar opposition (established palsy may cause an **ape-thumb posture**); sensory loss over **palmar radial 3½ digits**      |
+| **Radial nerve**                                                                                     | Weak wrist/finger extension (**wrist/finger drop**); sensory change at **first dorsal web space**                                                                           |
+| **Ulnar nerve** — especially flexion-type injuries or **iatrogenic medial K-wire** injury            | Weak finger abduction/adduction; sensory loss over the **little finger and ulnar half of ring finger**                                                                      |
 
-| Complication | Mechanism, features, and management |
-|---|---|
-| **Pink pulseless hand** | The hand is **warm and pink with maintained perfusion** but lacks a palpable radial pulse. Requires **urgent orthopaedic reduction and stabilization**, then repeat vascular assessment. The pulse may return; **persistent absence despite good perfusion needs close specialist observation and individualized vascular assessment**, not automatic dismissal or automatic exploration. |
-| **Pale/cold pulseless hand** | **Threatened limb perfusion**: urgent reduction/fixation and reassessment; **persistent ischemia after reduction warrants immediate vascular exploration**. |
-| **Acute compartment syndrome** | Increasing pain, especially **pain with passive finger stretch**, disproportionate analgesic needs, and a tense forearm are warning signs; pulses may remain present. Compartment pressures (normally around **0–10 mmHg**; concerning values include **absolute >30 mmHg** or **delta pressure ≤30 mmHg**) can aid an uncertain diagnosis but do **not** replace clinical assessment. **Emergent fasciotomy** is required when suspected/confirmed; do not delay for an arbitrary time cutoff. |
-| **Volkmann's ischemic contracture (VIC)** | Untreated ischemia/compartment syndrome causes **flexor muscle necrosis and fibrosis** (especially FPL/FDP), resulting in fixed wrist and finger flexion deformity. |
-| **Cubitus varus (“gunstock deformity”)** | **Most common late mechanical complication**, from malunion with varus tilt/medial rotation. Carrying angle becomes abnormal; **elbow motion is often preserved**. Symptomatic or significant deformity may be corrected by **French/Modified King closing-wedge osteotomy**. |
-| **Myositis ossificans / heterotopic ossification** | Can occur around the elbow, including the **brachialis**, after trauma or repeated forceful manipulation. Avoid **vigorous massage/passive stretching**; manage initially with rest/protection and appropriate analgesia (including NSAIDs when suitable), with specialist review for persistent functional limitation. |
+| Complication                                       | Mechanism, features, and management                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Pink pulseless hand**                            | The hand is **warm and pink with maintained perfusion** but lacks a palpable radial pulse. Requires **urgent orthopaedic reduction and stabilization**, then repeat vascular assessment. The pulse may return; **persistent absence despite good perfusion needs close specialist observation and individualized vascular assessment**, not automatic dismissal or automatic exploration.                                                                                                       |
+| **Pale/cold pulseless hand**                       | **Threatened limb perfusion**: urgent reduction/fixation and reassessment; **persistent ischemia after reduction warrants immediate vascular exploration**.                                                                                                                                                                                                                                                                                                                                     |
+| **Acute compartment syndrome**                     | Increasing pain, especially **pain with passive finger stretch**, disproportionate analgesic needs, and a tense forearm are warning signs; pulses may remain present. Compartment pressures (normally around **0–10 mmHg**; concerning values include **absolute >30 mmHg** or **delta pressure ≤30 mmHg**) can aid an uncertain diagnosis but do **not** replace clinical assessment. **Emergent fasciotomy** is required when suspected/confirmed; do not delay for an arbitrary time cutoff. |
+| **Volkmann's ischemic contracture (VIC)**          | Untreated ischemia/compartment syndrome causes **flexor muscle necrosis and fibrosis** (especially FPL/FDP), resulting in fixed wrist and finger flexion deformity.                                                                                                                                                                                                                                                                                                                             |
+| **Cubitus varus (“gunstock deformity”)**           | **Most common late mechanical complication**, from malunion with varus tilt/medial rotation. Carrying angle becomes abnormal; **elbow motion is often preserved**. Symptomatic or significant deformity may be corrected by **French/Modified King closing-wedge osteotomy**.                                                                                                                                                                                                                   |
+| **Myositis ossificans / heterotopic ossification** | Can occur around the elbow, including the **brachialis**, after trauma or repeated forceful manipulation. Avoid **vigorous massage/passive stretching**; manage initially with rest/protection and appropriate analgesia (including NSAIDs when suitable), with specialist review for persistent functional limitation.                                                                                                                                                                         |
 
 #### Management
 

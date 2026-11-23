@@ -13,7 +13,7 @@ chapter: 4
 A peripheral nerve trunk consists of multiple axons bundled into fascicles. Individual nerve fibers are encased in **endoneurium**, fascicles are enclosed by **perineurium** (which provides the primary diffusion barrier and mechanical strength), and the outer nerve trunk is wrapped in **epineurium**.
 
 When an axon is transected, it undergoes a predictable sequence of anterograde breakdown known as **Wallerian Degeneration**:
-1. *Axonal Breakdown* (24–48 hours): Distal to the injury site, the axon and its surrounding myelin sheath undergo granular disintegration due to activation of ubiquitin-proteasome systems and calcium-dependent neutral proteases (calpains).
+1. *Axonal Breakdown* (24–48 hours): Distal to the injury site, the axon and its surrounding myelin sheath undergo granular disintegration due to activation of ==ubiquitin-proteasome systems== and calcium-dependent neutral proteases (==calpains==).
 2. *Phagocytosis* (Days 2–14): Hematogenous macrophages and resident Schwann cells phagocytose distal axonal and myelin debris.
 3. *Schwann Cell Proliferation*: Proliferating Schwann cells line up inside intact endoneurial tubes to form continuous cellular cords known as the **Bands of Büngner**.
 4. *Axonal Regeneration*: Regenerative neurite sprouts emerge from the proximal axon node. Guided by neurotrophic factors (NGF, BDNF) along the Bands of Büngner, axons advance at an average rate of **$1\text{ mm/day}$** (approximately $1\text{ inch/month}$).

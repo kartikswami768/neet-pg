@@ -216,6 +216,14 @@ Talus neck fractures ("Aviator's Fracture") occur from severe dorsiflexion of th
 ![Annotated radiograph demonstrating a Lisfranc injury. ](https://commons.wikimedia.org/wiki/Special:FilePath/LisFrancArrow.png)
 
 *Visual reference: Annotated radiograph demonstrating a Lisfranc injury. [Original image and attribution](https://commons.wikimedia.org/wiki/File:LisFrancArrow.png). Online image; internet required.*
-* **Jones Fracture**: Transverse fracture at the metaphyseal-diaphyseal junction of the 5th metatarsal base ($1.5\text{--}3\text{ cm}$ distal to tuberosity). Located in a vascular watershed zone; high incidence of non-union requiring operative screw fixation. Differentiated from **Pseudo-Jones Fracture** (avulsion fracture of 5th metatarsal tuberosity by Peroneus Brevis tendon).
-* **Lisfranc Fracture-Dislocation**: Disruption of the tarsometatarsal joint complex. The **Lisfranc Ligament** anchors the medial cuneiform to the base of the 2nd metatarsal (there is no intermetatarsal ligament between the 1st and 2nd metatarsals). Loss of alignment leads to collapse of the longitudinal arch.
-* **Chopart Fracture-Dislocation**: Disruption through the transverse tarsal / midtarsal joint complex (talonavicular and calcaneocuboid joints).
+* **Jones Fracture**: 
+	* Transverse fracture at the **metaphyseal-diaphyseal junction** of the **5th metatarsal base** ($1.5\text{--}3\text{ cm}$ distal to tuberosity). 
+	* Located in a vascular watershed zone; high incidence of non-union requiring operative screw fixation. 
+	* Differentiated from **Pseudo-Jones Fracture** (avulsion fracture of 5th metatarsal tuberosity by Peroneus Brevis tendon).
+* **Lisfranc Fracture-Dislocation**: 
+	* Disruption of the **tarsometatarsal joint complex.** 
+	* The **Lisfranc Ligament** anchors the medial cuneiform to the base of the 2nd metatarsal (there is no intermetatarsal ligament between the 1st and 2nd metatarsals). 
+	* Loss of alignment leads to collapse of the longitudinal arch.
+![[Pasted image 20261121210945.png]]
+* **Chopart Fracture-Dislocation**: 
+	* Disruption through the transverse tarsal / midtarsal joint complex (talonavicular and calcaneocuboid joints).

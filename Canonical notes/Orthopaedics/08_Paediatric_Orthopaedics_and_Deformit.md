@@ -166,9 +166,11 @@ flowchart TD
 ![Radiograph of untreated Legg–Calvé–Perthes disease.](https://commons.wikimedia.org/wiki/Special:FilePath/Unbehandelter%20Perthes.jpg)
 
 *Visual reference: Radiograph of untreated Legg–Calvé–Perthes disease. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Unbehandelter_Perthes.jpg). Online image; internet required.*
-Perthes disease is an idiopathic, self-limiting avascular necrosis (osteonecrosis) of the proximal femoral head epiphysis occurring in young children (ages 4–8 years, male-to-female ratio $4:1$).
 
-* **Clinical Presentation**: Insidious onset of an antalgic or **painless limp**, mild aching pain in the hip, thigh, or knee (referred pain along obturator nerve), and restricted internal rotation and abduction of the hip.
+Perthes disease is an **idiopathic, self-limiting** ==avascular necrosis== (osteonecrosis) of the proximal femoral head epiphysis occurring in young children (ages 4–8 years, male-to-female ratio $4:1$).
+
+* **Clinical Presentation**: 
+	* Insidious onset of an antalgic or **painless limp**, mild aching pain in the hip, thigh, or knee (referred pain along obturator nerve), and restricted internal rotation and abduction of the hip.
 * **Radiological Stages (Catterall & Herring Classifications)**:
   1. *Early Phase*: Soft tissue swelling, widened joint space.
   2. *Avascular / Necrotic Phase*: Subchondral fracture line (**Crescent Sign** of Catterall), sclerosis of femoral head.
@@ -189,6 +191,7 @@ SCFE is a Salter-Harris Type I physeal fracture characterized by the posteromedi
 * **Clinical Presentation**: Dull, aching hip, groin, or **referred knee pain**, antalgic gait, limb held in fixed **external rotation**, and compulsory external rotation of the hip when flexed to $90^\circ$ (**Obligate External Rotation**).
 * **Pathognomonic Radiological Sign**: **Trethowan's Sign** on AP radiograph.
   * *Definition*: **Klein's Line** (drawn along the superior border of the femoral neck) normally intersects a portion of the outer epiphyseal head. In SCFE, Klein's line **fails to intersect** the epiphysis due to posteromedial slippage.
+    ![[Pasted image 20261121222138.png]]
 * **Management**: Emergency operative stabilization via **In-situ Single Cannulated Screw Fixation** to prevent progressive displacement and secondary avascular necrosis.
 
 ---

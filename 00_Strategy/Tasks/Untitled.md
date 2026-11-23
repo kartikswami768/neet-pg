@@ -1,0 +1,40 @@
+# Tier 1
+- [x] 1. Supracondylar humerus fracture
+- [x] 2. Femoral neck fracture and AVN
+- [x] 3. Fracture healing and non-union
+- [x] 4. Osteosarcoma and Ewing sarcoma
+- [x] 5. Osteomyelitis and septic arthritis
+- [x] 6. ACL/PCL and meniscal injuries
+- [x] 7. Monteggia, Galeazzi, Colles and Smith fractures (Partial)
+- [x] 8. Peripheral nerve injuries (Partial)
+- [ ] 9. CTEV and DDH
+- [ ] 10. Osteoarthritis and rheumatoid arthritis
+- [ ] 11. Spinal cord injury syndromes
+- [ ] 12. Pelvic fractures and haemorrhage
+- [ ] 13. Shoulder dislocations and Bankart/Hill–Sachs
+- [ ] 14. Rickets, osteomalacia and osteoporosis (Partial)
+- [x] 15. Pott's spine
+# Tier 2
+- [ ] 16. Scaphoid fracture and AVN
+- [ ] 17. Tibial fractures and compartment syndrome (Partial)
+- [ ] 18. Hip dislocation and fat embolism
+- [ ] 19. Bone tumour age-location matrix
+- [ ] 20. Giant cell tumour and osteoid osteoma
+- [ ] 21. Ankle fractures and Lauge–Hansen
+- [ ] 22. Brachial plexus injuries
+- [ ] 23. Gout and pseudogout
+- [ ] 24. Spondylolisthesis and scoliosis
+- [ ] 25. Rotator cuff injuries
+- [ ] 26. Open fracture management (Partial)
+- [ ] 27. Talus and calcaneus fractures
+- [ ] 28. Clavicle and proximal humerus fractures
+- [x] 29. Salter–Harris classification
+- [ ] 30. Paget's disease and osteogenesis imperfecta (Partial)
+# Tier 3
+- [x] 31. Ilizarov and distraction osteogenesis
+- [ ] 32. Amputations and prosthetics
+- [ ] 33. Lesser-known bone tumours
+- [x] 34. Rare osteomyelitis variants (Partial)
+- [ ] 35. Paediatric osteochondroses
+- [ ] 36. Less frequently tested tendinopathies
+- [ ] 37. Bone cellular biology and molecular pathways (Partial)
