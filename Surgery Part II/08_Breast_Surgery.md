@@ -325,7 +325,7 @@ Routine radical Halsted operation is historically important but largely replaced
 
 ### New palpable breast lump
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
 A[Palpable breast lump] --> B[History + complete breast and axillary exam]
 B --> C[Age-appropriate ultrasound and/or mammography]
@@ -334,18 +334,18 @@ D -->|Suspicious or discordant| E[Image-guided core biopsy]
 D -->|Clearly benign, concordant| F[Appropriate observation or targeted management]
 E --> G[Histology + ER/PR/HER2 if cancer]
 G --> H[Clinical stage and multidisciplinary treatment plan]
-\`\`\`
+```
 
 ### Spontaneous nipple discharge
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
 A[Nipple discharge] --> B{Spontaneous, unilateral, single duct, bloody/serous?}
 B -->|Yes| C[Focused examination + imaging]
 C --> D[Assess for papilloma/DCIS/invasive lesion; biopsy or duct excision if indicated]
 B -->|No| E[Consider physiologic, endocrine or benign ductal cause]
 E --> F[Selective labs/imaging according to findings]
-\`\`\`
+```
 
 ## 10. Rapid revision: classic examination clues
 - **Breast mouse** → fibroadenoma.
