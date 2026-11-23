@@ -380,7 +380,7 @@ The detailed current T4a/T4b criteria depend on exact structures and staging man
 
 ### Persistent oral ulcer
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
 A[Persistent oral ulcer or red/white plaque] --> B[History + full oral/neck exam]
 B --> C[Targeted biopsy of viable suspicious area]
@@ -390,11 +390,11 @@ E --> F[Plan tumor resection and neck treatment]
 F --> G[Margins, PNI, LVI, nodes and ENE]
 G --> H[Risk-adapted radiotherapy or chemoradiotherapy]
 D -->|Dysplasia/OPMD| I[Habit cessation + lesion-directed treatment and surveillance]
-\`\`\`
+```
 
 ### Salivary gland swelling
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
 A[Salivary gland swelling] --> B{Pain/swelling with meals?}
 B -->|Yes| C[Assess duct obstruction/stone; US and selective CT]
@@ -402,7 +402,7 @@ B -->|No| D{Persistent discrete mass?}
 D -->|Yes| E[US + FNAC, selective MRI]
 E --> F[Benign vs malignant risk + operation planning]
 D -->|No| G[Consider infection, autoimmune, systemic causes]
-\`\`\`
+```
 
 ## 13. One-line NEET-PG / INI-CET recall
 - **India, oral SCC** → gingivobuccal sulcus/buccal mucosa emphasized; **tongue lateral border** classically common overall.
