@@ -255,7 +255,7 @@ The British Thy terminology from the uploaded source (**Thy1–Thy5**) does **no
 - **Kidney:** increases calcium reabsorption, decreases phosphate reabsorption, stimulates 1α-hydroxylase.
 - **Gut:** indirect calcium/phosphate absorption via calcitriol.
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
 A[Low ionized calcium] --> B[More PTH release]
 B --> C[Bone resorption via RANKL]
@@ -266,7 +266,7 @@ F --> G[Increased intestinal calcium absorption]
 C --> H[Serum calcium increases]
 D --> H
 G --> H
-\`\`\`
+```
 
 ## 9. Hyperparathyroidism
 
@@ -319,7 +319,7 @@ G --> H
 
 ### Thyroid nodule
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
 A[Thyroid nodule] --> B[TSH + neck ultrasound]
 B --> C{TSH low?}
@@ -330,7 +330,7 @@ F --> G{FNA indicated?}
 G -->|Yes| H[Cytology and Bethesda category]
 G -->|No| I[Appropriate follow-up]
 H --> J[Observe / repeat testing / diagnostic lobectomy / cancer surgery]
-\`\`\`
+```
 
 ### Fast differentiation
 - Midline swelling + moves with **tongue protrusion** → thyroglossal duct cyst.
