@@ -5,7 +5,6 @@ tags:
 chapter: 8
 ---
 
-# Orthopaedics Chapter 08: Paediatric Orthopaedics & Pediatric Deformities
 
 ## 1. Salter-Harris Classification of Growth Plate Injuries
 
@@ -171,6 +170,17 @@ Perthes disease is an **idiopathic, self-limiting** ==avascular necrosis== (oste
 
 * **Clinical Presentation**: 
 	* Insidious onset of an antalgic or **painless limp**, mild aching pain in the hip, thigh, or knee (referred pain along obturator nerve), and restricted internal rotation and abduction of the hip.
+
+> Perthes disease is osteochondritis NOT OSTEONECROSIS
+> Osteonecrosis occurs due to osteochondritis
+
+Perthes disease is an idiopathic, self-limiting avascular necrosis (osteonecrosis) of the proximal femoral head epiphysis occurring in young children (ages 4–8 years, male-to-female ratio $4:1$).
+
+* **Clinical Presentation**: 
+	* Insidious onset of an antalgic or **painless limp**, mild aching pain in the hip, thigh, or knee (referred pain along obturator nerve), and 
+	* restricted internal rotation and abduction of the hip.
+	* **Adduction + External Rotation** → ==Weird Combo right?==
+	* History of recent trauma not acute trauma
 * **Radiological Stages (Catterall & Herring Classifications)**:
   1. *Early Phase*: Soft tissue swelling, widened joint space.
   2. *Avascular / Necrotic Phase*: Subchondral fracture line (**Crescent Sign** of Catterall), sclerosis of femoral head.
@@ -188,10 +198,15 @@ Perthes disease is an **idiopathic, self-limiting** ==avascular necrosis== (oste
 SCFE is a Salter-Harris Type I physeal fracture characterized by the posteromedial displacement of the proximal femoral epiphysis relative to the metaphysis (the femoral neck shifts anteriorly and externally rotates, making the head look like "ice cream slipping off a cone").
 
 * **Demographics**: Obese adolescent males (ages 10–15 years) during the pubertal growth spurt. Associated with hypothyroidism, growth hormone therapy, and hypogonadism.
-* **Clinical Presentation**: Dull, aching hip, groin, or **referred knee pain**, antalgic gait, limb held in fixed **external rotation**, and compulsory external rotation of the hip when flexed to $90^\circ$ (**Obligate External Rotation**).
+* **Clinical Presentation**: 
+	* **adduction + external rotation + acute trauma history**
+	* Dull, aching hip, groin, or **referred knee pain**, antalgic gait, 
+	* limb held in fixed **external rotation**, and compulsory external rotation of the hip when flexed to $90^\circ$ (**Obligate External Rotation**).
 * **Pathognomonic Radiological Sign**: **Trethowan's Sign** on AP radiograph.
   * *Definition*: **Klein's Line** (drawn along the superior border of the femoral neck) normally intersects a portion of the outer epiphyseal head. In SCFE, Klein's line **fails to intersect** the epiphysis due to posteromedial slippage.
     ![[Pasted image 20261121222138.png]]
+  * *Definition*: 
+	  * **Klein's Line** (drawn along the superior border of the femoral neck) normally intersects a portion of the outer epiphyseal head. In SCFE, Klein's line **fails to intersect** the epiphysis due to posteromedial slippage.
 * **Management**: Emergency operative stabilization via **In-situ Single Cannulated Screw Fixation** to prevent progressive displacement and secondary avascular necrosis.
 
 ---

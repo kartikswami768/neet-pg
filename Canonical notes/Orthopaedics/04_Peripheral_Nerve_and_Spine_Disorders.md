@@ -196,8 +196,15 @@ Lumbar canal stenosis involves narrowing of the central spinal canal, lateral re
 ![Radiographic example illustrating measurement of vertebral slip. ](https://commons.wikimedia.org/wiki/Special:FilePath/Spondylolisthesis%20measurement%20on%20X-ray.svg)
 
 *Visual reference: Radiographic example illustrating measurement of vertebral slip. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Spondylolisthesis_measurement_on_X-ray.svg). Online image; internet required.*
-* **Spondylolysis**: Defect or stress fracture in the **pars interarticularis** of the neural arch, most commonly affecting $L_5$ ($90\%$). Demonstrated on $45^\circ$ oblique lumbar radiographs as the **"Scotty Dog Sign"** with a collar or break across the dog's neck.
-* **Spondylolisthesis**: Anterior displacement (slipping) of a proximal vertebral body relative to the caudal adjacent vertebra. Classified as Isthmic (secondary to pars defect in young athletes) or Degenerative (in older adults at $L_4\text{--}L_5$).
+* **Spondylolysis**: 
+	* Defect or stress fracture in the **pars interarticularis** of the neural arch, most commonly affecting $L_5$ ($90\%$). 
+	* Demonstrated on $45^\circ$ oblique lumbar radiographs as the **"Scotty Dog Sign"** with a collar or break across the dog's neck.
+
+![[IMG_1402.webp]]![[IMG_1403.jpeg]]![[IMG_1404.jpeg]]![[IMG_1405.jpeg]]
+
+* **Spondylolisthesis**: 
+	* Anterior displacement (slipping) of a proximal vertebral body relative to the caudal adjacent vertebra. 
+	* Classified as Isthmic (secondary to pars defect in young athletes) or Degenerative (in older adults at $L_4\text{--}L_5$).
 * **Meyerding Classification** (Based on percentage slip of vertebral body width):
   - *Grade I*: $0\text{--}25\%$ slip.
   - *Grade II*: $25\text{--}50\%$ slip.
@@ -211,8 +218,16 @@ Lumbar canal stenosis involves narrowing of the central spinal canal, lateral re
 ![Cobb-angle measurement for scoliosis on a spine diagram. ](https://commons.wikimedia.org/wiki/Special:FilePath/Scoliosis%20cobb.svg)
 
 *Visual reference: Cobb-angle measurement for scoliosis on a spine diagram. [Original image and attribution](https://commons.wikimedia.org/wiki/File:Scoliosis_cobb.svg). Online image; internet required.*
-Scoliosis is defined as a three-dimensional spinal curvature featuring a lateral curvature $>10^\circ$ on a standing AP radiograph.
+Scoliosis is defined as a **three-dimensional spinal curvature** featuring a **lateral curvature $>10^\circ$** on a standing AP radiograph.
 
-* **Cobb's Angle**: Measured by drawing perpendicular lines from the top endplate of the most tilted superior end-vertebra and the bottom endplate of the most tilted inferior end-vertebra.
-* **Adam's Forward Bending Test**: Asymmetry of the rib cage or lumbar spine (**rib hump**) during forward flexion demonstrates rotational vertebral deformity.
-* **Risser Classification**: Evaluates skeletal maturity by measuring ossification progression across the iliac apophysis (Risser 0 = no ossification; Risser 5 = complete apophyseal fusion, signaling completion of skeletal growth).
+* **Cobb's Angle**: 
+	* Measured by drawing perpendicular lines from the top endplate of the most tilted superior end-vertebra and the bottom endplate of the most tilted inferior end-vertebra.
+* **Adam's Forward Bending Test**: 
+	* Asymmetry of the rib cage or lumbar spine (**rib hump**) during forward flexion **demonstrates rotational vertebral deformity.**
+	* it is used to diifferentiate between pathological and postural scoliosis
+	* if rotation deformity is there on flexion, it is postural.
+* **Risser Classification**: 
+	* Evaluates skeletal maturity by measuring ossification progression across the iliac apophysis 
+	* Risser 0 = no ossification; 
+	* Risser 5 = complete apophyseal fusion, signaling completion of skeletal growth
+	* Risser 5 → skeletal maturity → no further deterioration
