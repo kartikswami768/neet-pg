@@ -78,27 +78,13 @@ Esophageal motility disorders result from impaired neuromuscular coordination of
   * *Pathophysiology*: Atrophy of smooth muscle layer in the distal two-thirds of the esophagus accompanied by collagenous fibrosis and microvascular obliterative vasculitis.
   * *Triad*: **Severe hypotensive LES** (resting pressure $<10\text{ mmHg}$), **aperistalsis of distal smooth muscle**, and **severe intractable GERD** leading to peptic strictures.
 
----
-
-<!-- SURGERY_GI_ZIP_CONTENT_START:09-9-1 -->
-
-### Additional surgical details integrated from the Surgery notes
-
-> [!info] Provenance and scope
-> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
-
-#### 12.9 Distal Esophageal Spasm
-
-> **Source:** Surgery ZIP — 12_Esophageal_Surgery.md
-
 - Intermittent dysphagia and angina-like chest pain.
 - Premature distal esophageal contractions.
 - LES relaxation is generally preserved.
-- Barium swallow: **corkscrew or rosary-bead appearance**.
 - Manometry differentiates it from achalasia.
 - Management discussed in the sources includes smooth-muscle relaxants and selected endoscopic myotomy for refractory symptoms.
 
-##### Comparison
+**Comparison**
 | Condition | LES relaxation | Peristalsis | Characteristic clue |
 |---|---|---|---|
 | Achalasia | Impaired | Absent | Bird-beak |
@@ -106,9 +92,10 @@ Esophageal motility disorders result from impaired neuromuscular coordination of
 | Hypercontractile esophagus | Generally preserved | Excessively forceful | High contractile integral |
 | Scleroderma esophagus | Hypotensive LES | Weak/absent distally | Severe GERD |
 
+
 ---
 
-<!-- SURGERY_GI_ZIP_CONTENT_END:09-9-1 -->
+
 ## 9.2 Inflammatory & Vascular Conditions
 
 ### A. Gastroesophageal Reflux Disease (GERD) & Erosive Esophagitis
@@ -172,6 +159,12 @@ flowchart TD
   * *Biologics*: Dupilumab (Anti-IL-4R$\alpha$ monoclonal antibody).
   * *Endoscopic Balloon Dilation* for persistent fibrotic strictures.
 
+- Immune/antigen-mediated disease.
+- Commonly presents with food impaction and dysphagia.
+- Endoscopy: concentric rings, furrows or strictures.
+- Treatment in the sources: PPI, swallowed topical steroids and appropriate dietary therapy.
+
+
 ---
 
 ### C. Infectious Esophagitis
@@ -182,6 +175,13 @@ Occurs almost exclusively in immunocompromised hosts (HIV/AIDS with CD4 count $<
 | ***Candida albicans*** | Friable, adherent, yellowish-white pseudomembranous plaques on erythematous mucosa | Budding yeast cells and **pseudohyphae** invading superficial squamous epithelium (PAS / Grocott silver stain +) | Oral Fluconazole |
 | **Herpes Simplex Virus (HSV-1)** | Multiple small, volcano-like, **punched-out shallow ulcers** with raised edges | Multinucleated giant cells, **nuclear molding, chromatin marginalization, and Cowdry A inclusions** at ulcer margins | IV/Oral Acyclovir |
 | **Cytomegalovirus (CMV)** | Linear, deep, elongated, **shallow geographic ulcers** in mid-to-distal esophagus | Intranuclear **"Owl's eye" inclusions** and intracytoplasmic inclusions within **endothelial and stromal cells** at ulcer base | IV Ganciclovir / Valganciclovir |
+
+| Organism | Typical setting | Endoscopic pattern |
+|---|---|---|
+| Candida | Immunocompromised | White plaques |
+| CMV | Advanced immunosuppression | Large/deep ulcers |
+| HSV | Immunosuppression | Small punched-out ulcers |
+
 
 ---
 
@@ -214,20 +214,7 @@ Occurs almost exclusively in immunocompromised hosts (HIV/AIDS with CD4 count $<
     4. Antibiotic prophylaxis (Ceftriaxone) to prevent SBP and sepsis.
     5. Refractory bleeding: **TIPS** (Transjugular Intrahepatic Portosystemic Shunt) or Sengstaken-Blakemore balloon tamponade.
 
----
-
-<!-- SURGERY_GI_ZIP_CONTENT_START:09-9-2 -->
-
-### Additional surgical details integrated from the Surgery notes
-
-> [!info] Provenance and scope
-> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
-
-#### 12.4 Corrosive Esophageal Injury
-
-> **Source:** Surgery ZIP — 12_Esophageal_Surgery.md
-
-##### Mechanism
+**Mechanism**
 **Alkali**
 - Causes liquefactive necrosis.
 - Saponification and protein dissolution facilitate deep tissue penetration.
@@ -237,7 +224,7 @@ Occurs almost exclusively in immunocompromised hosts (HIV/AIDS with CD4 count $<
 - Typically causes coagulative necrosis.
 - More commonly associated with gastric injury, although severe esophageal damage can occur.
 
-##### Zargar endoscopic classification
+**Zargar endoscopic classification**
 | Grade | Findings |
 |---|---|
 | 0 | Normal |
@@ -248,7 +235,7 @@ Occurs almost exclusively in immunocompromised hosts (HIV/AIDS with CD4 count $<
 | IIIb | Extensive necrosis |
 | IV | Perforation in expanded classifications |
 
-##### Clinical complications
+**Clinical complications**
 **Early**
 - Airway edema.
 - Esophageal perforation.
@@ -262,7 +249,7 @@ Occurs almost exclusively in immunocompromised hosts (HIV/AIDS with CD4 count $<
 - Nutritional impairment.
 - Increased long-term risk of esophageal carcinoma.
 
-##### Management principles
+**Management principles**
 - Assess and protect airway.
 - NPO, fluid resuscitation and analgesia.
 - Avoid induced vomiting and chemical neutralization.
@@ -273,79 +260,10 @@ Occurs almost exclusively in immunocompromised hosts (HIV/AIDS with CD4 count $<
 
 **Stricture treatment:** endoscopic dilatation; selected refractory cases require reconstruction or esophagectomy.
 
----
-
-#### 12.7 Barrett Esophagus
-
-> **Source:** Surgery ZIP — 12_Esophageal_Surgery.md
-
-##### Definition
-Specialized intestinal metaplasia of distal esophageal epithelium associated with chronic reflux.
-
-##### Pathogenesis
-Chronic acid exposure → injury to squamous epithelium → adaptive metaplasia → possible dysplasia → esophageal adenocarcinoma.
-
-##### Histology
-- Columnar mucosa with intestinal differentiation.
-- **Goblet cells** are the characteristic histological finding in the source definition.
-
-##### Classification
-- Short segment: less than 3 cm.
-- Long segment: at least 3 cm.
-- Prague classification records:
-  - **C:** circumferential extent.
-  - **M:** maximum extent.
-
-##### Seattle biopsy protocol
-- Four-quadrant biopsies at prescribed intervals.
-- Additional targeted biopsy of visible abnormalities.
-- Intervals depend on dysplasia status and the surveillance protocol.
-
-##### Dysplasia and management
-| Finding | General management |
-|---|---|
-| Nondysplastic Barrett | Surveillance endoscopy according to risk |
-| Confirmed low-grade dysplasia | Endoscopic eradication therapy or carefully selected surveillance |
-| High-grade dysplasia | Endoscopic eradication therapy; resect visible lesions |
-| Selected superficial malignancy | Endoscopic resection, with further treatment based on histology |
-
-- Endoscopic mucosal resection is useful for visible lesions.
-- Radiofrequency ablation destroys residual flat dysplastic Barrett mucosa.
 
 ---
 
-#### 12.13 Other Benign Esophageal Conditions
 
-> **Source:** Surgery ZIP — 12_Esophageal_Surgery.md
-
-##### Schatzki ring
-- Distal esophageal mucosal ring.
-- Intermittent solid-food dysphagia.
-- Symptomatic cases may undergo endoscopic dilation.
-
-##### Eosinophilic esophagitis
-- Immune/antigen-mediated disease.
-- Commonly presents with food impaction and dysphagia.
-- Endoscopy: concentric rings, furrows or strictures.
-- Biopsy: **at least 15 eosinophils/high-power field**.
-- Treatment in the sources: PPI, swallowed topical steroids and appropriate dietary therapy.
-
-##### Infectious esophagitis
-| Organism | Typical setting | Endoscopic pattern |
-|---|---|---|
-| Candida | Immunocompromised | White plaques |
-| CMV | Advanced immunosuppression | Large/deep ulcers |
-| HSV | Immunosuppression | Small punched-out ulcers |
-
-##### Esophageal leiomyoma
-- Common benign mesenchymal esophageal tumor.
-- Frequently asymptomatic.
-- Barium swallow may reveal a smooth filling defect.
-- Selected symptomatic lesions undergo enucleation or endoscopic resection.
-
----
-
-<!-- SURGERY_GI_ZIP_CONTENT_END:09-9-2 -->
 ## 9.3 Esophageal Neoplasms
 
 ### A. Barrett Esophagus
@@ -372,6 +290,40 @@ Progression is not inevitable: most patients with Barrett esophagus do not devel
     * *Low-Grade Dysplasia (LGD)*: Endoscopic radiofrequency ablation (RFA) or surveillance EGD every 6–12 months.
     * *High-Grade Dysplasia (HGD)*: Endoscopic Eradication Therapy (Endoscopic Mucosal Resection [EMR] + RFA) or surgical esophagectomy.
 
+**Definition**
+Specialized intestinal metaplasia of distal esophageal epithelium associated with chronic reflux.
+
+**Pathogenesis**
+Chronic acid exposure → injury to squamous epithelium → adaptive metaplasia → possible dysplasia → esophageal adenocarcinoma.
+
+**Histology**
+- Columnar mucosa with intestinal differentiation.
+- **Goblet cells** are the characteristic histological finding in the source definition.
+
+**Classification**
+- Short segment: less than 3 cm.
+- Long segment: at least 3 cm.
+- Prague classification records:
+  - **C:** circumferential extent.
+  - **M:** maximum extent.
+
+**Seattle biopsy protocol**
+- Four-quadrant biopsies at prescribed intervals.
+- Additional targeted biopsy of visible abnormalities.
+- Intervals depend on dysplasia status and the surveillance protocol.
+
+**Dysplasia and management**
+| Finding | General management |
+|---|---|
+| Nondysplastic Barrett | Surveillance endoscopy according to risk |
+| Confirmed low-grade dysplasia | Endoscopic eradication therapy or carefully selected surveillance |
+| High-grade dysplasia | Endoscopic eradication therapy; resect visible lesions |
+| Selected superficial malignancy | Endoscopic resection, with further treatment based on histology |
+
+- Endoscopic mucosal resection is useful for visible lesions.
+- Radiofrequency ablation destroys residual flat dysplastic Barrett mucosa.
+
+
 ---
 
 ### B. Esophageal Malignancies: Squamous Cell Carcinoma vs. Adenocarcinoma
@@ -385,6 +337,13 @@ Progression is not inevitable: most patients with Barrett esophagus do not devel
 | **Histopathology** | Nest of malignant squamous cells with **keratin pearls**, intercellular bridges, and eosinophilic cytoplasm | Glandular architecture forming tubules/acinocytes with mucin production, invading muscularis |
 | **Clinical Presentation** | Progressive dysphagia (solids $\rightarrow$ liquids), rapid weight loss, odynophagia, hoarseness (recurrent laryngeal nerve involvement), cough (tracheoesophageal fistula) | Progressive dysphagia, weight loss, retrosternal pain, early satiety |
 | **Lymphatic Spread** | Upper 1/3: Cervical nodes; Middle 1/3: Mediastinal/Paratracheal nodes | Distal 1/3: **Celiac and Gastric nodes** |
+
+**Esophageal leiomyoma**
+- Common benign mesenchymal esophageal tumor.
+- Frequently asymptomatic.
+- Barium swallow may reveal a smooth filling defect.
+- Selected symptomatic lesions undergo enucleation or endoscopic resection.
+
 
 ---
 

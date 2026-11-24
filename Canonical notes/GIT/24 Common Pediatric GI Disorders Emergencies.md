@@ -43,6 +43,37 @@ As the intussuscipens invaginates, it drags its attached mesentery into the rece
 2. Progressive mucosal ischemia causes sloughing of the necrotic mucosa mixed with mucus and microscopic blood, manifesting as **"currant-jelly" stools**.
 3. If uncorrected, arterial inflow is compromised, leading to full-thickness transmural gangrene, bowel perforation, peritonitis, and fatal septic shock.
 
+**Definition**
+Invagination of a proximal bowel segment into the adjacent distal segment.
+
+- **Intussusceptum:** entering segment.
+- **Intussuscipiens:** receiving segment.
+
+**Pathophysiology**
+Telescoping → mesenteric compression → venous congestion → edema → obstruction → ischemia.
+
+**Pediatric intussusception**
+- Commonest around infancy/early childhood.
+- Frequently ileocolic.
+- Often associated with lymphoid hyperplasia.
+
+**Signs**
+- **Dance sign:** empty right iliac fossa.
+- Sausage-shaped mass.
+- Target/donut sign on ultrasound.
+- Pseudokidney sign on longitudinal ultrasound.
+- Claw/pincer appearance on contrast enema.
+
+**Adults**
+Usually require careful evaluation for a structural lead point such as a tumor, polyp or diverticulum.
+
+- Telescoping of proximal bowel into distal bowel, usually **ileocolic**; lymphoid hyperplasia common after viral illness.
+- Intermittent colicky pain with leg flexion, vomiting; **currant-jelly stool is a late sign**; sausage-shaped abdominal mass, empty right iliac fossa (**Dance sign**).
+- Ultrasound: **target/doughnut sign** (transverse) and **pseudokidney** (longitudinal).
+- Stable uncomplicated cases: **air/hydrostatic enema reduction** with surgical backup. Peritonitis, perforation or failed reduction → surgery.
+- In older child, search for a **pathologic lead point** (Meckel diverticulum, polyp, lymphoma).
+
+
 ### Clinical Manifestations
 * **Classic Clinical Triad (Present in $<50\%$ of cases)**:
   1. Severe, sudden-onset, episodic colicky abdominal pain (infant screams, draws knees up to chest, and appears pale during paroxysms lasting 15–20 minutes, alternating with quiescent lethargic intervals).
@@ -51,6 +82,22 @@ As the intussuscipens invaginates, it drags its attached mesentery into the rece
 * **Physical Examination**:
   * **"Sausage-Shaped" Mass**: Palpable firm, tubular mass in the right upper quadrant or epigastrium, with an emptiness or concavity in the right lower quadrant (**Dance Sign**—due to displacement of the cecum out of the right iliac fossa).
   * Late Signs: Progressive bilious vomiting, abdominal distension, lethargy (often misdiagnosed as sepsis or CNS disease), and shock.
+
+**Classical clinical triad**
+- Intermittent severe colicky abdominal pain.
+- Palpable abdominal mass.
+- Red-currant-jelly stool.
+
+The complete triad is not always present.
+
+**Clinical presentations**
+- Painless lower GI bleeding in children.
+- Intestinal obstruction.
+- Intussusception.
+- Diverticulitis mimicking appendicitis.
+- Perforation.
+- Littre hernia.
+
 
 ### Diagnostic Evaluation & Imaging
 * **Abdominal Ultrasonography (Gold Standard Diagnostic Test - Sensitivity/Specificity $>98\%$)**:
@@ -81,68 +128,14 @@ As the intussuscipens invaginates, it drags its attached mesentery into the rece
   * Indicated for non-surgical reduction failure (after 2–3 attempts), peritonitis/perforation, or confirmed structural lead points.
   * Operative Procedure: Manual reduction via gentle retrograde compression ("milking" the intussuscipiens backward, NEVER pulling the intussuscipens out). Resection and primary end-to-end anastomosis if bowel is non-viable, gangrenous, or contains a pathological lead point.
 
----
-
-<!-- SURGERY_GI_ZIP_CONTENT_START:24-24-1 -->
-
-### Additional surgical details integrated from the Surgery notes
-
-> [!info] Provenance and scope
-> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
-
-#### 14.5 Intussusception
-
-> **Source:** Surgery ZIP — 14_Small_Intestine_Appendix.md
-
-##### Definition
-Invagination of a proximal bowel segment into the adjacent distal segment.
-
-- **Intussusceptum:** entering segment.
-- **Intussuscipiens:** receiving segment.
-
-##### Pathophysiology
-Telescoping → mesenteric compression → venous congestion → edema → obstruction → ischemia.
-
-##### Pediatric intussusception
-- Commonest around infancy/early childhood.
-- Frequently ileocolic.
-- Often associated with lymphoid hyperplasia.
-
-##### Classical clinical triad
-- Intermittent severe colicky abdominal pain.
-- Palpable abdominal mass.
-- Red-currant-jelly stool.
-
-The complete triad is not always present.
-
-##### Signs
-- **Dance sign:** empty right iliac fossa.
-- Sausage-shaped mass.
-- Target/donut sign on ultrasound.
-- Pseudokidney sign on longitudinal ultrasound.
-- Claw/pincer appearance on contrast enema.
-
-##### Management
 - Stabilization and resuscitation.
 - Pneumatic or hydrostatic enema reduction for suitable uncomplicated pediatric cases.
 - Surgery if perforation, peritonitis, failed reduction or pathological lead point requires intervention.
 
-##### Adults
-Usually require careful evaluation for a structural lead point such as a tumor, polyp or diverticulum.
 
 ---
 
-#### 9. Intussusception
 
-> **Source:** Surgery ZIP — 25_Pediatric_Surgery.md
-
-- Telescoping of proximal bowel into distal bowel, usually **ileocolic**; lymphoid hyperplasia common after viral illness.
-- Intermittent colicky pain with leg flexion, vomiting; **currant-jelly stool is a late sign**; sausage-shaped abdominal mass, empty right iliac fossa (**Dance sign**).
-- Ultrasound: **target/doughnut sign** (transverse) and **pseudokidney** (longitudinal).
-- Stable uncomplicated cases: **air/hydrostatic enema reduction** with surgical backup. Peritonitis, perforation or failed reduction → surgery.
-- In older child, search for a **pathologic lead point** (Meckel diverticulum, polyp, lymphoma).
-
-<!-- SURGERY_GI_ZIP_CONTENT_END:24-24-1 -->
 ## 24.2 Meckel’s Diverticulum
 
 ### Embryology & Pathophysiology
@@ -159,6 +152,33 @@ flowchart TD
     D --> E[Ulceration of Adjacent Normal Ileal Mucosa]
     E --> F[Painless Profuse Lower GI Hemorrhage]
 ```
+
+Persistence of a portion of the **vitellointestinal (omphalomesenteric) duct**.
+
+**Key anatomy**
+- Antimesenteric border of distal ileum.
+- True diverticulum containing all layers.
+- May contain ectopic gastric or pancreatic mucosa.
+
+**Rule of twos**
+- Approximately 2% of population.
+- Approximately 2 inches long.
+- Approximately 2 feet proximal to ileocecal valve.
+- Often symptomatic in early childhood.
+
+**Investigations**
+- Tc-99m pertechnetate scan detects ectopic functioning gastric mucosa.
+- CT and other imaging for complications.
+
+**Vitelline duct remnants**
+| Persistence | Result |
+|---|---|
+| Ileal end | Meckel diverticulum |
+| Entire duct | Patent vitellointestinal fistula with fecal umbilical discharge |
+| Middle segment | Vitelline cyst |
+| Fibrous remnant | Band connecting ileum and umbilicus; obstruction/volvulus risk |
+| Umbilical end | Umbilical sinus/polyp |
+
 
 ### The Classic "Rule of 2s"
 * **2%** prevalence in the global population.
@@ -191,62 +211,14 @@ The vast majority of individuals with Meckel’s diverticulum remain completely 
 * **Symptomatic Meckel’s Diverticulum**: Definitive treatment is surgical resection. Options include segmental small bowel resection with end-to-end anastomosis (preferred if ulcerated bleeding site in adjacent ileum is present) or laparoscopic diverticulectomy (wedge resection of the diverticulum).
 * **Incidental Meckel’s Diverticulum (Discovered during surgery for other reasons)**: Resection is recommended if the diverticulum is narrow-necked, thick-walled (palpable ectopic tissue), $>2\text{ cm}$ long, attached to the umbilicus by a fibrous band, or in patients $<50$ years.
 
----
-
-<!-- SURGERY_GI_ZIP_CONTENT_START:24-24-2 -->
-
-### Additional surgical details integrated from the Surgery notes
-
-> [!info] Provenance and scope
-> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
-
-#### 14.7 Meckel Diverticulum
-
-> **Source:** Surgery ZIP — 14_Small_Intestine_Appendix.md
-
-##### Embryology
-Persistence of a portion of the **vitellointestinal (omphalomesenteric) duct**.
-
-##### Key anatomy
-- Antimesenteric border of distal ileum.
-- True diverticulum containing all layers.
-- May contain ectopic gastric or pancreatic mucosa.
-
-##### Rule of twos
-- Approximately 2% of population.
-- Approximately 2 inches long.
-- Approximately 2 feet proximal to ileocecal valve.
-- Often symptomatic in early childhood.
-
-##### Clinical presentations
-- Painless lower GI bleeding in children.
-- Intestinal obstruction.
-- Intussusception.
-- Diverticulitis mimicking appendicitis.
-- Perforation.
-- Littre hernia.
-
-##### Investigations
-- Tc-99m pertechnetate scan detects ectopic functioning gastric mucosa.
-- CT and other imaging for complications.
-
-##### Management
 - Symptomatic diverticulum: resection.
 - Diverticulectomy versus segmental ileal resection depends on inflammation, base, ectopic tissue and adjacent bowel.
 - Incidental diverticula: management is individualized rather than automatically resecting every case.
 
-##### Vitelline duct remnants
-| Persistence | Result |
-|---|---|
-| Ileal end | Meckel diverticulum |
-| Entire duct | Patent vitellointestinal fistula with fecal umbilical discharge |
-| Middle segment | Vitelline cyst |
-| Fibrous remnant | Band connecting ileum and umbilicus; obstruction/volvulus risk |
-| Umbilical end | Umbilical sinus/polyp |
 
 ---
 
-<!-- SURGERY_GI_ZIP_CONTENT_END:24-24-2 -->
+
 ## 24.3 Biliary Atresia
 
 ### Etiology & Pathophysiology
@@ -258,6 +230,36 @@ Biliary atresia is a progressive, idiopathic fibro-inflammatory disease of infan
   * *Type I (5%)*: Obliteration restricted to the common bile duct; proximal ducts patent.
   * *Type II (2%)*: Obliteration of the common hepatic duct.
   * *Type III (93% - Most Common)*: Complete obliteration of the entire extrahepatic biliary tree at or above the porta hepatis.
+
+- **Type I:** lower CBD atresia. **Type II:** CHD-level atresia. **Type III:** hilar/right-left extrahepatic system atresia (**most common** in sources).
+- Associated anomalies in WOR: **polysplenia, situs inversus, cardiac lesions, interrupted IVC, preduodenal portal vein**.
+- Evaluation: fractionated bilirubin, **US (triangular cord sign)**, selected hepatobiliary imaging and **liver biopsy**; cholangiography may establish anatomy in surgical assessment. Source claims about one absolute “gold-standard” test vary.
+- **Kasai portoenterostomy:** remove fibrosed extrahepatic duct remnant, anastomose **Roux-en-Y jejunal limb** to porta hepatis to restore microscopic ductular drainage.
+- Better outcome with **earlier operation**; Doctut highlights **<6 weeks** as a favorable timing clue, not a guarantee.
+- **Liver transplantation:** definitive option for failed Kasai/progressive cirrhosis and a leading pediatric transplant indication.
+
+**Choledochal cyst: Todani classification**
+| Type | Anatomy | Source treatment principle |
+|---|---|---|
+| **I (most common)** | Fusiform/cystic **extrahepatic CBD dilatation** | Excision + **Roux-en-Y hepaticojejunostomy** |
+| **II** | Extrahepatic CBD diverticulum | Excision and repair of duct |
+| **III** | Intraduodenal CBD cyst (**choledochocele**) | Endoscopic/surgical therapy selected by size, mucosa and anatomy |
+| **IVa** | Both **intrahepatic and extrahepatic** dilatations | Complex management: extrahepatic excision; selected hepatic resection/transplant when extensive |
+| **IVb** | Multiple **extrahepatic** dilatations | Extrahepatic excision and reconstruction in suitable cases |
+| **V** | **Caroli disease:** intrahepatic duct ectasia only | Local liver resection for segmental disease or transplant in diffuse severe disease |
+
+- **Anomalous pancreaticobiliary junction** can expose bile duct to reflux of pancreatic enzymes → duct injury and malignancy risk.
+- Classical symptom triad: **pain + jaundice + palpable mass**, though not all are present.
+- Complications: **cholangitis, stones, pancreatitis, stricture, cholangiocarcinoma**.
+- **MRCP** is central for anatomy. **Central dot sign** supports Caroli disease on cross-sectional imaging (portal radicle within a dilated duct).
+- WOR’s blanket “Kasai for type IVb” is inconsistent with the anatomical goal of choledochal cyst excision; do not automatically adopt that table as a treatment algorithm (see appendix).
+
+- Progressive inflammatory obliteration of extrahepatic bile ducts → conjugated jaundice, **pale stools, dark urine**, hepatomegaly and cirrhosis.
+- **Conjugated jaundice is never physiologic**; distinguish from breast-milk jaundice.
+- Investigations in context: fractionated bilirubin, ultrasound, hepatobiliary imaging and selected liver biopsy/cholangiography.
+- Definitive early operation: **Kasai portoenterostomy** to facilitate bile drainage; early referral is critical, with results generally better when performed early.
+- Progressive failure may require **liver transplant**; see Chapter 27.
+
 
 ### Clinical Features
 * **Normal Birth**: Infants are typically born at full term with normal birth weights and initially appear healthy.
@@ -304,52 +306,7 @@ flowchart TD
 
 ---
 
-<!-- SURGERY_GI_ZIP_CONTENT_START:24-24-3 -->
 
-### Additional surgical details integrated from the Surgery notes
-
-> [!info] Provenance and scope
-> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
-
-#### 9. Congenital biliary disorders
-
-> **Source:** Surgery ZIP — 17_Gallbladder_and_Biliary_Surgery.md
-
-##### Extrahepatic biliary atresia (EHBA)- Progressive fibro-obliteration of extrahepatic bile ducts in infancy → **persistent conjugated jaundice**, pale stool/dark urine, hepatomegaly and progressive **secondary biliary cirrhosis**.
-- **Type I:** lower CBD atresia. **Type II:** CHD-level atresia. **Type III:** hilar/right-left extrahepatic system atresia (**most common** in sources).
-- Associated anomalies in WOR: **polysplenia, situs inversus, cardiac lesions, interrupted IVC, preduodenal portal vein**.
-- Evaluation: fractionated bilirubin, **US (triangular cord sign)**, selected hepatobiliary imaging and **liver biopsy**; cholangiography may establish anatomy in surgical assessment. Source claims about one absolute “gold-standard” test vary.
-- **Kasai portoenterostomy:** remove fibrosed extrahepatic duct remnant, anastomose **Roux-en-Y jejunal limb** to porta hepatis to restore microscopic ductular drainage.
-- Better outcome with **earlier operation**; Doctut highlights **<6 weeks** as a favorable timing clue, not a guarantee.
-- **Liver transplantation:** definitive option for failed Kasai/progressive cirrhosis and a leading pediatric transplant indication.
-
-##### Choledochal cyst: Todani classification
-| Type | Anatomy | Source treatment principle |
-|---|---|---|
-| **I (most common)** | Fusiform/cystic **extrahepatic CBD dilatation** | Excision + **Roux-en-Y hepaticojejunostomy** |
-| **II** | Extrahepatic CBD diverticulum | Excision and repair of duct |
-| **III** | Intraduodenal CBD cyst (**choledochocele**) | Endoscopic/surgical therapy selected by size, mucosa and anatomy |
-| **IVa** | Both **intrahepatic and extrahepatic** dilatations | Complex management: extrahepatic excision; selected hepatic resection/transplant when extensive |
-| **IVb** | Multiple **extrahepatic** dilatations | Extrahepatic excision and reconstruction in suitable cases |
-| **V** | **Caroli disease:** intrahepatic duct ectasia only | Local liver resection for segmental disease or transplant in diffuse severe disease |
-
-- **Anomalous pancreaticobiliary junction** can expose bile duct to reflux of pancreatic enzymes → duct injury and malignancy risk.
-- Classical symptom triad: **pain + jaundice + palpable mass**, though not all are present.
-- Complications: **cholangitis, stones, pancreatitis, stricture, cholangiocarcinoma**.
-- **MRCP** is central for anatomy. **Central dot sign** supports Caroli disease on cross-sectional imaging (portal radicle within a dilated duct).
-- WOR’s blanket “Kasai for type IVb” is inconsistent with the anatomical goal of choledochal cyst excision; do not automatically adopt that table as a treatment algorithm (see appendix).
-
-#### 11. Biliary atresia and neonatal cholestasis
-
-> **Source:** Surgery ZIP — 25_Pediatric_Surgery.md
-
-- Progressive inflammatory obliteration of extrahepatic bile ducts → conjugated jaundice, **pale stools, dark urine**, hepatomegaly and cirrhosis.
-- **Conjugated jaundice is never physiologic**; distinguish from breast-milk jaundice.
-- Investigations in context: fractionated bilirubin, ultrasound, hepatobiliary imaging and selected liver biopsy/cholangiography.
-- Definitive early operation: **Kasai portoenterostomy** to facilitate bile drainage; early referral is critical, with results generally better when performed early.
-- Progressive failure may require **liver transplant**; see Chapter 27.
-
-<!-- SURGERY_GI_ZIP_CONTENT_END:24-24-3 -->
 ## Index Coverage Checklist & Quality Self-Assessment
 
 ### Checklist of Index Subsections

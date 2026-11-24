@@ -33,61 +33,6 @@ flowchart TD
     B -->|Luminal Stricture| F[Through-The-Scope Balloon Dilation]
 ```
 
-### Therapeutic Endoscopic Interventions
-1. **Endoscopic Hemostasis (Upper/Lower GI Bleeding)**:
-   * *Injection Therapy*: Submucosal epinephrine ($1:10,000$ dilution) induces local vasoconstriction and initial mechanical tamponade; must always be combined with a second modality.
-   * *Thermal Coagulation*: Contact (Bipolar electrocautery, Heater probe) or Non-contact (Argon Plasma Coagulation [APC]) thermal coagulation for angiodysplasias, GAVE (watermelon stomach), or bleeding ulcers.
-   * *Mechanical Hemostasis*: **Endoscopic Hemoclips** (over-the-scope or through-the-scope clips) directly compress bleeding vessels (Forrest Ia/Ib/IIa peptic ulcers).
-   * *Topical Hemostatic Powders*: Hemospray creates an immediate mechanical barrier over diffuse oozing lesions.
-   * *Endoscopic Variceal Ligation (EVL)*: Rubber bands applied over esophageal varices; first-line therapy for active variceal bleeding.
-2. **Polypectomy, EMR, and ESD**:
-   * *Cold/Hot Snare Polypectomy*: Used for small to medium pedunculated or sessile polyps ($<10–20\text{ mm}$).
-   * **Endoscopic Mucosal Resection (EMR)**: Submucosal injection of saline/indigo carmine creates a fluid cushion elevating the lesion away from the muscularis propria, followed by snare electrocautery excision for superficial mucosal neoplasms ($<20\text{ mm}$).
-   * **Endoscopic Submucosal Dissection (ESD)**: Utilizes specialized electrosurgical knives to dissect directly through the submucosal plane beneath mucosal lesions, enabling $en-bloc$ resection of large ($>20\text{ mm}$) early neoplastic lesions regardless of size.
-
----
-
-<!-- SURGERY_GI_ZIP_CONTENT_START:25-25-1 -->
-
-### Additional surgical details integrated from the Surgery notes
-
-> [!info] Provenance and scope
-> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
-
-#### 12.3 Esophageal Foreign Bodies
-
-> **Source:** Surgery ZIP — 12_Esophageal_Surgery.md
-
-##### Common impaction sites
-- Cricopharyngeal narrowing.
-- Aortic/bronchial constriction.
-- Distal esophageal narrowing.
-
-##### Coin versus airway foreign body
-| X-ray projection | Esophageal coin | Tracheal coin |
-|---|---|---|
-| AP view | Circular face commonly visible | Edge commonly visible |
-| Lateral view | Edge commonly visible | Circular face commonly visible |
-
-##### Button battery
-- May show the **double-ring or halo sign**.
-- Particularly dangerous because of local electrical and caustic injury.
-- Esophageal button batteries require urgent endoscopic removal.
-- Observation alone is inappropriate for an impacted esophageal battery.
-
-##### Other foreign bodies
-- Sharp objects: increased perforation risk.
-- Food bolus: commonly associated with stricture, ring, or eosinophilic esophagitis.
-- Multiple magnets: risk of pressure necrosis and fistulation when separated by bowel walls.
-
-Management depends on location, object type, symptoms and complications. The simple “observe if beyond C6” rule in older notes should not be applied indiscriminately.
-
----
-
-#### 8. Endoscopic and natural-orifice procedures
-
-> **Source:** Surgery ZIP — 29_Minimally_Invasive_Surgery.md
-
 | Procedure | Anatomical access | Purpose |
 |---|---|---|
 | **Upper GI endoscopy (OGD)** | Mouth → esophagus/stomach/duodenum | Diagnose/biopsy/perform endoscopic hemostasis |
@@ -100,7 +45,47 @@ Management depends on location, object type, symptoms and complications. The sim
 
 - Endoscopic tissue removal/closure and endoluminal hemostasis depend on operator skill and relevant complications; **perforation, hemorrhage, sedation/aspiration and infection** are recurring risks.
 
-<!-- SURGERY_GI_ZIP_CONTENT_END:25-25-1 -->
+
+### Therapeutic Endoscopic Interventions
+1. **Endoscopic Hemostasis (Upper/Lower GI Bleeding)**:
+   * *Injection Therapy*: Submucosal epinephrine ($1:10,000$ dilution) induces local vasoconstriction and initial mechanical tamponade; must always be combined with a second modality.
+   * *Thermal Coagulation*: Contact (Bipolar electrocautery, Heater probe) or Non-contact (Argon Plasma Coagulation [APC]) thermal coagulation for angiodysplasias, GAVE (watermelon stomach), or bleeding ulcers.
+   * *Mechanical Hemostasis*: **Endoscopic Hemoclips** (over-the-scope or through-the-scope clips) directly compress bleeding vessels (Forrest Ia/Ib/IIa peptic ulcers).
+   * *Topical Hemostatic Powders*: Hemospray creates an immediate mechanical barrier over diffuse oozing lesions.
+   * *Endoscopic Variceal Ligation (EVL)*: Rubber bands applied over esophageal varices; first-line therapy for active variceal bleeding.
+2. **Polypectomy, EMR, and ESD**:
+   * *Cold/Hot Snare Polypectomy*: Used for small to medium pedunculated or sessile polyps ($<10–20\text{ mm}$).
+   * **Endoscopic Mucosal Resection (EMR)**: Submucosal injection of saline/indigo carmine creates a fluid cushion elevating the lesion away from the muscularis propria, followed by snare electrocautery excision for superficial mucosal neoplasms ($<20\text{ mm}$).
+   * **Endoscopic Submucosal Dissection (ESD)**: Utilizes specialized electrosurgical knives to dissect directly through the submucosal plane beneath mucosal lesions, enabling $en-bloc$ resection of large ($>20\text{ mm}$) early neoplastic lesions regardless of size.
+
+**Common impaction sites**
+- Cricopharyngeal narrowing.
+- Aortic/bronchial constriction.
+- Distal esophageal narrowing.
+
+**Coin versus airway foreign body**
+| X-ray projection | Esophageal coin | Tracheal coin |
+|---|---|---|
+| AP view | Circular face commonly visible | Edge commonly visible |
+| Lateral view | Edge commonly visible | Circular face commonly visible |
+
+**Button battery**
+- May show the **double-ring or halo sign**.
+- Particularly dangerous because of local electrical and caustic injury.
+- Esophageal button batteries require urgent endoscopic removal.
+- Observation alone is inappropriate for an impacted esophageal battery.
+
+**Other foreign bodies**
+- Sharp objects: increased perforation risk.
+- Food bolus: commonly associated with stricture, ring, or eosinophilic esophagitis.
+- Multiple magnets: risk of pressure necrosis and fistulation when separated by bowel walls.
+
+Management depends on location, object type, symptoms and complications. The simple “observe if beyond C6” rule in older notes should not be applied indiscriminately.
+
+
+---
+
+
 ## 25.2 Endoscopic Retrograde Cholangiopancreatography (ERCP)
 
 ### Indications & Technique

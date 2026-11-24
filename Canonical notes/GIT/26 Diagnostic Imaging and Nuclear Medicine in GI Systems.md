@@ -77,26 +77,6 @@ flowchart TD
    * Uses large-volume neutral oral contrast agents ($1.5–2.0\text{ L}$ of polyethylene glycol or $0.1\%$ barium) to achieve maximal small bowel lumen distension combined with IV contrast.
    * Modality of Choice for **Crohn’s Disease**: Demonstrates transmural mural thickening ($>3\text{ mm}$), hyper-enhancement, mucosal stratification ("target sign"), **Comb Sign** (engorged, hypervascular vasa recta aligned perpendicular to the inflamed ileal wall), and enterocutaneous/enteroenteric fistulae.
 
-### Magnetic Resonance Imaging (MRI)
-* **MR Cholangiopancreatography (MRCP)**:
-  * Non-invasive, non-ionizing technique utilizing heavy $T_2$-weighted sequences. Static fluid within the biliary and pancreatic ducts produces intense high signal intensity (bright white), while surrounding solid tissues appear dark.
-  * Indications: Choledocholithiasis, congenital biliary anomalies (choledochal cysts), stricture evaluation, chronic pancreatitis ductal anatomy. Replaces diagnostic ERCP.
-* **Liver MRI with Hepatobiliary Contrast Agents (Gd-EOB-DTPA / Primovist)**:
-  * Contrast is selectively taken up by functioning hepatocytes via OATP1B3 transporters and excreted into bile. Differentiates HCC (lacks functional hepatocytes/transporters $\rightarrow$ hypointense on hepatobiliary phase) from Focal Nodular Hyperplasia (FNH—contains hepatocytes $\rightarrow$ hyperintense/isointense).
-
----
-
-<!-- SURGERY_GI_ZIP_CONTENT_START:26-26-2 -->
-
-### Additional surgical details integrated from the Surgery notes
-
-> [!info] Provenance and scope
-> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
-
-#### 3. Liver imaging and evaluation of a focal lesion
-
-> **Source:** Surgery ZIP — 16_Liver_and_Portal_Hypertension.md
-
 | Modality | Main surgical role |
 |---|---|
 | **Ultrasound + Doppler** | First look for cyst, abscess, biliary dilatation, vascular patency and portal flow |
@@ -109,17 +89,13 @@ flowchart TD
 
 **Triphasic HCC pattern (WOR/Robbins):** **arterial-phase hyperenhancement** followed by **washout** in portal or delayed phase in an appropriate at-risk liver. **LI-RADS** provides structured categorization of imaging findings; AFP supports evaluation but does not independently prove or exclude HCC.
 
-#### 4. Imaging in trauma
-
-> **Source:** Surgery ZIP — 06_Trauma_Surgery.md
-
-##### FAST and eFAST- **FAST**: bedside focused ultrasound for **free fluid** in pericardial and peritoneal spaces.
+**FAST and eFAST**
 - Classic views: **subxiphoid/pericardial, RUQ (Morrison pouch), LUQ (splenorenal), pelvis (retrovesical/pouch of Douglas)**.
 - **eFAST adds pleural evaluation** for pneumothorax/hemothorax.
 - **Pneumothorax on lung US:** absent lung sliding; **barcode/stratosphere sign on M-mode** instead of normal seashore sign; interpret in full clinical context.
 - **Limitations:** a negative FAST does not exclude early/low-volume bleed, retroperitoneal injury, hollow viscus injury or some penetrating injuries.
 
-##### Imaging choice| Patient | Typical first decision |
+**Imaging choice**
 |---|---|
 | **Hemodynamically unstable with suspected internal bleed** | Resuscitation + bedside eFAST and immediate source control; avoid delay for CT if unstable |
 | **Stable significant blunt abdominal trauma** | **Contrast-enhanced CT** to grade organ injury and detect vascular injury |
@@ -127,7 +103,6 @@ flowchart TD
 | **Possible cervical spine injury** | Apply appropriate clinical clearance criteria; imaging according to age/risk and protocol |
 | **Stable major trauma with multiple suspected injuries** | Targeted/whole-body CT in selected patients, not automatically everyone |
 
-##### NEXUS low-risk cervical clearance (all criteria needed)- No posterior **midline cervical tenderness**.
 - No **focal neurologic deficit**.
 - Normal level of alertness.
 - No evidence of intoxication.
@@ -135,7 +110,17 @@ flowchart TD
 
 **Important:** the N-E-X-U-S letter expansion given in one revision chart is only a memory aid, **not the formal criterion list**. Canadian C-spine Rule is an alternative clinical decision tool when applicable.
 
-<!-- SURGERY_GI_ZIP_CONTENT_END:26-26-2 -->
+
+### Magnetic Resonance Imaging (MRI)
+* **MR Cholangiopancreatography (MRCP)**:
+  * Non-invasive, non-ionizing technique utilizing heavy $T_2$-weighted sequences. Static fluid within the biliary and pancreatic ducts produces intense high signal intensity (bright white), while surrounding solid tissues appear dark.
+  * Indications: Choledocholithiasis, congenital biliary anomalies (choledochal cysts), stricture evaluation, chronic pancreatitis ductal anatomy. Replaces diagnostic ERCP.
+* **Liver MRI with Hepatobiliary Contrast Agents (Gd-EOB-DTPA / Primovist)**:
+  * Contrast is selectively taken up by functioning hepatocytes via OATP1B3 transporters and excreted into bile. Differentiates HCC (lacks functional hepatocytes/transporters $\rightarrow$ hypointense on hepatobiliary phase) from Focal Nodular Hyperplasia (FNH—contains hepatocytes $\rightarrow$ hyperintense/isointense).
+
+---
+
+
 ## 26.3 Nuclear Medicine Applications
 
 ### 1. Cholescintigraphy (HIDA Scan)

@@ -127,35 +127,47 @@ Chronic idiopathic relapsing inflammatory disorders of the GI tract. Classified 
   2. **Diverticulitis**: Inflammation/microperforation of diverticulum triggered by fecalith obstruction. Clinical features: **"Left-sided appendicitis"** (LLQ pain, fever, leukocytosis). Complications: Abscess, pericolic phlegmon, fistula (colovesical fistula $\rightarrow$ pneumaturia and fecaluria), bowel obstruction.
   * *Diagnostic Rule*: CT abdomen/pelvis is test of choice. **Colonoscopy and barium enema are CONTRAINDICATED in acute diverticulitis** due to high risk of frank perforation.
 
----
+**Pathology**
+Dilated and fragile vascular channels in intestinal mucosa/submucosa.
 
-<!-- SURGERY_GI_ZIP_CONTENT_START:11-11-3 -->
+**Classical associations**
+- Older age.
+- Recurrent painless GI bleeding.
+- Often affects cecum/right colon.
+- Association with aortic stenosis (**Heyde syndrome**).
 
-### Additional surgical details integrated from the Surgery notes
+**Heyde syndrome**
+- Aortic stenosis.
+- GI angiodysplasia.
+- Acquired von Willebrand factor dysfunction due to high shear stress.
 
-> [!info] Provenance and scope
-> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
+**Investigations**
+- Colonoscopy.
+- CT angiography in selected active bleeding.
+- Capsule endoscopy for suspected small-intestinal lesions.
 
-#### 15.2 Diverticular Disease
+**Management**
+- Stabilization if significant bleeding.
+- Endoscopic coagulation/argon plasma coagulation.
+- Selected patients require angiographic or surgical intervention.
 
-> **Source:** Surgery ZIP — 15_Colorectal_Anorectal_Surgery.md
 
-##### Diverticulosis
+**Diverticulosis**
 - Acquired mucosal/submucosal outpouchings through weak points in colonic muscle.
 - Usually false diverticula.
 - Commonest in sigmoid colon in the classical surgical description.
 - May cause bleeding, inflammation, stricture or fistula.
 
-##### Pathogenesis
+**Pathogenesis**
 Elevated segmental colonic pressure + weakness at vascular penetration points → mucosal herniation.
 
-##### Clinical features
+**Clinical features**
 - Often asymptomatic.
 - Painless lower GI bleeding.
 - Diverticulitis when inflamed.
 - Recurrent inflammation may lead to fibrosis and narrowing.
 
-##### Diverticulitis
+**Diverticulitis**
 Typical findings:
 - Left iliac fossa pain.
 - Fever.
@@ -163,11 +175,11 @@ Typical findings:
 - Localized tenderness.
 - Leukocytosis.
 
-##### Investigation
+**Investigation**
 - Contrast-enhanced CT abdomen/pelvis to evaluate inflammation and complications.
 - Colonoscopy is generally deferred during acute severe inflammation because of perforation risk.
 
-##### Hinchey classification
+**Hinchey classification**
 | Stage | Classical description |
 |---|---|
 | I | Pericolic inflammation/abscess |
@@ -175,7 +187,7 @@ Typical findings:
 | III | Generalized purulent peritonitis |
 | IV | Generalized fecal peritonitis |
 
-##### Management
+**Management**
 **Uncomplicated**
 - Supportive treatment.
 - Selected patients require antibiotics.
@@ -188,14 +200,14 @@ Typical findings:
 - Operative source control.
 - Resection with anastomosis or Hartmann procedure based on physiology and local conditions.
 
-##### Hartmann procedure
+**Hartmann procedure**
 1. Resection of diseased sigmoid/rectosigmoid segment.
 2. Closure of distal rectal stump.
 3. Formation of proximal end colostomy.
 
 Reversal may be considered after recovery in selected patients.
 
-##### Complications of diverticular disease
+**Complications of diverticular disease**
 - Perforation.
 - Abscess.
 - Colovesical fistula.
@@ -205,39 +217,10 @@ Reversal may be considered after recovery in selected patients.
 
 **Colovesical fistula clue:** pneumaturia and fecaluria.
 
----
-
-#### 15.3 Colonic Angiodysplasia
-
-> **Source:** Surgery ZIP — 15_Colorectal_Anorectal_Surgery.md
-
-##### Pathology
-Dilated and fragile vascular channels in intestinal mucosa/submucosa.
-
-##### Classical associations
-- Older age.
-- Recurrent painless GI bleeding.
-- Often affects cecum/right colon.
-- Association with aortic stenosis (**Heyde syndrome**).
-
-##### Heyde syndrome
-- Aortic stenosis.
-- GI angiodysplasia.
-- Acquired von Willebrand factor dysfunction due to high shear stress.
-
-##### Investigations
-- Colonoscopy.
-- CT angiography in selected active bleeding.
-- Capsule endoscopy for suspected small-intestinal lesions.
-
-##### Management
-- Stabilization if significant bleeding.
-- Endoscopic coagulation/argon plasma coagulation.
-- Selected patients require angiographic or surgical intervention.
 
 ---
 
-<!-- SURGERY_GI_ZIP_CONTENT_END:11-11-3 -->
+
 ## 11.4 Intestinal Obstruction
 
 Impairment of normal mechanical or functional passage of intestinal contents.
@@ -273,6 +256,80 @@ Impairment of normal mechanical or functional passage of intestinal contents.
   * **Gardner Syndrome**: FAP + Osteomas (mandible/skull), epidermoid cysts, desmoid tumors, and impacted supernumerary teeth.
   * **Turcot Syndrome**: FAP or Lynch Syndrome + **Central Nervous System tumors** (Medulloblastoma or Glioblastoma).
   * **Peutz-Jeghers Syndrome**: Autosomal dominant mutation in **$STK11$ (LKB1)** gene. Multiple hamartomatous GI polyps + **mucocutaneous hyperpigmentation** (dark blue/brown macules on lips, buccal mucosa, hands). Increased risk of GI, breast, pancreatic, and testicular cancers.
+
+**Morphological classification**
+- Pedunculated.
+- Sessile.
+- Flat.
+
+**Histological classification**
+| Type | Basic features | Malignancy relevance |
+|---|---|---|
+| Hyperplastic | Usually small, often distal | Generally low risk; distinguish serrated lesions |
+| Inflammatory pseudopolyp | Regenerative mucosa after inflammation | Not an adenoma |
+| Hamartomatous | Disorganized normal tissue components | Risk depends on syndrome |
+| Tubular adenoma | Neoplastic dysplastic glands | Premalignant |
+| Tubulovillous adenoma | Mixed architecture | Premalignant |
+| Villous adenoma | Villous architecture | Greater dysplasia/cancer association |
+| Serrated lesion | Serrated gland morphology and molecular alterations | Certain subtypes are precancerous |
+
+**Adenoma–carcinoma sequence**
+Normal epithelium → APC pathway disruption → adenoma → KRAS-related progression → additional tumor-suppressor alterations → carcinoma.
+
+**Serrated pathway**
+- BRAF alterations.
+- CpG island methylation.
+- MLH1 silencing in selected tumors.
+- Microsatellite instability.
+
+**Risk factors in colorectal adenomas**
+- Increasing polyp size.
+- Villous architecture.
+- High-grade dysplasia.
+- Multiple polyps.
+- Invasive cancer within the polyp.
+
+| Syndrome | Inheritance/gene | Key findings |
+|---|---|---|
+| FAP | AD, APC | Numerous adenomatous polyps, near-certain CRC risk if untreated |
+| Gardner syndrome | APC/FAP variant | Osteomas, desmoids, epidermoid cysts, dental abnormalities |
+| Turcot syndrome | APC or MMR-related | Colorectal polyposis/cancer with CNS tumors |
+| Lynch syndrome | AD, mismatch-repair genes | CRC and extracolonic malignancies |
+| MUTYH-associated polyposis | AR, MUTYH | Adenomatous polyposis, increased CRC risk |
+| Peutz–Jeghers | AD, STK11 | Hamartomatous polyps, mucocutaneous pigmentation |
+| Juvenile polyposis syndrome | SMAD4/BMPR1A pathways | Multiple juvenile polyps, increased GI cancer risk |
+| Cowden syndrome | PTEN | Hamartomatous lesions and associated cancers |
+
+**Familial adenomatous polyposis**
+- Germline APC mutation on chromosome 5.
+- Numerous colorectal adenomas.
+- Classical untreated disease carries extremely high CRC risk.
+- May be associated with CHRPE and desmoid tumors.
+
+Management includes appropriate surveillance and prophylactic colorectal surgery based on phenotype.
+
+**Peutz–Jeghers syndrome**
+- STK11 gene.
+- Perioral and mucocutaneous pigmented macules.
+- Hamartomatous intestinal polyps.
+- Histology: arborizing smooth-muscle pattern.
+- May present with intussusception.
+- Increased risk of gastrointestinal and other malignancies.
+
+**Lynch syndrome**
+- Mismatch-repair defects: MLH1, MSH2, MSH6, PMS2 and related mechanisms.
+- Microsatellite instability.
+- Often proximal/right-sided colorectal cancers.
+- Associated with endometrial, ovarian and other malignancies.
+
+**Classical Amsterdam criteria concept**
+- Multiple affected relatives.
+- Involvement of successive generations.
+- At least one early-onset cancer.
+- Familial cancer pattern consistent with Lynch syndrome.
+
+Molecular testing and contemporary risk-based surveillance complement historical family-history criteria.
+
 
 ---
 
@@ -311,129 +368,28 @@ flowchart TD
 
 * **Tumor Marker**: **Carcinoembryonic Antigen (CEA)**. Used for monitoring treatment response and detecting recurrence; NOT used for initial screening or diagnosis due to low sensitivity/specificity.
 
----
-
-<!-- SURGERY_GI_ZIP_CONTENT_START:11-11-5 -->
-
-### Additional surgical details integrated from the Surgery notes
-
-> [!info] Provenance and scope
-> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
-
-#### 14.19 Appendiceal Tumors
-
-> **Source:** Surgery ZIP — 14_Small_Intestine_Appendix.md
-
-##### Neuroendocrine tumor
+**Neuroendocrine tumor**
 - Common primary appendiceal neoplasm in classic surgical teaching.
 - Often discovered incidentally after appendectomy.
 - Small favorable distal tumors may be managed by appendectomy alone.
 - Larger tumors, high-risk histology or selected base lesions may warrant more extensive resection.
 
-##### Mucinous neoplasms
+**Mucinous neoplasms**
 - May cause mucocele.
 - Rupture can produce pseudomyxoma peritonei.
 
-##### Pseudomyxoma peritonei
+**Pseudomyxoma peritonei**
 - Accumulation of mucinous tumor deposits in peritoneum.
 - Often associated with appendiceal mucinous neoplasms.
 - Selected patients undergo cytoreductive surgery with HIPEC.
 
----
-
-#### 15.5 Colorectal Polyps
-
-> **Source:** Surgery ZIP — 15_Colorectal_Anorectal_Surgery.md
-
-##### Morphological classification
-- Pedunculated.
-- Sessile.
-- Flat.
-
-##### Histological classification
-| Type | Basic features | Malignancy relevance |
-|---|---|---|
-| Hyperplastic | Usually small, often distal | Generally low risk; distinguish serrated lesions |
-| Inflammatory pseudopolyp | Regenerative mucosa after inflammation | Not an adenoma |
-| Hamartomatous | Disorganized normal tissue components | Risk depends on syndrome |
-| Tubular adenoma | Neoplastic dysplastic glands | Premalignant |
-| Tubulovillous adenoma | Mixed architecture | Premalignant |
-| Villous adenoma | Villous architecture | Greater dysplasia/cancer association |
-| Serrated lesion | Serrated gland morphology and molecular alterations | Certain subtypes are precancerous |
-
-##### Adenoma–carcinoma sequence
-Normal epithelium → APC pathway disruption → adenoma → KRAS-related progression → additional tumor-suppressor alterations → carcinoma.
-
-##### Serrated pathway
-- BRAF alterations.
-- CpG island methylation.
-- MLH1 silencing in selected tumors.
-- Microsatellite instability.
-
-##### Risk factors in colorectal adenomas
-- Increasing polyp size.
-- Villous architecture.
-- High-grade dysplasia.
-- Multiple polyps.
-- Invasive cancer within the polyp.
-
----
-
-#### 15.6 Hereditary Colorectal Cancer and Polyposis Syndromes
-
-> **Source:** Surgery ZIP — 15_Colorectal_Anorectal_Surgery.md
-
-| Syndrome | Inheritance/gene | Key findings |
-|---|---|---|
-| FAP | AD, APC | Numerous adenomatous polyps, near-certain CRC risk if untreated |
-| Gardner syndrome | APC/FAP variant | Osteomas, desmoids, epidermoid cysts, dental abnormalities |
-| Turcot syndrome | APC or MMR-related | Colorectal polyposis/cancer with CNS tumors |
-| Lynch syndrome | AD, mismatch-repair genes | CRC and extracolonic malignancies |
-| MUTYH-associated polyposis | AR, MUTYH | Adenomatous polyposis, increased CRC risk |
-| Peutz–Jeghers | AD, STK11 | Hamartomatous polyps, mucocutaneous pigmentation |
-| Juvenile polyposis syndrome | SMAD4/BMPR1A pathways | Multiple juvenile polyps, increased GI cancer risk |
-| Cowden syndrome | PTEN | Hamartomatous lesions and associated cancers |
-
-##### Familial adenomatous polyposis
-- Germline APC mutation on chromosome 5.
-- Numerous colorectal adenomas.
-- Classical untreated disease carries extremely high CRC risk.
-- May be associated with CHRPE and desmoid tumors.
-
-Management includes appropriate surveillance and prophylactic colorectal surgery based on phenotype.
-
-##### Peutz–Jeghers syndrome
-- STK11 gene.
-- Perioral and mucocutaneous pigmented macules.
-- Hamartomatous intestinal polyps.
-- Histology: arborizing smooth-muscle pattern.
-- May present with intussusception.
-- Increased risk of gastrointestinal and other malignancies.
-
-##### Lynch syndrome
-- Mismatch-repair defects: MLH1, MSH2, MSH6, PMS2 and related mechanisms.
-- Microsatellite instability.
-- Often proximal/right-sided colorectal cancers.
-- Associated with endometrial, ovarian and other malignancies.
-
-##### Classical Amsterdam criteria concept
-- Multiple affected relatives.
-- Involvement of successive generations.
-- At least one early-onset cancer.
-- Familial cancer pattern consistent with Lynch syndrome.
-
-Molecular testing and contemporary risk-based surveillance complement historical family-history criteria.
-
----
-
-#### 7. Neuroendocrine tumors (NETs, historically "carcinoids") / Appendiceal NET — classic exam rule and nuance
-
-> **Source:** Surgery ZIP — 10_Adrenal_and_Neuroendocrine_Surgery.md
-
 - Legacy exam framework: **<2 cm away from base → appendectomy**, **>2 cm or high-risk/base involvement → consider right hemicolectomy**.
 - Actual postoperative decisions also depend on histologic grade, mesoappendiceal invasion, margin, lymphovascular invasion and other features. The "2 cm" rule is a simplified teaching heuristic, not a stand-alone universal operation rule.
 
-<!-- SURGERY_GI_ZIP_CONTENT_END:11-11-5 -->
+
+---
+
+
 ## Index Coverage Checklist
 
 - [x] 11.1 Malabsorptive Disorders

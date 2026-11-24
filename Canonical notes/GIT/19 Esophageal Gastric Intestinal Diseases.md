@@ -59,19 +59,6 @@ Due to rising global resistance rates to Clarithromycin ($>15\%$), guidelines fr
 #### Confirmation of Eradication
 Mandatory in all treated patients, performed at least **4 weeks post-completion of antibiotic therapy** and at least **2 weeks after stopping PPI therapy** (PPIs suppress bacterial load, causing false-negative test results). Confirmed via **Urea Breath Test** or **Stool Antigen Test**. Serology cannot be used for confirmation of eradication because anti-*H. pylori* IgG antibodies persist for years post-cure.
 
----
-
-<!-- SURGERY_GI_ZIP_CONTENT_START:19-19-1 -->
-
-### Additional surgical details integrated from the Surgery notes
-
-> [!info] Provenance and scope
-> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
-
-#### 13.4 Complications of Peptic Ulcer Disease / C. Gastric outlet obstruction
-
-> **Source:** Surgery ZIP — 13_Stomach_Duodenum_Bariatric_Surgery.md
-
 Causes include:
 - Pyloric/duodenal scarring from chronic peptic ulcer disease.
 - Gastric carcinoma.
@@ -95,22 +82,10 @@ Management:
 - Upper GI endoscopy and tissue diagnosis when indicated.
 - Definitive treatment directed at cause, including dilation or surgery in selected benign cases.
 
----
-
-#### 13.10 Bezoars
-
-> **Source:** Surgery ZIP — 13_Stomach_Duodenum_Bariatric_Surgery.md
-
-- **Trichobezoar:** collection of hair in stomach.
-- **Phytobezoar:** collection of vegetable fibers.
-- Can cause gastric outlet obstruction or intestinal obstruction.
-- Rapunzel syndrome describes extension of a large trichobezoar beyond the stomach into the small bowel.
-- Endoscopic removal is possible for selected bezoars; larger trichobezoars may need surgery.
-- Address predisposing behavioral or gastrointestinal conditions.
 
 ---
 
-<!-- SURGERY_GI_ZIP_CONTENT_END:19-19-1 -->
+
 ## 19.2 Clinical Management of Inflammatory Bowel Disease
 
 Inflammatory Bowel Disease (IBD) comprises **Ulcerative Colitis (UC)** and **Crohn Disease (CD)**, characterized by chronic, relapsing immune-mediated intestinal inflammation.
@@ -169,6 +144,71 @@ Used to grade acute UC severity to guide hospitalization and rescue therapy deci
 * **Moderate-to-Severe CD**: Early "Top-Down" initiation of Biologics (**Infliximab**, **Adalimumab**, **Ustekinumab**, or **Risankizumab**) combined with thiopurines (**Azathioprine**) to prevent stricturing and penetrating complications.
 * **Perianal Fistulizing CD**: Surgical drainage of abscesses with non-cutting Seton placement PLUS **Infliximab** (biologic of choice for fistulizing disease).
 
+**Definition**
+Intestinal failure/malabsorption resulting from insufficient functional bowel length, commonly after extensive small-bowel resection.
+
+The revision source uses **less than 200 cm of remaining small intestine** as an anatomical threshold.
+
+**Causes**
+- Mesenteric ischemia.
+- Crohn disease with repeated resections.
+- Trauma.
+- Volvulus.
+- Pediatric congenital or acquired intestinal loss.
+
+**Consequences**
+- High-output diarrhea.
+- Malabsorption and weight loss.
+- Dehydration and electrolyte depletion.
+- Fat-soluble vitamin deficiency.
+- Vitamin B12 deficiency after terminal ileal loss.
+- Bile-salt depletion and gallstones.
+- Hyperoxaluria and kidney stones.
+
+**Management**
+- Specialized nutritional support.
+- Oral rehydration and electrolyte replacement.
+- Antidiarrheal and antisecretory treatment as appropriate.
+- Enteral adaptation when possible.
+- Parenteral nutrition when required.
+- Teduglutide in selected patients.
+- Intestinal lengthening procedures:
+  - Bianchi.
+  - STEP (serial transverse enteroplasty).
+- Intestinal transplantation for highly selected patients.
+
+**Definition**
+Abnormal communication between the gastrointestinal lumen and skin or another organ.
+
+**Classification by output**
+| Output | Volume |
+|---|---|
+| Low | Less than 200 mL/day |
+| Moderate | 200–500 mL/day |
+| High | Greater than 500 mL/day |
+
+**Factors against spontaneous closure: FRIEND**
+- **F:** Foreign body.
+- **R:** Radiation.
+- **I:** Infection/inflammation.
+- **E:** Epithelialized tract.
+- **N:** Neoplasm.
+- **D:** Distal obstruction.
+
+**Management framework: SNAP**
+1. **S:** Sepsis and skin care.
+2. **N:** Nutrition.
+3. **A:** Anatomy delineation.
+4. **P:** Plan for definitive procedure.
+
+**Surgical principles**
+- Control sepsis first.
+- Optimize nutrition.
+- Correct fluid and electrolyte deficits.
+- Define fistula anatomy.
+- Delay definitive reconstructive surgery until inflammation and nutritional status permit, unless urgent operative indications exist.
+
+
 ---
 
 ### C. Extraintestinal Manifestations of IBD
@@ -190,301 +230,8 @@ IBD is a systemic disorder involving multiple organ systems beyond the gut. Mani
 
 ---
 
-<!-- SURGERY_GI_ZIP_NEW_SECTION_START:newsection-19-19-3 -->
-## 19.3 GI Fluid, Nutritional Support, Intestinal Failure and Fistulas
 
-<!-- SURGERY_GI_ZIP_NEW_SECTION_END:newsection-19-19-3 -->
-<!-- SURGERY_GI_ZIP_CONTENT_START:19-19-3 -->
 
-### Additional surgical details integrated from the Surgery notes
-
-> [!info] Provenance and scope
-> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
-
-#### 14.9 Superior Mesenteric Artery Syndrome
-
-> **Source:** Surgery ZIP — 14_Small_Intestine_Appendix.md
-
-Also called Wilkie syndrome or cast syndrome.
-
-##### Mechanism
-Loss of the normal fat pad and narrowing of the angle between SMA and aorta compress the third part of the duodenum.
-
-##### Predisposing factors
-- Rapid weight loss.
-- Severe malnutrition.
-- Spinal surgery or prolonged body casting.
-
-##### Presentation
-- Postprandial epigastric pain.
-- Vomiting, often bilious.
-- Early satiety and weight loss.
-
-##### Investigations
-- CT/CT angiographic assessment of aortomesenteric anatomy and duodenal compression.
-
-##### Management
-- Nutritional restoration and weight gain.
-- Postural/feeding strategies.
-- Refractory obstruction: duodenojejunostomy or selected Strong procedure.
-
----
-
-#### 14.13 Short Bowel Syndrome
-
-> **Source:** Surgery ZIP — 14_Small_Intestine_Appendix.md
-
-##### Definition
-Intestinal failure/malabsorption resulting from insufficient functional bowel length, commonly after extensive small-bowel resection.
-
-The revision source uses **less than 200 cm of remaining small intestine** as an anatomical threshold.
-
-##### Causes
-- Mesenteric ischemia.
-- Crohn disease with repeated resections.
-- Trauma.
-- Volvulus.
-- Pediatric congenital or acquired intestinal loss.
-
-##### Consequences
-- High-output diarrhea.
-- Malabsorption and weight loss.
-- Dehydration and electrolyte depletion.
-- Fat-soluble vitamin deficiency.
-- Vitamin B12 deficiency after terminal ileal loss.
-- Bile-salt depletion and gallstones.
-- Hyperoxaluria and kidney stones.
-
-##### Management
-- Specialized nutritional support.
-- Oral rehydration and electrolyte replacement.
-- Antidiarrheal and antisecretory treatment as appropriate.
-- Enteral adaptation when possible.
-- Parenteral nutrition when required.
-- Teduglutide in selected patients.
-- Intestinal lengthening procedures:
-  - Bianchi.
-  - STEP (serial transverse enteroplasty).
-- Intestinal transplantation for highly selected patients.
-
----
-
-#### 14.14 Enterocutaneous and Intestinal Fistula
-
-> **Source:** Surgery ZIP — 14_Small_Intestine_Appendix.md
-
-##### Definition
-Abnormal communication between the gastrointestinal lumen and skin or another organ.
-
-##### Classification by output
-| Output | Volume |
-|---|---|
-| Low | Less than 200 mL/day |
-| Moderate | 200–500 mL/day |
-| High | Greater than 500 mL/day |
-
-##### Factors against spontaneous closure: FRIEND
-- **F:** Foreign body.
-- **R:** Radiation.
-- **I:** Infection/inflammation.
-- **E:** Epithelialized tract.
-- **N:** Neoplasm.
-- **D:** Distal obstruction.
-
-##### Management framework: SNAP
-1. **S:** Sepsis and skin care.
-2. **N:** Nutrition.
-3. **A:** Anatomy delineation.
-4. **P:** Plan for definitive procedure.
-
-##### Surgical principles
-- Control sepsis first.
-- Optimize nutrition.
-- Correct fluid and electrolyte deficits.
-- Define fistula anatomy.
-- Delay definitive reconstructive surgery until inflammation and nutritional status permit, unless urgent operative indications exist.
-
----
-
-#### 7. Sinus and fistula
-
-> **Source:** Surgery ZIP — 03_Wounds_Healing_Infection.md
-
-- **Sinus:** abnormal, usually blind-ending tract from deep focus to skin/mucosa (e.g., chronic osteomyelitis, retained suture).
-- **Fistula:** abnormal communication between **two epithelialized surfaces or organs** (e.g., enterocutaneous fistula).
-- Causes include chronic infection, inflammatory disease, trauma, surgery, foreign body and malignancy.
-- **Management** requires identifying both source and tract, controlling infection, protecting adjacent tissue/skin, correcting nutrition and deciding whether closure requires surgery.
-
-#### 1. Physiological basis of fluid therapy
-
-> **Source:** Surgery ZIP — 04_Nutrition_Fluids_Electrolytes.md
-
-##### Body fluid compartments- **Total body water:** approximately 60% of lean adult male body weight, lower on average with higher fat percentage/age; clinical estimates vary.
-- **Intracellular fluid (ICF):** about two-thirds of total body water; **potassium** predominant intracellular cation.
-- **Extracellular fluid (ECF):** about one-third; separated into **interstitial ~75%** and **plasma ~25%** of ECF; **sodium** predominant extracellular cation.
-- **Transcellular fluids:** CSF, GI secretions, pleural/peritoneal fluids; fluid losses can be substantial despite relatively small baseline volumes.
-
-| Loss | Common mechanism | Key consequences |
-|---|---|---|
-| Hemorrhage | Trauma/surgical bleeding | Reduced circulating RBC mass and preload, oxygen-delivery failure |
-| Vomiting/NG suction | Gastric HCl and fluid loss | Volume contraction, **hypochloremic metabolic alkalosis**, hypokalemia |
-| Diarrhea/intestinal fistula | Bicarbonate, sodium, potassium and water loss | Volume depletion; often **non-anion-gap metabolic acidosis** |
-| Third spacing/capillary leak | Sepsis, burns, pancreatitis, major surgery | Reduced effective circulating volume despite total-body fluid accumulation |
-| Renal loss | Diuretics, osmotic diuresis | Sodium/potassium disturbances, volume depletion |
-| Insensible loss | Fever, exposed tissue, tachypnea | Increased maintenance needs |
-
-**Starling forces:** net fluid movement depends on intravascular hydrostatic pressure, oncotic forces, endothelial permeability and lymphatic drainage. In sepsis/burns the barrier leaks → edema with intravascular depletion.
-
-#### 2. Intravenous fluids: identify what is being replaced
-
-> **Source:** Surgery ZIP — 04_Nutrition_Fluids_Electrolytes.md
-
-| Fluid | Relevant characteristics | Major use / caution |
-|---|---|---|
-| **0.9% normal saline** | Na and Cl ~154 mmol/L each; relatively high chloride | Effective volume replacement; large volumes may cause **hyperchloremic metabolic acidosis** |
-| **Ringer lactate / Hartmann** | Balanced crystalloid; WOR Hartmann approx Na 131, K 5, Ca 2, Cl 111, lactate 29 mmol/L | Common resuscitation/replacement fluid; lactate acts as buffer precursor |
-| Dextrose-containing fluid | Provides free-water effect after glucose metabolism and calories; no durable intravascular expansion | Specific maintenance/free-water needs; not primary treatment of hemorrhagic shock |
-| Colloids | Macromolecules intended to retain intravascular volume | Benefits/harms and choice depend on condition; not first-line default for all surgical shock |
-| **Blood components** | Restore oxygen-carrying capacity and coagulation | Hemorrhage, component-specific deficits (Ch. 05) |
-
-##### Fluid therapy frameworks1. **Resuscitation:** restore organ perfusion in shock/acute deficit; reassess repeatedly.
-2. **Maintenance:** replace baseline water/electrolyte needs while patient cannot drink.
-3. **Replacement:** account for measured abnormal ongoing losses (stoma, drain, emesis, NG aspirate, fistula).
-4. **Redistribution/overload:** avoid continued indiscriminate fluid administration in edema, AKI or cardiac failure.
-
-##### Assess before and after each fluid intervention- **Bedside:** mental state, pulse/BP/MAP, capillary refill, peripheral temperature, breathing, lung findings, edema, urine output, fluid balance and weight.
-- **Biochemistry:** Na, K, chloride, bicarbonate, renal function, glucose, lactate, calcium, Mg and phosphate when relevant.
-- **Response matters more than a fixed fluid volume:** identify ongoing bleeding or septic source and act on it.
-- **Urine output:** common adult resuscitation target **≥0.5 mL/kg/h** when appropriate; interpret with renal disease/diuretics and not alone.
-
-#### 3. Important electrolyte and acid–base disturbances
-
-> **Source:** Surgery ZIP — 04_Nutrition_Fluids_Electrolytes.md
-
-| Disturbance | Typical surgical setting | Pathophysiology / clinical clue |
-|---|---|---|
-| Hyponatremia | Excess hypotonic fluid, postoperative ADH release, GI losses replaced incorrectly | Cerebral edema risk with rapid decline; assess symptoms, acuity and volume |
-| Hypernatremia | Free-water loss, insufficient intake, osmotic diuresis | Cellular dehydration; correct at rate appropriate to chronicity |
-| Hypokalemia | Vomiting, NG suction, diarrhea, insulin, diuretics | Weakness/ileus, U waves and arrhythmia; often concurrent low Mg |
-| Hyperkalemia | AKI, tissue crush/rhabdomyolysis, massive transfusion, acidosis | Peaked T waves → QRS widening/arrhythmias; urgent ECG-directed management |
-| Hypocalcemia | Massive transfusion (citrate), pancreatitis, refeeding | Paresthesia, tetany, prolonged QT, impaired cardiac contraction |
-| Hypomagnesemia | GI loss, diuretics, refeeding | Refractory hypokalemia and arrhythmia |
-| Hypophosphatemia | Refeeding, insulin therapy | Respiratory-muscle weakness, hemolysis, cardiac dysfunction |
-| **Metabolic alkalosis** | Gastric losses, contraction/diuretics | Chloride depletion and renal bicarbonate retention |
-| **Normal-AG metabolic acidosis** | Diarrhea, bicarbonate loss, large saline loads | Hyperchloremia; identify losses |
-| **High-AG metabolic acidosis** | Lactic acidosis, ketoacidosis, renal failure | Tissue hypoperfusion/other acid accumulation |
-
-**Anion gap** (without K): `AG = Na − (Cl + HCO₃)`; reference range depends on assay and albumin. Low albumin can conceal a raised corrected anion gap.
-
-**Physiology trap:** hyperkalemia in trauma can result from crush injury and cellular K release; hypokalemia in refeeding occurs when insulin shifts potassium **into cells**, not because total stores were necessarily normal before feeding.
-
-#### 4. Surgical metabolic response to injury/stress
-
-> **Source:** Surgery ZIP — 04_Nutrition_Fluids_Electrolytes.md
-
-##### Neuroendocrine response- Pain, injury, cytokines and reduced circulating volume activate **sympathetic catecholamines, cortisol, glucagon, ADH and RAAS**.
-- **Flow phase:** catabolism, increased energy expenditure, insulin resistance, hyperglycemia, proteolysis and nitrogen loss.
-- **Ebb phase (early shock):** decreased tissue perfusion/oxygen consumption; restoration of circulation is primary.
-- Severe injury, burns, sepsis and prolonged immobility accelerate lean-mass depletion.
-- A key purpose of ERAS is to blunt these effects with analgesia, nutrition, temperature management, reduced fasting and early mobilization.
-
-#### 5. Assessing nutritional status
-
-> **Source:** Surgery ZIP — 04_Nutrition_Fluids_Electrolytes.md
-
-##### What to assess- Recent involuntary **weight loss**: >10% in 6 months is a high-risk marker in WOR; rate and context matter.
-- BMI and body composition; **mid-upper-arm circumference** for muscle; **triceps skinfold** for fat stores.
-- Appetite, GI function, intake duration, malabsorption, wounds, chronic systemic disease.
-- Sarcopenia/frailty and presence of edema that falsely elevates weight.
-- Serum albumin is a **prognostic inflammatory/illness marker**, **not a stand-alone diagnostic measure of malnutrition**. Both uploaded sources discuss albumin but differ in how strongly it is interpreted.
-
-##### MUST — Malnutrition Universal Screening Tool**MUST score = BMI score + unplanned weight-loss score + acute disease effect score.**
-
-| Total | Risk group (common teaching) | Action concept |
-|---|---|---|
-| 0 | Low | Routine monitoring |
-| 1 | Medium | Observe intake and reassess |
-| ≥2 | High | Nutritional assessment and intervention |
-
-The tool should not replace clinical judgment when a patient is edematous, critically ill or unable to provide reliable weight data.
-
-#### 6. Enteral nutrition (EN)
-
-> **Source:** Surgery ZIP — 04_Nutrition_Fluids_Electrolytes.md
-
-##### Why preferred when feasible- Uses functional GI tract, maintains mucosal integrity and gut barrier, supports enteral physiology.
-- **Oral feeding** preferred if swallowing and intake adequate. Artificial EN when oral intake inadequate but intestinal absorption functional.
-- Consider whether the stomach empties adequately and whether aspiration risk warrants post-pyloric feeding.
-
-##### Choosing the access route
-| Route | Typical situation | Main risk/limitation |
-|---|---|---|
-| Oral | Safe swallow, working gut | May not meet calculated needs |
-| **Nasogastric (Ryle tube)** | Short-term gastric feeding/decompression | Aspiration, misplacement, blockade/discomfort |
-| **Nasojejunal** | Short-term feed with impaired gastric emptying/high gastric aspiration risk | Specialized positioning, migration/blockage |
-| **PEG/gastrostomy** | Longer-term gastric access | Peristomal leak/infection and aspiration remains possible |
-| **Feeding jejunostomy** | Long-term/postoperative small bowel feeding when stomach unsuitable | Tube issues, bowel-related complications |
-
-- WOR distinguishes short- vs longer-term access around **3 weeks**; Doctut uses roughly **4–6 weeks** in its examples. **These are approximate planning intervals, not absolute rules.**
-- **NG placement:** measure nose–ear–xiphisternum as initial guide; verify by validated aspiration pH and/or appropriate imaging **before feeding**. **Air insufflation with epigastric auscultation is unreliable for confirming safe position** despite its inclusion in an older source.
-- **Stamm gastrostomy:** direct tube access and fixation. **Witzel jejunostomy:** serosal tunnel around tube to reduce leakage. **PEG:** endoscopic percutaneous access.
-
-##### EN complications- Tube blockage/displacement; aspiration; intolerance with vomiting, diarrhea, distension; electrolyte disturbances; infection at entry; **refeeding syndrome**.
-- Feed intolerance must be interpreted in the setting of ileus, bowel ischemia, obstruction and hemodynamic instability.
-
-#### 7. Parenteral nutrition (PN/TPN)
-
-> **Source:** Surgery ZIP — 04_Nutrition_Fluids_Electrolytes.md
-
-##### Indications (principle)- **Gut cannot be safely used or cannot absorb enough:** prolonged severe ileus/obstruction, short bowel, high-output proximal fistula, intestinal failure or other severe GI dysfunction.
-- PN does **not** automatically replace EN in all patients with pancreatitis, sepsis or critical illness. If gut functions and enteral nutrition is tolerated, it remains generally preferable.
-
-##### Access- **Peripheral PN:** restricted by osmolarity, suitable for limited durations/modest provision.
-- **Central PN:** central venous catheter or **PICC** for hyperosmolar complete feeding; long-term tunneled catheters (Hickman) may be used.
-- **Subclavian/IJV/femoral** sites each trade off insertion complication, infection and thrombosis risks; ultrasonography, access needs and patient condition matter.
-- Catheter tip generally near the **cavoatrial junction/lower SVC** as appropriate; assess placement/complications by institutional methods.
-
-##### What PN contains- Dextrose, amino acids, lipid emulsion, electrolytes, fluid, vitamins and trace elements.
-- Energy per gram: **carbohydrate ~4 kcal**, **protein ~4 kcal**, **fat ~9 kcal** (parenteral dextrose delivery energy convention may differ slightly).
-- Source formulas such as **50:30:20** and **60:20:20** are example macronutrient distributions, **not universal requirements**; modify for catabolic state, glycemic control, respiratory/liver failure and lipid tolerance.
-
-##### Monitoring and complications
-| Group | Monitor/recognize |
-|---|---|
-| Catheter mechanical | Pneumothorax, bleeding, arrhythmia, malposition, thrombosis, air embolism |
-| Catheter infectious | Catheter-related bloodstream infection: fever/rigors, paired cultures as appropriate |
-| Metabolic | Hyperglycemia, hypoglycemia on abrupt interruption in selected cases, electrolyte shifts, hypertriglyceridemia |
-| Fluid | Overload/heart failure or dehydration |
-| Hepatobiliary | Cholestasis, steatosis and intestinal-failure-associated liver disease with prolonged PN |
-| Nutritional | Essential fatty acid, zinc, vitamin and trace-element deficiencies |
-
-- Early: frequently check glucose, Na/K/Mg/phosphate and renal function; later reduce frequency after stabilization. Document weight, fluid input/output and clinical trajectory.
-
-#### 8. Refeeding syndrome — mechanism and recognition
-
-> **Source:** Surgery ZIP — 04_Nutrition_Fluids_Electrolytes.md
-
-**Malnourished patient + rapid nutritional reintroduction → insulin surge → intracellular uptake of phosphate, K and Mg → potentially severe organ dysfunction.**
-
-```mermaid
-flowchart LR
-A[Prolonged starvation] --> B[Low insulin and depleted stores]
-B --> C[Rapid carbohydrate feeding]
-C --> D[Insulin increases]
-D --> E[Phosphate / K / Mg shift into cells]
-E --> F[Arrhythmia, respiratory failure, fluid overload]
-```
-
-##### High-risk clues emphasized in WOR- **BMI <16 kg/m²**; **weight loss >15% within 3–6 months**; negligible intake >10 days; low baseline phosphate, magnesium or potassium.
-- The classic biochemical signature is **hypophosphatemia**; hypokalemia and hypomagnesemia commonly coexist.
-- Consequences: cardiac failure, arrhythmia, weakness/respiratory-muscle failure, neurologic deterioration.
-
-##### Prevention framework1. Identify risk **before feeding**; check phosphate, K, Mg and glucose.
-2. Give **thiamine** and necessary micronutrients.
-3. Introduce nutrition **cautiously and progressively** in high-risk patients.
-4. Monitor weight, fluids, ECG (where indicated) and electrolytes closely and replenish deficits.
-
-<!-- SURGERY_GI_ZIP_CONTENT_END:19-19-3 -->
 ## Index Coverage Checklist
 - [x] 19.1 Management of Peptic Ulcer & *H. pylori* (Dyspepsia criteria, Test-and-Treat, alarm features, 14-day Bismuth Quadruple therapy, eradication confirmation)
 - [x] 19.2 Clinical Management of Inflammatory Bowel Disease (UC vs CD differentiation, Truelove and Witts criteria, Step-up/Top-down, ASUC protocol, extraintestinal manifestations)
