@@ -47,6 +47,24 @@ Cholestasis refers to impairment of bile formation or flow, leading to systemic 
 
 ---
 
+<!-- SURGERY_GI_ZIP_CONTENT_START:12B-12-3 -->
+
+### Additional surgical details integrated from the Surgery notes
+
+> [!info] Provenance and scope
+> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
+
+#### 10. Sclerosing cholangitis and other duct strictures
+
+> **Source:** Surgery ZIP — 17_Gallbladder_and_Biliary_Surgery.md
+
+- **Primary sclerosing cholangitis (PSC):** chronic inflammatory/fibrosing injury of bile ducts, characteristic **multifocal strictures and intervening dilatations** on MRCP/ERCP (“**beaded/pruned-tree**” appearance); strong association with inflammatory bowel disease, especially UC.
+- Clinical course: pruritus, cholestatic enzymes, jaundice, recurrent cholangitis, biliary cirrhosis and increased risk of **cholangiocarcinoma**.
+- Important distinction: do not mix PSC with **primary biliary cholangitis (PBC)** (different duct size, autoimmune profile and pathology).
+- Doctut lists transplantation for severe end-stage disease and states some excessively simplified malignancy rates; use source statements as exam context only.
+- **Benign strictures:** postprocedural/ischemic/inflammatory lesions; ERCP-based intervention vs surgical biliary reconstruction depends on site, ductal continuity and severity.
+
+<!-- SURGERY_GI_ZIP_CONTENT_END:12B-12-3 -->
 ## 12.4 Hepatic Tumors
 
 ### A. Benign Hepatic Tumors
@@ -115,6 +133,58 @@ Cholestasis refers to impairment of bile formation or flow, leading to systemic 
 
 ---
 
+<!-- SURGERY_GI_ZIP_CONTENT_START:12B-12-4 -->
+
+### Additional surgical details integrated from the Surgery notes
+
+> [!info] Provenance and scope
+> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
+
+#### 6. Benign and cystic liver lesions
+
+> **Source:** Surgery ZIP — 16_Liver_and_Portal_Hypertension.md
+
+##### Compare hemangioma, focal nodular hyperplasia (FNH), hepatocellular adenoma
+| Feature | **Cavernous hemangioma** | **FNH** | **Hepatocellular adenoma** |
+|---|---|---|---|
+| Tissue | Benign vascular channels | Hyperplastic response to local vascular changes | True benign hepatocellular neoplasm |
+| Epidemiology | Most common benign liver tumor; often incidental | Young–middle-aged adults; frequently women | Often young women; association with **OCPs**, anabolic steroids/other factors |
+| Imaging clue | Peripheral nodular enhancement with **centripetal fill-in**; T2-bright on MRI | **Central stellate scar**, characteristic enhancement; sulfur-colloid uptake possible | Variable arterial enhancement; no normal bile ducts/Kupffer cells |
+| Histology | Cavernous vessels | Hepatocytes, abnormal vessels, ductular reaction and fibrous scar | Sheets of hepatocytes; absent normal portal tracts/bile ducts |
+| Main complication | Large symptomatic vascular lesion, rare rupture | Usually minimal | **Hemorrhage/rupture** and subtype-dependent **malignancy risk** |
+| Usual approach | Observation if typical/asymptomatic | Observation if secure diagnosis/asymptomatic | Stop hormonal exposure where relevant; resection considered by **size, sex, growth, bleeding and β-catenin risk** |
+
+**Hepatic adenoma subtypes (Robbins/WOR):**
+- **HNF1A-inactivated:** often associated with fatty change; primarily women.
+- **Inflammatory:** linked to inflammatory/JAK-STAT biology and metabolic disease; can bleed.
+- **β-catenin-activated:** particularly important **malignant transformation risk**, especially with exon-specific alterations; management is more aggressive.
+- Doctut also mentions a **sonic-hedgehog–activated** subgroup with hemorrhage associations.
+
+**Other cystic lesions:** simple hepatic cyst (fenestration if symptomatic), polycystic liver disease, and biliary cystic neoplasms. **Enhancing septations/mural nodules** increase concern for neoplasm rather than a simple cyst.
+
+#### 12. Cholangiocarcinoma
+
+> **Source:** Surgery ZIP — 17_Gallbladder_and_Biliary_Surgery.md
+
+##### Sites and named tumor- **Intrahepatic**, **perihilar** or **distal extrahepatic** duct cancer.
+- **Klatskin tumor = perihilar cholangiocarcinoma** at right/left hepatic duct confluence.
+- Risk contexts: PSC, choledochal cyst, Caroli disease and certain **liver flukes** (*Clonorchis sinensis*, *Opisthorchis viverrini*) in source materials.
+- Presentation: progressive **obstructive jaundice**, pale stool/dark urine/pruritus, cholestatic tests, weight loss; cholangitis may occur.
+- **Courvoisier sign/law:** palpable distended nontender GB with jaundice suggests **distal malignant obstruction** over longstanding gallstones; important exceptions exist, especially **hilar obstruction** (GB may not distend).
+
+##### Bismuth–Corlette (hilar tumor)| Type | Extent | Operative significance in review texts |
+|---|---|---|
+| **I** | Below duct confluence | Possible bile duct resection/reconstruction |
+| **II** | Involves confluence, not secondary ducts | Complex hilar duct resection |
+| **IIIa** | Extends into **right** hepatic duct system | May require extended right-sided hepatectomy |
+| **IIIb** | Extends into **left** hepatic duct system | May require extended left-sided hepatectomy |
+| **IV** | Bilateral secondary duct involvement/multifocal | Often complex/unresectable in older sources; individualized staging essential |
+
+- **MRCP** demonstrates longitudinal duct extent; CT/angiographic assessment checks **portal vein/hepatic artery**, lobar atrophy and metastatic spread.
+- **Distal duct cholangiocarcinoma** may require **pancreaticoduodenectomy (Whipple)** if resectable.
+- **Unresectable obstruction:** biliary **SEMS stenting** or percutaneous drainage, symptom control and oncologic treatment.
+
+<!-- SURGERY_GI_ZIP_CONTENT_END:12B-12-4 -->
 ## Index Coverage Checklist
 
 - [x] 12.3 Cholestatic & Autoimmune Liver Diseases

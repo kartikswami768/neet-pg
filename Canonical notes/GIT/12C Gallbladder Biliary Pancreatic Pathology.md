@@ -54,6 +54,53 @@ Gallstones affect $10–20\%$ of adults in developed nations. Divided into **Cho
 
 ---
 
+<!-- SURGERY_GI_ZIP_CONTENT_START:12C-12-5 -->
+
+### Additional surgical details integrated from the Surgery notes
+
+> [!info] Provenance and scope
+> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
+
+#### 2. How stones form
+
+> **Source:** Surgery ZIP — 17_Gallbladder_and_Biliary_Surgery.md
+
+##### Bile chemistry- Normally bile acids and phospholipids maintain cholesterol in soluble micelles.
+- **Cholesterol supersaturation + nucleation + gallbladder hypomotility/stasis** → cholesterol crystallization and stone formation.
+- Pigment stones result from bilirubin breakdown/precipitation; **infection** favors brown pigment stones, while **chronic hemolysis** favors black pigment stones.
+
+| Type | Composition / mechanism | Classic associations | Typical appearance |
+|---|---|---|---|
+| **Cholesterol** | Cholesterol monohydrate crystals, low relative bile salts, stasis | Female hormones, obesity, pregnancy, ileal disease/resection, rapid weight change, TPN | Pale/yellow, usually radiolucent |
+| **Mixed** | Cholesterol mixed with pigment/calcium | Common overall in WOR | Variable radiopacity; multiple/faceted |
+| **Black pigment** | Calcium bilirubinate and other insoluble bilirubin polymers | **Hemolytic anemia**, sickle cell disease, hereditary spherocytosis, cirrhosis | Hard dark stones, gallbladder bile |
+| **Brown pigment** | Calcium bilirubinate + fatty acid salts; bacterial deconjugation | **Bile duct infection/stasis**, parasites, foreign body/clips | Soft earthy brown, intra-/extrahepatic ducts |
+
+- Doctut discusses the **“5 Fs”** as a memory aid for some cholesterol-stone associations; they are not valid diagnostic criteria.
+- **Black vs brown:** hemolysis/sterile bile **versus** ascending infected bile; brown stones are particularly associated with recurrent CBD stones.
+
+#### 11. Gallbladder carcinoma (GBC)
+
+> **Source:** Surgery ZIP — 17_Gallbladder_and_Biliary_Surgery.md
+
+##### Pathology and risk factors- Predominantly **adenocarcinoma**; often arises in **fundus** in older reviews.
+- Risks in WOR/Doctut: long-standing cholelithiasis, suspicious large polyps, porcelain GB, chronic typhoid-carrier state, anomalous pancreatobiliary junction, chronic inflammation.
+- **Clinical:** early cancer may mimic gallstone disease or be discovered incidentally after LC; late disease causes weight loss, mass, obstructive jaundice and locally invasive symptoms.
+- Workup: **CECT** for anatomy/resectability; further liver/duct imaging when needed; tumor markers (e.g. **CA19-9**) are supportive, not diagnostic in isolation.
+
+##### Staging-based operative concept| Stage | Layer/spread | Surgery described in sources |
+|---|---|---|
+| **Tis/T1a** | Limited to mucosa/lamina propria | **Simple cholecystectomy** may be adequate if fully excised |
+| **T1b** | Into **muscular layer** | Consider **extended/radical resection** for appropriate candidates |
+| **T2** | Into perimuscular connective tissue, without serosal perforation | **Radical cholecystectomy** with liver-bed (IVb/V) and regional nodes in suitable cases |
+| **T3** | Perforates serosa/invades liver or one adjacent organ | Selected complex en-bloc resection if technically/oncologically feasible |
+| **T4 / disseminated** | Major vascular/multiple organ invasion or distant spread | Usually palliative systemic/endoscopic approaches |
+
+- **Radical cholecystectomy:** GB + adjacent liver bed (classically **segments IVb and V**) and regional lymphadenectomy.
+- **Incidental post-LC carcinoma:** review histology and operative details; T1a versus T1b/T2 determines whether **completion resection** should be discussed.
+- Doctut notes bile duct removal is **not routine solely for lymph-node dissection** unless directly involved or needed for margin.
+
+<!-- SURGERY_GI_ZIP_CONTENT_END:12C-12-5 -->
 ## 12.6 Pancreatic Pathology
 
 ### A. Acute Pancreatitis
@@ -145,6 +192,170 @@ flowchart TD
 
 ---
 
+<!-- SURGERY_GI_ZIP_CONTENT_START:12C-12-6 -->
+
+### Additional surgical details integrated from the Surgery notes
+
+> [!info] Provenance and scope
+> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
+
+#### 2. Why the pancreas does not normally autodigest itself
+
+> **Source:** Surgery ZIP — 18_Pancreatic_and_Splenic_Surgery.md
+
+##### Protective mechanisms (Robbins)1. **Inactive zymogens** made in acinar cells, packed in granules.
+2. **Trypsinogen** normally activated in duodenum by **enteropeptidase**, and active trypsin activates other pancreatic proenzymes.
+3. Endogenous **SPINK1** inhibits premature trypsin activity.
+4. Proper organelle trafficking separates zymogens from lysosomal hydrolases.
+5. Protease/autodegradation mechanisms help limit accidental intrapancreatic enzyme activation.
+
+##### Acute pancreatitis cascade
+```mermaid
+flowchart TD
+A[Gallstone obstruction / alcohol / toxin / trauma / metabolic trigger] --> B[Acinar injury or abnormal duct drainage]
+B --> C[Intrapancreatic trypsinogen activation]
+C --> D[Proteases / elastase / lipase / phospholipase]
+D --> E[Edema + fat necrosis + vascular injury]
+E --> F[Local inflammation / necrosis]
+F --> G[Systemic cytokines, capillary leak and organ dysfunction]
+```
+
+- **Trypsin** amplifies activation cascades, inflammatory pathways, kinin and coagulation systems.
+- **Lipase** → adipose breakdown → **fat necrosis** and calcium-fatty acid **saponification** (hypocalcemia in severe disease).
+- **Elastase and proteases** → vessel injury, tissue digestion and bleeding.
+- Severe systemic inflammation → shock, **ARDS**, AKI, coagulopathy, metabolic derangement.
+
+#### 8. Pancreatic cystic lesions and neoplasms
+
+> **Source:** Surgery ZIP — 18_Pancreatic_and_Splenic_Surgery.md
+
+##### Four frequent entities to distinguish
+| Entity | Typical patient/location | Cyst fluid / pathology | Cancer potential and operative logic |
+|---|---|---|---|
+| **Pseudocyst** | After pancreatitis/trauma, often **lesser sac** | **No epithelial lining**, granulation/fibrous wall, high pancreatic enzymes | Not a true neoplasm; intervene for complications |
+| **Serous cystic neoplasm (SCN)** | Often older woman, frequently tail | Many small cysts/microcystic, **central scar**, VHL association (Robbins) | Usually benign; observe typical asymptomatic lesions, resect selected symptomatic/uncertain |
+| **Mucinous cystic neoplasm (MCN)** | Typically middle-aged woman, **body/tail** | **Ovarian-type stroma**, mucin, ER/PR often positive; no main duct communication classically | Malignant potential → selected resection; source raises CEA and ovarian stroma |
+| **Intraductal papillary mucinous neoplasm (IPMN)** | More often head, sometimes multifocal | **Duct-communicating mucin-producing papillary lesion**; fish-mouth ampulla with mucin | Main-duct vs branch-duct risk differs; assess high-risk features and resect selected cases |
+
+- **Solid pseudopapillary neoplasm:** typically young women; encapsulated solid-cystic mass; **β-catenin/CTNNB1** pathway (Robbins), usually favorable after complete resection.
+- **Pancreatic cyst workup:** CT/MRI/MRCP, **EUS** and fluid studies in appropriate circumstances; **CEA** helps support mucinous character, but **CEA level alone does not prove malignancy**.
+- **Do not confuse a cystic tumor with a postpancreatitis pseudocyst**; an unrecognized MCN/IPMN can be mismanaged if treated as a simple pseudocyst.
+
+#### 9. Pancreatic neuroendocrine tumors (pNETs)
+
+> **Source:** Surgery ZIP — 18_Pancreatic_and_Splenic_Surgery.md
+
+##### Insulinoma, gastrinoma, glucagonoma
+| Tumor | Hormone/source | Clinical hallmark | Main diagnostic clue |
+|---|---|---|---|
+| **Insulinoma** | β-cell insulin | **Whipple triad:** hypoglycemic symptoms, documented low glucose, relief with glucose | Supervised **72-hour fast**: inappropriate endogenous insulin, **C-peptide** and other biochemical findings during hypoglycemia; EUS/other imaging localizes |
+| **Gastrinoma** | Gastrin-secreting pNET | **Zollinger–Ellison syndrome:** recurrent/refractory ulcers, distal duodenal/jejunal ulcers, diarrhea | Fasting **gastrin** (interpret with acid status/PPI use), **secretin stimulation** when appropriate; associated **MEN1** |
+| **Glucagonoma** | α-cell glucagon | **4 Ds:** dermatitis (**necrolytic migratory erythema**), diabetes, **DVT**, depression | Hormonal evaluation + imaging |
+
+- WOR emphasizes insulinomas often small and frequently benign; selected localized insulinomas may be treated by **enucleation** while others require resection.
+- **Passaro gastrinoma triangle**: boundary region involving junction of cystic duct/CHD, 2nd/3rd duodenum junction, and pancreatic head/neck; explains common gastrinoma localization. Doctut specifies many are within the triangle.
+- **Gastrinoma** often has multifocal lesions in MEN1; management combines acid control (**PPIs**), staging/localization, selected surgery and metastatic disease therapy.
+- Pancreatic NET workup differs from exocrine ductal adenocarcinoma; pancreatic masses are not all PDAC.
+
+#### 10. Pancreatic ductal adenocarcinoma (PDAC)
+
+> **Source:** Surgery ZIP — 18_Pancreatic_and_Splenic_Surgery.md
+
+##### Risk, biology and clinical pattern- **Most common pancreatic malignancy**; usually **infiltrating ductal adenocarcinoma** (Robbins/First Aid).
+- Risk factors: **smoking**, chronic pancreatitis, age, diabetes, obesity and hereditary predisposition (source genes/syndromes include **PRSS1/SPINK1**, **BRCA2**, **Peutz–Jeghers/STK11**, Lynch-related disorders).
+- **KRAS** activating mutation is especially frequent (First Aid/Doctut); other alterations in source chapters include tumor suppressors such as **CDKN2A, TP53 and SMAD4**.
+- **Head cancer:** obstructive jaundice, pale stool, pruritus, weight loss, RUQ/epigastric pain radiating back; possible palpable distended nontender GB (**Courvoisier sign**).
+- **Body/tail cancer:** often presents later with pain, weight loss and spread; may not obstruct CBD early.
+- **Migratory thrombophlebitis (Trousseau syndrome)** is a paraneoplastic hypercoagulable clue (First Aid).
+
+##### Periampullary cancers (four structures)1. **Pancreatic head** ductal adenocarcinoma.
+2. **Ampullary** cancer at Vater (often early/intermittent painless jaundice; may bleed/melena).
+3. **Distal CBD** cholangiocarcinoma.
+4. **Duodenal** adenocarcinoma near ampulla.
+
+**Shared symptoms:** biliary obstruction ± duodenal obstruction. **Clinical distinction:** ampullary tumors may intermittently obstruct when tumor sloughs, giving waxing/waning jaundice (WOR/Doctut).
+
+##### Investigation- **Pancreas-protocol multiphase contrast CT** to identify lesion, map **vascular interface**, nodes, distant metastases and resectability.
+- **MRCP:** pancreatic and bile duct relationship, **double duct sign** (both CBD and pancreatic duct dilated).
+- **EUS ± biopsy:** source diagnostic tissue in appropriate contexts, especially if nonoperative/neoadjuvant systemic therapy is contemplated.
+- **CA19-9** is a supportive **tumor marker**, affected by cholestasis and other conditions; **not** a stand-alone diagnostic screen.
+- **Frostberg “reverse 3” sign:** classic contrast duodenography clue to external duodenal impression by pancreatic head mass, historical imaging association.
+
+##### Resectability framework| Category | Central concept | Why it matters |
+|---|---|---|
+| **Resectable** | No distant spread and technically removable local tumor with acceptable vessel involvement | Consider surgery with oncology input |
+| **Borderline resectable** | Close arterial interface and/or reconstructible portal/SMV involvement | Often requires multidisciplinary/neoadjuvant planning |
+| **Locally advanced unresectable** | Extensive nonreconstructible vascular/arterial involvement | Usually nonsurgical upfront |
+| **Metastatic** | Distant disease | Systemic/palliative treatment emphasis |
+
+- WOR/Doctut describe **abutment vs encasement** using degrees of vessel contact. Particularly important: **SMA, common hepatic artery and celiac axis** compared with **SMV/portal vein**, which may sometimes be reconstructed.
+- Historical exact cutoffs differ across their tables, so **do not equate one >180° threshold with an automatic operation order**; refer to an up-to-date institution-specific staging system for real care.
+
+#### 7. Neuroendocrine tumors (NETs, historically "carcinoids") / Terminology and origin
+
+> **Source:** Surgery ZIP — 10_Adrenal_and_Neuroendocrine_Surgery.md
+
+- Neuroendocrine tumors arise from cells showing peptide/amine secretory differentiation.
+- May occur in **GI tract, pancreas, lung** and elsewhere.
+- Former term "carcinoid" widely used for well-differentiated GI/lung NETs; modern classification considers **site, differentiation, grade, mitoses and Ki-67**.
+- Shared neuroendocrine stains often include **chromogranin A** and **synaptophysin**; biological patterns vary by site.
+
+#### 7. Neuroendocrine tumors (NETs, historically "carcinoids") / Foregut, midgut and hindgut (traditional framework)
+
+> **Source:** Surgery ZIP — 10_Adrenal_and_Neuroendocrine_Surgery.md
+
+| Region | Examples | Classic endocrine behavior |
+|---|---|---|
+| **Foregut** | Bronchus, stomach, duodenum, pancreas | Variable peptide production; site-dependent |
+| **Midgut** | Distal small bowel, appendix, proximal colon | Serotonin-producing classic carcinoid syndrome particularly with liver spread |
+| **Hindgut** | Distal colon, rectum | Many nonfunctional lesions; syndrome less common |
+
+**Epidemiology note:** an older source describes appendix as the most common site; distribution depends on whether incidental appendiceal tumors, all GI NETs and modern detection datasets are included.
+
+#### 7. Neuroendocrine tumors (NETs, historically "carcinoids") / Carcinoid syndrome — pathophysiology
+
+> **Source:** Surgery ZIP — 10_Adrenal_and_Neuroendocrine_Surgery.md
+
+- Classic midgut tumor releases serotonin (5-HT) and vasoactive peptides into portal system.
+- **Liver normally metabolizes much of the serotonin**; **hepatic metastases** can permit systemic exposure and produce syndrome.
+- Bronchial NETs can cause syndrome without liver metastasis because secretions enter systemic venous return directly.
+- Clinical:
+  - Episodic **flushing**.
+  - Secretory watery **diarrhea**.
+  - **Bronchospasm**.
+  - Right-sided **carcinoid valvulopathy** (classically tricuspid regurgitation and pulmonic lesions).
+  - **Pellagra** risk due to diversion of tryptophan toward serotonin at expense of niacin.
+
+```mermaid
+flowchart TD
+A[Midgut NET] --> B[Serotonin into portal blood]
+B --> C{Hepatic metabolism sufficient?}
+C -->|Yes| D[Little or no systemic carcinoid syndrome]
+C -->|No; liver metastases or bypass| E[Systemic serotonin/peptides]
+E --> F[Flushing + diarrhea + bronchospasm]
+E --> G[Right-sided valvular fibrosis]
+```
+
+#### 7. Neuroendocrine tumors (NETs, historically "carcinoids") / Testing and imaging
+
+> **Source:** Surgery ZIP — 10_Adrenal_and_Neuroendocrine_Surgery.md
+
+- **24-hour urinary 5-HIAA** (serotonin breakdown product) in suspected classic carcinoid syndrome; dietary/medication interference matters.
+- **Chromogranin A** may support diagnosis in selected circumstances, but nonspecific elevations occur (e.g., proton pump inhibitors, renal dysfunction).
+- Tissue histology with **Ki-67** and mitotic activity establishes grade, with primary organ-specific classification.
+- Anatomic CT/MRI and receptor-based imaging such as **Ga-68 DOTATATE PET** are often used in selected NET staging.
+- Echocardiography evaluates carcinoid heart disease where clinically relevant.
+
+#### 7. Neuroendocrine tumors (NETs, historically "carcinoids") / Treatment principles
+
+> **Source:** Surgery ZIP — 10_Adrenal_and_Neuroendocrine_Surgery.md
+
+- **Complete excision** for localized resectable tumors.
+- **Somatostatin analogs** such as octreotide for secretion control in applicable receptor-positive disease and as part of tumor management in selected settings.
+- Liver-directed and systemic treatments for advanced NET depend on burden, grade, symptoms and receptor status.
+- **Carcinoid crisis** can occur with anesthesia or tumor manipulation; requires multidisciplinary perioperative planning.
+
+<!-- SURGERY_GI_ZIP_CONTENT_END:12C-12-6 -->
 ## Index Coverage Checklist
 
 - [x] 12.5 Gallbladder & Biliary Pathology

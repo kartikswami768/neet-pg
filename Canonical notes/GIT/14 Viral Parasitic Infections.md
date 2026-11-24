@@ -130,3 +130,46 @@ flowchart TD
    - [x] 14.3 Parasitic Infections (*Giardia lamblia* ventral disk/steatorrhea/metronidazole; *Cryptosporidium* acid-fast oocysts/AIDS; *Entamoeba histolytica* flask ulcers/erythrophagocytosis/liver abscess)
 2. **Corrections Made**: Clarified that HDV requires active HBsAg coat for virion assembly; confirmed Paromomycin/Iodoquinol luminal eradication mandate following Metronidazole in *E. histolytica*.
 3. **Source Limitations**: None; comprehensive medical virology and parasitology content provided.
+<!-- SURGERY_GI_ZIP_CONTENT_START:14-14-3 -->
+
+### Additional surgical details integrated from the Surgery notes
+
+> [!info] Provenance and scope
+> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
+
+#### 5. Hepatic hydatid disease
+
+> **Source:** Surgery ZIP — 16_Liver_and_Portal_Hypertension.md
+
+##### Biology and structure- Cause: ***Echinococcus granulosus***; **dog definitive host**, sheep usual intermediate host, humans accidental intermediate hosts.
+- Ingested eggs → oncospheres penetrate gut → reach liver via portal circulation → **hydatid cyst**; lungs and other organs may be involved.
+- Layers: **host fibrous pericyst**, **acellular laminated membrane**, **inner germinal layer** generating brood capsules/protoscolices and daughter cysts. **Hydatid sand** contains cyst contents/scolices.
+- Symptoms: RUQ discomfort/mass, hepatomegaly; complicated disease can cause **obstructive jaundice/cholangitis from cystobiliary communication**, secondary infection, rupture and anaphylactic phenomena.
+
+##### WHO-IWGE ultrasound classification (with older Gharbi descriptions)
+| WHO type | Characteristic image | Typical activity concept | Important note |
+|---|---|---|---|
+| **CE1** | Unilocular, fluid-filled cyst with **double wall/line** | Active | May be appropriate for selected PAIR strategies |
+| **CE2** | Multivesicular **honeycomb/rosette** daughter cysts | Active | Simple PAIR often unsuitable to clear all daughters |
+| **CE3a** | Detached membrane, **water-lily sign** | Transitional | Stage-specific treatment selection |
+| **CE3b** | Daughter cysts embedded in partly solid matrix | Transitional/active viable components | More complex than simple fluid cyst |
+| **CE4** | Heterogeneous solid-looking contents, no daughter cysts | Often inactive | Follow-up rather than intervention in selected patients |
+| **CE5** | Calcified wall (partially/completely) | Usually inactive | Calcification alone should be interpreted with all imaging features |
+
+##### Investigations- **Ultrasound** establishes morphology/staging; **CECT** defines size, number, adjacent organs and complex disease; **MRCP** when duct communication suspected.
+- Serology can support diagnosis but may vary with cyst activity/location. Doctut discusses ELISA, immunoblot and historical Casoni test (not a contemporary primary test).
+
+##### Therapeutic options in the sources| Option | Logic | Source-described indication/caution |
+|---|---|---|
+| **Albendazole** | Antihelminthic to reduce cyst viability | Medical therapy or peri-intervention use; check hepatic function/blood counts as appropriate |
+| **PAIR** | **P**uncture → **A**spiration → **I**njection of scolicidal agent → **R**easpiration | Selected fluid cysts (e.g., CE1, CE3a); must exclude important cystobiliary communication |
+| **Catheter-based evacuation** | Longer drainage/evacuation of contents | Larger/complex lesions in expert hands |
+| **Pericystectomy / partial cystectomy** | Remove parasite contents and affected wall safely | Large, symptomatic, complex, complicated or unsuitable percutaneous lesions |
+| **Anatomic hepatectomy** | Remove involved hepatic segments | Selected anatomically suitable lesions/multilocular alveolar disease |
+
+- **Scolicidal agent** in WOR: hypertonic saline; Doctut lists additional historical substances. **Formalin is specifically warned against** in WOR.
+- **Important contraindication:** scolicidal injection into a cyst with **communication to bile duct** risks serious chemical injury to biliary tree; multiple-daughter, calcified/inactive and ruptured cysts may not suit simple PAIR.
+- **E. multilocularis** (alveolar hydatid) behaves infiltratively and is distinct from ordinary cystic hydatid disease; requires different treatment planning.
+- **Avoid routine blind aspiration** of an uncharacterized suspected echinococcal cyst.
+
+<!-- SURGERY_GI_ZIP_CONTENT_END:14-14-3 -->
