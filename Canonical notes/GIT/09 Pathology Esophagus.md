@@ -98,7 +98,7 @@ Esophageal motility disorders result from impaired neuromuscular coordination of
 
 ## 9.2 Inflammatory & Vascular Conditions
 
-**Mechanism**
+**Corrosive esophageal injury — mechanism**
 **Alkali**
 - Causes liquefactive necrosis.
 - Saponification and protein dissolution facilitate deep tissue penetration.

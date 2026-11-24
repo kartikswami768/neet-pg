@@ -97,7 +97,7 @@ tags:
 - Serology can support diagnosis but may vary with cyst activity/location. Doctut discusses ELISA, immunoblot and historical Casoni test (not a contemporary primary test).
 
 **Therapeutic options in the sources**
-| Characteristic | Findings | Clinical significance |
+| Treatment | Mechanism or technique | Indication and precautions |
 |---|---|---|
 | **Albendazole** | Antihelminthic to reduce cyst viability | Medical therapy or peri-intervention use; check hepatic function/blood counts as appropriate |
 | **PAIR** | **P**uncture → **A**spiration → **I**njection of scolicidal agent → **R**easpiration | Selected fluid cysts (e.g., CE1, CE3a); must exclude important cystobiliary communication |

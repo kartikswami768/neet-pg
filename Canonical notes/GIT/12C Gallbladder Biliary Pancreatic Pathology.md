@@ -71,7 +71,7 @@ Gallstones affect $10–20\%$ of adults in developed nations. Divided into **Cho
 - Workup: **CECT** for anatomy/resectability; further liver/duct imaging when needed; tumor markers (e.g. **CA19-9**) are supportive, not diagnostic in isolation.
 
 **Staging-based operative concept**
-| Characteristic | Findings | Clinical significance |
+| T stage | Tumor extent | Surgical approach |
 |---|---|---|
 | **Tis/T1a** | Limited to mucosa/lamina propria | **Simple cholecystectomy** may be adequate if fully excised |
 | **T1b** | Into **muscular layer** | Consider **extended/radical resection** for appropriate candidates |
@@ -88,6 +88,8 @@ Gallstones affect $10–20\%$ of adults in developed nations. Divided into **Cho
 
 
 ## 12.6 Pancreatic Pathology
+
+**Pancreatic cystic and neuroendocrine lesions**
 
 **Four frequent entities to distinguish**
 | Entity | Typical patient/location | Cyst fluid / pathology | Cancer potential and operative logic |
@@ -242,7 +244,7 @@ flowchart TD
 - **Frostberg “reverse 3” sign:** classic contrast duodenography clue to external duodenal impression by pancreatic head mass, historical imaging association.
 
 **Resectability framework**
-| Characteristic | Findings | Clinical significance |
+| Classification | Vascular or local extent | Treatment implication |
 |---|---|---|
 | **Resectable** | No distant spread and technically removable local tumor with acceptable vessel involvement | Consider surgery with oncology input |
 | **Borderline resectable** | Close arterial interface and/or reconstructible portal/SMV involvement | Often requires multidisciplinary/neoadjuvant planning |

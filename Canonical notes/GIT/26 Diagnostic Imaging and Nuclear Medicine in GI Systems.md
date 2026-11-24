@@ -96,7 +96,7 @@ flowchart TD
 - **Limitations:** a negative FAST does not exclude early/low-volume bleed, retroperitoneal injury, hollow viscus injury or some penetrating injuries.
 
 **Imaging choice**
-| Characteristic | Findings |
+| Clinical situation | Imaging and immediate approach |
 |---|---|
 | **Hemodynamically unstable with suspected internal bleed** | Resuscitation + bedside eFAST and immediate source control; avoid delay for CT if unstable |
 | **Stable significant blunt abdominal trauma** | **Contrast-enhanced CT** to grade organ injury and detect vascular injury |

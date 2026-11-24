@@ -70,22 +70,6 @@ Chronic mucosal ulceration penetrating through the **muscularis mucosae** into t
 - Aggressive Factors (Acid, Pepsin, H. pylori, NSAIDs) >>> Protective Factors (Mucus, HCO3-, PGE2, Blood Flow)
 - Peptic Ulceration
 
-**Definition**
-A chronic ulcer extending through the muscularis mucosae into deeper gastric or duodenal tissue.
-
-**Pathophysiology**
-Aggressive factors:
-- Hydrochloric acid and pepsin.
-- *Helicobacter pylori*.
-- NSAID-related prostaglandin deficiency.
-
-Protective factors:
-- Mucus-bicarbonate barrier.
-- Mucosal blood flow.
-- Prostaglandins.
-- Epithelial regeneration.
-
-Ulcers arise when injury exceeds mucosal defenses.
 
 ***H. pylori***
 - Curved gram-negative organism.

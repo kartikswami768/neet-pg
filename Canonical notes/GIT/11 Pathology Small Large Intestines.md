@@ -104,7 +104,7 @@ Chronic idiopathic relapsing inflammatory disorders of the GI tract. Classified 
 
 ## 11.3 Vascular & Diverticular Disorders
 
-**Pathology**
+**Colonic angiodysplasia — pathology**
 Dilated and fragile vascular channels in intestinal mucosa/submucosa.
 
 **Classical associations**

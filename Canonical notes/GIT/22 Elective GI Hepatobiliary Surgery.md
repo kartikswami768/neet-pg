@@ -16,37 +16,6 @@ tags:
   * *Adjunctive Antireflux Procedure*: Because myotomy destroys the native antireflux barrier, LHM is routinely combined with a partial fundoplication (**Dor anterior $180^\circ$** or **Toupet posterior $270^\circ$** fundoplication). Total Nissen ($360^\circ$) fundoplication is strictly avoided as it induces severe post-operative dysphagia.
 * **Peroral Endoscopic Myotomy (POEM)**: Endoscopic submucosal tunnel creation to perform myotomy of the inner circular muscle layer. Highly effective, particularly for Type III (spastic) achalasia.
 
-**Definition**
-Esophageal motility disorder characterized by:
-1. Failure of LES relaxation.
-2. Absent normal esophageal peristalsis.
-3. Functional obstruction at the gastroesophageal junction.
-
-**Pathophysiology**
-Destruction of inhibitory ganglion cells in the **myenteric plexus**.
-
-Reduced NO/VIP-mediated inhibition leads to persistent LES tone and failure of relaxation.
-
-**Etiology**
-- Primary idiopathic achalasia.
-- Chagas disease.
-- Pseudoachalasia due to malignant GE-junction infiltration.
-- Triple-A/Allgrove syndrome:
-  - Alacrimia.
-  - Achalasia.
-  - ACTH-resistant adrenal insufficiency.
-
-**Clinical features**
-- Dysphagia to solids and liquids.
-- Regurgitation of retained, undigested food.
-- Weight loss.
-- Retrosternal pain.
-- Nocturnal aspiration or cough.
-
-**Investigations**
-- **High-resolution manometry:** reference diagnostic test.
-- Barium swallow: **bird-beak tapering** with proximal dilation.
-- Endoscopy: excludes pseudoachalasia and other mechanical obstruction.
 
 **Chicago classification**
 | Type | Key manometric feature |
@@ -86,27 +55,6 @@ Used to quantify symptom burden and treatment response.
   * Indicated for refractory GERD, severe erosive esophagitis, or large hiatal hernias.
   * *Procedure*: Mobilization of the gastric fundus and creation of a complete **$360^\circ$ floppy wrap** around the distal $3–4\text{ cm}$ of the intra-abdominal esophagus over a large bougie ($50–60\text{ Fr}$).
 
-**Pathophysiology**
-GERD reflects failure of the antireflux barrier and/or impaired esophageal clearance.
-
-Main mechanisms:
-1. Transient LES relaxations.
-2. Reduced resting LES pressure.
-3. Shortened intra-abdominal esophagus.
-4. Hiatal hernia with separation of LES and diaphragmatic crura.
-5. Impaired clearance and delayed gastric emptying.
-
-**Antireflux barrier**
-- Intrinsic LES.
-- Intra-abdominal esophageal segment.
-- Right diaphragmatic crus.
-- Angle of His.
-- Gastric mucosal folds.
-
-**Clinical features**
-**Typical:** heartburn, sour regurgitation, water brash.
-
-**Extraesophageal:** chronic cough, laryngitis, hoarseness, asthma-like symptoms and dental erosions.
 
 **Investigations**
 | Investigation | Role |
@@ -220,50 +168,6 @@ Management:
 - Calcium/vitamin D deficiency.
 - Protein-energy malnutrition in selected patients.
 
-**Risk factors**
-- *H. pylori*-associated chronic gastritis.
-- Intestinal metaplasia.
-- Dietary salt/preserved foods.
-- Tobacco exposure.
-- Certain gastric polyps and premalignant conditions.
-- Prior gastric surgery.
-- Familial/genetic predisposition.
-
-**Lauren classification**
-| Feature | Intestinal type | Diffuse type |
-|---|---|---|
-| Histology | Gland-forming malignant epithelium | Discohesive cells, often signet-ring |
-| Molecular association | Multistep intestinal-type pathway | E-cadherin/CDH1 alterations |
-| Background | Atrophic gastritis and metaplasia | May occur without classic metaplastic sequence |
-| Morphology | Mass or ulcerating lesion | Diffuse infiltrative thickening |
-| Classical appearance | Gland-forming tumor | Linitis plastica |
-
-**Linitis plastica**
-- Diffuse infiltration of the gastric wall.
-- Fibrotic, rigid, poorly distensible stomach.
-- Described as **leather-bottle stomach**.
-
-**Early versus advanced gastric cancer**
-- **Early gastric cancer:** limited to mucosa or submucosa, regardless of lymph node involvement.
-- **Advanced gastric cancer:** invades muscularis propria or deeper.
-- Early lesions can be assessed with endoscopic classifications and selected lesions treated by endoscopic resection.
-
-**Borrmann classification: advanced gastric carcinoma**
-- I: Polypoid/fungating mass.
-- II: Ulcerated with raised, well-defined margins.
-- III: Ulceroinfiltrative.
-- IV: Diffusely infiltrative.
-
-**Classical metastatic manifestations**
-| Sign | Description |
-|---|---|
-| Virchow node / Troisier sign | Left supraclavicular metastatic lymphadenopathy |
-| Sister Mary Joseph nodule | Umbilical metastasis |
-| Krukenberg tumor | Ovarian metastasis, classically signet-ring adenocarcinoma |
-| Blumer shelf | Metastatic deposits in rectovesical/rectouterine pouch |
-| Irish node | Left axillary metastatic node |
-| Leser–Trélat sign | Sudden eruption of multiple seborrheic keratoses associated with malignancy |
-| Tripe palms | Velvety hyperkeratosis of palms associated with internal malignancy |
 
 **Investigations**
 1. Upper GI endoscopy with multiple biopsies.
@@ -328,14 +232,6 @@ Modern multimodal treatment also incorporates systemic therapy according to rese
 4. Control **cystic duct and cystic artery**; remove gallbladder from liver bed.
 5. Inspect for bleeding and bile leak; recover specimen.
 
-**Critical View of Safety (Strasberg)All three are required**
-- Separate **lower third of GB** from liver so cystic plate is visible.
-
-> [!warning] Bile duct safety
-> If anatomy remains uncertain, **do not clip or divide an unidentified “duct.”** Bailout options in WOR include **subtotal cholecystectomy, fundus-first dissection, conversion, cholecystostomy or abort/refer** depending on circumstances. Conversion does not by itself guarantee safety without anatomic clarity.
-
-- **Fundus-first** and **subtotal** approaches are potential bailout techniques in severely inflamed Calot anatomy.
-- During pregnancy, older WOR trimester-by-trimester blanket prohibitions reflect simplified source teaching; operative timing is a specialist risk-benefit decision.
 
 **Mechanisms and recognition**
 - **Early:** bile in operative field/drain, bilious collection, abdominal pain, fever, peritonitis and sepsis.
@@ -343,7 +239,7 @@ Modern multimodal treatment also incorporates systemic therapy according to rese
 - **Investigations:** US/CT for biloma, **MRCP** for duct mapping, **ERCP** for selected communicating leaks/stenting, and percutaneous cholangiography for proximally disconnected ducts when indicated.
 
 **Strasberg and Bismuth classifications**
-| Characteristic | Findings | Clinical significance |
+| Strasberg type | Injury pattern | Bismuth correspondence / relevance |
 |---|---|---|
 | **A** | Leak from **cystic duct stump** or small gallbladder-bed duct | Not primarily a major CHD transection |
 | **B** | Occluded anomalous/aberrant right sectoral duct | — |
@@ -383,19 +279,6 @@ Indicated for resectable malignant lesions of the pancreatic head, uncinate proc
    * **Hepaticojejunostomy**: Biliary-enteric anastomosis.
    * **Gastrojejunostomy** (or Duodenojejunostomy): Restores enteric continuity.
 
-**Classical structures removed:** pancreatic **head + duodenum + distal stomach** (with pylorus-preserving modification where appropriate), **distal bile duct + gallbladder** and regional lymphatic tissue.
-
-**Main reconstruction:**
-1. **Pancreaticojejunostomy (PJ)** for pancreatic secretions.
-2. **Hepaticojejunostomy (HJ)** for bile drainage.
-3. **Gastrojejunostomy (GJ)** or **duodenojejunostomy** in pylorus-preserving operation.
-
-```mermaid
-flowchart LR
-A[Pancreas remnant] -->|PJ| D[Jejunal limb]
-B[Hepatic duct] -->|HJ| D
-C[Stomach / preserved duodenum] -->|GJ / DJ| D
-```
 
 **Complications:**
 - **Postoperative pancreatic fistula / PJ anastomotic leak**—leakage of enzyme-rich juice, sepsis, hemorrhage; major concern in WOR.
@@ -429,33 +312,6 @@ C[Stomach / preserved duodenum] -->|GJ / DJ| D
 2. **Low Anterior Resection (LAR)**: Indicated for rectal cancers located in the middle and upper rectum ($>5\text{ cm}$ from the anal verge). Performed with **Total Mesorectal Excision (TME)** (sharp dissection along the mesorectal fascia plane to resect the entire mesorectal fatty envelope containing regional lymph nodes). Restores bowel continuity via a stapled coloanal or colorectal anastomosis (**Sphincter-Sparing**).
 3. **Abdominoperineal Resection (APR)**: Indicated for low rectal cancers ($<5\text{ cm}$ from anal verge) that invade the levator ani or anal sphincter complex. Resects the distal sigmoid, rectum, anal canal, and sphincter apparatus. Leaves the patient with a **permanent left lower quadrant end colostomy**.
 
-**Risk factors**
-- Age.
-- Adenomatous and serrated precursor lesions.
-- Family history.
-- Hereditary syndromes.
-- Longstanding inflammatory bowel disease.
-- Environmental and lifestyle risk factors.
-
-**Right-sided versus left-sided colorectal cancer**
-| Feature | Right-sided | Left-sided |
-|---|---|---|
-| Growth | Often exophytic | Often annular/constrictive |
-| Typical presentation | Occult bleeding, iron-deficiency anemia | Altered bowel habits, obstructive symptoms |
-| Stool caliber change | Less prominent | More prominent |
-| Obstruction | Less common initially | More common |
-| Classic contrast sign | Filling defect | Apple-core/napkin-ring lesion |
-
-**Screening**
-Relevant methods:
-- Colonoscopy.
-- FIT.
-- Fecal occult blood testing.
-- FIT-DNA.
-- CT colonography.
-- Flexible sigmoidoscopy.
-
-The 2025 *First Aid* source states an **average-risk screening starting age of 45 years**; older revision notes state 50 years. Local recommendations and individual risk affect actual screening schedules.
 
 **Investigations**
 **Diagnosis**
@@ -732,13 +588,6 @@ Abnormal tract connecting anal canal/rectum to external perianal skin.
 - External opening near anal verge.
 - Sometimes pain.
 
-**Goodsall rule**
-| External opening | Expected tract |
-|---|---|
-| Anterior to transverse anal line | Usually radial/straight |
-| Posterior to line | Usually curves toward posterior midline |
-
-Goodsall rule is a predictive clinical rule, not a substitute for anatomical evaluation.
 
 **Parks classification**
 | Type | Tract relation |

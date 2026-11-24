@@ -21,49 +21,6 @@ An acute perforated viscus represents a catastrophic surgical emergency resultin
   * Absence of bowel sounds (paralytic ileus).
   * Loss of liver dullness on percussion (**Jobert sign**) due to free air collecting anterior to the liver.
 
-**Causes**
-- Instrumentation/endoscopy.
-- Forceful vomiting.
-- Foreign bodies.
-- Corrosive injury.
-- Penetrating trauma.
-
-**Boerhaave syndrome**
-**Definition:** spontaneous transmural esophageal rupture, classically following forceful vomiting.
-
-- Usually distal esophagus.
-- Often left posterolateral wall.
-- Gastric/esophageal contents enter the mediastinum.
-- Can cause mediastinitis, sepsis and pleural contamination.
-
-**Mackler triad**
-1. Vomiting or retching.
-2. Chest pain.
-3. Subcutaneous emphysema.
-
-**Hamman sign:** mediastinal crunch synchronous with the heartbeat.
-
-**Boerhaave versus Mallory–Weiss**
-| Feature | Boerhaave | Mallory–Weiss |
-|---|---|---|
-| Injury | Transmural rupture | Mucosal tear |
-| Predominant presentation | Severe chest pain, mediastinitis | Hematemesis |
-| Mediastinal contamination | May occur | No |
-| Management | Urgent specialist evaluation, source control | Usually endoscopic/conservative |
-
-**Classic:** anterior duodenal ulcer.
-
-Clinical features:
-- Sudden severe epigastric pain.
-- Generalized tenderness and guarding.
-- Board-like rigidity.
-- Tachycardia, fever or shock.
-- Absent bowel sounds with paralytic ileus.
-
-Imaging:
-- Free intraperitoneal air beneath diaphragm.
-- Rigler sign on supine radiograph.
-- CT is useful in suspected perforation.
 
 **Valentino syndrome**
 Perforated duodenal contents track toward the right iliac fossa and mimic acute appendicitis.
@@ -120,23 +77,6 @@ Typical findings:
   4. **Perforated Peptic Ulcer Repair**: Primary suture closure reinforced with a vascularized pedicled omental flap (**Cellan-Jones or Graham Omental Patch**).
   5. **Perforated Colonic / Diverticular Repair**: Primary resection with anastomosis or **Hartmann Procedure** (resection of diseased sigmoid colon, creation of a proximal end colostomy, and closure of the distal rectal stump).
 
-**Investigations**
-- Chest X-ray: pneumomediastinum, pleural effusion.
-- CT with suitable contrast assessment in stable patients.
-- Water-soluble contrast swallow in selected circumstances.
-- Endoscopy when appropriate after specialist assessment.
-
-**Treatment principles**
-- NPO, IV fluids and broad-spectrum antibiotics when perforation/mediastinal contamination is present.
-- Drain contaminated spaces.
-- Close or seal the perforation when appropriate.
-- Provide enteral or parenteral nutritional support.
-- Selected contained leaks may be treated nonoperatively.
-- Larger or uncontrolled leaks may require operative repair, drainage or endoscopic stenting.
-
-- Resuscitation and broad-spectrum antimicrobial therapy.
-- Laparoscopy or laparotomy for source control when indicated.
-- Primary closure with omental reinforcement in suitable ulcers.
 
 **Graham/modified Graham omental patch**
 - Omentum reinforces the site of ulcer perforation.
@@ -186,13 +126,7 @@ Luminal obstruction (by a **fecalith / appendicolith** in adults, or lymphoid hy
 - Paracecal.
 - Subcecal.
 
-Luminal obstruction → progressive secretion and distension → venous and lymphatic impairment → bacterial overgrowth → ischemia → gangrene/perforation.
-
-Causes:
-- Fecalith/appendicolith.
-- Lymphoid hyperplasia.
-- Parasites.
-- Neoplasm in selected patients.
+- Less-common luminal obstruction: parasites or appendiceal neoplasm in selected patients.
 
 
 ---
@@ -206,21 +140,8 @@ Causes:
   * **Psoas Sign**: RLQ pain elicited by passive extension of the right hip (indicates a retrocecal appendix irritating the psoas muscle).
   * **Obturator Sign**: RLQ pain elicited by passive internal rotation of the flexed right hip (indicates a pelvic appendix irritating the internal obturator muscle).
 
-**Classical presentation**
-- Initial visceral periumbilical pain.
-- Pain migrates to right iliac fossa after parietal peritoneal involvement.
-- Anorexia.
-- Nausea/vomiting.
-- Fever.
 
-**Important physical signs**
-| Sign | Finding |
-|---|---|
-| McBurney tenderness | Tenderness at lateral third/medial two-thirds junction of ASIS-to-umbilicus line |
-| Rovsing sign | RIF pain during LIF palpation |
-| Psoas sign | Pain with psoas stretch/contraction |
-| Blumberg sign | Rebound tenderness |
-| Sherren triangle | Cutaneous hyperesthesia in RIF region in classic descriptions |
+- **Sherren triangle:** localized right-iliac-fossa cutaneous hyperesthesia in classical descriptions.
 
 **Pregnancy**
 - Important nonobstetric surgical emergency.
@@ -267,20 +188,7 @@ Causes:
 * **Ultrasound Abdomen**: First-line choice in children and pregnant females. Positive findings: Non-compressible, blind-ending tubular structure in RLQ with outer diameter **$>6\text{ mm}$**, wall hyperemia (target sign), and appendicolith.
 * **Contrast CT Abdomen**: Investigation of choice in non-pregnant adults ($>95\%$ sensitivity/specificity). Shows dilated appendix ($>6\text{ mm}$), periappendiceal fat stranding, appendicolith, and wall enhancement.
 
-**Investigations**
-- CBC and inflammatory markers.
-- Pregnancy test when relevant.
-- Urinalysis for differential diagnosis.
-- Ultrasound: especially useful in children and pregnancy.
-- CT: particularly valuable in adults with uncertain diagnosis.
-- MRI: selected pregnancy cases.
-
-**Ultrasound findings**
-- Blind-ending tubular structure.
-- Noncompressible.
-- Enlarged outer diameter, commonly above 6 mm.
-- Surrounding inflammatory fat.
-- Appendicolith may be visible.
+- Additional workup: CBC, urinalysis and pregnancy test where relevant; MRI is useful in selected pregnant patients if ultrasound is nondiagnostic.
 
 
 ---
@@ -289,10 +197,7 @@ Causes:
 * **Laparoscopic Appendectomy**: Gold standard treatment. Associated with less post-operative pain, lower wound infection rates, shorter hospital stay, and faster recovery compared to open appendectomy.
 * **Complicated Appendicitis (Phlegmon / Abscess)**: Non-operative management with IV antibiotics and ultrasound/CT-guided percutaneous drain placement is preferred initially, followed by interval appendectomy if symptoms recur.
 
-- Analgesia, fluids and appropriate antibiotics.
-- Appendectomy is a standard definitive treatment.
-- Selected uncomplicated patients may be considered for antibiotics-first pathways under suitable conditions.
-- Complicated disease requires assessment for drainage and/or surgery.
+- Selected uncomplicated cases may be considered for an antibiotics-first pathway after appropriate assessment; complicated cases need source control as indicated.
 
 **Incisions**
 | Incision | Characteristics |
