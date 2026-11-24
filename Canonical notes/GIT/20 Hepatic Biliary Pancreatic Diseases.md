@@ -70,6 +70,7 @@ Cirrhosis is the end-stage histological outcome of chronic liver disease, define
 ### A. Clinical Prognostic Scoring Systems
 
 **Laboratory pattern**
+| Characteristic | Findings |
 |---|---|
 | **ALT/AST** | Hepatocyte injury; do **not** directly measure remaining liver synthetic function |
 | **ALP, GGT** | Cholestatic/biliary obstruction pattern; GGT supports hepatic source of ALP |
@@ -182,6 +183,7 @@ G --> H[Definitive portal pressure intervention / transplant assessment]
 - **Splenectomy** or other specialist vascular management may be considered depending on bleeding and pancreatic cause.
 
 **EHPVO vs NCPF**
+| Characteristic | Findings | Clinical significance |
 |---|---|---|
 | Lesion | Main portal vein/major extrahepatic branches, often thrombosis/cavernoma | Intrahepatic presinusoidal portal resistance |
 | Typical source patient | Children/adolescents, historical umbilical sepsis | Young adults in affected regions |
@@ -198,6 +200,7 @@ G --> H[Definitive portal pressure intervention / transplant assessment]
 - Hepatomegaly, weight gain/fluid retention, jaundice and ascites may occur; Doctut highlights **defibrotide** in selected cases.
 
 **HPS vs PoPH**
+| Characteristic | Findings | Clinical significance |
 |---|---|---|
 | Central mechanism | **Intrapulmonary vascular dilatation**, impaired oxygenation | **Pulmonary arterial vascular resistance/pressure increase** |
 | Typical clue | Hypoxemia, **platypnea/orthodeoxia** | Dyspnea, raised pulmonary arterial pressure, right-heart burden |
@@ -250,6 +253,7 @@ G --> H[Definitive portal pressure intervention / transplant assessment]
 ### A. Acute Pancreatitis Diagnostic & Severity Protocols
 
 **Etiologies**
+| Characteristic | Findings |
 |---|---|
 | Biliary | **Gallstones (most frequent overall)**, CBD/ampullary obstruction |
 | Toxic | **Alcohol**, selected drugs (azathioprine, thiazides, antiretrovirals, chemotherapy), scorpion envenomation |
@@ -271,6 +275,7 @@ G --> H[Definitive portal pressure intervention / transplant assessment]
 - **Hypocalcemia**: calcium soaps in fat necrosis; metabolic acidosis/raised BUN/hemoconcentration can indicate worse illness.
 
 **Classical radiographic findings**
+| Characteristic | Findings |
 |---|---|
 | **Sentinel loop** | Focal adynamic dilated proximal jejunal loop in upper abdomen |
 | **Colon cut-off sign** | Colonic gas stops at splenic flexure from localized ileus/inflammation |
@@ -278,6 +283,7 @@ G --> H[Definitive portal pressure intervention / transplant assessment]
 | **CECT** | Edema, collections, necrosis, vascular and other complications |
 
 **Ranson criteria (source classical admission set)**
+| Characteristic | Findings |
 |---|---|
 | Age | **>55 years** |
 | WBC | **>16,000/µL** |
@@ -292,6 +298,7 @@ G --> H[Definitive portal pressure intervention / transplant assessment]
 - **Balthazar / CT severity index:** inflammation and necrosis grading; WOR lists **≥6** as important, but **organ failure duration** is central to revised Atlanta clinical severity.
 
 **Revised Atlanta clinical classification**
+| Characteristic | Findings |
 |---|---|
 | **Mild** | No organ failure, no major local/systemic complication |
 | **Moderately severe** | Transient organ failure **<48 h**, local complications or exacerbation of coexisting disease |
@@ -388,6 +395,7 @@ E -->|No| J[Support/monitor, avoid unnecessary early necrosectomy]
 - Later there is loss of **exocrine enzymes** and **endocrine islets**; calcifications and protein plugs occur, particularly with alcohol-associated disease.
 
 **TIGAR-O etiologic framework**
+| Characteristic | Findings | Clinical significance |
 |---|---|---|
 | **T** | Toxic-metabolic | Alcohol, diet/metabolic factors |
 | **I** | Idiopathic | Including tropical calcific presentations |
@@ -408,6 +416,7 @@ E -->|No| J[Support/monitor, avoid unnecessary early necrosectomy]
 - **Celiac plexus block** may be a temporary option for selected refractory pain but does not correct anatomy.
 
 **Named chronic pancreatitis operations**
+| Characteristic | Findings | Clinical significance |
 |---|---|---|
 | **Modified Puestow / Partington–Rochelle** | Longitudinal pancreatic duct opening with **side-to-side pancreaticojejunostomy** | Drain **dilated** main duct; source thresholds often **>6–7 mm** |
 | **Frey procedure** | **Core out inflammatory pancreatic head** + longitudinal duct drainage to jejunum | Hybrid **resection + drainage** for enlarged head with ductal changes |

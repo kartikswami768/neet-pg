@@ -116,6 +116,7 @@ Crucial anatomical space dissected during cholecystectomy [58]:
 * **Moynihan's Hump**: Tortuous "caterpillar turn" of the right hepatic artery within Calot's triangle, vulnerable to accidental ligation during cholecystectomy [19].
 
 **Hepatocystic vs classical Calot triangle**
+| Characteristic | Findings | Clinical significance |
 |---|---|---|
 | **Hepatocystic triangle** | **CHD medially + cystic duct inferiorly/laterally + inferior liver edge superiorly** | Cystic artery, nodes and variable ducts; field for safe dissection |
 | **Original Calot triangle** | **CHD + cystic duct + cystic artery** | Different superior boundary; sources distinguish both |

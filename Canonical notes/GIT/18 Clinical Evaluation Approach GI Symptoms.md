@@ -213,6 +213,7 @@ Most frequent major complication in the revision sources.
 - **One on the floor, four more** is a classic teaching reminder to search external losses plus chest, abdomen, pelvis and long bones. Exact volumes depend on injury.
 
 **Hemorrhage by timing**
+| Characteristic | Findings | Clinical significance |
 |---|---|---|
 | **Primary** | At time of injury/operation | Direct vessel damage |
 | **Reactionary** | Usually first 24 h | Dislodged clot, slipped ligature, normalization of BP |

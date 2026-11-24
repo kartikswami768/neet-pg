@@ -343,6 +343,7 @@ Modern multimodal treatment also incorporates systemic therapy according to rese
 - **Investigations:** US/CT for biloma, **MRCP** for duct mapping, **ERCP** for selected communicating leaks/stenting, and percutaneous cholangiography for proximally disconnected ducts when indicated.
 
 **Strasberg and Bismuth classifications**
+| Characteristic | Findings | Clinical significance |
 |---|---|---|
 | **A** | Leak from **cystic duct stump** or small gallbladder-bed duct | Not primarily a major CHD transection |
 | **B** | Occluded anomalous/aberrant right sectoral duct | — |

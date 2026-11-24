@@ -146,6 +146,7 @@ Cholestasis refers to impairment of bile formation or flow, leading to systemic 
 - **Courvoisier sign/law:** palpable distended nontender GB with jaundice suggests **distal malignant obstruction** over longstanding gallstones; important exceptions exist, especially **hilar obstruction** (GB may not distend).
 
 **Bismuth–Corlette (hilar tumor)**
+| Characteristic | Findings | Clinical significance |
 |---|---|---|
 | **I** | Below duct confluence | Possible bile duct resection/reconstruction |
 | **II** | Involves confluence, not secondary ducts | Complex hilar duct resection |
