@@ -147,6 +147,7 @@ Used to grade acute UC severity to guide hospitalization and rescue therapy deci
 * **Moderate-to-Severe CD**: Early "Top-Down" initiation of Biologics (**Infliximab**, **Adalimumab**, **Ustekinumab**, or **Risankizumab**) combined with thiopurines (**Azathioprine**) to prevent stricturing and penetrating complications.
 * **Perianal Fistulizing CD**: Surgical drainage of abscesses with non-cutting Seton placement PLUS **Infliximab** (biologic of choice for fistulizing disease).
 
+---
 
 ### C. Extraintestinal Manifestations of IBD
 
