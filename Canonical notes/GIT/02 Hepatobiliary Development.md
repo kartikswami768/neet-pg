@@ -57,6 +57,24 @@ The biliary system develops concurrently from the caudal portion of the hepatic 
 * Initially, the lumen of the extrahepatic biliary tree is completely occluded by proliferating endodermal cells. Subsequent vacuolation and recanalization re-establish lumen patency by the 7th to 8th week.
 * As the duodenum rotates $90^\circ$ to the right and assumes its C-shaped contour, the entrance of the common bile duct shifts from its initial ventral position to a **dorsal position**, entering on the medial wall of the 2nd part of the duodenum [9, 28].
 
+
+**Congenital biliary-duct dilatation: choledochal cysts**
+
+**Choledochal cyst: Todani classification**
+| Type | Anatomy | Source treatment principle |
+|---|---|---|
+| **I (most common)** | Fusiform/cystic **extrahepatic CBD dilatation** | Excision + **Roux-en-Y hepaticojejunostomy** |
+| **II** | Extrahepatic CBD diverticulum | Excision and repair of duct |
+| **III** | Intraduodenal CBD cyst (**choledochocele**) | Endoscopic/surgical therapy selected by size, mucosa and anatomy |
+| **IVa** | Both **intrahepatic and extrahepatic** dilatations | Complex management: extrahepatic excision; selected hepatic resection/transplant when extensive |
+| **IVb** | Multiple **extrahepatic** dilatations | Extrahepatic excision and reconstruction in suitable cases |
+| **V** | **Caroli disease:** intrahepatic duct ectasia only | Local liver resection for segmental disease or transplant in diffuse severe disease |
+
+- **Anomalous pancreaticobiliary junction** can expose bile duct to reflux of pancreatic enzymes → duct injury and malignancy risk.
+- Classical symptom triad: **pain + jaundice + palpable mass**, though not all are present.
+- Complications: **cholangitis, stones, pancreatitis, stricture, cholangiocarcinoma**.
+- **MRCP** is central for anatomy. **Central dot sign** supports Caroli disease on cross-sectional imaging (portal radicle within a dilated duct).
+
 ---
 
 ## 2.3 Pancreatic Development

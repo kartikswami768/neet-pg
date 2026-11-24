@@ -27,6 +27,41 @@ The liver is the largest visceral organ in the body, located in the right hypoch
 | Left lateral sector | II and III |
 | Caudate lobe | I; functionally independent with direct venous drainage to the IVC |
 
+**Surgical anatomy differs from surface anatomy**
+- **Cantlie line / principal plane:** a plane from the **gallbladder fossa to the inferior vena cava** that approximates the course of the **middle hepatic vein** and divides the functional right and left liver.
+- **Dual blood supply:** portal vein supplies most hepatic blood flow; hepatic artery supplies oxygenated arterial blood. Both branch within the **portal triad**, together with a bile duct.
+- **Hepatic veins:** right, middle and left hepatic veins drain to IVC; their planes divide sectors; the portal veins provide an approximate transverse division into superior/inferior segments.
+- **Caudate lobe (segment I)** is functionally relatively independent and drains directly into the IVC; it may enlarge in hepatic venous outflow obstruction (**Budd–Chiari**).
+- **Portal pedicle on ultrasound:** the familiar **Mickey Mouse sign** in the transverse porta-hepatis view represents the portal vein with adjacent hepatic artery and bile duct.
+
+**Couinaud segmental anatomy**
+| Segment | Surgical location | Important correlation |
+|---|---|---|
+| **I** | Caudate lobe | Independent venous drainage to IVC; hypertrophy in Budd–Chiari |
+| **II** | Left lateral superior | Part of left lateral section; common living-donor pediatric graft |
+| **III** | Left lateral inferior | With II forms left lateral section |
+| **IVa** | Left medial superior | Left hemiliver |
+| **IVb** | Left medial inferior | **Gallbladder bed** (together with V); relevant in radical GB-cancer surgery |
+| **V** | Right anterior inferior | Gallbladder bed; right anterior section |
+| **VI** | Right posterior inferior | Right posterior section |
+| **VII** | Right posterior superior | Subdiaphragmatic/right posterior location; WOR highlights amoebic liver abscess |
+| **VIII** | Right anterior superior | Right anterior section |
+
+
+| Brisbane 2000 operation | Resected segments | Rationale / typical situation |
+|---|---|---|
+| **Left hepatectomy / left hemihepatectomy** | II, III, IV | Left-sided lesion |
+| **Right hepatectomy / right hemihepatectomy** | V, VI, VII, VIII | Right-sided lesion |
+| **Left lateral sectionectomy** | II, III | Localized left-lateral lesion; pediatric donor graft |
+| **Extended left hepatectomy / left trisectionectomy** | II, III, IV, V, VIII | Additional right anterior section |
+| **Extended right hepatectomy / right trisectionectomy** | IV, V, VI, VII, VIII | Additional left medial segment |
+| **Central hepatectomy (“Taj Mahal”)** | Central segments including IVb, V and often VIII, depending on exact operation | Selected centrally placed disease |
+| **Radical gallbladder cancer resection** | Gallbladder with liver bed, classically IVb and V, plus lymphadenectomy | Selected T1b/T2 and other resectable lesions |
+
+> [!tip] Exam mechanism
+> The **portal inflow anatomy makes segmental resections possible**. Hepatic veins mark intersectoral boundaries. Always distinguish **anatomic lobe** from **functional hemiliver**.
+
+
 ### Surfaces & Peritoneal Relations
 * **Bare Area of the Liver**: Triangular area on the posterior surface lacking visceral peritoneum; bounded by the upper and lower layers of the coronary ligament. Direct contact with diaphragm.
 * **Visceral Impressions**: Gastric, duodenal, renal (right kidney), suprarenal, and colic (hepatic flexure) impressions.
@@ -43,60 +78,15 @@ The porta hepatis is the deep transverse fissure on the visceral surface of the 
 | Common hepatic duct / bile duct | Anterior-right |
 | Portal vein | Posterior |
 
----
-
-<!-- SURGERY_GI_ZIP_CONTENT_START:04-4-1 -->
-
-### Additional surgical details integrated from the Surgery notes
-
-> [!info] Provenance and scope
-> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
-
-#### 1. Liver anatomy for the surgeon
-
-> **Source:** Surgery ZIP — 16_Liver_and_Portal_Hypertension.md
-
-##### Surgical anatomy differs from surface anatomy- **Anatomical lobes** are separated superficially by the falciform ligament; **functional halves** follow hepatic vascular inflow/outflow and biliary drainage.
-- **Cantlie line / principal plane:** a plane from the **gallbladder fossa to the inferior vena cava** that approximates the course of the **middle hepatic vein** and divides the functional right and left liver.
-- **Dual blood supply:** portal vein supplies most hepatic blood flow; hepatic artery supplies oxygenated arterial blood. Both branch within the **portal triad**, together with a bile duct.
-- **Hepatic veins:** right, middle and left hepatic veins drain to IVC; their planes divide sectors; the portal veins provide an approximate transverse division into superior/inferior segments.
-- **Caudate lobe (segment I)** is functionally relatively independent and drains directly into the IVC; it may enlarge in hepatic venous outflow obstruction (**Budd–Chiari**).
-- **Portal pedicle on ultrasound:** the familiar **Mickey Mouse sign** in the transverse porta-hepatis view represents the portal vein with adjacent hepatic artery and bile duct.
-
-##### Couinaud segmental anatomy
-| Segment | Surgical location | Important correlation |
-|---|---|---|
-| **I** | Caudate lobe | Independent venous drainage to IVC; hypertrophy in Budd–Chiari |
-| **II** | Left lateral superior | Part of left lateral section; common living-donor pediatric graft |
-| **III** | Left lateral inferior | With II forms left lateral section |
-| **IVa** | Left medial superior | Left hemiliver |
-| **IVb** | Left medial inferior | **Gallbladder bed** (together with V); relevant in radical GB-cancer surgery |
-| **V** | Right anterior inferior | Gallbladder bed; right anterior section |
-| **VI** | Right posterior inferior | Right posterior section |
-| **VII** | Right posterior superior | Subdiaphragmatic/right posterior location; WOR highlights amoebic liver abscess |
-| **VIII** | Right anterior superior | Right anterior section |
-
-**Sector map:** left lateral = II–III; left medial = IVa–IVb; right anterior = V–VIII; right posterior = VI–VII. Segment I is separate.
-
-| Brisbane 2000 operation | Resected segments | Rationale / typical situation |
-|---|---|---|
-| **Left hepatectomy / left hemihepatectomy** | II, III, IV | Left-sided lesion |
-| **Right hepatectomy / right hemihepatectomy** | V, VI, VII, VIII | Right-sided lesion |
-| **Left lateral sectionectomy** | II, III | Localized left-lateral lesion; pediatric donor graft |
-| **Extended left hepatectomy / left trisectionectomy** | II, III, IV, V, VIII | Additional right anterior section |
-| **Extended right hepatectomy / right trisectionectomy** | IV, V, VI, VII, VIII | Additional left medial segment |
-| **Central hepatectomy (“Taj Mahal”)** | Central segments including IVb, V and often VIII, depending on exact operation | Selected centrally placed disease |
-| **Radical gallbladder cancer resection** | Gallbladder with liver bed, classically IVb and V, plus lymphadenectomy | Selected T1b/T2 and other resectable lesions |
-
-> [!tip] Exam mechanism
-> The **portal inflow anatomy makes segmental resections possible**. Hepatic veins mark intersectoral boundaries. Always distinguish **anatomic lobe** from **functional hemiliver**.
-
-##### Surgical pedicle and Pringle maneuver- **Portal triad:** portal vein, proper hepatic artery and common bile duct within the hepatoduodenal ligament.
+**Surgical pedicle and Pringle maneuver**
 - **Pringle maneuver:** temporarily occludes vascular inflow by compressing/clamping the hepatoduodenal ligament at the free margin near the foramen of Winslow.
 - **Interpretation:** hepatic bleeding that decreases suggests an **inflow-source** (hepatic artery/portal vein); persistent major hemorrhage raises concern for **hepatic venous/retrohepatic IVC** injury or another source.
 - **Use in trauma/hepatectomy:** a temporizing hemostatic maneuver; control, ischemic tolerance, and definitive vascular techniques require specialist judgment.
 
-<!-- SURGERY_GI_ZIP_CONTENT_END:04-4-1 -->
+
+---
+
+
 ## 4.2 Biliary Apparatus
 
 The extrahepatic biliary apparatus consists of the right and left hepatic ducts, common hepatic duct, gallbladder, cystic duct, and common bile duct.
@@ -125,32 +115,8 @@ Crucial anatomical space dissected during cholecystectomy [58]:
 
 * **Moynihan's Hump**: Tortuous "caterpillar turn" of the right hepatic artery within Calot's triangle, vulnerable to accidental ligation during cholecystectomy [19].
 
-### Common Bile Duct (CBD) & Sphincter of Oddi
-CBD (~8 cm long) descends in the free margin of the lesser omentum [2], passes posterior to the 1st part of the duodenum, traverses the head of the pancreas, and joins the main pancreatic duct at the **Ampulla of Vater** [24, 42].
-* **Sphincter of Oddi Complex**: Smooth muscle sphincters surrounding the terminal CBD, pancreatic duct, and ampulla [19]. Resting pressure $13–120\text{ mmHg}$; relaxes in response to **CCK** [19].
-
----
-
-<!-- SURGERY_GI_ZIP_CONTENT_START:04-4-2 -->
-
-### Additional surgical details integrated from the Surgery notes
-
-> [!info] Provenance and scope
-> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
-
-#### 1. Surgical anatomy of the biliary system
-
-> **Source:** Surgery ZIP — 17_Gallbladder_and_Biliary_Surgery.md
-
-##### Ductal anatomy- **Hepatocytes → bile canaliculi → intrahepatic ducts → right/left hepatic ducts → common hepatic duct (CHD).**
-- CHD + **cystic duct** → **common bile duct (CBD)**. CBD commonly joins the **main pancreatic duct (Wirsung)** near the ampulla of Vater before entering **second part of duodenum**.
-- **Cystic duct:** spiral mucosal folds known as **valves of Heister**; can complicate cannulation.
-- **Sphincter of Oddi complex** controls flow at distal CBD/pancreatic duct/ampulla and relaxes with appropriate postprandial signals.
-- **CCK:** duodenal response to fat → **gallbladder contraction**, sphincter relaxation and bile delivery to digest fat.
-- **Gallbladder:** fundus, body, infundibulum/Hartmann pouch and neck; lies adjacent to liver segments **IVb and V**.
-- **Cystic artery** usually arises from **right hepatic artery**; many vascular/biliary variants create injury risk.
-
-##### Hepatocystic vs classical Calot triangle| Structure | Boundaries | Contents/importance |
+**Hepatocystic vs classical Calot triangle**
+| Triangle | Boundaries | Surgical relevance |
 |---|---|---|
 | **Hepatocystic triangle** | **CHD medially + cystic duct inferiorly/laterally + inferior liver edge superiorly** | Cystic artery, nodes and variable ducts; field for safe dissection |
 | **Original Calot triangle** | **CHD + cystic duct + cystic artery** | Different superior boundary; sources distinguish both |
@@ -163,7 +129,23 @@ CBD (~8 cm long) descends in the free margin of the lesser omentum [2], passes p
 - **Phrygian cap:** fold of gallbladder fundus; common benign anatomical variation **not itself an indication for surgery**.
 - **Ducts of Luschka:** small subvesical/accessory bile ducts near gallbladder bed; injury causes postoperative bile leak.
 
-<!-- SURGERY_GI_ZIP_CONTENT_END:04-4-2 -->
+
+### Common Bile Duct (CBD) & Sphincter of Oddi
+CBD (~8 cm long) descends in the free margin of the lesser omentum [2], passes posterior to the 1st part of the duodenum, traverses the head of the pancreas, and joins the main pancreatic duct at the **Ampulla of Vater** [24, 42].
+* **Sphincter of Oddi Complex**: Smooth muscle sphincters surrounding the terminal CBD, pancreatic duct, and ampulla [19]. Resting pressure $13–120\text{ mmHg}$; relaxes in response to **CCK** [19].
+
+**Ductal anatomy**
+- CHD + **cystic duct** → **common bile duct (CBD)**. CBD commonly joins the **main pancreatic duct (Wirsung)** near the ampulla of Vater before entering **second part of duodenum**.
+- **Cystic duct:** spiral mucosal folds known as **valves of Heister**; can complicate cannulation.
+- **Sphincter of Oddi complex** controls flow at distal CBD/pancreatic duct/ampulla and relaxes with appropriate postprandial signals.
+- **CCK:** duodenal response to fat → **gallbladder contraction**, sphincter relaxation and bile delivery to digest fat.
+- **Gallbladder:** fundus, body, infundibulum/Hartmann pouch and neck; lies adjacent to liver segments **IVb and V**.
+- **Cystic artery** usually arises from **right hepatic artery**; many vascular/biliary variants create injury risk.
+
+
+---
+
+
 ## 4.3 Pancreas
 
 The pancreas is an elongated, secondary retroperitoneal organ ($L_1–L_2$ level) spanning the posterior abdominal wall [31, 32].
@@ -183,38 +165,16 @@ flowchart TD
     C --> D[Union posterior to the neck of the pancreas]
 ```
 
----
-
-<!-- SURGERY_GI_ZIP_CONTENT_START:04-4-3 -->
-
-### Additional surgical details integrated from the Surgery notes
-
-> [!info] Provenance and scope
-> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
-
-#### 1. Surgical anatomy and pancreatic development
-
-> **Source:** Surgery ZIP — 18_Pancreatic_and_Splenic_Surgery.md
-
-##### Normal anatomy- **Retroperitoneal gland**, except tail in **splenorenal ligament** adjacent to splenic hilum; head lies in duodenal C-loop, **uncinate process** is related posteriorly to superior mesenteric vessels, neck overlies **SMV–portal vein confluence**, and body/tail extend toward spleen.
+**Normal anatomy**
 - **Main duct (Wirsung)** commonly joins distal CBD at ampulla of Vater; accessory duct (**Santorini**) may drain through **minor duodenal papilla**.
 - **Pancreatic head** shares blood supply and lymphatic relationships with duodenum, explaining why **pancreaticoduodenectomy** removes both together.
 - **Splenic artery/vein** run along pancreas toward hilum; pancreatic surgery can damage splenic vessels, produce splenic vein thrombosis or result in **left-sided portal hypertension**.
 - Surgical relevance: major peripancreatic vessel relationships—**SMA, SMV, portal vein, celiac axis, common hepatic artery**—largely determine tumor resectability.
 
-##### Embryologic buds and defects- **Dorsal + ventral endodermal buds** normally rotate/fuse. Ventral bud forms the lower head/uncinate region; dorsal bud contributes most other pancreatic tissue.
 
-| Anomaly | Developmental mechanism | Clinical presentation | Source treatment principle |
-|---|---|---|---|
-| **Pancreas divisum** | Failure of ductal fusion → most secretions drain via **minor papilla** | Often asymptomatic; recurrent pancreatitis in some | MRCP/ERCP for anatomy; selected minor papillotomy/stent (WOR/Doctut) |
-| **Annular pancreas** | Abnormal rotation creates pancreatic ring around **second duodenum** | Congenital obstruction, often **nonbilious vomiting** if proximal | **Duodenoduodenostomy** or bypass; avoid simple pancreatic division |
-| **Ectopic pancreas** | Pancreatic tissue in stomach, duodenum, jejunum, Meckel diverticulum, etc. | Usually incidental; can cause pain or bleeding | Treat only selected symptomatic lesions |
-| **Pancreatic agenesis/hypoplasia** | Developmental failure (PDX1-associated forms in Robbins) | Diabetes/exocrine effects depending on extent | Individual management |
+---
 
-> [!tip] One-liner
-> **Pancreas divisum = dorsal duct dominance and minor papilla drainage; annular pancreas = encircles D2 causing duodenal obstruction.**
 
-<!-- SURGERY_GI_ZIP_CONTENT_END:04-4-3 -->
 ## 4.4 Spleen
 
 The spleen is a wedge-shaped lymphoid organ situated in the left hypochondrium.
@@ -232,31 +192,20 @@ The spleen is a wedge-shaped lymphoid organ situated in the left hypochondrium.
   * **White Pulp**: Lymphatic tissue forming Periarteriolar Lymphoid Sheaths (PALS - T-cells) and lymphoid follicles (B-cells) surrounding central arterioles [20, 49].
   * **Red Pulp**: Splenic cords (cords of Billroth) and venous sinusoids; filters senescent erythrocytes and encapsulates bacteria [20, 49].
 
----
-
-<!-- SURGERY_GI_ZIP_CONTENT_START:04-4-4 -->
-
-### Additional surgical details integrated from the Surgery notes
-
-> [!info] Provenance and scope
-> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
-
-#### 13. Spleen: surgical anatomy and physiology / Anatomy
-
-> **Source:** Surgery ZIP — 18_Pancreatic_and_Splenic_Surgery.md
-
 - **Largest lymphoid organ**, under left diaphragm, usually opposite ribs **9–11**, with long axis approximating **10th rib** (Doctut).
 - Embryology: develops from **dorsal mesogastrium**.
 - Relationships: stomach, left kidney, splenic flexure, diaphragm and pancreatic tail.
 
 | Peritoneal attachment | Main contents/clinical point |
 |---|---|
-| **Gastrosplenic ligament** | **Short gastric vessels** and left gastroepiploic vessels; preserve/ligate appropriately during splenectomy |
 | **Splenorenal (lienorenal) ligament** | **Splenic artery/vein and tail of pancreas**; pancreatic tail injury risk |
 | **Splenocolic ligament** | Attachment near splenic flexure; risk to colon during mobilization |
 | **Splenophrenic ligament** | Splenic attachment to diaphragm |
 
-<!-- SURGERY_GI_ZIP_CONTENT_END:04-4-4 -->
+
+---
+
+
 ## 4.5 Peritoneum & Abdominal Spaces
 
 ### Peritoneal Subdivisions
