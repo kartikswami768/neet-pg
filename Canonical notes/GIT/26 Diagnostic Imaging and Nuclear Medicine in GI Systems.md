@@ -77,41 +77,6 @@ flowchart TD
    * Uses large-volume neutral oral contrast agents ($1.5–2.0\text{ L}$ of polyethylene glycol or $0.1\%$ barium) to achieve maximal small bowel lumen distension combined with IV contrast.
    * Modality of Choice for **Crohn’s Disease**: Demonstrates transmural mural thickening ($>3\text{ mm}$), hyper-enhancement, mucosal stratification ("target sign"), **Comb Sign** (engorged, hypervascular vasa recta aligned perpendicular to the inflamed ileal wall), and enterocutaneous/enteroenteric fistulae.
 
-| Modality | Main surgical role |
-|---|---|
-| **Ultrasound + Doppler** | First look for cyst, abscess, biliary dilatation, vascular patency and portal flow |
-| **Triple-/multiphase contrast CT** | Characterize arterial vs portal/delayed enhancement, map HCC/metastases, plan resection; highlighted as investigation of choice (IOC) in WOR |
-| **MRI / liver-specific sequences** | Further characterize indeterminate benign/malignant nodules and biliary anatomy |
-| **MRCP** | Noninvasive map of biliary tree; crucial for suspected cystobiliary communication, bile duct injury or strictures |
-| **HIDA/hepatobiliary scan** | Traces hepatocyte excretion and bile movement; functional evaluation of biliary transit/leak/acute cholecystitis |
-| **Tc-99m sulfur colloid** | Reticuloendothelial/Kupffer-cell uptake; **FNH often demonstrates uptake** unlike many lesions |
-| **Angiography / interventional radiology** | Map or manage vascular bleeding, embolize liver lesions or perform TACE/TARE |
-
-**Triphasic HCC pattern (WOR/Robbins):** **arterial-phase hyperenhancement** followed by **washout** in portal or delayed phase in an appropriate at-risk liver. **LI-RADS** provides structured categorization of imaging findings; AFP supports evaluation but does not independently prove or exclude HCC.
-
-**FAST and eFAST**
-- Classic views: **subxiphoid/pericardial, RUQ (Morrison pouch), LUQ (splenorenal), pelvis (retrovesical/pouch of Douglas)**.
-- **eFAST adds pleural evaluation** for pneumothorax/hemothorax.
-- **Pneumothorax on lung US:** absent lung sliding; **barcode/stratosphere sign on M-mode** instead of normal seashore sign; interpret in full clinical context.
-- **Limitations:** a negative FAST does not exclude early/low-volume bleed, retroperitoneal injury, hollow viscus injury or some penetrating injuries.
-
-**Imaging choice**
-| Clinical situation | Imaging and immediate approach |
-|---|---|
-| **Hemodynamically unstable with suspected internal bleed** | Resuscitation + bedside eFAST and immediate source control; avoid delay for CT if unstable |
-| **Stable significant blunt abdominal trauma** | **Contrast-enhanced CT** to grade organ injury and detect vascular injury |
-| **Head injury with red flags** | **Noncontrast CT head** |
-| **Possible cervical spine injury** | Apply appropriate clinical clearance criteria; imaging according to age/risk and protocol |
-| **Stable major trauma with multiple suspected injuries** | Targeted/whole-body CT in selected patients, not automatically everyone |
-
-- No **focal neurologic deficit**.
-- Normal level of alertness.
-- No evidence of intoxication.
-- No painful distracting injury.
-
-**Important:** the N-E-X-U-S letter expansion given in one revision chart is only a memory aid, **not the formal criterion list**. Canadian C-spine Rule is an alternative clinical decision tool when applicable.
-
-
 ### Magnetic Resonance Imaging (MRI)
 * **MR Cholangiopancreatography (MRCP)**:
   * Non-invasive, non-ionizing technique utilizing heavy $T_2$-weighted sequences. Static fluid within the biliary and pancreatic ducts produces intense high signal intensity (bright white), while surrounding solid tissues appear dark.
@@ -120,7 +85,6 @@ flowchart TD
   * Contrast is selectively taken up by functioning hepatocytes via OATP1B3 transporters and excreted into bile. Differentiates HCC (lacks functional hepatocytes/transporters $\rightarrow$ hypointense on hepatobiliary phase) from Focal Nodular Hyperplasia (FNH—contains hepatocytes $\rightarrow$ hyperintense/isointense).
 
 ---
-
 
 ## 26.3 Nuclear Medicine Applications
 

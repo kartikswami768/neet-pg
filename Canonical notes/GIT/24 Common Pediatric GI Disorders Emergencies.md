@@ -160,15 +160,6 @@ Persistence of a portion of the **vitellointestinal (omphalomesenteric) duct**.
 - True diverticulum containing all layers.
 - May contain ectopic gastric or pancreatic mucosa.
 
-**Rule of twos**
-- Approximately 2% of population.
-- Approximately 2 inches long.
-- Approximately 2 feet proximal to ileocecal valve.
-- Often symptomatic in early childhood.
-
-**Investigations**
-- Tc-99m pertechnetate scan detects ectopic functioning gastric mucosa.
-- CT and other imaging for complications.
 
 **Vitelline duct remnants**
 | Persistence | Result |
@@ -231,28 +222,11 @@ Biliary atresia is a progressive, idiopathic fibro-inflammatory disease of infan
   * *Type II (2%)*: Obliteration of the common hepatic duct.
   * *Type III (93% - Most Common)*: Complete obliteration of the entire extrahepatic biliary tree at or above the porta hepatis.
 
-- **Type I:** lower CBD atresia. **Type II:** CHD-level atresia. **Type III:** hilar/right-left extrahepatic system atresia (**most common** in sources).
 - Associated anomalies in WOR: **polysplenia, situs inversus, cardiac lesions, interrupted IVC, preduodenal portal vein**.
 - Evaluation: fractionated bilirubin, **US (triangular cord sign)**, selected hepatobiliary imaging and **liver biopsy**; cholangiography may establish anatomy in surgical assessment. Source claims about one absolute “gold-standard” test vary.
 - **Kasai portoenterostomy:** remove fibrosed extrahepatic duct remnant, anastomose **Roux-en-Y jejunal limb** to porta hepatis to restore microscopic ductular drainage.
 - Better outcome with **earlier operation**; Doctut highlights **<6 weeks** as a favorable timing clue, not a guarantee.
 - **Liver transplantation:** definitive option for failed Kasai/progressive cirrhosis and a leading pediatric transplant indication.
-
-**Choledochal cyst: Todani classification**
-| Type | Anatomy | Source treatment principle |
-|---|---|---|
-| **I (most common)** | Fusiform/cystic **extrahepatic CBD dilatation** | Excision + **Roux-en-Y hepaticojejunostomy** |
-| **II** | Extrahepatic CBD diverticulum | Excision and repair of duct |
-| **III** | Intraduodenal CBD cyst (**choledochocele**) | Endoscopic/surgical therapy selected by size, mucosa and anatomy |
-| **IVa** | Both **intrahepatic and extrahepatic** dilatations | Complex management: extrahepatic excision; selected hepatic resection/transplant when extensive |
-| **IVb** | Multiple **extrahepatic** dilatations | Extrahepatic excision and reconstruction in suitable cases |
-| **V** | **Caroli disease:** intrahepatic duct ectasia only | Local liver resection for segmental disease or transplant in diffuse severe disease |
-
-- **Anomalous pancreaticobiliary junction** can expose bile duct to reflux of pancreatic enzymes → duct injury and malignancy risk.
-- Classical symptom triad: **pain + jaundice + palpable mass**, though not all are present.
-- Complications: **cholangitis, stones, pancreatitis, stricture, cholangiocarcinoma**.
-- **MRCP** is central for anatomy. **Central dot sign** supports Caroli disease on cross-sectional imaging (portal radicle within a dilated duct).
-- WOR’s blanket “Kasai for type IVb” is inconsistent with the anatomical goal of choledochal cyst excision; do not automatically adopt that table as a treatment algorithm (see appendix).
 
 - Progressive inflammatory obliteration of extrahepatic bile ducts → conjugated jaundice, **pale stools, dark urine**, hepatomegaly and cirrhosis.
 - **Conjugated jaundice is never physiologic**; distinguish from breast-milk jaundice.

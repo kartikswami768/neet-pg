@@ -328,53 +328,8 @@ flowchart TD
   * **Duhamel Procedure**: Retrorectal pull-through, creating a composite pouch with posterior aganglionic rectum and anterior ganglionic colon.
   * **Soave Procedure**: Endorectal pull-through, dissecting mucosal lining of the aganglionic rectum and pulling ganglionic bowel through the remaining aganglionic muscular sleeve.
 
-**Pathogenesis**
-Failure of neural crest migration produces **aganglionosis of the distal bowel**.
 
-- Distal segment remains contracted.
-- Proximal bowel progressively dilates.
-
-**Clinical features**
-- Delayed passage of meconium.
-- Abdominal distension.
-- Chronic constipation.
-- Bilious vomiting.
-- Enterocolitis in severe cases.
-
-**Investigations**
-- Contrast enema: narrow distal segment and proximal dilation with transition zone.
-- Rectal biopsy: definitive diagnosis demonstrating aganglionosis.
-
-**Histology**
-- Absent ganglion cells.
-- Hypertrophied nerve trunks.
-- Increased acetylcholinesterase staining described in classic teaching.
-
-**Treatment**
-- Surgical pull-through procedure with resection/bypass of aganglionic bowel.
-- Intraoperative mapping/frozen section may define normal bowel.
-
-**Named procedures**
-- Swenson.
-- Duhamel.
-- Soave.
-
-**Important complication**
-**Hirschsprung-associated enterocolitis** can be life-threatening.
-
-- Aganglionic segment cannot relax normally → **functional distal obstruction** and proximal colonic dilatation (**congenital aganglionic megacolon**).
-- Most frequent involvement is **rectosigmoid**; long-segment and total colonic disease also occur.
-- Associations include **Down syndrome** and **RET-pathway** abnormalities (multiple inherited patterns).
-
-- **Rectal examination:** tight empty rectum; explosive fecal/gas passage after withdrawal may occur.
-- Red flag: **Hirschsprung-associated enterocolitis**—fever, distension, explosive diarrhea, sepsis; urgent care.
-
-**Investigation**
-- **Definitive diagnosis = rectal suction biopsy** demonstrating absent ganglion cells and hypertrophic nerve fibers; **acetylcholinesterase staining** classically increased (calretinin patterns also discussed in pathology literature).
-
-- Definitive **pull-through procedure** removes/bypasses aganglionic bowel and anastomoses ganglionated bowel close to anus (Swenson, Soave, Duhamel approaches).
-- Complications: persistent constipation, enterocolitis, stricture, continence problems.
-
+- Postoperative complications to recognize: persistent constipation, recurrent enterocolitis, anastomotic stricture and continence problems.
 
 ---
 

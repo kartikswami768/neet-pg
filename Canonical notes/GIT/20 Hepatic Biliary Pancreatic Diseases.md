@@ -250,6 +250,50 @@ G --> H[Definitive portal pressure intervention / transplant assessment]
 
 ## 20.3 Pancreatitis Clinical Protocols
 
+
+**Chronic pancreatitis — mechanism, assessment and surgery**
+
+**Pathogenesis**
+- Mechanistic sequence (Robbins): repeated injury → inflammatory mediators, **TGF-β and PDGF** → pancreatic stellate/myofibroblast activation → collagen deposition and ductal distortion.
+- Later there is loss of **exocrine enzymes** and **endocrine islets**; calcifications and protein plugs occur, particularly with alcohol-associated disease.
+
+**TIGAR-O etiologic framework**
+| Category | Name | Examples |
+|---|---|---|
+| **T** | Toxic-metabolic | Alcohol, diet/metabolic factors |
+| **I** | Idiopathic | Including tropical calcific presentations |
+| **G** | Genetic | **PRSS1**, SPINK1, CFTR-related |
+| **A** | Autoimmune | **IgG4-related** autoimmune pancreatitis |
+| **R** | Recurrent acute | Recurrent attacks, gallstone-related injury |
+| **O** | Obstructive | Duct stones, strictures, pancreas divisum |
+
+**Clinical pattern and investigation**
+- **Steatorrhea, malabsorption and fat-soluble vitamin deficiency** after marked exocrine loss.
+- **Pancreatogenic/type 3c diabetes** due to endocrine insufficiency.
+- **CT:** gland atrophy, **calcifications, duct dilation** and associated complications.
+- **MRCP (often with secretin in selected cases):** duct obstruction/dilatation/strictures; **“chain of lakes”** appearance.
+- **EUS** can assess early parenchymal/ductal changes (Doctut mentions Rosemont criteria); ERCP is now primarily therapeutic rather than routine diagnostic.
+- **Fecal elastase** supports exocrine deficiency evaluation; Doctut quotes <200 µg/g stool as abnormal. Direct/other function tests are available in source headings.
+
+- **Duct decompression** improves pain in selected obstructed/dilated ducts; intraductal stones/strictures may be managed endoscopically or surgically.
+- **Celiac plexus block** may be a temporary option for selected refractory pain but does not correct anatomy.
+
+**Named chronic pancreatitis operations**
+| Operation | Surgical principle | Use or clinical indication |
+|---|---|---|
+| **Modified Puestow / Partington–Rochelle** | Longitudinal pancreatic duct opening with **side-to-side pancreaticojejunostomy** | Drain **dilated** main duct; source thresholds often **>6–7 mm** |
+| **Frey procedure** | **Core out inflammatory pancreatic head** + longitudinal duct drainage to jejunum | Hybrid **resection + drainage** for enlarged head with ductal changes |
+| **Beger** | **Duodenum-preserving pancreatic head resection** | Inflammatory pancreatic head with desire to preserve duodenum |
+| **Berne modification** | Limited duodenum-preserving head excavation | Variant of Beger |
+| **Izbicki / V-shaped excision** | V-shaped ventral pancreatic excision and drainage | Small or nondilated ducts in selected cases |
+| **Child–Duval** | Historical distal duct resection/terminojejunal drainage | Named procedure in source comparisons; not default modern surgery |
+| **Distal pancreatectomy ± splenectomy** | Resect diseased body/tail | Localized tail pathology or complication |
+| **Whipple / pancreaticoduodenectomy** | Resect head/duodenum | Suspicion/confirmation of cancer or selected complex head disease |
+
+> [!tip] Distinguish operations
+> **Puestow = drainage**, **Frey = head coring + drainage**, **Beger = duodenum-preserving head resection**, **Whipple = pancreatic head + duodenum resection**.
+
+
 ### A. Acute Pancreatitis Diagnostic & Severity Protocols
 
 **Etiologies**
@@ -389,47 +433,6 @@ E -->|No| J[Support/monitor, avoid unnecessary early necrosectomy]
 - **Step-up** in Doctut: **percutaneous catheter drainage → VARD (video-assisted retroperitoneal debridement) or other minimally invasive necrosectomy → open surgery if needed**.
 - **Timing matters:** whenever clinically safe, waiting for organization of necrosis facilitates safer debridement.
 - Recognize complications: infected collections, **splenic vein thrombosis**, pseudoaneurysm/hemorrhage, pancreatic ascites, duct disruption and fistula, organ failure.
-
-**Pathogenesis**
-- Mechanistic sequence (Robbins): repeated injury → inflammatory mediators, **TGF-β and PDGF** → pancreatic stellate/myofibroblast activation → collagen deposition and ductal distortion.
-- Later there is loss of **exocrine enzymes** and **endocrine islets**; calcifications and protein plugs occur, particularly with alcohol-associated disease.
-
-**TIGAR-O etiologic framework**
-| Category | Name | Examples |
-|---|---|---|
-| **T** | Toxic-metabolic | Alcohol, diet/metabolic factors |
-| **I** | Idiopathic | Including tropical calcific presentations |
-| **G** | Genetic | **PRSS1**, SPINK1, CFTR-related |
-| **A** | Autoimmune | **IgG4-related** autoimmune pancreatitis |
-| **R** | Recurrent acute | Recurrent attacks, gallstone-related injury |
-| **O** | Obstructive | Duct stones, strictures, pancreas divisum |
-
-**Clinical pattern and investigation**
-- **Steatorrhea, malabsorption and fat-soluble vitamin deficiency** after marked exocrine loss.
-- **Pancreatogenic/type 3c diabetes** due to endocrine insufficiency.
-- **CT:** gland atrophy, **calcifications, duct dilation** and associated complications.
-- **MRCP (often with secretin in selected cases):** duct obstruction/dilatation/strictures; **“chain of lakes”** appearance.
-- **EUS** can assess early parenchymal/ductal changes (Doctut mentions Rosemont criteria); ERCP is now primarily therapeutic rather than routine diagnostic.
-- **Fecal elastase** supports exocrine deficiency evaluation; Doctut quotes <200 µg/g stool as abnormal. Direct/other function tests are available in source headings.
-
-- **Duct decompression** improves pain in selected obstructed/dilated ducts; intraductal stones/strictures may be managed endoscopically or surgically.
-- **Celiac plexus block** may be a temporary option for selected refractory pain but does not correct anatomy.
-
-**Named chronic pancreatitis operations**
-| Operation | Surgical principle | Use or clinical indication |
-|---|---|---|
-| **Modified Puestow / Partington–Rochelle** | Longitudinal pancreatic duct opening with **side-to-side pancreaticojejunostomy** | Drain **dilated** main duct; source thresholds often **>6–7 mm** |
-| **Frey procedure** | **Core out inflammatory pancreatic head** + longitudinal duct drainage to jejunum | Hybrid **resection + drainage** for enlarged head with ductal changes |
-| **Beger** | **Duodenum-preserving pancreatic head resection** | Inflammatory pancreatic head with desire to preserve duodenum |
-| **Berne modification** | Limited duodenum-preserving head excavation | Variant of Beger |
-| **Izbicki / V-shaped excision** | V-shaped ventral pancreatic excision and drainage | Small or nondilated ducts in selected cases |
-| **Child–Duval** | Historical distal duct resection/terminojejunal drainage | Named procedure in source comparisons; not default modern surgery |
-| **Distal pancreatectomy ± splenectomy** | Resect diseased body/tail | Localized tail pathology or complication |
-| **Whipple / pancreaticoduodenectomy** | Resect head/duodenum | Suspicion/confirmation of cancer or selected complex head disease |
-
-> [!tip] Distinguish operations
-> **Puestow = drainage**, **Frey = head coring + drainage**, **Beger = duodenum-preserving head resection**, **Whipple = pancreatic head + duodenum resection**.
-
 
 ---
 
