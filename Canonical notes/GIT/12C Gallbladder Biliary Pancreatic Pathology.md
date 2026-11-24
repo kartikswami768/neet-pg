@@ -88,13 +88,14 @@ Gallstones affect $10–20\%$ of adults in developed nations. Divided into **Cho
 - **Clinical:** early cancer may mimic gallstone disease or be discovered incidentally after LC; late disease causes weight loss, mass, obstructive jaundice and locally invasive symptoms.
 - Workup: **CECT** for anatomy/resectability; further liver/duct imaging when needed; tumor markers (e.g. **CA19-9**) are supportive, not diagnostic in isolation.
 
-##### Staging-based operative concept| Stage | Layer/spread | Surgery described in sources |
-|---|---|---|
-| **Tis/T1a** | Limited to mucosa/lamina propria | **Simple cholecystectomy** may be adequate if fully excised |
-| **T1b** | Into **muscular layer** | Consider **extended/radical resection** for appropriate candidates |
-| **T2** | Into perimuscular connective tissue, without serosal perforation | **Radical cholecystectomy** with liver-bed (IVb/V) and regional nodes in suitable cases |
-| **T3** | Perforates serosa/invades liver or one adjacent organ | Selected complex en-bloc resection if technically/oncologically feasible |
-| **T4 / disseminated** | Major vascular/multiple organ invasion or distant spread | Usually palliative systemic/endoscopic approaches |
+##### Staging-based operative concept
+| Stage                 | Layer/spread                                                     | Surgery described in sources                                                            |
+| --------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| **Tis/T1a**           | Limited to mucosa/lamina propria                                 | **Simple cholecystectomy** may be adequate if fully excised                             |
+| **T1b**               | Into **muscular layer**                                          | Consider **extended/radical resection** for appropriate candidates                      |
+| **T2**                | Into perimuscular connective tissue, without serosal perforation | **Radical cholecystectomy** with liver-bed (IVb/V) and regional nodes in suitable cases |
+| **T3**                | Perforates serosa/invades liver or one adjacent organ            | Selected complex en-bloc resection if technically/oncologically feasible                |
+| **T4 / disseminated** | Major vascular/multiple organ invasion or distant spread         | Usually palliative systemic/endoscopic approaches                                       |
 
 - **Radical cholecystectomy:** GB + adjacent liver bed (classically **segments IVb and V**) and regional lymphadenectomy.
 - **Incidental post-LC carcinoma:** review histology and operative details; T1a versus T1b/T2 determines whether **completion resection** should be discussed.
