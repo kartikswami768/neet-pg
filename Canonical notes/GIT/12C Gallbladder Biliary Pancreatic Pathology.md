@@ -88,6 +88,33 @@ Gallstones affect $10–20\%$ of adults in developed nations. Divided into **Cho
 
 ## 12.6 Pancreatic Pathology
 
+**Four frequent entities to distinguish**
+| Entity | Typical patient/location | Cyst fluid / pathology | Cancer potential and operative logic |
+|---|---|---|---|
+| **Pseudocyst** | After pancreatitis/trauma, often **lesser sac** | **No epithelial lining**, granulation/fibrous wall, high pancreatic enzymes | Not a true neoplasm; intervene for complications |
+| **Serous cystic neoplasm (SCN)** | Often older woman, frequently tail | Many small cysts/microcystic, **central scar**, VHL association (Robbins) | Usually benign; observe typical asymptomatic lesions, resect selected symptomatic/uncertain |
+| **Mucinous cystic neoplasm (MCN)** | Typically middle-aged woman, **body/tail** | **Ovarian-type stroma**, mucin, ER/PR often positive; no main duct communication classically | Malignant potential → selected resection; source raises CEA and ovarian stroma |
+| **Intraductal papillary mucinous neoplasm (IPMN)** | More often head, sometimes multifocal | **Duct-communicating mucin-producing papillary lesion**; fish-mouth ampulla with mucin | Main-duct vs branch-duct risk differs; assess high-risk features and resect selected cases |
+
+- **Solid pseudopapillary neoplasm:** typically young women; encapsulated solid-cystic mass; **β-catenin/CTNNB1** pathway (Robbins), usually favorable after complete resection.
+- **Pancreatic cyst workup:** CT/MRI/MRCP, **EUS** and fluid studies in appropriate circumstances; **CEA** helps support mucinous character, but **CEA level alone does not prove malignancy**.
+- **Do not confuse a cystic tumor with a postpancreatitis pseudocyst**; an unrecognized MCN/IPMN can be mismanaged if treated as a simple pseudocyst.
+
+**Insulinoma, gastrinoma, glucagonoma**
+| Tumor | Hormone/source | Clinical hallmark | Main diagnostic clue |
+|---|---|---|---|
+| **Insulinoma** | β-cell insulin | **Whipple triad:** hypoglycemic symptoms, documented low glucose, relief with glucose | Supervised **72-hour fast**: inappropriate endogenous insulin, **C-peptide** and other biochemical findings during hypoglycemia; EUS/other imaging localizes |
+| **Gastrinoma** | Gastrin-secreting pNET | **Zollinger–Ellison syndrome:** recurrent/refractory ulcers, distal duodenal/jejunal ulcers, diarrhea | Fasting **gastrin** (interpret with acid status/PPI use), **secretin stimulation** when appropriate; associated **MEN1** |
+| **Glucagonoma** | α-cell glucagon | **4 Ds:** dermatitis (**necrolytic migratory erythema**), diabetes, **DVT**, depression | Hormonal evaluation + imaging |
+
+- WOR emphasizes insulinomas often small and frequently benign; selected localized insulinomas may be treated by **enucleation** while others require resection.
+- **Passaro gastrinoma triangle**: boundary region involving junction of cystic duct/CHD, 2nd/3rd duodenum junction, and pancreatic head/neck; explains common gastrinoma localization. Doctut specifies many are within the triangle.
+- **Gastrinoma** often has multifocal lesions in MEN1; management combines acid control (**PPIs**), staging/localization, selected surgery and metastatic disease therapy.
+- Pancreatic NET workup differs from exocrine ductal adenocarcinoma; pancreatic masses are not all PDAC.
+
+
+
+
 ### A. Acute Pancreatitis
 * **Definition**: Reversible inflammatory disorder of the exocrine pancreas ranging from localized edema to severe hemorrhagic parenchymal necrosis.
 
@@ -222,31 +249,6 @@ flowchart TD
 
 - WOR/Doctut describe **abutment vs encasement** using degrees of vessel contact. Particularly important: **SMA, common hepatic artery and celiac axis** compared with **SMV/portal vein**, which may sometimes be reconstructed.
 - Historical exact cutoffs differ across their tables, so **do not equate one >180° threshold with an automatic operation order**; refer to an up-to-date institution-specific staging system for real care.
-
-
-**Four frequent entities to distinguish**
-| Entity | Typical patient/location | Cyst fluid / pathology | Cancer potential and operative logic |
-|---|---|---|---|
-| **Pseudocyst** | After pancreatitis/trauma, often **lesser sac** | **No epithelial lining**, granulation/fibrous wall, high pancreatic enzymes | Not a true neoplasm; intervene for complications |
-| **Serous cystic neoplasm (SCN)** | Often older woman, frequently tail | Many small cysts/microcystic, **central scar**, VHL association (Robbins) | Usually benign; observe typical asymptomatic lesions, resect selected symptomatic/uncertain |
-| **Mucinous cystic neoplasm (MCN)** | Typically middle-aged woman, **body/tail** | **Ovarian-type stroma**, mucin, ER/PR often positive; no main duct communication classically | Malignant potential → selected resection; source raises CEA and ovarian stroma |
-| **Intraductal papillary mucinous neoplasm (IPMN)** | More often head, sometimes multifocal | **Duct-communicating mucin-producing papillary lesion**; fish-mouth ampulla with mucin | Main-duct vs branch-duct risk differs; assess high-risk features and resect selected cases |
-
-- **Solid pseudopapillary neoplasm:** typically young women; encapsulated solid-cystic mass; **β-catenin/CTNNB1** pathway (Robbins), usually favorable after complete resection.
-- **Pancreatic cyst workup:** CT/MRI/MRCP, **EUS** and fluid studies in appropriate circumstances; **CEA** helps support mucinous character, but **CEA level alone does not prove malignancy**.
-- **Do not confuse a cystic tumor with a postpancreatitis pseudocyst**; an unrecognized MCN/IPMN can be mismanaged if treated as a simple pseudocyst.
-
-**Insulinoma, gastrinoma, glucagonoma**
-| Tumor | Hormone/source | Clinical hallmark | Main diagnostic clue |
-|---|---|---|---|
-| **Insulinoma** | β-cell insulin | **Whipple triad:** hypoglycemic symptoms, documented low glucose, relief with glucose | Supervised **72-hour fast**: inappropriate endogenous insulin, **C-peptide** and other biochemical findings during hypoglycemia; EUS/other imaging localizes |
-| **Gastrinoma** | Gastrin-secreting pNET | **Zollinger–Ellison syndrome:** recurrent/refractory ulcers, distal duodenal/jejunal ulcers, diarrhea | Fasting **gastrin** (interpret with acid status/PPI use), **secretin stimulation** when appropriate; associated **MEN1** |
-| **Glucagonoma** | α-cell glucagon | **4 Ds:** dermatitis (**necrolytic migratory erythema**), diabetes, **DVT**, depression | Hormonal evaluation + imaging |
-
-- WOR emphasizes insulinomas often small and frequently benign; selected localized insulinomas may be treated by **enucleation** while others require resection.
-- **Passaro gastrinoma triangle**: boundary region involving junction of cystic duct/CHD, 2nd/3rd duodenum junction, and pancreatic head/neck; explains common gastrinoma localization. Doctut specifies many are within the triangle.
-- **Gastrinoma** often has multifocal lesions in MEN1; management combines acid control (**PPIs**), staging/localization, selected surgery and metastatic disease therapy.
-- Pancreatic NET workup differs from exocrine ductal adenocarcinoma; pancreatic masses are not all PDAC.
 
 
 ---

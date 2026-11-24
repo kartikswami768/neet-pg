@@ -12,6 +12,33 @@ tags:
 
 Peptic Ulcer Disease (PUD) encompasses mucosal defects penetrating through the muscularis mucosae in the stomach or duodenum, driven primarily by ***Helicobacter pylori*** infection and **Non-Steroidal Anti-Inflammatory Drug (NSAID)** use.
 
+
+**Peptic-ulcer complication — gastric outlet obstruction**
+Causes include:
+- Pyloric/duodenal scarring from chronic peptic ulcer disease.
+- Gastric carcinoma.
+- Extrinsic compression or other structural obstruction.
+
+Clinical features:
+- Persistent nonbilious vomiting.
+- Retained food from preceding meals.
+- Early satiety.
+- Weight loss and dehydration.
+- Succussion splash and visible gastric peristalsis.
+
+Biochemical findings:
+- Hypochloremia.
+- Hypokalemia.
+- Metabolic alkalosis.
+
+Management:
+- NG decompression as needed.
+- IV fluid and electrolyte replacement.
+- Upper GI endoscopy and tissue diagnosis when indicated.
+- Definitive treatment directed at cause, including dilation or surgery in selected benign cases.
+
+
+
 ### A. Diagnostic Approach to Dyspepsia & Indication Criteria
 
 **CLINICAL MANAGEMENT OF DYSPEPSIA**
@@ -58,30 +85,6 @@ Due to rising global resistance rates to Clarithromycin ($>15\%$), guidelines fr
 
 #### Confirmation of Eradication
 Mandatory in all treated patients, performed at least **4 weeks post-completion of antibiotic therapy** and at least **2 weeks after stopping PPI therapy** (PPIs suppress bacterial load, causing false-negative test results). Confirmed via **Urea Breath Test** or **Stool Antigen Test**. Serology cannot be used for confirmation of eradication because anti-*H. pylori* IgG antibodies persist for years post-cure.
-
-Causes include:
-- Pyloric/duodenal scarring from chronic peptic ulcer disease.
-- Gastric carcinoma.
-- Extrinsic compression or other structural obstruction.
-
-Clinical features:
-- Persistent nonbilious vomiting.
-- Retained food from preceding meals.
-- Early satiety.
-- Weight loss and dehydration.
-- Succussion splash and visible gastric peristalsis.
-
-Biochemical findings:
-- Hypochloremia.
-- Hypokalemia.
-- Metabolic alkalosis.
-
-Management:
-- NG decompression as needed.
-- IV fluid and electrolyte replacement.
-- Upper GI endoscopy and tissue diagnosis when indicated.
-- Definitive treatment directed at cause, including dilation or surgery in selected benign cases.
-
 
 ---
 

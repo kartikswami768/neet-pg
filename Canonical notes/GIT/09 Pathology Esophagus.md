@@ -98,6 +98,55 @@ Esophageal motility disorders result from impaired neuromuscular coordination of
 
 ## 9.2 Inflammatory & Vascular Conditions
 
+**Mechanism**
+**Alkali**
+- Causes liquefactive necrosis.
+- Saponification and protein dissolution facilitate deep tissue penetration.
+- Commonly produces severe esophageal injury.
+
+**Acid**
+- Typically causes coagulative necrosis.
+- More commonly associated with gastric injury, although severe esophageal damage can occur.
+
+**Zargar endoscopic classification**
+| Grade | Findings |
+|---|---|
+| 0 | Normal |
+| I | Edema and erythema |
+| IIa | Superficial ulceration, erosions or exudates |
+| IIb | Deep or circumferential ulceration |
+| IIIa | Focal necrosis |
+| IIIb | Extensive necrosis |
+| IV | Perforation in expanded classifications |
+
+**Clinical complications**
+**Early**
+- Airway edema.
+- Esophageal perforation.
+- Mediastinitis.
+- Gastric necrosis.
+- Sepsis.
+
+**Late**
+- Esophageal stricture.
+- Gastric outlet obstruction.
+- Nutritional impairment.
+- Increased long-term risk of esophageal carcinoma.
+
+**Management principles**
+- Assess and protect airway.
+- NPO, fluid resuscitation and analgesia.
+- Avoid induced vomiting and chemical neutralization.
+- Do not blindly insert a nasogastric tube.
+- Early specialist evaluation and appropriately selected endoscopy/CT.
+- No routine role for prophylactic corticosteroids.
+- Antibiotics are indicated when infection, perforation or other relevant complications warrant them, not merely because corrosive ingestion occurred.
+
+**Stricture treatment:** endoscopic dilatation; selected refractory cases require reconstruction or esophagectomy.
+
+
+
+
 ### A. Gastroesophageal Reflux Disease (GERD) & Erosive Esophagitis
 * **Definition**: Chronic mucosal damage caused by retrograde flow of acidic gastric content (and occasionally bile/pancreatic enzymes) into the esophagus.
 
@@ -214,57 +263,19 @@ Occurs almost exclusively in immunocompromised hosts (HIV/AIDS with CD4 count $<
     4. Antibiotic prophylaxis (Ceftriaxone) to prevent SBP and sepsis.
     5. Refractory bleeding: **TIPS** (Transjugular Intrahepatic Portosystemic Shunt) or Sengstaken-Blakemore balloon tamponade.
 
-**Mechanism**
-**Alkali**
-- Causes liquefactive necrosis.
-- Saponification and protein dissolution facilitate deep tissue penetration.
-- Commonly produces severe esophageal injury.
-
-**Acid**
-- Typically causes coagulative necrosis.
-- More commonly associated with gastric injury, although severe esophageal damage can occur.
-
-**Zargar endoscopic classification**
-| Grade | Findings |
-|---|---|
-| 0 | Normal |
-| I | Edema and erythema |
-| IIa | Superficial ulceration, erosions or exudates |
-| IIb | Deep or circumferential ulceration |
-| IIIa | Focal necrosis |
-| IIIb | Extensive necrosis |
-| IV | Perforation in expanded classifications |
-
-**Clinical complications**
-**Early**
-- Airway edema.
-- Esophageal perforation.
-- Mediastinitis.
-- Gastric necrosis.
-- Sepsis.
-
-**Late**
-- Esophageal stricture.
-- Gastric outlet obstruction.
-- Nutritional impairment.
-- Increased long-term risk of esophageal carcinoma.
-
-**Management principles**
-- Assess and protect airway.
-- NPO, fluid resuscitation and analgesia.
-- Avoid induced vomiting and chemical neutralization.
-- Do not blindly insert a nasogastric tube.
-- Early specialist evaluation and appropriately selected endoscopy/CT.
-- No routine role for prophylactic corticosteroids.
-- Antibiotics are indicated when infection, perforation or other relevant complications warrant them, not merely because corrosive ingestion occurred.
-
-**Stricture treatment:** endoscopic dilatation; selected refractory cases require reconstruction or esophagectomy.
-
-
 ---
 
 
 ## 9.3 Esophageal Neoplasms
+
+**Esophageal leiomyoma**
+- Common benign mesenchymal esophageal tumor.
+- Frequently asymptomatic.
+- Barium swallow may reveal a smooth filling defect.
+- Selected symptomatic lesions undergo enucleation or endoscopic resection.
+
+
+
 
 ### A. Barrett Esophagus
 * **Definition**: A chronic complication of GERD characterized by the **metaplastic replacement** of the normal distal esophageal stratified squamous epithelium by **columnar epithelium containing goblet cells** (intestinal metaplasia).
@@ -337,13 +348,6 @@ Chronic acid exposure → injury to squamous epithelium → adaptive metaplasia 
 | **Histopathology** | Nest of malignant squamous cells with **keratin pearls**, intercellular bridges, and eosinophilic cytoplasm | Glandular architecture forming tubules/acinocytes with mucin production, invading muscularis |
 | **Clinical Presentation** | Progressive dysphagia (solids $\rightarrow$ liquids), rapid weight loss, odynophagia, hoarseness (recurrent laryngeal nerve involvement), cough (tracheoesophageal fistula) | Progressive dysphagia, weight loss, retrosternal pain, early satiety |
 | **Lymphatic Spread** | Upper 1/3: Cervical nodes; Middle 1/3: Mediastinal/Paratracheal nodes | Distal 1/3: **Celiac and Gastric nodes** |
-
-**Esophageal leiomyoma**
-- Common benign mesenchymal esophageal tumor.
-- Frequently asymptomatic.
-- Barium swallow may reveal a smooth filling defect.
-- Selected symptomatic lesions undergo enucleation or endoscopic resection.
-
 
 ---
 

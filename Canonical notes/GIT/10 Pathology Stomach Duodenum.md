@@ -70,42 +70,6 @@ Chronic mucosal ulceration penetrating through the **muscularis mucosae** into t
 - Aggressive Factors (Acid, Pepsin, H. pylori, NSAIDs) >>> Protective Factors (Mucus, HCO3-, PGE2, Blood Flow)
 - Peptic Ulceration
 
-### A. Comparison of Gastric vs. Duodenal Ulcers
-
-| Parameter | Gastric Ulcer (GU) | Duodenal Ulcer (DU) |
-| :--- | :--- | :--- |
-| **Relative Frequency** | $15–20\%$ of PUD cases | $80–85\%$ of PUD cases (4x more common) |
-| **Peak Age Group** | 50–70 years | 30–60 years |
-| **Primary Etiology** | Decreased mucosal protection (*H. pylori* $70\%$, NSAIDs $25\%$) | Hypersecretion of acid (*H. pylori* $90–95\%$, elevated parietal cell mass) |
-| **Anatomical Site** | **Lesser curvature of stomach** (border between body and antrum) | **Anterior wall of 1st part (bulb) of duodenum** ($90\%$) |
-| **Pain Relationship to Meals** | Pain is **precipitated or worsened by food** (eating $\rightarrow$ acid output $\rightarrow$ pain); leads to **anorexia and weight loss** | Pain is **relieved by food and antacids**; recurs 2–3 hours post-meal (**"hunger pain"**) and **awakens patient at night**; causes **weight gain** |
-| **Malignant Potential** | **$4–8\%$ are malignant** (Mandatory endoscopic biopsy of ulcer margins required) | **Virtually NEVER malignant** (Biopsy not routinely required) |
-| **Hemorrhage Vessel** | **Left Gastric Artery** (lesser curvature ulcers) | **Gastroduodenal Artery** (posterior duodenal wall ulcers) |
-| **Perforation Location** | Anterior gastric wall | **Anterior duodenal wall** $\rightarrow$ Pneumoperitoneum |
-
-**Gastric ulcer: modified Johnson classification**
-| Type | Location/association |
-|---|---|
-| I | Lesser curvature near incisura; most common classic type |
-| II | Gastric ulcer associated with duodenal ulcer |
-| III | Prepyloric ulcer |
-| IV | High lesser-curvature/proximal gastric ulcer |
-| V | NSAID-associated ulcer that may occur anywhere |
-
-
----
-
-### B. Major Complications of Peptic Ulcer Disease
-1. **Hemorrhage** ($15–20\%$): Most common complication.
-   * Posterior duodenal ulcers erode into the **Gastroduodenal Artery**, causing massive upper GI bleeding, hematemesis, and melena.
-   * Lesser curvature gastric ulcers erode into the **Left Gastric Artery**.
-2. **Perforation** ($5\%$):
-   * Anterior duodenal ulcers erode into the peritoneal cavity, releasing air and acidic contents.
-   * Presents with sudden, severe "thunderclap" abdominal pain, board-like abdominal rigidity, and **pneumoperitoneum** (free air under the diaphragm on upright chest X-ray).
-3. **Gastric Outlet Obstruction (GOO)** ($2\%$):
-   * Fibrotic scarring or inflammatory edema surrounding chronic prepyloric or duodenal bulb ulcers.
-   * Clinical features: Intractable, non-bilious projectile vomiting containing food eaten hours prior, succussion splash, and **hypokalemic hypochloremic metabolic alkalosis**.
-
 **Definition**
 A chronic ulcer extending through the muscularis mucosae into deeper gastric or duodenal tissue.
 
@@ -143,6 +107,44 @@ After eradication therapy, confirmation is based on suitable active-infection te
 | Curling ulcer | Severe burns and mucosal ischemia |
 | Cameron lesion | Linear erosions/ulcers associated with large hiatal hernia |
 
+
+
+
+### A. Comparison of Gastric vs. Duodenal Ulcers
+
+| Parameter | Gastric Ulcer (GU) | Duodenal Ulcer (DU) |
+| :--- | :--- | :--- |
+| **Relative Frequency** | $15–20\%$ of PUD cases | $80–85\%$ of PUD cases (4x more common) |
+| **Peak Age Group** | 50–70 years | 30–60 years |
+| **Primary Etiology** | Decreased mucosal protection (*H. pylori* $70\%$, NSAIDs $25\%$) | Hypersecretion of acid (*H. pylori* $90–95\%$, elevated parietal cell mass) |
+| **Anatomical Site** | **Lesser curvature of stomach** (border between body and antrum) | **Anterior wall of 1st part (bulb) of duodenum** ($90\%$) |
+| **Pain Relationship to Meals** | Pain is **precipitated or worsened by food** (eating $\rightarrow$ acid output $\rightarrow$ pain); leads to **anorexia and weight loss** | Pain is **relieved by food and antacids**; recurs 2–3 hours post-meal (**"hunger pain"**) and **awakens patient at night**; causes **weight gain** |
+| **Malignant Potential** | **$4–8\%$ are malignant** (Mandatory endoscopic biopsy of ulcer margins required) | **Virtually NEVER malignant** (Biopsy not routinely required) |
+| **Hemorrhage Vessel** | **Left Gastric Artery** (lesser curvature ulcers) | **Gastroduodenal Artery** (posterior duodenal wall ulcers) |
+| **Perforation Location** | Anterior gastric wall | **Anterior duodenal wall** $\rightarrow$ Pneumoperitoneum |
+
+**Gastric ulcer: modified Johnson classification**
+| Type | Location/association |
+|---|---|
+| I | Lesser curvature near incisura; most common classic type |
+| II | Gastric ulcer associated with duodenal ulcer |
+| III | Prepyloric ulcer |
+| IV | High lesser-curvature/proximal gastric ulcer |
+| V | NSAID-associated ulcer that may occur anywhere |
+
+
+---
+
+### B. Major Complications of Peptic Ulcer Disease
+1. **Hemorrhage** ($15–20\%$): Most common complication.
+   * Posterior duodenal ulcers erode into the **Gastroduodenal Artery**, causing massive upper GI bleeding, hematemesis, and melena.
+   * Lesser curvature gastric ulcers erode into the **Left Gastric Artery**.
+2. **Perforation** ($5\%$):
+   * Anterior duodenal ulcers erode into the peritoneal cavity, releasing air and acidic contents.
+   * Presents with sudden, severe "thunderclap" abdominal pain, board-like abdominal rigidity, and **pneumoperitoneum** (free air under the diaphragm on upright chest X-ray).
+3. **Gastric Outlet Obstruction (GOO)** ($2\%$):
+   * Fibrotic scarring or inflammatory edema surrounding chronic prepyloric or duodenal bulb ulcers.
+   * Clinical features: Intractable, non-bilious projectile vomiting containing food eaten hours prior, succussion splash, and **hypokalemic hypochloremic metabolic alkalosis**.
 
 ---
 

@@ -250,6 +250,33 @@ The root of the small intestinal mesentery (~15 cm long) attaches diagonally acr
 
 Extends from the ileocecal valve to the anus (~1.5 meters long). Distinguished externally by **Teniae Coli** (3 longitudinal muscle bands), **Haustra** (sacculations), and **Epiploic Appendages** (fat-filled peritoneal pouches).
 
+**Arterial supply**
+| Region | Principal arteries |
+|---|---|
+| Cecum and terminal ileum | Ileocolic artery |
+| Ascending colon | Ileocolic/right colic |
+| Transverse colon | Middle colic |
+| Descending colon | Left colic |
+| Sigmoid colon | Sigmoid branches |
+| Upper rectum | Superior rectal artery |
+| Middle/lower rectum | Middle and inferior rectal arteries |
+
+**Important vascular landmarks**
+- Superior mesenteric artery supplies midgut derivatives.
+- Inferior mesenteric artery supplies hindgut derivatives.
+- Marginal artery of Drummond links colonic arterial territories.
+- Griffith point: splenic-flexure watershed zone.
+- Sudeck point: rectosigmoid watershed region.
+
+**Surgical implications**
+- Colorectal resections must preserve adequate perfusion of the remaining bowel.
+- Vascular ligation also determines regional lymph-node clearance.
+- Low pelvic dissection risks autonomic nerve injury.
+- Total mesorectal excision preserves the correct oncological dissection plane.
+
+
+
+
 ### Appendix & Cecum
 * **Cecum**: Blind pouch in right iliac fossa below ileocecal valve opening.
 * **Appendix**: Worm-like diverticulum arising from posteromedial cecal wall ~2 cm below ileocecal valve, where teniae coli converge.
@@ -278,31 +305,6 @@ The pectinate line marks the boundary between the embryonic hindgut (endoderm) a
 | **Innervation** | Visceral (Inferior Hypogastric Plexus); **Insensitive to pain** [39, 40] | Somatic (Inferior Rectal Nerve from Pudendal $S_2–S_4$); **Exquisitely sensitive to pain** [39, 40] |
 | **Lymphatic Drainage** | Internal Iliac Lymph Nodes [40] | **Superficial Inguinal Lymph Nodes** [40] |
 | **Pathology** | **Internal Hemorrhoids** (painless) [39, 40], Adenocarcinoma [40] | **External Hemorrhoids** (painful) [39, 40], Anal Fissures [39, 40], Squamous Cell Carcinoma [40] |
-
-**Arterial supply**
-| Region | Principal arteries |
-|---|---|
-| Cecum and terminal ileum | Ileocolic artery |
-| Ascending colon | Ileocolic/right colic |
-| Transverse colon | Middle colic |
-| Descending colon | Left colic |
-| Sigmoid colon | Sigmoid branches |
-| Upper rectum | Superior rectal artery |
-| Middle/lower rectum | Middle and inferior rectal arteries |
-
-**Important vascular landmarks**
-- Superior mesenteric artery supplies midgut derivatives.
-- Inferior mesenteric artery supplies hindgut derivatives.
-- Marginal artery of Drummond links colonic arterial territories.
-- Griffith point: splenic-flexure watershed zone.
-- Sudeck point: rectosigmoid watershed region.
-
-**Surgical implications**
-- Colorectal resections must preserve adequate perfusion of the remaining bowel.
-- Vascular ligation also determines regional lymph-node clearance.
-- Low pelvic dissection risks autonomic nerve injury.
-- Total mesorectal excision preserves the correct oncological dissection plane.
-
 
 ---
 

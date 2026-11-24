@@ -69,23 +69,6 @@ Cirrhosis is the end-stage histological outcome of chronic liver disease, define
 
 ### A. Clinical Prognostic Scoring Systems
 
-#### 1. Child-Turcotte-Pugh (CTP) Score
-
-| Clinical / Laboratory Variable | 1 Point | 2 Points | 3 Points |
-| :--- | :--- | :--- | :--- |
-| **Total Bilirubin (mg/dL)** | $< 2.0$ | $2.0–3.0$ | $> 3.0$ |
-| **Serum Albumin (g/dL)** | $> 3.5$ | $2.8–3.5$ | $< 2.8$ |
-| **INR** | $< 1.7$ | $1.7–2.3$ | $> 2.3$ |
-| **Ascites** | None | Mild / Controlled | Moderate / Refractory |
-| **Hepatic Encephalopathy** | None | Grade I–II | Grade III–IV |
-
-* **Child-Pugh Class A** (5–6 points): Well-compensated; 1-year survival $100\%$.
-* **Child-Pugh Class B** (7–9 points): Significant functional compromise; 1-year survival $80\%$.
-* **Child-Pugh Class C** (10–15 points): Decompensated; 1-year survival $45\%$.
-
-#### 2. MELD Score (Model for End-Stage Liver Disease)
-Objective mathematical formula based on **Serum Bilirubin**, **Serum Creatinine**, **INR**, and **Serum Sodium** (MELD-Na). Used universally for organ allocation in liver transplantation.
-
 **Laboratory pattern**
 |---|---|
 | **ALT/AST** | Hepatocyte injury; do **not** directly measure remaining liver synthetic function |
@@ -105,44 +88,28 @@ Objective mathematical formula based on **Serum Bilirubin**, **Serum Creatinine*
 - Do **not** treat a single MELD or CTP cutoff in the review sources as an absolute operative permission/prohibition.
 
 
+
+
+#### 1. Child-Turcotte-Pugh (CTP) Score
+
+| Clinical / Laboratory Variable | 1 Point | 2 Points | 3 Points |
+| :--- | :--- | :--- | :--- |
+| **Total Bilirubin (mg/dL)** | $< 2.0$ | $2.0–3.0$ | $> 3.0$ |
+| **Serum Albumin (g/dL)** | $> 3.5$ | $2.8–3.5$ | $< 2.8$ |
+| **INR** | $< 1.7$ | $1.7–2.3$ | $> 2.3$ |
+| **Ascites** | None | Mild / Controlled | Moderate / Refractory |
+| **Hepatic Encephalopathy** | None | Grade I–II | Grade III–IV |
+
+* **Child-Pugh Class A** (5–6 points): Well-compensated; 1-year survival $100\%$.
+* **Child-Pugh Class B** (7–9 points): Significant functional compromise; 1-year survival $80\%$.
+* **Child-Pugh Class C** (10–15 points): Decompensated; 1-year survival $45\%$.
+
+#### 2. MELD Score (Model for End-Stage Liver Disease)
+Objective mathematical formula based on **Serum Bilirubin**, **Serum Creatinine**, **INR**, and **Serum Sodium** (MELD-Na). Used universally for organ allocation in liver transplantation.
+
 ---
 
 ### B. Comprehensive Management of Decompensation Complications
-
-#### 1. Ascites
-* **Pathophysiology**: Sinusoidal portal hypertension drives splanchnic vasodilation $\rightarrow$ arterial underfilling $\rightarrow$ activation of RAAS and SNS $\rightarrow$ renal sodium and water retention.
-* **Diagnosis**: Paracentesis evaluating Serum-Ascites Albumin Gradient (**SAAG**):
-  $$\text{SAAG} = \text{Serum Albumin} - \text{Asitic Fluid Albumin}$$
-  * **SAAG $\ge 1.1\text{ g/dL}$**: Indicates **Portal Hypertension** (Cirrhosis, Heart failure, Budd-Chiari).
-  * **SAAG $< 1.1\text{ g/dL}$**: Indicates **Non-Portal Hypertension** (Peritoneal carcinomatosis, Tuberculous peritonitis, Nephrotic syndrome).
-* **Treatment**:
-  * Dietary sodium restriction ($<2.0\text{ g/day}$).
-  * Dual Diuretic Protocol: **Spironolactone** (aldosterone antagonist) + **Furosemide** (loop diuretic) maintained in a strict **100 mg : 40 mg ratio** (up to max $400\text{ mg}:160\text{ mg}$) to maintain normokalemia.
-  * **Large-Volume Paracentesis (LVP $>5\text{ L}$)**: Must be accompanied by IV infusion of **Albumin ($6–8\text{ g per Liter}$ of fluid removed)** to prevent Paracentesis-Induced Circulatory Dysfunction (PICD) and acute renal failure.
-
-#### 2. Spontaneous Bacterial Peritonitis (SBP)
-* **Pathophysiology**: Translocation of enteric Gram-negative bacteria across permeable intestinal mucosa into ascitic fluid in immune-compromised cirrhotics.
-* **Diagnostic Criteria**: Ascitic fluid **Polymorphonuclear (PMN) leukocyte count $\ge 250/\mu\text{L}$** ($\ge 0.25 \times 10^9/\text{L}$). Cultured most commonly: *E. coli*, *Klebsiella pneumoniae*, *Pneumococci*.
-* **Treatment**:
-  * Empiric IV 3rd generation cephalosporin (**Ceftriaxone 2 g/day** or Cefotaxime) for 5–7 days.
-  * **IV Albumin**: Administered at $1.5\text{ g/kg}$ on Day 1 and $1.0\text{ g/kg}$ on Day 3 reduces mortality and renal failure by $66\%$.
-  * **Secondary Prophylaxis**: Daily oral **Norfloxacin 400 mg** or Bactrim long-term.
-
-#### 3. Hepatorenal Syndrome (HRS-AKI)
-* **Pathophysiology**: Severe functional renal vasoconstriction secondary to extreme splanchnic arterial vasodilation and reduced Effective Arterial Blood Volume (EABV).
-* **Diagnostic Criteria**:
-  1. Diagnosis of Cirrhosis with ascites.
-  2. Diagnosis of Acute Kidney Injury (AKI) according to KDIGO criteria.
-  3. **No response after at least 2 consecutive days of diuretic withdrawal and IV Albumin resuscitation ($1\text{ g/kg/day}$)**.
-  4. Absence of hypovolemic shock, ongoing nephrotoxic drug exposure, or parenchymal kidney disease (proteinuria $<500\text{ mg/day}$, microhematuria $<50$ RBCs/HPF).
-* **Treatment**: Combination of **Splanchnic Vasoconstrictors** (**Terlipressin** $0.5–2.0\text{ mg}$ IV Q6H or continuous infusion; or Noradrenaline) PLUS **IV Albumin ($20–40\text{ g/day}$)**. Definitive treatment is **Liver Transplantation**.
-
-#### 4. Hepatic Encephalopathy (HE)
-* **Pathophysiology**: Impaired hepatic clearance and portosystemic shunting of gut-derived nitrogenous toxins, primarily **Ammonia ($\text{NH}_3$)**, which crosses the blood-brain barrier and is converted to **Glutamine** by astrocytes, causing astrocyte swelling and neuroinhibition.
-* **Staging**: West Haven Criteria (Grades I to IV: from mild euphoria/anxiety and asterixis to frank coma).
-* **Treatment**:
-  * **First-line**: **Lactulose** (synthetic non-absorbable disaccharide). Colonic bacteria ferment lactulose to lactic and acetic acid $\rightarrow$ lowers luminal $\text{pH} \rightarrow$ converts non-ionic ammonia ($\text{NH}_3$) to non-absorbable ammonium ($\text{NH}_4^+$) trapping it in stool ("cathartic ammonium trapping"). Titrated to $2–3$ soft bowel movements daily.
-  * **Second-line / Add-on**: **Rifaximin** (550 mg PO BID). Non-absorbable oral antibiotic that eliminates urease-producing enteric flora, significantly reducing ammonia production and preventing encephalopathy recurrences.
 
 **Definition and measurements**
 - **Hepatic venous pressure gradient (HVPG) = wedged hepatic venous pressure − free hepatic venous pressure.**
@@ -238,22 +205,49 @@ G --> H[Definitive portal pressure intervention / transplant assessment]
 | Transplant issue | Can improve after transplant in selected patients | Severe uncontrolled pulmonary hypertension increases transplant risk |
 
 
+
+
+#### 1. Ascites
+* **Pathophysiology**: Sinusoidal portal hypertension drives splanchnic vasodilation $\rightarrow$ arterial underfilling $\rightarrow$ activation of RAAS and SNS $\rightarrow$ renal sodium and water retention.
+* **Diagnosis**: Paracentesis evaluating Serum-Ascites Albumin Gradient (**SAAG**):
+  $$\text{SAAG} = \text{Serum Albumin} - \text{Asitic Fluid Albumin}$$
+  * **SAAG $\ge 1.1\text{ g/dL}$**: Indicates **Portal Hypertension** (Cirrhosis, Heart failure, Budd-Chiari).
+  * **SAAG $< 1.1\text{ g/dL}$**: Indicates **Non-Portal Hypertension** (Peritoneal carcinomatosis, Tuberculous peritonitis, Nephrotic syndrome).
+* **Treatment**:
+  * Dietary sodium restriction ($<2.0\text{ g/day}$).
+  * Dual Diuretic Protocol: **Spironolactone** (aldosterone antagonist) + **Furosemide** (loop diuretic) maintained in a strict **100 mg : 40 mg ratio** (up to max $400\text{ mg}:160\text{ mg}$) to maintain normokalemia.
+  * **Large-Volume Paracentesis (LVP $>5\text{ L}$)**: Must be accompanied by IV infusion of **Albumin ($6–8\text{ g per Liter}$ of fluid removed)** to prevent Paracentesis-Induced Circulatory Dysfunction (PICD) and acute renal failure.
+
+#### 2. Spontaneous Bacterial Peritonitis (SBP)
+* **Pathophysiology**: Translocation of enteric Gram-negative bacteria across permeable intestinal mucosa into ascitic fluid in immune-compromised cirrhotics.
+* **Diagnostic Criteria**: Ascitic fluid **Polymorphonuclear (PMN) leukocyte count $\ge 250/\mu\text{L}$** ($\ge 0.25 \times 10^9/\text{L}$). Cultured most commonly: *E. coli*, *Klebsiella pneumoniae*, *Pneumococci*.
+* **Treatment**:
+  * Empiric IV 3rd generation cephalosporin (**Ceftriaxone 2 g/day** or Cefotaxime) for 5–7 days.
+  * **IV Albumin**: Administered at $1.5\text{ g/kg}$ on Day 1 and $1.0\text{ g/kg}$ on Day 3 reduces mortality and renal failure by $66\%$.
+  * **Secondary Prophylaxis**: Daily oral **Norfloxacin 400 mg** or Bactrim long-term.
+
+#### 3. Hepatorenal Syndrome (HRS-AKI)
+* **Pathophysiology**: Severe functional renal vasoconstriction secondary to extreme splanchnic arterial vasodilation and reduced Effective Arterial Blood Volume (EABV).
+* **Diagnostic Criteria**:
+  1. Diagnosis of Cirrhosis with ascites.
+  2. Diagnosis of Acute Kidney Injury (AKI) according to KDIGO criteria.
+  3. **No response after at least 2 consecutive days of diuretic withdrawal and IV Albumin resuscitation ($1\text{ g/kg/day}$)**.
+  4. Absence of hypovolemic shock, ongoing nephrotoxic drug exposure, or parenchymal kidney disease (proteinuria $<500\text{ mg/day}$, microhematuria $<50$ RBCs/HPF).
+* **Treatment**: Combination of **Splanchnic Vasoconstrictors** (**Terlipressin** $0.5–2.0\text{ mg}$ IV Q6H or continuous infusion; or Noradrenaline) PLUS **IV Albumin ($20–40\text{ g/day}$)**. Definitive treatment is **Liver Transplantation**.
+
+#### 4. Hepatic Encephalopathy (HE)
+* **Pathophysiology**: Impaired hepatic clearance and portosystemic shunting of gut-derived nitrogenous toxins, primarily **Ammonia ($\text{NH}_3$)**, which crosses the blood-brain barrier and is converted to **Glutamine** by astrocytes, causing astrocyte swelling and neuroinhibition.
+* **Staging**: West Haven Criteria (Grades I to IV: from mild euphoria/anxiety and asterixis to frank coma).
+* **Treatment**:
+  * **First-line**: **Lactulose** (synthetic non-absorbable disaccharide). Colonic bacteria ferment lactulose to lactic and acetic acid $\rightarrow$ lowers luminal $\text{pH} \rightarrow$ converts non-ionic ammonia ($\text{NH}_3$) to non-absorbable ammonium ($\text{NH}_4^+$) trapping it in stool ("cathartic ammonium trapping"). Titrated to $2–3$ soft bowel movements daily.
+  * **Second-line / Add-on**: **Rifaximin** (550 mg PO BID). Non-absorbable oral antibiotic that eliminates urease-producing enteric flora, significantly reducing ammonia production and preventing encephalopathy recurrences.
+
 ---
 
 
 ## 20.3 Pancreatitis Clinical Protocols
 
 ### A. Acute Pancreatitis Diagnostic & Severity Protocols
-
-#### 1. Diagnostic Criteria (Revised Atlanta Classification)
-Requires at least **two** of the following three criteria:
-1. Acute-onset, severe, persistent epigastric pain frequently radiating straight through to the back.
-2. Serum **Lipase** or **Amylase** elevation **$> 3 \times$ the Upper Limit of Normal (ULN)** (Lipase is more specific and remains elevated longer [8–14 days] than amylase).
-3. Characteristic cross-sectional imaging findings (CECT, MRI, or Transabdominal USG) consistent with acute pancreatitis.
-
-#### 2. Risk Stratification & Scoring Systems
-* **BISAP Score** (Bedside Index for Severity in Acute Pancreatitis): Calculated within 24 hours of admission (1 point each for: **B**UN $>25\text{ mg/dL}$, **I**mpaired mental status [GCS $<15$], **S**IRS, **A**ge $>60$ years, **P**leural effusion). Score $\ge 3$ indicates high mortality risk.
-* **CT Severity Index (CTSI / Balthazar Score)**: Combines pancreatic inflammation/fluid collection grades with percentage of pancreatic parenchymal necrosis.
 
 **Etiologies**
 |---|---|
@@ -306,6 +300,18 @@ Requires at least **two** of the following three criteria:
 - **Acute interstitial edematous pancreatitis** generally preserves parenchyma; **necrotizing pancreatitis** has parenchymal and/or peripancreatic necrosis.
 - **Infected necrosis** is a major source of sepsis. Early mortality may come from organ failure; later from infected collections and complications.
 
+
+
+
+#### 1. Diagnostic Criteria (Revised Atlanta Classification)
+Requires at least **two** of the following three criteria:
+1. Acute-onset, severe, persistent epigastric pain frequently radiating straight through to the back.
+2. Serum **Lipase** or **Amylase** elevation **$> 3 \times$ the Upper Limit of Normal (ULN)** (Lipase is more specific and remains elevated longer [8–14 days] than amylase).
+3. Characteristic cross-sectional imaging findings (CECT, MRI, or Transabdominal USG) consistent with acute pancreatitis.
+
+#### 2. Risk Stratification & Scoring Systems
+* **BISAP Score** (Bedside Index for Severity in Acute Pancreatitis): Calculated within 24 hours of admission (1 point each for: **B**UN $>25\text{ mg/dL}$, **I**mpaired mental status [GCS $<15$], **S**IRS, **A**ge $>60$ years, **P**leural effusion). Score $\ge 3$ indicates high mortality risk.
+* **CT Severity Index (CTSI / Balthazar Score)**: Combines pancreatic inflammation/fluid collection grades with percentage of pancreatic parenchymal necrosis.
 
 ---
 

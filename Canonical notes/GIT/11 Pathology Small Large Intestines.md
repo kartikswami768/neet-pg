@@ -104,29 +104,6 @@ Chronic idiopathic relapsing inflammatory disorders of the GI tract. Classified 
 
 ## 11.3 Vascular & Diverticular Disorders
 
-### A. Ischemic Bowel Disease
-* **Acute Mesenteric Ischemia**:
-  * *Pathophysiology*: Embolic occlusion ($50\%$, usually cardiac origin to SMA) or acute thrombosis ($25\%$) of the Superior Mesenteric Artery.
-  * *Clinical Feature*: **Severe, sudden-onset abdominal pain OUT OF PROPORTION to physical examination findings** (abdomen remains soft and non-tender initially).
-  * *Progression*: Transmural hemorrhagic necrosis, gangrene, peritonitis, septic shock.
-
-* **Ischemic Colitis**:
-  * *Pathophysiology*: Hypoperfusion/low-flow state (hypotension, heart failure, shock) affecting **watershed regions** of the colon:
-    1. **Splenic Flexure (Griffiths' Point)**: Border between SMA and IMA junction.
-    2. **Rectosigmoid Junction (Sudeck's Point)**: Border between IMA and superior rectal artery junction.
-  * *Clinical Feature*: Crampy LLQ pain followed by **bloody diarrhea / hematochezia**.
-  * *Endoscopy*: "Thumbprinting" sign on X-ray/CT due to mucosal edema and submucosal hemorrhage.
-
----
-
-### B. Diverticular Disease
-* **Pathophysiology**: Acquisition of **false diverticula** (pseudodiverticula - herniation of mucosa and submucosa through muscularis propria) at weak points where intramural vasa recta penetrate the circular muscle layer.
-* **Anatomical Site**: Most common in the **Sigmoid Colon** ($95\%$) due to high intraluminal pressure (Laplace's Law).
-* **Clinical Spectrum**:
-  1. **Diverticulosis**: Asymptomatic presence of diverticula. Most common cause of **massive, painless lower GI bleeding** in the elderly (due to erosion of penetrating vasa recta).
-  2. **Diverticulitis**: Inflammation/microperforation of diverticulum triggered by fecalith obstruction. Clinical features: **"Left-sided appendicitis"** (LLQ pain, fever, leukocytosis). Complications: Abscess, pericolic phlegmon, fistula (colovesical fistula $\rightarrow$ pneumaturia and fecaluria), bowel obstruction.
-  * *Diagnostic Rule*: CT abdomen/pelvis is test of choice. **Colonoscopy and barium enema are CONTRAINDICATED in acute diverticulitis** due to high risk of frank perforation.
-
 **Pathology**
 Dilated and fragile vascular channels in intestinal mucosa/submucosa.
 
@@ -151,6 +128,31 @@ Dilated and fragile vascular channels in intestinal mucosa/submucosa.
 - Endoscopic coagulation/argon plasma coagulation.
 - Selected patients require angiographic or surgical intervention.
 
+
+
+
+### A. Ischemic Bowel Disease
+* **Acute Mesenteric Ischemia**:
+  * *Pathophysiology*: Embolic occlusion ($50\%$, usually cardiac origin to SMA) or acute thrombosis ($25\%$) of the Superior Mesenteric Artery.
+  * *Clinical Feature*: **Severe, sudden-onset abdominal pain OUT OF PROPORTION to physical examination findings** (abdomen remains soft and non-tender initially).
+  * *Progression*: Transmural hemorrhagic necrosis, gangrene, peritonitis, septic shock.
+
+* **Ischemic Colitis**:
+  * *Pathophysiology*: Hypoperfusion/low-flow state (hypotension, heart failure, shock) affecting **watershed regions** of the colon:
+    1. **Splenic Flexure (Griffiths' Point)**: Border between SMA and IMA junction.
+    2. **Rectosigmoid Junction (Sudeck's Point)**: Border between IMA and superior rectal artery junction.
+  * *Clinical Feature*: Crampy LLQ pain followed by **bloody diarrhea / hematochezia**.
+  * *Endoscopy*: "Thumbprinting" sign on X-ray/CT due to mucosal edema and submucosal hemorrhage.
+
+---
+
+### B. Diverticular Disease
+* **Pathophysiology**: Acquisition of **false diverticula** (pseudodiverticula - herniation of mucosa and submucosa through muscularis propria) at weak points where intramural vasa recta penetrate the circular muscle layer.
+* **Anatomical Site**: Most common in the **Sigmoid Colon** ($95\%$) due to high intraluminal pressure (Laplace's Law).
+* **Clinical Spectrum**:
+  1. **Diverticulosis**: Asymptomatic presence of diverticula. Most common cause of **massive, painless lower GI bleeding** in the elderly (due to erosion of penetrating vasa recta).
+  2. **Diverticulitis**: Inflammation/microperforation of diverticulum triggered by fecalith obstruction. Clinical features: **"Left-sided appendicitis"** (LLQ pain, fever, leukocytosis). Complications: Abscess, pericolic phlegmon, fistula (colovesical fistula $\rightarrow$ pneumaturia and fecaluria), bowel obstruction.
+  * *Diagnostic Rule*: CT abdomen/pelvis is test of choice. **Colonoscopy and barium enema are CONTRAINDICATED in acute diverticulitis** due to high risk of frank perforation.
 
 **Diverticulosis**
 - Acquired mucosal/submucosal outpouchings through weak points in colonic muscle.
@@ -237,6 +239,27 @@ Impairment of normal mechanical or functional passage of intestinal contents.
 ---
 
 ## 11.5 Polyps & Colorectal Neoplasms
+
+**Neuroendocrine tumor**
+- Common primary appendiceal neoplasm in classic surgical teaching.
+- Often discovered incidentally after appendectomy.
+- Small favorable distal tumors may be managed by appendectomy alone.
+- Larger tumors, high-risk histology or selected base lesions may warrant more extensive resection.
+
+**Mucinous neoplasms**
+- May cause mucocele.
+- Rupture can produce pseudomyxoma peritonei.
+
+**Pseudomyxoma peritonei**
+- Accumulation of mucinous tumor deposits in peritoneum.
+- Often associated with appendiceal mucinous neoplasms.
+- Selected patients undergo cytoreductive surgery with HIPEC.
+
+- Legacy exam framework: **<2 cm away from base → appendectomy**, **>2 cm or high-risk/base involvement → consider right hemicolectomy**.
+- Actual postoperative decisions also depend on histologic grade, mesoappendiceal invasion, margin, lymphovascular invasion and other features. The "2 cm" rule is a simplified teaching heuristic, not a stand-alone universal operation rule.
+
+
+
 
 ### A. Polyps & Polyposis Syndromes
 * **Hyperplastic Polyps**: Most common non-neoplastic polyp; serrated architecture confined to upper $1/3$ of crypts; no malignant potential.
@@ -367,25 +390,6 @@ flowchart TD
 | **Mnemonic** | *"Right bleeds, Left obstructs"* | *"Left narrows, Right bleeds"* |
 
 * **Tumor Marker**: **Carcinoembryonic Antigen (CEA)**. Used for monitoring treatment response and detecting recurrence; NOT used for initial screening or diagnosis due to low sensitivity/specificity.
-
-**Neuroendocrine tumor**
-- Common primary appendiceal neoplasm in classic surgical teaching.
-- Often discovered incidentally after appendectomy.
-- Small favorable distal tumors may be managed by appendectomy alone.
-- Larger tumors, high-risk histology or selected base lesions may warrant more extensive resection.
-
-**Mucinous neoplasms**
-- May cause mucocele.
-- Rupture can produce pseudomyxoma peritonei.
-
-**Pseudomyxoma peritonei**
-- Accumulation of mucinous tumor deposits in peritoneum.
-- Often associated with appendiceal mucinous neoplasms.
-- Selected patients undergo cytoreductive surgery with HIPEC.
-
-- Legacy exam framework: **<2 cm away from base → appendectomy**, **>2 cm or high-risk/base involvement → consider right hemicolectomy**.
-- Actual postoperative decisions also depend on histologic grade, mesoappendiceal invasion, margin, lymphovascular invasion and other features. The "2 cm" rule is a simplified teaching heuristic, not a stand-alone universal operation rule.
-
 
 ---
 

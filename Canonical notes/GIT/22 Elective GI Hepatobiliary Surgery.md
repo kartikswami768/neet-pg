@@ -770,58 +770,6 @@ Goodsall rule is a predictive clinical rule, not a substitute for anatomical eva
 Crohn-associated perianal fistulas require assessment and management of underlying inflammatory bowel disease.
 
 
-**Pathogenesis**
-Commonly originates from infection of anal glands (cryptoglandular infection).
-
-**Classification**
-- Perianal.
-- Intersphincteric.
-- Ischioanal.
-- Supralevator.
-
-**Clinical features**
-- Severe anal pain.
-- Swelling and tenderness.
-- Fever.
-- Deep abscesses may have minimal external findings.
-
-- Adequate incision and drainage.
-- Antibiotics in selected cases with systemic infection or relevant risk factors.
-- Assess for fistula-in-ano.
-
-**Complication**
-Persistent fistulous communication between anal gland region and perianal skin.
-
-**Classification**
-**Partial thickness**
-- Mucosal prolapse.
-
-**Full thickness**
-- Entire rectal wall prolapses.
-
-**Clinical features**
-- Protruding rectal mass.
-- Mucus discharge.
-- Bleeding.
-- Constipation.
-- Fecal incontinence.
-- Pelvic-floor dysfunction.
-
-**Procedures**
-| Procedure | Description |
-|---|---|
-| Thiersch | Anal encirclement |
-| Delorme | Mucosal sleeve resection and muscular plication |
-| Altemeier | Perineal rectosigmoidectomy |
-| Rectopexy | Abdominal fixation of rectum |
-| Resection rectopexy | Resection plus fixation |
-
-**Perineal versus abdominal approaches**
-- Perineal operations: often suitable for selected frail patients; recurrence may be higher.
-- Abdominal operations: lower recurrence in selected groups; greater physiological burden.
-- Choice depends on age, comorbidities, constipation, continence and anatomy.
-
-
 ---
 
 
