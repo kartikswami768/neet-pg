@@ -47,6 +47,60 @@ flowchart TD
 
 ---
 
+<!-- SURGERY_GI_ZIP_CONTENT_START:25-25-1 -->
+
+### Additional surgical details integrated from the Surgery notes
+
+> [!info] Provenance and scope
+> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
+
+#### 12.3 Esophageal Foreign Bodies
+
+> **Source:** Surgery ZIP — 12_Esophageal_Surgery.md
+
+##### Common impaction sites
+- Cricopharyngeal narrowing.
+- Aortic/bronchial constriction.
+- Distal esophageal narrowing.
+
+##### Coin versus airway foreign body
+| X-ray projection | Esophageal coin | Tracheal coin |
+|---|---|---|
+| AP view | Circular face commonly visible | Edge commonly visible |
+| Lateral view | Edge commonly visible | Circular face commonly visible |
+
+##### Button battery
+- May show the **double-ring or halo sign**.
+- Particularly dangerous because of local electrical and caustic injury.
+- Esophageal button batteries require urgent endoscopic removal.
+- Observation alone is inappropriate for an impacted esophageal battery.
+
+##### Other foreign bodies
+- Sharp objects: increased perforation risk.
+- Food bolus: commonly associated with stricture, ring, or eosinophilic esophagitis.
+- Multiple magnets: risk of pressure necrosis and fistulation when separated by bowel walls.
+
+Management depends on location, object type, symptoms and complications. The simple “observe if beyond C6” rule in older notes should not be applied indiscriminately.
+
+---
+
+#### 8. Endoscopic and natural-orifice procedures
+
+> **Source:** Surgery ZIP — 29_Minimally_Invasive_Surgery.md
+
+| Procedure | Anatomical access | Purpose |
+|---|---|---|
+| **Upper GI endoscopy (OGD)** | Mouth → esophagus/stomach/duodenum | Diagnose/biopsy/perform endoscopic hemostasis |
+| **Colonoscopy** | Anus → colon ± terminal ileum | Diagnosis, polypectomy, bleeding control |
+| **ERCP** | Side-viewing endoscope at major papilla | Therapeutic biliary/pancreatic interventions; pancreatitis risk |
+| **EUS** | Endoscope with ultrasound | Lesion depth assessment, needle aspiration/drainage |
+| **Flexible bronchoscopy** | Nose/mouth → bronchi | Diagnostic sampling, airway assessment/intervention |
+| **VATS** | Thoracic ports into pleural space | Thoracic surgery with visualization; see Part V |
+| **Cystoscopy/ureteroscopy** | Transurethral | Endourology, stones, stents, biopsy |
+
+- Endoscopic tissue removal/closure and endoluminal hemostasis depend on operator skill and relevant complications; **perforation, hemorrhage, sedation/aspiration and infection** are recurring risks.
+
+<!-- SURGERY_GI_ZIP_CONTENT_END:25-25-1 -->
 ## 25.2 Endoscopic Retrograde Cholangiopancreatography (ERCP)
 
 ### Indications & Technique

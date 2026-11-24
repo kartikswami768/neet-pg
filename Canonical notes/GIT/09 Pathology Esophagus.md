@@ -80,6 +80,35 @@ Esophageal motility disorders result from impaired neuromuscular coordination of
 
 ---
 
+<!-- SURGERY_GI_ZIP_CONTENT_START:09-9-1 -->
+
+### Additional surgical details integrated from the Surgery notes
+
+> [!info] Provenance and scope
+> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
+
+#### 12.9 Distal Esophageal Spasm
+
+> **Source:** Surgery ZIP — 12_Esophageal_Surgery.md
+
+- Intermittent dysphagia and angina-like chest pain.
+- Premature distal esophageal contractions.
+- LES relaxation is generally preserved.
+- Barium swallow: **corkscrew or rosary-bead appearance**.
+- Manometry differentiates it from achalasia.
+- Management discussed in the sources includes smooth-muscle relaxants and selected endoscopic myotomy for refractory symptoms.
+
+##### Comparison
+| Condition | LES relaxation | Peristalsis | Characteristic clue |
+|---|---|---|---|
+| Achalasia | Impaired | Absent | Bird-beak |
+| Distal esophageal spasm | Generally preserved | Premature/spastic | Corkscrew |
+| Hypercontractile esophagus | Generally preserved | Excessively forceful | High contractile integral |
+| Scleroderma esophagus | Hypotensive LES | Weak/absent distally | Severe GERD |
+
+---
+
+<!-- SURGERY_GI_ZIP_CONTENT_END:09-9-1 -->
 ## 9.2 Inflammatory & Vascular Conditions
 
 ### A. Gastroesophageal Reflux Disease (GERD) & Erosive Esophagitis
@@ -187,6 +216,136 @@ Occurs almost exclusively in immunocompromised hosts (HIV/AIDS with CD4 count $<
 
 ---
 
+<!-- SURGERY_GI_ZIP_CONTENT_START:09-9-2 -->
+
+### Additional surgical details integrated from the Surgery notes
+
+> [!info] Provenance and scope
+> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
+
+#### 12.4 Corrosive Esophageal Injury
+
+> **Source:** Surgery ZIP — 12_Esophageal_Surgery.md
+
+##### Mechanism
+**Alkali**
+- Causes liquefactive necrosis.
+- Saponification and protein dissolution facilitate deep tissue penetration.
+- Commonly produces severe esophageal injury.
+
+**Acid**
+- Typically causes coagulative necrosis.
+- More commonly associated with gastric injury, although severe esophageal damage can occur.
+
+##### Zargar endoscopic classification
+| Grade | Findings |
+|---|---|
+| 0 | Normal |
+| I | Edema and erythema |
+| IIa | Superficial ulceration, erosions or exudates |
+| IIb | Deep or circumferential ulceration |
+| IIIa | Focal necrosis |
+| IIIb | Extensive necrosis |
+| IV | Perforation in expanded classifications |
+
+##### Clinical complications
+**Early**
+- Airway edema.
+- Esophageal perforation.
+- Mediastinitis.
+- Gastric necrosis.
+- Sepsis.
+
+**Late**
+- Esophageal stricture.
+- Gastric outlet obstruction.
+- Nutritional impairment.
+- Increased long-term risk of esophageal carcinoma.
+
+##### Management principles
+- Assess and protect airway.
+- NPO, fluid resuscitation and analgesia.
+- Avoid induced vomiting and chemical neutralization.
+- Do not blindly insert a nasogastric tube.
+- Early specialist evaluation and appropriately selected endoscopy/CT.
+- No routine role for prophylactic corticosteroids.
+- Antibiotics are indicated when infection, perforation or other relevant complications warrant them, not merely because corrosive ingestion occurred.
+
+**Stricture treatment:** endoscopic dilatation; selected refractory cases require reconstruction or esophagectomy.
+
+---
+
+#### 12.7 Barrett Esophagus
+
+> **Source:** Surgery ZIP — 12_Esophageal_Surgery.md
+
+##### Definition
+Specialized intestinal metaplasia of distal esophageal epithelium associated with chronic reflux.
+
+##### Pathogenesis
+Chronic acid exposure → injury to squamous epithelium → adaptive metaplasia → possible dysplasia → esophageal adenocarcinoma.
+
+##### Histology
+- Columnar mucosa with intestinal differentiation.
+- **Goblet cells** are the characteristic histological finding in the source definition.
+
+##### Classification
+- Short segment: less than 3 cm.
+- Long segment: at least 3 cm.
+- Prague classification records:
+  - **C:** circumferential extent.
+  - **M:** maximum extent.
+
+##### Seattle biopsy protocol
+- Four-quadrant biopsies at prescribed intervals.
+- Additional targeted biopsy of visible abnormalities.
+- Intervals depend on dysplasia status and the surveillance protocol.
+
+##### Dysplasia and management
+| Finding | General management |
+|---|---|
+| Nondysplastic Barrett | Surveillance endoscopy according to risk |
+| Confirmed low-grade dysplasia | Endoscopic eradication therapy or carefully selected surveillance |
+| High-grade dysplasia | Endoscopic eradication therapy; resect visible lesions |
+| Selected superficial malignancy | Endoscopic resection, with further treatment based on histology |
+
+- Endoscopic mucosal resection is useful for visible lesions.
+- Radiofrequency ablation destroys residual flat dysplastic Barrett mucosa.
+
+---
+
+#### 12.13 Other Benign Esophageal Conditions
+
+> **Source:** Surgery ZIP — 12_Esophageal_Surgery.md
+
+##### Schatzki ring
+- Distal esophageal mucosal ring.
+- Intermittent solid-food dysphagia.
+- Symptomatic cases may undergo endoscopic dilation.
+
+##### Eosinophilic esophagitis
+- Immune/antigen-mediated disease.
+- Commonly presents with food impaction and dysphagia.
+- Endoscopy: concentric rings, furrows or strictures.
+- Biopsy: **at least 15 eosinophils/high-power field**.
+- Treatment in the sources: PPI, swallowed topical steroids and appropriate dietary therapy.
+
+##### Infectious esophagitis
+| Organism | Typical setting | Endoscopic pattern |
+|---|---|---|
+| Candida | Immunocompromised | White plaques |
+| CMV | Advanced immunosuppression | Large/deep ulcers |
+| HSV | Immunosuppression | Small punched-out ulcers |
+
+##### Esophageal leiomyoma
+- Common benign mesenchymal esophageal tumor.
+- Frequently asymptomatic.
+- Barium swallow may reveal a smooth filling defect.
+- Selected symptomatic lesions undergo enucleation or endoscopic resection.
+
+---
+
+<!-- SURGERY_GI_ZIP_CONTENT_END:09-9-2 -->
 ## 9.3 Esophageal Neoplasms
 
 ### A. Barrett Esophagus

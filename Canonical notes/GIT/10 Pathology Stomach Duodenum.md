@@ -98,6 +98,76 @@ Chronic mucosal ulceration penetrating through the **muscularis mucosae** into t
 
 ---
 
+<!-- SURGERY_GI_ZIP_CONTENT_START:10-10-2 -->
+
+### Additional surgical details integrated from the Surgery notes
+
+> [!info] Provenance and scope
+> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
+
+#### 13.3 Peptic Ulcer Disease
+
+> **Source:** Surgery ZIP — 13_Stomach_Duodenum_Bariatric_Surgery.md
+
+##### Definition
+A chronic ulcer extending through the muscularis mucosae into deeper gastric or duodenal tissue.
+
+##### Pathophysiology
+Aggressive factors:
+- Hydrochloric acid and pepsin.
+- *Helicobacter pylori*.
+- NSAID-related prostaglandin deficiency.
+
+Protective factors:
+- Mucus-bicarbonate barrier.
+- Mucosal blood flow.
+- Prostaglandins.
+- Epithelial regeneration.
+
+Ulcers arise when injury exceeds mucosal defenses.
+
+##### Gastric versus duodenal ulcer
+| Feature | Gastric | Duodenal |
+|---|---|---|
+| Typical location | Lesser curvature/antral region | First part of duodenum |
+| Fundamental abnormality | Impaired mucosal defenses | Often increased acid exposure |
+| Pain with food | Classically worsens | Classically improves |
+| Malignancy | Must be excluded by appropriate biopsy | Primary duodenal ulcers rarely malignant |
+| Posterior bleeding vessel | Often left gastric branches | Gastroduodenal artery |
+| Anterior perforation | Possible | Classic free perforation |
+
+##### *H. pylori*
+- Curved gram-negative organism.
+- Urease positive.
+- CagA and VacA contribute to mucosal damage.
+- Associated with chronic gastritis, peptic ulcers, gastric adenocarcinoma and gastric MALT lymphoma.
+
+Relevant tests:
+- Urea breath test.
+- Stool antigen.
+- Endoscopic biopsy-based testing.
+
+After eradication therapy, confirmation is based on suitable active-infection testing rather than antibody serology.
+
+##### Gastric ulcer: modified Johnson classification
+| Type | Location/association |
+|---|---|
+| I | Lesser curvature near incisura; most common classic type |
+| II | Gastric ulcer associated with duodenal ulcer |
+| III | Prepyloric ulcer |
+| IV | High lesser-curvature/proximal gastric ulcer |
+| V | NSAID-associated ulcer that may occur anywhere |
+
+##### Special ulcers
+| Named ulcer | Association |
+|---|---|
+| Cushing ulcer | Intracranial injury or raised ICP |
+| Curling ulcer | Severe burns and mucosal ischemia |
+| Cameron lesion | Linear erosions/ulcers associated with large hiatal hernia |
+
+---
+
+<!-- SURGERY_GI_ZIP_CONTENT_END:10-10-2 -->
 ## 10.3 Gastric Neoplasms
 
 ### A. Gastric Polyps
@@ -148,6 +218,65 @@ Second leading cause of cancer mortality worldwide. Classified by the **Lauren C
 
 ---
 
+<!-- SURGERY_GI_ZIP_CONTENT_START:10-10-3 -->
+
+### Additional surgical details integrated from the Surgery notes
+
+> [!info] Provenance and scope
+> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
+
+#### 13.8 Gastrointestinal Stromal Tumors (GIST)
+
+> **Source:** Surgery ZIP — 13_Stomach_Duodenum_Bariatric_Surgery.md
+
+##### Origin
+Mesenchymal neoplasms associated with the **interstitial cells of Cajal**.
+
+##### Common site
+Stomach is the most frequent location.
+
+##### Molecular and immunohistochemical characteristics
+| Marker | Significance |
+|---|---|
+| CD117 / KIT | Frequently positive |
+| DOG1 | Useful diagnostic marker |
+| CD34 | Frequently expressed |
+| KIT and PDGFRA mutations | Important molecular drivers in many tumors |
+| SDH deficiency | Associated with certain syndromic GISTs |
+
+##### Clinical presentation
+- Upper GI bleeding.
+- Abdominal pain.
+- Submucosal mass.
+- Anemia.
+- Occasionally incidental detection.
+
+##### Investigations
+- Contrast-enhanced CT.
+- Endoscopy/EUS.
+- Histology and IHC when tissue diagnosis is required.
+- Risk assessment based on size, mitotic activity and site.
+
+##### Fletcher risk concept
+Tumor size and mitotic count help estimate progression risk. Location and rupture further affect risk in more detailed schemes.
+
+##### Management
+- Resect localized operable tumors with intact pseudocapsule and negative margins.
+- Avoid tumor rupture.
+- Routine extensive lymphadenectomy is generally not a defining component of GIST surgery.
+- **Imatinib:** targeted treatment for appropriate mutation-sensitive tumors.
+- Subsequent targeted therapies are selected according to mutation and resistance profile.
+
+##### Carney triad
+- Gastric GIST.
+- Pulmonary chondroma.
+- Extra-adrenal paraganglioma.
+
+Important distinction: Carney triad and Carney–Stratakis syndrome are related but not identical entities.
+
+---
+
+<!-- SURGERY_GI_ZIP_CONTENT_END:10-10-3 -->
 ## Index Coverage Checklist
 
 - [x] 10.1 Gastritis & Gastropathy

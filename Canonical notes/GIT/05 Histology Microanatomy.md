@@ -222,6 +222,45 @@ flowchart TD
 
 ---
 
+<!-- SURGERY_GI_ZIP_NEW_SECTION_START:newsection-05-5-6 -->
+## 5.6 Splenic Microanatomy and Functional Correlations
+
+<!-- SURGERY_GI_ZIP_NEW_SECTION_END:newsection-05-5-6 -->
+<!-- SURGERY_GI_ZIP_CONTENT_START:05-5-6 -->
+
+### Additional surgical details integrated from the Surgery notes
+
+> [!info] Provenance and scope
+> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
+
+#### 13. Spleen: surgical anatomy and physiology / White pulp, red pulp and marginal zone
+
+> **Source:** Surgery ZIP — 18_Pancreatic_and_Splenic_Surgery.md
+
+- **White pulp:** lymphocytes around arterioles and follicles; immune surveillance and antibody responses.
+- **Red pulp:** sinusoids and reticuloendothelial cords, filter aged/damaged RBCs and inclusions.
+- **Open circulation** makes cells traverse splenic filtration cords/sinuses; rigid spherocytes and damaged erythrocytes are preferentially removed.
+- **Marginal zone:** immune recognition, especially relevant to encapsulated bacteria and IgM responses.
+
+#### 13. Spleen: surgical anatomy and physiology / Major functions
+
+> **Source:** Surgery ZIP — 18_Pancreatic_and_Splenic_Surgery.md
+
+1. **Filtration (“culling”)** of old/abnormal RBCs and removal (“pitting”) of inclusions.
+2. **Immune defense**, especially against **encapsulated organisms**.
+3. **Platelet pooling/sequestration**; approximately a substantial fraction of circulating platelets may reside in the spleen.
+4. Phagocytic and antibody-related functions (Doctut mentions **tuftsin, properdin, IgM**).
+5. Fetal/extramedullary hematopoiesis in selected disease states.
+
+#### 13. Spleen: surgical anatomy and physiology / Peripheral smear clues after splenectomy/hyposplenism
+
+> **Source:** Surgery ZIP — 18_Pancreatic_and_Splenic_Surgery.md
+
+- **Howell–Jolly bodies:** nuclear DNA remnants, hallmark of impaired splenic filtration.
+- **Pappenheimer bodies:** iron-containing inclusions; **Heinz bodies** may persist and require special stain; target cells and other altered RBC morphology may be more evident.
+- Postsplenectomy transient **thrombocytosis/leukocytosis** is common; trends and thrombotic risk depend on underlying condition.
+
+<!-- SURGERY_GI_ZIP_CONTENT_END:05-5-6 -->
 ## Quality Checklist
 
 - [x] **5.1 Microscopic Architecture of the GI Tract Wall**

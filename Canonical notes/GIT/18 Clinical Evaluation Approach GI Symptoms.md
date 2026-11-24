@@ -65,6 +65,40 @@ Impairment in the transport of the food bolus down the tubular esophagus into th
 
 ---
 
+<!-- SURGERY_GI_ZIP_CONTENT_START:18-18-1 -->
+
+### Additional surgical details integrated from the Surgery notes
+
+> [!info] Provenance and scope
+> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
+
+#### 12.2 Approach to Dysphagia
+
+> **Source:** Surgery ZIP — 12_Esophageal_Surgery.md
+
+Dysphagia must be classified before investigating.
+
+| Feature | Likely etiology |
+|---|---|
+| Difficulty initiating swallowing, choking | Oropharyngeal dysphagia |
+| Solids first, then liquids | Progressive mechanical obstruction |
+| Solids and liquids from onset | Motility disorder |
+| Progressive dysphagia with weight loss | Esophageal malignancy |
+| Intermittent solid-food dysphagia | Schatzki ring or eosinophilic esophagitis |
+| Regurgitation of undigested food | Achalasia or Zenker diverticulum |
+| Dysphagia with odynophagia | Inflammatory or infectious esophagitis |
+
+**Investigative approach**
+
+1. Determine oropharyngeal versus esophageal dysphagia.
+2. Identify alarm features: weight loss, anemia, bleeding, progressive symptoms.
+3. Upper GI endoscopy for suspected structural or mucosal disease.
+4. Barium swallow for relevant anatomical and motility patterns.
+5. High-resolution manometry when a motility disorder is suspected and structural obstruction has been excluded.
+
+---
+
+<!-- SURGERY_GI_ZIP_CONTENT_END:18-18-1 -->
 ## 18.2 Gastrointestinal Bleeding
 
 Gastrointestinal (GI) bleeding is a major medical emergency categorized by anatomical location relative to the **Ligament of Treitz** (suspensory muscle of the duodenum at the duodenojejunal flexure).
@@ -141,6 +175,193 @@ Integrates pre-endoscopic clinical variables (age, shock, comorbidity) with post
 
 ---
 
+<!-- SURGERY_GI_ZIP_CONTENT_START:18-18-2 -->
+
+### Additional surgical details integrated from the Surgery notes
+
+> [!info] Provenance and scope
+> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
+
+#### 13.4 Complications of Peptic Ulcer Disease / A. Hemorrhage
+
+> **Source:** Surgery ZIP — 13_Stomach_Duodenum_Bariatric_Surgery.md
+
+Most frequent major complication in the revision sources.
+
+**Posterior duodenal ulcer**
+- Erodes gastroduodenal artery.
+- May cause severe upper GI bleeding.
+
+**Gastric ulcer**
+- Bleeding may involve gastric arterial branches.
+
+#### 13.4 Complications of Peptic Ulcer Disease / Forrest classification
+
+> **Source:** Surgery ZIP — 13_Stomach_Duodenum_Bariatric_Surgery.md
+
+| Class | Endoscopic finding | Risk category |
+|---|---|---|
+| Ia | Active spurting bleeding | High |
+| Ib | Active oozing bleeding | High |
+| IIa | Nonbleeding visible vessel | High |
+| IIb | Adherent clot | Intermediate/variable |
+| IIc | Flat pigmented spot | Low |
+| III | Clean ulcer base | Low |
+
+#### 13.4 Complications of Peptic Ulcer Disease / Bleeding-ulcer management
+
+> **Source:** Surgery ZIP — 13_Stomach_Duodenum_Bariatric_Surgery.md
+
+1. Airway and hemodynamic assessment.
+2. IV access, laboratory assessment and appropriate resuscitation.
+3. PPI therapy in the appropriate setting.
+4. Early upper GI endoscopy after stabilization.
+5. Endoscopic hemostasis:
+   - Clips.
+   - Coagulation.
+   - Injection therapy combined with another hemostatic modality when required.
+6. Recurrent/uncontrolled bleeding:
+   - Repeat endoscopic intervention where appropriate.
+   - Angiographic embolization.
+   - Surgical hemostasis if necessary.
+
+#### 13.12 Upper Gastrointestinal Hemorrhage
+
+> **Source:** Surgery ZIP — 13_Stomach_Duodenum_Bariatric_Surgery.md
+
+##### Causes
+**Nonvariceal**
+- Peptic ulcer.
+- Erosive gastritis.
+- Mallory–Weiss tear.
+- Gastric malignancy.
+- Angiodysplasia/GAVE.
+
+**Variceal**
+- Portal-hypertension-associated esophageal or gastric varices.
+
+##### Initial approach
+1. Assess airway, breathing and circulation.
+2. Identify hemodynamic instability.
+3. Establish IV access and resuscitate as required.
+4. Check blood counts, coagulation and crossmatch.
+5. Perform upper GI endoscopy after appropriate stabilization.
+6. Treat the bleeding source.
+
+##### Risk assessment
+- Glasgow–Blatchford score: predicts need for intervention.
+- Rockall score: assesses rebleeding/mortality risk.
+- Forrest classification: describes bleeding-ulcer stigmata.
+
+##### Nonvariceal bleeding
+- Endoscopic clips, thermal therapies and combination hemostasis.
+- PPI treatment as appropriate.
+- Interventional radiology or surgery for uncontrolled/recurrent bleeding.
+
+##### Variceal bleeding
+- Resuscitation.
+- Vasoactive medication such as terlipressin or octreotide.
+- Endoscopic variceal ligation.
+- Appropriate antibiotics in the setting of cirrhosis-associated bleeding.
+- Rescue measures may include balloon tamponade or TIPS in selected situations.
+
+**Portal hypertension, TIPS and portosystemic shunts are cross-linked to Part IV rather than duplicated in full here.**
+
+---
+
+#### 2. Hemorrhage and hypovolemic shock
+
+> **Source:** Surgery ZIP — 05_Shock_Sepsis_Transfusion.md
+
+##### Mechanism**Blood loss → reduced venous return → low preload → reduced stroke volume → decreased CO and oxygen delivery.** Reflex tachycardia and vasoconstriction may maintain SBP initially; a normal initial BP **does not exclude severe blood loss**.
+
+##### Visible vs concealed loss- Visible: external wound, GI bleeding, operative field, surgical drains.
+- Concealed: **chest, abdomen, retroperitoneum/pelvis, long-bone fractures**, and occasionally large soft-tissue spaces.
+- **One on the floor, four more** is a classic teaching reminder to search external losses plus chest, abdomen, pelvis and long bones. Exact volumes depend on injury.
+
+##### Hemorrhage by timing| Type | When | Mechanism |
+|---|---|---|
+| **Primary** | At time of injury/operation | Direct vessel damage |
+| **Reactionary** | Usually first 24 h | Dislodged clot, slipped ligature, normalization of BP |
+| **Secondary** | Days later | Infection/erosion and vessel-wall breakdown |
+
+##### Hemorrhagic shock classes (classic ATLS teaching framework)
+| Class | Estimated loss of adult blood volume | Typical findings | Meaning |
+|---|---|---|---|
+| **I** | <15% | Minimal pulse/BP change | Compensated |
+| **II** | 15–30% | Tachycardia, narrowing pulse pressure, anxiety | Progressive loss |
+| **III** | 30–40% | Marked tachycardia/tachypnea, low urine output, hypotension/confusion | Serious compromise |
+| **IV** | >40% | Profound hypotension, altered consciousness, very poor perfusion | Life-threatening |
+
+- A person’s absolute volume lost depends on **their circulating blood volume**, not a fixed 500-mL increment. WOR/Doctut tables use differing numbers; the **percentage-based classes are the defensible core**.
+- Beta-blockade, pregnancy, athletic baseline and elderly physiology can blunt classic tachycardia.
+
+##### Resuscitation: key concepts- **Stop bleeding immediately:** pressure, tourniquet when appropriate, hemostatic dressing, pelvic binder, surgery/interventional radiology.
+- Obtain **two large-bore peripheral IVs** (e.g., 14–18 G when feasible) or rapid IO access; do not delay resuscitation for a central line.
+- Use warmed fluids/blood; prevent **hypothermia**; minimize excessive crystalloids in significant hemorrhage.
+- **Damage-control resuscitation (DCR):** rapid hemorrhage control, balanced blood components, hemorrhage/coagulopathy treatment, temperature and calcium management, avoid unnecessary dilution.
+- **Permissive hypotension:** a temporizing strategy in selected uncontrolled hemorrhage **without** TBI/critical contraindications; not suitable when brain/spinal cord perfusion must be protected.
+- **Tranexamic acid (TXA):** WOR describes **1 g IV over 10 min then 1 g over 8 h** for selected trauma patients at risk of major hemorrhage; timing is critical in source trial material. Do not substitute the contradictory Doctut 2+2 g text as a standard trauma regimen.
+
+##### Fluid-response categories- **Rapid responder:** perfusion improves and remains improved after resuscitation; continue search for injury.
+- **Transient responder:** improves then deteriorates → likely ongoing loss.
+- **Nonresponder:** little response → massive ongoing bleeding, inadequate intervention or another shock mechanism; urgent definitive control.
+
+##### Endpoints of resuscitation- Improvement in mental state, skin perfusion/capillary refill, pulse/BP and **urine output** (often goal ≥0.5 mL/kg/h in adults).
+- **Serial lactate/base deficit** and trends in hemoglobin, coagulation/fibrinogen, ionized calcium and temperature.
+- **Shock index = HR / SBP**; source convention **>0.9** suggests increased risk, but interpretation is context-sensitive.
+- **Modified shock index = HR / MAP**; a high value flags compromised hemodynamics, not a stand-alone diagnostic criterion.
+- **CVP is not a reliable stand-alone measure of fluid responsiveness**; treat filling-pressure tables as physiologic patterns, not fluid-order algorithms.
+
+#### 4. Blood groups, components and transfusion logic
+
+> **Source:** Surgery ZIP — 05_Shock_Sepsis_Transfusion.md
+
+##### Blood products
+| Product | Primary purpose | Major exam note |
+|---|---|---|
+| **Packed RBCs** | Restore oxygen-carrying capacity | Not a substitute for correcting iron deficiency in stable nonbleeding patients |
+| **Platelet concentrate** | Treat/prevent clinically important thrombocytopenic bleeding | Assess platelet function, count and procedure |
+| **Fresh frozen plasma (FFP)** | Replace multiple coagulation factors | Not a generic volume expander |
+| **Cryoprecipitate** | Fibrinogen-rich product (also VIII, XIII and vWF) | Low fibrinogen in major hemorrhage/DIC |
+| **Whole blood** | RBC, plasma and platelet components in appropriate systems | May be used in some trauma protocols |
+| **Autologous blood / cell salvage** | Reduce exposure to donor blood in selected operations | Depends on contamination, equipment, protocol |
+
+- **Before transfusion:** confirm identity, component, indication and compatibility; document informed consent where possible, baseline vitals, and observe for adverse response.
+- **Crossmatch** for RBC transfusion; emergency uncrossmatched units require controlled protocol and proper follow-up.
+- **RBC threshold:** WOR offers simplistic <6, 6–8, >8 g/dL statements. A transfusion decision depends on **active bleeding, shock, symptoms, cardiac disease and physiological context**; a rigid single hemoglobin cutoff is insufficient.
+
+##### Massive transfusion- Classical definition: **>10 units RBC over 24 h**, **>4 units RBC in 1 h** with ongoing need, or replacing approximately one blood volume (definitions differ).
+- **Balanced resuscitation:** commonly described using RBC:plasma:platelet strategies around **1:1:1** as a simplified teaching ratio; use local massive-transfusion protocol and laboratory-guided correction.
+- **Complications:** hypothermia, dilutional/consumptive coagulopathy, hypocalcemia (**citrate binds Ca²⁺**), hypomagnesemia, potassium shifts, acid–base disturbances, pulmonary complications and volume overload.
+
+#### 5. Transfusion reactions — high-yield distinctions
+
+> **Source:** Surgery ZIP — 05_Shock_Sepsis_Transfusion.md
+
+| Reaction | Mechanism | Clinical pattern | First response concept |
+|---|---|---|---|
+| **Acute hemolytic** | Most often ABO incompatibility; complement activation | Fever, chills, back/flank pain, hypotension, dark urine, DIC/AKI | **Stop transfusion**, support ABC/circulation, notify blood bank and investigate |
+| **Febrile nonhemolytic** | Cytokines / recipient response to donor leukocytes | Fever/rigor without hemolysis | Exclude serious reaction first; leukoreduction reduces risk |
+| **Allergic (mild)** | Reaction to donor plasma proteins | Pruritus/urticaria | Stop/assess; symptom treatment after serious causes excluded |
+| **Anaphylactic** | Severe hypersensitivity, occasionally IgA-related | Bronchospasm, airway edema, severe hypotension | Stop transfusion, **IM epinephrine** and resuscitation |
+| **TRALI** | Inflammatory noncardiogenic capillary leak, sometimes donor HLA/HNA antibodies | Acute hypoxemia and bilateral infiltrates generally within **6 h** | Stop; oxygen/respiratory support |
+| **TACO** | Transfusion-associated **circulatory overload** | Dyspnea, pulmonary edema, raised filling pressures/volume signs | Stop/slow; upright/support breathing, diuresis where appropriate |
+| **Septic transfusion reaction** | Bacterial contamination | Abrupt fever, rigor, severe shock | Stop, cultures, antibiotics/support |
+| **Delayed hemolytic** | Anamnestic alloantibody response | Days later falling Hb, jaundice | Investigate antibody, manage anemia |
+
+##### TRALI vs TACO
+| Feature | TRALI | TACO |
+|---|---|---|
+| Mechanism | Inflammatory lung injury | Hydrostatic edema/volume overload |
+| JVP/volume signs | Not typically elevated from overload | Often elevated |
+| BNP and fluid balance | Not reliable alone | May support overload |
+| CXR | Bilateral infiltrates | Bilateral edema ± cardiomegaly/effusions |
+| Main treatment | Respiratory support | Respiratory support + judicious diuresis |
+
+**Exam caution:** WOR describes a normal CXR for TACO; that is inconsistent with pulmonary edema presentations and should **not** be memorized as a defining property.
+
+<!-- SURGERY_GI_ZIP_CONTENT_END:18-18-2 -->
 ## 18.3 Jaundice & Liver Function Tests (LFTs)
 
 Jaundice (icterus) is the yellow discoloration of the sclerae, skin, and mucous membranes caused by tissue deposition of bilirubin when total serum bilirubin levels exceed **2.0–2.5 mg/dL** (normal total bilirubin: **0.2–1.2 mg/dL**). Scleral icterus is detected earliest under natural light due to the high elastin content of the sclera, which has a high binding affinity for bilirubin.

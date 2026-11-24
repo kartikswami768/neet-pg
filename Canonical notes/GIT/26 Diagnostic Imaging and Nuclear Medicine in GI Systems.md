@@ -86,6 +86,56 @@ flowchart TD
 
 ---
 
+<!-- SURGERY_GI_ZIP_CONTENT_START:26-26-2 -->
+
+### Additional surgical details integrated from the Surgery notes
+
+> [!info] Provenance and scope
+> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
+
+#### 3. Liver imaging and evaluation of a focal lesion
+
+> **Source:** Surgery ZIP — 16_Liver_and_Portal_Hypertension.md
+
+| Modality | Main surgical role |
+|---|---|
+| **Ultrasound + Doppler** | First look for cyst, abscess, biliary dilatation, vascular patency and portal flow |
+| **Triple-/multiphase contrast CT** | Characterize arterial vs portal/delayed enhancement, map HCC/metastases, plan resection; highlighted as investigation of choice (IOC) in WOR |
+| **MRI / liver-specific sequences** | Further characterize indeterminate benign/malignant nodules and biliary anatomy |
+| **MRCP** | Noninvasive map of biliary tree; crucial for suspected cystobiliary communication, bile duct injury or strictures |
+| **HIDA/hepatobiliary scan** | Traces hepatocyte excretion and bile movement; functional evaluation of biliary transit/leak/acute cholecystitis |
+| **Tc-99m sulfur colloid** | Reticuloendothelial/Kupffer-cell uptake; **FNH often demonstrates uptake** unlike many lesions |
+| **Angiography / interventional radiology** | Map or manage vascular bleeding, embolize liver lesions or perform TACE/TARE |
+
+**Triphasic HCC pattern (WOR/Robbins):** **arterial-phase hyperenhancement** followed by **washout** in portal or delayed phase in an appropriate at-risk liver. **LI-RADS** provides structured categorization of imaging findings; AFP supports evaluation but does not independently prove or exclude HCC.
+
+#### 4. Imaging in trauma
+
+> **Source:** Surgery ZIP — 06_Trauma_Surgery.md
+
+##### FAST and eFAST- **FAST**: bedside focused ultrasound for **free fluid** in pericardial and peritoneal spaces.
+- Classic views: **subxiphoid/pericardial, RUQ (Morrison pouch), LUQ (splenorenal), pelvis (retrovesical/pouch of Douglas)**.
+- **eFAST adds pleural evaluation** for pneumothorax/hemothorax.
+- **Pneumothorax on lung US:** absent lung sliding; **barcode/stratosphere sign on M-mode** instead of normal seashore sign; interpret in full clinical context.
+- **Limitations:** a negative FAST does not exclude early/low-volume bleed, retroperitoneal injury, hollow viscus injury or some penetrating injuries.
+
+##### Imaging choice| Patient | Typical first decision |
+|---|---|
+| **Hemodynamically unstable with suspected internal bleed** | Resuscitation + bedside eFAST and immediate source control; avoid delay for CT if unstable |
+| **Stable significant blunt abdominal trauma** | **Contrast-enhanced CT** to grade organ injury and detect vascular injury |
+| **Head injury with red flags** | **Noncontrast CT head** |
+| **Possible cervical spine injury** | Apply appropriate clinical clearance criteria; imaging according to age/risk and protocol |
+| **Stable major trauma with multiple suspected injuries** | Targeted/whole-body CT in selected patients, not automatically everyone |
+
+##### NEXUS low-risk cervical clearance (all criteria needed)- No posterior **midline cervical tenderness**.
+- No **focal neurologic deficit**.
+- Normal level of alertness.
+- No evidence of intoxication.
+- No painful distracting injury.
+
+**Important:** the N-E-X-U-S letter expansion given in one revision chart is only a memory aid, **not the formal criterion list**. Canadian C-spine Rule is an alternative clinical decision tool when applicable.
+
+<!-- SURGERY_GI_ZIP_CONTENT_END:26-26-2 -->
 ## 26.3 Nuclear Medicine Applications
 
 ### 1. Cholescintigraphy (HIDA Scan)
