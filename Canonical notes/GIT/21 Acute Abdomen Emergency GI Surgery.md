@@ -25,37 +25,8 @@ An acute perforated viscus represents a catastrophic surgical emergency resultin
 **Valentino syndrome**
 Perforated duodenal contents track toward the right iliac fossa and mimic acute appendicitis.
 
-**Definition**
-Acute abdomen describes severe abdominal symptoms requiring prompt assessment for a potentially urgent intra-abdominal process.
 
-**Important surgical causes**
-- Perforated hollow viscus.
-- Acute appendicitis.
-- Intestinal obstruction.
-- Strangulated hernia.
-- Acute mesenteric ischemia.
-- Bowel volvulus.
-- Intra-abdominal abscess.
-
-**Clinical assessment**
-- History: onset, progression, site, migration and character of pain.
-- Associated vomiting, distension, bowel habits and bleeding.
-- Vital signs and hemodynamic status.
-- Abdominal inspection, palpation, percussion and auscultation.
-- Signs of peritoneal irritation or shock.
-
-**Peritonitis**
-**Localized:** inflammation confined near the pathological organ.
-
-**Generalized:** widespread peritoneal contamination/inflammation.
-
-Typical findings:
-- Involuntary guarding and rigidity.
-- Rebound tenderness.
-- Pain aggravated by movement.
-- Ileus and reduced bowel sounds.
-- Fever, tachycardia or shock.
-
+- Peritonitis may be **localized** near the diseased organ or **generalized** after widespread contamination.
 
 ---
 
@@ -267,137 +238,33 @@ Intestinal obstruction occurs when the normal flow of luminal contents is mechan
 
 **Key radiographic distinction:** In small-bowel obstruction, valvulae conniventes (plicae circulares) traverse the full width of the bowel lumen and the dilated loops are usually central. In large-bowel obstruction, haustra usually do not cross the entire lumen and the dilated colon is typically peripheral.
 
-**Definition**
-Rotation of stomach causing obstruction and potentially vascular compromise.
 
-**Types**
-| Type | Axis |
-|---|---|
-| Organoaxial | Along longitudinal line between cardia and pylorus |
-| Mesenteroaxial | Around transverse axis |
+**Progression and strangulation**
+- Mechanical obstruction causes proximal distension → increased luminal pressure → impaired venous/lymphatic outflow → bowel wall edema. Prolonged compromise may progress to ischemia, necrosis and perforation.
+- Cardinal features: colicky pain, vomiting, distension and obstipation.
 
-Organoaxial volvulus is classically associated with a diaphragmatic/paraesophageal hernia.
-
-**Borchardt triad**
-1. Severe epigastric pain/distension.
-2. Unproductive retching.
-3. Failure to pass a nasogastric tube.
-
-**Definition**
-Failure of normal passage of intestinal contents, due either to mechanical blockage or functional impairment.
-
-**Classification**
-**Mechanical**
-- Simple obstruction.
-- Closed-loop obstruction.
-- Strangulated obstruction.
-
-**Functional**
-- Paralytic ileus.
-- Intestinal pseudo-obstruction.
-
-**By location**
-- Small bowel.
-- Large bowel.
-
-**By extent**
-- Partial.
-- Complete.
-
-**Pathophysiology**
-Mechanical blockage → bowel dilatation proximal to obstruction → increased intraluminal pressure → impaired venous and lymphatic drainage → bowel wall edema.
-
-If vascular compromise progresses → arterial insufficiency → ischemia → necrosis → perforation → sepsis.
-
-**Simple versus strangulated obstruction**
 | Feature | Simple obstruction | Strangulated obstruction |
 |---|---|---|
-| Blood supply | Preserved | Compromised |
-| Pain | Intermittent/colicky | May become continuous and severe |
-| Peritonitis | Usually absent initially | May occur |
-| Bowel wall | Viable | Ischemic or gangrenous |
-| Management | Selected conservative treatment | Urgent operative assessment/source control |
+| Blood flow | Initially preserved | Compromised |
+| Pain | Usually intermittent/colicky | May become continuous and severe |
+| Peritoneal signs | Generally absent initially | May occur with ischemia |
+| Management | Selected conservative treatment | Urgent surgical assessment |
 
-**Cardinal symptoms**
-1. Colicky abdominal pain.
-2. Vomiting.
-3. Abdominal distension.
-4. Obstipation.
+**Diagnostic imaging beyond plain radiography**
+- Contrast-enhanced CT identifies the transition point, possible etiology, closed-loop obstruction, altered enhancement, free fluid and pneumatosis.
 
-**Small versus large bowel obstruction**
-| Feature | SBO | LBO |
-|---|---|---|
-| Common causes | Adhesions, hernias, Crohn stricture | Colorectal cancer, volvulus, diverticular stricture |
-| Vomiting | Earlier | Later |
-| Distension | Variable | Often marked |
-| Bowel loops | Usually central | Usually peripheral |
-| Radiographic folds | Valvulae conniventes cross entire lumen | Haustra do not cross entire lumen |
-| Typical dilated diameter | Small bowel >3 cm | Colon >6 cm; cecum >9 cm |
+**Adhesive SBO**
+- Most commonly follows abdominal surgery; prior inflammation, peritonitis, Crohn disease or pelvic disease may also contribute.
+- Fibrous bands tether or kink mobile bowel loops, sometimes causing closed-loop obstruction.
 
-**Imaging**
-**Plain abdominal X-ray**
-- Multiple air-fluid levels.
-- Step-ladder pattern.
-- Central dilated small bowel.
-- Peripheral dilated colon.
+**Volvulus**
+- Twisting around the mesenteric axis can obstruct the bowel and compromise vascular supply.
+- **Sigmoid volvulus:** associated with redundant colon/chronic constipation; imaging may show a coffee-bean or bent inner-tube sign and bird-beak tapering.
+- **Cecal volvulus:** displaced dilated cecum, sometimes into LUQ; endoscopic reduction is less reliable and surgery is commonly required.
 
-**Contrast-enhanced CT**
-- Identifies transition point and cause.
-- Assesses bowel wall enhancement.
-- Detects closed-loop obstruction and ischemic changes.
-- May reveal pneumatosis or free fluid.
-
-**Etiology**
-Most frequently due to previous intra-abdominal surgery.
-
-Other causes of adhesions:
-- Previous peritonitis.
-- Inflammatory bowel disease.
-- Pelvic inflammatory disease.
-- Abdominal tuberculosis.
-- Endometriosis.
-
-**Mechanism**
-Fibrous bands tether bowel loops or create fixed points around which bowel can kink.
-
-**Definition**
-Rotation of bowel around its mesenteric axis, producing obstruction and potentially vascular compromise.
-
-**Sigmoid volvulus**
-Risk factors:
-- Redundant sigmoid colon.
-- Long/narrow mesenteric attachment.
-- Chronic constipation.
-- Older or institutionalized patients.
-- Conditions associated with reduced colonic motility.
-
-**Imaging signs**
-- Coffee-bean sign.
-- Bent inner-tube appearance.
-- Bird-beak narrowing on contrast study.
-
-**Cecal volvulus**
-- Frequently displaced toward left upper abdomen.
-- May involve rotation or bascule configuration.
-- Usually managed surgically because endoscopic reduction is less reliable.
-
-**Definition**
-Functional failure of intestinal propulsion without a mechanical obstruction.
-
-**Causes**
-- Postoperative intestinal inhibition.
-- Peritonitis.
-- Hypokalemia.
-- Opioids and other drugs.
-- Severe systemic illness.
-- Electrolyte disturbances.
-
-**Clinical findings**
-- Abdominal distension.
-- Nausea and vomiting.
-- Reduced bowel sounds.
-- Diffuse bowel dilatation without an obvious mechanical transition point.
-
+**Paralytic ileus (distinguish from mechanical obstruction)**
+- Functional failure of propulsion without a mechanical transition point, often postoperative or due to peritonitis, hypokalemia, opioids or systemic illness.
+- Diffuse distension and reduced bowel sounds are typical; management addresses the cause.
 
 ---
 

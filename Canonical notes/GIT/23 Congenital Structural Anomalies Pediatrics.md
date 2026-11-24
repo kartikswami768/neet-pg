@@ -25,22 +25,6 @@ flowchart TD
     D -->|Postnatal Feeding| G[Coughing, Choking, Cyanosis, Gastric Distension]
 ```
 
-**Associated anomalies: VACTERL**
-- **V:** Vertebral defects.
-- **A:** Anorectal malformations.
-- **C:** Cardiac anomalies.
-- **TE:** Tracheoesophageal fistula/atresia.
-- **R:** Renal anomalies.
-- **L:** Limb anomalies.
-
-**Evaluation and treatment**
-- Radiography demonstrates a coiled tube in proximal atresia.
-- Bronchoscopy/esophagoscopy assists in defining selected fistulas.
-- Waterston classification is based on birth weight and associated pneumonia/anomalies.
-- Maintain aspiration precautions and decompress the upper pouch.
-- Definitive management usually involves fistula division and esophageal anastomosis.
-- Long-gap atresia may require staged reconstruction.
-
 
 ### Anatomical Classification (Vogt & Gross Classification)
 * **Gross Type C / Vogt IIIb (85% - Most Common)**: Blind proximal esophageal atresia with a fistulous connection between the distal esophageal segment and the posterior wall of the lower trachea or carina.
@@ -48,15 +32,6 @@ flowchart TD
 * **Gross Type E / Vogt N/A (4%)**: Isolated Tracheoesophageal Fistula without EA ("H-type" or "N-type" Fistula). Patent esophagus allowing normal passage of tubes, presenting later in infancy with recurrent aspiration pneumonia during feeds and paroxysmal coughing.
 * **Gross Type B (1%)**: Proximal TEF with distal EA.
 * **Gross Type D (1%)**: Double TEF (both proximal and distal esophageal segments communicate with the trachea).
-
-**Types**
-| Type | Anatomical defect |
-|---|---|
-| A | Esophageal atresia without fistula |
-| B | Proximal TEF with distal esophageal atresia |
-| C | Proximal esophageal atresia with distal TEF — **most common** |
-| D | Proximal and distal TEF |
-| E | Isolated H-type TEF without atresia |
 
 
 ### Associated Congenital Anomalies
@@ -77,20 +52,6 @@ Over 50% of infants with TEF/EA have associated congenital malformations, most n
   * Presence of bowel gas in the abdomen confirms a distal fistula (Type C or D).
   * A completely gasless, scaphoid abdomen confirms isolated esophageal atresia (Type A) or proximal fistula only (Type B).
   * *Contraindication*: Barium swallow is strictly contraindicated due to the extreme risk of massive barium aspiration pneumonitis.
-
-- Excessive salivation and drooling.
-- Choking or respiratory distress during feeding.
-- Failure to pass a nasogastric/orogastric tube.
-- Coiled tube in the upper esophageal pouch.
-- Abdominal distension when a distal TEF permits air into the stomach.
-
-- Distal TEF lets air pass from trachea into stomach → **gas-filled abdomen**; pure atresia typically yields **gasless abdomen**.
-- Most frequent classic variant: **EA with distal TEF (Gross type C)**. Pure EA (type A), proximal TEF, double fistula and isolated H-type TEF form the remainder.
-- Associated malformations: **VACTERL**—vertebral, anal, cardiac, tracheoesophageal, renal and limb abnormalities (not all present in every child).
-
-- **Before surgery:** stop oral feeds, elevate head, suction upper pouch, manage aspiration/respiratory status; avoid blindly forcing tube.
-- **Definitive:** ligate/divide fistula and restore esophageal continuity when anatomically feasible; long-gap EA may require staged repair.
-- Complications: anastomotic leak/stricture, recurrent fistula, dysmotility, GERD, tracheomalacia and aspiration.
 
 
 ### Management & Surgical Repair

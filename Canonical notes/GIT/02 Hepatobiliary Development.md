@@ -74,7 +74,6 @@ The biliary system develops concurrently from the caudal portion of the hepatic 
 - Classical symptom triad: **pain + jaundice + palpable mass**, though not all are present.
 - Complications: **cholangitis, stones, pancreatitis, stricture, cholangiocarcinoma**.
 - **MRCP** is central for anatomy. **Central dot sign** supports Caroli disease on cross-sectional imaging (portal radicle within a dilated duct).
-- WOR’s blanket “Kasai for type IVb” is inconsistent with the anatomical goal of choledochal cyst excision; do not automatically adopt that table as a treatment algorithm (see appendix).
 
 ---
 
