@@ -14,6 +14,29 @@ tags:
 ### Oral Cavity Anatomy
 The oral cavity is divided into the **oral vestibule** (space between cheeks/lips and teeth) and the **oral cavity proper** (bounded anteriorly/laterally by dental arches, superiorly by hard/soft palate, inferiorly by tongue/mylohyoid muscle).
 
+**Regions**
+- **Oropharynx is distinct**: tonsil, base of tongue/posterior third, soft palate and posterior pharyngeal wall.
+- This matters because **HPV-related oropharyngeal SCC** has different epidemiology and staging from most tobacco/betel-associated **oral cavity SCC**.
+- Indian oral cavity cancer patterns often involve **gingivobuccal sulcus/buccal mucosa** due to smokeless tobacco/areca nut exposure; lateral tongue is a classic high-frequency site in many broader series.
+- Oral tongue intrinsic muscles shape tongue; **hypoglossal nerve (XII)** supplies most tongue motor function; lingual nerve carries anterior-tongue general sensation and chorda tympani carries taste.
+- Floor of mouth anatomy links surgical resection to **Wharton duct**, **lingual nerve**, **sublingual gland** and **submandibular gland**.
+
+- Anterior tongue and floor-of-mouth lesions can drain bilaterally, especially when close to midline.
+
+**Neck-node levels**
+| Level | Anatomical group | Clinical relevance |
+|---|---|---|
+| IA | Submental | Anterior floor of mouth/lip |
+| IB | Submandibular | Oral cavity |
+| II | Upper jugular | Oral/oropharyngeal and other head–neck primaries |
+| III | Mid-jugular | Progressive cervical nodal spread |
+| IV | Lower jugular | More inferior cervical drainage |
+| V | Posterior triangle | Selected advanced lateral neck disease |
+| VI | Central compartment | Thyroid, laryngeal/tracheoesophageal area |
+
+**Extranodal extension (ENE):** cancer penetrating lymph-node capsule into surrounding soft tissue; adverse prognostic feature influencing adjuvant therapy.
+
+
 ### Anatomy of the Tongue
 The tongue is a muscular organ divided into an anterior $2/3$ (oral part) and posterior $1/3$ (pharyngeal part) by the V-shaped **sulcus terminalis**, at the apex of which lies the **foramen cecum** (site of embryological thyroid invagination).
 
@@ -39,64 +62,20 @@ The tongue is a muscular organ divided into an anterior $2/3$ (oral part) and po
 | **Submandibular Gland** | Mixed (Mucoserous) | **Wharton's Duct** (opens on papilla lateral to lingual frenulum) | Facial (CN VII) $\rightarrow$ Chorda Tympani $\rightarrow$ **Submandibular Ganglion** $\rightarrow$ Glandular branches |
 | **Sublingual Gland** | Predominantly Mucous | Ducts of Rivinus / **Bartholin's Duct** (opens into sublingual fold) | Facial (CN VII) $\rightarrow$ Chorda Tympani $\rightarrow$ **Submandibular Ganglion** $\rightarrow$ Sublingual branches |
 
----
-
-<!-- SURGERY_GI_ZIP_CONTENT_START:03-3-1 -->
-
-### Additional surgical details integrated from the Surgery notes
-
-> [!info] Provenance and scope
-> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
-
-#### 1. Oral cavity anatomy and lymphatic drainage
-
-> **Source:** Surgery ZIP — 11_Oral_Salivary_and_Neck_Surgery.md
-
-##### Regions- **Oral cavity:** lips, anterior two thirds of tongue, floor of mouth, buccal mucosa, alveolar ridge/gingiva, retromolar trigone, hard palate.
-- **Oropharynx is distinct**: tonsil, base of tongue/posterior third, soft palate and posterior pharyngeal wall.
-- This matters because **HPV-related oropharyngeal SCC** has different epidemiology and staging from most tobacco/betel-associated **oral cavity SCC**.
-- Indian oral cavity cancer patterns often involve **gingivobuccal sulcus/buccal mucosa** due to smokeless tobacco/areca nut exposure; lateral tongue is a classic high-frequency site in many broader series.
-- Oral tongue intrinsic muscles shape tongue; **hypoglossal nerve (XII)** supplies most tongue motor function; lingual nerve carries anterior-tongue general sensation and chorda tympani carries taste.
-- Floor of mouth anatomy links surgical resection to **Wharton duct**, **lingual nerve**, **sublingual gland** and **submandibular gland**.
-
-##### Regional nodes- Oral cavity primarily drains to **level I** (submental IA/submandibular IB), **level II**, **level III**, with deeper/more posterior drainage as site and stage warrant.
-- Anterior tongue and floor-of-mouth lesions can drain bilaterally, especially when close to midline.
-
-##### Neck-node levels
-| Level | Anatomical group | Clinical relevance |
-|---|---|---|
-| IA | Submental | Anterior floor of mouth/lip |
-| IB | Submandibular | Oral cavity |
-| II | Upper jugular | Oral/oropharyngeal and other head–neck primaries |
-| III | Mid-jugular | Progressive cervical nodal spread |
-| IV | Lower jugular | More inferior cervical drainage |
-| V | Posterior triangle | Selected advanced lateral neck disease |
-| VI | Central compartment | Thyroid, laryngeal/tracheoesophageal area |
-
-**Extranodal extension (ENE):** cancer penetrating lymph-node capsule into surrounding soft tissue; adverse prognostic feature influencing adjuvant therapy.
-
-#### 5. Salivary gland anatomy and physiology
-
-> **Source:** Surgery ZIP — 11_Oral_Salivary_and_Neck_Surgery.md
-
-##### The major glands
-| Gland | Secretion | Duct | Clinically important relation |
-|---|---|---|---|
-| **Parotid** | Mostly **serous** | **Stensen duct**, opening opposite upper second molar | Facial nerve **VII** traverses gland; external carotid and retromandibular vein |
-| **Submandibular** | Mixed, predominantly serous | **Wharton duct**, to sublingual caruncle | Lingual and hypoglossal nerves; long ascending duct predisposes to stones |
-| **Sublingual** | Mixed, predominantly mucous | Multiple **Rivinus ducts**, sometimes major Bartholin duct | Floor-of-mouth mucous extravasation = **ranula** |
-| Minor salivary glands | Mostly mucous, except some serous groups | Numerous small ducts | Palate is important site for minor-gland tumors |
-
+**The major glands**
 - Saliva lubricates oral mucosa and contains antimicrobial factors and digestive enzymes.
 - Parotid superficial versus deep lobe is a **surgical relationship to facial nerve**, not an isolated gland duct division.
 - **Stafne bone cavity** = lingual mandibular bony depression often associated with salivary tissue near mandibular angle; radiologic mimic of cyst.
 
-##### Duct physiology and histology- **Acini** produce primary secretion → intercalated ducts → striated ducts → excretory ducts.
+**Duct physiology and histology**
 - **Myoepithelial cells** assist expulsion of secretions.
 - Serous acini stain darker on H&E due to enzyme granules; mucous acini appear pale, highlighting mucin with PAS/Alcian blue in relevant context.
 - Parotid secretory epithelium: largely serous; submandibular mixed; sublingual more mucous.
 
-<!-- SURGERY_GI_ZIP_CONTENT_END:03-3-1 -->
+
+---
+
+
 ## 3.2 Esophagus
 
 The esophagus is a muscular tube (~25 cm long) extending from the cricoid cartilage ($C_6$ level) to the cardiac orifice of the stomach ($T_{11}$ level).
@@ -105,6 +84,18 @@ The esophagus is a muscular tube (~25 cm long) extending from the cricoid cartil
 1. **Cervical Esophagus**: Extends from $C_6$ to $T_1$ (thoracic inlet).
 2. **Thoracic Esophagus**: Extends from $T_1$ to $T_{10}$ (passes through esophageal hiatus of diaphragm).
 3. **Abdominal Esophagus**: Short segment (~1.25 cm) extending from $T_{10}$ to $T_{11}$ (cardia).
+
+**Basic anatomy**
+- Esophagus is a muscular tube extending from the **pharyngoesophageal junction (C6)** to the gastroesophageal junction.
+- Pierces the diaphragm at **T10**.
+- Upper third: predominantly striated muscle.
+- Middle third: mixed striated and smooth muscle.
+- Lower third: predominantly smooth muscle.
+- Unlike most of the GI tract, the thoracic esophagus has **no serosal covering**:
+  - Poor containment of perforations.
+  - Greater likelihood of mediastinitis.
+  - Important for tumor spread.
+
 
 ### Four Anatomical Constrictions
 Constrictions are critical clinical sites where swallowed foreign bodies lodge or caustic injuries concentrate [27]:
@@ -115,6 +106,14 @@ Constrictions are critical clinical sites where swallowed foreign bodies lodge o
 | **2nd Constriction** | Crossing of the **Aortic Arch** [27] | **22.5 cm** (9 inches) [27] |
 | **3rd Constriction** | Crossing of the **Left Main Bronchus** | **27.5 cm** (11 inches) [27] |
 | **4th Constriction** | Diaphragmatic hiatus ($T_{10}$ level) | **40 cm** (15 inches) [27] |
+
+**Three major constrictions**
+| Site | Distance from upper incisors | Significance |
+|---|---:|---|
+| Cricopharyngeal junction | 15 cm | Narrowest esophageal constriction; common foreign-body impaction |
+| Aortic arch/left main bronchus | 25 cm | External compression |
+| Diaphragmatic hiatus | 40 cm | Gastroesophageal junction region |
+
 
 ### Neurovascular Supply & Portosystemic Anastomosis
 * **Arterial Supply**: Upper $1/3$ (Inferior thyroid artery); Middle $1/3$ (Thoracic aortic esophageal branches); Lower $1/3$ (Left gastric artery branch) [3, 27].
@@ -130,52 +129,22 @@ flowchart TD
     D --> E[Distal esophageal varices]
 ```
 
----
-
-<!-- SURGERY_GI_ZIP_CONTENT_START:03-3-2 -->
-
-### Additional surgical details integrated from the Surgery notes
-
-> [!info] Provenance and scope
-> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
-
-#### 12.1 Surgical Anatomy
-
-> **Source:** Surgery ZIP — 12_Esophageal_Surgery.md
-
-##### Basic anatomy
-- Esophagus is a muscular tube extending from the **pharyngoesophageal junction (C6)** to the gastroesophageal junction.
-- Pierces the diaphragm at **T10**.
-- Upper third: predominantly striated muscle.
-- Middle third: mixed striated and smooth muscle.
-- Lower third: predominantly smooth muscle.
-- Unlike most of the GI tract, the thoracic esophagus has **no serosal covering**:
-  - Poor containment of perforations.
-  - Greater likelihood of mediastinitis.
-  - Important for tumor spread.
-
-##### Three major constrictions
-| Site | Distance from upper incisors | Significance |
-|---|---:|---|
-| Cricopharyngeal junction | 15 cm | Narrowest esophageal constriction; common foreign-body impaction |
-| Aortic arch/left main bronchus | 25 cm | External compression |
-| Diaphragmatic hiatus | 40 cm | Gastroesophageal junction region |
-
-##### Surgical vascular anatomy
+**Surgical vascular anatomy**
 - Cervical esophagus: inferior thyroid artery branches.
 - Thoracic esophagus: aortic and bronchial branches.
 - Abdominal esophagus: left gastric and inferior phrenic branches.
 - Venous drainage: azygos system, thyroid veins, left gastric vein.
 - Lymphatic drainage is longitudinal, allowing spread beyond the primary tumor region.
 
-##### Nerve supply
+**Nerve supply**
 - Parasympathetic: vagus nerve.
 - Intramural neural control: myenteric (Auerbach) plexus.
 - Inhibitory neurons release **nitric oxide and VIP**, allowing LES relaxation.
 
+
 ---
 
-<!-- SURGERY_GI_ZIP_CONTENT_END:03-3-2 -->
+
 ## 3.3 Stomach
 
 The stomach is a J-shaped muscular organ occupying the epigastric, umbilical, and left hypochondriac regions.
@@ -185,6 +154,14 @@ The stomach is a J-shaped muscular organ occupying the epigastric, umbilical, an
 * **Fundus**: Dome-shaped region above the horizontal line through the cardiac notch.
 * **Body**: Main region between fundus and incisura angularis.
 * **Pyloric Antrum & Canal**: Extends from incisura angularis to the pylorus ($L_1$ level / Transpyloric plane of Addison).
+
+**Vagus nerve**
+- Anterior vagal trunk originates predominantly from the left vagus.
+- Posterior vagal trunk originates predominantly from the right vagus.
+- Nerves of Latarjet supply the stomach and terminate near the pylorus as the **crow's-foot branches**.
+- Hepatic and celiac branches are relevant during vagotomy.
+- The criminal nerve of Grassi is an aberrant posterior vagal branch historically associated with recurrent ulcers after incomplete vagotomy.
+
 
 ### Stomach Bed Relations
 The posterior surface of the stomach rests upon structures forming the **stomach bed** (separated by the lesser sac) [3, 4]:
@@ -208,44 +185,16 @@ The stomach has an abundant arterial anastomotic network derived entirely from t
 * **Greater Curvature**: **Left Gastroepiploic Artery** (branch of splenic artery) [3] and **Right Gastroepiploic Artery** (branch of gastroduodenal artery) [3, 27].
 * **Fundus**: **Short Gastric Arteries** (5 to 7 small branches from splenic artery passing through gastrosplenic ligament) [3, 35].
 
----
-
-<!-- SURGERY_GI_ZIP_CONTENT_START:03-3-3 -->
-
-### Additional surgical details integrated from the Surgery notes
-
-> [!info] Provenance and scope
-> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
-
-#### 13.1 Relevant Surgical Anatomy
-
-> **Source:** Surgery ZIP — 13_Stomach_Duodenum_Bariatric_Surgery.md
-
-##### Vascular supply of the stomach
+**Vascular supply of the stomach**
 | Region | Principal artery |
 |---|---|
-| Lesser curvature | Left and right gastric |
-| Greater curvature | Left and right gastroepiploic |
 | Fundus | Short gastric arteries |
 | Posterior fundus (variable) | Posterior gastric artery |
 
-##### Vagus nerve
-- Anterior vagal trunk originates predominantly from the left vagus.
-- Posterior vagal trunk originates predominantly from the right vagus.
-- Nerves of Latarjet supply the stomach and terminate near the pylorus as the **crow's-foot branches**.
-- Hepatic and celiac branches are relevant during vagotomy.
-- The criminal nerve of Grassi is an aberrant posterior vagal branch historically associated with recurrent ulcers after incomplete vagotomy.
-
-##### Duodenal relations
-- Posterior aspect of the first part: gastroduodenal artery.
-- Anterior aspect of the first part: intraperitoneal surface.
-- Third part: crossed anteriorly by superior mesenteric vessels.
-
-**Clinical correlation:** posterior duodenal ulcer → gastroduodenal arterial bleeding; anterior duodenal ulcer → free perforation.
 
 ---
 
-<!-- SURGERY_GI_ZIP_CONTENT_END:03-3-3 -->
+
 ## 3.4 Small Intestine
 
 Extends from the pylorus to the ileocecal junction (~6 meters long).
@@ -257,6 +206,14 @@ C-shaped loop (~25 cm long) wrapping around the head of the pancreas [22, 32].
 3. **3rd Part (Horizontal - 10 cm)**: Crosses anterior to IVC and aorta at $L_3$ level [4, 7].
    * **Superior Mesenteric Artery (SMA) Syndrome**: Compression of the 3rd part of the duodenum in the acute angle between the Abdominal Aorta and SMA, resulting in post-prandial bilious vomiting.
 4. **4th Part (Ascending - 2.5 cm)**: Terminates at the duodenojejunal (DJ) flexure, suspended by the **Ligament of Treitz** (suspensory muscle of duodenum).
+
+**Duodenal relations**
+- Posterior aspect of the first part: gastroduodenal artery.
+- Anterior aspect of the first part: intraperitoneal surface.
+- Third part: crossed anteriorly by superior mesenteric vessels.
+
+**Clinical correlation:** posterior duodenal ulcer → gastroduodenal arterial bleeding; anterior duodenal ulcer → free perforation.
+
 
 ### Jejunum vs. Ileum Comparison
 
@@ -293,6 +250,33 @@ The root of the small intestinal mesentery (~15 cm long) attaches diagonally acr
 
 Extends from the ileocecal valve to the anus (~1.5 meters long). Distinguished externally by **Teniae Coli** (3 longitudinal muscle bands), **Haustra** (sacculations), and **Epiploic Appendages** (fat-filled peritoneal pouches).
 
+**Arterial supply**
+| Region | Principal arteries |
+|---|---|
+| Cecum and terminal ileum | Ileocolic artery |
+| Ascending colon | Ileocolic/right colic |
+| Transverse colon | Middle colic |
+| Descending colon | Left colic |
+| Sigmoid colon | Sigmoid branches |
+| Upper rectum | Superior rectal artery |
+| Middle/lower rectum | Middle and inferior rectal arteries |
+
+**Important vascular landmarks**
+- Superior mesenteric artery supplies midgut derivatives.
+- Inferior mesenteric artery supplies hindgut derivatives.
+- Marginal artery of Drummond links colonic arterial territories.
+- Griffith point: splenic-flexure watershed zone.
+- Sudeck point: rectosigmoid watershed region.
+
+**Surgical implications**
+- Colorectal resections must preserve adequate perfusion of the remaining bowel.
+- Vascular ligation also determines regional lymph-node clearance.
+- Low pelvic dissection risks autonomic nerve injury.
+- Total mesorectal excision preserves the correct oncological dissection plane.
+
+
+
+
 ### Appendix & Cecum
 * **Cecum**: Blind pouch in right iliac fossa below ileocecal valve opening.
 * **Appendix**: Worm-like diverticulum arising from posteromedial cecal wall ~2 cm below ileocecal valve, where teniae coli converge.
@@ -324,44 +308,7 @@ The pectinate line marks the boundary between the embryonic hindgut (endoderm) a
 
 ---
 
-<!-- SURGERY_GI_ZIP_CONTENT_START:03-3-5 -->
 
-### Additional surgical details integrated from the Surgery notes
-
-> [!info] Provenance and scope
-> Content below was transferred from the supplied Surgery ZIP, placed under this pre-existing GIT topic, and reformatted only at heading level. Existing canonical text remains intact. Source caveats should be interpreted as presented in those notes.
-
-#### 15.1 Surgical Anatomy of Colon and Rectum
-
-> **Source:** Surgery ZIP — 15_Colorectal_Anorectal_Surgery.md
-
-##### Arterial supply
-| Region | Principal arteries |
-|---|---|
-| Cecum and terminal ileum | Ileocolic artery |
-| Ascending colon | Ileocolic/right colic |
-| Transverse colon | Middle colic |
-| Descending colon | Left colic |
-| Sigmoid colon | Sigmoid branches |
-| Upper rectum | Superior rectal artery |
-| Middle/lower rectum | Middle and inferior rectal arteries |
-
-##### Important vascular landmarks
-- Superior mesenteric artery supplies midgut derivatives.
-- Inferior mesenteric artery supplies hindgut derivatives.
-- Marginal artery of Drummond links colonic arterial territories.
-- Griffith point: splenic-flexure watershed zone.
-- Sudeck point: rectosigmoid watershed region.
-
-##### Surgical implications
-- Colorectal resections must preserve adequate perfusion of the remaining bowel.
-- Vascular ligation also determines regional lymph-node clearance.
-- Low pelvic dissection risks autonomic nerve injury.
-- Total mesorectal excision preserves the correct oncological dissection plane.
-
----
-
-<!-- SURGERY_GI_ZIP_CONTENT_END:03-3-5 -->
 ## Index Coverage Checklist & Quality Self-Audit
 
 ### Original Index Subsections Covered

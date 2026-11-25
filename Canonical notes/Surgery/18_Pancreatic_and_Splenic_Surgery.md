@@ -88,12 +88,12 @@ F --> G[Systemic cytokines, capillary leak and organ dysfunction]
 - **Hypocalcemia**: calcium soaps in fat necrosis; metabolic acidosis/raised BUN/hemoconcentration can indicate worse illness.
 
 ### Classical radiographic findings
-| Finding | Interpretation |
-|---|---|
-| **Sentinel loop** | Focal adynamic dilated proximal jejunal loop in upper abdomen |
-| **Colon cut-off sign** | Colonic gas stops at splenic flexure from localized ileus/inflammation |
-| **Gasless abdomen/ileus** | Diffuse bowel hypomotility in severe disease |
-| **CECT** | Edema, collections, necrosis, vascular and other complications |
+| Finding                   | Interpretation                                                                                                              |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **Sentinel loop**         | short, isolated segment of dilated small bowel caused by localized adynamic (paralytic) ileus adjacent to an inflamed organ |
+| **Colon cut-off sign**    | Colonic gas stops at splenic flexure from localized ileus/inflammation                                                      |
+| **Gasless abdomen/ileus** | Diffuse bowel hypomotility in severe disease                                                                                |
+| **CECT**                  | Edema, collections, necrosis, vascular and other complications                                                              |
 
 ## 4. Severity assessment: Ranson, BISAP and revised Atlanta
 
